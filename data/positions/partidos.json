@@ -1,0 +1,2416 @@
+{
+ "AGIR": {
+  "G01": {
+   "v": 4,
+   "conf": "partido",
+   "fonte": "https://planodegoverno2026.com.br/planos/augusto-cury-2890f992.pdf#page=38",
+   "nota": "Plano da coligação Avante/Agir (Augusto Cury) promete controle rigoroso de gastos e carga tributária menor."
+  },
+  "G09": {
+   "v": 4,
+   "conf": "partido",
+   "fonte": "https://planodegoverno2026.com.br/planos/augusto-cury-2890f992.pdf#page=60",
+   "nota": "Plano da coligação Avante/Agir defende reformar o STF 'para garantir maior equilíbrio entre os Poderes'."
+  },
+  "G10": {
+   "v": 2,
+   "conf": "partido",
+   "fonte": "https://planodegoverno2026.com.br/planos/augusto-cury-2890f992.pdf#page=20",
+   "nota": "Plano da coligação Avante/Agir diz que 'o desafio não é controlar as redes, mas educar' os usuários."
+  },
+  "P01": {
+   "v": 4,
+   "conf": "partido",
+   "fonte": "https://planodegoverno2026.com.br/planos/augusto-cury-2890f992.pdf#page=36",
+   "nota": "Plano da coligação Avante/Agir põe o déficit 'próximo de zero' como prioridade, preservando investimentos estratégicos."
+  },
+  "P06": {
+   "v": 4,
+   "conf": "partido",
+   "fonte": "https://planodegoverno2026.com.br/planos/augusto-cury-2890f992.pdf#page=41",
+   "nota": "Plano da coligação Avante/Agir propõe industrializar minerais estratégicos e usar zonas de exportação como política industrial."
+  },
+  "GV06": {
+   "v": 4,
+   "conf": "partido",
+   "fonte": "https://www.otempo.com.br/politica/2026/4/13/escolas-civico-militares-podem-chegar-a-700-desde-que-existam-militares-interessados-diz-simoes",
+   "nota": "Mateus Simões (PSD), candidato da coligação do partido em MG, prevê até 700 escolas cívico-militares no estado."
+  },
+  "S02": {
+   "v": 5,
+   "conf": "partido",
+   "fonte": "https://planodegoverno2026.com.br/planos/augusto-cury-2890f992.pdf#page=64",
+   "nota": "Plano da coligação Avante/Agir propõe mandato de oito anos para os ministros do STF."
+  },
+  "S05": {
+   "v": 5,
+   "conf": "partido",
+   "fonte": "https://planodegoverno2026.com.br/planos/augusto-cury-2890f992.pdf#page=155",
+   "nota": "Plano da coligação Avante/Agir afirma ser contra a reeleição, que considera 'uma das fontes da corrupção'."
+  }
+ },
+ "AVANTE": {
+  "G08": {
+   "v": 4,
+   "conf": "partido",
+   "fonte": "https://dadosabertos.camara.leg.br/api/v2/votacoes/2562149-7/votos",
+   "nota": "Bancada na Câmara votou 6 sim, 0 não na urgência da anistia ao 8/1 (PL 2162/2023) em 17/09/2025."
+  },
+  "G14": {
+   "v": 4,
+   "conf": "partido",
+   "fonte": "https://dadosabertos.camara.leg.br/api/v2/votacoes/2233802-424/orientacoes",
+   "nota": "Orientou sim; bancada na Câmara votou 5 sim, 0 não na PEC 221/2019 (40h semanais e fim da escala 6x1) em 27/05/2026."
+  },
+  "P04": {
+   "v": 4,
+   "conf": "partido",
+   "fonte": "https://dadosabertos.camara.leg.br/api/v2/votacoes/2265124-70/orientacoes",
+   "nota": "Orientou sim; bancada na Câmara votou 5 sim, 1 não no PLP 19/2019 (autonomia do Banco Central) em 10/02/2021."
+  },
+  "GV06": {
+   "v": 4,
+   "conf": "partido",
+   "fonte": "https://www.otempo.com.br/politica/2026/4/13/escolas-civico-militares-podem-chegar-a-700-desde-que-existam-militares-interessados-diz-simoes",
+   "nota": "Mateus Simões (PSD), candidato da coligação do partido em MG, prevê até 700 escolas cívico-militares no estado."
+  },
+  "DF02": {
+   "v": 4,
+   "conf": "partido",
+   "fonte": "https://dadosabertos.camara.leg.br/api/v2/votacoes/2270800-135/votos",
+   "nota": "Bancada na Câmara votou 6 sim, 1 não na PEC 3/2021 (PEC da Blindagem), 1º turno em 16/09/2025."
+  },
+  "DE01": {
+   "v": 2,
+   "conf": "partido",
+   "fonte": "https://mediaserver.almg.gov.br/acervo/463/822/2463822.pdf",
+   "nota": "Bancada na ALMG votou 3 sim, 0 não na PEC 24/2023 (fim do referendo para vender a Copasa) em 24/10/2025."
+  }
+ },
+ "DC": {
+  "G13": {
+   "v": 4,
+   "conf": "partido",
+   "fonte": "https://www.democraciacrista.org.br/programa",
+   "nota": "Programa do partido proclama como doutrina a 'Democracia Cristã' e a defesa da família."
+  },
+  "GV06": {
+   "v": 4,
+   "conf": "partido",
+   "fonte": "https://www.otempo.com.br/politica/2026/4/13/escolas-civico-militares-podem-chegar-a-700-desde-que-existam-militares-interessados-diz-simoes",
+   "nota": "Mateus Simões (PSD), candidato da coligação do partido em MG, prevê até 700 escolas cívico-militares no estado."
+  }
+ },
+ "DEMOCRATA": {
+  "P03": {
+   "v": 3,
+   "conf": "partido",
+   "fonte": "https://planodegoverno2026.com.br/planos/wilson-grassi-6fecb19d.pdf#page=52",
+   "nota": "Plano de 2026 (Wilson Grassi) define posições externas 'caso a caso', por conveniência nacional, 'e não por alinhamento automático'."
+  }
+ },
+ "MDB": {
+  "G06": {
+   "v": 2,
+   "conf": "partido",
+   "fonte": "https://dadosabertos.camara.leg.br/api/v2/votacoes/2428236-50/orientacoes",
+   "nota": "Orientou sim; bancada na Câmara votou 5 sim, 0 não na CCJ, PEC 45/2023 (porte de droga como crime), em 12/06/2024."
+  },
+  "G07": {
+   "v": 2,
+   "conf": "partido",
+   "fonte": "https://dadosabertos.camara.leg.br/api/v2/votacoes/257161-483/votos",
+   "nota": "Bancada na Câmara votou 21 sim, 1 não no PL 2159/2021, que flexibiliza o licenciamento ambiental em 17/07/2025."
+  },
+  "G14": {
+   "v": 4,
+   "conf": "partido",
+   "fonte": "https://dadosabertos.camara.leg.br/api/v2/votacoes/2233802-424/votos",
+   "nota": "Bancada na Câmara votou 32 sim, 2 não na PEC 221/2019 (40h semanais e fim da escala 6x1) em 27/05/2026."
+  },
+  "P04": {
+   "v": 4,
+   "conf": "partido",
+   "fonte": "https://dadosabertos.camara.leg.br/api/v2/votacoes/2265124-70/orientacoes",
+   "nota": "Orientou sim; bancada na Câmara votou 27 sim, 2 não no PLP 19/2019 (autonomia do Banco Central) em 10/02/2021."
+  },
+  "GV04": {
+   "v": 2,
+   "conf": "partido",
+   "fonte": "https://kikacastro.com.br/wp-content/uploads/2026/08/plano-de-governo-final.pdf#page=20",
+   "nota": "Plano de Gabriel Azevedo (MDB-MG) defende política salarial 'responsável e compatível com o espaço fiscal'."
+  },
+  "DF02": {
+   "v": 4,
+   "conf": "partido",
+   "fonte": "https://dadosabertos.camara.leg.br/api/v2/votacoes/2270800-135/votos",
+   "nota": "Bancada na Câmara votou 35 sim, 5 não na PEC 3/2021 (PEC da Blindagem), 1º turno em 16/09/2025."
+  },
+  "DF04": {
+   "v": 4,
+   "conf": "partido",
+   "fonte": "https://dadosabertos.camara.leg.br/api/v2/votacoes/257161-483/votos",
+   "nota": "Bancada na Câmara votou 21 sim, 1 não no PL 2159/2021 (Lei Geral do Licenciamento) em 17/07/2025."
+  },
+  "DF06": {
+   "v": 4,
+   "conf": "partido",
+   "fonte": "https://legis.senado.leg.br/dadosabertos/votacao?dataInicio=2024-02-20&dataFim=2024-02-20",
+   "nota": "Bancada no Senado votou 9 sim, 0 não no PL 2253/2022 (fim da saidinha) em 20/02/2024."
+  },
+  "DE01": {
+   "v": 2,
+   "conf": "partido",
+   "fonte": "https://mediaserver.almg.gov.br/acervo/463/822/2463822.pdf",
+   "nota": "Bancada na ALMG votou 1 sim, 0 não na PEC 24/2023 (fim do referendo para vender a Copasa) em 24/10/2025."
+  }
+ },
+ "MISSÃO": {
+  "G01": {
+   "v": 4,
+   "conf": "partido",
+   "fonte": "https://planodegoverno2026.com.br/planos/renan-santos-f1272756.pdf#page=5",
+   "nota": "Plano de 2026 (Livro Amarelo) adere à contenção de gastos e à austeridade fiscal para abrir espaço a investimentos e redução de impostos."
+  },
+  "G02": {
+   "v": 1,
+   "conf": "partido",
+   "fonte": "https://planodegoverno2026.com.br/planos/renan-santos-f1272756.pdf#page=6",
+   "nota": "Plano de 2026 propõe substituir o Bolsa Família por frentes de trabalho remuneradas para adultos em idade ativa."
+  },
+  "G03": {
+   "v": 2,
+   "conf": "partido",
+   "fonte": "https://planodegoverno2026.com.br/planos/renan-santos-f1272756.pdf#page=5",
+   "nota": "Plano de 2026 critica a ideia de que 'bastava privatizar tudo' como solução simplista."
+  },
+  "G07": {
+   "v": 2,
+   "conf": "partido",
+   "fonte": "https://planodegoverno2026.com.br/planos/renan-santos-f1272756.pdf#page=24",
+   "nota": "Plano de 2026 propõe aplicar plenamente a nova Lei do Licenciamento, com uso ostensivo da Licença Ambiental Especial."
+  },
+  "G08": {
+   "v": 4,
+   "conf": "partido",
+   "fonte": "https://www.itatiaia.com.br/politica/presidente-do-partido-do-mbl-defende-prisao-para-bolsonaro-e-anistia-para-presos",
+   "nota": "Presidente do partido, Renan Santos, disse em 19/11/2025 que os presos do 8/1 'merecem anistia' (Itatiaia)."
+  },
+  "G10": {
+   "v": 2,
+   "conf": "partido",
+   "fonte": "https://planodegoverno2026.com.br/planos/renan-santos-f1272756.pdf#page=29",
+   "nota": "Plano de 2026 prega 'oposição firme' a regulação da mídia e da internet que reduza a liberdade de expressão."
+  },
+  "G11": {
+   "v": 1,
+   "conf": "partido",
+   "fonte": "https://planodegoverno2026.com.br/planos/renan-santos-f1272756.pdf#page=31",
+   "nota": "Plano de 2026 propõe substituir o sistema de cotas por bolsas de mérito."
+  },
+  "G14": {
+   "v": 2,
+   "conf": "partido",
+   "fonte": "https://dadosabertos.camara.leg.br/api/v2/votacoes/2233802-424/orientacoes",
+   "nota": "Orientou não; bancada na Câmara votou 0 sim, 1 não na PEC 221/2019 (40h semanais e fim da escala 6x1) em 27/05/2026."
+  },
+  "P01": {
+   "v": 5,
+   "conf": "partido",
+   "fonte": "https://planodegoverno2026.com.br/planos/renan-santos-f1272756.pdf#page=10",
+   "nota": "Plano de 2026 propõe PEC de ajuste que desindexa benefícios do salário mínimo e desvincula pisos de gasto."
+  },
+  "P04": {
+   "v": 4,
+   "conf": "partido",
+   "fonte": "https://planodegoverno2026.com.br/planos/renan-santos-f1272756.pdf#page=18",
+   "nota": "Plano de 2026 cita a independência do Banco Central como modelo para um novo órgão de gestão pública."
+  },
+  "P06": {
+   "v": 4,
+   "conf": "partido",
+   "fonte": "https://planodegoverno2026.com.br/planos/renan-santos-f1272756.pdf#page=42",
+   "nota": "Plano de 2026 prevê zonas econômicas especiais e linhas do BNDES condicionadas a metas de exportação."
+  },
+  "DF01": {
+   "v": 4,
+   "conf": "partido",
+   "fonte": "https://planodegoverno2026.com.br/planos/renan-santos-f1272756.pdf#page=10",
+   "nota": "Plano de 2026 inclui 'mudanças nas emendas parlamentares' no ajuste e critica o 'clientelismo de emendas'."
+  }
+ },
+ "NOVO": {
+  "G01": {
+   "v": 5,
+   "conf": "partido",
+   "fonte": "https://planodegoverno2026.com.br/planos/zema-de28e2e5.pdf#page=16",
+   "nota": "Plano de 2026 (Zema) propõe metas de redução da carga tributária 'que forcem o corte efetivo de gastos'."
+  },
+  "G02": {
+   "v": 2,
+   "conf": "partido",
+   "fonte": "https://planodegoverno2026.com.br/planos/zema-de28e2e5.pdf#page=15",
+   "nota": "Plano de 2026 propõe unificar programas de transferência e combater fraudes; critica a permanência longa no Bolsa Família."
+  },
+  "G03": {
+   "v": 5,
+   "conf": "partido",
+   "fonte": "https://planodegoverno2026.com.br/planos/zema-de28e2e5.pdf#page=15",
+   "nota": "Plano de 2026 propõe 'privatizar todas as empresas estatais'; bancada orientou sim à privatização dos Correios (2021)."
+  },
+  "G04": {
+   "v": 4,
+   "conf": "partido",
+   "fonte": "https://dadosabertos.camara.leg.br/api/v2/votacoes/2357898-11/orientacoes",
+   "nota": "Orientou sim; bancada na Câmara votou 3 sim, 0 não na urgência do PDL 3/2023 (sustava decreto que restringiu armas) em 06/12/2023."
+  },
+  "G07": {
+   "v": 2,
+   "conf": "partido",
+   "fonte": "https://dadosabertos.camara.leg.br/api/v2/votacoes/257161-483/orientacoes",
+   "nota": "Orientou sim; bancada na Câmara votou 4 sim, 0 não no PL 2159/2021, que flexibiliza o licenciamento ambiental em 17/07/2025."
+  },
+  "G08": {
+   "v": 5,
+   "conf": "partido",
+   "fonte": "https://dadosabertos.camara.leg.br/api/v2/votacoes/2562149-7/orientacoes",
+   "nota": "Orientou sim; bancada na Câmara votou 5 sim, 0 não na urgência da anistia ao 8/1 (PL 2162/2023) em 17/09/2025; Dosimetria: 5 sim, 0 não (09/12/2025)."
+  },
+  "G09": {
+   "v": 5,
+   "conf": "partido",
+   "fonte": "https://planodegoverno2026.com.br/planos/zema-de28e2e5.pdf#page=11",
+   "nota": "Plano de 2026 afirma que 'o STF extrapola suas atribuições constitucionais' atuando em temas do Congresso."
+  },
+  "G10": {
+   "v": 1,
+   "conf": "partido",
+   "fonte": "https://planodegoverno2026.com.br/planos/zema-de28e2e5.pdf#page=74",
+   "nota": "Plano de 2026 propõe vedar a exclusão de perfis e a moderação de opiniões pelas plataformas, inclusive por ordem judicial."
+  },
+  "G11": {
+   "v": 2,
+   "conf": "partido",
+   "fonte": "https://dadosabertos.camara.leg.br/api/v2/votacoes/2462049-9/orientacoes",
+   "nota": "Orientou não; bancada na Câmara votou 0 sim, 3 não na urgência do PL 1958/2021 (cotas em concursos) em 13/11/2024."
+  },
+  "G12": {
+   "v": 5,
+   "conf": "partido",
+   "fonte": "https://planodegoverno2026.com.br/planos/zema-de28e2e5.pdf#page=6",
+   "nota": "Plano de 2026 propõe 'reduzir a maioridade penal para 16 anos ou menos'."
+  },
+  "G14": {
+   "v": 2,
+   "conf": "partido",
+   "fonte": "https://dadosabertos.camara.leg.br/api/v2/votacoes/2233802-424/orientacoes",
+   "nota": "Orientou não; bancada na Câmara votou 0 sim, 4 não na PEC 221/2019 (40h semanais e fim da escala 6x1) em 27/05/2026."
+  },
+  "P01": {
+   "v": 5,
+   "conf": "partido",
+   "fonte": "https://planodegoverno2026.com.br/planos/zema-de28e2e5.pdf#page=18",
+   "nota": "Plano de 2026 propõe 'choque fiscal' para estabilizar a dívida, 'mantendo superávits primários'."
+  },
+  "P03": {
+   "v": 5,
+   "conf": "partido",
+   "fonte": "https://planodegoverno2026.com.br/planos/zema-de28e2e5.pdf#page=37",
+   "nota": "Plano de 2026 propõe 'alinhar o Brasil às democracias' e retirar o país do BRICS."
+  },
+  "P04": {
+   "v": 4,
+   "conf": "partido",
+   "fonte": "https://dadosabertos.camara.leg.br/api/v2/votacoes/2265124-70/orientacoes",
+   "nota": "Orientou sim; bancada na Câmara votou 8 sim, 0 não no PLP 19/2019 (autonomia do Banco Central) em 10/02/2021."
+  },
+  "P05": {
+   "v": 5,
+   "conf": "partido",
+   "fonte": "https://planodegoverno2026.com.br/planos/zema-de28e2e5.pdf#page=34",
+   "nota": "Plano de 2026 propõe que os preços dos combustíveis 'sigam referências de mercado' sem interferência de governos."
+  },
+  "P06": {
+   "v": 1,
+   "conf": "partido",
+   "fonte": "https://planodegoverno2026.com.br/planos/zema-de28e2e5.pdf#page=18",
+   "nota": "Plano de 2026 propõe reduzir o crédito direcionado, inclusive linhas subsidiadas do BNDES, a 'setores escolhidos politicamente'."
+  },
+  "GV06": {
+   "v": 4,
+   "conf": "partido",
+   "fonte": "https://www.otempo.com.br/politica/2026/4/13/escolas-civico-militares-podem-chegar-a-700-desde-que-existam-militares-interessados-diz-simoes",
+   "nota": "Mateus Simões (PSD), candidato da coligação do partido em MG, prevê até 700 escolas cívico-militares no estado."
+  },
+  "S01": {
+   "v": 5,
+   "conf": "partido",
+   "fonte": "https://planodegoverno2026.com.br/planos/zema-de28e2e5.pdf#page=13",
+   "nota": "Plano de 2026 propõe tornar obrigatória a votação de impeachment de ministros do STF quando pedida pela maioria do Senado."
+  },
+  "S03": {
+   "v": 5,
+   "conf": "partido",
+   "fonte": "https://planodegoverno2026.com.br/planos/zema-de28e2e5.pdf#page=12",
+   "nota": "Plano de 2026 propõe 'acabar com as decisões monocráticas' no STF; bancada orientou sim à PEC 8/2021 na CCJ."
+  },
+  "S04": {
+   "v": 5,
+   "conf": "partido",
+   "fonte": "https://planodegoverno2026.com.br/planos/zema-de28e2e5.pdf#page=8",
+   "nota": "Plano de 2026 propõe 'limitar drasticamente o foro privilegiado', mantendo-o apenas para o presidente da República."
+  },
+  "DF01": {
+   "v": 4,
+   "conf": "partido",
+   "fonte": "https://planodegoverno2026.com.br/planos/zema-de28e2e5.pdf#page=14",
+   "nota": "Plano de 2026 propõe rever o crescimento automático das despesas, 'inclusive as emendas parlamentares'."
+  },
+  "DF02": {
+   "v": 2,
+   "conf": "partido",
+   "fonte": "https://dadosabertos.camara.leg.br/api/v2/votacoes/2270800-135/orientacoes",
+   "nota": "Orientou não; bancada na Câmara votou 0 sim, 4 não na PEC 3/2021 (PEC da Blindagem), 1º turno em 16/09/2025."
+  },
+  "DF03": {
+   "v": 4,
+   "conf": "partido",
+   "fonte": "https://dadosabertos.camara.leg.br/api/v2/votacoes/345311-270/orientacoes",
+   "nota": "Orientou sim; bancada na Câmara votou 3 sim, 0 não no PL 490/2007 (marco temporal) em 30/05/2023."
+  },
+  "DF04": {
+   "v": 4,
+   "conf": "partido",
+   "fonte": "https://dadosabertos.camara.leg.br/api/v2/votacoes/257161-483/orientacoes",
+   "nota": "Orientou sim; bancada na Câmara votou 4 sim, 0 não no PL 2159/2021 (Lei Geral do Licenciamento) em 17/07/2025."
+  },
+  "DF05": {
+   "v": 5,
+   "conf": "partido",
+   "fonte": "https://planodegoverno2026.com.br/planos/zema-de28e2e5.pdf#page=75",
+   "nota": "Plano de 2026 propõe 'extinguir o Fundo Partidário e o Fundo Eleitoral', com financiamento privado de campanhas."
+  },
+  "DE01": {
+   "v": 2,
+   "conf": "partido",
+   "fonte": "https://mediaserver.almg.gov.br/acervo/463/822/2463822.pdf",
+   "nota": "Bancada na ALMG votou 2 sim, 0 não na PEC 24/2023 (fim do referendo para vender a Copasa) em 24/10/2025."
+  }
+ },
+ "PCB": {
+  "G01": {
+   "v": 1,
+   "conf": "partido",
+   "fonte": "https://planodegoverno2026.com.br/planos/edmilson-costa-7bade087.pdf#page=2",
+   "nota": "Programa de 2026 (Edmilson Costa) propõe o fim do arcabouço fiscal e critica o corte nos gastos públicos."
+  },
+  "G03": {
+   "v": 1,
+   "conf": "partido",
+   "fonte": "https://planodegoverno2026.com.br/planos/edmilson-costa-7bade087.pdf#page=2",
+   "nota": "Programa de 2026 defende a estatização das áreas estratégicas da economia, como água, energia e saneamento."
+  },
+  "G05": {
+   "v": 5,
+   "conf": "partido",
+   "fonte": "https://planodegoverno2026.com.br/planos/edmilson-costa-7bade087.pdf#page=11",
+   "nota": "Programa de 2026 defende a legalização do aborto, com atendimento na rede pública de saúde."
+  },
+  "G06": {
+   "v": 5,
+   "conf": "partido",
+   "fonte": "https://planodegoverno2026.com.br/planos/edmilson-costa-7bade087.pdf#page=12",
+   "nota": "Programa de 2026 propõe descriminalizar o uso de drogas e legalizar a maconha a curto prazo."
+  },
+  "G07": {
+   "v": 5,
+   "conf": "partido",
+   "fonte": "https://planodegoverno2026.com.br/planos/edmilson-costa-7bade087.pdf#page=9",
+   "nota": "Programa de 2026 propõe expropriar o agronegócio, que aponta como 'o principal destruidor do meio ambiente'."
+  },
+  "G10": {
+   "v": 4,
+   "conf": "partido",
+   "fonte": "https://planodegoverno2026.com.br/planos/edmilson-costa-7bade087.pdf#page=4",
+   "nota": "Programa de 2026 propõe 'forte regulação das Big Techs e redes sociais imperialistas'."
+  },
+  "G11": {
+   "v": 5,
+   "conf": "partido",
+   "fonte": "https://planodegoverno2026.com.br/planos/edmilson-costa-7bade087.pdf#page=7",
+   "nota": "Programa de 2026 propõe ampliar as cotas, com 54% para a população negra."
+  },
+  "G12": {
+   "v": 1,
+   "conf": "partido",
+   "fonte": "https://planodegoverno2026.com.br/planos/edmilson-costa-7bade087.pdf#page=12",
+   "nota": "Programa de 2026 se declara 'contra a redução da maioridade penal'."
+  },
+  "G13": {
+   "v": 2,
+   "conf": "partido",
+   "fonte": "https://planodegoverno2026.com.br/planos/edmilson-costa-7bade087.pdf#page=10",
+   "nota": "Programa de 2026 defende 'uma educação laica'."
+  },
+  "G14": {
+   "v": 5,
+   "conf": "partido",
+   "fonte": "https://planodegoverno2026.com.br/planos/edmilson-costa-7bade087.pdf#page=5",
+   "nota": "Programa de 2026 propõe jornada de 30 horas sem redução de salário e o fim da escala 6x1."
+  },
+  "P01": {
+   "v": 1,
+   "conf": "partido",
+   "fonte": "https://planodegoverno2026.com.br/planos/edmilson-costa-7bade087.pdf#page=4",
+   "nota": "Programa de 2026 propõe revogar o arcabouço fiscal e a LRF e reestruturar a dívida pública."
+  },
+  "P03": {
+   "v": 1,
+   "conf": "partido",
+   "fonte": "https://planodegoverno2026.com.br/planos/edmilson-costa-7bade087.pdf#page=15",
+   "nota": "Programa de 2026 propõe o 'fim de todos os acordos militares com os EUA' e a luta contra o imperialismo."
+  },
+  "P04": {
+   "v": 1,
+   "conf": "partido",
+   "fonte": "https://planodegoverno2026.com.br/planos/edmilson-costa-7bade087.pdf#page=4",
+   "nota": "Programa de 2026 propõe a 'retomada do Banco Central (fim da autonomia)'."
+  },
+  "P06": {
+   "v": 4,
+   "conf": "partido",
+   "fonte": "https://planodegoverno2026.com.br/planos/edmilson-costa-7bade087.pdf#page=4",
+   "nota": "Programa de 2026 prevê 'uma nova política industrial' conduzida pelo Estado."
+  },
+  "GV01": {
+   "v": 1,
+   "conf": "partido",
+   "fonte": "https://kikacastro.com.br/wp-content/uploads/2026/08/programapcb2026.pdf#page=15",
+   "nota": "Programa de Túlio Lopes (PCB-MG) propõe reestatizar Copasa, Cemig e Gasmig e interromper as privatizações."
+  },
+  "GV03": {
+   "v": 4,
+   "conf": "partido",
+   "fonte": "https://kikacastro.com.br/wp-content/uploads/2026/08/programapcb2026.pdf#page=10",
+   "nota": "Programa do PCB-MG propõe revisar concessões de mineração e criar comitês populares de fiscalização nos municípios."
+  },
+  "GV05": {
+   "v": 2,
+   "conf": "partido",
+   "fonte": "https://kikacastro.com.br/wp-content/uploads/2026/08/programapcb2026.pdf#page=25",
+   "nota": "Programa do PCB-MG propõe a suspensão imediata das 'renúncias fiscais ocultas'."
+  },
+  "GV06": {
+   "v": 1,
+   "conf": "partido",
+   "fonte": "https://kikacastro.com.br/wp-content/uploads/2026/08/programapcb2026.pdf#page=16",
+   "nota": "Programa do PCB-MG defende 'a extinção das escolas cívico-militares'."
+  },
+  "DF01": {
+   "v": 5,
+   "conf": "partido",
+   "fonte": "https://planodegoverno2026.com.br/planos/edmilson-costa-7bade087.pdf#page=7",
+   "nota": "Programa de 2026 propõe acabar com 'a política de emendas parlamentares' para custear a tarifa zero."
+  },
+  "DF03": {
+   "v": 1,
+   "conf": "partido",
+   "fonte": "https://planodegoverno2026.com.br/planos/edmilson-costa-7bade087.pdf#page=12",
+   "nota": "Programa de 2026 defende a demarcação de todos os territórios indígenas e o 'fim do Marco Temporal'."
+  },
+  "DE01": {
+   "v": 4,
+   "conf": "partido",
+   "fonte": "https://kikacastro.com.br/wp-content/uploads/2026/08/programapcb2026.pdf#page=25",
+   "nota": "Programa do PCB-MG propõe referendo popular para anular a privatização da Copasa e barrar outras."
+  }
+ },
+ "PCDOB": {
+  "G03": {
+   "v": 1,
+   "conf": "partido",
+   "fonte": "https://pcdob.org.br/programa/",
+   "nota": "Programa critica as privatizações dos anos 1990; bancada votou 0 a 8 contra privatizar os Correios (05/08/2021)."
+  },
+  "G04": {
+   "v": 2,
+   "conf": "partido",
+   "fonte": "https://dadosabertos.camara.leg.br/api/v2/votacoes/2357898-11/orientacoes",
+   "nota": "Orientou não; bancada na Câmara votou 0 sim, 7 não na urgência do PDL 3/2023 (sustava decreto que restringiu armas) em 06/12/2023."
+  },
+  "G06": {
+   "v": 4,
+   "conf": "partido",
+   "fonte": "https://dadosabertos.camara.leg.br/api/v2/votacoes/2428236-50/orientacoes",
+   "nota": "Orientou não; bancada na Câmara votou 0 sim, 2 não na CCJ, PEC 45/2023 (porte de droga como crime), em 12/06/2024."
+  },
+  "G07": {
+   "v": 4,
+   "conf": "partido",
+   "fonte": "https://dadosabertos.camara.leg.br/api/v2/votacoes/257161-483/votos",
+   "nota": "Bancada na Câmara votou 0 sim, 7 não no PL 2159/2021, que flexibiliza o licenciamento ambiental em 17/07/2025."
+  },
+  "G08": {
+   "v": 1,
+   "conf": "partido",
+   "fonte": "https://dadosabertos.camara.leg.br/api/v2/votacoes/2562149-7/orientacoes",
+   "nota": "Orientou não; bancada na Câmara votou 0 sim, 9 não na urgência da anistia ao 8/1 (PL 2162/2023) em 17/09/2025; Dosimetria: 0 sim, 9 não (09/12/2025)."
+  },
+  "G09": {
+   "v": 2,
+   "conf": "partido",
+   "fonte": "https://dadosabertos.camara.leg.br/api/v2/votacoes/2410488-45/orientacoes",
+   "nota": "Orientou não; bancada na Câmara votou 0 sim, 1 não na CCJ, PEC 8/2021 (limita decisões monocráticas), em 09/10/2024."
+  },
+  "G10": {
+   "v": 4,
+   "conf": "partido",
+   "fonte": "https://dadosabertos.camara.leg.br/api/v2/votacoes/2310837-8/orientacoes",
+   "nota": "Orientou sim; bancada na Câmara votou 6 sim, 0 não na urgência do PL 2630/2020 (responsabiliza plataformas) em 25/04/2023."
+  },
+  "G11": {
+   "v": 4,
+   "conf": "partido",
+   "fonte": "https://dadosabertos.camara.leg.br/api/v2/votacoes/2462049-9/orientacoes",
+   "nota": "Orientou sim; bancada na Câmara votou 7 sim, 0 não na urgência do PL 1958/2021 (cotas em concursos) em 13/11/2024."
+  },
+  "G12": {
+   "v": 2,
+   "conf": "partido",
+   "fonte": "https://dadosabertos.camara.leg.br/api/v2/votacoes/1228863-102/orientacoes",
+   "nota": "Orientou não; bancada na Câmara votou 0 sim, 3 não na CCJ, PEC 32/2015 (maioridade penal aos 16), em 10/06/2026."
+  },
+  "G13": {
+   "v": 2,
+   "conf": "partido",
+   "fonte": "https://pcdob.org.br/programa/",
+   "nota": "Programa do partido defende 'Estado democrático, laico'."
+  },
+  "G14": {
+   "v": 5,
+   "conf": "partido",
+   "fonte": "https://pcdob.org.br/programa/",
+   "nota": "Programa defende a redução constitucional da jornada sem redução salarial; bancada votou 11 a 0 pela PEC 221/2019."
+  },
+  "P01": {
+   "v": 2,
+   "conf": "partido",
+   "fonte": "https://pcdob.org.br/programa/",
+   "nota": "Programa do partido defende políticas monetária e fiscal 'expansivas' para financiar o desenvolvimento."
+  },
+  "P04": {
+   "v": 1,
+   "conf": "partido",
+   "fonte": "https://pcdob.org.br/programa/",
+   "nota": "Programa propõe vincular o Banco Central ao objetivo do desenvolvimento; bancada votou 0 a 7 contra sua autonomia (2021)."
+  },
+  "P06": {
+   "v": 5,
+   "conf": "partido",
+   "fonte": "https://pcdob.org.br/programa/",
+   "nota": "Programa defende o BNDES com crédito de longo prazo a juros razoáveis para o investimento estratégico."
+  },
+  "GV03": {
+   "v": 4,
+   "conf": "partido",
+   "fonte": "https://kikacastro.com.br/wp-content/uploads/2026/08/plano-de-governo-patrus-ananias-2026-2030.pdf#page=13",
+   "nota": "Plano de Patrus Ananias (PT), candidato da coligação que o partido integra em MG, propõe maior rigor na fiscalização da mineração e barragens."
+  },
+  "GV05": {
+   "v": 2,
+   "conf": "partido",
+   "fonte": "https://kikacastro.com.br/wp-content/uploads/2026/08/plano-de-governo-patrus-ananias-2026-2030.pdf#page=20",
+   "nota": "Plano de Patrus Ananias (PT), candidato da coligação do partido em MG, propõe rever subsídios e benefícios fiscais."
+  },
+  "GV06": {
+   "v": 2,
+   "conf": "partido",
+   "fonte": "https://kikacastro.com.br/wp-content/uploads/2026/08/plano-de-governo-patrus-ananias-2026-2030.pdf#page=6",
+   "nota": "Plano de Patrus Ananias (PT), candidato da coligação do partido em MG, propõe 'o fim da militarização das escolas'."
+  },
+  "S02": {
+   "v": 5,
+   "conf": "partido",
+   "fonte": "https://pcdob.org.br/programa/",
+   "nota": "Programa propõe 'fixar mandato para ministros do Supremo Tribunal Federal, acabando com a vitaliciedade'."
+  },
+  "S03": {
+   "v": 2,
+   "conf": "partido",
+   "fonte": "https://dadosabertos.camara.leg.br/api/v2/votacoes/2410488-45/orientacoes",
+   "nota": "Orientou não; bancada na Câmara votou 0 sim, 1 não na CCJ, PEC 8/2021 (limita decisões monocráticas), em 09/10/2024."
+  },
+  "DF02": {
+   "v": 2,
+   "conf": "partido",
+   "fonte": "https://dadosabertos.camara.leg.br/api/v2/votacoes/2270800-135/orientacoes",
+   "nota": "Orientou não; bancada na Câmara votou 0 sim, 9 não na PEC 3/2021 (PEC da Blindagem), 1º turno em 16/09/2025."
+  },
+  "DF03": {
+   "v": 2,
+   "conf": "partido",
+   "fonte": "https://dadosabertos.camara.leg.br/api/v2/votacoes/345311-270/orientacoes",
+   "nota": "Orientou não; bancada na Câmara votou 0 sim, 6 não no PL 490/2007 (marco temporal) em 30/05/2023."
+  },
+  "DF04": {
+   "v": 2,
+   "conf": "partido",
+   "fonte": "https://dadosabertos.camara.leg.br/api/v2/votacoes/257161-483/votos",
+   "nota": "Bancada na Câmara votou 0 sim, 7 não no PL 2159/2021 (Lei Geral do Licenciamento) em 17/07/2025."
+  },
+  "DF05": {
+   "v": 2,
+   "conf": "partido",
+   "fonte": "https://pcdob.org.br/programa/",
+   "nota": "Programa do partido defende o financiamento público de campanhas eleitorais."
+  },
+  "DE01": {
+   "v": 4,
+   "conf": "partido",
+   "fonte": "https://mediaserver.almg.gov.br/acervo/463/822/2463822.pdf",
+   "nota": "Bancada na ALMG votou 0 sim, 1 não na PEC 24/2023 (fim do referendo para vender a Copasa) em 24/10/2025."
+  }
+ },
+ "PCO": {
+  "G01": {
+   "v": 1,
+   "conf": "partido",
+   "fonte": "https://planodegoverno2026.com.br/planos/rui-costa-pimenta-05642e1c.pdf#page=4",
+   "nota": "Programa de 2026 (Rui Costa Pimenta) pede mais verbas para serviços e o fim do teto de gastos e da LRF."
+  },
+  "G02": {
+   "v": 5,
+   "conf": "partido",
+   "fonte": "https://planodegoverno2026.com.br/planos/rui-costa-pimenta-05642e1c.pdf#page=2",
+   "nota": "Programa de 2026 propõe 'Bolsa Família de pelo menos um salário mínimo'."
+  },
+  "G03": {
+   "v": 1,
+   "conf": "partido",
+   "fonte": "https://planodegoverno2026.com.br/planos/rui-costa-pimenta-05642e1c.pdf#page=3",
+   "nota": "Programa de 2026 propõe cancelar todas as privatizações realizadas (Eletrobras, Vale, bancos, telefonia)."
+  },
+  "G04": {
+   "v": 4,
+   "conf": "partido",
+   "fonte": "https://planodegoverno2026.com.br/planos/rui-costa-pimenta-05642e1c.pdf#page=4",
+   "nota": "Programa de 2026 defende 'direito de autodefesa e armamento para os trabalhadores do campo e índios'."
+  },
+  "G09": {
+   "v": 5,
+   "conf": "partido",
+   "fonte": "https://planodegoverno2026.com.br/planos/rui-costa-pimenta-05642e1c.pdf#page=6",
+   "nota": "Programa de 2026 afirma que o Judiciário 'atua acima dos demais poderes' e propõe extinguir o STF e eleger juízes."
+  },
+  "G10": {
+   "v": 1,
+   "conf": "partido",
+   "fonte": "https://planodegoverno2026.com.br/planos/rui-costa-pimenta-05642e1c.pdf#page=6",
+   "nota": "Programa de 2026 pede 'fim de todo tipo de censura' e 'liberdade irrestrita' na internet; rejeita o ECA Digital."
+  },
+  "G14": {
+   "v": 5,
+   "conf": "partido",
+   "fonte": "https://planodegoverno2026.com.br/planos/rui-costa-pimenta-05642e1c.pdf#page=2",
+   "nota": "Programa de 2026 propõe jornada máxima de 7 horas por dia e 5 dias por semana (35 horas)."
+  },
+  "P01": {
+   "v": 1,
+   "conf": "partido",
+   "fonte": "https://planodegoverno2026.com.br/planos/rui-costa-pimenta-05642e1c.pdf#page=6",
+   "nota": "Programa de 2026 propõe cancelar as dívidas externa e interna com bancos e grandes credores."
+  },
+  "P03": {
+   "v": 1,
+   "conf": "partido",
+   "fonte": "https://planodegoverno2026.com.br/planos/rui-costa-pimenta-05642e1c.pdf#page=7",
+   "nota": "Programa de 2026 pede 'fora o imperialismo' e o fim da ingerência dos EUA na América Latina."
+  },
+  "P04": {
+   "v": 1,
+   "conf": "partido",
+   "fonte": "https://planodegoverno2026.com.br/planos/rui-costa-pimenta-05642e1c.pdf#page=6",
+   "nota": "Programa de 2026 propõe o 'fim da independência do Banco Central'."
+  },
+  "P05": {
+   "v": 1,
+   "conf": "partido",
+   "fonte": "https://planodegoverno2026.com.br/planos/rui-costa-pimenta-05642e1c.pdf#page=3",
+   "nota": "Programa de 2026 propõe reduzir em 50% o preço dos combustíveis e acabar com a paridade com o dólar."
+  },
+  "DF03": {
+   "v": 2,
+   "conf": "partido",
+   "fonte": "https://planodegoverno2026.com.br/planos/rui-costa-pimenta-05642e1c.pdf#page=4",
+   "nota": "Programa de 2026 defende a 'demarcação das terras dos índios' e a expropriação do latifúndio."
+  }
+ },
+ "PDT": {
+  "G04": {
+   "v": 2,
+   "conf": "partido",
+   "fonte": "https://dadosabertos.camara.leg.br/api/v2/votacoes/2357898-11/votos",
+   "nota": "Bancada na Câmara votou 1 sim, 11 não na urgência do PDL 3/2023 (sustava decreto que restringiu armas) em 06/12/2023."
+  },
+  "G08": {
+   "v": 1,
+   "conf": "partido",
+   "fonte": "https://dadosabertos.camara.leg.br/api/v2/votacoes/2562149-7/orientacoes",
+   "nota": "Orientou não; bancada na Câmara votou 0 sim, 13 não na urgência da anistia ao 8/1 (PL 2162/2023) em 17/09/2025; Dosimetria: 1 sim, 13 não (09/12/2025)."
+  },
+  "G09": {
+   "v": 2,
+   "conf": "partido",
+   "fonte": "https://dadosabertos.camara.leg.br/api/v2/votacoes/2410488-45/orientacoes",
+   "nota": "Orientou não; bancada na Câmara votou 0 sim, 2 não na CCJ, PEC 8/2021 (limita decisões monocráticas), em 09/10/2024."
+  },
+  "G10": {
+   "v": 4,
+   "conf": "partido",
+   "fonte": "https://dadosabertos.camara.leg.br/api/v2/votacoes/2310837-8/votos",
+   "nota": "Bancada na Câmara votou 13 sim, 1 não na urgência do PL 2630/2020 (responsabiliza plataformas) em 25/04/2023."
+  },
+  "G11": {
+   "v": 4,
+   "conf": "partido",
+   "fonte": "https://dadosabertos.camara.leg.br/api/v2/votacoes/2462049-9/votos",
+   "nota": "Bancada na Câmara votou 16 sim, 0 não na urgência do PL 1958/2021 (cotas em concursos) em 13/11/2024."
+  },
+  "G14": {
+   "v": 4,
+   "conf": "partido",
+   "fonte": "https://dadosabertos.camara.leg.br/api/v2/votacoes/2233802-424/orientacoes",
+   "nota": "Orientou sim; bancada na Câmara votou 8 sim, 0 não na PEC 221/2019 (40h semanais e fim da escala 6x1) em 27/05/2026."
+  },
+  "P04": {
+   "v": 2,
+   "conf": "partido",
+   "fonte": "https://dadosabertos.camara.leg.br/api/v2/votacoes/2265124-70/orientacoes",
+   "nota": "Orientou não; bancada na Câmara votou 3 sim, 20 não no PLP 19/2019 (autonomia do Banco Central) em 10/02/2021."
+  },
+  "GV02": {
+   "v": 4,
+   "conf": "partido",
+   "fonte": "https://kikacastro.com.br/wp-content/uploads/2026/08/plano-governo-kalil-2026-tre.pdf#page=48",
+   "nota": "Plano de Alexandre Kalil (PDT-MG) prevê a 'universalização progressiva das câmeras corporais' nas atividades policiais."
+  },
+  "GV03": {
+   "v": 4,
+   "conf": "partido",
+   "fonte": "https://www.em.com.br/politica/2026/09/7498883-o-que-o-futuro-governador-de-minas-propoe-para-controlar-a-mineracao.html",
+   "nota": "Plano de Kalil condiciona a expansão da mineração 'à segurança das pessoas, à proteção ambiental' (EM, 12/09/2026)."
+  },
+  "GV05": {
+   "v": 2,
+   "conf": "partido",
+   "fonte": "https://kikacastro.com.br/wp-content/uploads/2026/08/plano-governo-kalil-2026-tre.pdf#page=23",
+   "nota": "Plano de Kalil diz que incentivo fiscal 'não deve ser política automática e permanente' e aposta menos na guerra fiscal."
+  },
+  "S03": {
+   "v": 2,
+   "conf": "partido",
+   "fonte": "https://dadosabertos.camara.leg.br/api/v2/votacoes/2410488-45/orientacoes",
+   "nota": "Orientou não; bancada na Câmara votou 0 sim, 2 não na CCJ, PEC 8/2021 (limita decisões monocráticas), em 09/10/2024."
+  },
+  "DF03": {
+   "v": 2,
+   "conf": "partido",
+   "fonte": "https://dadosabertos.camara.leg.br/api/v2/votacoes/345311-270/votos",
+   "nota": "Bancada na Câmara votou 1 sim, 14 não no PL 490/2007 (marco temporal) em 30/05/2023."
+  },
+  "DE01": {
+   "v": 2,
+   "conf": "partido",
+   "fonte": "https://mediaserver.almg.gov.br/acervo/463/822/2463822.pdf",
+   "nota": "Bancada na ALMG votou 2 sim, 0 não na PEC 24/2023 (fim do referendo para vender a Copasa) em 24/10/2025."
+  }
+ },
+ "PL": {
+  "G01": {
+   "v": 4,
+   "conf": "partido",
+   "fonte": "https://planodegoverno2026.com.br/planos/flavio-bolsonaro-0a34723b.pdf#page=68",
+   "nota": "Plano de 2026 (Flávio Bolsonaro) propõe um 'Tesouraço': corte profundo de gastos que enxuga a máquina e reduz impostos."
+  },
+  "G03": {
+   "v": 4,
+   "conf": "partido",
+   "fonte": "https://planodegoverno2026.com.br/planos/flavio-bolsonaro-0a34723b.pdf#page=70",
+   "nota": "Plano de 2026 propõe retomar o Programa Nacional de Desestatização 'com critério', caso a caso."
+  },
+  "G04": {
+   "v": 4,
+   "conf": "partido",
+   "fonte": "https://dadosabertos.camara.leg.br/api/v2/votacoes/2357898-11/orientacoes",
+   "nota": "Orientou sim; bancada na Câmara votou 85 sim, 2 não na urgência do PDL 3/2023 (sustava decreto que restringiu armas) em 06/12/2023."
+  },
+  "G05": {
+   "v": 1,
+   "conf": "partido",
+   "fonte": "https://planodegoverno2026.com.br/planos/flavio-bolsonaro-0a34723b.pdf#page=9",
+   "nota": "Plano de 2026 põe a 'vida desde a concepção' entre valores inegociáveis; orientou sim à PEC 164/2012 na CCJ (27/11/2024)."
+  },
+  "G06": {
+   "v": 1,
+   "conf": "partido",
+   "fonte": "https://dadosabertos.camara.leg.br/api/v2/votacoes/2428236-50/orientacoes",
+   "nota": "Orientou sim; bancada na Câmara votou 13 sim, 0 não na CCJ, PEC 45/2023 (porte de droga como crime), em 12/06/2024; Senado: 11 sim, 0 não (16/04/2024)."
+  },
+  "G07": {
+   "v": 2,
+   "conf": "partido",
+   "fonte": "https://dadosabertos.camara.leg.br/api/v2/votacoes/257161-483/votos",
+   "nota": "Bancada na Câmara votou 66 sim, 0 não no PL 2159/2021, que flexibiliza o licenciamento ambiental em 17/07/2025."
+  },
+  "G08": {
+   "v": 5,
+   "conf": "partido",
+   "fonte": "https://dadosabertos.camara.leg.br/api/v2/votacoes/2562149-7/votos",
+   "nota": "Bancada na Câmara votou 85 sim, 0 não na urgência da anistia ao 8/1 (PL 2162/2023) em 17/09/2025; Dosimetria: 75 sim, 1 não (09/12/2025)."
+  },
+  "G09": {
+   "v": 5,
+   "conf": "partido",
+   "fonte": "https://planodegoverno2026.com.br/planos/flavio-bolsonaro-0a34723b.pdf#page=65",
+   "nota": "Plano de 2026 fala em 'hipertrofia de um Poder sobre os demais' e propõe limitar o STF a Corte Constitucional."
+  },
+  "G10": {
+   "v": 2,
+   "conf": "partido",
+   "fonte": "https://dadosabertos.camara.leg.br/api/v2/votacoes/2310837-8/orientacoes",
+   "nota": "Orientou não; bancada na Câmara votou 6 sim, 79 não na urgência do PL 2630/2020 (responsabiliza plataformas) em 25/04/2023."
+  },
+  "G11": {
+   "v": 2,
+   "conf": "partido",
+   "fonte": "https://dadosabertos.camara.leg.br/api/v2/votacoes/2462049-9/orientacoes",
+   "nota": "Orientou não; bancada na Câmara votou 5 sim, 75 não na urgência do PL 1958/2021 (cotas em concursos) em 13/11/2024."
+  },
+  "G12": {
+   "v": 5,
+   "conf": "partido",
+   "fonte": "https://planodegoverno2026.com.br/planos/flavio-bolsonaro-0a34723b.pdf#page=13",
+   "nota": "Plano de 2026 promete apoiar a redução da maioridade penal para 16 anos; orientou sim à PEC 32/2015 na CCJ (10/06/2026)."
+  },
+  "G13": {
+   "v": 4,
+   "conf": "partido",
+   "fonte": "https://planodegoverno2026.com.br/planos/flavio-bolsonaro-0a34723b.pdf#page=74",
+   "nota": "Plano de 2026 lista a fé entre os 'valores que não negociamos' e que orientam o governo."
+  },
+  "G14": {
+   "v": 4,
+   "conf": "partido",
+   "fonte": "https://dadosabertos.camara.leg.br/api/v2/votacoes/2233802-424/orientacoes",
+   "nota": "Orientou sim; bancada na Câmara votou 83 sim, 11 não na PEC 221/2019 (40h semanais e fim da escala 6x1) em 27/05/2026."
+  },
+  "P01": {
+   "v": 4,
+   "conf": "partido",
+   "fonte": "https://planodegoverno2026.com.br/planos/flavio-bolsonaro-0a34723b.pdf#page=71",
+   "nota": "Plano de 2026 promete 'equilíbrio fiscal duradouro, entregando superávits primários'."
+  },
+  "P03": {
+   "v": 3,
+   "conf": "partido",
+   "fonte": "https://planodegoverno2026.com.br/planos/flavio-bolsonaro-0a34723b.pdf#page=62",
+   "nota": "Plano de 2026 promete reaproximar EUA, Argentina e Israel, mas diz negociar 'com todos', da China à UE, sem afinidade ideológica."
+  },
+  "P04": {
+   "v": 4,
+   "conf": "partido",
+   "fonte": "https://dadosabertos.camara.leg.br/api/v2/votacoes/2265124-70/orientacoes",
+   "nota": "Orientou sim; bancada na Câmara votou 29 sim, 1 não no PLP 19/2019 (autonomia do Banco Central) em 10/02/2021."
+  },
+  "P06": {
+   "v": 2,
+   "conf": "partido",
+   "fonte": "https://planodegoverno2026.com.br/planos/flavio-bolsonaro-0a34723b.pdf#page=71",
+   "nota": "Plano de 2026 propõe limitar o crédito subsidiado com recursos do Tesouro."
+  },
+  "GV03": {
+   "v": 2,
+   "conf": "partido",
+   "fonte": "https://www.em.com.br/politica/2026/09/7498883-o-que-o-futuro-governador-de-minas-propoe-para-controlar-a-mineracao.html",
+   "nota": "Flávio Roscoe (PL-MG) diz que é preciso 'parar de demonizar a mineração' e propõe licenças por adesão (EM, 12/09/2026)."
+  },
+  "GV06": {
+   "v": 4,
+   "conf": "partido",
+   "fonte": "https://planodegoverno2026.com.br/planos/flavio-bolsonaro-0a34723b.pdf#page=35",
+   "nota": "Plano nacional do partido para 2026 promete 'ampliar as Escolas Cívico-Militares'."
+  },
+  "S03": {
+   "v": 5,
+   "conf": "partido",
+   "fonte": "https://dadosabertos.camara.leg.br/api/v2/votacoes/2410488-45/orientacoes",
+   "nota": "Orientou sim; bancada na Câmara votou 12 sim, 0 não na CCJ, PEC 8/2021 (limita decisões monocráticas), em 09/10/2024; Senado: 11 sim, 1 não (22/11/2023)."
+  },
+  "S05": {
+   "v": 4,
+   "conf": "partido",
+   "fonte": "https://planodegoverno2026.com.br/planos/flavio-bolsonaro-0a34723b.pdf#page=66",
+   "nota": "Plano de 2026 propõe o fim da reeleição para presidente da República."
+  },
+  "DF02": {
+   "v": 4,
+   "conf": "partido",
+   "fonte": "https://dadosabertos.camara.leg.br/api/v2/votacoes/2270800-135/votos",
+   "nota": "Bancada na Câmara votou 83 sim, 0 não na PEC 3/2021 (PEC da Blindagem), 1º turno em 16/09/2025."
+  },
+  "DF03": {
+   "v": 5,
+   "conf": "partido",
+   "fonte": "https://dadosabertos.camara.leg.br/api/v2/votacoes/345311-270/orientacoes",
+   "nota": "Orientou sim; bancada na Câmara votou 82 sim, 1 não no PL 490/2007 (marco temporal) em 30/05/2023; Senado, PEC 48/2023: 13 sim, 0 não (09/12/2025)."
+  },
+  "DF04": {
+   "v": 4,
+   "conf": "partido",
+   "fonte": "https://dadosabertos.camara.leg.br/api/v2/votacoes/257161-483/votos",
+   "nota": "Bancada na Câmara votou 66 sim, 0 não no PL 2159/2021 (Lei Geral do Licenciamento) em 17/07/2025."
+  },
+  "DF06": {
+   "v": 4,
+   "conf": "partido",
+   "fonte": "https://legis.senado.leg.br/dadosabertos/votacao?dataInicio=2024-02-20&dataFim=2024-02-20",
+   "nota": "Bancada no Senado votou 9 sim, 0 não no PL 2253/2022 (fim da saidinha) em 20/02/2024."
+  },
+  "DE01": {
+   "v": 2,
+   "conf": "partido",
+   "fonte": "https://mediaserver.almg.gov.br/acervo/463/822/2463822.pdf",
+   "nota": "Bancada na ALMG votou 8 sim, 1 não na PEC 24/2023 (fim do referendo para vender a Copasa) em 24/10/2025."
+  }
+ },
+ "PODE": {
+  "G03": {
+   "v": 3,
+   "conf": "partido",
+   "fonte": "https://dadosabertos.camara.leg.br/api/v2/votacoes/2270894-103/votos",
+   "nota": "Liberou a bancada, que se dividiu (4 sim e 5 não) na privatização dos Correios (PL 591/2021) em 05/08/2021."
+  },
+  "G06": {
+   "v": 1,
+   "conf": "partido",
+   "fonte": "https://dadosabertos.camara.leg.br/api/v2/votacoes/2428236-50/orientacoes",
+   "nota": "Orientou sim; bancada na Câmara votou 2 sim, 0 não na CCJ, PEC 45/2023 (porte de droga como crime), em 12/06/2024; Senado: 4 sim, 0 não (16/04/2024)."
+  },
+  "G09": {
+   "v": 4,
+   "conf": "partido",
+   "fonte": "https://legis.senado.leg.br/dadosabertos/votacao?dataInicio=2023-11-22&dataFim=2023-11-22",
+   "nota": "Bancada no Senado votou 7 sim, 0 não na PEC 8/2021 (limita decisões monocráticas do STF) em 22/11/2023."
+  },
+  "G10": {
+   "v": 2,
+   "conf": "partido",
+   "fonte": "https://dadosabertos.camara.leg.br/api/v2/votacoes/2310837-8/votos",
+   "nota": "Bancada na Câmara votou 1 sim, 9 não na urgência do PL 2630/2020 (responsabiliza plataformas) em 25/04/2023."
+  },
+  "G11": {
+   "v": 4,
+   "conf": "partido",
+   "fonte": "https://dadosabertos.camara.leg.br/api/v2/votacoes/2462049-9/votos",
+   "nota": "Bancada na Câmara votou 8 sim, 2 não na urgência do PL 1958/2021 (cotas em concursos) em 13/11/2024."
+  },
+  "G14": {
+   "v": 4,
+   "conf": "partido",
+   "fonte": "https://dadosabertos.camara.leg.br/api/v2/votacoes/2233802-424/votos",
+   "nota": "Bancada na Câmara votou 27 sim, 0 não na PEC 221/2019 (40h semanais e fim da escala 6x1) em 27/05/2026."
+  },
+  "P04": {
+   "v": 4,
+   "conf": "partido",
+   "fonte": "https://dadosabertos.camara.leg.br/api/v2/votacoes/2265124-70/orientacoes",
+   "nota": "Orientou sim; bancada na Câmara votou 8 sim, 0 não no PLP 19/2019 (autonomia do Banco Central) em 10/02/2021."
+  },
+  "S03": {
+   "v": 4,
+   "conf": "partido",
+   "fonte": "https://legis.senado.leg.br/dadosabertos/votacao?dataInicio=2023-11-22&dataFim=2023-11-22",
+   "nota": "Bancada no Senado votou 7 sim, 0 não na PEC 8/2021 (limita decisões monocráticas do STF) em 22/11/2023."
+  },
+  "DF02": {
+   "v": 4,
+   "conf": "partido",
+   "fonte": "https://dadosabertos.camara.leg.br/api/v2/votacoes/2270800-135/votos",
+   "nota": "Bancada na Câmara votou 14 sim, 3 não na PEC 3/2021 (PEC da Blindagem), 1º turno em 16/09/2025."
+  },
+  "DF06": {
+   "v": 4,
+   "conf": "partido",
+   "fonte": "https://legis.senado.leg.br/dadosabertos/votacao?dataInicio=2024-02-20&dataFim=2024-02-20",
+   "nota": "Bancada no Senado votou 7 sim, 0 não no PL 2253/2022 (fim da saidinha) em 20/02/2024."
+  },
+  "DE01": {
+   "v": 2,
+   "conf": "partido",
+   "fonte": "https://mediaserver.almg.gov.br/acervo/463/822/2463822.pdf",
+   "nota": "Bancada na ALMG votou 1 sim, 0 não na PEC 24/2023 (fim do referendo para vender a Copasa) em 24/10/2025."
+  }
+ },
+ "PP": {
+  "G03": {
+   "v": 4,
+   "conf": "partido",
+   "fonte": "https://dadosabertos.camara.leg.br/api/v2/votacoes/2270894-103/orientacoes",
+   "nota": "Orientou sim; bancada na Câmara votou 34 sim, 1 não na privatização dos Correios (PL 591/2021) em 05/08/2021."
+  },
+  "G04": {
+   "v": 4,
+   "conf": "partido",
+   "fonte": "https://dadosabertos.camara.leg.br/api/v2/votacoes/2357898-11/votos",
+   "nota": "Bancada na Câmara votou 36 sim, 0 não na urgência do PDL 3/2023 (sustava decreto que restringiu armas) em 06/12/2023."
+  },
+  "G06": {
+   "v": 1,
+   "conf": "partido",
+   "fonte": "https://dadosabertos.camara.leg.br/api/v2/votacoes/2428236-50/orientacoes",
+   "nota": "Orientou sim; bancada na Câmara votou 6 sim, 0 não na CCJ, PEC 45/2023 (porte de droga como crime), em 12/06/2024; Senado: 6 sim, 0 não (16/04/2024)."
+  },
+  "G07": {
+   "v": 2,
+   "conf": "partido",
+   "fonte": "https://dadosabertos.camara.leg.br/api/v2/votacoes/257161-483/votos",
+   "nota": "Bancada na Câmara votou 33 sim, 2 não no PL 2159/2021, que flexibiliza o licenciamento ambiental em 17/07/2025."
+  },
+  "G08": {
+   "v": 4,
+   "conf": "partido",
+   "fonte": "https://dadosabertos.camara.leg.br/api/v2/votacoes/2562149-7/votos",
+   "nota": "Bancada na Câmara votou 43 sim, 6 não na urgência da anistia ao 8/1 (PL 2162/2023) em 17/09/2025."
+  },
+  "G09": {
+   "v": 4,
+   "conf": "partido",
+   "fonte": "https://dadosabertos.camara.leg.br/api/v2/votacoes/2410488-45/orientacoes",
+   "nota": "Orientou sim; bancada na Câmara votou 6 sim, 0 não na CCJ, PEC 8/2021 (limita decisões monocráticas), em 09/10/2024."
+  },
+  "G12": {
+   "v": 4,
+   "conf": "partido",
+   "fonte": "https://dadosabertos.camara.leg.br/api/v2/votacoes/1228863-102/orientacoes",
+   "nota": "Orientou sim; bancada na Câmara votou 6 sim, 0 não na CCJ, PEC 32/2015 (maioridade penal aos 16), em 10/06/2026."
+  },
+  "G14": {
+   "v": 4,
+   "conf": "partido",
+   "fonte": "https://dadosabertos.camara.leg.br/api/v2/votacoes/2233802-424/votos",
+   "nota": "Bancada na Câmara votou 42 sim, 1 não na PEC 221/2019 (40h semanais e fim da escala 6x1) em 27/05/2026."
+  },
+  "P04": {
+   "v": 4,
+   "conf": "partido",
+   "fonte": "https://dadosabertos.camara.leg.br/api/v2/votacoes/2265124-70/orientacoes",
+   "nota": "Orientou sim; bancada na Câmara votou 31 sim, 0 não no PLP 19/2019 (autonomia do Banco Central) em 10/02/2021."
+  },
+  "GV06": {
+   "v": 4,
+   "conf": "partido",
+   "fonte": "https://www.otempo.com.br/politica/2026/4/13/escolas-civico-militares-podem-chegar-a-700-desde-que-existam-militares-interessados-diz-simoes",
+   "nota": "Mateus Simões (PSD), candidato da coligação do partido em MG, prevê até 700 escolas cívico-militares no estado."
+  },
+  "S03": {
+   "v": 5,
+   "conf": "partido",
+   "fonte": "https://dadosabertos.camara.leg.br/api/v2/votacoes/2410488-45/orientacoes",
+   "nota": "Orientou sim; bancada na Câmara votou 6 sim, 0 não na CCJ, PEC 8/2021 (limita decisões monocráticas), em 09/10/2024; Senado: 6 sim, 0 não (22/11/2023)."
+  },
+  "DF02": {
+   "v": 4,
+   "conf": "partido",
+   "fonte": "https://dadosabertos.camara.leg.br/api/v2/votacoes/2270800-135/votos",
+   "nota": "Bancada na Câmara votou 46 sim, 3 não na PEC 3/2021 (PEC da Blindagem), 1º turno em 16/09/2025."
+  },
+  "DF03": {
+   "v": 4,
+   "conf": "partido",
+   "fonte": "https://dadosabertos.camara.leg.br/api/v2/votacoes/345311-270/votos",
+   "nota": "Bancada na Câmara votou 37 sim, 4 não no PL 490/2007 (marco temporal) em 30/05/2023."
+  },
+  "DF04": {
+   "v": 4,
+   "conf": "partido",
+   "fonte": "https://dadosabertos.camara.leg.br/api/v2/votacoes/257161-483/votos",
+   "nota": "Bancada na Câmara votou 33 sim, 2 não no PL 2159/2021 (Lei Geral do Licenciamento) em 17/07/2025."
+  },
+  "DF06": {
+   "v": 4,
+   "conf": "partido",
+   "fonte": "https://legis.senado.leg.br/dadosabertos/votacao?dataInicio=2024-02-20&dataFim=2024-02-20",
+   "nota": "Bancada no Senado votou 5 sim, 0 não no PL 2253/2022 (fim da saidinha) em 20/02/2024."
+  },
+  "DE01": {
+   "v": 1,
+   "conf": "partido",
+   "fonte": "https://mediaserver.almg.gov.br/acervo/463/822/2463822.pdf",
+   "nota": "Bancada na ALMG votou 6 sim, 0 não na PEC 24/2023 (fim do referendo para vender a Copasa) em 24/10/2025; 2º turno: 5 sim, 0 não (05/11/2025)."
+  }
+ },
+ "PRD": {
+  "G08": {
+   "v": 4,
+   "conf": "partido",
+   "fonte": "https://dadosabertos.camara.leg.br/api/v2/votacoes/2562149-7/votos",
+   "nota": "Bancada na Câmara votou 5 sim, 0 não na urgência da anistia ao 8/1 (PL 2162/2023) em 17/09/2025."
+  },
+  "GV06": {
+   "v": 4,
+   "conf": "partido",
+   "fonte": "https://www.otempo.com.br/politica/2026/4/13/escolas-civico-militares-podem-chegar-a-700-desde-que-existam-militares-interessados-diz-simoes",
+   "nota": "Mateus Simões (PSD), candidato da coligação do partido em MG, prevê até 700 escolas cívico-militares no estado."
+  },
+  "DF02": {
+   "v": 4,
+   "conf": "partido",
+   "fonte": "https://dadosabertos.camara.leg.br/api/v2/votacoes/2270800-135/votos",
+   "nota": "Bancada na Câmara votou 5 sim, 0 não na PEC 3/2021 (PEC da Blindagem), 1º turno em 16/09/2025."
+  },
+  "DE01": {
+   "v": 2,
+   "conf": "partido",
+   "fonte": "https://mediaserver.almg.gov.br/acervo/463/822/2463822.pdf",
+   "nota": "Bancada na ALMG votou 3 sim, 0 não na PEC 24/2023 (fim do referendo para vender a Copasa) em 24/10/2025."
+  }
+ },
+ "PRTB": {
+  "G01": {
+   "v": 4,
+   "conf": "partido",
+   "fonte": "https://planodegoverno2026.com.br/planos/pablo-marcal-8f56782c.pdf#page=14",
+   "nota": "Plano registrado pelo PRTB em 2026 (Pablo Marçal, depois indeferido) propõe revisar despesas e reduzir a carga tributária."
+  },
+  "G02": {
+   "v": 3,
+   "conf": "partido",
+   "fonte": "https://planodegoverno2026.com.br/planos/pablo-marcal-8f56782c.pdf#page=12",
+   "nota": "Plano registrado pelo PRTB em 2026 promete manter o Bolsa Família, sem propor ampliá-lo."
+  },
+  "G03": {
+   "v": 4,
+   "conf": "partido",
+   "fonte": "https://planodegoverno2026.com.br/planos/pablo-marcal-8f56782c.pdf#page=20",
+   "nota": "Plano registrado pelo PRTB em 2026 propõe um 'Programa de Desestatização Prioritária'."
+  },
+  "P01": {
+   "v": 4,
+   "conf": "partido",
+   "fonte": "https://planodegoverno2026.com.br/planos/pablo-marcal-8f56782c.pdf#page=14",
+   "nota": "Plano registrado pelo PRTB em 2026 propõe responsabilidade fiscal com redução gradual da relação dívida/PIB."
+  },
+  "P06": {
+   "v": 4,
+   "conf": "partido",
+   "fonte": "https://planodegoverno2026.com.br/planos/pablo-marcal-8f56782c.pdf#page=24",
+   "nota": "Plano registrado pelo PRTB em 2026 propõe lançar uma 'Nova Política Industrial Brasileira'."
+  }
+ },
+ "PSB": {
+  "G02": {
+   "v": 5,
+   "conf": "partido",
+   "fonte": "https://www.autorreformapsb.com.br/wp-content/uploads/2022/07/Manifesto_e_Programa_do_PSB.pdf#page=69",
+   "nota": "Programa do PSB chama a renda básica universal de 'exigência estratégica e essencial'."
+  },
+  "G03": {
+   "v": 1,
+   "conf": "partido",
+   "fonte": "https://www.autorreformapsb.com.br/wp-content/uploads/2022/07/Manifesto_e_Programa_do_PSB.pdf#page=32",
+   "nota": "Programa se opõe 'fortemente' à privatização do setor energético; bancada votou 3 a 27 contra privatizar os Correios (2021)."
+  },
+  "G04": {
+   "v": 1,
+   "conf": "partido",
+   "fonte": "https://www.autorreformapsb.com.br/wp-content/uploads/2022/07/Manifesto_e_Programa_do_PSB.pdf#page=115",
+   "nota": "Programa se opõe 'fortemente às políticas armamentistas'; bancada votou 0 a 11 contra sustar o decreto de armas (2023)."
+  },
+  "G05": {
+   "v": 4,
+   "conf": "partido",
+   "fonte": "https://www.autorreformapsb.com.br/wp-content/uploads/2022/07/Manifesto_e_Programa_do_PSB.pdf#page=117",
+   "nota": "Programa defende o aborto legal pelo SUS, 'avançando para a sua descriminalização de forma ampla'."
+  },
+  "G07": {
+   "v": 4,
+   "conf": "partido",
+   "fonte": "https://dadosabertos.camara.leg.br/api/v2/votacoes/257161-483/votos",
+   "nota": "Bancada na Câmara votou 0 sim, 7 não no PL 2159/2021, que flexibiliza o licenciamento ambiental em 17/07/2025."
+  },
+  "G10": {
+   "v": 4,
+   "conf": "partido",
+   "fonte": "https://dadosabertos.camara.leg.br/api/v2/votacoes/2310837-8/votos",
+   "nota": "Bancada na Câmara votou 14 sim, 0 não na urgência do PL 2630/2020 (responsabiliza plataformas) em 25/04/2023."
+  },
+  "G11": {
+   "v": 5,
+   "conf": "partido",
+   "fonte": "https://www.autorreformapsb.com.br/wp-content/uploads/2022/07/Manifesto_e_Programa_do_PSB.pdf#page=109",
+   "nota": "Programa defende manter cotas étnico-raciais; bancada votou 12 a 0 pela urgência do PL 1958/2021 (13/11/2024)."
+  },
+  "G12": {
+   "v": 1,
+   "conf": "partido",
+   "fonte": "https://www.autorreformapsb.com.br/wp-content/uploads/2022/07/Manifesto_e_Programa_do_PSB.pdf#page=125",
+   "nota": "Programa do PSB afirma: 'é contra a redução da maioridade penal'."
+  },
+  "G13": {
+   "v": 2,
+   "conf": "partido",
+   "fonte": "https://www.autorreformapsb.com.br/wp-content/uploads/2022/07/Manifesto_e_Programa_do_PSB.pdf#page=136",
+   "nota": "Programa do PSB defende 'um partido laico'."
+  },
+  "G14": {
+   "v": 5,
+   "conf": "partido",
+   "fonte": "https://www.autorreformapsb.com.br/wp-content/uploads/2022/07/Manifesto_e_Programa_do_PSB.pdf#page=80",
+   "nota": "Programa defende reduzir a jornada sem reduzir salários; bancada votou 17 a 0 pela PEC 221/2019 (27/05/2026)."
+  },
+  "P03": {
+   "v": 2,
+   "conf": "partido",
+   "fonte": "https://www.autorreformapsb.com.br/wp-content/uploads/2022/07/Manifesto_e_Programa_do_PSB.pdf#page=58",
+   "nota": "Programa do PSB defende o multilateralismo com o fortalecimento do Brics."
+  },
+  "P06": {
+   "v": 4,
+   "conf": "partido",
+   "fonte": "https://www.autorreformapsb.com.br/wp-content/uploads/2022/07/Manifesto_e_Programa_do_PSB.pdf#page=36",
+   "nota": "Programa do PSB propõe um 'choque de industrialização' regional (Amazônia 4.0)."
+  },
+  "GV03": {
+   "v": 4,
+   "conf": "partido",
+   "fonte": "https://kikacastro.com.br/wp-content/uploads/2026/08/plano-de-governo-patrus-ananias-2026-2030.pdf#page=13",
+   "nota": "Plano de Patrus Ananias (PT), candidato da coligação que o partido integra em MG, propõe maior rigor na fiscalização da mineração e barragens."
+  },
+  "GV05": {
+   "v": 2,
+   "conf": "partido",
+   "fonte": "https://kikacastro.com.br/wp-content/uploads/2026/08/plano-de-governo-patrus-ananias-2026-2030.pdf#page=20",
+   "nota": "Plano de Patrus Ananias (PT), candidato da coligação do partido em MG, propõe rever subsídios e benefícios fiscais."
+  },
+  "GV06": {
+   "v": 2,
+   "conf": "partido",
+   "fonte": "https://kikacastro.com.br/wp-content/uploads/2026/08/plano-de-governo-patrus-ananias-2026-2030.pdf#page=6",
+   "nota": "Plano de Patrus Ananias (PT), candidato da coligação do partido em MG, propõe 'o fim da militarização das escolas'."
+  },
+  "DF04": {
+   "v": 2,
+   "conf": "partido",
+   "fonte": "https://dadosabertos.camara.leg.br/api/v2/votacoes/257161-483/votos",
+   "nota": "Bancada na Câmara votou 0 sim, 7 não no PL 2159/2021 (Lei Geral do Licenciamento) em 17/07/2025."
+  },
+  "DE01": {
+   "v": 2,
+   "conf": "partido",
+   "fonte": "https://mediaserver.almg.gov.br/acervo/463/822/2463822.pdf",
+   "nota": "Bancada na ALMG votou 2 sim, 0 não na PEC 24/2023 (fim do referendo para vender a Copasa) em 24/10/2025."
+  }
+ },
+ "PSD": {
+  "G04": {
+   "v": 4,
+   "conf": "partido",
+   "fonte": "https://dadosabertos.camara.leg.br/api/v2/votacoes/2357898-11/votos",
+   "nota": "Bancada na Câmara votou 28 sim, 2 não na urgência do PDL 3/2023 (sustava decreto que restringiu armas) em 06/12/2023."
+  },
+  "G06": {
+   "v": 2,
+   "conf": "partido",
+   "fonte": "https://legis.senado.leg.br/dadosabertos/votacao?dataInicio=2024-04-16&dataFim=2024-04-16",
+   "nota": "Bancada no Senado votou 10 sim, 0 não na PEC 45/2023 (porte de droga como crime) em 16/04/2024."
+  },
+  "G07": {
+   "v": 2,
+   "conf": "partido",
+   "fonte": "https://dadosabertos.camara.leg.br/api/v2/votacoes/257161-483/votos",
+   "nota": "Bancada na Câmara votou 23 sim, 2 não no PL 2159/2021, que flexibiliza o licenciamento ambiental em 17/07/2025."
+  },
+  "G14": {
+   "v": 4,
+   "conf": "partido",
+   "fonte": "https://dadosabertos.camara.leg.br/api/v2/votacoes/2233802-424/votos",
+   "nota": "Bancada na Câmara votou 47 sim, 1 não na PEC 221/2019 (40h semanais e fim da escala 6x1) em 27/05/2026."
+  },
+  "P04": {
+   "v": 4,
+   "conf": "partido",
+   "fonte": "https://dadosabertos.camara.leg.br/api/v2/votacoes/2265124-70/orientacoes",
+   "nota": "Orientou sim; bancada na Câmara votou 32 sim, 0 não no PLP 19/2019 (autonomia do Banco Central) em 10/02/2021."
+  },
+  "GV01": {
+   "v": 3,
+   "conf": "partido",
+   "fonte": "https://www.otempo.com.br/eleicoes/2026/governadores/2026/9/4/simoes-defende-privatizacao-da-gasmig-mas-afasta-venda-da-cemig",
+   "nota": "Mateus Simões diz que a Cemig não está em projeto de venda; bancada do PSD na ALMG votou 10 a 1 pela privatização da Copasa."
+  },
+  "GV06": {
+   "v": 4,
+   "conf": "partido",
+   "fonte": "https://www.otempo.com.br/politica/2026/4/13/escolas-civico-militares-podem-chegar-a-700-desde-que-existam-militares-interessados-diz-simoes",
+   "nota": "Como governador, Mateus Simões (PSD) disse em 13/04/2026 que as escolas cívico-militares podem chegar a 700 no estado."
+  },
+  "DF04": {
+   "v": 4,
+   "conf": "partido",
+   "fonte": "https://dadosabertos.camara.leg.br/api/v2/votacoes/257161-483/votos",
+   "nota": "Bancada na Câmara votou 23 sim, 2 não no PL 2159/2021 (Lei Geral do Licenciamento) em 17/07/2025."
+  },
+  "DF06": {
+   "v": 4,
+   "conf": "partido",
+   "fonte": "https://legis.senado.leg.br/dadosabertos/votacao?dataInicio=2024-02-20&dataFim=2024-02-20",
+   "nota": "Bancada no Senado votou 11 sim, 0 não no PL 2253/2022 (fim da saidinha) em 20/02/2024."
+  },
+  "DE01": {
+   "v": 1,
+   "conf": "partido",
+   "fonte": "https://mediaserver.almg.gov.br/acervo/463/822/2463822.pdf",
+   "nota": "Bancada na ALMG votou 10 sim, 0 não na PEC 24/2023 (fim do referendo para vender a Copasa) em 24/10/2025; 2º turno: 10 sim, 1 não (05/11/2025)."
+  }
+ },
+ "PSDB": {
+  "G07": {
+   "v": 2,
+   "conf": "partido",
+   "fonte": "https://dadosabertos.camara.leg.br/api/v2/votacoes/257161-483/votos",
+   "nota": "Bancada na Câmara votou 7 sim, 0 não no PL 2159/2021, que flexibiliza o licenciamento ambiental em 17/07/2025."
+  },
+  "G08": {
+   "v": 4,
+   "conf": "partido",
+   "fonte": "https://dadosabertos.camara.leg.br/api/v2/votacoes/2562149-7/votos",
+   "nota": "Bancada na Câmara votou 10 sim, 2 não na urgência da anistia ao 8/1 (PL 2162/2023) em 17/09/2025."
+  },
+  "G14": {
+   "v": 4,
+   "conf": "partido",
+   "fonte": "https://dadosabertos.camara.leg.br/api/v2/votacoes/2233802-424/votos",
+   "nota": "Bancada na Câmara votou 17 sim, 0 não na PEC 221/2019 (40h semanais e fim da escala 6x1) em 27/05/2026."
+  },
+  "P04": {
+   "v": 4,
+   "conf": "partido",
+   "fonte": "https://dadosabertos.camara.leg.br/api/v2/votacoes/2265124-70/orientacoes",
+   "nota": "Orientou sim; bancada na Câmara votou 25 sim, 5 não no PLP 19/2019 (autonomia do Banco Central) em 10/02/2021."
+  },
+  "GV02": {
+   "v": 4,
+   "conf": "partido",
+   "fonte": "https://kikacastro.com.br/wp-content/uploads/2026/08/plano-governo-kalil-2026-tre.pdf#page=48",
+   "nota": "Plano de Alexandre Kalil (PDT), candidato da coligação do partido em MG, prevê universalizar câmeras corporais na polícia."
+  },
+  "GV03": {
+   "v": 4,
+   "conf": "partido",
+   "fonte": "https://www.em.com.br/politica/2026/09/7498883-o-que-o-futuro-governador-de-minas-propoe-para-controlar-a-mineracao.html",
+   "nota": "Kalil, candidato da coligação do partido em MG, condiciona a expansão da mineração à segurança e à proteção ambiental."
+  },
+  "GV05": {
+   "v": 2,
+   "conf": "partido",
+   "fonte": "https://kikacastro.com.br/wp-content/uploads/2026/08/plano-governo-kalil-2026-tre.pdf#page=23",
+   "nota": "Plano de Kalil, candidato da coligação do partido em MG, diz que incentivo fiscal não deve ser 'automático e permanente'."
+  },
+  "DF03": {
+   "v": 4,
+   "conf": "partido",
+   "fonte": "https://dadosabertos.camara.leg.br/api/v2/votacoes/345311-270/votos",
+   "nota": "Bancada na Câmara votou 10 sim, 2 não no PL 490/2007 (marco temporal) em 30/05/2023."
+  },
+  "DF04": {
+   "v": 4,
+   "conf": "partido",
+   "fonte": "https://dadosabertos.camara.leg.br/api/v2/votacoes/257161-483/votos",
+   "nota": "Bancada na Câmara votou 7 sim, 0 não no PL 2159/2021 (Lei Geral do Licenciamento) em 17/07/2025."
+  },
+  "DE01": {
+   "v": 2,
+   "conf": "partido",
+   "fonte": "https://mediaserver.almg.gov.br/acervo/463/822/2463822.pdf",
+   "nota": "Bancada na ALMG votou 2 sim, 0 não na PEC 24/2023 (fim do referendo para vender a Copasa) em 24/10/2025."
+  }
+ },
+ "PSOL": {
+  "G01": {
+   "v": 1,
+   "conf": "partido",
+   "fonte": "https://psol50.org.br/partido/programa/",
+   "nota": "Programa do partido critica a agenda de austeridade e defende investimentos públicos 'sem restrições orçamentárias'."
+  },
+  "G02": {
+   "v": 5,
+   "conf": "partido",
+   "fonte": "https://psol50.org.br/partido/programa/",
+   "nota": "Programa do partido defende a 'garantia de renda básica universal'."
+  },
+  "G03": {
+   "v": 1,
+   "conf": "partido",
+   "fonte": "https://psol50.org.br/partido/programa/",
+   "nota": "Programa defende serviços públicos 'contra as privatizações' e a reversão das privatizações em setores estratégicos."
+  },
+  "G04": {
+   "v": 2,
+   "conf": "partido",
+   "fonte": "https://dadosabertos.camara.leg.br/api/v2/votacoes/2357898-11/orientacoes",
+   "nota": "Orientou não; bancada na Câmara votou 0 sim, 11 não na urgência do PDL 3/2023 (sustava decreto que restringiu armas) em 06/12/2023."
+  },
+  "G05": {
+   "v": 5,
+   "conf": "partido",
+   "fonte": "https://psol50.org.br/partido/programa/",
+   "nota": "Programa do partido defende a 'legalização do aborto assegurado pelo SUS'."
+  },
+  "G06": {
+   "v": 4,
+   "conf": "partido",
+   "fonte": "https://dadosabertos.camara.leg.br/api/v2/votacoes/2428236-50/orientacoes",
+   "nota": "Orientou não; bancada na Câmara votou 0 sim, 2 não na CCJ, PEC 45/2023 (porte de droga como crime), em 12/06/2024."
+  },
+  "G07": {
+   "v": 4,
+   "conf": "partido",
+   "fonte": "https://dadosabertos.camara.leg.br/api/v2/votacoes/257161-483/votos",
+   "nota": "Bancada na Câmara votou 0 sim, 9 não no PL 2159/2021, que flexibiliza o licenciamento ambiental em 17/07/2025."
+  },
+  "G08": {
+   "v": 1,
+   "conf": "partido",
+   "fonte": "https://dadosabertos.camara.leg.br/api/v2/votacoes/2562149-7/orientacoes",
+   "nota": "Orientou não; bancada na Câmara votou 0 sim, 14 não na urgência da anistia ao 8/1 (PL 2162/2023) em 17/09/2025; Dosimetria: 0 sim, 12 não (09/12/2025)."
+  },
+  "G09": {
+   "v": 2,
+   "conf": "partido",
+   "fonte": "https://dadosabertos.camara.leg.br/api/v2/votacoes/2410488-45/orientacoes",
+   "nota": "Orientou não; bancada na Câmara votou 0 sim, 2 não na CCJ, PEC 8/2021 (limita decisões monocráticas), em 09/10/2024."
+  },
+  "G10": {
+   "v": 5,
+   "conf": "partido",
+   "fonte": "https://psol50.org.br/partido/programa/",
+   "nota": "Programa defende 'regulação democrática da tecnologia'; bancada votou 11 a 0 pela urgência do PL 2630/2020 (25/04/2023)."
+  },
+  "G11": {
+   "v": 4,
+   "conf": "partido",
+   "fonte": "https://dadosabertos.camara.leg.br/api/v2/votacoes/2462049-9/orientacoes",
+   "nota": "Orientou sim; bancada na Câmara votou 11 sim, 0 não na urgência do PL 1958/2021 (cotas em concursos) em 13/11/2024."
+  },
+  "G12": {
+   "v": 2,
+   "conf": "partido",
+   "fonte": "https://dadosabertos.camara.leg.br/api/v2/votacoes/1228863-102/orientacoes",
+   "nota": "Orientou não; bancada na Câmara votou 0 sim, 1 não na CCJ, PEC 32/2015 (maioridade penal aos 16), em 10/06/2026."
+  },
+  "G13": {
+   "v": 2,
+   "conf": "partido",
+   "fonte": "https://psol50.org.br/partido/programa/",
+   "nota": "Programa do partido defende educação pública 'laica'."
+  },
+  "G14": {
+   "v": 5,
+   "conf": "partido",
+   "fonte": "https://psol50.org.br/partido/programa/",
+   "nota": "Programa defende redução da jornada sem redução de salário; bancada votou 12 a 0 pela PEC 221/2019 (27/05/2026)."
+  },
+  "P01": {
+   "v": 1,
+   "conf": "partido",
+   "fonte": "https://psol50.org.br/partido/programa/",
+   "nota": "Programa critica a 'defesa da manutenção de superávits fiscais primários' como ortodoxia ultrapassada."
+  },
+  "P03": {
+   "v": 2,
+   "conf": "partido",
+   "fonte": "https://psol50.org.br/partido/programa/",
+   "nota": "Programa do partido se define como anti-imperialista e critica a dependência do 'imperialismo estadunidense'."
+  },
+  "P04": {
+   "v": 1,
+   "conf": "partido",
+   "fonte": "https://psol50.org.br/partido/programa/",
+   "nota": "Programa propõe a 'reversão da autonomia do Banco Central'; bancada votou 0 a 9 contra o PLP 19/2019 (2021)."
+  },
+  "P06": {
+   "v": 4,
+   "conf": "partido",
+   "fonte": "https://psol50.org.br/partido/programa/",
+   "nota": "Programa do partido defende 'soberania tecnológica e industrial'."
+  },
+  "GV03": {
+   "v": 4,
+   "conf": "partido",
+   "fonte": "https://kikacastro.com.br/wp-content/uploads/2026/08/plano-de-governo-patrus-ananias-2026-2030.pdf#page=13",
+   "nota": "Plano de Patrus Ananias (PT), candidato da coligação que o partido integra em MG, propõe maior rigor na fiscalização da mineração e barragens."
+  },
+  "GV05": {
+   "v": 2,
+   "conf": "partido",
+   "fonte": "https://kikacastro.com.br/wp-content/uploads/2026/08/plano-de-governo-patrus-ananias-2026-2030.pdf#page=20",
+   "nota": "Plano de Patrus Ananias (PT), candidato da coligação do partido em MG, propõe rever subsídios e benefícios fiscais."
+  },
+  "GV06": {
+   "v": 2,
+   "conf": "partido",
+   "fonte": "https://kikacastro.com.br/wp-content/uploads/2026/08/plano-de-governo-patrus-ananias-2026-2030.pdf#page=6",
+   "nota": "Plano de Patrus Ananias (PT), candidato da coligação do partido em MG, propõe 'o fim da militarização das escolas'."
+  },
+  "S03": {
+   "v": 2,
+   "conf": "partido",
+   "fonte": "https://dadosabertos.camara.leg.br/api/v2/votacoes/2410488-45/orientacoes",
+   "nota": "Orientou não; bancada na Câmara votou 0 sim, 2 não na CCJ, PEC 8/2021 (limita decisões monocráticas), em 09/10/2024."
+  },
+  "DF02": {
+   "v": 2,
+   "conf": "partido",
+   "fonte": "https://dadosabertos.camara.leg.br/api/v2/votacoes/2270800-135/orientacoes",
+   "nota": "Orientou não; bancada na Câmara votou 0 sim, 14 não na PEC 3/2021 (PEC da Blindagem), 1º turno em 16/09/2025."
+  },
+  "DF03": {
+   "v": 2,
+   "conf": "partido",
+   "fonte": "https://dadosabertos.camara.leg.br/api/v2/votacoes/345311-270/orientacoes",
+   "nota": "Orientou não; bancada na Câmara votou 0 sim, 12 não no PL 490/2007 (marco temporal) em 30/05/2023."
+  },
+  "DF04": {
+   "v": 2,
+   "conf": "partido",
+   "fonte": "https://dadosabertos.camara.leg.br/api/v2/votacoes/257161-483/votos",
+   "nota": "Bancada na Câmara votou 0 sim, 9 não no PL 2159/2021 (Lei Geral do Licenciamento) em 17/07/2025."
+  },
+  "DE01": {
+   "v": 4,
+   "conf": "partido",
+   "fonte": "https://mediaserver.almg.gov.br/acervo/463/822/2463822.pdf",
+   "nota": "Bancada na ALMG votou 0 sim, 1 não na PEC 24/2023 (fim do referendo para vender a Copasa) em 24/10/2025."
+  }
+ },
+ "PSTU": {
+  "G01": {
+   "v": 1,
+   "conf": "partido",
+   "fonte": "https://planodegoverno2026.com.br/planos/hertz-dias-762b5f88.pdf#page=28",
+   "nota": "Programa de 2026 (Hertz Dias) propõe o fim da Lei de Responsabilidade Fiscal e a suspensão da dívida aos grandes investidores."
+  },
+  "G02": {
+   "v": 4,
+   "conf": "partido",
+   "fonte": "https://planodegoverno2026.com.br/planos/hertz-dias-762b5f88.pdf#page=2",
+   "nota": "Programa de 2026 (Hertz Dias) chama o Bolsa Família de 'bastante insuficiente'."
+  },
+  "G03": {
+   "v": 1,
+   "conf": "partido",
+   "fonte": "https://planodegoverno2026.com.br/planos/hertz-dias-762b5f88.pdf#page=26",
+   "nota": "Programa de 2026 propõe proibir a privatização de empresas estratégicas e reverter as privatizações já feitas."
+  },
+  "G05": {
+   "v": 5,
+   "conf": "partido",
+   "fonte": "https://planodegoverno2026.com.br/planos/hertz-dias-762b5f88.pdf#page=23",
+   "nota": "Programa de 2026 defende 'aborto legal, seguro e gratuito pelo SUS'."
+  },
+  "G06": {
+   "v": 5,
+   "conf": "partido",
+   "fonte": "https://planodegoverno2026.com.br/planos/hertz-dias-762b5f88.pdf#page=19",
+   "nota": "Programa de 2026 propõe a descriminalização das drogas e a revogação da Lei Antidrogas."
+  },
+  "G07": {
+   "v": 5,
+   "conf": "partido",
+   "fonte": "https://planodegoverno2026.com.br/planos/hertz-dias-762b5f88.pdf#page=15",
+   "nota": "Programa de 2026 propõe 'enfrentar o agronegócio', o fim dos agrotóxicos e rejeita petróleo na Margem Equatorial."
+  },
+  "G11": {
+   "v": 5,
+   "conf": "partido",
+   "fonte": "https://planodegoverno2026.com.br/planos/hertz-dias-762b5f88.pdf#page=21",
+   "nota": "Programa de 2026 defende 'manutenção e ampliação de cotas para negros nas universidades e serviços públicos'."
+  },
+  "G12": {
+   "v": 1,
+   "conf": "partido",
+   "fonte": "https://planodegoverno2026.com.br/planos/hertz-dias-762b5f88.pdf#page=21",
+   "nota": "Programa de 2026 se declara 'contra a redução da maioridade penal'."
+  },
+  "G13": {
+   "v": 2,
+   "conf": "partido",
+   "fonte": "https://planodegoverno2026.com.br/planos/hertz-dias-762b5f88.pdf#page=23",
+   "nota": "Programa de 2026 defende o aborto legal pelo SUS 'contra qualquer interferência de igrejas'."
+  },
+  "G14": {
+   "v": 5,
+   "conf": "partido",
+   "fonte": "https://planodegoverno2026.com.br/planos/hertz-dias-762b5f88.pdf#page=8",
+   "nota": "Programa de 2026 propõe o fim da escala 6x1 e jornada de 36 horas, sem redução de salário."
+  },
+  "P01": {
+   "v": 1,
+   "conf": "partido",
+   "fonte": "https://planodegoverno2026.com.br/planos/hertz-dias-762b5f88.pdf#page=28",
+   "nota": "Programa de 2026 propõe suspender o pagamento da dívida pública aos grandes investidores e acabar com a LRF."
+  },
+  "P03": {
+   "v": 2,
+   "conf": "partido",
+   "fonte": "https://planodegoverno2026.com.br/planos/hertz-dias-762b5f88.pdf#page=5",
+   "nota": "Programa de 2026 prega enfrentar 'o imperialismo'; critica EUA e Europa e diz que a China não é alternativa."
+  },
+  "P06": {
+   "v": 4,
+   "conf": "partido",
+   "fonte": "https://planodegoverno2026.com.br/planos/hertz-dias-762b5f88.pdf#page=26",
+   "nota": "Programa de 2026 propõe usar excedentes de estatais para criar setores de alta tecnologia e reindustrializar o país."
+  },
+  "GV03": {
+   "v": 5,
+   "conf": "partido",
+   "fonte": "https://kikacastro.com.br/wp-content/uploads/2026/08/programa-tre-pstu-mg.pdf#page=36",
+   "nota": "Programa do PSTU-MG propõe estatizar as mineradoras sob 'controle operário e popular da mineração'."
+  },
+  "GV05": {
+   "v": 1,
+   "conf": "partido",
+   "fonte": "https://kikacastro.com.br/wp-content/uploads/2026/08/programa-tre-pstu-mg.pdf#page=42",
+   "nota": "Programa do PSTU-MG propõe o 'fim das isenções fiscais às grandes empresas privadas'."
+  },
+  "GV06": {
+   "v": 2,
+   "conf": "partido",
+   "fonte": "https://kikacastro.com.br/wp-content/uploads/2026/08/programa-tre-pstu-mg.pdf#page=3",
+   "nota": "Programa do PSTU-MG critica a 'militarização das escolas' do governo estadual."
+  },
+  "DF03": {
+   "v": 1,
+   "conf": "partido",
+   "fonte": "https://planodegoverno2026.com.br/planos/hertz-dias-762b5f88.pdf#page=15",
+   "nota": "Programa de 2026 critica a aprovação do Marco Temporal e defende a demarcação de terras indígenas e quilombolas."
+  },
+  "DE02": {
+   "v": 5,
+   "conf": "partido",
+   "fonte": "https://kikacastro.com.br/wp-content/uploads/2026/08/programa-tre-pstu-mg.pdf#page=37",
+   "nota": "Programa do PSTU-MG propõe pagamento do Piso Nacional do Magistério aos trabalhadores da educação."
+  },
+  "DE04": {
+   "v": 5,
+   "conf": "partido",
+   "fonte": "https://kikacastro.com.br/wp-content/uploads/2026/08/programa-tre-pstu-mg.pdf#page=40",
+   "nota": "Programa do PSTU-MG propõe estatizar as empresas de ônibus e adotar tarifa zero."
+  }
+ },
+ "PT": {
+  "G01": {
+   "v": 2,
+   "conf": "partido",
+   "fonte": "https://planodegoverno2026.com.br/planos/lula-e48f1c29.pdf#page=18",
+   "nota": "Plano de 2026 (Lula) defende o 'fortalecimento do Estado de bem-estar social' e justiça tributária para combater desigualdades."
+  },
+  "G02": {
+   "v": 5,
+   "conf": "partido",
+   "fonte": "https://planodegoverno2026.com.br/planos/lula-e48f1c29.pdf#page=18",
+   "nota": "Plano de 2026 (Lula) diz que é preciso 'manter, aperfeiçoar e ampliar' a proteção social; afirma ter recriado e expandido o Bolsa Família."
+  },
+  "G03": {
+   "v": 2,
+   "conf": "partido",
+   "fonte": "https://dadosabertos.camara.leg.br/api/v2/votacoes/2270894-103/orientacoes",
+   "nota": "Orientou não; bancada na Câmara votou 0 sim, 52 não na privatização dos Correios (PL 591/2021) em 05/08/2021."
+  },
+  "G04": {
+   "v": 1,
+   "conf": "partido",
+   "fonte": "https://planodegoverno2026.com.br/planos/lula-e48f1c29.pdf#page=28",
+   "nota": "Plano de 2026 promete manter o controle de armas e munições; bancada votou 0 a 59 contra sustar o decreto de 2023 (06/12/2023)."
+  },
+  "G06": {
+   "v": 4,
+   "conf": "partido",
+   "fonte": "https://dadosabertos.camara.leg.br/api/v2/votacoes/2428236-50/orientacoes",
+   "nota": "Orientou não; bancada na Câmara votou 0 sim, 7 não na CCJ, PEC 45/2023 (porte de droga como crime), em 12/06/2024."
+  },
+  "G07": {
+   "v": 4,
+   "conf": "partido",
+   "fonte": "https://dadosabertos.camara.leg.br/api/v2/votacoes/257161-483/votos",
+   "nota": "Bancada na Câmara votou 0 sim, 42 não no PL 2159/2021, que flexibiliza o licenciamento ambiental em 17/07/2025."
+  },
+  "G08": {
+   "v": 1,
+   "conf": "partido",
+   "fonte": "https://dadosabertos.camara.leg.br/api/v2/votacoes/2562149-7/orientacoes",
+   "nota": "Orientou não; bancada na Câmara votou 0 sim, 66 não na urgência da anistia ao 8/1 (PL 2162/2023) em 17/09/2025; Dosimetria: 0 sim, 65 não (09/12/2025)."
+  },
+  "G09": {
+   "v": 2,
+   "conf": "partido",
+   "fonte": "https://dadosabertos.camara.leg.br/api/v2/votacoes/2410488-45/orientacoes",
+   "nota": "Orientou não; bancada na Câmara votou 0 sim, 7 não na CCJ, PEC 8/2021 (limita decisões monocráticas), em 09/10/2024."
+  },
+  "G10": {
+   "v": 5,
+   "conf": "partido",
+   "fonte": "https://planodegoverno2026.com.br/planos/lula-e48f1c29.pdf#page=16",
+   "nota": "Plano de 2026 defende 'regulação democrática' das plataformas; bancada votou 64 a 0 pela urgência do PL 2630/2020 (25/04/2023)."
+  },
+  "G11": {
+   "v": 5,
+   "conf": "partido",
+   "fonte": "https://dadosabertos.camara.leg.br/api/v2/votacoes/2462049-9/orientacoes",
+   "nota": "Orientou sim; bancada na Câmara votou 59 sim, 0 não na urgência do PL 1958/2021 (cotas em concursos) em 13/11/2024; ALMG: 7 sim, 0 não (16/12/2025)."
+  },
+  "G12": {
+   "v": 2,
+   "conf": "partido",
+   "fonte": "https://dadosabertos.camara.leg.br/api/v2/votacoes/1228863-102/orientacoes",
+   "nota": "Orientou não; bancada na Câmara votou 0 sim, 6 não na CCJ, PEC 32/2015 (maioridade penal aos 16), em 10/06/2026."
+  },
+  "G14": {
+   "v": 5,
+   "conf": "partido",
+   "fonte": "https://planodegoverno2026.com.br/planos/lula-e48f1c29.pdf#page=75",
+   "nota": "Plano de 2026 promete assegurar no Senado o fim da escala 6x1 e jornada de 40h; bancada votou 65 a 0 pela PEC 221/2019 (27/05/2026)."
+  },
+  "P01": {
+   "v": 2,
+   "conf": "partido",
+   "fonte": "https://planodegoverno2026.com.br/planos/lula-e48f1c29.pdf#page=49",
+   "nota": "Plano de 2026 mantém o arcabouço fiscal, que diz controlar despesas 'sem prejudicar as políticas sociais'; não prioriza déficit zero."
+  },
+  "P03": {
+   "v": 2,
+   "conf": "partido",
+   "fonte": "https://planodegoverno2026.com.br/planos/lula-e48f1c29.pdf#page=81",
+   "nota": "Plano de 2026 promete aprofundar 'a aproximação geopolítica com o BRICS e com o Sul Global' e rejeita alinhamentos automáticos."
+  },
+  "P04": {
+   "v": 2,
+   "conf": "partido",
+   "fonte": "https://dadosabertos.camara.leg.br/api/v2/votacoes/2265124-70/orientacoes",
+   "nota": "Orientou não; bancada na Câmara votou 0 sim, 47 não no PLP 19/2019 (autonomia do Banco Central) em 10/02/2021."
+  },
+  "P06": {
+   "v": 5,
+   "conf": "partido",
+   "fonte": "https://planodegoverno2026.com.br/planos/lula-e48f1c29.pdf#page=50",
+   "nota": "Plano de 2026 chama a Nova Indústria Brasil de política industrial 'indispensável' e cita R$ 860 bi em financiamentos até 2026."
+  },
+  "GV01": {
+   "v": 1,
+   "conf": "partido",
+   "fonte": "https://kikacastro.com.br/wp-content/uploads/2026/08/plano-de-governo-patrus-ananias-2026-2030.pdf#page=12",
+   "nota": "Plano de Patrus Ananias prevê manter a Cemig estatal e rever a privatização da Copasa; bancada na ALMG votou 0 a 11 contra a venda."
+  },
+  "GV03": {
+   "v": 4,
+   "conf": "partido",
+   "fonte": "https://kikacastro.com.br/wp-content/uploads/2026/08/plano-de-governo-patrus-ananias-2026-2030.pdf#page=13",
+   "nota": "Plano de Patrus Ananias (PT-MG) propõe maior rigor na fiscalização da mineração, segurança de barragens e voz aos atingidos."
+  },
+  "GV05": {
+   "v": 2,
+   "conf": "partido",
+   "fonte": "https://kikacastro.com.br/wp-content/uploads/2026/08/plano-de-governo-patrus-ananias-2026-2030.pdf#page=20",
+   "nota": "Plano de Patrus Ananias (PT-MG) propõe rever subsídios e benefícios fiscais e reavaliar isenções à mineração."
+  },
+  "GV06": {
+   "v": 1,
+   "conf": "partido",
+   "fonte": "https://kikacastro.com.br/wp-content/uploads/2026/08/plano-de-governo-patrus-ananias-2026-2030.pdf#page=6",
+   "nota": "Plano de Patrus Ananias (PT-MG) propõe 'o fim da militarização das escolas' e a reestatização das escolas privatizadas."
+  },
+  "S03": {
+   "v": 2,
+   "conf": "partido",
+   "fonte": "https://dadosabertos.camara.leg.br/api/v2/votacoes/2410488-45/orientacoes",
+   "nota": "Orientou não; bancada na Câmara votou 0 sim, 7 não na CCJ, PEC 8/2021 (limita decisões monocráticas), em 09/10/2024."
+  },
+  "DF01": {
+   "v": 4,
+   "conf": "partido",
+   "fonte": "https://planodegoverno2026.com.br/planos/lula-e48f1c29.pdf#page=15",
+   "nota": "Plano de 2026 chama o sistema de emendas parlamentares de 'grave distorção' que 'sequestra o orçamento público'."
+  },
+  "DF02": {
+   "v": 2,
+   "conf": "partido",
+   "fonte": "https://dadosabertos.camara.leg.br/api/v2/votacoes/2270800-135/orientacoes",
+   "nota": "Orientou não; bancada na Câmara votou 12 sim, 51 não na PEC 3/2021 (PEC da Blindagem), 1º turno em 16/09/2025."
+  },
+  "DF03": {
+   "v": 1,
+   "conf": "partido",
+   "fonte": "https://dadosabertos.camara.leg.br/api/v2/votacoes/345311-270/orientacoes",
+   "nota": "Orientou não; bancada na Câmara votou 0 sim, 65 não no PL 490/2007 (marco temporal) em 30/05/2023; Senado, PL 2903/2023: 0 sim, 7 não (27/09/2023)."
+  },
+  "DF04": {
+   "v": 2,
+   "conf": "partido",
+   "fonte": "https://dadosabertos.camara.leg.br/api/v2/votacoes/257161-483/votos",
+   "nota": "Bancada na Câmara votou 0 sim, 42 não no PL 2159/2021 (Lei Geral do Licenciamento) em 17/07/2025."
+  },
+  "DE01": {
+   "v": 5,
+   "conf": "partido",
+   "fonte": "https://mediaserver.almg.gov.br/acervo/463/822/2463822.pdf",
+   "nota": "Bancada na ALMG votou 0 sim, 11 não na PEC 24/2023 (fim do referendo para vender a Copasa) em 24/10/2025; 2º turno: 0 sim, 11 não (05/11/2025)."
+  }
+ },
+ "PV": {
+  "G03": {
+   "v": 3,
+   "conf": "partido",
+   "fonte": "https://dadosabertos.camara.leg.br/api/v2/votacoes/2270894-103/votos",
+   "nota": "Liberou a bancada, que se dividiu (2 sim e 2 não) na privatização dos Correios (PL 591/2021) em 05/08/2021."
+  },
+  "G04": {
+   "v": 1,
+   "conf": "partido",
+   "fonte": "https://pv.org.br/opartido/programa/",
+   "nota": "Programa defende 'vigorosa estratégia de desarmamento'; bancada votou 0 a 3 contra sustar o decreto de armas (2023)."
+  },
+  "G06": {
+   "v": 4,
+   "conf": "partido",
+   "fonte": "https://dadosabertos.camara.leg.br/api/v2/votacoes/2428236-50/orientacoes",
+   "nota": "Orientou não; bancada na Câmara votou 0 sim, 1 não na CCJ, PEC 45/2023 (porte de droga como crime), em 12/06/2024."
+  },
+  "G08": {
+   "v": 1,
+   "conf": "partido",
+   "fonte": "https://dadosabertos.camara.leg.br/api/v2/votacoes/2562149-7/orientacoes",
+   "nota": "Orientou não; bancada na Câmara votou 0 sim, 4 não na urgência da anistia ao 8/1 (PL 2162/2023) em 17/09/2025; Dosimetria: 0 sim, 3 não (09/12/2025)."
+  },
+  "G09": {
+   "v": 2,
+   "conf": "partido",
+   "fonte": "https://dadosabertos.camara.leg.br/api/v2/votacoes/2410488-45/orientacoes",
+   "nota": "Orientou não; bancada na Câmara votou 0 sim, 1 não na CCJ, PEC 8/2021 (limita decisões monocráticas), em 09/10/2024."
+  },
+  "G10": {
+   "v": 4,
+   "conf": "partido",
+   "fonte": "https://dadosabertos.camara.leg.br/api/v2/votacoes/2310837-8/orientacoes",
+   "nota": "Orientou sim; bancada na Câmara votou 5 sim, 0 não na urgência do PL 2630/2020 (responsabiliza plataformas) em 25/04/2023."
+  },
+  "G11": {
+   "v": 5,
+   "conf": "partido",
+   "fonte": "https://dadosabertos.camara.leg.br/api/v2/votacoes/2462049-9/orientacoes",
+   "nota": "Orientou sim; bancada na Câmara votou 3 sim, 0 não na urgência do PL 1958/2021 (cotas em concursos) em 13/11/2024; ALMG: 4 sim, 0 não (16/12/2025)."
+  },
+  "G12": {
+   "v": 2,
+   "conf": "partido",
+   "fonte": "https://dadosabertos.camara.leg.br/api/v2/votacoes/1228863-102/orientacoes",
+   "nota": "Orientou não; bancada na Câmara votou 0 sim, 1 não na CCJ, PEC 32/2015 (maioridade penal aos 16), em 10/06/2026."
+  },
+  "G14": {
+   "v": 4,
+   "conf": "partido",
+   "fonte": "https://dadosabertos.camara.leg.br/api/v2/votacoes/2233802-424/orientacoes",
+   "nota": "Orientou sim; bancada na Câmara votou 6 sim, 0 não na PEC 221/2019 (40h semanais e fim da escala 6x1) em 27/05/2026."
+  },
+  "GV03": {
+   "v": 4,
+   "conf": "partido",
+   "fonte": "https://kikacastro.com.br/wp-content/uploads/2026/08/plano-de-governo-patrus-ananias-2026-2030.pdf#page=13",
+   "nota": "Plano de Patrus Ananias (PT), candidato da coligação que o partido integra em MG, propõe maior rigor na fiscalização da mineração e barragens."
+  },
+  "GV05": {
+   "v": 2,
+   "conf": "partido",
+   "fonte": "https://kikacastro.com.br/wp-content/uploads/2026/08/plano-de-governo-patrus-ananias-2026-2030.pdf#page=20",
+   "nota": "Plano de Patrus Ananias (PT), candidato da coligação do partido em MG, propõe rever subsídios e benefícios fiscais."
+  },
+  "GV06": {
+   "v": 2,
+   "conf": "partido",
+   "fonte": "https://kikacastro.com.br/wp-content/uploads/2026/08/plano-de-governo-patrus-ananias-2026-2030.pdf#page=6",
+   "nota": "Plano de Patrus Ananias (PT), candidato da coligação do partido em MG, propõe 'o fim da militarização das escolas'."
+  },
+  "S03": {
+   "v": 2,
+   "conf": "partido",
+   "fonte": "https://dadosabertos.camara.leg.br/api/v2/votacoes/2410488-45/orientacoes",
+   "nota": "Orientou não; bancada na Câmara votou 0 sim, 1 não na CCJ, PEC 8/2021 (limita decisões monocráticas), em 09/10/2024."
+  },
+  "DF03": {
+   "v": 2,
+   "conf": "partido",
+   "fonte": "https://dadosabertos.camara.leg.br/api/v2/votacoes/345311-270/orientacoes",
+   "nota": "Orientou não; bancada na Câmara votou 1 sim, 5 não no PL 490/2007 (marco temporal) em 30/05/2023."
+  }
+ },
+ "REDE": {
+  "G03": {
+   "v": 2,
+   "conf": "partido",
+   "fonte": "https://dadosabertos.camara.leg.br/api/v2/votacoes/2270894-103/orientacoes",
+   "nota": "Orientou não; bancada na Câmara votou 0 sim, 1 não na privatização dos Correios (PL 591/2021) em 05/08/2021."
+  },
+  "G08": {
+   "v": 1,
+   "conf": "partido",
+   "fonte": "https://dadosabertos.camara.leg.br/api/v2/votacoes/2562149-7/orientacoes",
+   "nota": "Orientou não; bancada na Câmara votou 0 sim, 1 não na urgência da anistia ao 8/1 (PL 2162/2023) em 17/09/2025; Dosimetria: 0 sim, 3 não (09/12/2025)."
+  },
+  "G10": {
+   "v": 4,
+   "conf": "partido",
+   "fonte": "https://dadosabertos.camara.leg.br/api/v2/votacoes/2310837-8/orientacoes",
+   "nota": "Orientou sim; bancada na Câmara votou 1 sim, 0 não na urgência do PL 2630/2020 (responsabiliza plataformas) em 25/04/2023."
+  },
+  "G11": {
+   "v": 4,
+   "conf": "partido",
+   "fonte": "https://mediaserver.almg.gov.br/acervo/509/176/2509176.pdf",
+   "nota": "Bancada na ALMG votou 2 sim, 0 não no PL 438/2019 (cotas raciais em concursos de MG) em 16/12/2025."
+  },
+  "G12": {
+   "v": 2,
+   "conf": "partido",
+   "fonte": "https://dadosabertos.camara.leg.br/api/v2/votacoes/1228863-102/orientacoes",
+   "nota": "Orientou não; bancada na Câmara votou 0 sim, 1 não na CCJ, PEC 32/2015 (maioridade penal aos 16), em 10/06/2026."
+  },
+  "G14": {
+   "v": 4,
+   "conf": "partido",
+   "fonte": "https://dadosabertos.camara.leg.br/api/v2/votacoes/2233802-424/orientacoes",
+   "nota": "Orientou sim; bancada na Câmara votou 4 sim, 0 não na PEC 221/2019 (40h semanais e fim da escala 6x1) em 27/05/2026."
+  },
+  "P04": {
+   "v": 2,
+   "conf": "partido",
+   "fonte": "https://dadosabertos.camara.leg.br/api/v2/votacoes/2265124-70/orientacoes",
+   "nota": "Orientou não; bancada na Câmara votou 0 sim, 1 não no PLP 19/2019 (autonomia do Banco Central) em 10/02/2021."
+  },
+  "GV03": {
+   "v": 4,
+   "conf": "partido",
+   "fonte": "https://kikacastro.com.br/wp-content/uploads/2026/08/plano-de-governo-patrus-ananias-2026-2030.pdf#page=13",
+   "nota": "Plano de Patrus Ananias (PT), candidato da coligação que o partido integra em MG, propõe maior rigor na fiscalização da mineração e barragens."
+  },
+  "GV05": {
+   "v": 2,
+   "conf": "partido",
+   "fonte": "https://kikacastro.com.br/wp-content/uploads/2026/08/plano-de-governo-patrus-ananias-2026-2030.pdf#page=20",
+   "nota": "Plano de Patrus Ananias (PT), candidato da coligação do partido em MG, propõe rever subsídios e benefícios fiscais."
+  },
+  "GV06": {
+   "v": 2,
+   "conf": "partido",
+   "fonte": "https://kikacastro.com.br/wp-content/uploads/2026/08/plano-de-governo-patrus-ananias-2026-2030.pdf#page=6",
+   "nota": "Plano de Patrus Ananias (PT), candidato da coligação do partido em MG, propõe 'o fim da militarização das escolas'."
+  },
+  "S05": {
+   "v": 5,
+   "conf": "partido",
+   "fonte": "https://redesustentabilidade.org.br/wp-content/uploads/2020/02/Manifesto-da-Rede.pdf#page=9",
+   "nota": "Manifesto da Rede defende o 'fim da reeleição para os cargos do Poder Executivo' com mandato mais longo."
+  },
+  "DF02": {
+   "v": 2,
+   "conf": "partido",
+   "fonte": "https://dadosabertos.camara.leg.br/api/v2/votacoes/2270800-135/orientacoes",
+   "nota": "Orientou não; bancada na Câmara votou 0 sim, 1 não na PEC 3/2021 (PEC da Blindagem), 1º turno em 16/09/2025."
+  },
+  "DF03": {
+   "v": 2,
+   "conf": "partido",
+   "fonte": "https://dadosabertos.camara.leg.br/api/v2/votacoes/345311-270/orientacoes",
+   "nota": "Orientou não; bancada na Câmara votou 0 sim, 1 não no PL 490/2007 (marco temporal) em 30/05/2023."
+  },
+  "DE01": {
+   "v": 4,
+   "conf": "partido",
+   "fonte": "https://mediaserver.almg.gov.br/acervo/463/822/2463822.pdf",
+   "nota": "Bancada na ALMG votou 0 sim, 1 não na PEC 24/2023 (fim do referendo para vender a Copasa) em 24/10/2025."
+  }
+ },
+ "REPUBLICANOS": {
+  "G03": {
+   "v": 4,
+   "conf": "partido",
+   "fonte": "https://dadosabertos.camara.leg.br/api/v2/votacoes/2270894-103/orientacoes",
+   "nota": "Orientou sim; bancada na Câmara votou 29 sim, 0 não na privatização dos Correios (PL 591/2021) em 05/08/2021."
+  },
+  "G04": {
+   "v": 4,
+   "conf": "partido",
+   "fonte": "https://dadosabertos.camara.leg.br/api/v2/votacoes/2357898-11/votos",
+   "nota": "Bancada na Câmara votou 29 sim, 5 não na urgência do PDL 3/2023 (sustava decreto que restringiu armas) em 06/12/2023."
+  },
+  "G05": {
+   "v": 2,
+   "conf": "partido",
+   "fonte": "https://dadosabertos.camara.leg.br/api/v2/votacoes/543252-60/orientacoes",
+   "nota": "Orientou sim; bancada na Câmara votou 4 sim, 0 não na CCJ, PEC 164/2012 (vida desde a concepção), em 27/11/2024."
+  },
+  "G06": {
+   "v": 1,
+   "conf": "partido",
+   "fonte": "https://dadosabertos.camara.leg.br/api/v2/votacoes/2428236-50/orientacoes",
+   "nota": "Orientou sim; bancada na Câmara votou 5 sim, 0 não na CCJ, PEC 45/2023 (porte de droga como crime), em 12/06/2024; Senado: 4 sim, 0 não (16/04/2024)."
+  },
+  "G07": {
+   "v": 2,
+   "conf": "partido",
+   "fonte": "https://dadosabertos.camara.leg.br/api/v2/votacoes/257161-483/votos",
+   "nota": "Bancada na Câmara votou 28 sim, 0 não no PL 2159/2021, que flexibiliza o licenciamento ambiental em 17/07/2025."
+  },
+  "G08": {
+   "v": 4,
+   "conf": "partido",
+   "fonte": "https://dadosabertos.camara.leg.br/api/v2/votacoes/2562149-7/votos",
+   "nota": "Bancada na Câmara votou 40 sim, 1 não na urgência da anistia ao 8/1 (PL 2162/2023) em 17/09/2025."
+  },
+  "G09": {
+   "v": 4,
+   "conf": "partido",
+   "fonte": "https://dadosabertos.camara.leg.br/api/v2/votacoes/2410488-45/orientacoes",
+   "nota": "Orientou sim; bancada na Câmara votou 5 sim, 0 não na CCJ, PEC 8/2021 (limita decisões monocráticas), em 09/10/2024."
+  },
+  "G11": {
+   "v": 4,
+   "conf": "partido",
+   "fonte": "https://dadosabertos.camara.leg.br/api/v2/votacoes/2462049-9/votos",
+   "nota": "Bancada na Câmara votou 34 sim, 5 não na urgência do PL 1958/2021 (cotas em concursos) em 13/11/2024."
+  },
+  "G12": {
+   "v": 4,
+   "conf": "partido",
+   "fonte": "https://dadosabertos.camara.leg.br/api/v2/votacoes/1228863-102/votos",
+   "nota": "Bancada na Câmara votou 5 sim, 0 não na CCJ, PEC 32/2015 (maioridade penal aos 16), em 10/06/2026."
+  },
+  "G14": {
+   "v": 4,
+   "conf": "partido",
+   "fonte": "https://dadosabertos.camara.leg.br/api/v2/votacoes/2233802-424/votos",
+   "nota": "Bancada na Câmara votou 41 sim, 0 não na PEC 221/2019 (40h semanais e fim da escala 6x1) em 27/05/2026."
+  },
+  "P04": {
+   "v": 4,
+   "conf": "partido",
+   "fonte": "https://dadosabertos.camara.leg.br/api/v2/votacoes/2265124-70/orientacoes",
+   "nota": "Orientou sim; bancada na Câmara votou 30 sim, 0 não no PLP 19/2019 (autonomia do Banco Central) em 10/02/2021."
+  },
+  "S03": {
+   "v": 5,
+   "conf": "partido",
+   "fonte": "https://dadosabertos.camara.leg.br/api/v2/votacoes/2410488-45/orientacoes",
+   "nota": "Orientou sim; bancada na Câmara votou 5 sim, 0 não na CCJ, PEC 8/2021 (limita decisões monocráticas), em 09/10/2024; Senado: 3 sim, 0 não (22/11/2023)."
+  },
+  "DF02": {
+   "v": 4,
+   "conf": "partido",
+   "fonte": "https://dadosabertos.camara.leg.br/api/v2/votacoes/2270800-135/votos",
+   "nota": "Bancada na Câmara votou 42 sim, 0 não na PEC 3/2021 (PEC da Blindagem), 1º turno em 16/09/2025."
+  },
+  "DF03": {
+   "v": 4,
+   "conf": "partido",
+   "fonte": "https://dadosabertos.camara.leg.br/api/v2/votacoes/345311-270/votos",
+   "nota": "Bancada na Câmara votou 33 sim, 4 não no PL 490/2007 (marco temporal) em 30/05/2023."
+  },
+  "DF04": {
+   "v": 4,
+   "conf": "partido",
+   "fonte": "https://dadosabertos.camara.leg.br/api/v2/votacoes/257161-483/votos",
+   "nota": "Bancada na Câmara votou 28 sim, 0 não no PL 2159/2021 (Lei Geral do Licenciamento) em 17/07/2025."
+  },
+  "DF06": {
+   "v": 4,
+   "conf": "partido",
+   "fonte": "https://legis.senado.leg.br/dadosabertos/votacao?dataInicio=2024-02-20&dataFim=2024-02-20",
+   "nota": "Bancada no Senado votou 3 sim, 0 não no PL 2253/2022 (fim da saidinha) em 20/02/2024."
+  },
+  "DE01": {
+   "v": 2,
+   "conf": "partido",
+   "fonte": "https://mediaserver.almg.gov.br/acervo/463/822/2463822.pdf",
+   "nota": "Bancada na ALMG votou 4 sim, 0 não na PEC 24/2023 (fim do referendo para vender a Copasa) em 24/10/2025."
+  }
+ },
+ "SOLIDARIEDADE": {
+  "G03": {
+   "v": 4,
+   "conf": "partido",
+   "fonte": "https://dadosabertos.camara.leg.br/api/v2/votacoes/2270894-103/orientacoes",
+   "nota": "Orientou sim; bancada na Câmara votou 9 sim, 2 não na privatização dos Correios (PL 591/2021) em 05/08/2021."
+  },
+  "G08": {
+   "v": 4,
+   "conf": "partido",
+   "fonte": "https://dadosabertos.camara.leg.br/api/v2/votacoes/2562149-7/votos",
+   "nota": "Bancada na Câmara votou 4 sim, 1 não na urgência da anistia ao 8/1 (PL 2162/2023) em 17/09/2025."
+  },
+  "G11": {
+   "v": 4,
+   "conf": "partido",
+   "fonte": "https://dadosabertos.camara.leg.br/api/v2/votacoes/2462049-9/votos",
+   "nota": "Bancada na Câmara votou 3 sim, 0 não na urgência do PL 1958/2021 (cotas em concursos) em 13/11/2024."
+  },
+  "G14": {
+   "v": 4,
+   "conf": "partido",
+   "fonte": "https://dadosabertos.camara.leg.br/api/v2/votacoes/2233802-424/orientacoes",
+   "nota": "Orientou sim; bancada na Câmara votou 6 sim, 0 não na PEC 221/2019 (40h semanais e fim da escala 6x1) em 27/05/2026."
+  },
+  "P04": {
+   "v": 4,
+   "conf": "partido",
+   "fonte": "https://dadosabertos.camara.leg.br/api/v2/votacoes/2265124-70/orientacoes",
+   "nota": "Orientou sim; bancada na Câmara votou 12 sim, 2 não no PLP 19/2019 (autonomia do Banco Central) em 10/02/2021."
+  },
+  "GV06": {
+   "v": 4,
+   "conf": "partido",
+   "fonte": "https://www.otempo.com.br/politica/2026/4/13/escolas-civico-militares-podem-chegar-a-700-desde-que-existam-militares-interessados-diz-simoes",
+   "nota": "Mateus Simões (PSD), candidato da coligação do partido em MG, prevê até 700 escolas cívico-militares no estado."
+  },
+  "DE01": {
+   "v": 2,
+   "conf": "partido",
+   "fonte": "https://mediaserver.almg.gov.br/acervo/463/822/2463822.pdf",
+   "nota": "Bancada na ALMG votou 1 sim, 0 não na PEC 24/2023 (fim do referendo para vender a Copasa) em 24/10/2025."
+  }
+ },
+ "UNIÃO": {
+  "G06": {
+   "v": 1,
+   "conf": "partido",
+   "fonte": "https://dadosabertos.camara.leg.br/api/v2/votacoes/2428236-50/orientacoes",
+   "nota": "Orientou sim; bancada na Câmara votou 10 sim, 0 não na CCJ, PEC 45/2023 (porte de droga como crime), em 12/06/2024; Senado: 6 sim, 0 não (16/04/2024)."
+  },
+  "G07": {
+   "v": 2,
+   "conf": "partido",
+   "fonte": "https://dadosabertos.camara.leg.br/api/v2/votacoes/257161-483/votos",
+   "nota": "Bancada na Câmara votou 36 sim, 3 não no PL 2159/2021, que flexibiliza o licenciamento ambiental em 17/07/2025."
+  },
+  "G08": {
+   "v": 4,
+   "conf": "partido",
+   "fonte": "https://dadosabertos.camara.leg.br/api/v2/votacoes/2562149-7/votos",
+   "nota": "Bancada na Câmara votou 49 sim, 6 não na urgência da anistia ao 8/1 (PL 2162/2023) em 17/09/2025."
+  },
+  "G09": {
+   "v": 4,
+   "conf": "partido",
+   "fonte": "https://dadosabertos.camara.leg.br/api/v2/votacoes/2410488-45/votos",
+   "nota": "Bancada na Câmara votou 9 sim, 0 não na CCJ, PEC 8/2021 (limita decisões monocráticas), em 09/10/2024."
+  },
+  "G12": {
+   "v": 4,
+   "conf": "partido",
+   "fonte": "https://dadosabertos.camara.leg.br/api/v2/votacoes/1228863-102/orientacoes",
+   "nota": "Orientou sim; bancada na Câmara votou 9 sim, 0 não na CCJ, PEC 32/2015 (maioridade penal aos 16), em 10/06/2026."
+  },
+  "G14": {
+   "v": 4,
+   "conf": "partido",
+   "fonte": "https://dadosabertos.camara.leg.br/api/v2/votacoes/2233802-424/votos",
+   "nota": "Bancada na Câmara votou 46 sim, 2 não na PEC 221/2019 (40h semanais e fim da escala 6x1) em 27/05/2026."
+  },
+  "GV06": {
+   "v": 4,
+   "conf": "partido",
+   "fonte": "https://www.otempo.com.br/politica/2026/4/13/escolas-civico-militares-podem-chegar-a-700-desde-que-existam-militares-interessados-diz-simoes",
+   "nota": "Mateus Simões (PSD), candidato da coligação do partido em MG, prevê até 700 escolas cívico-militares no estado."
+  },
+  "S03": {
+   "v": 4,
+   "conf": "partido",
+   "fonte": "https://dadosabertos.camara.leg.br/api/v2/votacoes/2410488-45/votos",
+   "nota": "Bancada na Câmara votou 9 sim, 0 não na CCJ, PEC 8/2021 (limita decisões monocráticas), em 09/10/2024."
+  },
+  "DF02": {
+   "v": 4,
+   "conf": "partido",
+   "fonte": "https://dadosabertos.camara.leg.br/api/v2/votacoes/2270800-135/votos",
+   "nota": "Bancada na Câmara votou 53 sim, 4 não na PEC 3/2021 (PEC da Blindagem), 1º turno em 16/09/2025."
+  },
+  "DF03": {
+   "v": 4,
+   "conf": "partido",
+   "fonte": "https://dadosabertos.camara.leg.br/api/v2/votacoes/345311-270/votos",
+   "nota": "Bancada na Câmara votou 48 sim, 2 não no PL 490/2007 (marco temporal) em 30/05/2023."
+  },
+  "DF04": {
+   "v": 4,
+   "conf": "partido",
+   "fonte": "https://dadosabertos.camara.leg.br/api/v2/votacoes/257161-483/votos",
+   "nota": "Bancada na Câmara votou 36 sim, 3 não no PL 2159/2021 (Lei Geral do Licenciamento) em 17/07/2025."
+  },
+  "DF06": {
+   "v": 4,
+   "conf": "partido",
+   "fonte": "https://legis.senado.leg.br/dadosabertos/votacao?dataInicio=2024-02-20&dataFim=2024-02-20",
+   "nota": "Bancada no Senado votou 7 sim, 0 não no PL 2253/2022 (fim da saidinha) em 20/02/2024."
+  },
+  "DE01": {
+   "v": 2,
+   "conf": "partido",
+   "fonte": "https://mediaserver.almg.gov.br/acervo/463/822/2463822.pdf",
+   "nota": "Bancada na ALMG votou 3 sim, 0 não na PEC 24/2023 (fim do referendo para vender a Copasa) em 24/10/2025."
+  }
+ },
+ "UP": {
+  "G01": {
+   "v": 1,
+   "conf": "partido",
+   "fonte": "https://planodegoverno2026.com.br/planos/samara-305b3f63.pdf#page=12",
+   "nota": "Programa de 2026 (Samara) propõe revogar o arcabouço fiscal e as reformas trabalhista e previdenciária."
+  },
+  "G03": {
+   "v": 1,
+   "conf": "partido",
+   "fonte": "https://planodegoverno2026.com.br/planos/samara-305b3f63.pdf#page=60",
+   "nota": "Programa de 2026 propõe reestatizar Eletrobras, Petrobras, Vale, saneamento e telecomunicações."
+  },
+  "G04": {
+   "v": 2,
+   "conf": "partido",
+   "fonte": "https://planodegoverno2026.com.br/planos/samara-305b3f63.pdf#page=48",
+   "nota": "Programa de 2026 propõe 'forte fiscalização e controle das armas e munições'."
+  },
+  "G05": {
+   "v": 5,
+   "conf": "partido",
+   "fonte": "https://planodegoverno2026.com.br/planos/samara-305b3f63.pdf#page=28",
+   "nota": "Programa de 2026 defende a 'descriminalização e legalização do aborto'."
+  },
+  "G06": {
+   "v": 4,
+   "conf": "partido",
+   "fonte": "https://planodegoverno2026.com.br/planos/samara-305b3f63.pdf#page=48",
+   "nota": "Programa de 2026 propõe o fim da 'guerra às drogas', com transição do paradigma penal para o de saúde pública."
+  },
+  "G07": {
+   "v": 4,
+   "conf": "partido",
+   "fonte": "https://planodegoverno2026.com.br/planos/samara-305b3f63.pdf#page=63",
+   "nota": "Programa de 2026 defende um modelo de produção 'mantendo a floresta em pé'."
+  },
+  "G08": {
+   "v": 1,
+   "conf": "partido",
+   "fonte": "https://planodegoverno2026.com.br/planos/samara-305b3f63.pdf#page=54",
+   "nota": "Programa de 2026 defende 'sem anistia para conspiradores, financiadores e agentes do estado' que tentaram golpes."
+  },
+  "G11": {
+   "v": 4,
+   "conf": "partido",
+   "fonte": "https://planodegoverno2026.com.br/planos/samara-305b3f63.pdf#page=49",
+   "nota": "Programa de 2026 propõe debater a ampliação de cotas para cargos do Poder Judiciário."
+  },
+  "G12": {
+   "v": 1,
+   "conf": "partido",
+   "fonte": "https://planodegoverno2026.com.br/planos/samara-305b3f63.pdf#page=30",
+   "nota": "Programa de 2026 diz 'não à redução da maioridade penal'."
+  },
+  "G13": {
+   "v": 2,
+   "conf": "partido",
+   "fonte": "https://planodegoverno2026.com.br/planos/samara-305b3f63.pdf#page=37",
+   "nota": "Programa de 2026 propõe 'garantir a laicidade do Estado em todos os aspectos'."
+  },
+  "G14": {
+   "v": 5,
+   "conf": "partido",
+   "fonte": "https://planodegoverno2026.com.br/planos/samara-305b3f63.pdf#page=9",
+   "nota": "Programa de 2026 propõe o fim da escala 6x1 e o estabelecimento da escala 4x3."
+  },
+  "P01": {
+   "v": 1,
+   "conf": "partido",
+   "fonte": "https://planodegoverno2026.com.br/planos/samara-305b3f63.pdf#page=14",
+   "nota": "Programa de 2026 propõe suspender o pagamento de juros e amortização da dívida pública, com auditoria."
+  },
+  "P03": {
+   "v": 2,
+   "conf": "partido",
+   "fonte": "https://planodegoverno2026.com.br/planos/samara-305b3f63.pdf#page=7",
+   "nota": "Programa de 2026 critica a apropriação de riquezas do país por EUA, China e União Europeia e prega postura anti-imperialista."
+  },
+  "P04": {
+   "v": 1,
+   "conf": "partido",
+   "fonte": "https://planodegoverno2026.com.br/planos/samara-305b3f63.pdf#page=18",
+   "nota": "Programa de 2026 propõe o 'fim da autonomia do Banco Central em relação ao governo'."
+  },
+  "P06": {
+   "v": 4,
+   "conf": "partido",
+   "fonte": "https://planodegoverno2026.com.br/planos/samara-305b3f63.pdf#page=11",
+   "nota": "Programa de 2026 propõe reindustrialização com planejamento e grande programa de empregos públicos."
+  },
+  "GV01": {
+   "v": 1,
+   "conf": "partido",
+   "fonte": "https://kikacastro.com.br/wp-content/uploads/2026/08/programa-de-governo-up-mg.pdf#page=8",
+   "nota": "Programa de Indira Xavier (UP-MG) defende fortalecer a Cemig e a 'reestatização imediata da Copasa'."
+  },
+  "GV03": {
+   "v": 5,
+   "conf": "partido",
+   "fonte": "https://kikacastro.com.br/wp-content/uploads/2026/08/programa-de-governo-up-mg.pdf#page=9",
+   "nota": "Programa da UP-MG propõe suspender toda a mineração no estado e rever os contratos com as mineradoras."
+  },
+  "GV04": {
+   "v": 4,
+   "conf": "partido",
+   "fonte": "https://kikacastro.com.br/wp-content/uploads/2026/08/programa-de-governo-up-mg.pdf#page=2",
+   "nota": "Programa da UP-MG critica o 'arrocho salarial' dos servidores e defende piso e carreira para todas as categorias."
+  },
+  "GV05": {
+   "v": 2,
+   "conf": "partido",
+   "fonte": "https://kikacastro.com.br/wp-content/uploads/2026/08/programa-de-governo-up-mg.pdf#page=2",
+   "nota": "Programa da UP-MG critica os R$ 19,4 bilhões em isenções fiscais concedidas a empresas em 2025."
+  },
+  "GV06": {
+   "v": 1,
+   "conf": "partido",
+   "fonte": "https://kikacastro.com.br/wp-content/uploads/2026/08/programa-de-governo-up-mg.pdf#page=14",
+   "nota": "Programa da UP-MG defende o 'fim do processo de militarização' das escolas."
+  },
+  "DF01": {
+   "v": 4,
+   "conf": "partido",
+   "fonte": "https://planodegoverno2026.com.br/planos/samara-305b3f63.pdf#page=13",
+   "nota": "Programa de 2026 propõe eliminar penduricalhos, verbas indenizatórias e 'emendas secretas'."
+  },
+  "DF02": {
+   "v": 1,
+   "conf": "partido",
+   "fonte": "https://planodegoverno2026.com.br/planos/samara-305b3f63.pdf#page=54",
+   "nota": "Programa de 2026 critica a PEC que 'buscava blindar parlamentares' e cita o recuo do Congresso após protestos."
+  },
+  "DF03": {
+   "v": 2,
+   "conf": "partido",
+   "fonte": "https://planodegoverno2026.com.br/planos/samara-305b3f63.pdf#page=35",
+   "nota": "Programa de 2026 propõe demarcação e titulação imediata de todas as terras indígenas."
+  },
+  "DE02": {
+   "v": 5,
+   "conf": "partido",
+   "fonte": "https://kikacastro.com.br/wp-content/uploads/2026/08/programa-de-governo-up-mg.pdf#page=13",
+   "nota": "Programa da UP-MG propõe 'cumprir a Lei do Piso Nacional da Educação' na rede estadual."
+  }
+ }
+}

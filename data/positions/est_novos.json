@@ -1,0 +1,759 @@
+[
+ {
+  "id": 130002542080,
+  "nomeUrna": "AMANDA TEIXEIRA DIAS",
+  "resumo": "Deputada estadual pelo PL, em exercício na ALMG desde 2024 como suplente e efetivada em 2025. Fundadora do projeto social Infância Digna; filha do deputado federal Marcelo Álvaro Antônio.",
+  "bandeiras": [
+   "Combate às ideias de esquerda",
+   "Saúde e obras nos municípios",
+   "Proteção da infância"
+  ],
+  "posicoes": {
+   "G03": {
+    "v": 4,
+    "conf": "voto",
+    "fonte": "https://www.otempo.com.br/politica/2025/12/17/privatizacao-da-copasa-veja-como-votou-cada-deputado-da-almg",
+    "nota": "Votou a favor do PL 4.380/2025, que autoriza a privatização da Copasa, em 2º turno na ALMG em 17/12/2025."
+   },
+   "DE01": {
+    "v": 1,
+    "conf": "voto",
+    "fonte": "https://www.otempo.com.br/politica/2025/11/5/pec-do-referendo-e-aprovada-veja-como-votou-cada-deputado-estadual",
+    "nota": "Votou a favor da PEC 24/2023, que retirou a exigência de referendo para vender a Copasa, nos dois turnos (24/10 e 05/11/2025)."
+   },
+   "G08": {
+    "v": 5,
+    "conf": "declaracao",
+    "fonte": "https://www.almg.gov.br/pronunciamentos/deputada-amanda-teixeira-dias/2025-04-08/57067",
+    "nota": "Em discurso na ALMG em 08/04/2025 pediu anistia aos presos do 8 de janeiro; repetiu o pedido em 18/03/2025."
+   },
+   "G09": {
+    "v": 5,
+    "conf": "declaracao",
+    "fonte": "https://www.almg.gov.br/pronunciamentos/deputada-amanda-teixeira-dias/2025-03-19/57013",
+    "nota": "Em discurso na ALMG em 19/03/2025 disse que o STF se afasta da imparcialidade; em outras falas acusou o tribunal de perseguição política."
+   },
+   "G10": {
+    "v": 2,
+    "conf": "declaracao",
+    "fonte": "https://www.almg.gov.br/pronunciamentos/deputada-amanda-teixeira-dias/2025-08-13/57523",
+    "nota": "Em discurso na ALMG em 13/08/2025 criticou a proposta de regulamentação das redes sociais, que disse servir para calar opositores."
+   },
+   "G06": {
+    "v": 1,
+    "conf": "declaracao",
+    "fonte": "https://www.almg.gov.br/pronunciamentos/deputada-amanda-teixeira-dias/2025-06-17/57371",
+    "nota": "Em 17/06/2025 disse na ALMG ter denunciado ao MP deputada que portou maconha em marcha e pediu sua prisão; em 2026 criticou a legalização."
+   },
+   "G05": {
+    "v": 2,
+    "conf": "declaracao",
+    "fonte": "https://www.almg.gov.br/pronunciamentos/deputada-amanda-teixeira-dias/2024-10-15/49902",
+    "nota": "Em discurso na ALMG em 15/10/2024 classificou a defesa do aborto entre ideias de esquerda que considera nocivas."
+   },
+   "G12": {
+    "v": 4,
+    "conf": "declaracao",
+    "fonte": "https://www.almg.gov.br/pronunciamentos/deputada-amanda-teixeira-dias/2026-03-24/58396",
+    "nota": "Em discurso na ALMG em 24/03/2026, ao citar crimes cometidos por menores, criticou a esquerda por não defender a pauta da maioridade penal no Congresso."
+   }
+  }
+ },
+ {
+  "id": 130002542058,
+  "nomeUrna": "VITTORIO MEDIOLI",
+  "resumo": "Empresário, fundador do Grupo Sada e do jornal O Tempo. Foi deputado federal por quatro mandatos (1991 a 2007) e prefeito de Betim (2017 a 2024). Candidato a deputado estadual pelo PL.",
+  "bandeiras": [
+   "Desenvolvimento econômico e geração de empregos",
+   "Infraestrutura e mobilidade",
+   "Relação entre Estado e municípios"
+  ],
+  "posicoes": {
+   "G03": {
+    "v": 2,
+    "conf": "declaracao",
+    "fonte": "https://www.itatiaia.com.br/politica/eleicoes/conheca-a-carreira-politica-de-vittorio-medioli-pre-candidato-ao-governo-de-mg",
+    "nota": "Em 2026 disse que privatizar deve depender da qualidade e do custo do serviço e criticou a desestatização da Copasa, citando a função social do saneamento."
+   },
+   "DE03": {
+    "v": 4,
+    "conf": "declaracao",
+    "fonte": "https://www.vittoriomediolioficial.com.br",
+    "nota": "Site de campanha de 2026 destaca sua autoria da ideia da Lei Robin Hood, que redistribui ICMS aos municípios mais pobres do estado."
+   }
+  }
+ },
+ {
+  "id": 130002542781,
+  "nomeUrna": "FERNANDA DAVID",
+  "resumo": "Comerciante de Varginha, no Sul de Minas. Foi candidata a vice-prefeita de Varginha pelo PL em 2024. Candidata a deputada estadual pelo PP.",
+  "bandeiras": [],
+  "posicoes": {}
+ },
+ {
+  "id": 130002539490,
+  "nomeUrna": "IZA LOURENÇA",
+  "resumo": "Vereadora de Belo Horizonte pelo PSOL desde 2021, reeleita em 2024. Ex-bilheteira do metrô, foi autora do projeto de Tarifa Zero (Busão 0800) na capital. Candidata a deputada estadual.",
+  "bandeiras": [
+   "Tarifa zero no transporte",
+   "Fim da escala 6x1",
+   "Meio ambiente e enfrentamento à mineração"
+  ],
+  "posicoes": {
+   "G14": {
+    "v": 5,
+    "conf": "declaracao",
+    "fonte": "https://www.otempo.com.br/politica/2025/5/9/escala-6x1-nos-contratos-na-prefeitura-de-belo-horizonte-foi-barrada-por-vereadores",
+    "nota": "Autora de projeto que limitava a 30h semanais em 5 dias a jornada de terceirizados da PBH (barrado em 2025); defende o fim da 6x1 na carta de campanha."
+   },
+   "DE04": {
+    "v": 5,
+    "conf": "declaracao",
+    "fonte": "https://www.izalourenca.com.br/manifesto",
+    "nota": "Carta de campanha de 2026 defende a tarifa zero em Minas; em 2025 foi autora do PL da Tarifa Zero (Busão 0800) em BH."
+   },
+   "G07": {
+    "v": 5,
+    "conf": "declaracao",
+    "fonte": "https://www.izalourenca.com.br/blog/vote-pelo-clima-mineracao-e-a-luta-pelos-territorios-de-minas-gerais",
+    "nota": "Em texto de campanha defende o direito das comunidades de dizer não às mineradoras, territórios livres de mineração e licenciamento ambiental mais rígido."
+   },
+   "G03": {
+    "v": 2,
+    "conf": "declaracao",
+    "fonte": "https://www.izalourenca.com.br/manifesto",
+    "nota": "Carta de campanha de 2026 critica o governo estadual por ter privatizado a água (Copasa)."
+   }
+  }
+ },
+ {
+  "id": 130002542775,
+  "nomeUrna": "MARIA HILDA LEÃO",
+  "resumo": "Advogada especialista em Direito Público e Agrário, de Uberlândia; filha do ex-prefeito de Uberlândia Odelmo Leão. Disputa pela primeira vez uma eleição, para deputada estadual pelo PP.",
+  "bandeiras": [
+   "Família e valores",
+   "Apoio ao produtor rural",
+   "Educação e proteção às crianças"
+  ],
+  "posicoes": {}
+ },
+ {
+  "id": 130002532927,
+  "nomeUrna": "WANDERLEY PORTO",
+  "resumo": "Vereador de Belo Horizonte desde 2021, reeleito em 2024 pelo PRD. Publicitário, foi secretário da regional Barreiro na PBH e secretário adjunto em Contagem. Candidato a deputado estadual.",
+  "bandeiras": [
+   "Direitos e bem-estar animal",
+   "Saúde de pessoas com deficiência e doenças raras",
+   "Infraestrutura urbana"
+  ],
+  "posicoes": {}
+ },
+ {
+  "id": 130002542088,
+  "nomeUrna": "RODRIGO NICOLAU",
+  "resumo": "Empresário de Uberlândia. Foi candidato a vereador em 2020 e 2024, ficando como suplente. Candidato a deputado estadual pelo PL.",
+  "bandeiras": [],
+  "posicoes": {}
+ },
+ {
+  "id": 130002539499,
+  "nomeUrna": "JUHLIA SANTOS",
+  "resumo": "Vereadora de Belo Horizonte pelo PSOL, eleita em 2024. Foi candidata a deputada estadual em 2018. Candidata a deputada estadual.",
+  "bandeiras": [],
+  "posicoes": {}
+ },
+ {
+  "id": 130002532948,
+  "nomeUrna": "DIRCE AIDA",
+  "resumo": "Servidora pública municipal. Disputa pela primeira vez uma eleição, como candidata a deputada estadual pelo PRD.",
+  "bandeiras": [],
+  "posicoes": {}
+ },
+ {
+  "id": 130002550121,
+  "nomeUrna": "CAROL DAMASCENO",
+  "resumo": "Vice-prefeita de Cataguases, na Zona da Mata, eleita em 2024 pelo MDB. Candidata a deputada estadual.",
+  "bandeiras": [],
+  "posicoes": {}
+ },
+ {
+  "id": 130002542079,
+  "nomeUrna": "ANDERSON LIMA",
+  "resumo": "Professor de ensino superior e vereador de Uberlândia desde 2021, reeleito em 2024. Foi candidato a deputado estadual em 2022. Candidato pelo PL.",
+  "bandeiras": [],
+  "posicoes": {}
+ },
+ {
+  "id": 130002540054,
+  "nomeUrna": "DRA LAÍS SANTIAGO",
+  "resumo": "Médica. Disputa pela primeira vez uma eleição, como candidata a deputada estadual pelo PDT.",
+  "bandeiras": [],
+  "posicoes": {}
+ },
+ {
+  "id": 130002535387,
+  "nomeUrna": "MOARA SABOIA",
+  "resumo": "Vereadora de Contagem pelo PT desde 2021, reeleita em 2024; foi a mulher mais votada da cidade em 2022, quando ficou suplente na ALMG. Candidata a deputada estadual.",
+  "bandeiras": [
+   "Enfrentamento à violência contra a mulher",
+   "Igualdade racial",
+   "Meio ambiente e proteção de Vargem das Flores"
+  ],
+  "posicoes": {
+   "G03": {
+    "v": 1,
+    "conf": "declaracao",
+    "fonte": "https://sapl.contagem.mg.leg.br/materia/53773",
+    "nota": "Autora de moções contra privatizações (Eletrobras em 2021, Parque Fernão Dias em 2024) e de aplauso ao Dia de Luta contra Privatizações em 2025."
+   },
+   "G02": {
+    "v": 4,
+    "conf": "declaracao",
+    "fonte": "https://sapl.contagem.mg.leg.br/materia/41932",
+    "nota": "Autora de moção de aplauso aos 20 anos do Bolsa Família (2023) e de moção de repúdio ao fim do programa em 2021."
+   },
+   "G07": {
+    "v": 4,
+    "conf": "declaracao",
+    "fonte": "https://sapl.contagem.mg.leg.br/materia/52206",
+    "nota": "Autora de moção de repúdio, em 27/05/2025, à aprovação no Senado do PL 2.159/2021, novo marco do licenciamento ambiental."
+   },
+   "G11": {
+    "v": 4,
+    "conf": "declaracao",
+    "fonte": "https://sapl.contagem.mg.leg.br/materia/33990",
+    "nota": "Autora de indicação, em 2022, para estabelecer cotas raciais em cargos em comissão da Prefeitura de Contagem."
+   },
+   "DE02": {
+    "v": 4,
+    "conf": "declaracao",
+    "fonte": "https://sapl.contagem.mg.leg.br/materia/34233",
+    "nota": "Autora de moção de aplauso, em 2022, aos professores da rede estadual pela derrubada do veto e reajuste de 33,24% do piso nacional."
+   }
+  }
+ },
+ {
+  "id": 130002542107,
+  "nomeUrna": "PABLO ALMEIDA",
+  "resumo": "Vereador de Belo Horizonte pelo PL, eleito em 2024 no primeiro mandato. Candidato a deputado estadual.",
+  "bandeiras": [],
+  "posicoes": {
+   "G08": {
+    "v": 5,
+    "conf": "declaracao",
+    "fonte": "https://www.gazetadopovo.com.br/brasil/vereadores-bh-homenagem-investigados-8-de-janeiro-evento-liberdade-de-expressao/",
+    "nota": "Em evento em 29/09/2025 defendeu anistia ampla, geral e irrestrita aos réus do 8 de janeiro e disse que a pauta não vai parar até ser aprovada."
+   },
+   "G09": {
+    "v": 4,
+    "conf": "declaracao",
+    "fonte": "https://www.gazetadopovo.com.br/brasil/vereadores-bh-homenagem-investigados-8-de-janeiro-evento-liberdade-de-expressao/",
+    "nota": "Autor de moção de repúdio ao ministro Alexandre de Moraes aprovada pela Câmara de BH em 2025; em evento contra a 'mordaça' do STF gritou 'Fora Moraes'."
+   }
+  }
+ },
+ {
+  "id": 130002535342,
+  "nomeUrna": "PATRÍCIA MELO",
+  "resumo": "Militante do PT em Uberaba, sem mandato. Foi candidata a prefeita de Uberaba em 2020 e suplente de deputada estadual em 2018 e 2022. Candidata a deputada estadual.",
+  "bandeiras": [
+   "Mulheres",
+   "Cultura",
+   "Agricultura familiar e desenvolvimento de Minas"
+  ],
+  "posicoes": {}
+ },
+ {
+  "id": 130002535320,
+  "nomeUrna": "ADRIANA SOUZA",
+  "resumo": "Professora de História e vereadora de Contagem pelo PT, eleita em 2024. Foi suplente de deputada estadual em 2014 e 2022. Candidata a deputada estadual.",
+  "bandeiras": [
+   "Assistência social e políticas do cuidado",
+   "Educação e meio ambiente",
+   "Mães solo e atípicas"
+  ],
+  "posicoes": {
+   "DE01": {
+    "v": 5,
+    "conf": "declaracao",
+    "fonte": "https://sapl.contagem.mg.leg.br/materia/54640",
+    "nota": "Autora de moção de repúdio, em 23/09/2025, à tentativa do governo Zema de privatizar a Copasa sem consulta popular; pediu audiência sobre a PEC 24/23."
+   },
+   "G03": {
+    "v": 2,
+    "conf": "declaracao",
+    "fonte": "https://sapl.contagem.mg.leg.br/materia/55368",
+    "nota": "Pediu em 2025 audiência pública contra a tentativa de privatização de Copasa e Cemig; em 2026 questionou a privatização de escolas estaduais."
+   },
+   "G14": {
+    "v": 5,
+    "conf": "declaracao",
+    "fonte": "https://sapl.contagem.mg.leg.br/materia/51057",
+    "nota": "Pediu em 08/04/2025 audiência sobre redução da jornada sem redução de salário e fim da 6x1; em 2026 aplaudiu a defesa do fim da escala."
+   },
+   "DE04": {
+    "v": 4,
+    "conf": "declaracao",
+    "fonte": "https://www.adrianasouza13.com/",
+    "nota": "Propostas de campanha de 2026 defendem estudar subsídios públicos e tarifa zero para reduzir a tarifa do transporte, considerando a região metropolitana."
+   }
+  }
+ },
+ {
+  "id": 130002533215,
+  "nomeUrna": "ANDRADE",
+  "resumo": "Empresário de Ipatinga, no Vale do Aço. Foi eleito vereador de Ipatinga em 2016. Candidato a deputado estadual pelo PRD.",
+  "bandeiras": [],
+  "posicoes": {}
+ },
+ {
+  "id": 130002542096,
+  "nomeUrna": "ROBERTA LOPES",
+  "resumo": "Jornalista e vereadora de Juiz de Fora pelo PL, eleita em 2024. Coordena o movimento Direita Minas e o grupo Mães pela Escola sem Partido. Candidata a deputada estadual.",
+  "bandeiras": [
+   "Fé e família",
+   "Defesa da vida desde a concepção",
+   "Segurança e educação sem doutrinação"
+  ],
+  "posicoes": {
+   "G08": {
+    "v": 5,
+    "conf": "declaracao",
+    "fonte": "https://tribunademinas.com.br/colunas/painel/01-04-2025/diretorio-do-mdb-reage-ao-voto-a-favor-da-anistia-dos-reus-de-8-de-janeiro.html",
+    "nota": "Autora de moção de apoio à anistia dos presos do 8 de janeiro aprovada pela Câmara de Juiz de Fora em 2025."
+   },
+   "G05": {
+    "v": 1,
+    "conf": "declaracao",
+    "fonte": "https://www.camarajf.mg.gov.br/www/vereadores/exibir/42",
+    "nota": "Site de campanha de 2026 lista a defesa da vida desde a concepção entre as bandeiras que guiam seus projetos."
+   },
+   "G13": {
+    "v": 4,
+    "conf": "declaracao",
+    "fonte": "https://www.robertalopesdm.com.br",
+    "nota": "Site de campanha de 2026 apresenta a defesa dos valores cristãos como uma das pautas que guiam seus projetos legislativos."
+   }
+  }
+ },
+ {
+  "id": 130002542054,
+  "nomeUrna": "MARILIA AMARAL",
+  "resumo": "Advogada natural de Pouso Alegre, moradora de Contagem e presidente do PL no município; casada com o deputado federal Junio Amaral. Candidata a deputada estadual.",
+  "bandeiras": [
+   "Defesa da vida desde a concepção",
+   "Família",
+   "Dignidade humana"
+  ],
+  "posicoes": {
+   "G05": {
+    "v": 1,
+    "conf": "declaracao",
+    "fonte": "https://mariliaamaral.com/",
+    "nota": "Na biografia de campanha diz que concorre para defender a vida desde a concepção; fundou em 2018 um centro de acolhimento a gestantes."
+   }
+  }
+ },
+ {
+  "id": 130002539486,
+  "nomeUrna": "WAGNER FERREIRA",
+  "resumo": "Vereador de Belo Horizonte, eleito em 2024 pelo PV; foi suplente de deputado estadual em 2022. Candidato a deputado estadual pela Rede.",
+  "bandeiras": [],
+  "posicoes": {}
+ },
+ {
+  "id": 130002534574,
+  "nomeUrna": "FERNANDA PEREIRA ALTOÉ",
+  "resumo": "Advogada e vereadora de Belo Horizonte pelo Novo desde 2021, reeleita em 2024. Candidata a deputada estadual.",
+  "bandeiras": [
+   "Fiscalização e transparência"
+  ],
+  "posicoes": {
+   "G09": {
+    "v": 4,
+    "conf": "declaracao",
+    "fonte": "https://www.em.com.br/politica/2025/03/7083763-camara-de-bh-aprova-envio-de-pedidos-de-anistia-para-congresso.html",
+    "nota": "Em debate na Câmara de BH em 13/03/2025 disse que o STF não tem competência para julgar os condenados pelo 8 de janeiro."
+   }
+  }
+ },
+ {
+  "id": 130002542100,
+  "nomeUrna": "RAFHAEL DE PAULO",
+  "resumo": "Empresário de Unaí, no Noroeste de Minas. Foi vereador de Unaí (2021 a 2024) e candidato a prefeito em 2024 pelo Novo. Candidato a deputado estadual pelo PL.",
+  "bandeiras": [],
+  "posicoes": {
+   "G05": {
+    "v": 1,
+    "conf": "declaracao",
+    "fonte": "https://sapl.unai.mg.leg.br/materia/16612",
+    "nota": "Autor de moção (28/09/2023) e dos requerimentos 609/2023 e 175/2024 em Unaí contra a descriminalização do aborto."
+   },
+   "G06": {
+    "v": 2,
+    "conf": "declaracao",
+    "fonte": "https://sapl.unai.mg.leg.br/materia/16825",
+    "nota": "Coautor de moção de protesto, em 20/11/2023, contra o julgamento do STF que poderia afastar a criminalização do porte de drogas para consumo."
+   },
+   "G04": {
+    "v": 4,
+    "conf": "declaracao",
+    "fonte": "https://sapl.unai.mg.leg.br/materia/16862",
+    "nota": "Autor de moção de repúdio, em 11/12/2023, ao Decreto 11.615/2023, que restringiu regras de armas, e à suspensão de licenças de manejo de javalis."
+   }
+  }
+ },
+ {
+  "id": 130002543650,
+  "nomeUrna": "LUIZ PAULO",
+  "resumo": "Administrador público; foi vereador e prefeito de Curvelo, eleito em 2020 e reeleito em 2024. Candidato a deputado estadual pelo PSB.",
+  "bandeiras": [
+   "Municipalismo e descentralização de recursos",
+   "Saúde e consórcios intermunicipais",
+   "Recuperação de rodovias estaduais"
+  ],
+  "posicoes": {}
+ },
+ {
+  "id": 130002540609,
+  "nomeUrna": "HELENO DO HOSPITAL",
+  "resumo": "Administrador de Ipatinga, no Vale do Aço. Foi candidato a prefeito de Ipatinga em 2024 e suplente de deputado estadual em 2022. Candidato pelo PSDB.",
+  "bandeiras": [],
+  "posicoes": {}
+ },
+ {
+  "id": 130002542093,
+  "nomeUrna": "PEDRO LUIZ",
+  "resumo": "Vereador de Contagem pelo PL, eleito em 2024 no primeiro mandato. Candidato a deputado estadual.",
+  "bandeiras": [],
+  "posicoes": {
+   "G08": {
+    "v": 4,
+    "conf": "declaracao",
+    "fonte": "https://sapl.contagem.mg.leg.br/materia/49797",
+    "nota": "Autor de moção, em 18/02/2025, de apoio a que o Congresso paute a anistia aos presos pelos atos de 8 de janeiro de 2023."
+   },
+   "G05": {
+    "v": 2,
+    "conf": "declaracao",
+    "fonte": "https://sapl.contagem.mg.leg.br/materia/52579",
+    "nota": "Autor de projeto que institui a Semana do Nascituro em Contagem (17/06/2025) e de outro sobre cartazes acerca do aborto em unidades de saúde."
+   }
+  }
+ },
+ {
+  "id": 130002534522,
+  "nomeUrna": "LARISSA DIAS",
+  "resumo": "Advogada. Disputa pela primeira vez uma eleição, como candidata a deputada estadual pelo Novo.",
+  "bandeiras": [],
+  "posicoes": {}
+ },
+ {
+  "id": 130002544127,
+  "nomeUrna": "CAROL CARAM",
+  "resumo": "Advogada, ex-secretária nacional do Consumidor. Deputada estadual pelo Avante, em exercício na ALMG desde fevereiro de 2025; vice-líder do governo. Candidata à reeleição.",
+  "bandeiras": [
+   "Defesa do consumidor",
+   "Enfrentamento à violência contra a mulher",
+   "Combate à fome"
+  ],
+  "posicoes": {
+   "DE01": {
+    "v": 1,
+    "conf": "voto",
+    "fonte": "https://www.otempo.com.br/politica/2025/11/5/pec-do-referendo-e-aprovada-veja-como-votou-cada-deputado-estadual",
+    "nota": "Votou a favor da PEC 24/2023, que retirou a exigência de referendo para vender a Copasa, nos dois turnos (24/10 e 05/11/2025)."
+   },
+   "G03": {
+    "v": 4,
+    "conf": "voto",
+    "fonte": "https://www.otempo.com.br/politica/2025/12/17/privatizacao-da-copasa-veja-como-votou-cada-deputado-da-almg",
+    "nota": "Votou a favor da privatização da Copasa (PL 4.380/2025) em 17/12/2025; em maio de 2025 dissera preferir caminhos sem privatizar Cemig e Copasa."
+   }
+  }
+ },
+ {
+  "id": 130002535340,
+  "nomeUrna": "ADALCLEVER LOPES",
+  "resumo": "Empresário; deputado estadual em cinco mandatos (2003 a 2018 e desde 2025) e presidente da ALMG de 2015 a 2018. Disputou o governo de Minas em 2018. Concorre pelo PV.",
+  "bandeiras": [
+   "Educação e mediação com o magistério",
+   "Infraestrutura regional (BR-262 e Rodoanel)",
+   "Voz para as regiões esquecidas"
+  ],
+  "posicoes": {
+   "DE01": {
+    "v": 1,
+    "conf": "voto",
+    "fonte": "https://www.otempo.com.br/politica/2025/11/5/pec-do-referendo-e-aprovada-veja-como-votou-cada-deputado-estadual",
+    "nota": "Votou a favor da PEC 24/2023, que retirou a exigência de referendo para vender a Copasa, nos dois turnos (24/10 e 05/11/2025)."
+   },
+   "G03": {
+    "v": 4,
+    "conf": "voto",
+    "fonte": "https://www.otempo.com.br/politica/2025/12/17/privatizacao-da-copasa-veja-como-votou-cada-deputado-da-almg",
+    "nota": "Votou a favor do PL 4.380/2025, que autoriza a privatização da Copasa, em 2º turno na ALMG em 17/12/2025."
+   },
+   "DE03": {
+    "v": 4,
+    "conf": "declaracao",
+    "fonte": "https://adalcleverlopes.com.br/",
+    "nota": "Compromisso de campanha 2026: levar Rio Doce, Jequitinhonha, Mucuri, Central e Zona da Mata, que chama de regiões esquecidas, ao debate orçamentário."
+   }
+  }
+ },
+ {
+  "id": 130002533217,
+  "nomeUrna": "CAROL FARIA",
+  "resumo": "Vereadora de Itaúna desde 2021, reeleita em 2024 pelo PRD, com atuação legislativa voltada sobretudo à proteção animal. Candidata a deputada estadual.",
+  "bandeiras": [
+   "Proteção e bem-estar animal",
+   "Atendimento à mulher vítima de violência"
+  ],
+  "posicoes": {}
+ },
+ {
+  "id": 130002542792,
+  "nomeUrna": "JÉSSICA MARA",
+  "resumo": "Empresária. Disputa pela primeira vez uma eleição, como candidata a deputada estadual pelo União Brasil.",
+  "bandeiras": [],
+  "posicoes": {}
+ },
+ {
+  "id": 130002542094,
+  "nomeUrna": "UGLENO ALVES",
+  "resumo": "Vereador de Teófilo Otoni desde 2021, reeleito em 2024 pelo PL. Faz campanha associada ao deputado federal Nikolas Ferreira. Candidato a deputado estadual.",
+  "bandeiras": [],
+  "posicoes": {}
+ },
+ {
+  "id": 130002532947,
+  "nomeUrna": "DENISE DA SUPRA",
+  "resumo": "Corretora de imóveis e vereadora de Uberaba desde 2021, reeleita em 2024 pelo PRD; foi suplente de deputada estadual em 2018 e 2022. Candidata a deputada estadual.",
+  "bandeiras": [],
+  "posicoes": {}
+ },
+ {
+  "id": 130002543678,
+  "nomeUrna": "RENATO LOFFI",
+  "resumo": "Empresário e fisioterapeuta de Belo Horizonte, à frente de instituto com ações sociais voltadas à inclusão de pessoas com autismo. Disputa pela primeira vez uma eleição, pelo PSB.",
+  "bandeiras": [
+   "Inclusão de pessoas com TEA e famílias atípicas",
+   "Saúde de grupos vulneráveis",
+   "Educação inclusiva"
+  ],
+  "posicoes": {}
+ },
+ {
+  "id": 130002542068,
+  "nomeUrna": "DENERVAL GERMANO",
+  "resumo": "Administrador e produtor rural; foi prefeito de Taiobeiras, no Norte de Minas, por quatro mandatos (eleito em 2004, 2008, 2020 e 2024). Candidato a deputado estadual pelo PL.",
+  "bandeiras": [
+   "Norte de Minas: saúde regional e infraestrutura",
+   "Agronegócio e irrigação",
+   "Educação técnica e juventude"
+  ],
+  "posicoes": {
+   "DE03": {
+    "v": 4,
+    "conf": "declaracao",
+    "fonte": "https://denerval.com",
+    "nota": "Site de campanha de 2026 ('Norte de Minas em primeiro lugar') defende investimento estadual em estradas e saúde e mais emendas para a região."
+   }
+  }
+ },
+ {
+  "id": 130002535373,
+  "nomeUrna": "GILSA SANTOS",
+  "resumo": "Professora e vereadora de Governador Valadares pelo PT desde 2021, reeleita em 2024. Candidata a deputada estadual.",
+  "bandeiras": [],
+  "posicoes": {}
+ },
+ {
+  "id": 130002535322,
+  "nomeUrna": "MARIA DO CARMO",
+  "resumo": "Psicóloga; foi duas vezes prefeita de Betim (mandatos iniciados em 1989 e 2009) e deputada federal pelo PT de 1999 a 2008. Candidata a deputada estadual.",
+  "bandeiras": [],
+  "posicoes": {}
+ },
+ {
+  "id": 130002532941,
+  "nomeUrna": "FERNANDO BRENO",
+  "resumo": "Advogado; eleito prefeito de Coromandel, no Alto Paranaíba, em 2020 e 2024, depois de dois mandatos de vereador. Candidato a deputado estadual pelo PRD.",
+  "bandeiras": [],
+  "posicoes": {}
+ },
+ {
+  "id": 130002542048,
+  "nomeUrna": "SAMUEL CAIRES",
+  "resumo": "Vereador de Janaúba, no Norte de Minas, eleito em 2024 pelo PL. Candidato a deputado estadual.",
+  "bandeiras": [],
+  "posicoes": {}
+ },
+ {
+  "id": 130002542049,
+  "nomeUrna": "IVSON GOMES",
+  "resumo": "Assistente social, ex-conselheiro tutelar e vereador de Sete Lagoas desde 2021, reeleito em 2024 pelo PL. Candidato a deputado estadual com apoio de Nikolas Ferreira.",
+  "bandeiras": [
+   "Segurança",
+   "Saúde",
+   "Fé"
+  ],
+  "posicoes": {
+   "G05": {
+    "v": 1,
+    "conf": "declaracao",
+    "fonte": "https://sapl.setelagoas.mg.leg.br/materia/126366",
+    "nota": "Autor de moção (05/09/2023) contra a legalização do aborto pela ADPF 442 e de projetos sobre o aborto; plano de 2026 defende a vida desde a concepção."
+   },
+   "G09": {
+    "v": 4,
+    "conf": "declaracao",
+    "fonte": "https://sapl.setelagoas.mg.leg.br/materia/126366",
+    "nota": "Na moção de 05/09/2023 sobre a ADPF 442, pediu que se evitasse um possível ativismo judicial por parte do STF."
+   },
+   "G13": {
+    "v": 5,
+    "conf": "declaracao",
+    "fonte": "https://ivsongomes.netlify.app/",
+    "nota": "Plano de campanha de 2026 diz que as propostas estão alinhadas a Deus, pátria e família; em 2025 propôs a leitura da Bíblia nas escolas de Sete Lagoas."
+   },
+   "G04": {
+    "v": 4,
+    "conf": "declaracao",
+    "fonte": "https://ivsongomes.netlify.app/",
+    "nota": "Plano de campanha de 2026 inclui a defesa da legítima defesa e do porte de arma para o cidadão de bem."
+   },
+   "G01": {
+    "v": 4,
+    "conf": "declaracao",
+    "fonte": "https://ivsongomes.netlify.app/",
+    "nota": "Plano de campanha de 2026 defende carga tributária menor com ajuste pelo corte de gastos e contenção de despesas do Estado."
+   },
+   "DE05": {
+    "v": 4,
+    "conf": "declaracao",
+    "fonte": "https://ivsongomes.netlify.app/",
+    "nota": "Plano de campanha de 2026 propõe mais efetivo das polícias Civil e Militar, equipamento e remuneração digna."
+   }
+  }
+ },
+ {
+  "id": 130002542066,
+  "nomeUrna": "MARCELO HEITOR",
+  "resumo": "Empresário de Poços de Caldas; foi vereador (2017 a 2024) e candidato a prefeito da cidade em 2024 pelo PL. Candidato a deputado estadual.",
+  "bandeiras": [],
+  "posicoes": {}
+ },
+ {
+  "id": 130002550179,
+  "nomeUrna": "VERA SARAIVA",
+  "resumo": "Moradora de Viçosa, na Zona da Mata; foi eleita vereadora da cidade em 2004 e ficou como suplente em 2008 e 2012. Candidata a deputada estadual pelo Solidariedade.",
+  "bandeiras": [],
+  "posicoes": {}
+ },
+ {
+  "id": 130002533229,
+  "nomeUrna": "JUCA BAHIA",
+  "resumo": "Economista e empresário do setor de ardósia; foi prefeito de Paraopeba por dois mandatos (2017 a 2024) e suplente de deputado federal em 2022. Candidato pelo PRD.",
+  "bandeiras": [
+   "Desenvolvimento da região de Sete Lagoas e Paraopeba"
+  ],
+  "posicoes": {}
+ },
+ {
+  "id": 130002534518,
+  "nomeUrna": "MARCELA TRÓPIA",
+  "resumo": "Vereadora de Belo Horizonte pelo Novo desde 2021, reeleita em 2024; autora da Lei de Liberdade Econômica e do Marco Municipal das Startups na capital. Candidata a deputada estadual.",
+  "bandeiras": [
+   "Saúde e fim das filas do SUS",
+   "Educação e combate à evasão escolar",
+   "Desburocratização e liberdade econômica"
+  ],
+  "posicoes": {}
+ },
+ {
+  "id": 130002539901,
+  "nomeUrna": "JEPHERSON MADUREIRA",
+  "resumo": "Empresário e vereador de Governador Valadares desde 2021, reeleito em 2024 pelo Republicanos. Candidato a deputado estadual.",
+  "bandeiras": [],
+  "posicoes": {}
+ },
+ {
+  "id": 130002542761,
+  "nomeUrna": "CLEITON XAVIER",
+  "resumo": "Investigador da Polícia Civil e vereador de Belo Horizonte desde 2022, reeleito em 2024; faz palestras em escolas sobre abuso infantil e drogas. Candidato pelo União Brasil.",
+  "bandeiras": [
+   "Proteção à infância e combate à pedofilia",
+   "Fortalecimento da família",
+   "Segurança nas escolas"
+  ],
+  "posicoes": {}
+ },
+ {
+  "id": 130002548769,
+  "nomeUrna": "RODRIGO CADEIRANTE",
+  "resumo": "Vereador de Montes Claros desde 2017, no terceiro mandato; foi suplente de deputado federal em 2022. Candidato a deputado estadual pelo Podemos.",
+  "bandeiras": [],
+  "posicoes": {}
+ },
+ {
+  "id": 130002548716,
+  "nomeUrna": "FLÁVIA BORJA",
+  "resumo": "Vereadora de Belo Horizonte desde 2021, reeleita em 2024; foi suplente de deputada estadual em 2022. Candidata a deputada estadual pelo Podemos.",
+  "bandeiras": [],
+  "posicoes": {}
+ },
+ {
+  "id": 130002549946,
+  "nomeUrna": "EDIR",
+  "resumo": "Empresária. Disputa pela primeira vez uma eleição, como candidata a deputada estadual pelo PSD.",
+  "bandeiras": [],
+  "posicoes": {}
+ },
+ {
+  "id": 130002549941,
+  "nomeUrna": "VERA ARAÚJO",
+  "resumo": "Foi suplente de deputada estadual pelo PSD em 2018. Candidata a deputada estadual pelo PSD.",
+  "bandeiras": [],
+  "posicoes": {}
+ },
+ {
+  "id": 130002540050,
+  "nomeUrna": "CHIQUINHO TOMAZ",
+  "resumo": "Vereador de Ituiutaba, no Triângulo Mineiro, desde 2013, reeleito em 2016, 2020 e 2024. Candidato a deputado estadual pelo PDT.",
+  "bandeiras": [],
+  "posicoes": {}
+ },
+ {
+  "id": 130002539496,
+  "nomeUrna": "PEPÊ DA LIBERDADE",
+  "resumo": "Radialista em Belo Horizonte; foi candidato a vereador da capital em 2004. Candidato a deputado estadual pela Rede.",
+  "bandeiras": [
+   "Terceira idade",
+   "Creches e escolas em tempo integral",
+   "Moradia e transporte público"
+  ],
+  "posicoes": {}
+ },
+ {
+  "id": 130002535344,
+  "nomeUrna": "EDMAR BRANCO",
+  "resumo": "Vereador de Belo Horizonte pelo PCdoB, eleito em 2016 e em 2024, com atuação ligada a movimentos comunitários, moradia e meio ambiente. Candidato a deputado estadual.",
+  "bandeiras": [
+   "Meio ambiente e recuperação de córregos",
+   "Moradia popular e urbanização",
+   "Saúde e fortalecimento do SUS"
+  ],
+  "posicoes": {}
+ },
+ {
+  "id": 130002551763,
+  "nomeUrna": "DR. JORGE ALI",
+  "resumo": "Médico cirurgião, pecuarista e empresário, natural de Itambacuri; exerceu mandato de deputado estadual como suplente de junho a outubro de 2024. Candidato pelo Agir.",
+  "bandeiras": [
+   "Emprego e renda nos Vales do Rio Doce, Mucuri e Jequitinhonha"
+  ],
+  "posicoes": {}
+ }
+]

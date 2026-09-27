@@ -1,0 +1,638 @@
+[
+ {
+  "id": 130002545584,
+  "nomeUrna": "PAULO FILHO DA FUNDAÇÃO",
+  "resumo": "Comunicador e empresário de Muriaé, gestor da Rádio Muriaé e voluntário da Fundação Cristiano Varella (Hospital do Câncer). Candidato a deputado federal pelo PSD.",
+  "bandeiras": [
+   "Regionalização do atendimento de saúde e oncologia",
+   "Recursos federais para municípios da Zona da Mata",
+   "Fiscalização da aplicação de emendas"
+  ],
+  "posicoes": {}
+ },
+ {
+  "id": 130002542034,
+  "nomeUrna": "THIAGO GANEM",
+  "resumo": "Advogado, professor e gestor público, coordena o movimento Unidos Contra a Pedofilia. Candidato a deputado federal pelo PL.",
+  "bandeiras": [
+   "Proteção à infância e combate à pedofilia",
+   "Inclusão de pessoas com autismo e famílias atípicas",
+   "Causa animal"
+  ],
+  "posicoes": {}
+ },
+ {
+  "id": 130002535282,
+  "nomeUrna": "GLEIDE ANDRADE",
+  "resumo": "Secretária nacional de Planejamento e Finanças do PT. Candidata a deputada federal pelo PT; ficou como suplente em 2022.",
+  "bandeiras": [
+   "Fim da escala 6x1",
+   "Enfrentamento à violência contra a mulher",
+   "Saúde pública no interior de Minas"
+  ],
+  "posicoes": {
+   "G14": {
+    "v": 4,
+    "conf": "declaracao",
+    "fonte": "https://pt.org.br/o-fim-da-escala-6x1-e-a-disputa-sobre-o-brasil-que-queremos-construir/",
+    "nota": "Em artigo de fevereiro de 2026, defendeu o fim da escala 6x1 como defesa do direito ao tempo livre do trabalhador."
+   }
+  }
+ },
+ {
+  "id": 130002535315,
+  "nomeUrna": "BELLA GONÇALVES",
+  "resumo": "Deputada estadual desde 2023 e ex-vereadora de Belo Horizonte; preside a Comissão de Direitos Humanos da ALMG. Deixou o PSOL e disputa pelo PT.",
+  "bandeiras": [
+   "Soberania sobre minérios e combate aos abusos da mineração",
+   "Direito à moradia e à cidade",
+   "Direitos das mulheres e pessoas LGBTQIAPN+"
+  ],
+  "posicoes": {
+   "G03": {
+    "v": 1,
+    "conf": "voto",
+    "fonte": "https://mediaserver.almg.gov.br/acervo/510/199/2510199.pdf",
+    "nota": "Na ALMG, votou contra a PEC 24/2023 (fim do referendo) e contra o PL 4.380/2025, de desestatização da Copasa, nos dois turnos (2 e 17/12/2025)."
+   },
+   "G07": {
+    "v": 5,
+    "conf": "declaracao",
+    "fonte": "https://dadosabertos.almg.gov.br/api/v2/pronunciamentos/57168?formato=json",
+    "nota": "Em discursos na ALMG (2024 e 2025), criticou a ampliação de barragem de mineradora e defendeu a Lei Mar de Lama Nunca Mais."
+   },
+   "G08": {
+    "v": 2,
+    "conf": "declaracao",
+    "fonte": "https://dadosabertos.almg.gov.br/api/v2/pronunciamentos/57066?formato=json",
+    "nota": "Em discurso na ALMG (08/04/2025), criticou a participação do governador em ato pela anistia aos envolvidos no 8 de janeiro."
+   },
+   "G10": {
+    "v": 4,
+    "conf": "declaracao",
+    "fonte": "https://dadosabertos.almg.gov.br/api/v2/pronunciamentos/57196?formato=json",
+    "nota": "Na ALMG (13/05/2025), defendeu regulamentar as plataformas digitais para combater a disseminação de crimes."
+   },
+   "G14": {
+    "v": 5,
+    "conf": "declaracao",
+    "fonte": "https://dadosabertos.almg.gov.br/api/v2/pronunciamentos/49950?formato=json",
+    "nota": "Defendeu o fim da escala 6x1 em discursos na ALMG em 12/11/2024 e 13/05/2025."
+   },
+   "DF01": {
+    "v": 4,
+    "conf": "declaracao",
+    "fonte": "https://bellagoncalves.com.br/",
+    "nota": "Programa de campanha propõe combater o uso instrumental das emendas parlamentares e a sua expansão."
+   },
+   "DF02": {
+    "v": 2,
+    "conf": "declaracao",
+    "fonte": "https://dadosabertos.almg.gov.br/api/v2/pronunciamentos/57695?formato=json",
+    "nota": "Em discurso na ALMG (17/09/2025), criticou a aprovação da PEC da Blindagem pela Câmara dos Deputados."
+   }
+  }
+ },
+ {
+  "id": 130002542011,
+  "nomeUrna": "FABINHO RAMALHO",
+  "resumo": "Ex-prefeito de Malacacheta (1997 a 2004) e deputado federal por quatro mandatos (2007 a 2023), foi 1º vice-presidente da Câmara. Candidato pelo PL.",
+  "bandeiras": [
+   "Municipalismo e apoio às cidades mineiras",
+   "Aproximar os municípios do governo federal"
+  ],
+  "posicoes": {
+   "G01": {
+    "v": 4,
+    "conf": "voto",
+    "fonte": "https://dadosabertos.camara.leg.br/api/v2/votacoes/2088351-324/votos",
+    "nota": "Votou a favor da PEC 241/2016 (teto de gastos) nos dois turnos, em 10 e 25/10/2016."
+   },
+   "G02": {
+    "v": 4,
+    "conf": "voto",
+    "fonte": "https://dadosabertos.camara.leg.br/api/v2/votacoes/2329218-182/votos",
+    "nota": "Votou a favor da PEC 15/2022, que ampliou temporariamente o Auxílio Brasil para R$ 600, em 13/07/2022."
+   },
+   "G03": {
+    "v": 3,
+    "conf": "voto",
+    "fonte": "https://dadosabertos.camara.leg.br/api/v2/votacoes/2270789-73/votos",
+    "nota": "Votou a favor da MP de privatização da Eletrobras (19/05/2021) e contra a urgência da privatização dos Correios (20/04/2021)."
+   },
+   "G07": {
+    "v": 4,
+    "conf": "voto",
+    "fonte": "https://dadosabertos.camara.leg.br/api/v2/votacoes/17338-321/votos",
+    "nota": "Votou contra a Emenda 164 do Código Florestal (2011) e contra a urgência do PL 191/2020, de mineração em terras indígenas (2022)."
+   },
+   "G12": {
+    "v": 2,
+    "conf": "voto",
+    "fonte": "https://dadosabertos.camara.leg.br/api/v2/votacoes/14493-536/votos",
+    "nota": "Votou contra a PEC 171/1993 (redução da maioridade penal) em 1º e 2º turnos, em julho e agosto de 2015."
+   },
+   "DF02": {
+    "v": 4,
+    "conf": "voto",
+    "fonte": "https://dadosabertos.camara.leg.br/api/v2/votacoes/2270800-34/votos",
+    "nota": "Votou pela admissibilidade da PEC 3/2021 (PEC da Imunidade), que ampliava proteções de parlamentares contra prisões, em 24/02/2021."
+   },
+   "DF04": {
+    "v": 4,
+    "conf": "voto",
+    "fonte": "https://dadosabertos.camara.leg.br/api/v2/votacoes/257161-337/votos",
+    "nota": "Votou a favor do texto-base da Lei Geral do Licenciamento Ambiental (PL 3.729/2004) na Câmara em 13/05/2021."
+   }
+  }
+ },
+ {
+  "id": 130002542043,
+  "nomeUrna": "CAPOREZZO",
+  "resumo": "Policial militar de Uberlândia, deputado estadual pelo PL desde 2023. Candidato a deputado federal pelo PL.",
+  "bandeiras": [
+   "Segurança pública",
+   "Pauta conservadora de direita",
+   "Oposição ao governo federal"
+  ],
+  "posicoes": {
+   "G04": {
+    "v": 4,
+    "conf": "declaracao",
+    "fonte": "https://dadosabertos.almg.gov.br/api/v2/pronunciamentos/48907?formato=json",
+    "nota": "Na ALMG (03/10/2023), criticou proposta de elevar impostos sobre armas e munições; em 2023 citou projeto seu contra metas de apreensão de armas legais."
+   },
+   "G05": {
+    "v": 1,
+    "conf": "declaracao",
+    "fonte": "https://dadosabertos.almg.gov.br/api/v2/pronunciamentos/48698?formato=json",
+    "nota": "Criticou em 2023 a possibilidade de o STF descriminalizar o aborto até o 3º mês e voltou a criticar o aborto em discursos de 2024 e 2025."
+   },
+   "G06": {
+    "v": 1,
+    "conf": "declaracao",
+    "fonte": "https://dadosabertos.almg.gov.br/api/v2/pronunciamentos/49699?formato=json",
+    "nota": "Criticou a decisão do STF sobre porte de maconha e citou projeto seu que multa qualquer porte de droga ilícita em MG (09/07/2024)."
+   },
+   "G08": {
+    "v": 5,
+    "conf": "declaracao",
+    "fonte": "https://dadosabertos.almg.gov.br/api/v2/pronunciamentos/57953?formato=json",
+    "nota": "Defendeu anistia aos envolvidos nos atos de 8 de janeiro em discursos na ALMG em 23/09/2025 e 11/11/2025."
+   },
+   "G09": {
+    "v": 5,
+    "conf": "declaracao",
+    "fonte": "https://dadosabertos.almg.gov.br/api/v2/pronunciamentos/57626?formato=json",
+    "nota": "Em vários discursos em 2025, acusou o ministro Alexandre de Moraes de abuso de poder e criticou decisões do STF."
+   },
+   "G10": {
+    "v": 2,
+    "conf": "declaracao",
+    "fonte": "https://dadosabertos.almg.gov.br/api/v2/pronunciamentos/57527?formato=json",
+    "nota": "Na ALMG (13/08/2025), classificou como tentativa de censura a proposta de regulamentação das redes sociais."
+   },
+   "G12": {
+    "v": 4,
+    "conf": "declaracao",
+    "fonte": "https://dadosabertos.almg.gov.br/api/v2/pronunciamentos/47933?formato=json",
+    "nota": "Defendeu a revisão da maioridade penal em discurso na ALMG em 28/03/2023."
+   },
+   "G14": {
+    "v": 2,
+    "conf": "declaracao",
+    "fonte": "https://dadosabertos.almg.gov.br/api/v2/pronunciamentos/49949?formato=json",
+    "nota": "Criticou a proposta de fim da escala 6x1 em discurso na ALMG em 12/11/2024."
+   },
+   "DF02": {
+    "v": 4,
+    "conf": "declaracao",
+    "fonte": "https://dadosabertos.almg.gov.br/api/v2/pronunciamentos/57706?formato=json",
+    "nota": "Na ALMG (23/09/2025), criticou deputados de direita que se posicionaram contra a PEC da Blindagem."
+   }
+  }
+ },
+ {
+  "id": 130002542697,
+  "nomeUrna": "JUNYNHO MARTINS",
+  "resumo": "Professor de História, foi prefeito de Ribeirão das Neves por dois mandatos (2017 a 2024) e secretário-executivo na Casa Civil do governo de Minas. Candidato pelo PP.",
+  "bandeiras": [
+   "Saúde",
+   "Infraestrutura e mobilidade",
+   "Educação"
+  ],
+  "posicoes": {}
+ },
+ {
+  "id": 130002545585,
+  "nomeUrna": "CASSIO SOARES",
+  "resumo": "Economista de Passos, deputado estadual desde 2011, presidente do PSD em Minas e líder do bloco governista Minas em Frente na ALMG. Foi secretário de Desenvolvimento Social.",
+  "bandeiras": [
+   "Recursos para municípios do Sul e Sudoeste de Minas",
+   "Saúde regional",
+   "Infraestrutura rodoviária"
+  ],
+  "posicoes": {
+   "G03": {
+    "v": 4,
+    "conf": "voto",
+    "fonte": "https://mediaserver.almg.gov.br/acervo/510/199/2510199.pdf",
+    "nota": "Na ALMG, votou a favor da PEC 24/2023 (fim do referendo) e do PL 4.380/2025, que autoriza a desestatização da Copasa, em 2 e 17/12/2025."
+   },
+   "G11": {
+    "v": 4,
+    "conf": "voto",
+    "fonte": "https://mediaserver.almg.gov.br/acervo/497/805/2497805.pdf",
+    "nota": "Votou a favor do PL 438/2019 (cotas para negros em concursos estaduais) em 1º turno na ALMG, em 03/12/2025."
+   }
+  }
+ },
+ {
+  "id": 130002543710,
+  "nomeUrna": "KATIA DIAS",
+  "resumo": "Empresária e protetora de animais de Juiz de Fora, irmã do deputado estadual Noraldino Jr. Exerceu mandato de deputada federal como suplente de fevereiro a junho de 2025.",
+  "bandeiras": [
+   "Causa animal e castração itinerante",
+   "Proteção às mulheres",
+   "Economia e empreendedorismo"
+  ],
+  "posicoes": {
+   "G01": {
+    "v": 4,
+    "conf": "voto",
+    "fonte": "https://dadosabertos.camara.leg.br/api/v2/votacoes/2515648-44/votos",
+    "nota": "Votou a favor do PDL 214/2025, que sustou o decreto do governo federal que elevava o IOF, em 25/06/2025."
+   }
+  }
+ },
+ {
+  "id": 130002535290,
+  "nomeUrna": "WADSON RIBEIRO",
+  "resumo": "Ex-presidente da UNE, foi deputado federal como suplente (2015 e 2016), secretário-executivo do Ministério do Esporte e ouvidor-geral de Minas. Candidato pelo PCdoB.",
+  "bandeiras": [
+   "Fim da escala 6x1 e redução da jornada",
+   "Ciência, tecnologia e reindustrialização",
+   "Tarifa zero no transporte público"
+  ],
+  "posicoes": {
+   "G12": {
+    "v": 2,
+    "conf": "voto",
+    "fonte": "https://dadosabertos.camara.leg.br/api/v2/votacoes/14493-536/votos",
+    "nota": "Votou contra a PEC 171/1993 (redução da maioridade penal) em 1º e 2º turnos, em julho e agosto de 2015."
+   },
+   "G14": {
+    "v": 4,
+    "conf": "declaracao",
+    "fonte": "https://www.wadsonribeiro6510.com.br/",
+    "nota": "Propostas de campanha incluem o fim da escala 6x1 e a redução da jornada para 40 horas semanais sem redução salarial."
+   }
+  }
+ },
+ {
+  "id": 130002533264,
+  "nomeUrna": "OLAVO KEESEN",
+  "resumo": "Empresário que começou a vida vendendo cachorro-quente e comanda o Solidariedade em Minas Gerais. Candidato a deputado federal pelo Solidariedade.",
+  "bandeiras": [
+   "Organização do Solidariedade nos municípios mineiros",
+   "Oportunidades de trabalho para quem recomeça"
+  ],
+  "posicoes": {}
+ },
+ {
+  "id": 130002535319,
+  "nomeUrna": "LOHANNA",
+  "resumo": "Professora, deputada estadual pelo PV desde 2023 e líder da bancada feminina da ALMG. Foi vereadora de Divinópolis (2021 a 2023).",
+  "bandeiras": [
+   "Direitos das mulheres",
+   "Educação",
+   "Cultura"
+  ],
+  "posicoes": {
+   "G03": {
+    "v": 1,
+    "conf": "voto",
+    "fonte": "https://mediaserver.almg.gov.br/acervo/510/199/2510199.pdf",
+    "nota": "Votou contra a PEC 24/2023 e contra o PL 4.380/2025 (desestatização da Copasa) em 2 e 17/12/2025; criticou a privatização em discursos."
+   },
+   "G08": {
+    "v": 2,
+    "conf": "declaracao",
+    "fonte": "https://dadosabertos.almg.gov.br/api/v2/pronunciamentos/57063?formato=json",
+    "nota": "Em discurso na ALMG (08/04/2025), criticou a participação do governador em ato pela anistia aos envolvidos no 8 de janeiro."
+   },
+   "G10": {
+    "v": 4,
+    "conf": "declaracao",
+    "fonte": "https://dadosabertos.almg.gov.br/api/v2/pronunciamentos/49403?formato=json",
+    "nota": "Na ALMG (09/04/2024), defendeu que a liberdade de expressão não seja irrestrita e apoiou a atuação do Judiciário contra fake news."
+   },
+   "G11": {
+    "v": 4,
+    "conf": "voto",
+    "fonte": "https://mediaserver.almg.gov.br/acervo/497/805/2497805.pdf",
+    "nota": "Votou a favor do PL 438/2019 (cotas para negros em concursos estaduais) em 1º turno na ALMG, em 03/12/2025."
+   }
+  }
+ },
+ {
+  "id": 130002535314,
+  "nomeUrna": "GILMAR MACHADO",
+  "resumo": "Professor de História, foi deputado estadual, deputado federal (1999 a 2012) e prefeito de Uberlândia (2013 a 2016). Assumiu vaga na Câmara como suplente em 15/09/2026.",
+  "bandeiras": [
+   "Educação",
+   "Saúde e atendimento de urgência",
+   "Educação digital contra apostas"
+  ],
+  "posicoes": {
+   "G07": {
+    "v": 3,
+    "conf": "voto",
+    "fonte": "https://dadosabertos.camara.leg.br/api/v2/votacoes/17338-321/votos",
+    "nota": "Em 24/05/2011 votou contra a Emenda 164 ao Código Florestal, mas a favor do texto geral do novo Código. Registro misto."
+   }
+  }
+ },
+ {
+  "id": 130002533247,
+  "nomeUrna": "DRA. MICHELLY SIQUEIRA",
+  "resumo": "Advogada, vereadora de Belo Horizonte pelo PRD desde 2025, com atuação voltada aos direitos das pessoas com deficiência; presidiu comissão da OAB-MG sobre o tema.",
+  "bandeiras": [
+   "Inclusão de pessoas com deficiência",
+   "Saúde",
+   "Educação"
+  ],
+  "posicoes": {
+   "G02": {
+    "v": 4,
+    "conf": "declaracao",
+    "fonte": "https://www.michellysiqueira.com.br/",
+    "nota": "Defende que o acesso ao BPC não seja limitado pela renda familiar; em 2025 apresentou moções contra convocações do INSS a beneficiários do BPC."
+   }
+  }
+ },
+ {
+  "id": 130002543108,
+  "nomeUrna": "IGOR ETO",
+  "resumo": "Administrador. Candidato a deputado federal pelo Avante, sem candidaturas anteriores registradas no TSE.",
+  "bandeiras": [],
+  "posicoes": {}
+ },
+ {
+  "id": 130002542040,
+  "nomeUrna": "VILE SANTOS",
+  "resumo": "Relações-públicas, vereador de Belo Horizonte pelo PL desde 2025. Candidato a deputado federal pelo PL.",
+  "bandeiras": [],
+  "posicoes": {
+   "G11": {
+    "v": 1,
+    "conf": "declaracao",
+    "fonte": "https://cmbhsildownload.cmbh.mg.gov.br/silinternet/servico/download/documentoVinculado?idDocumento=2c907f769bbcccb3019c239b3baa23d4",
+    "nota": "É autor do PL 663/2026 na Câmara de BH, que proíbe cotas baseadas em raça, cor, etnia ou gênero em concursos públicos municipais."
+   }
+  }
+ },
+ {
+  "id": 130002547913,
+  "nomeUrna": "MONICA VALLONE",
+  "resumo": "Servidora aposentada com 40 anos no serviço público, foi a primeira mulher diretora de Regional de Saúde em MG e preside o MDB Mulher em Minas. Disputou a prefeitura de Ubá em 2024.",
+  "bandeiras": [
+   "Saúde pública",
+   "Gestão pública eficiente",
+   "Protagonismo feminino"
+  ],
+  "posicoes": {}
+ },
+ {
+  "id": 130002542039,
+  "nomeUrna": "RODRIGO TAVARES",
+  "resumo": "Advogado. Candidato a deputado federal pelo PL, sem candidaturas anteriores registradas no TSE.",
+  "bandeiras": [],
+  "posicoes": {}
+ },
+ {
+  "id": 130002547929,
+  "nomeUrna": "ULISSES GUIMARÃES",
+  "resumo": "Médico veterinário e produtor rural de Poços de Caldas, foi prefeito de Caldas (2017 a 2020) e deputado federal como suplente em 2024. Candidato pelo MDB.",
+  "bandeiras": [
+   "Agro e pequeno produtor rural",
+   "Saúde e Santas Casas",
+   "Fé, família e valores"
+  ],
+  "posicoes": {}
+ },
+ {
+  "id": 130002547840,
+  "nomeUrna": "CHARLLES EVANGELISTA",
+  "resumo": "Servidor estadual, foi vereador de Juiz de Fora e deputado federal (2019 a 2023). Disputou a prefeitura de Juiz de Fora em 2024 pelo PL.",
+  "bandeiras": [],
+  "posicoes": {
+   "G02": {
+    "v": 4,
+    "conf": "voto",
+    "fonte": "https://dadosabertos.camara.leg.br/api/v2/votacoes/2329218-182/votos",
+    "nota": "Votou a favor da PEC 15/2022, que ampliou temporariamente o Auxílio Brasil para R$ 600, em 13/07/2022."
+   },
+   "G03": {
+    "v": 4,
+    "conf": "voto",
+    "fonte": "https://dadosabertos.camara.leg.br/api/v2/votacoes/2270894-103/votos",
+    "nota": "Votou a favor da privatização da Eletrobras (MP 1.031, 19/05/2021) e dos Correios (PL 591/2021, 05/08/2021)."
+   },
+   "G04": {
+    "v": 5,
+    "conf": "voto",
+    "fonte": "https://dadosabertos.camara.leg.br/api/v2/votacoes/2209381-100/votos",
+    "nota": "Votou a favor do PL 3.723/2019, que ampliava posse e porte para CACs (05/11/2019), e é autor do PL 3.746/2021, que isenta armas de IPI."
+   },
+   "DF02": {
+    "v": 4,
+    "conf": "voto",
+    "fonte": "https://dadosabertos.camara.leg.br/api/v2/votacoes/2270800-34/votos",
+    "nota": "Votou pela admissibilidade da PEC 3/2021 (PEC da Imunidade), que ampliava proteções de parlamentares contra prisões, em 24/02/2021."
+   },
+   "DF04": {
+    "v": 4,
+    "conf": "voto",
+    "fonte": "https://dadosabertos.camara.leg.br/api/v2/votacoes/257161-337/votos",
+    "nota": "Votou a favor do texto-base da Lei Geral do Licenciamento Ambiental (PL 3.729/2004) na Câmara em 13/05/2021."
+   }
+  }
+ },
+ {
+  "id": 130002533243,
+  "nomeUrna": "PEDRO BRAGA",
+  "resumo": "Empresário, foi prefeito de Buritizeiro por dois mandatos (eleito em 2020 e reeleito em 2024). Candidato a deputado federal pelo Solidariedade.",
+  "bandeiras": [
+   "Desenvolvimento do Norte de Minas",
+   "Educação em tempo integral",
+   "Investimentos e oportunidades para a região"
+  ],
+  "posicoes": {}
+ },
+ {
+  "id": 130002535285,
+  "nomeUrna": "PEDRO ROUSSEFF",
+  "resumo": "Administrador, vereador de Belo Horizonte pelo PT desde 2025; é sobrinho-neto da ex-presidente Dilma Rousseff.",
+  "bandeiras": [],
+  "posicoes": {
+   "G08": {
+    "v": 2,
+    "conf": "declaracao",
+    "fonte": "https://cmbhsildownload.cmbh.mg.gov.br/silinternet/servico/download/documentoVinculado?idDocumento=2c907f7694a5b4900194cc97d60b09c5",
+    "nota": "Autor do PL 21/2025 na Câmara de BH, que veda nomear no município condenados por golpe de Estado e abolição violenta do Estado de Direito."
+   },
+   "G09": {
+    "v": 2,
+    "conf": "declaracao",
+    "fonte": "https://cmbhsildownload.cmbh.mg.gov.br/silinternet/servico/download/documentoVinculado?idDocumento=2c907f76987b849c0198bd6b281656b7",
+    "nota": "Autor da Moção 152/2025, de apoio ao ministro Alexandre de Moraes pela prisão domiciliar de Jair Bolsonaro (rejeitada)."
+   },
+   "DF04": {
+    "v": 2,
+    "conf": "declaracao",
+    "fonte": "https://cmbhsildownload.cmbh.mg.gov.br/silinternet/servico/download/documentoVinculado?idDocumento=2c907f76987b849c019889aeba391d1c",
+    "nota": "Coautor da Moção 141/2025, que pedia ao presidente Lula o veto integral ao PL 2.159/2021 (Lei Geral do Licenciamento Ambiental)."
+   }
+  }
+ },
+ {
+  "id": 130002533244,
+  "nomeUrna": "SÉRGIO SANTOS RODRIGUES",
+  "resumo": "Advogado especializado em direito esportivo, presidiu o Cruzeiro (2020 a 2023) e exerceu mandato de deputado federal como suplente de novembro de 2025 a março de 2026. Candidato pelo PRD.",
+  "bandeiras": [
+   "Gestão responsável e transparência",
+   "Esporte"
+  ],
+  "posicoes": {
+   "G08": {
+    "v": 4,
+    "conf": "voto",
+    "fonte": "https://dadosabertos.camara.leg.br/api/v2/votacoes/2358548-89/votos",
+    "nota": "Votou a favor do substitutivo do PL 2.162/2023 (PL da Dosimetria), que reduz penas de condenados pelo 8 de janeiro, em 10/12/2025."
+   }
+  }
+ },
+ {
+  "id": 130002538968,
+  "nomeUrna": "SÁVIO SOUZA CRUZ",
+  "resumo": "Engenheiro e professor, foi vereador e presidente da Câmara de BH, deputado estadual por seis mandatos (1999 a 2023) e secretário estadual de Saúde e de Meio Ambiente. Candidato pela Rede.",
+  "bandeiras": [
+   "Saúde pública e saúde mental",
+   "Valorização do servidor público",
+   "Fiscalização do orçamento"
+  ],
+  "posicoes": {
+   "G07": {
+    "v": 4,
+    "conf": "declaracao",
+    "fonte": "https://www.saviosouzacruz.com.br/",
+    "nota": "Propostas de campanha defendem monitoramento de barragens com fiscalização técnica independente, e não autodeclaração das empresas."
+   },
+   "DF04": {
+    "v": 3,
+    "conf": "declaracao",
+    "fonte": "https://www.saviosouzacruz.com.br/",
+    "nota": "Propostas de campanha defendem um licenciamento ambiental que analise de verdade, 'nem frouxo nem paralisado'."
+   }
+  }
+ },
+ {
+  "id": 130002542000,
+  "nomeUrna": "IGOR SANTOS",
+  "resumo": "Relações-públicas, foi prefeito de Paracatu (eleito em 2020 e reeleito em 2024). Candidato a deputado federal pelo PL.",
+  "bandeiras": [],
+  "posicoes": {}
+ },
+ {
+  "id": 130002542044,
+  "nomeUrna": "DR. MARCOS VINICIUS",
+  "resumo": "Médico geriatra, foi prefeito de Coronel Fabriciano (2017 a 2024) e presidente da Associação Mineira de Municípios. Candidato a deputado federal pelo PL.",
+  "bandeiras": [],
+  "posicoes": {}
+ },
+ {
+  "id": 130002542012,
+  "nomeUrna": "GLAUCIA SANTIAGO",
+  "resumo": "Pedagoga de Itaúna, foi vereadora por três mandatos, vice-prefeita e deputada federal como suplente (julho a novembro de 2024). Candidata pelo PL.",
+  "bandeiras": [
+   "Saúde no Centro-Oeste de Minas",
+   "Vida e família",
+   "Redução de impostos"
+  ],
+  "posicoes": {
+   "G01": {
+    "v": 4,
+    "conf": "declaracao",
+    "fonte": "https://glauciasantiago2230.com.br/",
+    "nota": "Site de campanha lista a redução de impostos entre as bandeiras que defende."
+   }
+  }
+ },
+ {
+  "id": 130002542006,
+  "nomeUrna": "FABIANO CAZECA",
+  "resumo": "Empresário, disputou a prefeitura de BH em 2020 e exerceu mandato de deputado federal como suplente de outubro de 2025 a fevereiro de 2026. Candidato pelo PL.",
+  "bandeiras": [],
+  "posicoes": {
+   "G05": {
+    "v": 2,
+    "conf": "voto",
+    "fonte": "https://dadosabertos.camara.leg.br/api/v2/votacoes/2482078-57/votos",
+    "nota": "Votou a favor do PDL 3/2025, que sustou resolução do Conanda sobre atendimento a vítimas de violência sexual, incluindo aborto legal (05/11/2025)."
+   },
+   "G08": {
+    "v": 4,
+    "conf": "voto",
+    "fonte": "https://dadosabertos.camara.leg.br/api/v2/votacoes/2358548-89/votos",
+    "nota": "Votou a favor do substitutivo do PL 2.162/2023 (PL da Dosimetria), que reduz penas de condenados pelo 8 de janeiro, em 10/12/2025."
+   }
+  }
+ },
+ {
+  "id": 130002543720,
+  "nomeUrna": "RENATO ANDRADE",
+  "resumo": "Empresário, exerceu mandato de deputado federal como suplente em 2013 e 2014 e de 2017 a 2019, pelo PP. Candidato pelo PSB.",
+  "bandeiras": [],
+  "posicoes": {
+   "DF05": {
+    "v": 2,
+    "conf": "voto",
+    "fonte": "https://dadosabertos.camara.leg.br/api/v2/votacoes/2153714-7/votos",
+    "nota": "Votou a favor da urgência do PL 8.703/2017, que criou o fundo eleitoral de financiamento de campanhas, em 03/10/2017."
+   }
+  }
+ },
+ {
+  "id": 130002542723,
+  "nomeUrna": "DELEGADA LIA VALECHI",
+  "resumo": "Delegada da Polícia Civil e ex-policial militar, chefiou a delegacia de mulheres de Uberlândia e é vereadora da cidade pelo União desde 2025.",
+  "bandeiras": [
+   "Enfrentamento à violência contra a mulher",
+   "Segurança pública",
+   "Proteção à infância"
+  ],
+  "posicoes": {}
+ },
+ {
+  "id": 130002544821,
+  "nomeUrna": "MUCIDA",
+  "resumo": "Advogado e cientista político de Itabira, foi vereador (2013 a 2016) e deputado estadual como suplente (2021 a 2023) pelo PSB. Candidato pelo Avante.",
+  "bandeiras": [],
+  "posicoes": {}
+ },
+ {
+  "id": 130002541999,
+  "nomeUrna": "ANDRE COSTA",
+  "resumo": "Produtor agropecuário. Candidato a deputado federal pelo PL, sem candidaturas anteriores registradas no TSE.",
+  "bandeiras": [],
+  "posicoes": {}
+ },
+ {
+  "id": 130002543706,
+  "nomeUrna": "PEDRO GAMA",
+  "resumo": "Advogado, foi vereador de Itajubá (2021 a 2024) e candidato a prefeito da cidade em 2024. Candidato a deputado federal pelo PSB.",
+  "bandeiras": [],
+  "posicoes": {}
+ }
+]

@@ -1,0 +1,1378 @@
+[
+  {
+    "id": 130002549957,
+    "nomeUrna": "TITO TORRES",
+    "resumo": "Deputado estadual em 3º mandato (desde 2015). Empresário e pecuarista de João Monlevade, filho do ex-deputado Mauri Torres. Candidato à reeleição pelo PSD.",
+    "bandeiras": [
+      "Proteção das águas e sustentabilidade",
+      "Proteção animal",
+      "Saúde e obras regionais, como a duplicação da BR-381"
+    ],
+    "posicoes": {
+      "G03": {
+        "v": 4,
+        "conf": "voto",
+        "fonte": "https://mediaserver.almg.gov.br/acervo/510/199/2510199.pdf",
+        "nota": "Votou Sim ao PL 4.380/2025, que autoriza a privatização da Copasa, nos 2 turnos (02/12 e 17/12/2025)."
+      },
+      "G07": {
+        "v": 2,
+        "conf": "voto",
+        "fonte": "https://mediaserver.almg.gov.br/acervo/86/875/2086875.pdf",
+        "nota": "Votou pela manutenção do veto à ampliação da Estação Ecológica de Fechos, área de mananciais sob pressão da mineração (24/04/2024)."
+      },
+      "G11": {
+        "v": 4,
+        "conf": "voto",
+        "fonte": "https://mediaserver.almg.gov.br/acervo/509/176/2509176.pdf",
+        "nota": "Votou Sim ao PL 438/2019, que reserva vagas para negros em concursos públicos estaduais, no 2º turno (16/12/2025)."
+      },
+      "DE01": {
+        "v": 1,
+        "conf": "voto",
+        "fonte": "https://mediaserver.almg.gov.br/acervo/475/18/2475018.pdf",
+        "nota": "Votou Sim à PEC 24/2023, que retirou a exigência de referendo para privatizar a Copasa, nos 2 turnos (24/10 e 05/11/2025)."
+      }
+    }
+  },
+  {
+    "id": 130002535362,
+    "nomeUrna": "LUIZINHO",
+    "resumo": "Deputado estadual em 1º mandato (desde 2023) e ex-prefeito de Alfenas por três mandatos. Candidato à reeleição pelo PT.",
+    "bandeiras": [
+      "Saúde pública",
+      "Defesa da Copasa como empresa pública",
+      "Redução da jornada de trabalho"
+    ],
+    "posicoes": {
+      "G02": {
+        "v": 4,
+        "conf": "declaracao",
+        "fonte": "https://dadosabertos.almg.gov.br/api/v2/pronunciamentos/49968",
+        "nota": "Em discurso na ALMG (13/11/2024), defendeu o Bolsa Família e rebateu críticas do governador de que o programa desestimula o emprego."
+      },
+      "G03": {
+        "v": 1,
+        "conf": "voto",
+        "fonte": "https://mediaserver.almg.gov.br/acervo/510/199/2510199.pdf",
+        "nota": "Votou Não à privatização da Copasa (PL 4.380/2025) em 17/12/2025 e discursou contra privatizações em 2024 e 2025."
+      },
+      "G07": {
+        "v": 4,
+        "conf": "voto",
+        "fonte": "https://mediaserver.almg.gov.br/acervo/86/875/2086875.pdf",
+        "nota": "Votou pela derrubada do veto à ampliação da Estação Ecológica de Fechos, área de mananciais sob pressão da mineração (24/04/2024)."
+      },
+      "G08": {
+        "v": 2,
+        "conf": "declaracao",
+        "fonte": "https://www.almg.gov.br/projetos-de-lei/PL/396/2023",
+        "nota": "Coautor do PL 396/2023, que proíbe condenados pelos atos de 8 de janeiro de 2023 de contratar com o Estado."
+      },
+      "G14": {
+        "v": 5,
+        "conf": "declaracao",
+        "fonte": "https://dadosabertos.almg.gov.br/api/v2/pronunciamentos/49968",
+        "nota": "Defendeu a redução da jornada em discurso (13/11/2024) e é coautor do PL 3.431/2025 (36 h semanais e 2 folgas em contratos do Estado)."
+      },
+      "DE01": {
+        "v": 5,
+        "conf": "voto",
+        "fonte": "https://mediaserver.almg.gov.br/acervo/475/18/2475018.pdf",
+        "nota": "Votou Não à PEC 24/2023, que retirou a exigência de referendo para privatizar a Copasa, nos 2 turnos (24/10 e 05/11/2025)."
+      }
+    }
+  },
+  {
+    "id": 130002542081,
+    "nomeUrna": "ALÊ PORTELA",
+    "resumo": "Deputada estadual em 1º mandato (desde 2023), advogada, licenciou-se para ser secretária de Estado de Desenvolvimento Social no governo Zema. Candidata à reeleição pelo PL.",
+    "bandeiras": [
+      "Defesa da família",
+      "Proteção da infância",
+      "Liberdade religiosa"
+    ],
+    "posicoes": {
+      "G05": {
+        "v": 1,
+        "conf": "declaracao",
+        "fonte": "https://www.almg.gov.br/projetos-de-lei/RQN/3363/2023",
+        "nota": "Autora de requerimento (RQN 3.363/2023) de repúdio à descriminalização do aborto (ADPF 442); no site, diz que sua lei de entrega legal combate o aborto."
+      },
+      "G07": {
+        "v": 2,
+        "conf": "voto",
+        "fonte": "https://mediaserver.almg.gov.br/acervo/86/875/2086875.pdf",
+        "nota": "Votou pela manutenção do veto à ampliação da Estação Ecológica de Fechos, área de mananciais sob pressão da mineração (24/04/2024)."
+      },
+      "G10": {
+        "v": 4,
+        "conf": "declaracao",
+        "fonte": "https://www.almg.gov.br/projetos-de-lei/PL/3142/2024",
+        "nota": "Autora do PL 3.142/2024, que obriga plataformas digitais a filtrar conteúdo sexual, de drogas e violência para crianças, com sanções."
+      },
+      "G13": {
+        "v": 4,
+        "conf": "declaracao",
+        "fonte": "https://dadosabertos.almg.gov.br/api/v2/pronunciamentos/47766",
+        "nota": "No 1º discurso (14/02/2023) disse ter assumido a bandeira da família e do \"respeito ao conjunto de valores que norteiam a fé cristã\"."
+      }
+    }
+  },
+  {
+    "id": 130002535378,
+    "nomeUrna": "MÁRIO HENRIQUE CAIXA",
+    "resumo": "Deputado estadual desde 2013, em 4º mandato. Radialista e narrador esportivo da Rádio Itatiaia, natural de Três Pontas. Candidato à reeleição pelo PV.",
+    "bandeiras": [
+      "Esporte"
+    ],
+    "posicoes": {
+      "G11": {
+        "v": 4,
+        "conf": "voto",
+        "fonte": "https://mediaserver.almg.gov.br/acervo/509/176/2509176.pdf",
+        "nota": "Votou Sim ao PL 438/2019, que reserva vagas para negros em concursos públicos estaduais, no 2º turno (16/12/2025)."
+      }
+    }
+  },
+  {
+    "id": 130002542817,
+    "nomeUrna": "ARNALDO",
+    "resumo": "Deputado estadual (2015 a 2019 e desde 2021), advogado de Frutal, doutor em Direito Público. Candidato à reeleição pelo União Brasil.",
+    "bandeiras": [
+      "Saúde e prevenção ao câncer",
+      "Direitos da pessoa com deficiência"
+    ],
+    "posicoes": {
+      "G01": {
+        "v": 4,
+        "conf": "declaracao",
+        "fonte": "https://dadosabertos.almg.gov.br/api/v2/pronunciamentos/48826",
+        "nota": "Em 26/09/2023 anunciou em Plenário \"voto contrário ao aumento de impostos\" ao projeto que tornava permanente o adicional de ICMS sobre supérfluos."
+      },
+      "G03": {
+        "v": 4,
+        "conf": "voto",
+        "fonte": "https://mediaserver.almg.gov.br/acervo/510/199/2510199.pdf",
+        "nota": "Votou Sim ao PL 4.380/2025, que autoriza a privatização da Copasa, nos 2 turnos (02/12 e 17/12/2025)."
+      },
+      "G07": {
+        "v": 2,
+        "conf": "voto",
+        "fonte": "https://mediaserver.almg.gov.br/acervo/86/875/2086875.pdf",
+        "nota": "Votou pela manutenção do veto à ampliação da Estação Ecológica de Fechos, área de mananciais sob pressão da mineração (24/04/2024)."
+      },
+      "G11": {
+        "v": 5,
+        "conf": "voto",
+        "fonte": "https://mediaserver.almg.gov.br/acervo/509/176/2509176.pdf",
+        "nota": "Votou Sim ao PL 438/2019, que reserva vagas para negros em concursos públicos estaduais, nos 2 turnos (03/12 e 16/12/2025)."
+      },
+      "DE01": {
+        "v": 1,
+        "conf": "voto",
+        "fonte": "https://mediaserver.almg.gov.br/acervo/475/18/2475018.pdf",
+        "nota": "Votou Sim à PEC 24/2023, que retirou a exigência de referendo para privatizar a Copasa, nos 2 turnos (24/10 e 05/11/2025)."
+      }
+    }
+  },
+  {
+    "id": 130002539905,
+    "nomeUrna": "CARLOS HENRIQUE",
+    "resumo": "Deputado estadual desde 2011, em 4º mandato. Ex-vereador de Belo Horizonte e ex-secretário de Estado de Esportes. Candidato à reeleição pelo Republicanos.",
+    "bandeiras": [
+      "Desenvolvimento do Vale do Jequitinhonha",
+      "Agricultura familiar e assistência técnica rural",
+      "Liberdade religiosa"
+    ],
+    "posicoes": {
+      "G03": {
+        "v": 4,
+        "conf": "voto",
+        "fonte": "https://mediaserver.almg.gov.br/acervo/510/199/2510199.pdf",
+        "nota": "Votou Sim ao PL 4.380/2025, que autoriza a privatização da Copasa, nos 2 turnos (02/12 e 17/12/2025)."
+      },
+      "G05": {
+        "v": 2,
+        "conf": "declaracao",
+        "fonte": "https://www.almg.gov.br/projetos-de-lei/RQN/3742/2023",
+        "nota": "Coassinou requerimento (RQN 3.742/2023) de apoio à Frente Parlamentar contra o Aborto diante da ação no STF que discute descriminalizá-lo."
+      },
+      "G07": {
+        "v": 2,
+        "conf": "voto",
+        "fonte": "https://mediaserver.almg.gov.br/acervo/86/875/2086875.pdf",
+        "nota": "Votou pela manutenção do veto à ampliação da Estação Ecológica de Fechos, área de mananciais sob pressão da mineração (24/04/2024)."
+      },
+      "G13": {
+        "v": 4,
+        "conf": "declaracao",
+        "fonte": "https://dadosabertos.almg.gov.br/api/v2/pronunciamentos/58265",
+        "nota": "Disse em Plenário (24/02/2026) que a sociedade seria outra se guiada pela palavra de Deus; autor de projetos de apoio à cultura cristã."
+      },
+      "DE01": {
+        "v": 1,
+        "conf": "voto",
+        "fonte": "https://mediaserver.almg.gov.br/acervo/475/18/2475018.pdf",
+        "nota": "Votou Sim à PEC 24/2023, que retirou a exigência de referendo para privatizar a Copasa, nos 2 turnos (24/10 e 05/11/2025)."
+      },
+      "DE03": {
+        "v": 4,
+        "conf": "declaracao",
+        "fonte": "https://www.almg.gov.br/projetos-de-lei/PL/5305/2026",
+        "nota": "Autor do PL 5.305/2026, de incentivo aos municípios de menor IDH do Vale do Jequitinhonha, e do PL 975/2023, de compensação à região."
+      }
+    }
+  },
+  {
+    "id": 130002542754,
+    "nomeUrna": "BETINHO PINTO COELHO",
+    "resumo": "Deputado estadual desde 2019, em 2º mandato, e 3º-vice-presidente da ALMG. Administrador, filho do ex-governador Alberto Pinto Coelho. Candidato à reeleição pelo União Brasil.",
+    "bandeiras": [
+      "Municipalismo",
+      "Energias renováveis",
+      "Agronegócio"
+    ],
+    "posicoes": {
+      "G03": {
+        "v": 4,
+        "conf": "voto",
+        "fonte": "https://mediaserver.almg.gov.br/acervo/510/199/2510199.pdf",
+        "nota": "Votou Sim ao PL 4.380/2025, que autoriza a privatização da Copasa, nos 2 turnos (02/12 e 17/12/2025)."
+      },
+      "G11": {
+        "v": 4,
+        "conf": "voto",
+        "fonte": "https://mediaserver.almg.gov.br/acervo/497/805/2497805.pdf",
+        "nota": "Votou Sim ao PL 438/2019, que reserva vagas para negros em concursos públicos estaduais, no 1º turno (03/12/2025)."
+      },
+      "DE01": {
+        "v": 1,
+        "conf": "voto",
+        "fonte": "https://mediaserver.almg.gov.br/acervo/475/18/2475018.pdf",
+        "nota": "Votou Sim à PEC 24/2023, que retirou a exigência de referendo para privatizar a Copasa, nos 2 turnos (24/10 e 05/11/2025)."
+      }
+    }
+  },
+  {
+    "id": 130002535348,
+    "nomeUrna": "ULYSSES GOMES",
+    "resumo": "Deputado estadual desde 2011, em 4º mandato, e líder do bloco de oposição ao governo Zema na ALMG. Administrador público de Itajubá. Candidato à reeleição pelo PT.",
+    "bandeiras": [
+      "Recursos para saúde, educação e assistência social nos municípios",
+      "Direitos das pessoas com autismo",
+      "Fiscalização do governo estadual"
+    ],
+    "posicoes": {
+      "G03": {
+        "v": 1,
+        "conf": "voto",
+        "fonte": "https://mediaserver.almg.gov.br/acervo/510/199/2510199.pdf",
+        "nota": "Votou Não à privatização da Copasa (PL 4.380/2025) nos 2 turnos e, em discursos desde 2023, rejeitou a venda de estatais lucrativas."
+      },
+      "G07": {
+        "v": 5,
+        "conf": "voto",
+        "fonte": "https://mediaserver.almg.gov.br/acervo/86/875/2086875.pdf",
+        "nota": "Votou pela derrubada do veto à ampliação de Fechos (24/04/2024) e é coautor do PL 228/2023, que proíbe mineração por termo de ajustamento de conduta."
+      },
+      "G08": {
+        "v": 2,
+        "conf": "declaracao",
+        "fonte": "https://www.almg.gov.br/projetos-de-lei/PL/396/2023",
+        "nota": "Coautor do PL 396/2023, que proíbe condenados pelos atos de 8 de janeiro de 2023 de contratar com o Estado."
+      },
+      "G11": {
+        "v": 5,
+        "conf": "voto",
+        "fonte": "https://mediaserver.almg.gov.br/acervo/509/176/2509176.pdf",
+        "nota": "Votou Sim ao PL 438/2019, que reserva vagas para negros em concursos públicos estaduais, nos 2 turnos (03/12 e 16/12/2025)."
+      },
+      "G14": {
+        "v": 4,
+        "conf": "declaracao",
+        "fonte": "https://www.almg.gov.br/projetos-de-lei/PL/3431/2025",
+        "nota": "Coautor do PL 3.431/2025, que limita a 36 horas semanais, com 2 dias de folga, a jornada em contratos terceirizados do Estado."
+      },
+      "DE01": {
+        "v": 5,
+        "conf": "voto",
+        "fonte": "https://mediaserver.almg.gov.br/acervo/475/18/2475018.pdf",
+        "nota": "Votou Não à PEC 24/2023, que retirou a exigência de referendo para privatizar a Copasa, nos 2 turnos (24/10 e 05/11/2025)."
+      },
+      "DE02": {
+        "v": 4,
+        "conf": "declaracao",
+        "fonte": "https://dadosabertos.almg.gov.br/api/v2/pronunciamentos/48229",
+        "nota": "Em discurso (30/05/2023), cobrou do governo a garantia do piso salarial nacional aos professores da rede estadual."
+      }
+    }
+  },
+  {
+    "id": 130002543664,
+    "nomeUrna": "NORALDINO JUNIOR",
+    "resumo": "Deputado estadual desde 2015, em 3º mandato. Ex-vereador de Juiz de Fora, atua na defesa dos animais e em temas ambientais. Candidato à reeleição pelo PSB.",
+    "bandeiras": [
+      "Proteção animal",
+      "Meio ambiente",
+      "Juiz de Fora e Zona da Mata"
+    ],
+    "posicoes": {
+      "G03": {
+        "v": 4,
+        "conf": "voto",
+        "fonte": "https://mediaserver.almg.gov.br/acervo/510/199/2510199.pdf",
+        "nota": "Votou Sim ao PL 4.380/2025, que autoriza a privatização da Copasa, nos 2 turnos (02/12 e 17/12/2025)."
+      },
+      "G07": {
+        "v": 2,
+        "conf": "voto",
+        "fonte": "https://mediaserver.almg.gov.br/acervo/86/875/2086875.pdf",
+        "nota": "Votou pela manutenção do veto à ampliação da Estação Ecológica de Fechos, área de mananciais sob pressão da mineração (24/04/2024)."
+      },
+      "G11": {
+        "v": 5,
+        "conf": "voto",
+        "fonte": "https://mediaserver.almg.gov.br/acervo/509/176/2509176.pdf",
+        "nota": "Votou Sim ao PL 438/2019, que reserva vagas para negros em concursos públicos estaduais, nos 2 turnos (03/12 e 16/12/2025)."
+      },
+      "DE01": {
+        "v": 1,
+        "conf": "voto",
+        "fonte": "https://mediaserver.almg.gov.br/acervo/475/18/2475018.pdf",
+        "nota": "Votou Sim à PEC 24/2023, que retirou a exigência de referendo para privatizar a Copasa, nos 2 turnos (24/10 e 05/11/2025)."
+      }
+    }
+  },
+  {
+    "id": 130002542748,
+    "nomeUrna": "DOORGAL ANDRADA",
+    "resumo": "Deputado estadual desde 2019, em 2º mandato. Bacharel em Direito, ex-vereador de Belo Horizonte e oficial da reserva do Exército. Candidato à reeleição pelo PP.",
+    "bandeiras": [
+      "Apoio às pessoas com autismo e suas famílias",
+      "Esporte",
+      "Eficiência do poder público e municipalismo"
+    ],
+    "posicoes": {
+      "G03": {
+        "v": 4,
+        "conf": "voto",
+        "fonte": "https://mediaserver.almg.gov.br/acervo/510/199/2510199.pdf",
+        "nota": "Votou Sim ao PL 4.380/2025, que autoriza a privatização da Copasa, nos 2 turnos (02/12 e 17/12/2025)."
+      },
+      "G07": {
+        "v": 4,
+        "conf": "voto",
+        "fonte": "https://mediaserver.almg.gov.br/acervo/86/875/2086875.pdf",
+        "nota": "Votou pela derrubada do veto à ampliação de Fechos (24/04/2024) e é autor do PL 480/2023, que cria o Parque Metropolitano da Serra do Curral."
+      },
+      "G11": {
+        "v": 4,
+        "conf": "voto",
+        "fonte": "https://mediaserver.almg.gov.br/acervo/497/805/2497805.pdf",
+        "nota": "Votou Sim ao PL 438/2019, que reserva vagas para negros em concursos públicos estaduais, no 1º turno (03/12/2025)."
+      },
+      "DE01": {
+        "v": 1,
+        "conf": "voto",
+        "fonte": "https://mediaserver.almg.gov.br/acervo/475/18/2475018.pdf",
+        "nota": "Votou Sim à PEC 24/2023, que retirou a exigência de referendo para privatizar a Copasa, nos 2 turnos (24/10 e 05/11/2025)."
+      }
+    }
+  },
+  {
+    "id": 130002535325,
+    "nomeUrna": "MARQUINHO LEMOS",
+    "resumo": "Deputado estadual desde 2019, em 2º mandato. Foi três vezes prefeito de Carbonita, no Vale do Jequitinhonha. Candidato à reeleição pelo PT.",
+    "bandeiras": [
+      "Vale do Jequitinhonha",
+      "Defesa da Copasa como empresa pública",
+      "Tarifa única de pedágio"
+    ],
+    "posicoes": {
+      "G03": {
+        "v": 1,
+        "conf": "voto",
+        "fonte": "https://mediaserver.almg.gov.br/acervo/510/199/2510199.pdf",
+        "nota": "Votou Não à privatização da Copasa (PL 4.380/2025) nos 2 turnos e discursou contra a venda da estatal em 2025."
+      },
+      "G07": {
+        "v": 4,
+        "conf": "voto",
+        "fonte": "https://mediaserver.almg.gov.br/acervo/86/875/2086875.pdf",
+        "nota": "Votou pela derrubada do veto à ampliação da Estação Ecológica de Fechos, área de mananciais sob pressão da mineração (24/04/2024)."
+      },
+      "G08": {
+        "v": 2,
+        "conf": "declaracao",
+        "fonte": "https://www.almg.gov.br/projetos-de-lei/PL/396/2023",
+        "nota": "Coautor do PL 396/2023, que proíbe condenados pelos atos de 8 de janeiro de 2023 de contratar com o Estado."
+      },
+      "G11": {
+        "v": 4,
+        "conf": "voto",
+        "fonte": "https://mediaserver.almg.gov.br/acervo/497/805/2497805.pdf",
+        "nota": "Votou Sim ao PL 438/2019, que reserva vagas para negros em concursos públicos estaduais, no 1º turno (03/12/2025)."
+      },
+      "DE01": {
+        "v": 5,
+        "conf": "voto",
+        "fonte": "https://mediaserver.almg.gov.br/acervo/475/18/2475018.pdf",
+        "nota": "Votou Não à PEC 24/2023, que retirou a exigência de referendo para privatizar a Copasa, nos 2 turnos (24/10 e 05/11/2025)."
+      },
+      "DE03": {
+        "v": 4,
+        "conf": "declaracao",
+        "fonte": "https://dadosabertos.almg.gov.br/api/v2/pronunciamentos/57863",
+        "nota": "Em Plenário (24/10/2025), disse que Norte de Minas, Jequitinhonha e Mucuri têm estradas abandonadas e cidades com pouco investimento."
+      }
+    }
+  },
+  {
+    "id": 130002549938,
+    "nomeUrna": "RAUL BELEM",
+    "resumo": "Deputado estadual desde 2019, em 2º mandato. Empresário do agronegócio e da comunicação, ex-prefeito de Araguari. Candidato à reeleição pelo PSD.",
+    "bandeiras": [
+      "Agronegócio e irrigação",
+      "Etanol e bioenergia",
+      "Estradas"
+    ],
+    "posicoes": {
+      "G03": {
+        "v": 4,
+        "conf": "voto",
+        "fonte": "https://mediaserver.almg.gov.br/acervo/510/199/2510199.pdf",
+        "nota": "Votou Sim ao PL 4.380/2025, que autoriza a privatização da Copasa, nos 2 turnos (02/12 e 17/12/2025)."
+      },
+      "G05": {
+        "v": 2,
+        "conf": "declaracao",
+        "fonte": "https://www.almg.gov.br/projetos-de-lei/RQN/3742/2023",
+        "nota": "Coassinou requerimento (RQN 3.742/2023) de apoio à Frente Parlamentar contra o Aborto diante da ação no STF que discute descriminalizá-lo."
+      },
+      "G07": {
+        "v": 2,
+        "conf": "voto",
+        "fonte": "https://mediaserver.almg.gov.br/acervo/86/875/2086875.pdf",
+        "nota": "Votou pela manutenção do veto à ampliação de Fechos (24/04/2024) e é autor do PL 2.846/2024, que anistia multas de produtores rurais por incêndios."
+      },
+      "G11": {
+        "v": 5,
+        "conf": "voto",
+        "fonte": "https://mediaserver.almg.gov.br/acervo/509/176/2509176.pdf",
+        "nota": "Votou Sim ao PL 438/2019, que reserva vagas para negros em concursos públicos estaduais, nos 2 turnos (03/12 e 16/12/2025)."
+      },
+      "DE01": {
+        "v": 1,
+        "conf": "voto",
+        "fonte": "https://mediaserver.almg.gov.br/acervo/475/18/2475018.pdf",
+        "nota": "Votou Sim à PEC 24/2023, que retirou a exigência de referendo para privatizar a Copasa, nos 2 turnos (24/10 e 05/11/2025)."
+      }
+    }
+  },
+  {
+    "id": 130002535327,
+    "nomeUrna": "BETÃO",
+    "resumo": "Deputado estadual desde 2019, em 2º mandato, e presidente da Comissão do Trabalho da ALMG. Professor de Geografia e ex-vereador de Juiz de Fora. Candidato à reeleição pelo PT.",
+    "bandeiras": [
+      "Fim da escala 6x1 e direitos dos trabalhadores",
+      "Defesa da Cemig, Copasa e Codemig públicas",
+      "Aplicação da Lei do Piso na educação"
+    ],
+    "posicoes": {
+      "G01": {
+        "v": 1,
+        "conf": "declaracao",
+        "fonte": "https://dadosabertos.almg.gov.br/api/v2/pronunciamentos/49857",
+        "nota": "Criticou em Plenário (29/05/2024) o \"Estado mínimo\" e a entrega de serviços à iniciativa privada; atacou isenções fiscais a mineradoras."
+      },
+      "G03": {
+        "v": 1,
+        "conf": "voto",
+        "fonte": "https://mediaserver.almg.gov.br/acervo/510/199/2510199.pdf",
+        "nota": "Votou Não à privatização da Copasa nos 2 turnos (2025); no site de campanha, compromete-se a defender Cemig, Copasa e Codemig públicas."
+      },
+      "G07": {
+        "v": 5,
+        "conf": "declaracao",
+        "fonte": "https://nalutacombetao.com.br/",
+        "nota": "Site de campanha defende proteger territórios \"contra a mineração predatória\"; coautor do PL 228/2023, que restringe a mineração."
+      },
+      "G08": {
+        "v": 1,
+        "conf": "declaracao",
+        "fonte": "https://dadosabertos.almg.gov.br/api/v2/pronunciamentos/47791",
+        "nota": "Em discurso (23/02/2023), pediu que mandantes e financiadores dos atos de 8 de janeiro fossem presos, sem anistia."
+      },
+      "G11": {
+        "v": 5,
+        "conf": "declaracao",
+        "fonte": "https://dadosabertos.almg.gov.br/api/v2/pronunciamentos/58078",
+        "nota": "Autor do PL 1.250/2023, que reserva vagas para negros e outros grupos em estágios públicos; defendeu as cotas em Plenário (10/12/2025)."
+      },
+      "G14": {
+        "v": 5,
+        "conf": "declaracao",
+        "fonte": "https://nalutacombetao.com.br/",
+        "nota": "No site de campanha, defende o \"fim da escala 6x1 sem redução de salário\"; autor do PL 3.431/2025 (36 h semanais em contratos do Estado)."
+      },
+      "DE01": {
+        "v": 5,
+        "conf": "voto",
+        "fonte": "https://mediaserver.almg.gov.br/acervo/475/18/2475018.pdf",
+        "nota": "Votou Não à PEC 24/2023, que retirou a exigência de referendo para privatizar a Copasa, nos 2 turnos (24/10 e 05/11/2025)."
+      },
+      "DE02": {
+        "v": 5,
+        "conf": "declaracao",
+        "fonte": "https://nalutacombetao.com.br/",
+        "nota": "Site de campanha defende a \"aplicação da Lei do Piso\"; em discursos (2024 e 2025) cobrou o reajuste integral do piso e criticou isenções a mineradoras."
+      }
+    }
+  },
+  {
+    "id": 130002535374,
+    "nomeUrna": "DR. JEAN FREIRE",
+    "resumo": "Deputado estadual desde 2015, em 3º mandato. Médico e ex-vereador de Itaobim, no Vale do Jequitinhonha. Candidato à reeleição pelo PT.",
+    "bandeiras": [
+      "Saúde",
+      "Vale do Jequitinhonha",
+      "Agricultura familiar e comunidades quilombolas"
+    ],
+    "posicoes": {
+      "G02": {
+        "v": 4,
+        "conf": "declaracao",
+        "fonte": "https://dadosabertos.almg.gov.br/api/v2/pronunciamentos/48060",
+        "nota": "Em Plenário (18/04/2023), comemorou o \"Bolsa Família mais empoderado\" entre as ações do governo federal."
+      },
+      "G03": {
+        "v": 1,
+        "conf": "voto",
+        "fonte": "https://mediaserver.almg.gov.br/acervo/510/199/2510199.pdf",
+        "nota": "Votou Não à privatização da Copasa nos 2 turnos (2025) e disse em Plenário que a água \"não pode ser privada\"."
+      },
+      "G07": {
+        "v": 5,
+        "conf": "voto",
+        "fonte": "https://mediaserver.almg.gov.br/acervo/86/875/2086875.pdf",
+        "nota": "Votou pela derrubada do veto à ampliação de Fechos (2024); em 2023 disse na ALMG que \"não existe mineração sustentável, toda ela degrada\"."
+      },
+      "G08": {
+        "v": 1,
+        "conf": "declaracao",
+        "fonte": "https://dadosabertos.almg.gov.br/api/v2/pronunciamentos/57708",
+        "nota": "Em Plenário (23/09/2025): \"Anistia para quem defende a ditadura, para quem quer dar golpe: nem pensar\"."
+      },
+      "G11": {
+        "v": 5,
+        "conf": "voto",
+        "fonte": "https://mediaserver.almg.gov.br/acervo/509/176/2509176.pdf",
+        "nota": "Votou Sim ao PL 438/2019, que reserva vagas para negros em concursos públicos estaduais, nos 2 turnos (03/12 e 16/12/2025)."
+      },
+      "DE01": {
+        "v": 5,
+        "conf": "voto",
+        "fonte": "https://mediaserver.almg.gov.br/acervo/475/18/2475018.pdf",
+        "nota": "Votou Não à PEC 24/2023, que retirou a exigência de referendo para privatizar a Copasa, nos 2 turnos (24/10 e 05/11/2025)."
+      },
+      "DE02": {
+        "v": 4,
+        "conf": "declaracao",
+        "fonte": "https://dadosabertos.almg.gov.br/api/v2/pronunciamentos/48383",
+        "nota": "Em discurso (20/06/2023), criticou o governo por não pagar o piso aos professores enquanto concedia benefícios a empresas."
+      },
+      "DE03": {
+        "v": 4,
+        "conf": "declaracao",
+        "fonte": "https://dadosabertos.almg.gov.br/api/v2/pronunciamentos/47733",
+        "nota": "No 1º discurso da legislatura (02/02/2023), fez dos Vales do Jequitinhonha e do Mucuri, \"a que menos se desenvolve\", sua bandeira."
+      }
+    }
+  },
+  {
+    "id": 130002535334,
+    "nomeUrna": "LELECO PIMENTEL",
+    "resumo": "Deputado estadual em 1º mandato (desde 2023). Historiador e educador popular, atuou na Pastoral da Juventude e em redes sobre igrejas e mineração. Candidato à reeleição pelo PT.",
+    "bandeiras": [
+      "Terra, água e moradia",
+      "SUS e educação pública",
+      "Agroecologia e soberania alimentar"
+    ],
+    "posicoes": {
+      "G01": {
+        "v": 1,
+        "conf": "declaracao",
+        "fonte": "https://dadosabertos.almg.gov.br/api/v2/pronunciamentos/48230",
+        "nota": "Criticou em Plenário (30/05/2023) o \"Estado mínimo aos pobres e o Estado inteiro aos ricos\" do governo Zema, tema de vários discursos."
+      },
+      "G02": {
+        "v": 5,
+        "conf": "declaracao",
+        "fonte": "https://dadosabertos.almg.gov.br/api/v2/pronunciamentos/48012",
+        "nota": "Defendeu (11/04/2023) o adicional por pessoa no Bolsa Família e elogiou em vários discursos a volta e a ampliação do programa."
+      },
+      "G03": {
+        "v": 1,
+        "conf": "voto",
+        "fonte": "https://mediaserver.almg.gov.br/acervo/510/199/2510199.pdf",
+        "nota": "Votou Não à privatização da Copasa nos 2 turnos (2025) e chamou a privatização do saneamento de \"crime contra o povo\" (24/05/2023)."
+      },
+      "G04": {
+        "v": 1,
+        "conf": "declaracao",
+        "fonte": "https://dadosabertos.almg.gov.br/api/v2/pronunciamentos/48016",
+        "nota": "Em Plenário (11/04/2023) disse que \"o armamento é uma condição de violência\"; em junho de 2023 disse que luta contra o armamento."
+      },
+      "G06": {
+        "v": 4,
+        "conf": "declaracao",
+        "fonte": "https://dadosabertos.almg.gov.br/api/v2/pronunciamentos/57635",
+        "nota": "Defendeu em Plenário (03/09/2025) o plantio de maconha pela agricultura familiar e criticou criminalizar pessoas por causa da planta."
+      },
+      "G07": {
+        "v": 5,
+        "conf": "voto",
+        "fonte": "https://mediaserver.almg.gov.br/acervo/86/875/2086875.pdf",
+        "nota": "Votou pela derrubada do veto à ampliação de Fechos (2024), é coautor do PL 228/2023 e defende \"áreas livres de mineração\" no site."
+      },
+      "G08": {
+        "v": 1,
+        "conf": "declaracao",
+        "fonte": "https://dadosabertos.almg.gov.br/api/v2/pronunciamentos/57524",
+        "nota": "Em Plenário (13/08/2025) defendeu punir os atos de 8 de janeiro \"sem anistia\"; coautor do PL 396/2023 contra condenados pelos atos."
+      },
+      "G11": {
+        "v": 4,
+        "conf": "voto",
+        "fonte": "https://mediaserver.almg.gov.br/acervo/509/176/2509176.pdf",
+        "nota": "Votou Sim ao PL 438/2019, que reserva vagas para negros em concursos públicos estaduais, no 2º turno (16/12/2025)."
+      },
+      "G13": {
+        "v": 2,
+        "conf": "declaracao",
+        "fonte": "https://dadosabertos.almg.gov.br/api/v2/pronunciamentos/57748",
+        "nota": "Criticou em Plenário (01/10/2025) proposta de impor a leitura da Bíblia a alunos em sala de aula."
+      },
+      "G14": {
+        "v": 5,
+        "conf": "declaracao",
+        "fonte": "https://dadosabertos.almg.gov.br/api/v2/pronunciamentos/49946",
+        "nota": "Defendeu a PEC do fim da escala 6x1 em Plenário (12/11/2024) e é coautor do PL 3.431/2025 (36 h semanais em contratos do Estado)."
+      },
+      "DE01": {
+        "v": 5,
+        "conf": "voto",
+        "fonte": "https://mediaserver.almg.gov.br/acervo/475/18/2475018.pdf",
+        "nota": "Votou Não à PEC 24/2023, que retirou a exigência de referendo para privatizar a Copasa, nos 2 turnos (24/10 e 05/11/2025)."
+      },
+      "DE02": {
+        "v": 4,
+        "conf": "declaracao",
+        "fonte": "https://dadosabertos.almg.gov.br/api/v2/pronunciamentos/47925",
+        "nota": "Em Plenário (23/03/2023) criticou o governo por não pagar o piso aos professores: \"aos professores nada, nem o piso\"."
+      }
+    }
+  },
+  {
+    "id": 130002542810,
+    "nomeUrna": "OSCAR TEIXEIRA",
+    "resumo": "Deputado estadual em 1º mandato (desde 2023). Professor e empresário da educação, foi prefeito de Mato Verde, no Norte de Minas, por dois mandatos. Candidato à reeleição pelo PP.",
+    "bandeiras": [
+      "Norte de Minas (Serra Geral e Alto Rio Pardo)",
+      "Rodovias da região",
+      "Educação"
+    ],
+    "posicoes": {
+      "G03": {
+        "v": 4,
+        "conf": "voto",
+        "fonte": "https://mediaserver.almg.gov.br/acervo/510/199/2510199.pdf",
+        "nota": "Votou Sim ao PL 4.380/2025, que autoriza a privatização da Copasa, nos 2 turnos (02/12 e 17/12/2025)."
+      },
+      "G07": {
+        "v": 2,
+        "conf": "voto",
+        "fonte": "https://mediaserver.almg.gov.br/acervo/86/875/2086875.pdf",
+        "nota": "Votou pela manutenção do veto à ampliação da Estação Ecológica de Fechos, área de mananciais sob pressão da mineração (24/04/2024)."
+      },
+      "G11": {
+        "v": 5,
+        "conf": "voto",
+        "fonte": "https://mediaserver.almg.gov.br/acervo/509/176/2509176.pdf",
+        "nota": "Votou Sim ao PL 438/2019, que reserva vagas para negros em concursos públicos estaduais, nos 2 turnos (03/12 e 16/12/2025)."
+      },
+      "DE01": {
+        "v": 1,
+        "conf": "voto",
+        "fonte": "https://mediaserver.almg.gov.br/acervo/475/18/2475018.pdf",
+        "nota": "Votou Sim à PEC 24/2023, que retirou a exigência de referendo para privatizar a Copasa, nos 2 turnos (24/10 e 05/11/2025)."
+      },
+      "DE03": {
+        "v": 4,
+        "conf": "declaracao",
+        "fonte": "https://dadosabertos.almg.gov.br/api/v2/pronunciamentos/47736",
+        "nota": "No 1º discurso (07/02/2023), cobrou recursos do Estado para a infraestrutura do extremo Norte de Minas, que \"ainda necessita de infraestrutura\"."
+      }
+    }
+  },
+  {
+    "id": 130002549939,
+    "nomeUrna": "BOSCO",
+    "resumo": "Deputado estadual desde 2011, em 4º mandato. Produtor agropecuário e ex-vereador de Araxá, atua no Alto Paranaíba. Candidato à reeleição pelo PSD.",
+    "bandeiras": [
+      "Alto Paranaíba e Araxá",
+      "Cultura e eventos esportivos",
+      "Nota Fiscal Mineira"
+    ],
+    "posicoes": {
+      "G03": {
+        "v": 4,
+        "conf": "voto",
+        "fonte": "https://mediaserver.almg.gov.br/acervo/510/199/2510199.pdf",
+        "nota": "Votou Sim ao PL 4.380/2025, que autoriza a privatização da Copasa, nos 2 turnos (02/12 e 17/12/2025)."
+      },
+      "G05": {
+        "v": 2,
+        "conf": "declaracao",
+        "fonte": "https://www.almg.gov.br/projetos-de-lei/RQN/3742/2023",
+        "nota": "Coassinou requerimento (RQN 3.742/2023) de apoio à Frente Parlamentar contra o Aborto diante da ação no STF que discute descriminalizá-lo."
+      },
+      "G07": {
+        "v": 2,
+        "conf": "voto",
+        "fonte": "https://mediaserver.almg.gov.br/acervo/86/875/2086875.pdf",
+        "nota": "Votou pela manutenção do veto à ampliação da Estação Ecológica de Fechos, área de mananciais sob pressão da mineração (24/04/2024)."
+      },
+      "G11": {
+        "v": 5,
+        "conf": "voto",
+        "fonte": "https://mediaserver.almg.gov.br/acervo/509/176/2509176.pdf",
+        "nota": "Votou Sim ao PL 438/2019, que reserva vagas para negros em concursos públicos estaduais, nos 2 turnos (03/12 e 16/12/2025)."
+      },
+      "DE01": {
+        "v": 1,
+        "conf": "voto",
+        "fonte": "https://mediaserver.almg.gov.br/acervo/475/18/2475018.pdf",
+        "nota": "Votou Sim à PEC 24/2023, que retirou a exigência de referendo para privatizar a Copasa, nos 2 turnos (24/10 e 05/11/2025)."
+      }
+    }
+  },
+  {
+    "id": 130002549960,
+    "nomeUrna": "GIL PEREIRA",
+    "resumo": "Deputado estadual desde 1995, em 8º mandato consecutivo. Administrador de empresas de Montes Claros, com atuação no Norte de Minas. Candidato à reeleição pelo PSD.",
+    "bandeiras": [
+      "Energia solar e fontes renováveis",
+      "Norte de Minas e Vales do Jequitinhonha e do Mucuri",
+      "Estradas e hospitais"
+    ],
+    "posicoes": {
+      "G03": {
+        "v": 4,
+        "conf": "voto",
+        "fonte": "https://mediaserver.almg.gov.br/acervo/510/199/2510199.pdf",
+        "nota": "Votou Sim ao PL 4.380/2025, que autoriza a privatização da Copasa, nos 2 turnos (02/12 e 17/12/2025)."
+      },
+      "G07": {
+        "v": 2,
+        "conf": "voto",
+        "fonte": "https://mediaserver.almg.gov.br/acervo/86/875/2086875.pdf",
+        "nota": "Votou pela manutenção do veto à ampliação da Estação Ecológica de Fechos, área de mananciais sob pressão da mineração (24/04/2024)."
+      },
+      "G11": {
+        "v": 4,
+        "conf": "voto",
+        "fonte": "https://mediaserver.almg.gov.br/acervo/509/176/2509176.pdf",
+        "nota": "Votou Sim ao PL 438/2019, que reserva vagas para negros em concursos públicos estaduais, no 2º turno (16/12/2025)."
+      },
+      "DE01": {
+        "v": 1,
+        "conf": "voto",
+        "fonte": "https://mediaserver.almg.gov.br/acervo/475/18/2475018.pdf",
+        "nota": "Votou Sim à PEC 24/2023 (fim do referendo para privatizar a Copasa) nos 2 turnos; é o 1º signatário da PEC 55/2025, que tira o referendo da Gasmig."
+      },
+      "DE03": {
+        "v": 4,
+        "conf": "declaracao",
+        "fonte": "https://www.gilpereiramg.com.br",
+        "nota": "Site de campanha apresenta como foco o Norte de Minas e os Vales do Jequitinhonha e do Mucuri, com obras de estradas e hospitais."
+      }
+    }
+  },
+  {
+    "id": 130002549947,
+    "nomeUrna": "LEANDRO GENARO JUNTOS SOMOS +",
+    "resumo": "Deputado estadual desde 2015, em 3º mandato. Pastor da Igreja do Evangelho Quadrangular e radialista, de Contagem. Candidato à reeleição pelo PSD.",
+    "bandeiras": [
+      "Comunidades terapêuticas e recuperação de dependentes químicos",
+      "Proteção animal"
+    ],
+    "posicoes": {
+      "G03": {
+        "v": 4,
+        "conf": "voto",
+        "fonte": "https://mediaserver.almg.gov.br/acervo/510/199/2510199.pdf",
+        "nota": "Votou Sim ao PL 4.380/2025, que autoriza a privatização da Copasa, nos 2 turnos (02/12 e 17/12/2025)."
+      },
+      "G07": {
+        "v": 2,
+        "conf": "voto",
+        "fonte": "https://mediaserver.almg.gov.br/acervo/86/875/2086875.pdf",
+        "nota": "Votou pela manutenção do veto à ampliação da Estação Ecológica de Fechos, área de mananciais sob pressão da mineração (24/04/2024)."
+      },
+      "DE01": {
+        "v": 1,
+        "conf": "voto",
+        "fonte": "https://mediaserver.almg.gov.br/acervo/475/18/2475018.pdf",
+        "nota": "Votou Sim à PEC 24/2023, que retirou a exigência de referendo para privatizar a Copasa, nos 2 turnos (24/10 e 05/11/2025)."
+      }
+    }
+  },
+  {
+    "id": 130002535382,
+    "nomeUrna": "PROFESSOR CLEITON",
+    "resumo": "Deputado estadual desde 2019, em 2º mandato; líder do PV e presidente da Comissão de Cultura da ALMG. Professor de História de Varginha, no Sul de Minas. Candidato à reeleição pelo PV.",
+    "bandeiras": [
+      "Contra pedágios abusivos",
+      "Defesa dos servidores públicos",
+      "Mais leitos no SUS"
+    ],
+    "posicoes": {
+      "G03": {
+        "v": 1,
+        "conf": "voto",
+        "fonte": "https://mediaserver.almg.gov.br/acervo/510/199/2510199.pdf",
+        "nota": "Votou Não à privatização da Copasa nos 2 turnos (2025) e disse (18/12/2024) que energia, água e minério \"não se privatizam em lugar nenhum\"."
+      },
+      "G05": {
+        "v": 2,
+        "conf": "declaracao",
+        "fonte": "https://www.almg.gov.br/projetos-de-lei/RQN/3742/2023",
+        "nota": "Coassinou requerimento (RQN 3.742/2023) de apoio à Frente Parlamentar contra o Aborto diante da ação no STF que discute descriminalizá-lo."
+      },
+      "G07": {
+        "v": 5,
+        "conf": "voto",
+        "fonte": "https://mediaserver.almg.gov.br/acervo/86/875/2086875.pdf",
+        "nota": "Votou pela derrubada do veto à ampliação de Fechos (2024), é coautor do PL 228/2023 e pediu barrar a mineração na Serra do Curral (2023)."
+      },
+      "G08": {
+        "v": 2,
+        "conf": "declaracao",
+        "fonte": "https://www.almg.gov.br/projetos-de-lei/PL/396/2023",
+        "nota": "Coautor do PL 396/2023, que proíbe condenados pelos atos de 8 de janeiro de 2023 de contratar com o Estado."
+      },
+      "G11": {
+        "v": 5,
+        "conf": "voto",
+        "fonte": "https://mediaserver.almg.gov.br/acervo/509/176/2509176.pdf",
+        "nota": "Votou Sim ao PL 438/2019, que reserva vagas para negros em concursos públicos estaduais, nos 2 turnos (03/12 e 16/12/2025)."
+      },
+      "G14": {
+        "v": 4,
+        "conf": "declaracao",
+        "fonte": "https://www.almg.gov.br/projetos-de-lei/PL/3431/2025",
+        "nota": "Coautor do PL 3.431/2025, que limita a 36 horas semanais, com 2 dias de folga, a jornada em contratos terceirizados do Estado."
+      },
+      "DE01": {
+        "v": 5,
+        "conf": "voto",
+        "fonte": "https://mediaserver.almg.gov.br/acervo/475/18/2475018.pdf",
+        "nota": "Votou Não à PEC 24/2023, que retirou a exigência de referendo para privatizar a Copasa, nos 2 turnos (24/10 e 05/11/2025)."
+      },
+      "DE02": {
+        "v": 5,
+        "conf": "declaracao",
+        "fonte": "https://dadosabertos.almg.gov.br/api/v2/pronunciamentos/48527",
+        "nota": "Em Plenário (06/07/2023) prometeu lutar para que o piso proporcional pago aos professores \"se transforme em um piso integral\"."
+      }
+    }
+  },
+  {
+    "id": 130002535370,
+    "nomeUrna": "CELINHO SINTROCEL",
+    "resumo": "Deputado estadual desde 2011, em 4º mandato. Sindicalista do transporte rodoviário no Vale do Aço, de Timóteo. Candidato à reeleição pelo PCdoB.",
+    "bandeiras": [
+      "Direitos dos trabalhadores",
+      "Transporte e Vale do Aço",
+      "Defesa da Copasa como empresa pública"
+    ],
+    "posicoes": {
+      "G03": {
+        "v": 1,
+        "conf": "voto",
+        "fonte": "https://mediaserver.almg.gov.br/acervo/510/199/2510199.pdf",
+        "nota": "Votou Não à privatização da Copasa nos 2 turnos (2025) e discursou contra a venda da estatal: \"a água não é mercadoria\" (24/10/2025)."
+      },
+      "G07": {
+        "v": 4,
+        "conf": "voto",
+        "fonte": "https://mediaserver.almg.gov.br/acervo/86/875/2086875.pdf",
+        "nota": "Votou pela derrubada do veto à ampliação da Estação Ecológica de Fechos, área de mananciais sob pressão da mineração (24/04/2024)."
+      },
+      "G08": {
+        "v": 2,
+        "conf": "declaracao",
+        "fonte": "https://www.almg.gov.br/projetos-de-lei/PL/396/2023",
+        "nota": "Coautor do PL 396/2023, que proíbe condenados pelos atos de 8 de janeiro de 2023 de contratar com o Estado."
+      },
+      "G09": {
+        "v": 2,
+        "conf": "declaracao",
+        "fonte": "https://dadosabertos.almg.gov.br/api/v2/pronunciamentos/57871",
+        "nota": "Em Plenário (24/10/2025) citou como exemplo a atuação do STF ao invalidar leis que \"representam retrocessos sociais\"."
+      },
+      "G11": {
+        "v": 4,
+        "conf": "voto",
+        "fonte": "https://mediaserver.almg.gov.br/acervo/509/176/2509176.pdf",
+        "nota": "Votou Sim ao PL 438/2019, que reserva vagas para negros em concursos públicos estaduais, no 2º turno (16/12/2025)."
+      },
+      "G14": {
+        "v": 4,
+        "conf": "declaracao",
+        "fonte": "https://www.almg.gov.br/projetos-de-lei/PL/3431/2025",
+        "nota": "Coautor do PL 3.431/2025, que limita a 36 horas semanais, com 2 dias de folga, a jornada em contratos terceirizados do Estado."
+      },
+      "DE01": {
+        "v": 5,
+        "conf": "voto",
+        "fonte": "https://mediaserver.almg.gov.br/acervo/475/18/2475018.pdf",
+        "nota": "Votou Não à PEC 24/2023, que retirou a exigência de referendo para privatizar a Copasa, nos 2 turnos (24/10 e 05/11/2025)."
+      }
+    }
+  },
+  {
+    "id": 130002540603,
+    "nomeUrna": "LEONÍDIO BOUÇAS",
+    "resumo": "Deputado estadual em 6º mandato, eleito pela primeira vez em 1994. Médico, professor e empresário, ex-vice-prefeito de Uberlândia. Candidato à reeleição pelo PSDB.",
+    "bandeiras": [
+      "Uberlândia e Triângulo Mineiro"
+    ],
+    "posicoes": {
+      "G03": {
+        "v": 4,
+        "conf": "voto",
+        "fonte": "https://mediaserver.almg.gov.br/acervo/510/199/2510199.pdf",
+        "nota": "Votou Sim ao PL 4.380/2025, que autoriza a privatização da Copasa, nos 2 turnos (02/12 e 17/12/2025)."
+      },
+      "G05": {
+        "v": 2,
+        "conf": "declaracao",
+        "fonte": "https://www.almg.gov.br/projetos-de-lei/RQN/3742/2023",
+        "nota": "Coassinou requerimento (RQN 3.742/2023) de apoio à Frente Parlamentar contra o Aborto diante da ação no STF que discute descriminalizá-lo."
+      },
+      "G07": {
+        "v": 2,
+        "conf": "voto",
+        "fonte": "https://mediaserver.almg.gov.br/acervo/86/875/2086875.pdf",
+        "nota": "Votou pela manutenção do veto à ampliação da Estação Ecológica de Fechos, área de mananciais sob pressão da mineração (24/04/2024)."
+      },
+      "G11": {
+        "v": 4,
+        "conf": "voto",
+        "fonte": "https://mediaserver.almg.gov.br/acervo/497/805/2497805.pdf",
+        "nota": "Votou Sim ao PL 438/2019, que reserva vagas para negros em concursos públicos estaduais, no 1º turno (03/12/2025)."
+      },
+      "DE01": {
+        "v": 1,
+        "conf": "voto",
+        "fonte": "https://mediaserver.almg.gov.br/acervo/475/18/2475018.pdf",
+        "nota": "Votou Sim à PEC 24/2023, que retirou a exigência de referendo para privatizar a Copasa, nos 2 turnos (24/10 e 05/11/2025)."
+      }
+    }
+  },
+  {
+    "id": 130002544380,
+    "nomeUrna": "BIM DA AMBULÂNCIA",
+    "resumo": "Deputado estadual em 1º mandato (desde 2023). Ex-vereador de Belo Horizonte por três mandatos e criador do projeto de resgate voluntário Bim Resgate. Candidato à reeleição pelo Avante.",
+    "bandeiras": [
+      "Saúde e atendimento de urgência",
+      "Venda Nova e Belo Horizonte"
+    ],
+    "posicoes": {
+      "G03": {
+        "v": 4,
+        "conf": "voto",
+        "fonte": "https://mediaserver.almg.gov.br/acervo/510/199/2510199.pdf",
+        "nota": "Votou Sim ao PL 4.380/2025, que autoriza a privatização da Copasa, nos 2 turnos (02/12 e 17/12/2025)."
+      },
+      "G05": {
+        "v": 2,
+        "conf": "declaracao",
+        "fonte": "https://www.almg.gov.br/projetos-de-lei/RQN/3742/2023",
+        "nota": "Coassinou requerimento (RQN 3.742/2023) de apoio à Frente Parlamentar contra o Aborto diante da ação no STF que discute descriminalizá-lo."
+      },
+      "G07": {
+        "v": 2,
+        "conf": "voto",
+        "fonte": "https://mediaserver.almg.gov.br/acervo/86/875/2086875.pdf",
+        "nota": "Votou pela manutenção do veto à ampliação da Estação Ecológica de Fechos, área de mananciais sob pressão da mineração (24/04/2024)."
+      },
+      "G11": {
+        "v": 5,
+        "conf": "voto",
+        "fonte": "https://mediaserver.almg.gov.br/acervo/509/176/2509176.pdf",
+        "nota": "Votou Sim ao PL 438/2019, que reserva vagas para negros em concursos públicos estaduais, nos 2 turnos (03/12 e 16/12/2025)."
+      },
+      "DE01": {
+        "v": 1,
+        "conf": "voto",
+        "fonte": "https://mediaserver.almg.gov.br/acervo/475/18/2475018.pdf",
+        "nota": "Votou Sim à PEC 24/2023, que retirou a exigência de referendo para privatizar a Copasa, nos 2 turnos (24/10 e 05/11/2025)."
+      }
+    }
+  },
+  {
+    "id": 130002539884,
+    "nomeUrna": "MAURO TRAMONTE",
+    "resumo": "Deputado estadual desde 2019, em 2º mandato. Jornalista e apresentador do Balanço Geral, da TV Record Minas; disputou eleição para prefeito em 2024. Candidato à reeleição pelo Republicanos.",
+    "bandeiras": [
+      "Turismo e gastronomia",
+      "Combate ao racismo e à violência contra a mulher em eventos",
+      "Cultura"
+    ],
+    "posicoes": {
+      "G03": {
+        "v": 4,
+        "conf": "voto",
+        "fonte": "https://mediaserver.almg.gov.br/acervo/510/199/2510199.pdf",
+        "nota": "Votou Sim ao PL 4.380/2025, que autoriza a privatização da Copasa, nos 2 turnos (02/12 e 17/12/2025)."
+      },
+      "G11": {
+        "v": 4,
+        "conf": "voto",
+        "fonte": "https://mediaserver.almg.gov.br/acervo/509/176/2509176.pdf",
+        "nota": "Votou Sim ao PL 438/2019, que reserva vagas para negros em concursos públicos estaduais, no 2º turno (16/12/2025)."
+      },
+      "DE01": {
+        "v": 4,
+        "conf": "voto",
+        "fonte": "https://mediaserver.almg.gov.br/acervo/475/18/2475018.pdf",
+        "nota": "Votou Não à PEC 24/2023 (fim do referendo para privatizar a Copasa) no 2º turno, em 05/11/2025, após votar Sim no 1º turno."
+      }
+    }
+  },
+  {
+    "id": 130002535376,
+    "nomeUrna": "RICARDO CAMPOS",
+    "resumo": "Deputado estadual em 1º mandato (desde 2023). Administrador natural de São João da Ponte, no Norte de Minas, foi diretor do Idene e assessor na ALMG. Candidato à reeleição pelo PT.",
+    "bandeiras": [
+      "Norte de Minas, Jequitinhonha e Mucuri",
+      "População de baixa renda",
+      "Defesa da Cemig e da Copasa públicas"
+    ],
+    "posicoes": {
+      "G02": {
+        "v": 4,
+        "conf": "declaracao",
+        "fonte": "https://dadosabertos.almg.gov.br/api/v2/pronunciamentos/48013",
+        "nota": "Em Plenário (11/04/2023), elogiou a volta do Bolsa Família, que estaria \"trazendo mais dignidade, mais emprego, mais renda\"."
+      },
+      "G03": {
+        "v": 1,
+        "conf": "voto",
+        "fonte": "https://mediaserver.almg.gov.br/acervo/510/199/2510199.pdf",
+        "nota": "Votou Não à privatização da Copasa nos 2 turnos (2025); em 2023 anunciou debates \"contra a privatização da Cemig\" e da Copasa."
+      },
+      "G07": {
+        "v": 3,
+        "conf": "voto",
+        "fonte": "https://mediaserver.almg.gov.br/acervo/86/875/2086875.pdf",
+        "nota": "Votou pela derrubada do veto à ampliação de Fechos (2024), mas é autor do PL 4.109/2025, que prevê anistia de multas ambientais a produtores rurais."
+      },
+      "G08": {
+        "v": 2,
+        "conf": "declaracao",
+        "fonte": "https://www.almg.gov.br/projetos-de-lei/PL/396/2023",
+        "nota": "Coautor do PL 396/2023, que proíbe condenados pelos atos de 8 de janeiro de 2023 de contratar com o Estado."
+      },
+      "G11": {
+        "v": 4,
+        "conf": "voto",
+        "fonte": "https://mediaserver.almg.gov.br/acervo/497/805/2497805.pdf",
+        "nota": "Votou Sim ao PL 438/2019, que reserva vagas para negros em concursos públicos estaduais, no 1º turno (03/12/2025)."
+      },
+      "DE01": {
+        "v": 5,
+        "conf": "voto",
+        "fonte": "https://mediaserver.almg.gov.br/acervo/475/18/2475018.pdf",
+        "nota": "Votou Não à PEC 24/2023, que retirou a exigência de referendo para privatizar a Copasa, nos 2 turnos (24/10 e 05/11/2025)."
+      },
+      "DE02": {
+        "v": 4,
+        "conf": "declaracao",
+        "fonte": "https://dadosabertos.almg.gov.br/api/v2/pronunciamentos/48099",
+        "nota": "Em Plenário (19/04/2023) disse que cumprir o piso nacional da educação \"é mais que urgente\"."
+      },
+      "DE03": {
+        "v": 5,
+        "conf": "declaracao",
+        "fonte": "https://dadosabertos.almg.gov.br/api/v2/pronunciamentos/47966",
+        "nota": "Cobrou em Plenário (04/04/2023) que o Norte de Minas, o Jequitinhonha e o Mucuri sejam \"incluídos no orçamento\"; repetiu a cobrança em 2023."
+      }
+    }
+  },
+  {
+    "id": 130002549948,
+    "nomeUrna": "DELEGADO CHRISTIANO XAVIER",
+    "resumo": "Deputado estadual em 1º mandato (desde 2023). Delegado da Polícia Civil e ex-prefeito de Santa Luzia (2018 a 2022). Candidato à reeleição pelo PSD.",
+    "bandeiras": [
+      "Segurança pública e valorização policial",
+      "Municipalismo",
+      "Saúde e infraestrutura"
+    ],
+    "posicoes": {
+      "G03": {
+        "v": 4,
+        "conf": "voto",
+        "fonte": "https://mediaserver.almg.gov.br/acervo/510/199/2510199.pdf",
+        "nota": "Votou Sim ao PL 4.380/2025, que autoriza a privatização da Copasa, nos 2 turnos (02/12 e 17/12/2025)."
+      },
+      "G07": {
+        "v": 2,
+        "conf": "voto",
+        "fonte": "https://mediaserver.almg.gov.br/acervo/86/875/2086875.pdf",
+        "nota": "Votou pela manutenção do veto à ampliação da Estação Ecológica de Fechos, área de mananciais sob pressão da mineração (24/04/2024)."
+      },
+      "G11": {
+        "v": 5,
+        "conf": "voto",
+        "fonte": "https://mediaserver.almg.gov.br/acervo/509/176/2509176.pdf",
+        "nota": "Votou Sim ao PL 438/2019, que reserva vagas para negros em concursos públicos estaduais, nos 2 turnos (03/12 e 16/12/2025)."
+      },
+      "DE01": {
+        "v": 1,
+        "conf": "voto",
+        "fonte": "https://mediaserver.almg.gov.br/acervo/475/18/2475018.pdf",
+        "nota": "Votou Sim à PEC 24/2023, que retirou a exigência de referendo para privatizar a Copasa, nos 2 turnos (24/10 e 05/11/2025)."
+      },
+      "DE05": {
+        "v": 5,
+        "conf": "declaracao",
+        "fonte": "https://www.almg.gov.br/projetos-de-lei/PEC/54/2025",
+        "nota": "1º signatário da PEC 54/2025, que destina 10% das emendas individuais à segurança, e autor da lei que criou o programa de aparelhamento policial."
+      }
+    }
+  },
+  {
+    "id": 130002542758,
+    "nomeUrna": "PROFESSOR WENDEL MESQUITA",
+    "resumo": "Deputado estadual desde 2019, em 2º mandato. Professor e ex-vereador de Belo Horizonte, atua pelos direitos das pessoas com autismo e com deficiência. Candidato à reeleição pelo União Brasil.",
+    "bandeiras": [
+      "Direitos das pessoas com autismo",
+      "Pessoas com deficiência",
+      "Educação e cultura"
+    ],
+    "posicoes": {
+      "G03": {
+        "v": 4,
+        "conf": "voto",
+        "fonte": "https://mediaserver.almg.gov.br/acervo/510/199/2510199.pdf",
+        "nota": "Votou Sim ao PL 4.380/2025, que autoriza a privatização da Copasa, nos 2 turnos (02/12 e 17/12/2025)."
+      },
+      "G05": {
+        "v": 2,
+        "conf": "declaracao",
+        "fonte": "https://www.almg.gov.br/projetos-de-lei/RQN/3742/2023",
+        "nota": "Coassinou requerimento (RQN 3.742/2023) de apoio à Frente Parlamentar contra o Aborto diante da ação no STF que discute descriminalizá-lo."
+      },
+      "G07": {
+        "v": 2,
+        "conf": "voto",
+        "fonte": "https://mediaserver.almg.gov.br/acervo/86/875/2086875.pdf",
+        "nota": "Votou pela manutenção do veto à ampliação da Estação Ecológica de Fechos, área de mananciais sob pressão da mineração (24/04/2024)."
+      },
+      "G11": {
+        "v": 4,
+        "conf": "voto",
+        "fonte": "https://mediaserver.almg.gov.br/acervo/509/176/2509176.pdf",
+        "nota": "Votou Sim ao PL 438/2019, que reserva vagas para negros em concursos públicos estaduais, no 2º turno (16/12/2025)."
+      },
+      "DE01": {
+        "v": 1,
+        "conf": "voto",
+        "fonte": "https://mediaserver.almg.gov.br/acervo/475/18/2475018.pdf",
+        "nota": "Votou Sim à PEC 24/2023, que retirou a exigência de referendo para privatizar a Copasa, nos 2 turnos (24/10 e 05/11/2025)."
+      }
+    }
+  },
+  {
+    "id": 130002549966,
+    "nomeUrna": "DOUTOR WILSON BATISTA",
+    "resumo": "Deputado estadual desde 2011, em 4º mandato. Cirurgião oncológico em Muriaé, na Zona da Mata. Candidato à reeleição pelo PSD.",
+    "bandeiras": [
+      "Prevenção e tratamento do câncer",
+      "Zona da Mata",
+      "Saúde pública"
+    ],
+    "posicoes": {
+      "G03": {
+        "v": 4,
+        "conf": "voto",
+        "fonte": "https://mediaserver.almg.gov.br/acervo/510/199/2510199.pdf",
+        "nota": "Votou Sim ao PL 4.380/2025, que autoriza a privatização da Copasa, no 2º turno (17/12/2025)."
+      },
+      "G07": {
+        "v": 2,
+        "conf": "voto",
+        "fonte": "https://mediaserver.almg.gov.br/acervo/86/875/2086875.pdf",
+        "nota": "Votou pela manutenção do veto à ampliação da Estação Ecológica de Fechos, área de mananciais sob pressão da mineração (24/04/2024)."
+      },
+      "G11": {
+        "v": 5,
+        "conf": "voto",
+        "fonte": "https://mediaserver.almg.gov.br/acervo/509/176/2509176.pdf",
+        "nota": "Votou Sim ao PL 438/2019, que reserva vagas para negros em concursos públicos estaduais, nos 2 turnos (03/12 e 16/12/2025)."
+      },
+      "DE01": {
+        "v": 1,
+        "conf": "voto",
+        "fonte": "https://mediaserver.almg.gov.br/acervo/475/18/2475018.pdf",
+        "nota": "Votou Sim à PEC 24/2023, que retirou a exigência de referendo para privatizar a Copasa, nos 2 turnos (24/10 e 05/11/2025)."
+      }
+    }
+  },
+  {
+    "id": 130002534569,
+    "nomeUrna": "DR. MAURÍCIO",
+    "resumo": "Deputado estadual em 1º mandato (desde 2023). Médico ortopedista e produtor rural, foi prefeito de Ouro Fino por dois mandatos. Candidato à reeleição pelo Novo.",
+    "bandeiras": [
+      "Sul de Minas",
+      "Saúde e pessoas com deficiência",
+      "Agronegócio"
+    ],
+    "posicoes": {
+      "G03": {
+        "v": 4,
+        "conf": "voto",
+        "fonte": "https://mediaserver.almg.gov.br/acervo/510/199/2510199.pdf",
+        "nota": "Votou Sim ao PL 4.380/2025, que autoriza a privatização da Copasa, nos 2 turnos (02/12 e 17/12/2025)."
+      },
+      "G05": {
+        "v": 2,
+        "conf": "declaracao",
+        "fonte": "https://www.almg.gov.br/projetos-de-lei/RQN/3742/2023",
+        "nota": "Coassinou requerimento (RQN 3.742/2023) de apoio à Frente Parlamentar contra o Aborto diante da ação no STF que discute descriminalizá-lo."
+      },
+      "G07": {
+        "v": 2,
+        "conf": "voto",
+        "fonte": "https://mediaserver.almg.gov.br/acervo/86/875/2086875.pdf",
+        "nota": "Votou pela manutenção do veto à ampliação da Estação Ecológica de Fechos, área de mananciais sob pressão da mineração (24/04/2024)."
+      },
+      "G11": {
+        "v": 5,
+        "conf": "voto",
+        "fonte": "https://mediaserver.almg.gov.br/acervo/509/176/2509176.pdf",
+        "nota": "Votou Sim ao PL 438/2019, que reserva vagas para negros em concursos públicos estaduais, nos 2 turnos (03/12 e 16/12/2025)."
+      },
+      "DE01": {
+        "v": 2,
+        "conf": "voto",
+        "fonte": "https://mediaserver.almg.gov.br/acervo/463/822/2463822.pdf",
+        "nota": "Votou Sim à PEC 24/2023, que retirou a exigência de referendo para privatizar a Copasa, no 1º turno (24/10/2025)."
+      }
+    }
+  },
+  {
+    "id": 130002534510,
+    "nomeUrna": "ZÉ LAVIOLA",
+    "resumo": "Deputado estadual em 1º mandato (desde 2023). Advogado e produtor agropecuário, filho da ex-deputada Celise Laviola, com atuação no Leste de Minas. Candidato à reeleição pelo Novo.",
+    "bandeiras": [
+      "Leste de Minas e interior do estado"
+    ],
+    "posicoes": {
+      "G03": {
+        "v": 4,
+        "conf": "voto",
+        "fonte": "https://mediaserver.almg.gov.br/acervo/510/199/2510199.pdf",
+        "nota": "Votou Sim ao PL 4.380/2025, que autoriza a privatização da Copasa, nos 2 turnos (02/12 e 17/12/2025)."
+      },
+      "G07": {
+        "v": 2,
+        "conf": "voto",
+        "fonte": "https://mediaserver.almg.gov.br/acervo/86/875/2086875.pdf",
+        "nota": "Votou pela manutenção do veto à ampliação da Estação Ecológica de Fechos, área de mananciais sob pressão da mineração (24/04/2024)."
+      },
+      "G11": {
+        "v": 4,
+        "conf": "voto",
+        "fonte": "https://mediaserver.almg.gov.br/acervo/497/805/2497805.pdf",
+        "nota": "Votou Sim ao PL 438/2019, que reserva vagas para negros em concursos públicos estaduais, no 1º turno (03/12/2025)."
+      },
+      "DE01": {
+        "v": 1,
+        "conf": "voto",
+        "fonte": "https://mediaserver.almg.gov.br/acervo/475/18/2475018.pdf",
+        "nota": "Votou Sim à PEC 24/2023, que retirou a exigência de referendo para privatizar a Copasa, nos 2 turnos (24/10 e 05/11/2025)."
+      }
+    }
+  },
+  {
+    "id": 130002549942,
+    "nomeUrna": "RAFAEL MARTINS",
+    "resumo": "Deputado estadual desde 2019, em 2º mandato. Jornalista e repórter da TV Alterosa, ex-vereador de Belo Horizonte. Candidato à reeleição pelo PSD.",
+    "bandeiras": [
+      "Meio ambiente e política urbana",
+      "Minas e energia"
+    ],
+    "posicoes": {
+      "G03": {
+        "v": 4,
+        "conf": "voto",
+        "fonte": "https://mediaserver.almg.gov.br/acervo/510/199/2510199.pdf",
+        "nota": "Votou Sim ao PL 4.380/2025, que autoriza a privatização da Copasa, nos 2 turnos (02/12 e 17/12/2025)."
+      },
+      "G07": {
+        "v": 2,
+        "conf": "voto",
+        "fonte": "https://mediaserver.almg.gov.br/acervo/86/875/2086875.pdf",
+        "nota": "Votou pela manutenção do veto à ampliação da Estação Ecológica de Fechos, área de mananciais sob pressão da mineração (24/04/2024)."
+      },
+      "DE01": {
+        "v": 1,
+        "conf": "voto",
+        "fonte": "https://mediaserver.almg.gov.br/acervo/475/18/2475018.pdf",
+        "nota": "Votou Sim à PEC 24/2023, que retirou a exigência de referendo para privatizar a Copasa, nos 2 turnos (24/10 e 05/11/2025)."
+      }
+    }
+  },
+  {
+    "id": 130002539880,
+    "nomeUrna": "CHARLES SANTOS",
+    "resumo": "Deputado estadual desde 2019, em 2º mandato. Bacharel em Teologia e ex-diretor do jornal Hoje em Dia. Candidato à reeleição pelo Republicanos.",
+    "bandeiras": [
+      "Saúde mental e prevenção ao suicídio",
+      "Proteção à mulher vítima de violência",
+      "Denúncia de crimes ambientais"
+    ],
+    "posicoes": {
+      "G03": {
+        "v": 4,
+        "conf": "voto",
+        "fonte": "https://mediaserver.almg.gov.br/acervo/510/199/2510199.pdf",
+        "nota": "Votou Sim ao PL 4.380/2025, que autoriza a privatização da Copasa, nos 2 turnos (02/12 e 17/12/2025)."
+      },
+      "G07": {
+        "v": 2,
+        "conf": "voto",
+        "fonte": "https://mediaserver.almg.gov.br/acervo/86/875/2086875.pdf",
+        "nota": "Votou pela manutenção do veto à ampliação da Estação Ecológica de Fechos, área de mananciais sob pressão da mineração (24/04/2024)."
+      },
+      "G11": {
+        "v": 5,
+        "conf": "voto",
+        "fonte": "https://mediaserver.almg.gov.br/acervo/509/176/2509176.pdf",
+        "nota": "Votou Sim ao PL 438/2019, que reserva vagas para negros em concursos públicos estaduais, nos 2 turnos (03/12 e 16/12/2025)."
+      },
+      "DE01": {
+        "v": 1,
+        "conf": "voto",
+        "fonte": "https://mediaserver.almg.gov.br/acervo/475/18/2475018.pdf",
+        "nota": "Votou Sim à PEC 24/2023, que retirou a exigência de referendo para privatizar a Copasa, nos 2 turnos (24/10 e 05/11/2025)."
+      }
+    }
+  }
+]

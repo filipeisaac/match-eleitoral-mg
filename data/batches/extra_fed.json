@@ -1,0 +1,2149 @@
+[
+ {
+  "id": 130002545584,
+  "cargo": "Deputado Federal",
+  "nomeUrna": "PAULO FILHO DA FUNDAÇÃO",
+  "nomeCompleto": "PAULO ROBERTO BARROS DA SILVA FILHO",
+  "numero": 5505,
+  "partido": "PSD",
+  "ocupacao": "Empresário",
+  "anteriores": [],
+  "sites": [
+   "HTTPS://WWW.FACEBOOK.COM/PAULOFILHOMG",
+   "https://WWW.PAULOFILHOMG.COM.BR",
+   "HTTPS://WWW.TIKTOK.COM/@PAULOROBERTOFILHOMG",
+   "HTTPS://WWW.INSTAGRAM.COM/PAULOROBERTOFILHO/"
+  ],
+  "resumoAtual": "Comunicador e empresário de Muriaé, gestor da Rádio Muriaé e voluntário da Fundação Cristiano Varella (Hospital do Câncer). Candidato a deputado federal pelo PSD.",
+  "bandeirasAtuais": [
+   "Regionalização do atendimento de saúde e oncologia",
+   "Recursos federais para municípios da Zona da Mata",
+   "Fiscalização da aplicação de emendas"
+  ],
+  "posicoesExistentes": {},
+  "perguntasFaltando": [
+   "G01",
+   "G02",
+   "G03",
+   "G04",
+   "G05",
+   "G06",
+   "G07",
+   "G08",
+   "G09",
+   "G10",
+   "G11",
+   "G12",
+   "G13",
+   "G14",
+   "DF01",
+   "DF02",
+   "DF03",
+   "DF04",
+   "DF05",
+   "DF06"
+  ]
+ },
+ {
+  "id": 130002542742,
+  "cargo": "Deputado Federal",
+  "nomeUrna": "LUIZ FERNANDO",
+  "nomeCompleto": "LUIZ FERNANDO RAMOS FARIA",
+  "numero": 4400,
+  "partido": "UNIÃO",
+  "ocupacao": "Deputado",
+  "anteriores": [
+   {
+    "ano": 2022,
+    "cargo": "Deputado Federal",
+    "local": "MINAS GERAIS",
+    "partido": "PSD",
+    "resultado": "Eleito por média"
+   },
+   {
+    "ano": 2018,
+    "cargo": "Deputado Estadual",
+    "local": "MINAS GERAIS",
+    "partido": "PP",
+    "resultado": "Suplente"
+   },
+   {
+    "ano": 2014,
+    "cargo": "Deputado Federal",
+    "local": "MINAS GERAIS",
+    "partido": "PP",
+    "resultado": "Eleito por QP"
+   },
+   {
+    "ano": 2010,
+    "cargo": "Deputado Federal",
+    "local": "MINAS GERAIS",
+    "partido": "PP",
+    "resultado": "Eleito"
+   }
+  ],
+  "sites": [
+   "https://@DEPLUIZFERNANDO"
+  ],
+  "resumoAtual": "Empresário e engenheiro, foi deputado estadual (1997-2007) e deputado federal (2007-2019), voltando à Câmara em 2023. Busca a reeleição pelo União Brasil.",
+  "bandeirasAtuais": [],
+  "posicoesExistentes": {
+   "G08": {
+    "v": 2,
+    "conf": "voto",
+    "nota": "Votou Não na urgência do PL 2162/2023 (anistia do 8 de janeiro) em 17/09/2025."
+   },
+   "G14": {
+    "v": 5,
+    "conf": "voto",
+    "nota": "Votou Sim nos dois turnos da PEC 221/2019 (40h semanais e 2 dias de folga, fim da escala 6x1) em 27/05/2026."
+   },
+   "DF02": {
+    "v": 5,
+    "conf": "voto",
+    "nota": "Votou Sim nos dois turnos da PEC 3/2021 (licença do Congresso para processar parlamentares) em 16/09/2025."
+   },
+   "DF03": {
+    "v": 5,
+    "conf": "voto",
+    "nota": "Votou Sim no substitutivo do PL 490/2007 (marco temporal de terras indígenas) em 30/05/2023."
+   },
+   "G01": {
+    "v": 4,
+    "conf": "voto",
+    "nota": "Votou sim à PEC 241/2016 (teto de gastos) no 2º turno, em 25/10/2016."
+   },
+   "G10": {
+    "v": 4,
+    "conf": "voto",
+    "nota": "Votou Sim na urgência do PL 2630/2020 (regulação de plataformas digitais) em 25/04/2023."
+   },
+   "G04": {
+    "v": 4,
+    "conf": "voto",
+    "nota": "Votou Sim na urgência do PDL 3/2023 (sustar o decreto de 2023 que restringiu armas) em 06/12/2023."
+   },
+   "G11": {
+    "v": 4,
+    "conf": "voto",
+    "nota": "Votou Sim no PL 1958/2021 (cotas raciais em concursos públicos) em 19/11/2024."
+   }
+  },
+  "perguntasFaltando": [
+   "G02",
+   "G03",
+   "G05",
+   "G06",
+   "G07",
+   "G09",
+   "G12",
+   "G13",
+   "DF01",
+   "DF04",
+   "DF05",
+   "DF06"
+  ]
+ },
+ {
+  "id": 130002542034,
+  "cargo": "Deputado Federal",
+  "nomeUrna": "THIAGO GANEM",
+  "nomeCompleto": "THIAGO MARTINS MILHIM",
+  "numero": 2275,
+  "partido": "PL",
+  "ocupacao": "Advogado",
+  "anteriores": [],
+  "sites": [
+   "HTTPS://WWW.INSTAGRAM.COM/THIAGOGANEM_MG/",
+   "HTTPS://WWW.FACEBOOK.COM/THIAGOGANEM.AUTISMO/",
+   "HTTPS://WWW.INSTAGRAM.COM/THI.GANEM/",
+   "https://www.thiagoganem2275.com.br/",
+   "https://open.spotify.com/intl-pt/album/7jsZ44v7hNhRPIFstDCwVG",
+   "HTTPS://WWW.FACEBOOK.COM/THIAGOGANEM.MG",
+   "HTTPS://THIAGOGANEM.COM.BR/VOTE2275",
+   "HTTPS://WWW.FACEBOOK.COM/PROFILE.PHP?ID=61584503194969",
+   "HTTPS://WWW.INSTAGRAM.COM/THIAGOGANEM.FIBROMIALGIA/",
+   "HTTPS://WWW.INSTAGRAM.COM/THIAGOGANEM.ONCOLOGIA/",
+   "HTTPS://WWW.FACEBOOK.COM/THIAGOGANEM.SEGURANCA/",
+   "HTTPS://THIAGOGANEM.COM.BR/",
+   "HTTPS://THIAGOGANEM.COM.BR/REDES",
+   "HTTPS://WWW.THIAGOGANEM2026.COM.BR/",
+   "HTTPS://WWW.TIKTOK.COM/@THIAGOGANEM_",
+   "HTTPS://WWW.FACEBOOK.COM/THIAGOGANEM.FIBROMIALGIA/",
+   "HTTPS://WWW.INSTAGRAM.COM/THIAGOGANEM.MG/",
+   "HTTPS://WWW.FACEBOOK.COM/THIAGOGANEM.ONCOLOGIA/",
+   "HTTPS://WWW.INSTAGRAM.COM/THIAGOGANEM.AUTISMO/",
+   "HTTPS://WWW.INSTAGRAM.COM/THIAGOGANEM.CRISTAO/",
+   "HTTPS://WWW.FACEBOOK.COM/THIAGOGANEM.CRISTAO/",
+   "https://whatsapp.com/channel/0029VbCFBW747XeIHMTudy3E"
+  ],
+  "resumoAtual": "Advogado, professor e gestor público, coordena o movimento Unidos Contra a Pedofilia. Candidato a deputado federal pelo PL.",
+  "bandeirasAtuais": [
+   "Proteção à infância e combate à pedofilia",
+   "Inclusão de pessoas com autismo e famílias atípicas",
+   "Causa animal"
+  ],
+  "posicoesExistentes": {},
+  "perguntasFaltando": [
+   "G01",
+   "G02",
+   "G03",
+   "G04",
+   "G05",
+   "G06",
+   "G07",
+   "G08",
+   "G09",
+   "G10",
+   "G11",
+   "G12",
+   "G13",
+   "G14",
+   "DF01",
+   "DF02",
+   "DF03",
+   "DF04",
+   "DF05",
+   "DF06"
+  ]
+ },
+ {
+  "id": 130002535282,
+  "cargo": "Deputado Federal",
+  "nomeUrna": "GLEIDE ANDRADE",
+  "nomeCompleto": "GLEIDE ANDRADE DE OLIVEIRA",
+  "numero": 1307,
+  "partido": "PT",
+  "ocupacao": "Outros",
+  "anteriores": [
+   {
+    "ano": 2022,
+    "cargo": "Deputado Federal",
+    "local": "MINAS GERAIS",
+    "partido": "PT",
+    "resultado": "Suplente"
+   }
+  ],
+  "sites": [
+   "HTTPS://WWW.INSTAGRAM.COM/GLEIDEPT13",
+   "HTTPS://WWW.FACEBOOK.COM/GLEIDEPT13",
+   "HTTPS://X.COM/GLEIDEPT13",
+   "HTTPS://GLEIDEPT13.COM.BR/",
+   "HTTPS://WWW.TIKTOK.COM/@GLEIDEPT13"
+  ],
+  "resumoAtual": "Secretária nacional de Planejamento e Finanças do PT. Candidata a deputada federal pelo PT; ficou como suplente em 2022.",
+  "bandeirasAtuais": [
+   "Fim da escala 6x1",
+   "Enfrentamento à violência contra a mulher",
+   "Saúde pública no interior de Minas"
+  ],
+  "posicoesExistentes": {
+   "G14": {
+    "v": 4,
+    "conf": "declaracao",
+    "nota": "Em artigo de fevereiro de 2026, defendeu o fim da escala 6x1 como defesa do direito ao tempo livre do trabalhador."
+   }
+  },
+  "perguntasFaltando": [
+   "G01",
+   "G02",
+   "G03",
+   "G04",
+   "G05",
+   "G06",
+   "G07",
+   "G08",
+   "G09",
+   "G10",
+   "G11",
+   "G12",
+   "G13",
+   "DF01",
+   "DF02",
+   "DF03",
+   "DF04",
+   "DF05",
+   "DF06"
+  ]
+ },
+ {
+  "id": 130002542697,
+  "cargo": "Deputado Federal",
+  "nomeUrna": "JUNYNHO MARTINS",
+  "nomeCompleto": "MOACIR MARTINS DA COSTA JUNIOR",
+  "numero": 1100,
+  "partido": "PP",
+  "ocupacao": "Professor de Ensino Médio",
+  "anteriores": [
+   {
+    "ano": 2020,
+    "cargo": "Prefeito",
+    "local": "RIBEIRÃO DAS NEVES",
+    "partido": "DEM",
+    "resultado": "Eleito"
+   },
+   {
+    "ano": 2016,
+    "cargo": "Prefeito",
+    "local": "RIBEIRÃO DAS NEVES",
+    "partido": "PSC",
+    "resultado": "Eleito"
+   },
+   {
+    "ano": 2014,
+    "cargo": "Deputado Estadual",
+    "local": "MINAS GERAIS",
+    "partido": "PSC",
+    "resultado": "Suplente"
+   },
+   {
+    "ano": 2012,
+    "cargo": "Vice-prefeito",
+    "local": "RIBEIRÃO DAS NEVES",
+    "partido": "PSC",
+    "resultado": "Não eleito"
+   }
+  ],
+  "sites": [
+   "HTTPS://WWW.INSTAGRAM.COM/JUNYNHO_MARTINS/?HL=PT",
+   "HTTPS://WWW.FACEBOOK.COM/JUNYNHOMARTINSOFICIAL/?LOCALE=PT_BR",
+   "https://share.google/L7PWTUv7fDumCKaHf",
+   "HTTPS://X.COM/JUNYNHOMARTINSS/STATUS/1679921338197131291?LANG=AR-X-FM",
+   "https://JUNYNHOMARTINSMG",
+   "https://www.facebook.com/share/1FcuqaKoT5/",
+   "HTTPS://WWW.TIKTOK.COM/@JUNYNHO_MARTINS",
+   "HTTPS://JUNYNHOMARTINS.COM.BR/"
+  ],
+  "resumoAtual": "Professor de História, foi prefeito de Ribeirão das Neves por dois mandatos (2017 a 2024) e secretário-executivo na Casa Civil do governo de Minas. Candidato pelo PP.",
+  "bandeirasAtuais": [
+   "Saúde",
+   "Infraestrutura e mobilidade",
+   "Educação"
+  ],
+  "posicoesExistentes": {},
+  "perguntasFaltando": [
+   "G01",
+   "G02",
+   "G03",
+   "G04",
+   "G05",
+   "G06",
+   "G07",
+   "G08",
+   "G09",
+   "G10",
+   "G11",
+   "G12",
+   "G13",
+   "G14",
+   "DF01",
+   "DF02",
+   "DF03",
+   "DF04",
+   "DF05",
+   "DF06"
+  ]
+ },
+ {
+  "id": 130002545585,
+  "cargo": "Deputado Federal",
+  "nomeUrna": "CASSIO SOARES",
+  "nomeCompleto": "CASSIO ANTONIO FERREIRA SOARES",
+  "numero": 5588,
+  "partido": "PSD",
+  "ocupacao": "Empresário",
+  "anteriores": [
+   {
+    "ano": 2022,
+    "cargo": "Deputado Estadual",
+    "local": "MINAS GERAIS",
+    "partido": "PSD",
+    "resultado": "Eleito por QP"
+   },
+   {
+    "ano": 2018,
+    "cargo": "Deputado Estadual",
+    "local": "MINAS GERAIS",
+    "partido": "PSD",
+    "resultado": "Eleito por QP"
+   },
+   {
+    "ano": 2014,
+    "cargo": "Deputado Estadual",
+    "local": "MINAS GERAIS",
+    "partido": "PSD",
+    "resultado": "Eleito por QP"
+   },
+   {
+    "ano": 2010,
+    "cargo": "Deputado Estadual",
+    "local": "MINAS GERAIS",
+    "partido": "PRTB",
+    "resultado": "Eleito"
+   }
+  ],
+  "sites": [
+   "HTTPS://WWW.FACEBOOK.COM/CASSIOSOARESOFICIAL/?LOCALE=PT_BR",
+   "HTTPS://X.COM/CASSIOAFSOARES",
+   "HTTPS://WWW.INSTAGRAM.COM/CASSIOFSOARES/",
+   "HTTPS://CASSIOSOARES.COM.BR/",
+   "https://PSD.ORG.MG.BR",
+   "HTTPS://WWW.YOUTUBE.COM/CHANNEL/UC8BPDCH2X_BMMSYHQOLXJSW/VIDEOS"
+  ],
+  "resumoAtual": "Economista de Passos, deputado estadual desde 2011, presidente do PSD em Minas e líder do bloco governista Minas em Frente na ALMG. Foi secretário de Desenvolvimento Social.",
+  "bandeirasAtuais": [
+   "Recursos para municípios do Sul e Sudoeste de Minas",
+   "Saúde regional",
+   "Infraestrutura rodoviária"
+  ],
+  "posicoesExistentes": {
+   "G03": {
+    "v": 4,
+    "conf": "voto",
+    "nota": "Na ALMG, votou a favor da PEC 24/2023 (fim do referendo) e do PL 4.380/2025, que autoriza a desestatização da Copasa, em 2 e 17/12/2025."
+   },
+   "G11": {
+    "v": 4,
+    "conf": "voto",
+    "nota": "Votou a favor do PL 438/2019 (cotas para negros em concursos estaduais) em 1º turno na ALMG, em 03/12/2025."
+   }
+  },
+  "perguntasFaltando": [
+   "G01",
+   "G02",
+   "G04",
+   "G05",
+   "G06",
+   "G07",
+   "G08",
+   "G09",
+   "G10",
+   "G12",
+   "G13",
+   "G14",
+   "DF01",
+   "DF02",
+   "DF03",
+   "DF04",
+   "DF05",
+   "DF06"
+  ]
+ },
+ {
+  "id": 130002543710,
+  "cargo": "Deputado Federal",
+  "nomeUrna": "KATIA DIAS",
+  "nomeCompleto": "KATIA REGINA OLIVEIRA DIAS",
+  "numero": 4012,
+  "partido": "PSB",
+  "ocupacao": "Administrador",
+  "anteriores": [
+   {
+    "ano": 2022,
+    "cargo": "Deputado Federal",
+    "local": "MINAS GERAIS",
+    "partido": "PSC",
+    "resultado": "Suplente"
+   }
+  ],
+  "sites": [
+   "https://INSTAGRAM @KATIADIASJF",
+   "https://facebook.com/katia.dias.376",
+   "https://x.com/katiadiasjf",
+   "https://TIKTOK @KATIADIASJF",
+   "https://FACEBOOK : KATIADIASJF",
+   "https://www.katiadiasjf.com.br"
+  ],
+  "resumoAtual": "Empresária e protetora de animais de Juiz de Fora, irmã do deputado estadual Noraldino Jr. Exerceu mandato de deputada federal como suplente de fevereiro a junho de 2025.",
+  "bandeirasAtuais": [
+   "Causa animal e castração itinerante",
+   "Proteção às mulheres",
+   "Economia e empreendedorismo"
+  ],
+  "posicoesExistentes": {
+   "G01": {
+    "v": 4,
+    "conf": "voto",
+    "nota": "Votou a favor do PDL 214/2025, que sustou o decreto do governo federal que elevava o IOF, em 25/06/2025."
+   }
+  },
+  "perguntasFaltando": [
+   "G02",
+   "G03",
+   "G04",
+   "G05",
+   "G06",
+   "G07",
+   "G08",
+   "G09",
+   "G10",
+   "G11",
+   "G12",
+   "G13",
+   "G14",
+   "DF01",
+   "DF02",
+   "DF03",
+   "DF04",
+   "DF05",
+   "DF06"
+  ]
+ },
+ {
+  "id": 130002535290,
+  "cargo": "Deputado Federal",
+  "nomeUrna": "WADSON RIBEIRO",
+  "nomeCompleto": "WADSON NATHANIEL RIBEIRO",
+  "numero": 6510,
+  "partido": "PCDOB",
+  "ocupacao": "Administrador",
+  "anteriores": [
+   {
+    "ano": 2022,
+    "cargo": "Deputado Federal",
+    "local": "MINAS GERAIS",
+    "partido": "PC do B",
+    "resultado": "Suplente"
+   },
+   {
+    "ano": 2020,
+    "cargo": "Prefeito",
+    "local": "BELO HORIZONTE",
+    "partido": "PC do B",
+    "resultado": "Não eleito"
+   },
+   {
+    "ano": 2018,
+    "cargo": "Deputado Federal",
+    "local": "MINAS GERAIS",
+    "partido": "PC do B",
+    "resultado": "Suplente"
+   },
+   {
+    "ano": 2014,
+    "cargo": "Deputado Federal",
+    "local": "MINAS GERAIS",
+    "partido": "PC do B",
+    "resultado": "Suplente"
+   }
+  ],
+  "sites": [
+   "HTTPS://WWW.FACEBOOK.COM/SHARE/1KHQ2MZ3QA/?MIBEXTID=WWXIFR",
+   "https://TIKTOK - HTTPS://WWW.TIKTOK.COM/@WADSONRIBEIROMG?_R=1&_T=ZS-98OQD2LIH08",
+   "HTTPS://WWW.INSTAGRAM.COM/WADSONRIBEIROMG?IGSH=MXRHBTJ6CWQ5B3G4AQ%3D%3D&UTM_SOUR",
+   "HTTP://WWW.YOUTUBE.COM/@WADSONRIBEIROMG",
+   "https://WWW.WADSONRIBEIRO6510.COM.BR"
+  ],
+  "resumoAtual": "Ex-presidente da UNE, foi deputado federal como suplente (2015 e 2016), secretário-executivo do Ministério do Esporte e ouvidor-geral de Minas. Candidato pelo PCdoB.",
+  "bandeirasAtuais": [
+   "Fim da escala 6x1 e redução da jornada",
+   "Ciência, tecnologia e reindustrialização",
+   "Tarifa zero no transporte público"
+  ],
+  "posicoesExistentes": {
+   "G12": {
+    "v": 2,
+    "conf": "voto",
+    "nota": "Votou contra a PEC 171/1993 (redução da maioridade penal) em 1º e 2º turnos, em julho e agosto de 2015."
+   },
+   "G14": {
+    "v": 4,
+    "conf": "declaracao",
+    "nota": "Propostas de campanha incluem o fim da escala 6x1 e a redução da jornada para 40 horas semanais sem redução salarial."
+   }
+  },
+  "perguntasFaltando": [
+   "G01",
+   "G02",
+   "G03",
+   "G04",
+   "G05",
+   "G06",
+   "G07",
+   "G08",
+   "G09",
+   "G10",
+   "G11",
+   "G13",
+   "DF01",
+   "DF02",
+   "DF03",
+   "DF04",
+   "DF05",
+   "DF06"
+  ]
+ },
+ {
+  "id": 130002533264,
+  "cargo": "Deputado Federal",
+  "nomeUrna": "OLAVO KEESEN",
+  "nomeCompleto": "OLAVO KEESEN",
+  "numero": 7700,
+  "partido": "SOLIDARIEDADE",
+  "ocupacao": "Empresário",
+  "anteriores": [],
+  "sites": [
+   "https://www.tiktok.com/@olavo.keesen?_r=1&_t=zs-98fncmnzuub&utm_source=ig&utm_me",
+   "https://instagram@olavokeesen",
+   "https://www.youtube.com/@olavokeesen-mg",
+   "https://deputadofederalolavo.com.br/",
+   "https://facebookolavokeesen"
+  ],
+  "resumoAtual": "Empresário que começou a vida vendendo cachorro-quente e comanda o Solidariedade em Minas Gerais. Candidato a deputado federal pelo Solidariedade.",
+  "bandeirasAtuais": [
+   "Organização do Solidariedade nos municípios mineiros",
+   "Oportunidades de trabalho para quem recomeça"
+  ],
+  "posicoesExistentes": {},
+  "perguntasFaltando": [
+   "G01",
+   "G02",
+   "G03",
+   "G04",
+   "G05",
+   "G06",
+   "G07",
+   "G08",
+   "G09",
+   "G10",
+   "G11",
+   "G12",
+   "G13",
+   "G14",
+   "DF01",
+   "DF02",
+   "DF03",
+   "DF04",
+   "DF05",
+   "DF06"
+  ]
+ },
+ {
+  "id": 130002535319,
+  "cargo": "Deputado Federal",
+  "nomeUrna": "LOHANNA",
+  "nomeCompleto": "LOHANNA SOUZA FRANÇA MOREIRA DE OLIVEIRA",
+  "numero": 4350,
+  "partido": "PV",
+  "ocupacao": "Deputado",
+  "anteriores": [
+   {
+    "ano": 2022,
+    "cargo": "Deputado Estadual",
+    "local": "MINAS GERAIS",
+    "partido": "PV",
+    "resultado": "Eleito por QP"
+   },
+   {
+    "ano": 2020,
+    "cargo": "Vereador",
+    "local": "DIVINÓPOLIS",
+    "partido": "CIDADANIA",
+    "resultado": "Eleito por QP"
+   }
+  ],
+  "sites": [
+   "HTTPS://LOHANNAFRANCA.COM.BR/",
+   "HTTPS://WWW.THREADS.COM/@LOHANNA.FRANCA",
+   "HTTPS://WWW.INSTAGRAM.COM/LOHANNA.FRANCA/",
+   "HTTPS://WWW.KWAI.COM/@LOHANNA.FRANCAA",
+   "HTTPS://WWW.FACEBOOK.COM/LOHANNASFRANCA/",
+   "HTTPS://WWW.TIKTOK.COM/@LOHANNA.FRANCA",
+   "HTTPS://WWW.YOUTUBE.COM/@LOHANNAF",
+   "HTTPS://X.COM/LOHANNAF"
+  ],
+  "resumoAtual": "Professora, deputada estadual pelo PV desde 2023 e líder da bancada feminina da ALMG. Foi vereadora de Divinópolis (2021 a 2023).",
+  "bandeirasAtuais": [
+   "Direitos das mulheres",
+   "Educação",
+   "Cultura"
+  ],
+  "posicoesExistentes": {
+   "G03": {
+    "v": 2,
+    "conf": "voto",
+    "nota": "Votou contra a PEC 24/2023 e contra o PL 4.380/2025 (desestatização da Copasa) em 2 e 17/12/2025; criticou a privatização em discursos."
+   },
+   "G08": {
+    "v": 2,
+    "conf": "declaracao",
+    "nota": "Em discurso na ALMG (08/04/2025), criticou a participação do governador em ato pela anistia aos envolvidos no 8 de janeiro."
+   },
+   "G10": {
+    "v": 4,
+    "conf": "declaracao",
+    "nota": "Na ALMG (09/04/2024), defendeu que a liberdade de expressão não seja irrestrita e apoiou a atuação do Judiciário contra fake news."
+   },
+   "G11": {
+    "v": 4,
+    "conf": "voto",
+    "nota": "Votou a favor do PL 438/2019 (cotas para negros em concursos estaduais) em 1º turno na ALMG, em 03/12/2025."
+   }
+  },
+  "perguntasFaltando": [
+   "G01",
+   "G02",
+   "G04",
+   "G05",
+   "G06",
+   "G07",
+   "G09",
+   "G12",
+   "G13",
+   "G14",
+   "DF01",
+   "DF02",
+   "DF03",
+   "DF04",
+   "DF05",
+   "DF06"
+  ]
+ },
+ {
+  "id": 130002535314,
+  "cargo": "Deputado Federal",
+  "nomeUrna": "GILMAR MACHADO",
+  "nomeCompleto": "GILMAR ALVES MACHADO",
+  "numero": 1350,
+  "partido": "PT",
+  "ocupacao": "Servidor Público Civil Aposentado",
+  "anteriores": [
+   {
+    "ano": 2022,
+    "cargo": "Deputado Federal",
+    "local": "MINAS GERAIS",
+    "partido": "PT",
+    "resultado": "Suplente"
+   },
+   {
+    "ano": 2018,
+    "cargo": "Deputado Federal",
+    "local": "MINAS GERAIS",
+    "partido": "PT",
+    "resultado": "Suplente"
+   },
+   {
+    "ano": 2016,
+    "cargo": "Prefeito",
+    "local": "UBERLÂNDIA",
+    "partido": "PT",
+    "resultado": "Não eleito"
+   },
+   {
+    "ano": 2012,
+    "cargo": "Prefeito",
+    "local": "UBERLÂNDIA",
+    "partido": "PT",
+    "resultado": "Eleito"
+   }
+  ],
+  "sites": [
+   "HTTPS://GILMARMACHADO.COM.BR/",
+   "HTTPS://WWW.INSTAGRAM.COM/GILMARMACHADODEP/",
+   "HTTPS://WWW.TIKTOK.COM/@GILMARMACHADO1355",
+   "HTTPS://WWW.FACEBOOK.COM/GILMARMACHADODEP"
+  ],
+  "resumoAtual": "Professor de História, foi deputado estadual, deputado federal (1999 a 2012) e prefeito de Uberlândia (2013 a 2016). Assumiu vaga na Câmara como suplente em 15/09/2026.",
+  "bandeirasAtuais": [
+   "Educação",
+   "Saúde e atendimento de urgência",
+   "Educação digital contra apostas"
+  ],
+  "posicoesExistentes": {
+   "G07": {
+    "v": 4,
+    "conf": "voto",
+    "nota": "Votou contra a Emenda 164 ao Código Florestal, que permitia manter atividades agropecuárias em APPs, em maio de 2011."
+   }
+  },
+  "perguntasFaltando": [
+   "G01",
+   "G02",
+   "G03",
+   "G04",
+   "G05",
+   "G06",
+   "G08",
+   "G09",
+   "G10",
+   "G11",
+   "G12",
+   "G13",
+   "G14",
+   "DF01",
+   "DF02",
+   "DF03",
+   "DF04",
+   "DF05",
+   "DF06"
+  ]
+ },
+ {
+  "id": 130002533247,
+  "cargo": "Deputado Federal",
+  "nomeUrna": "DRA. MICHELLY SIQUEIRA",
+  "nomeCompleto": "MICHELLY CAROLINE LUIZ PEREIRA DE SIQUEIRA",
+  "numero": 2521,
+  "partido": "PRD",
+  "ocupacao": "Advogado",
+  "anteriores": [
+   {
+    "ano": 2024,
+    "cargo": "Vereador",
+    "local": "BELO HORIZONTE",
+    "partido": "PRD",
+    "resultado": "Eleito por média"
+   },
+   {
+    "ano": 2022,
+    "cargo": "Deputado Federal",
+    "local": "MINAS GERAIS",
+    "partido": "AVANTE",
+    "resultado": "Suplente"
+   },
+   {
+    "ano": 2020,
+    "cargo": "Vereador",
+    "local": "BELO HORIZONTE",
+    "partido": "PP",
+    "resultado": "Suplente"
+   }
+  ],
+  "sites": [
+   "https://@MICHELYSIQUEIRA",
+   "https://CONTATO@MICHELLYSIQUEIRA.COM.BR",
+   "https://WWW.MICHELLYSIQUEIRA.COM.BR",
+   "https://facebook.com/michellysiqueiraadv",
+   "http://www.tiktok.com/@michelysiqueiraadvogada",
+   "https://youtube.com/michellysiqueira",
+   "https://DRA. MICHELLY SIQUEIRA",
+   "http://www.michellysiqueira.com.br/",
+   "https://twitter.com/michelysiqueira",
+   "https://instagram.com/michelysiqueira"
+  ],
+  "resumoAtual": "Advogada, vereadora de Belo Horizonte pelo PRD desde 2025, com atuação voltada aos direitos das pessoas com deficiência; presidiu comissão da OAB-MG sobre o tema.",
+  "bandeirasAtuais": [
+   "Inclusão de pessoas com deficiência",
+   "Saúde",
+   "Educação"
+  ],
+  "posicoesExistentes": {
+   "G02": {
+    "v": 4,
+    "conf": "declaracao",
+    "nota": "Defende que o acesso ao BPC não seja limitado pela renda familiar; em 2025 apresentou moções contra convocações do INSS a beneficiários do BPC."
+   }
+  },
+  "perguntasFaltando": [
+   "G01",
+   "G03",
+   "G04",
+   "G05",
+   "G06",
+   "G07",
+   "G08",
+   "G09",
+   "G10",
+   "G11",
+   "G12",
+   "G13",
+   "G14",
+   "DF01",
+   "DF02",
+   "DF03",
+   "DF04",
+   "DF05",
+   "DF06"
+  ]
+ },
+ {
+  "id": 130002543108,
+  "cargo": "Deputado Federal",
+  "nomeUrna": "IGOR ETO",
+  "nomeCompleto": "IGOR MASCARENHAS ETO",
+  "numero": 7077,
+  "partido": "AVANTE",
+  "ocupacao": "Administrador",
+  "anteriores": [],
+  "sites": [
+   "HTTPS://WWW.FACEBOOK.COM/IGOR.ETO2",
+   "HTTPS://WWW.INSTAGRAM.COM/IGOR.ETO"
+  ],
+  "resumoAtual": "Administrador. Candidato a deputado federal pelo Avante, sem candidaturas anteriores registradas no TSE.",
+  "bandeirasAtuais": [],
+  "posicoesExistentes": {},
+  "perguntasFaltando": [
+   "G01",
+   "G02",
+   "G03",
+   "G04",
+   "G05",
+   "G06",
+   "G07",
+   "G08",
+   "G09",
+   "G10",
+   "G11",
+   "G12",
+   "G13",
+   "G14",
+   "DF01",
+   "DF02",
+   "DF03",
+   "DF04",
+   "DF05",
+   "DF06"
+  ]
+ },
+ {
+  "id": 130002542040,
+  "cargo": "Deputado Federal",
+  "nomeUrna": "VILE SANTOS",
+  "nomeCompleto": "WILI DOS SANTOS",
+  "numero": 2211,
+  "partido": "PL",
+  "ocupacao": "Relações-Públicas",
+  "anteriores": [
+   {
+    "ano": 2024,
+    "cargo": "Vereador",
+    "local": "BELO HORIZONTE",
+    "partido": "PL",
+    "resultado": "Eleito por QP"
+   }
+  ],
+  "sites": [
+   "https://TIKTOK.COM/@VILESANTOSDM",
+   "https://INSTAGRAM.COM/VILESANTOSDM",
+   "https://YOUTUBE.COM/@VILESANTOS",
+   "https://FACEBOOK.COM/VILESANTOS",
+   "http://instagram.com/vilesantos2211"
+  ],
+  "resumoAtual": "Relações-públicas, vereador de Belo Horizonte pelo PL desde 2025. Candidato a deputado federal pelo PL.",
+  "bandeirasAtuais": [],
+  "posicoesExistentes": {
+   "G11": {
+    "v": 1,
+    "conf": "declaracao",
+    "nota": "É autor do PL 663/2026 na Câmara de BH, que proíbe cotas baseadas em raça, cor, etnia ou gênero em concursos públicos municipais."
+   }
+  },
+  "perguntasFaltando": [
+   "G01",
+   "G02",
+   "G03",
+   "G04",
+   "G05",
+   "G06",
+   "G07",
+   "G08",
+   "G09",
+   "G10",
+   "G12",
+   "G13",
+   "G14",
+   "DF01",
+   "DF02",
+   "DF03",
+   "DF04",
+   "DF05",
+   "DF06"
+  ]
+ },
+ {
+  "id": 130002543112,
+  "cargo": "Deputado Federal",
+  "nomeUrna": "LUIS TIBÉ",
+  "nomeCompleto": "LUIS HENRIQUE DE OLIVEIRA RESENDE",
+  "numero": 7070,
+  "partido": "AVANTE",
+  "ocupacao": "Deputado",
+  "anteriores": [
+   {
+    "ano": 2022,
+    "cargo": "Deputado Federal",
+    "local": "MINAS GERAIS",
+    "partido": "AVANTE",
+    "resultado": "Eleito por QP"
+   },
+   {
+    "ano": 2018,
+    "cargo": "Deputado Federal",
+    "local": "MINAS GERAIS",
+    "partido": "AVANTE",
+    "resultado": "Eleito por QP"
+   },
+   {
+    "ano": 2016,
+    "cargo": "Prefeito",
+    "local": "BELO HORIZONTE",
+    "partido": "PT do B",
+    "resultado": "Não eleito"
+   },
+   {
+    "ano": 2014,
+    "cargo": "Deputado Federal",
+    "local": "MINAS GERAIS",
+    "partido": "PT do B",
+    "resultado": "Eleito por QP"
+   }
+  ],
+  "sites": [
+   "HTTPS://WWW.INSTAGRAM.COM/DEPUTADOLUISTIBE",
+   "HTTPS://X.COM/LUISTIBEOFICIAL",
+   "HTTPS://WWW.FACEBOOK.COM/LUISTIBEOFICIAL",
+   "HTTPS://WWW.TIKTOK.COM/@DEPUTADOLUISTIBE",
+   "HTTPS://LUISTIBE.COM.BR/"
+  ],
+  "resumoAtual": "Empresário e presidente nacional do Avante, foi vereador em Belo Horizonte. Deputado federal desde 2011, busca novo mandato pelo Avante.",
+  "bandeirasAtuais": [],
+  "posicoesExistentes": {
+   "G08": {
+    "v": 4,
+    "conf": "voto",
+    "nota": "Votou Sim na urgência do PL 2162/2023 (anistia do 8 de janeiro) em 17/09/2025 e Sim no substitutivo que reduz as penas em 10/12/2025."
+   },
+   "DF02": {
+    "v": 5,
+    "conf": "voto",
+    "nota": "Votou Sim nos dois turnos da PEC 3/2021 (licença do Congresso para processar parlamentares) em 16/09/2025."
+   },
+   "G01": {
+    "v": 4,
+    "conf": "voto",
+    "nota": "Votou sim à PEC 241/2016 (teto de gastos) no 2º turno, em 25/10/2016."
+   },
+   "G02": {
+    "v": 4,
+    "conf": "declaracao",
+    "nota": "Coautor do PL 6072/2019, que reformula e reajusta anualmente os benefícios do Bolsa Família, e da PEC 200/2019 (renda garantida aos mais pobres)."
+   },
+   "G03": {
+    "v": 4,
+    "conf": "voto",
+    "nota": "Votou sim à privatização da Eletrobras (MP 1031/2021) em 19/05/2021."
+   },
+   "DF01": {
+    "v": 2,
+    "conf": "declaracao",
+    "nota": "Coautor (2 de 3) do PLP 18/2019, que institui execução obrigatória das emendas individuais de vereadores (orçamento impositivo)."
+   },
+   "DF03": {
+    "v": 1,
+    "conf": "voto",
+    "nota": "Votou Não no substitutivo do PL 490/2007 (marco temporal de terras indígenas) em 30/05/2023."
+   },
+   "G04": {
+    "v": 2,
+    "conf": "voto",
+    "nota": "Votou Não na urgência do PDL 3/2023 (sustar o decreto de 2023 que restringiu armas) em 06/12/2023."
+   }
+  },
+  "perguntasFaltando": [
+   "G05",
+   "G06",
+   "G07",
+   "G09",
+   "G10",
+   "G11",
+   "G12",
+   "G13",
+   "G14",
+   "DF04",
+   "DF05",
+   "DF06"
+  ]
+ },
+ {
+  "id": 130002547913,
+  "cargo": "Deputado Federal",
+  "nomeUrna": "MONICA VALLONE",
+  "nomeCompleto": "MONICA VALLONE ESPOSITO MARCHI",
+  "numero": 1544,
+  "partido": "MDB",
+  "ocupacao": "Servidor Público Civil Aposentado",
+  "anteriores": [
+   {
+    "ano": 2024,
+    "cargo": "Prefeito",
+    "local": "UBÁ",
+    "partido": "UNIÃO",
+    "resultado": "Não eleito"
+   }
+  ],
+  "sites": [
+   "HTTPS://WWW.THREADS.COM/@MONICAVALLONE?XMT=AQG0WZ4YFYDJKMCMEDOTXDGA8YZYMFE6OSUZ7",
+   "HTTPS://WWW.FACEBOOK.COM/PROFILE.PHP?ID=61591684122243&REF=NONE_XAV_IG_PROFILE_P",
+   "HTTPS://WWW.MONICAVALLONE.COM.BR/?UTM_SOURCE=IG&UTM_MEDIUM=SOCIAL&UTM_CONTENT=LI",
+   "HTTPS://WWW.INSTAGRAM.COM/MONICAVALLONE/"
+  ],
+  "resumoAtual": "Servidora aposentada com 40 anos no serviço público, foi a primeira mulher diretora de Regional de Saúde em MG e preside o MDB Mulher em Minas. Disputou a prefeitura de Ubá em 2024.",
+  "bandeirasAtuais": [
+   "Saúde pública",
+   "Gestão pública eficiente",
+   "Protagonismo feminino"
+  ],
+  "posicoesExistentes": {},
+  "perguntasFaltando": [
+   "G01",
+   "G02",
+   "G03",
+   "G04",
+   "G05",
+   "G06",
+   "G07",
+   "G08",
+   "G09",
+   "G10",
+   "G11",
+   "G12",
+   "G13",
+   "G14",
+   "DF01",
+   "DF02",
+   "DF03",
+   "DF04",
+   "DF05",
+   "DF06"
+  ]
+ },
+ {
+  "id": 130002542039,
+  "cargo": "Deputado Federal",
+  "nomeUrna": "RODRIGO TAVARES",
+  "nomeCompleto": "RODRIGO RODRIGUES TAVARES",
+  "numero": 2204,
+  "partido": "PL",
+  "ocupacao": "Advogado",
+  "anteriores": [],
+  "sites": [
+   "https://www.instagram@fechadocomrodrigao",
+   "https://www.tiktok@rodrigortavares1",
+   "https://instagram.com@rodrigortavares"
+  ],
+  "resumoAtual": "Advogado. Candidato a deputado federal pelo PL, sem candidaturas anteriores registradas no TSE.",
+  "bandeirasAtuais": [],
+  "posicoesExistentes": {},
+  "perguntasFaltando": [
+   "G01",
+   "G02",
+   "G03",
+   "G04",
+   "G05",
+   "G06",
+   "G07",
+   "G08",
+   "G09",
+   "G10",
+   "G11",
+   "G12",
+   "G13",
+   "G14",
+   "DF01",
+   "DF02",
+   "DF03",
+   "DF04",
+   "DF05",
+   "DF06"
+  ]
+ },
+ {
+  "id": 130002547929,
+  "cargo": "Deputado Federal",
+  "nomeUrna": "ULISSES GUIMARÃES",
+  "nomeCompleto": "ULISSES SUAID PORTO GUIMARÃES BORGES",
+  "numero": 1522,
+  "partido": "MDB",
+  "ocupacao": "Veterinário",
+  "anteriores": [
+   {
+    "ano": 2024,
+    "cargo": "Prefeito",
+    "local": "POÇOS DE CALDAS",
+    "partido": "MDB",
+    "resultado": "Não eleito"
+   },
+   {
+    "ano": 2022,
+    "cargo": "Deputado Federal",
+    "local": "MINAS GERAIS",
+    "partido": "MDB",
+    "resultado": "Suplente"
+   },
+   {
+    "ano": 2018,
+    "cargo": "Deputado Estadual",
+    "local": "MINAS GERAIS",
+    "partido": "PTB",
+    "resultado": "Suplente"
+   },
+   {
+    "ano": 2016,
+    "cargo": "Prefeito",
+    "local": "CALDAS",
+    "partido": "PTB",
+    "resultado": "Eleito"
+   }
+  ],
+  "sites": [
+   "HTTPS://WWW.FACEBOOK.COM/ULISSESBORGESGUIMARAES/?LOCALE=PT_BR",
+   "HTTPS://WWW.INSTAGRAM.COM/ULISSESGUIMARAESBORGES/",
+   "HTTPS://ULISSESGUIMARAES.COM.BR/"
+  ],
+  "resumoAtual": "Médico veterinário e produtor rural de Poços de Caldas, foi prefeito de Caldas (2017 a 2020) e deputado federal como suplente em 2024. Candidato pelo MDB.",
+  "bandeirasAtuais": [
+   "Agro e pequeno produtor rural",
+   "Saúde e Santas Casas",
+   "Fé, família e valores"
+  ],
+  "posicoesExistentes": {},
+  "perguntasFaltando": [
+   "G01",
+   "G02",
+   "G03",
+   "G04",
+   "G05",
+   "G06",
+   "G07",
+   "G08",
+   "G09",
+   "G10",
+   "G11",
+   "G12",
+   "G13",
+   "G14",
+   "DF01",
+   "DF02",
+   "DF03",
+   "DF04",
+   "DF05",
+   "DF06"
+  ]
+ },
+ {
+  "id": 130002547840,
+  "cargo": "Deputado Federal",
+  "nomeUrna": "CHARLLES EVANGELISTA",
+  "nomeCompleto": "CHARLLES THOMACELLI EVANGELISTA",
+  "numero": 2290,
+  "partido": "PL",
+  "ocupacao": "Servidor Público Estadual",
+  "anteriores": [
+   {
+    "ano": 2024,
+    "cargo": "Prefeito",
+    "local": "JUIZ DE FORA",
+    "partido": "PL",
+    "resultado": "Não eleito"
+   },
+   {
+    "ano": 2022,
+    "cargo": "Deputado Federal",
+    "local": "MINAS GERAIS",
+    "partido": "PP",
+    "resultado": "Suplente"
+   },
+   {
+    "ano": 2018,
+    "cargo": "Deputado Federal",
+    "local": "MINAS GERAIS",
+    "partido": "PSL",
+    "resultado": "Eleito por QP"
+   },
+   {
+    "ano": 2016,
+    "cargo": "Vereador",
+    "local": "JUIZ DE FORA",
+    "partido": "PP",
+    "resultado": "Eleito por QP"
+   }
+  ],
+  "sites": [
+   "https://INSTAGRAM:  @CHARLLES.EVANGELISTA"
+  ],
+  "resumoAtual": "Servidor estadual, foi vereador de Juiz de Fora e deputado federal (2019 a 2023). Disputou a prefeitura de Juiz de Fora em 2024 pelo PL.",
+  "bandeirasAtuais": [],
+  "posicoesExistentes": {
+   "G03": {
+    "v": 4,
+    "conf": "voto",
+    "nota": "Votou a favor da privatização da Eletrobras (MP 1.031, 19/05/2021) e dos Correios (PL 591/2021, 05/08/2021)."
+   },
+   "G04": {
+    "v": 5,
+    "conf": "voto",
+    "nota": "Votou a favor do PL 3.723/2019, que ampliava posse e porte para CACs (05/11/2019), e é autor do PL 3.746/2021, que isenta armas de IPI."
+   },
+   "DF02": {
+    "v": 4,
+    "conf": "voto",
+    "nota": "Votou pela admissibilidade da PEC 3/2021 (PEC da Imunidade), que ampliava proteções de parlamentares contra prisões, em 24/02/2021."
+   },
+   "DF04": {
+    "v": 4,
+    "conf": "voto",
+    "nota": "Votou a favor do texto-base da Lei Geral do Licenciamento Ambiental (PL 3.729/2004) na Câmara em 13/05/2021."
+   },
+   "G02": {
+    "v": 4,
+    "conf": "voto",
+    "nota": "Votou a favor da PEC 15/2022, que ampliou temporariamente o Auxílio Brasil para R$ 600, em 13/07/2022."
+   }
+  },
+  "perguntasFaltando": [
+   "G01",
+   "G05",
+   "G06",
+   "G07",
+   "G08",
+   "G09",
+   "G10",
+   "G11",
+   "G12",
+   "G13",
+   "G14",
+   "DF01",
+   "DF03",
+   "DF05",
+   "DF06"
+  ]
+ },
+ {
+  "id": 130002533243,
+  "cargo": "Deputado Federal",
+  "nomeUrna": "PEDRO BRAGA",
+  "nomeCompleto": "PEDRO HENRIQUE SOARES BRAGA",
+  "numero": 7777,
+  "partido": "SOLIDARIEDADE",
+  "ocupacao": "Empresário",
+  "anteriores": [
+   {
+    "ano": 2024,
+    "cargo": "Prefeito",
+    "local": "BURITIZEIRO",
+    "partido": "PSD",
+    "resultado": "Eleito"
+   },
+   {
+    "ano": 2020,
+    "cargo": "Prefeito",
+    "local": "BURITIZEIRO",
+    "partido": "PSD",
+    "resultado": "Eleito"
+   }
+  ],
+  "sites": [
+   "https://www.youtube.com/@pedrobragamg",
+   "https://WWW.PEDROBRAGAOFICIAL.COM.BR",
+   "https://www.instagram.com/pedrobragamg/",
+   "https://www.tiktok.com/@pedrobragamg",
+   "https://pedrobragaoficial.com.br/",
+   "https://www.facebook.com/pedrobragamg/",
+   "https://@PEDROBRAGAMG"
+  ],
+  "resumoAtual": "Empresário, foi prefeito de Buritizeiro por dois mandatos (eleito em 2020 e reeleito em 2024). Candidato a deputado federal pelo Solidariedade.",
+  "bandeirasAtuais": [
+   "Desenvolvimento do Norte de Minas",
+   "Educação em tempo integral",
+   "Investimentos e oportunidades para a região"
+  ],
+  "posicoesExistentes": {},
+  "perguntasFaltando": [
+   "G01",
+   "G02",
+   "G03",
+   "G04",
+   "G05",
+   "G06",
+   "G07",
+   "G08",
+   "G09",
+   "G10",
+   "G11",
+   "G12",
+   "G13",
+   "G14",
+   "DF01",
+   "DF02",
+   "DF03",
+   "DF04",
+   "DF05",
+   "DF06"
+  ]
+ },
+ {
+  "id": 130002535285,
+  "cargo": "Deputado Federal",
+  "nomeUrna": "PEDRO ROUSSEFF",
+  "nomeCompleto": "PEDRO FARAH ROUSSEFF",
+  "numero": 1300,
+  "partido": "PT",
+  "ocupacao": "Vereador",
+  "anteriores": [
+   {
+    "ano": 2024,
+    "cargo": "Vereador",
+    "local": "BELO HORIZONTE",
+    "partido": "PT",
+    "resultado": "Eleito por QP"
+   }
+  ],
+  "sites": [
+   "https://x.com/pedrorousseff",
+   "https://bsky.app/profile/pedrorousseff13000.bsky.social",
+   "HTTPS://WWW.FACEBOOK.COM/PEDROROUSSEFFMG",
+   "HTTPS://PEDROROUSSEFF.COM.BR/",
+   "https://www.youtube.com/@pedrorousseff",
+   "https://www.threads.com/@pedrorousseff",
+   "HTTPS://WWW.TIKTOK.COM/@PEDROROUSSEFF",
+   "HTTPS://WWW.INSTAGRAM.COM/PEDROROUSSEFF",
+   "HTTPS://PEDROROUSSEFF.COM/",
+   "https://k.kwai.com/u/@pedrorousseff/IerCxAs0"
+  ],
+  "resumoAtual": "Administrador, vereador de Belo Horizonte pelo PT desde 2025; é sobrinho-neto da ex-presidente Dilma Rousseff.",
+  "bandeirasAtuais": [],
+  "posicoesExistentes": {
+   "G08": {
+    "v": 2,
+    "conf": "declaracao",
+    "nota": "Autor do PL 21/2025 na Câmara de BH, que veda nomear no município condenados por golpe de Estado e abolição violenta do Estado de Direito."
+   },
+   "G09": {
+    "v": 2,
+    "conf": "declaracao",
+    "nota": "Autor da Moção 152/2025, de apoio ao ministro Alexandre de Moraes pela prisão domiciliar de Jair Bolsonaro (rejeitada)."
+   },
+   "DF04": {
+    "v": 2,
+    "conf": "declaracao",
+    "nota": "Coautor da Moção 141/2025, que pedia ao presidente Lula o veto integral ao PL 2.159/2021 (Lei Geral do Licenciamento Ambiental)."
+   }
+  },
+  "perguntasFaltando": [
+   "G01",
+   "G02",
+   "G03",
+   "G04",
+   "G05",
+   "G06",
+   "G07",
+   "G10",
+   "G11",
+   "G12",
+   "G13",
+   "G14",
+   "DF01",
+   "DF02",
+   "DF03",
+   "DF05",
+   "DF06"
+  ]
+ },
+ {
+  "id": 130002533244,
+  "cargo": "Deputado Federal",
+  "nomeUrna": "SÉRGIO SANTOS RODRIGUES",
+  "nomeCompleto": "SERGIO AUGUSTO SANTOS RODRIGUES",
+  "numero": 2525,
+  "partido": "PRD",
+  "ocupacao": "Advogado",
+  "anteriores": [
+   {
+    "ano": 2022,
+    "cargo": "Deputado Federal",
+    "local": "MINAS GERAIS",
+    "partido": "PODE",
+    "resultado": "Suplente"
+   },
+   {
+    "ano": 2008,
+    "cargo": "Vereador",
+    "local": "BELO HORIZONTE",
+    "partido": "PV",
+    "resultado": "Suplente"
+   }
+  ],
+  "sites": [
+   "https://www.facebook.com/share/1DEcg1QcHk/?mibextid=wwXIfr",
+   "https://sergiosantosrodrigues.com.br/",
+   "https://@ASSESSORIASERGIOSANTOS",
+   "https://x.com/SergioSRoficial",
+   "https://www.instagram.com/sergio.santosrodrigues?igsh=cTgzbGtzejd3eWdt&utm_source=q",
+   "https://@SERGIO.SANTOSRODRIGUES",
+   "https://br.linkedin.com/in/s%C3%A9rgio-santos-rodrigues-12a49216a?utm_source=share&utm_medium=member_mweb&utm_campaign=share_via&utm_content=profile"
+  ],
+  "resumoAtual": "Advogado especializado em direito esportivo, presidiu o Cruzeiro (2020 a 2023) e exerceu mandato de deputado federal como suplente de novembro de 2025 a março de 2026. Candidato pelo PRD.",
+  "bandeirasAtuais": [
+   "Gestão responsável e transparência",
+   "Esporte"
+  ],
+  "posicoesExistentes": {
+   "G08": {
+    "v": 4,
+    "conf": "voto",
+    "nota": "Votou a favor do substitutivo do PL 2.162/2023 (PL da Dosimetria), que reduz penas de condenados pelo 8 de janeiro, em 10/12/2025."
+   }
+  },
+  "perguntasFaltando": [
+   "G01",
+   "G02",
+   "G03",
+   "G04",
+   "G05",
+   "G06",
+   "G07",
+   "G09",
+   "G10",
+   "G11",
+   "G12",
+   "G13",
+   "G14",
+   "DF01",
+   "DF02",
+   "DF03",
+   "DF04",
+   "DF05",
+   "DF06"
+  ]
+ },
+ {
+  "id": 130002538968,
+  "cargo": "Deputado Federal",
+  "nomeUrna": "SÁVIO SOUZA CRUZ",
+  "nomeCompleto": "LUIZ SAVIO DE SOUZA CRUZ",
+  "numero": 1890,
+  "partido": "REDE",
+  "ocupacao": "Engenheiro",
+  "anteriores": [
+   {
+    "ano": 2018,
+    "cargo": "Deputado Estadual",
+    "local": "MINAS GERAIS",
+    "partido": "MDB",
+    "resultado": "Eleito por QP"
+   },
+   {
+    "ano": 2014,
+    "cargo": "Deputado Estadual",
+    "local": "MINAS GERAIS",
+    "partido": "PMDB",
+    "resultado": "Eleito por QP"
+   },
+   {
+    "ano": 2010,
+    "cargo": "Deputado Estadual",
+    "local": "MINAS GERAIS",
+    "partido": "PMDB",
+    "resultado": "Eleito"
+   },
+   {
+    "ano": 2006,
+    "cargo": "Deputado Estadual",
+    "local": "MINAS GERAIS",
+    "partido": "PMDB",
+    "resultado": "Eleito"
+   }
+  ],
+  "sites": [
+   "HTTPS://WWW.SAVIOSOUZACRUZ.COM.BR/?UTM_SOURCE=IG&UTM_MEDIUM=SOCIAL&UTM_CONTENT=L",
+   "HTTPS://WWW.INSTAGRAM.COM/SAVIOSOUZACRUZ/",
+   "HTTPS://WWW.THREADS.COM/@SAVIOSOUZACRUZ?XMT=AQG0ERDFX_KGCSVWFQDXVC4ZJDAUSDAMELBD"
+  ],
+  "resumoAtual": "Engenheiro e professor, foi vereador e presidente da Câmara de BH, deputado estadual por seis mandatos (1999 a 2023) e secretário estadual de Saúde e de Meio Ambiente. Candidato pela Rede.",
+  "bandeirasAtuais": [
+   "Saúde pública e saúde mental",
+   "Valorização do servidor público",
+   "Fiscalização do orçamento"
+  ],
+  "posicoesExistentes": {
+   "G07": {
+    "v": 4,
+    "conf": "declaracao",
+    "nota": "Propostas de campanha defendem monitoramento de barragens com fiscalização técnica independente, e não autodeclaração das empresas."
+   },
+   "DF04": {
+    "v": 3,
+    "conf": "declaracao",
+    "nota": "Propostas de campanha defendem um licenciamento ambiental que analise de verdade, 'nem frouxo nem paralisado'."
+   }
+  },
+  "perguntasFaltando": [
+   "G01",
+   "G02",
+   "G03",
+   "G04",
+   "G05",
+   "G06",
+   "G08",
+   "G09",
+   "G10",
+   "G11",
+   "G12",
+   "G13",
+   "G14",
+   "DF01",
+   "DF02",
+   "DF03",
+   "DF05",
+   "DF06"
+  ]
+ },
+ {
+  "id": 130002542000,
+  "cargo": "Deputado Federal",
+  "nomeUrna": "IGOR SANTOS",
+  "nomeCompleto": "IGOR PEREIRA DOS SANTOS",
+  "numero": 2227,
+  "partido": "PL",
+  "ocupacao": "Relações-Públicas",
+  "anteriores": [
+   {
+    "ano": 2024,
+    "cargo": "Prefeito",
+    "local": "PARACATU",
+    "partido": "UNIÃO",
+    "resultado": "Eleito"
+   },
+   {
+    "ano": 2020,
+    "cargo": "Prefeito",
+    "local": "PARACATU",
+    "partido": "DEM",
+    "resultado": "Eleito"
+   }
+  ],
+  "sites": [
+   "https://TIKTOK.COM/@IGORSANTOSPARACATU",
+   "https://FACEBOOK.COM/IGORSANTOS.PTU",
+   "https://INSTAGRAM.COM/IGORSANTOSPARACATU"
+  ],
+  "resumoAtual": "Relações-públicas, foi prefeito de Paracatu (eleito em 2020 e reeleito em 2024). Candidato a deputado federal pelo PL.",
+  "bandeirasAtuais": [],
+  "posicoesExistentes": {},
+  "perguntasFaltando": [
+   "G01",
+   "G02",
+   "G03",
+   "G04",
+   "G05",
+   "G06",
+   "G07",
+   "G08",
+   "G09",
+   "G10",
+   "G11",
+   "G12",
+   "G13",
+   "G14",
+   "DF01",
+   "DF02",
+   "DF03",
+   "DF04",
+   "DF05",
+   "DF06"
+  ]
+ },
+ {
+  "id": 130002542044,
+  "cargo": "Deputado Federal",
+  "nomeUrna": "DR. MARCOS VINICIUS",
+  "nomeCompleto": "MARCOS VINICIUS DA SILVA BIZARRO",
+  "numero": 2260,
+  "partido": "PL",
+  "ocupacao": "Médico",
+  "anteriores": [
+   {
+    "ano": 2020,
+    "cargo": "Prefeito",
+    "local": "CORONEL FABRICIANO",
+    "partido": "PSDB",
+    "resultado": "Eleito"
+   },
+   {
+    "ano": 2016,
+    "cargo": "Prefeito",
+    "local": "CORONEL FABRICIANO",
+    "partido": "PSDB",
+    "resultado": "Eleito"
+   },
+   {
+    "ano": 2008,
+    "cargo": "Vereador",
+    "local": "CORONEL FABRICIANO",
+    "partido": "PSDB",
+    "resultado": "Não eleito"
+   }
+  ],
+  "sites": [
+   "HTTPS://WWW.INSTAGRAM.COM/DRMARCOSOFICIAL/",
+   "https://www.instagram.com/drmarcosoficial/",
+   "https://facebook.com/drmarcosoficial",
+   "https://www.tiktok.com/@drmarcosoficial",
+   "https://www.facebook.com/drmarcosoficial?mibextid=wwXIfr&mibextid=wwXIfr",
+   "https://youtube.com/@drmarcosoficial"
+  ],
+  "resumoAtual": "Médico geriatra, foi prefeito de Coronel Fabriciano (2017 a 2024) e presidente da Associação Mineira de Municípios. Candidato a deputado federal pelo PL.",
+  "bandeirasAtuais": [],
+  "posicoesExistentes": {},
+  "perguntasFaltando": [
+   "G01",
+   "G02",
+   "G03",
+   "G04",
+   "G05",
+   "G06",
+   "G07",
+   "G08",
+   "G09",
+   "G10",
+   "G11",
+   "G12",
+   "G13",
+   "G14",
+   "DF01",
+   "DF02",
+   "DF03",
+   "DF04",
+   "DF05",
+   "DF06"
+  ]
+ },
+ {
+  "id": 130002542012,
+  "cargo": "Deputado Federal",
+  "nomeUrna": "GLAUCIA SANTIAGO",
+  "nomeCompleto": "GLAUCIA MARIA SANTIAGO RODRIGUES",
+  "numero": 2230,
+  "partido": "PL",
+  "ocupacao": "Servidor Público Civil Aposentado",
+  "anteriores": [
+   {
+    "ano": 2022,
+    "cargo": "Deputado Federal",
+    "local": "MINAS GERAIS",
+    "partido": "PL",
+    "resultado": "Suplente"
+   },
+   {
+    "ano": 2020,
+    "cargo": "Vice-prefeito",
+    "local": "ITAÚNA",
+    "partido": "PL",
+    "resultado": "Eleito"
+   },
+   {
+    "ano": 2016,
+    "cargo": "Vereador",
+    "local": "ITAÚNA",
+    "partido": "PSB",
+    "resultado": "Eleito por QP"
+   },
+   {
+    "ano": 2008,
+    "cargo": "Prefeito",
+    "local": "ITAÚNA",
+    "partido": "PTB",
+    "resultado": "Não eleito"
+   }
+  ],
+  "sites": [
+   "HTTPS://WWW.INSTAGRAM.COM/GLAUCIASANTIAGOMG/",
+   "https://www.instagram.com/glauciasantiagomg/",
+   "https://www.instagram.com/glaucia.santiago.7/",
+   "https://glauciasantiago2230.com.br/",
+   "https://www.facebook.com/glauciasantiagoitauna/"
+  ],
+  "resumoAtual": "Pedagoga de Itaúna, foi vereadora por três mandatos, vice-prefeita e deputada federal como suplente (julho a novembro de 2024). Candidata pelo PL.",
+  "bandeirasAtuais": [
+   "Saúde no Centro-Oeste de Minas",
+   "Vida e família",
+   "Redução de impostos"
+  ],
+  "posicoesExistentes": {
+   "G01": {
+    "v": 4,
+    "conf": "declaracao",
+    "nota": "Site de campanha lista a redução de impostos entre as bandeiras que defende."
+   }
+  },
+  "perguntasFaltando": [
+   "G02",
+   "G03",
+   "G04",
+   "G05",
+   "G06",
+   "G07",
+   "G08",
+   "G09",
+   "G10",
+   "G11",
+   "G12",
+   "G13",
+   "G14",
+   "DF01",
+   "DF02",
+   "DF03",
+   "DF04",
+   "DF05",
+   "DF06"
+  ]
+ },
+ {
+  "id": 130002542006,
+  "cargo": "Deputado Federal",
+  "nomeUrna": "FABIANO CAZECA",
+  "nomeCompleto": "FABIANO LOPES FERREIRA CAZECA",
+  "numero": 2236,
+  "partido": "PL",
+  "ocupacao": "Diretor de Empresas",
+  "anteriores": [
+   {
+    "ano": 2022,
+    "cargo": "Deputado Federal",
+    "local": "MINAS GERAIS",
+    "partido": "PATRIOTA",
+    "resultado": "Suplente"
+   },
+   {
+    "ano": 2020,
+    "cargo": "Prefeito",
+    "local": "BELO HORIZONTE",
+    "partido": "PROS",
+    "resultado": "Não eleito"
+   },
+   {
+    "ano": 2018,
+    "cargo": "Deputado Federal",
+    "local": "MINAS GERAIS",
+    "partido": "PROS",
+    "resultado": "Suplente"
+   }
+  ],
+  "sites": [
+   "https://FACEBOOK.COM/FABIANOCAZECA",
+   "https://INSTAGRAM.COM/FABIANOCAZECA"
+  ],
+  "resumoAtual": "Empresário, disputou a prefeitura de BH em 2020 e exerceu mandato de deputado federal como suplente de outubro de 2025 a fevereiro de 2026. Candidato pelo PL.",
+  "bandeirasAtuais": [],
+  "posicoesExistentes": {
+   "G05": {
+    "v": 2,
+    "conf": "voto",
+    "nota": "Votou a favor do PDL 3/2025, que sustou resolução do Conanda sobre atendimento a vítimas de violência sexual, incluindo aborto legal (05/11/2025)."
+   },
+   "G08": {
+    "v": 4,
+    "conf": "voto",
+    "nota": "Votou a favor do substitutivo do PL 2.162/2023 (PL da Dosimetria), que reduz penas de condenados pelo 8 de janeiro, em 10/12/2025."
+   }
+  },
+  "perguntasFaltando": [
+   "G01",
+   "G02",
+   "G03",
+   "G04",
+   "G06",
+   "G07",
+   "G09",
+   "G10",
+   "G11",
+   "G12",
+   "G13",
+   "G14",
+   "DF01",
+   "DF02",
+   "DF03",
+   "DF04",
+   "DF05",
+   "DF06"
+  ]
+ },
+ {
+  "id": 130002543720,
+  "cargo": "Deputado Federal",
+  "nomeUrna": "RENATO ANDRADE",
+  "nomeCompleto": "RENATO BARBOSA DE ANDRADE",
+  "numero": 4000,
+  "partido": "PSB",
+  "ocupacao": "Empresário",
+  "anteriores": [
+   {
+    "ano": 2022,
+    "cargo": "Deputado Federal",
+    "local": "MINAS GERAIS",
+    "partido": "PSD",
+    "resultado": "Suplente"
+   },
+   {
+    "ano": 2018,
+    "cargo": "Deputado Federal",
+    "local": "MINAS GERAIS",
+    "partido": "PP",
+    "resultado": "Suplente"
+   },
+   {
+    "ano": 2014,
+    "cargo": "Deputado Federal",
+    "local": "MINAS GERAIS",
+    "partido": "PP",
+    "resultado": "Suplente"
+   },
+   {
+    "ano": 2010,
+    "cargo": "Deputado Federal",
+    "local": "MINAS GERAIS",
+    "partido": "PP",
+    "resultado": "Suplente"
+   }
+  ],
+  "sites": [
+   "https://@RENATOANDRADEMG"
+  ],
+  "resumoAtual": "Empresário, exerceu mandato de deputado federal como suplente em 2013 e 2014 e de 2017 a 2019, pelo PP. Candidato pelo PSB.",
+  "bandeirasAtuais": [],
+  "posicoesExistentes": {
+   "DF05": {
+    "v": 2,
+    "conf": "voto",
+    "nota": "Votou a favor da urgência do PL 8.703/2017, que criou o fundo eleitoral de financiamento de campanhas, em 03/10/2017."
+   }
+  },
+  "perguntasFaltando": [
+   "G01",
+   "G02",
+   "G03",
+   "G04",
+   "G05",
+   "G06",
+   "G07",
+   "G08",
+   "G09",
+   "G10",
+   "G11",
+   "G12",
+   "G13",
+   "G14",
+   "DF01",
+   "DF02",
+   "DF03",
+   "DF04",
+   "DF06"
+  ]
+ },
+ {
+  "id": 130002542723,
+  "cargo": "Deputado Federal",
+  "nomeUrna": "DELEGADA LIA VALECHI",
+  "nomeCompleto": "LIA EUNICE VALECHI DA SILVA",
+  "numero": 4440,
+  "partido": "UNIÃO",
+  "ocupacao": "Policial Civil",
+  "anteriores": [
+   {
+    "ano": 2024,
+    "cargo": "Vereador",
+    "local": "UBERLÂNDIA",
+    "partido": "UNIÃO",
+    "resultado": "Eleito por média"
+   }
+  ],
+  "sites": [
+   "https://@DELEGADALIAVALECHI - TIKTOK",
+   "https://@DELEGADALIA - YOU TUBE",
+   "https://@DELEGADALIAVALECHI - INSTAGRAM",
+   "https://WWW.DELEGADALIAVALECHI.COM.BR",
+   "https://@DELEGADA LIA VALECHI - FACEBOOK",
+   "https://www.delegadaliavalechi.com.br/"
+  ],
+  "resumoAtual": "Delegada da Polícia Civil e ex-policial militar, chefiou a delegacia de mulheres de Uberlândia e é vereadora da cidade pelo União desde 2025.",
+  "bandeirasAtuais": [
+   "Enfrentamento à violência contra a mulher",
+   "Segurança pública",
+   "Proteção à infância"
+  ],
+  "posicoesExistentes": {},
+  "perguntasFaltando": [
+   "G01",
+   "G02",
+   "G03",
+   "G04",
+   "G05",
+   "G06",
+   "G07",
+   "G08",
+   "G09",
+   "G10",
+   "G11",
+   "G12",
+   "G13",
+   "G14",
+   "DF01",
+   "DF02",
+   "DF03",
+   "DF04",
+   "DF05",
+   "DF06"
+  ]
+ },
+ {
+  "id": 130002544821,
+  "cargo": "Deputado Federal",
+  "nomeUrna": "MUCIDA",
+  "nomeCompleto": "BERNARDO MUCIDA OLIVEIRA",
+  "numero": 7090,
+  "partido": "AVANTE",
+  "ocupacao": "Advogado",
+  "anteriores": [
+   {
+    "ano": 2022,
+    "cargo": "Deputado Estadual",
+    "local": "MINAS GERAIS",
+    "partido": "PSB",
+    "resultado": "Suplente"
+   },
+   {
+    "ano": 2018,
+    "cargo": "Deputado Estadual",
+    "local": "MINAS GERAIS",
+    "partido": "PSB",
+    "resultado": "Concorrendo"
+   },
+   {
+    "ano": 2018,
+    "cargo": "Deputado Estadual",
+    "local": "MINAS GERAIS",
+    "partido": "PSB",
+    "resultado": "Suplente"
+   },
+   {
+    "ano": 2016,
+    "cargo": "Prefeito",
+    "local": "ITABIRA",
+    "partido": "PSB",
+    "resultado": "Não eleito"
+   }
+  ],
+  "sites": [
+   "HTTPS://WWW.FACEBOOK.COM/BERNARDOMUCIDA",
+   "HTTPS://WWW.TIKTOK.COM/@BERNARDOMUCIDA",
+   "HTTPS://WWW.INSTAGRAM.COM/BERNARDOMUCIDA",
+   "HTTPS://WWW.YOUTUBE.COM/@BERNARDOMUCIDA"
+  ],
+  "resumoAtual": "Advogado e cientista político de Itabira, foi vereador (2013 a 2016) e deputado estadual como suplente (2021 a 2023) pelo PSB. Candidato pelo Avante.",
+  "bandeirasAtuais": [],
+  "posicoesExistentes": {},
+  "perguntasFaltando": [
+   "G01",
+   "G02",
+   "G03",
+   "G04",
+   "G05",
+   "G06",
+   "G07",
+   "G08",
+   "G09",
+   "G10",
+   "G11",
+   "G12",
+   "G13",
+   "G14",
+   "DF01",
+   "DF02",
+   "DF03",
+   "DF04",
+   "DF05",
+   "DF06"
+  ]
+ },
+ {
+  "id": 130002541999,
+  "cargo": "Deputado Federal",
+  "nomeUrna": "ANDRE COSTA",
+  "nomeCompleto": "ANDRE NUNES COSTA",
+  "numero": 2278,
+  "partido": "PL",
+  "ocupacao": "Produtor Agropecuário",
+  "anteriores": [],
+  "sites": [
+   "HTTPS://WWW.INSTAGRAM.COM/ANDRENUNESCOSTA/"
+  ],
+  "resumoAtual": "Produtor agropecuário. Candidato a deputado federal pelo PL, sem candidaturas anteriores registradas no TSE.",
+  "bandeirasAtuais": [],
+  "posicoesExistentes": {},
+  "perguntasFaltando": [
+   "G01",
+   "G02",
+   "G03",
+   "G04",
+   "G05",
+   "G06",
+   "G07",
+   "G08",
+   "G09",
+   "G10",
+   "G11",
+   "G12",
+   "G13",
+   "G14",
+   "DF01",
+   "DF02",
+   "DF03",
+   "DF04",
+   "DF05",
+   "DF06"
+  ]
+ },
+ {
+  "id": 130002543706,
+  "cargo": "Deputado Federal",
+  "nomeUrna": "PEDRO GAMA",
+  "nomeCompleto": "PEDRO RENO GAMA",
+  "numero": 4030,
+  "partido": "PSB",
+  "ocupacao": "Advogado",
+  "anteriores": [
+   {
+    "ano": 2024,
+    "cargo": "Prefeito",
+    "local": "ITAJUBÁ",
+    "partido": "PV",
+    "resultado": "Não eleito"
+   },
+   {
+    "ano": 2020,
+    "cargo": "Vereador",
+    "local": "ITAJUBÁ",
+    "partido": "PV",
+    "resultado": "Eleito por média"
+   }
+  ],
+  "sites": [
+   "https://@PEDROGAMAITAJUBA"
+  ],
+  "resumoAtual": "Advogado, foi vereador de Itajubá (2021 a 2024) e candidato a prefeito da cidade em 2024. Candidato a deputado federal pelo PSB.",
+  "bandeirasAtuais": [],
+  "posicoesExistentes": {},
+  "perguntasFaltando": [
+   "G01",
+   "G02",
+   "G03",
+   "G04",
+   "G05",
+   "G06",
+   "G07",
+   "G08",
+   "G09",
+   "G10",
+   "G11",
+   "G12",
+   "G13",
+   "G14",
+   "DF01",
+   "DF02",
+   "DF03",
+   "DF04",
+   "DF05",
+   "DF06"
+  ]
+ }
+]

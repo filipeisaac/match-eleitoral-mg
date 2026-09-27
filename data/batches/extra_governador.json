@@ -1,0 +1,1229 @@
+[
+ {
+  "id": 130002539775,
+  "cargo": "Governador",
+  "nomeUrna": "ALEXANDRE KALIL",
+  "nomeCompleto": "ALEXANDRE KALIL",
+  "numero": 12,
+  "partido": "PDT",
+  "ocupacao": "Outros",
+  "anteriores": [
+   {
+    "ano": 2022,
+    "cargo": "Governador",
+    "local": "MINAS GERAIS",
+    "partido": "PSD",
+    "resultado": "Não eleito"
+   },
+   {
+    "ano": 2020,
+    "cargo": "Prefeito",
+    "local": "BELO HORIZONTE",
+    "partido": "PSD",
+    "resultado": "Eleito"
+   },
+   {
+    "ano": 2016,
+    "cargo": "Prefeito",
+    "local": "BELO HORIZONTE",
+    "partido": "PHS",
+    "resultado": "2º turno"
+   },
+   {
+    "ano": 2014,
+    "cargo": "Deputado Federal",
+    "local": "MINAS GERAIS",
+    "partido": "PSB",
+    "resultado": "Não eleito"
+   }
+  ],
+  "sites": [
+   "https://www.tiktok.com/@alexandrekaliloficial",
+   "https://www.kalilmg.com.br",
+   "https://www.twibbonize.com/timekalil?utm_source=ig&utm_medium=social&utm_content=link_in_bio",
+   "https://www.youtube.com/@alexandrekalil3080/featured",
+   "https://k.kwai.com/u/@alexandre.kalil/Pt5mA8CV",
+   "https://chat.whatsapp.com/Hg76EUcgXo35Rs6Qknqu6l",
+   "https://chat.whatsapp.com/LhOHhAG52fi5zn6hBtlIiD",
+   "https://www.facebook.com/AlexandreKaliloficial",
+   "https://www.threads.com/@alexandrekaliloficial",
+   "https://www.kalil12.com.br",
+   "https://x.com/alexandrekalil",
+   "https://www.instagram.com/alexandrekaliloficial",
+   "https://linktr.ee/alexandre.kalil",
+   "https://www.flickr.com/photos/204785450@N08/"
+  ],
+  "resumoAtual": "Ex-prefeito de Belo Horizonte (2017 a 2022) e ex-presidente do Atlético-MG. Disputou o governo de Minas em 2022 e concorre de novo em 2026 pelo PDT, com Carlos Mosconi (PSDB) de vice.",
+  "bandeirasAtuais": [
+   "Saúde pública",
+   "Negociação da dívida de Minas com a União (Propag)",
+   "Estrutura das polícias e segurança pública"
+  ],
+  "posicoesExistentes": {
+   "GV02": {
+    "v": 4,
+    "conf": "declaracao",
+    "nota": "Plano (TSE 2026) prevê universalizar câmeras corporais aos poucos; em 09/2026 disse que antes a PM precisa de gasolina, armas e treino."
+   },
+   "GV03": {
+    "v": 3,
+    "conf": "declaracao",
+    "nota": "Plano de governo (TSE 2026): licenciamento com 'rigor técnico, previsibilidade e prazo'; fiscalização presencial contínua de barragens."
+   },
+   "GV05": {
+    "v": 2,
+    "conf": "declaracao",
+    "nota": "Em 27/08/2026 chamou de 'aberração' as isenções de ICMS dadas a setores econômicos; plano prevê reavaliar incentivos periodicamente."
+   },
+   "G01": {
+    "v": 2,
+    "conf": "declaracao",
+    "nota": "Em 10/09/2026 propôs retirar de 30% a 50% das isenções de ICMS de grandes empresas para reinvestir em saúde."
+   },
+   "G03": {
+    "v": 2,
+    "conf": "declaracao",
+    "nota": "Em 10/07/2025 disse 'vamos privatizar, sim, mas o que dá prejuízo'; rejeita vender estatais lucrativas como a Cemig."
+   },
+   "G07": {
+    "v": 4,
+    "conf": "declaracao",
+    "nota": "Ao Estado de Minas (12/09/2026) disse que a expansão da mineração deve estar condicionada à segurança das pessoas e à proteção ambiental."
+   },
+   "GV01": {
+    "v": 1,
+    "conf": "declaracao",
+    "nota": "Na sabatina de O Tempo (14/09/2026) respondeu 'contra' à venda de estatais como a Cemig; também critica a privatização da Copasa."
+   },
+   "GV04": {
+    "v": 2,
+    "conf": "declaracao",
+    "nota": "Em 14/09/2026, sobre reajuste da polícia: 'Se tiver o dinheiro, tem que dar reajuste. Se não tiver, não pode dar'."
+   },
+   "GV06": {
+    "v": 1,
+    "conf": "declaracao",
+    "nota": "Em 03/08/2026 chamou o modelo cívico-militar de 'idiota'; ao O Tempo disse que escola 'não é cantar hino nacional e raspar a cabeça'."
+   }
+  },
+  "perguntasFaltando": [
+   "G02",
+   "G04",
+   "G05",
+   "G06",
+   "G08",
+   "G09",
+   "G10",
+   "G11",
+   "G12",
+   "G13",
+   "G14"
+  ]
+ },
+ {
+  "id": 130002544411,
+  "cargo": "Governador",
+  "nomeUrna": "BEN MENDES",
+  "nomeCompleto": "BENONI BENJAMIN CARDOSO MENDES",
+  "numero": 14,
+  "partido": "MISSÃO",
+  "ocupacao": "Advogado",
+  "anteriores": [],
+  "sites": [
+   "https://drbenmendes.com/",
+   "https://www.facebook.com/drbenmendes",
+   "https://www.tiktok.com/@adv.benonimendes",
+   "https://instagram.com/drbenonimendes",
+   "https://queroapoiar.com.br/benmendes"
+  ],
+  "resumoAtual": "Advogado e jornalista, apresenta o quadro 'Ronda do Consumidor', exibido no SBT desde 2024. Disputa sua primeira eleição, para governador pelo Missão, com Cabo David Souza de vice.",
+  "bandeirasAtuais": [
+   "Ferrovias e logística",
+   "Combate ao crime organizado",
+   "Educação básica"
+  ],
+  "posicoesExistentes": {
+   "G03": {
+    "v": 4,
+    "conf": "declaracao",
+    "nota": "Em entrevista ao Café com Política (O Tempo), disse apoiar privatizações e que 'deve privatizar a Copasa'."
+   },
+   "GV03": {
+    "v": 2,
+    "conf": "declaracao",
+    "nota": "Plano (TSE 2026), segundo O Tempo: unificar órgãos ambientais para acelerar licenciamentos e licença sumária de 60 dias em ferrovias."
+   },
+   "GV05": {
+    "v": 4,
+    "conf": "declaracao",
+    "nota": "Plano (TSE 2026), segundo O Tempo: abater até 50% do ICMS de quem investir em ferrovias e dar isenções a quem pavimentar estradas."
+   }
+  },
+  "perguntasFaltando": [
+   "G01",
+   "G02",
+   "G04",
+   "G05",
+   "G06",
+   "G07",
+   "G08",
+   "G09",
+   "G10",
+   "G11",
+   "G12",
+   "G13",
+   "G14",
+   "GV01",
+   "GV02",
+   "GV04",
+   "GV06"
+  ]
+ },
+ {
+  "id": 130002552296,
+  "cargo": "Governador",
+  "nomeUrna": "CLEITINHO AZEVEDO",
+  "nomeCompleto": "CLEITON GONTIJO DE AZEVEDO",
+  "numero": 10,
+  "partido": "REPUBLICANOS",
+  "ocupacao": "Senador",
+  "anteriores": [
+   {
+    "ano": 2022,
+    "cargo": "Senador",
+    "local": "MINAS GERAIS",
+    "partido": "PSC",
+    "resultado": "Eleito"
+   },
+   {
+    "ano": 2018,
+    "cargo": "Deputado Estadual",
+    "local": "MINAS GERAIS",
+    "partido": "PPS",
+    "resultado": "Eleito por QP"
+   },
+   {
+    "ano": 2016,
+    "cargo": "Vereador",
+    "local": "DIVINÓPOLIS",
+    "partido": "PPS",
+    "resultado": "Eleito por média"
+   }
+  ],
+  "sites": [
+   "HTTPS://WWW.YOUTUBE.COM/@CLEITINHOAZEVEDOOFICIAL",
+   "HTTPS://WWW.INSTAGRAM.COM/CLEITINHOAZEVEDO",
+   "HTTPS://X.COM/CLEITINHOTMJ",
+   "HTTPS://WWW.CLEITINHO.COM/",
+   "HTTPS://WWW.TIKTOK.COM/@CLEITINHO.OFICIAL",
+   "HTTPS://WEB.FACEBOOK.COM/CLEITINHOSENADOR",
+   "https://www.instagram.com/cleitinhosenadormg/"
+  ],
+  "resumoAtual": "Senador por Minas desde 2023, ex-deputado estadual (2019 a 2022) e ex-vereador de Divinópolis. Candidato a governador pelo Republicanos.",
+  "bandeirasAtuais": [
+   "Corte de privilégios e de gastos da máquina pública",
+   "Redução de tarifas e tributos (Copasa, energia, IPVA)",
+   "Renegociação da dívida de Minas com a União"
+  ],
+  "posicoesExistentes": {
+   "G05": {
+    "v": 1,
+    "conf": "declaracao",
+    "nota": "Em discurso no Senado (26/09/2023) manifestou-se contra a descriminalização do aborto; reiterou a posição em 18/06/2024."
+   },
+   "G06": {
+    "v": 1,
+    "conf": "voto",
+    "nota": "Votou sim à PEC 45/2023 (criminaliza porte de drogas em qualquer quantidade) em 16/04/2024; criticou o julgamento do STF em 2023 e 2024."
+   },
+   "G07": {
+    "v": 2,
+    "conf": "voto",
+    "nota": "Votou sim ao PL 2159/2021 (nova lei geral do licenciamento ambiental) no Senado em 21/05/2025."
+   },
+   "G08": {
+    "v": 5,
+    "conf": "voto",
+    "nota": "Votou sim ao PL 2162/2023 (redução de penas do 8/1) em 17/12/2025; em discursos de 2023 a 2025 defendeu anistia aos envolvidos."
+   },
+   "G09": {
+    "v": 5,
+    "conf": "voto",
+    "nota": "Votou sim à PEC 8/2021 (limita decisões monocráticas do STF) em 22/11/2023; em 2025 e 2026 defendeu impeachment de ministros do STF."
+   },
+   "G11": {
+    "v": 2,
+    "conf": "voto",
+    "nota": "Registrou voto contrário à renovação da Lei de Cotas (PL 5384/2020) no Senado em 24/10/2023."
+   },
+   "G12": {
+    "v": 4,
+    "conf": "declaracao",
+    "nota": "Em discurso no Senado (04/12/2024) defendeu que jovens de 16 e 17 anos que cometem crimes respondam como adultos."
+   },
+   "G14": {
+    "v": 4,
+    "conf": "declaracao",
+    "nota": "Defende o fim da escala 6x1 sem redução salarial (discursos de 2024 a 2026); propõe compensar o custo das empresas com corte de impostos."
+   },
+   "G01": {
+    "v": 3,
+    "conf": "declaracao",
+    "nota": "Plano de governo (TSE 2026): cortes no orçamento não afetarão serviços essenciais nem programas sociais; em discurso (12/08/2026) defendeu reduzir tributos."
+   },
+   "GV01": {
+    "v": 2,
+    "conf": "declaracao",
+    "nota": "Disse não ter vontade de privatizar a Cemig (ago/2026); em 2025 defendeu referendo sobre a Copasa, que chamou de patrimônio do estado."
+   },
+   "GV02": {
+    "v": 4,
+    "conf": "declaracao",
+    "nota": "Em 17/09/2026 disse que policiais vão usar câmeras corporais; no debate da Band (16/08/2026) havia dito que a polícia não usaria."
+   },
+   "GV03": {
+    "v": 3,
+    "conf": "declaracao",
+    "nota": "Plano de governo (TSE 2026): fiscalização diária de barragens e licenciamento ambiental simplificado, 'sem redução do rigor técnico'."
+   },
+   "GV04": {
+    "v": 4,
+    "conf": "declaracao",
+    "nota": "Plano de governo (TSE 2026): recomposição salarial contínua na segurança pública; cortes de orçamento não atingiriam carreiras de servidores."
+   },
+   "GV05": {
+    "v": 2,
+    "conf": "declaracao",
+    "nota": "Plano de governo (TSE 2026): rever todas as renúncias fiscais e manter só as que comprovem empregos e arrecadação; criticou isenções em debate."
+   }
+  },
+  "perguntasFaltando": [
+   "G02",
+   "G03",
+   "G04",
+   "G10",
+   "G13",
+   "GV06"
+  ]
+ },
+ {
+  "id": 130002550834,
+  "cargo": "Governador",
+  "nomeUrna": "FLÁVIO ROSCOE",
+  "nomeCompleto": "FLAVIO ROSCOE NOGUEIRA",
+  "numero": 22,
+  "partido": "PL",
+  "ocupacao": "Empresário",
+  "anteriores": [],
+  "sites": [
+   "https://www.facebook.com/flavioroscoenogueira/",
+   "https://br.linkedin.com/in/flávio-roscoe-377998300",
+   "https://www.instagram.com/channel/AbaZqg7dbgxxwdhz/",
+   "https://www.instagram.com/ROSCOE.FLAVIO/"
+  ],
+  "resumoAtual": "Empresário e ex-presidente da Fiemg, a federação das indústrias de Minas. Estreia em eleições como candidato do PL ao governo de Minas, com Ellen Miziara (PL) de vice.",
+  "bandeirasAtuais": [
+   "Equilíbrio fiscal e cobrança da CFEM",
+   "Segurança com câmeras de reconhecimento facial",
+   "Ambiente de negócios e tributação"
+  ],
+  "posicoesExistentes": {
+   "G01": {
+    "v": 3,
+    "conf": "declaracao",
+    "nota": "Plano de governo (TSE 2026): reduzir despesa com pessoal ao limite prudencial, sem subir imposto, e usar CFEM cobrada em saúde e segurança."
+   },
+   "G03": {
+    "v": 3,
+    "conf": "declaracao",
+    "nota": "Em 20/08/2026 disse que 'privado ou estatal é discussão ideológica' e que o critério é a eficiência."
+   },
+   "G07": {
+    "v": 2,
+    "conf": "declaracao",
+    "nota": "Ao Estado de Minas (12/09/2026): 'Precisamos parar de demonizar a mineração'; defende licenciamento 'com menos subjetividade'."
+   },
+   "GV03": {
+    "v": 2,
+    "conf": "declaracao",
+    "nota": "Ao Estado de Minas (12/09/2026) defendeu simplificar o licenciamento, alinhando-o à lei federal, e punir quem descumpre a legislação."
+   },
+   "GV01": {
+    "v": 2,
+    "conf": "declaracao",
+    "nota": "Segundo o Investidor10 (20/09/2026), é contra privatizar a Cemig. Defendeu a privatização da Copasa no debate da Band."
+   },
+   "GV02": {
+    "v": 4,
+    "conf": "declaracao",
+    "nota": "Em 30/08/2026 defendeu câmeras corporais: 'É uma proteção para o agente, mas não precisa estar ligada 24 horas'."
+   },
+   "GV04": {
+    "v": 2,
+    "conf": "declaracao",
+    "nota": "Plano de governo (TSE 2026): compromete-se a reduzir a despesa com pessoal de 48,22% para o limite prudencial de 46,55% da RCL."
+   },
+   "GV05": {
+    "v": 4,
+    "conf": "declaracao",
+    "nota": "Plano (TSE 2026): diferimento de ICMS na importação de insumos e regimes especiais; benefício fiscal atrelado a geração de emprego."
+   }
+  },
+  "perguntasFaltando": [
+   "G02",
+   "G04",
+   "G05",
+   "G06",
+   "G08",
+   "G09",
+   "G10",
+   "G11",
+   "G12",
+   "G13",
+   "G14",
+   "GV06"
+  ]
+ },
+ {
+  "id": 130002549557,
+  "cargo": "Governador",
+  "nomeUrna": "GABRIEL",
+  "nomeCompleto": "GABRIEL SOUSA MARQUES DE AZEVEDO",
+  "numero": 15,
+  "partido": "MDB",
+  "ocupacao": "Professor de Ensino Superior",
+  "anteriores": [
+   {
+    "ano": 2024,
+    "cargo": "Prefeito",
+    "local": "BELO HORIZONTE",
+    "partido": "MDB",
+    "resultado": "Não eleito"
+   },
+   {
+    "ano": 2020,
+    "cargo": "Vereador",
+    "local": "BELO HORIZONTE",
+    "partido": "PATRIOTA",
+    "resultado": "Eleito por QP"
+   },
+   {
+    "ano": 2016,
+    "cargo": "Vereador",
+    "local": "BELO HORIZONTE",
+    "partido": "PHS",
+    "resultado": "Eleito por QP"
+   }
+  ],
+  "sites": [
+   "https://gabriel15.com.br/",
+   "https://linktr.ee/gabrielazevedo",
+   "HTTPS://WWW.FACEBOOK.COM/GABRIELAZEVEDO?UTM_SOURCE=IG&UTM_MEDIUM=SOCIAL&UTM_CONT",
+   "HTTPS://X.COM/GSMA1986?FBCLID=PACGRVZGJLEHRUA2FLBQIXMQBZCNRJBMFWCF9PZA85MZY2MTK3",
+   "https://bsky.app/profile/gabrielazevedo.bsky.social",
+   "HTTPS://WWW.THREADS.COM/@GABRIELAZEVEDO?XMT=AQG0DWOJOFHZVOYVGGAOD1YNVIKD_YOUF85W",
+   "HTTPS://GABRIEL15.COM.BR/",
+   "https://gabriel15.com/",
+   "https://central15.live/",
+   "HTTPS://WWW.TIKTOK.COM/@GABRIELAZEVEDO1986",
+   "HTTPS://WWW.INSTAGRAM.COM/GABRIELAZEVEDO/",
+   "https://www.youtube.com/@gabrieldeazevedo",
+   "https://x.com/oGabrielAzevedo",
+   "https://gabriel15.app/"
+  ],
+  "resumoAtual": "Advogado e professor universitário; foi vereador de BH (2017 a 2024), presidente da Câmara Municipal (2023 a 2024) e candidato a prefeito em 2024. Candidato a governador pelo MDB.",
+  "bandeirasAtuais": [
+   "Ferrovias e infraestrutura",
+   "Educação com foco em aprendizagem",
+   "Responsabilidade fiscal e revisão de subsídios"
+  ],
+  "posicoesExistentes": {
+   "GV04": {
+    "v": 2,
+    "conf": "declaracao",
+    "nota": "Em carta de 28/07/2026 não assumiu percentual de reajuste, citando gasto acima do limite prudencial; promete cumprir o piso nacional."
+   },
+   "G03": {
+    "v": 2,
+    "conf": "declaracao",
+    "nota": "Em carta de 28/07/2026 prometeu não privatizar Ipsemg, UEMG e Unimontes, nem Cemig e Copasa sem referendo; aceita concessões de rodovias."
+   },
+   "GV01": {
+    "v": 1,
+    "conf": "declaracao",
+    "nota": "Na Band (16/08/2026) disse ser contra vender Cemig e Copasa; em carta à Faemg (09/2026) escreveu 'Não privatizarei a Cemig'."
+   },
+   "GV02": {
+    "v": 4,
+    "conf": "declaracao",
+    "nota": "Em 09/2026 defendeu que a gravação das câmeras corporais seja 'automática e ininterrupta', com exceções para inteligência e intimidade."
+   },
+   "GV03": {
+    "v": 4,
+    "conf": "declaracao",
+    "nota": "Plano de governo (TSE 2026): auditoria independente e cadastro público de barragens; coordenação de obras sem flexibilizar licenciamento."
+   },
+   "GV05": {
+    "v": 2,
+    "conf": "declaracao",
+    "nota": "Em carta à AMM (12/09/2026) prometeu revisar renúncias de ICMS sem contrapartida, sem 'decisão genérica contra os incentivos'."
+   },
+   "GV06": {
+    "v": 1,
+    "conf": "declaracao",
+    "nota": "Em cartas de 09/2026 disse ser contrário à militarização e que não implantará escolas cívico-militares; manteria os Colégios Tiradentes."
+   }
+  },
+  "perguntasFaltando": [
+   "G01",
+   "G02",
+   "G04",
+   "G05",
+   "G06",
+   "G07",
+   "G08",
+   "G09",
+   "G10",
+   "G11",
+   "G12",
+   "G13",
+   "G14"
+  ]
+ },
+ {
+  "id": 130002552308,
+  "cargo": "Governador",
+  "nomeUrna": "HENRIQUE ÁREAS",
+  "nomeCompleto": "HENRIQUE AREAS DE ARAUJO",
+  "numero": 29,
+  "partido": "PCO",
+  "ocupacao": "Jornalista e Redator",
+  "anteriores": [
+   {
+    "ano": 2020,
+    "cargo": "Vice-prefeito",
+    "local": "SÃO PAULO",
+    "partido": "PCO",
+    "resultado": "Não eleito"
+   },
+   {
+    "ano": 2018,
+    "cargo": "Deputado Federal",
+    "local": "SÃO PAULO",
+    "partido": "PCO",
+    "resultado": "Não eleito"
+   },
+   {
+    "ano": 2016,
+    "cargo": "Prefeito",
+    "local": "SÃO PAULO",
+    "partido": "PCO",
+    "resultado": "Não eleito"
+   }
+  ],
+  "sites": [
+   "https://www.instagram.com/henriqueareasaraujo",
+   "HTTPS://CANDIDATOS.PCO.ORG.BR",
+   "https://x.com/henrique29areas",
+   "https://www.facebook.com/henrique.areasdearaujo"
+  ],
+  "resumoAtual": "Jornalista, candidato do PCO ao governo de Minas. Disputou eleições em São Paulo (prefeito em 2016, deputado federal em 2018). Registro indeferido pela Justiça Eleitoral, com recurso.",
+  "bandeirasAtuais": [
+   "Reposição das perdas salariais",
+   "Redução da jornada para 35 horas semanais",
+   "Cancelamento das privatizações"
+  ],
+  "posicoesExistentes": {
+   "G01": {
+    "v": 1,
+    "conf": "declaracao",
+    "nota": "Plano de governo (TSE 2026): defende o fim do teto de gastos e da LRF, mais verbas para serviços públicos e é contra cortes de gastos."
+   },
+   "G02": {
+    "v": 4,
+    "conf": "declaracao",
+    "nota": "Plano de governo (TSE 2026): propõe Bolsa Família de pelo menos um salário mínimo e auxílio emergencial."
+   },
+   "G03": {
+    "v": 1,
+    "conf": "declaracao",
+    "nota": "Plano de governo (TSE 2026): defende cancelar todas as privatizações e reestatizar as empresas vendidas."
+   },
+   "G04": {
+    "v": 4,
+    "conf": "declaracao",
+    "nota": "Plano de governo (TSE 2026): defende 'direito de autodefesa e armamento' para trabalhadores do campo e indígenas."
+   },
+   "G09": {
+    "v": 5,
+    "conf": "declaracao",
+    "nota": "Plano de governo (TSE 2026): diz que o Judiciário 'atua acima dos demais poderes' e propõe o fim do STF."
+   },
+   "G10": {
+    "v": 2,
+    "conf": "declaracao",
+    "nota": "Plano de governo (TSE 2026): defende 'liberdade irrestrita de expressão' na internet, o fim da censura e a revogação da 'Lei Felca'."
+   },
+   "G14": {
+    "v": 5,
+    "conf": "declaracao",
+    "nota": "Plano de governo (TSE 2026): propõe jornada máxima de 7 horas diárias, 5 dias por semana (35 horas), sem redução de salário."
+   },
+   "GV01": {
+    "v": 1,
+    "conf": "declaracao",
+    "nota": "Plano de governo (TSE 2026): defende cancelar todas as privatizações e reestatizar empresas; não cita a Cemig nominalmente."
+   },
+   "GV04": {
+    "v": 5,
+    "conf": "declaracao",
+    "nota": "Plano de governo (TSE 2026): propõe reposição integral das perdas salariais e aumento emergencial de 50% de todos os salários."
+   }
+  },
+  "perguntasFaltando": [
+   "G05",
+   "G06",
+   "G07",
+   "G08",
+   "G11",
+   "G12",
+   "G13",
+   "GV02",
+   "GV03",
+   "GV05",
+   "GV06"
+  ]
+ },
+ {
+  "id": 130002547874,
+  "cargo": "Governador",
+  "nomeUrna": "INDIRA XAVIER",
+  "nomeCompleto": "INDIRA IVANISE XAVIER",
+  "numero": 80,
+  "partido": "UP",
+  "ocupacao": "Auxiliar de Escritório e Assemelhados",
+  "anteriores": [
+   {
+    "ano": 2024,
+    "cargo": "Prefeito",
+    "local": "BELO HORIZONTE",
+    "partido": "UP",
+    "resultado": "Não eleito"
+   },
+   {
+    "ano": 2022,
+    "cargo": "Governador",
+    "local": "MINAS GERAIS",
+    "partido": "UP",
+    "resultado": "Não eleito"
+   },
+   {
+    "ano": 2010,
+    "cargo": "Deputado Estadual",
+    "local": "ALAGOAS",
+    "partido": "PSOL",
+    "resultado": "Não eleito"
+   },
+   {
+    "ano": 2006,
+    "cargo": "Deputado Estadual",
+    "local": "ALAGOAS",
+    "partido": "PSOL",
+    "resultado": "Não eleito"
+   }
+  ],
+  "sites": [
+   "HTTPS://WWW.INSTAGRAM.COM/INDIRAXAVIER.UP/"
+  ],
+  "resumoAtual": "Militante da Unidade Popular (UP). Foi candidata ao governo de Minas em 2022 e à Prefeitura de Belo Horizonte em 2024. Disputa o governo pela UP, com Renato Campos de vice.",
+  "bandeirasAtuais": [
+   "Fim da escala 6x1",
+   "Reestatização da Copasa e revogação do Propag",
+   "Suspensão da mineração e reparação aos atingidos"
+  ],
+  "posicoesExistentes": {
+   "G01": {
+    "v": 1,
+    "conf": "declaracao",
+    "nota": "Plano de governo (TSE 2026): defende o fim do arcabouço fiscal, mais investimento no SUS e taxação de grandes fortunas."
+   },
+   "G03": {
+    "v": 1,
+    "conf": "declaracao",
+    "nota": "Plano de governo (TSE 2026): propõe reestatizar Copasa e Vale e estatizar a cadeia extrativista, como lítio e terras raras."
+   },
+   "G06": {
+    "v": 4,
+    "conf": "declaracao",
+    "nota": "Plano de governo (TSE 2026): propõe tratar o uso de drogas como questão de saúde pública, não de polícia."
+   },
+   "G07": {
+    "v": 5,
+    "conf": "declaracao",
+    "nota": "Plano de governo (TSE 2026): propõe suspender toda a mineração no estado, rever contratos e reconhecer a natureza como sujeito de direitos."
+   },
+   "G11": {
+    "v": 5,
+    "conf": "declaracao",
+    "nota": "Plano (TSE 2026): propõe lei com 30% das vagas em concursos para negros, indígenas, PCDs e pessoas trans, e cotas trans na Unimontes."
+   },
+   "G14": {
+    "v": 5,
+    "conf": "declaracao",
+    "nota": "Plano de governo (TSE 2026): propõe o fim da escala 6x1, com jornada de 6 horas diárias."
+   },
+   "GV01": {
+    "v": 1,
+    "conf": "declaracao",
+    "nota": "Plano de governo (TSE 2026): propõe a reestatização imediata da Copasa e o fortalecimento da Cemig e das demais estatais."
+   },
+   "GV03": {
+    "v": 5,
+    "conf": "declaracao",
+    "nota": "Plano (TSE 2026): propõe suspender a mineração, acabar com barragens por alteamento e fiscalização pública, sem automonitoramento."
+   },
+   "GV04": {
+    "v": 4,
+    "conf": "declaracao",
+    "nota": "Plano de governo (TSE 2026): critica o 'arrocho salarial' e propõe garantir o piso e os planos de carreira de todas as categorias."
+   },
+   "GV05": {
+    "v": 2,
+    "conf": "declaracao",
+    "nota": "Plano de governo (TSE 2026): critica R$ 19,4 bilhões em isenções fiscais concedidas a mais de 4 mil empresas em 2025."
+   },
+   "GV06": {
+    "v": 1,
+    "conf": "declaracao",
+    "nota": "Plano (TSE 2026): propõe o 'fim do processo de militarização' das escolas; à Tribuna de Minas (17/09/2026), defendeu gestão pública."
+   },
+   "G02": {
+    "v": 4,
+    "conf": "declaracao",
+    "nota": "Plano de governo (TSE 2026): propõe transferência de renda para mulheres vítimas de violência e renda para gestantes (Gestação Digna)."
+   }
+  },
+  "perguntasFaltando": [
+   "G04",
+   "G05",
+   "G08",
+   "G09",
+   "G10",
+   "G12",
+   "G13",
+   "GV02"
+  ]
+ },
+ {
+  "id": 130002541911,
+  "cargo": "Governador",
+  "nomeUrna": "MATEUS SIMÕES",
+  "nomeCompleto": "MATEUS SIMÕES DE ALMEIDA",
+  "numero": 55,
+  "partido": "PSD",
+  "ocupacao": "Governador",
+  "anteriores": [
+   {
+    "ano": 2022,
+    "cargo": "Vice-governador",
+    "local": "MINAS GERAIS",
+    "partido": "NOVO",
+    "resultado": "Eleito"
+   },
+   {
+    "ano": 2016,
+    "cargo": "Vereador",
+    "local": "BELO HORIZONTE",
+    "partido": "NOVO",
+    "resultado": "Eleito por QP"
+   },
+   {
+    "ano": 2014,
+    "cargo": "Deputado Estadual",
+    "local": "MINAS GERAIS",
+    "partido": "PSDB",
+    "resultado": "Suplente"
+   }
+  ],
+  "sites": [
+   "HTTPS://WWW.INSTAGRAM.COM/MATEUS.SIMOESMG/",
+   "https://www.youtube.com/@MateusSimoes",
+   "HTTPS://X.COM/MATEUS_SIMOESMG",
+   "http://meulink.bio.br/mateusgovernador55",
+   "https://whatsapp.com/channel/0029VbDWsrI9mrGYIoZuMO12",
+   "HTTPS://WWW.FACEBOOK.COM/MATEUSSIMOESMG",
+   "https://www.twibbonize.com/u/equipems2026zkkc",
+   "https://www.tiktok.com/@mateus.simoesmg",
+   "HTTPS://WWW.LINKEDIN.COM/IN/MATEUSALMEIDA/"
+  ],
+  "resumoAtual": "Governador de Minas desde março de 2026, quando Zema deixou o cargo; foi vice-governador (2023 a 2026) e vereador de BH. Candidato à reeleição pelo PSD.",
+  "bandeirasAtuais": [
+   "Segurança pública e controle das divisas (Escudo Mineiro)",
+   "Saúde",
+   "Aumento da renda média do mineiro"
+  ],
+  "posicoesExistentes": {
+   "G14": {
+    "v": 2,
+    "conf": "declaracao",
+    "nota": "Em 11/2024, como vice-governador, disse que o fim da escala 6x1 'vai gerar desemprego' e defendeu flexibilizar a legislação trabalhista."
+   },
+   "GV01": {
+    "v": 3,
+    "conf": "declaracao",
+    "nota": "Em 04/09/2026 disse 'conseguimos evitar a venda da Cemig' e defendeu vender a Gasmig; concluiu a privatização da Copasa em 06/2026."
+   },
+   "GV06": {
+    "v": 5,
+    "conf": "declaracao",
+    "nota": "Em 13/04/2026 enviou à ALMG projeto que cria o programa de escolas cívico-militares e disse que o modelo pode chegar a 700 escolas."
+   },
+   "G03": {
+    "v": 4,
+    "conf": "declaracao",
+    "nota": "Concluiu a venda da Copasa em 2026 e defende privatizar a Gasmig; em 25/09/2026 disse que vender a Cemig não está entre suas prioridades."
+   },
+   "GV02": {
+    "v": 4,
+    "conf": "declaracao",
+    "nota": "Em 25/09/2026 disse que câmeras corporais são 'muito úteis e importantes para o patrulhamento', mas não devem ser usadas em operações."
+   },
+   "GV03": {
+    "v": 3,
+    "conf": "declaracao",
+    "nota": "Em 09/2026 disse que não autoriza barragens de risco e é contra minerar a Serra do Curral, mas que fiscalizar importa mais que burocracia na licença."
+   },
+   "GV04": {
+    "v": 2,
+    "conf": "declaracao",
+    "nota": "Sancionou reajuste de 5,4% em 03/2026; em 25/09/2026 disse que prometer aos policiais mais que a inflação é mentir, por falta de orçamento."
+   },
+   "GV05": {
+    "v": 2,
+    "conf": "declaracao",
+    "nota": "Enviou à ALMG em 09/2026 projeto que permite cortar benefícios de ICMS sem contrapartida (cerca de R$ 7 bi/ano); defende manter incentivos setoriais."
+   }
+  },
+  "perguntasFaltando": [
+   "G01",
+   "G02",
+   "G04",
+   "G05",
+   "G06",
+   "G07",
+   "G08",
+   "G09",
+   "G10",
+   "G11",
+   "G12",
+   "G13"
+  ]
+ },
+ {
+  "id": 130002550464,
+  "cargo": "Governador",
+  "nomeUrna": "PATRUS ANANIAS",
+  "nomeCompleto": "PATRUS ANANIAS DE SOUSA",
+  "numero": 13,
+  "partido": "PT",
+  "ocupacao": "Deputado",
+  "anteriores": [
+   {
+    "ano": 2022,
+    "cargo": "Deputado Federal",
+    "local": "MINAS GERAIS",
+    "partido": "PT",
+    "resultado": "Eleito por QP"
+   },
+   {
+    "ano": 2018,
+    "cargo": "Deputado Federal",
+    "local": "MINAS GERAIS",
+    "partido": "PT",
+    "resultado": "Eleito por QP"
+   },
+   {
+    "ano": 2014,
+    "cargo": "Deputado Federal",
+    "local": "MINAS GERAIS",
+    "partido": "PT",
+    "resultado": "Eleito por QP"
+   },
+   {
+    "ano": 2012,
+    "cargo": "Prefeito",
+    "local": "BELO HORIZONTE",
+    "partido": "PT",
+    "resultado": "Não eleito"
+   }
+  ],
+  "sites": [
+   "HTTPS://PATRUSANANIAS.COM.BR",
+   "https://www.instagram.com/timepatrus",
+   "HTTPS://WWW.INSTAGRAM.COM/PATRUS_ANANIAS/",
+   "HTTPS://PATRUS13.COM.BR",
+   "HTTPS://WWW.FLICKR.COM/PHOTOS/PATRUSGOVERNADOR/",
+   "HTTPS://TOCOMPATRUS.COM",
+   "HTTPS://X.COM/PATRUS_ANANIAS",
+   "http://www.twibbonize.com/patrus13",
+   "https://chat.whatsapp.com/GSYb1mSduoe625KYCNdBUV",
+   "https://chat.whatsapp.com/GONjbl5rfyv7ty3blbJXE",
+   "https://chat.whatsapp.com/LZEODNgNcCOKWxVkVXjkpY",
+   "https://chat.whatsapp.com/EZ0o9HGcu671RkWNJANRAV",
+   "https://chat.whatsapp.com/DjQaRnSc00HH7kX4rKjjk",
+   "HTTPS://WWW.FACEBOOK.COM/PATRUSANANIAS13/",
+   "HTTPS://PATRUSGOVERNADOR.COM.BR",
+   "https://chat.whatsapp.com/LOTiBIiTHOX4a3IN6l7JOz",
+   "https://chat.whatsapp.com/BgYQ1PoWBQY4toDF74PKu7",
+   "HTTPS://WWW.TIKTOK.COM/@PATRUS_ANANIAS",
+   "HTTPS://LINKTR.EE/PATRUS_ANANIAS",
+   "https://www.youtube.com/@PatrusAnanias13",
+   "https://chat.whatsapp.com/CVvOSmkVavwI7ivWlbV2a2",
+   "HTTPS://WWW.THREADS.NET/@PATRUS_ANANIAS"
+  ],
+  "resumoAtual": "Deputado federal desde 2015, ex-prefeito de Belo Horizonte (1993 a 1996) e ex-ministro do Desenvolvimento Social (2004 a 2010). Candidato a governador pelo PT.",
+  "bandeirasAtuais": [
+   "Cemig sob controle do estado e revisão da venda da Copasa",
+   "Saúde e educação públicas",
+   "Renegociação da dívida de Minas com a União"
+  ],
+  "posicoesExistentes": {
+   "G01": {
+    "v": 2,
+    "conf": "declaracao",
+    "nota": "Plano de governo (TSE 2026): ampliar a arrecadação, rever benefícios fiscais e preservar serviços públicos e servidores."
+   },
+   "G02": {
+    "v": 4,
+    "conf": "declaracao",
+    "nota": "Ex-ministro que implantou o Bolsa Família; em entrevista (O Tempo, 2026) defendeu manter as políticas sociais que tiraram o país do mapa da fome."
+   },
+   "G03": {
+    "v": 2,
+    "conf": "voto",
+    "nota": "Votou não à privatização da Eletrobras (19/05/2021) e dos Correios (05/08/2021); plano defende manter estatais como Cemig e Codemig."
+   },
+   "G04": {
+    "v": 1,
+    "conf": "voto",
+    "nota": "Votou não ao PL 3723/2019 (amplia posse e porte de armas) em 05/11/2019; em discurso de 12/05/2026 criticou 'armar o povo'."
+   },
+   "G07": {
+    "v": 4,
+    "conf": "voto",
+    "nota": "Votou não ao texto-base da Lei Geral do Licenciamento Ambiental (PL 3729/2004, depois PL 2159/2021) em 12/05/2021; plano pede mais rigor na mineração."
+   },
+   "G08": {
+    "v": 1,
+    "conf": "voto",
+    "nota": "Votou não à urgência do PL da anistia (17/09/2025) e ao substitutivo que reduz penas do 8/1 (09/12/2025)."
+   },
+   "G09": {
+    "v": 2,
+    "conf": "declaracao",
+    "nota": "Em discursos na Câmara (15/02/2023 e 12/08/2025) defendeu a atuação do STF e criticou ameaças de afastamento de seus ministros."
+   },
+   "G10": {
+    "v": 4,
+    "conf": "voto",
+    "nota": "Votou sim à urgência do PL 2630/2020 (regras e responsabilidade das plataformas digitais) em 25/04/2023."
+   },
+   "G11": {
+    "v": 4,
+    "conf": "voto",
+    "nota": "Votou Sim no PL 1958/2021 (cotas raciais em concursos públicos) em 19/11/2024."
+   },
+   "G14": {
+    "v": 5,
+    "conf": "voto",
+    "nota": "Votou sim à PEC 221/2019 (jornada menor e 2 dias de folga) em 27/05/2026; em discursos rebateu o argumento de que empresas quebrariam."
+   },
+   "GV01": {
+    "v": 1,
+    "conf": "declaracao",
+    "nota": "Plano de governo (TSE 2026): manter a Cemig sob controle do estado e rever a privatização da Copasa; reiterou em entrevista (ago/2026)."
+   },
+   "GV03": {
+    "v": 4,
+    "conf": "declaracao",
+    "nota": "Plano de governo (TSE 2026): maior rigor na fiscalização da mineração e na segurança de barragens, com participação das comunidades atingidas."
+   },
+   "GV05": {
+    "v": 2,
+    "conf": "declaracao",
+    "nota": "Plano de governo (TSE 2026): ampliar a arrecadação revendo subsídios e benefícios fiscais, inclusive isenções à mineração."
+   },
+   "GV06": {
+    "v": 2,
+    "conf": "declaracao",
+    "nota": "Plano de governo (TSE 2026): propõe o fim da militarização das escolas estaduais."
+   },
+   "GV02": {
+    "v": 4,
+    "conf": "declaracao",
+    "nota": "Propõe implantar progressivamente câmeras corporais nas forças de segurança estaduais, com protocolos de uso (set/2026)."
+   },
+   "GV04": {
+    "v": 4,
+    "conf": "declaracao",
+    "nota": "Campanha lista como prioridade o pagamento do piso nacional do magistério na rede estadual (set/2026)."
+   }
+  },
+  "perguntasFaltando": [
+   "G05",
+   "G06",
+   "G12",
+   "G13"
+  ]
+ },
+ {
+  "id": 130002544122,
+  "cargo": "Governador",
+  "nomeUrna": "PROFESSOR TÚLIO LOPES",
+  "nomeCompleto": "TULIO CESAR DIAS LOPES",
+  "numero": 21,
+  "partido": "PCB",
+  "ocupacao": "Professor de Ensino Superior",
+  "anteriores": [
+   {
+    "ano": 2018,
+    "cargo": "Senador",
+    "local": "MINAS GERAIS",
+    "partido": "PCB",
+    "resultado": "Não eleito"
+   },
+   {
+    "ano": 2016,
+    "cargo": "Vereador",
+    "local": "BELO HORIZONTE",
+    "partido": "PCB",
+    "resultado": "Suplente"
+   },
+   {
+    "ano": 2014,
+    "cargo": "Governador",
+    "local": "MINAS GERAIS",
+    "partido": "PCB",
+    "resultado": "Não eleito"
+   },
+   {
+    "ano": 2006,
+    "cargo": "Deputado Estadual",
+    "local": "MINAS GERAIS",
+    "partido": "PCB",
+    "resultado": "Não eleito"
+   }
+  ],
+  "sites": [
+   "https://www.poderpopularmg.org/",
+   "HTTPS://WWW.TIKTOK.COM/@TULIOLOPESGOVMG?_R=1&_T=ZS-93Q3DLEIWHZ",
+   "HTTPS://WWW.YOUTUBE.COM/@JORNALDOPOVOMG",
+   "https://professortuliolopes.com.br/",
+   "HTTPS://WWW.TIKTOK.COM/@TULIOLOPESGOVMG?_R=1&_T=ZS-98FTWKPQGCY",
+   "https://WWW.YOUTUBE.COM/@PROFESSORTÚLIOLOPES",
+   "HTTPS://WWW.YOUTUBE.COM/@PROFESSORT%C3%9ALIOLOPES",
+   "https://www.youtube.com/@ProfessorT%C3%BAlioLopes",
+   "HTTPS://WWW.FACEBOOK.COM/TULIO.LOPES.52?RDID=WLYXBGMJADBSISG3&SHARE_URL=HTTPS%3A",
+   "HTTPS://WWW.THREADS.COM/@TULIOLOPESMG",
+   "HTTPS://X.COM/PROFTULIO",
+   "https://www.instagram.com/tuliolopesmg/"
+  ],
+  "resumoAtual": "Professor universitário, candidato do PCB ao governo de Minas, com Warlen Nunes de vice. Disputou o governo em 2014 e o Senado em 2018.",
+  "bandeirasAtuais": [
+   "Reestatização da Cemig e da Copasa",
+   "Auditoria da dívida e fim das renúncias fiscais",
+   "Novo modelo de mineração sob controle popular"
+  ],
+  "posicoesExistentes": {
+   "G01": {
+    "v": 1,
+    "conf": "declaracao",
+    "nota": "Plano de governo (TSE 2026): propõe impostos progressivos sobre capital e fortunas, fim das renúncias fiscais e mais investimento social."
+   },
+   "G03": {
+    "v": 1,
+    "conf": "declaracao",
+    "nota": "Plano de governo (TSE 2026): propõe estatizar Cemig e Copasa, reestatizar o setor mineral e reverter as privatizações estaduais."
+   },
+   "G07": {
+    "v": 5,
+    "conf": "declaracao",
+    "nota": "Plano de governo (TSE 2026): propõe territórios livres de mineração e controle do ritmo de extração para preservar o território."
+   },
+   "G13": {
+    "v": 2,
+    "conf": "declaracao",
+    "nota": "Plano de governo (TSE 2026): defende 'Estado laico, liberdade de crença e de não-crença'."
+   },
+   "G14": {
+    "v": 4,
+    "conf": "declaracao",
+    "nota": "Plano de governo (TSE 2026): propõe redução da jornada sem redução salarial e 30 horas semanais para os servidores estaduais."
+   },
+   "GV01": {
+    "v": 1,
+    "conf": "declaracao",
+    "nota": "Plano de governo (TSE 2026): propõe 'estatização plena da Cemig e da Copasa' e a reversão imediata da privatização da Copasa."
+   },
+   "GV03": {
+    "v": 5,
+    "conf": "declaracao",
+    "nota": "Plano de governo (TSE 2026): propõe fim do autolicenciamento, revisão de todos os licenciamentos e fiscalização massiva."
+   },
+   "GV05": {
+    "v": 1,
+    "conf": "declaracao",
+    "nota": "A O Tempo, criticou cerca de R$ 111 bi em renúncias fiscais desde 2019; o plano propõe suspender renúncias fiscais."
+   },
+   "GV06": {
+    "v": 1,
+    "conf": "declaracao",
+    "nota": "Plano de governo (TSE 2026): defende 'a extinção das escolas cívico-militares' e o fim da militarização das escolas estaduais."
+   },
+   "G04": {
+    "v": 2,
+    "conf": "declaracao",
+    "nota": "Plano de governo (TSE 2026): defende o 'desarmamento civil'."
+   },
+   "GV04": {
+    "v": 5,
+    "conf": "declaracao",
+    "nota": "Plano de governo (TSE 2026): propõe revisão anual na data-base e um plano de recomposição das perdas inflacionárias acumuladas."
+   }
+  },
+  "perguntasFaltando": [
+   "G02",
+   "G05",
+   "G06",
+   "G08",
+   "G09",
+   "G10",
+   "G11",
+   "G12",
+   "GV02"
+  ]
+ },
+ {
+  "id": 130002546802,
+  "cargo": "Governador",
+  "nomeUrna": "RAFAEL DUDA",
+  "nomeCompleto": "RAFAEL RIBEIRO DE ÁVILA",
+  "numero": 16,
+  "partido": "PSTU",
+  "ocupacao": "Técnico de Mineração, Metalurgia e Geologia",
+  "anteriores": [
+   {
+    "ano": 2024,
+    "cargo": "Prefeito",
+    "local": "CONGONHAS",
+    "partido": "PSTU",
+    "resultado": "Não eleito"
+   },
+   {
+    "ano": 2022,
+    "cargo": "Deputado Federal",
+    "local": "MINAS GERAIS",
+    "partido": "PSTU",
+    "resultado": "Não eleito"
+   },
+   {
+    "ano": 2020,
+    "cargo": "Prefeito",
+    "local": "CONGONHAS",
+    "partido": "PSTU",
+    "resultado": "Não eleito"
+   }
+  ],
+  "sites": [
+   "https://www.facebook@rafaelavila",
+   "https://www.instagram.com/rafael_duda_pstu",
+   "https://@RAFAEL_DUDA_PSTU"
+  ],
+  "resumoAtual": "Técnico em mineração, militante do PSTU. Disputou a Prefeitura de Congonhas em 2020 e 2024 e a Câmara dos Deputados em 2022. Candidato ao governo com a Prof. Diana de Cássia de vice.",
+  "bandeirasAtuais": [
+   "Reverter as privatizações e estatizar empresas estratégicas",
+   "Suspensão do pagamento da dívida com a União",
+   "Estatização da mineração sob controle dos trabalhadores"
+  ],
+  "posicoesExistentes": {
+   "G01": {
+    "v": 1,
+    "conf": "declaracao",
+    "nota": "Plano de governo (TSE 2026): propõe revogar a LRF, acabar com isenções fiscais e destinar 30% da arrecadação à educação."
+   },
+   "G02": {
+    "v": 4,
+    "conf": "declaracao",
+    "nota": "Plano de governo (TSE 2026): propõe auxílio emergencial de um salário mínimo para todos os desempregados."
+   },
+   "G03": {
+    "v": 1,
+    "conf": "declaracao",
+    "nota": "Plano de governo (TSE 2026): propõe estatizar mineradoras, reestatizar Vale e CSN e reverter todas as privatizações."
+   },
+   "G05": {
+    "v": 4,
+    "conf": "declaracao",
+    "nota": "Plano de governo (TSE 2026): defende 'a legalização do aborto'."
+   },
+   "G06": {
+    "v": 4,
+    "conf": "declaracao",
+    "nota": "Plano de governo (TSE 2026): defende uma política de drogas 'com a legalização e descriminalização'."
+   },
+   "G07": {
+    "v": 5,
+    "conf": "declaracao",
+    "nota": "Plano (TSE 2026): propõe proibir mineração nas serras que abastecem a Grande BH, ampliar áreas de preservação e estatizar o agronegócio."
+   },
+   "G12": {
+    "v": 2,
+    "conf": "declaracao",
+    "nota": "Plano de governo (TSE 2026): posiciona-se 'contra a redução da maioridade penal'."
+   },
+   "G13": {
+    "v": 2,
+    "conf": "declaracao",
+    "nota": "Plano de governo (TSE 2026): opõe-se a projetos educacionais 'defendidos pelas bancadas fundamentalistas' e defende educação laica."
+   },
+   "G14": {
+    "v": 5,
+    "conf": "declaracao",
+    "nota": "Plano de governo (TSE 2026): propõe jornada de 6 horas diárias (30 semanais) para todos e critica a escala 6x1."
+   },
+   "GV03": {
+    "v": 5,
+    "conf": "declaracao",
+    "nota": "Plano de governo (TSE 2026): propõe elevar a CFEM a 10% do lucro bruto, proibir mineração em serras e reforçar a fiscalização."
+   },
+   "GV05": {
+    "v": 1,
+    "conf": "declaracao",
+    "nota": "Plano de governo (TSE 2026): propõe o fim das isenções fiscais a grandes empresas e da política de 'renúncia fiscal' do estado."
+   },
+   "GV06": {
+    "v": 1,
+    "conf": "declaracao",
+    "nota": "À Tribuna de Minas (17/09/2026), opôs-se a 'militarizar as escolas'; o plano de governo também critica a militarização."
+   },
+   "GV01": {
+    "v": 1,
+    "conf": "declaracao",
+    "nota": "Plano de governo (TSE 2026): propõe Copasa 100% estatal e estatizar as empresas de energia e saneamento."
+   },
+   "GV04": {
+    "v": 4,
+    "conf": "declaracao",
+    "nota": "Plano de governo (TSE 2026): propõe pagar o piso do magistério sem distinção de jornada e valorização salarial na saúde."
+   }
+  },
+  "perguntasFaltando": [
+   "G04",
+   "G08",
+   "G09",
+   "G10",
+   "G11",
+   "GV02"
+  ]
+ }
+]

@@ -1,0 +1,771 @@
+{
+  "G01": {
+    "situacao": "Segundo o Tesouro Nacional, a carga tributária bruta do país (União, estados e municípios) foi de 32,40% do PIB em 2025, a maior da série iniciada em 2010. Desde janeiro de 2026 vale a Lei 15.270/2025: quem ganha até R$ 5 mil por mês não paga Imposto de Renda, e há desconto para rendas até R$ 7.350. Para compensar, a lei criou um imposto mínimo de até 10% para quem recebe mais de R$ 600 mil por ano. Os gastos federais seguem os limites do arcabouço fiscal, criado em 2023.",
+    "aFavor": [
+      "Imposto alto encarece produtos, salários e investimentos. Com menos imposto, empresas contratam mais e a economia cresce, o que no fim beneficia toda a população.",
+      "Gasto público alto aumenta a dívida e pressiona os juros. Cortar despesas ajuda a controlar a inflação e os juros, que pesam no bolso de todos.",
+      "O dinheiro fica com quem o ganhou, e cada pessoa decide como usá-lo. Isso obriga o governo a priorizar e a gastar melhor o que arrecada."
+    ],
+    "contra": [
+      "Saúde, educação e assistência públicas são a principal rede de apoio de milhões de pessoas. Reduzir esses serviços afeta mais quem não pode pagar por eles.",
+      "Investimento público em estradas, escolas e pesquisa também gera crescimento. Cortes podem frear a economia e reduzir empregos no curto prazo.",
+      "O problema estaria em quem paga, não no total arrecadado. Seria melhor cobrar mais de quem ganha muito e menos do consumo do que cortar serviços."
+    ],
+    "fontes": [
+      "https://www.gov.br/tesouronacional/pt-br/noticias/carga-tributaria-bruta-do-governo-geral-atinge-32-40-do-pib-em-2025",
+      "https://www12.senado.leg.br/noticias/materias/2025/11/27/sancionada-isencao-do-imposto-de-renda-para-quem-ganha-ate-r-5-mil-por-mes",
+      "https://www.gov.br/fazenda/pt-br/assuntos/noticias/2025/novembro/presidente-sanciona-lei-que-amplia-isencao-do-imposto-de-renda-para-quem-ganha-ate-r-5-mil"
+    ]
+  },
+  "G02": {
+    "situacao": "Em junho de 2026, o Bolsa Família atendeu mais de 19,34 milhões de famílias (cerca de 50 milhões de pessoas), com benefício médio de R$ 677,66. Em 17/09/2026, o Decreto 13.120 reajustou os valores em 15,04%. A partir da folha de outubro de 2026, o valor mínimo por família passa de R$ 600 para R$ 691, e o benefício médio estimado passa de R$ 675 para R$ 777.",
+    "aFavor": [
+      "A transferência de renda reduz a fome e a pobreza extrema rapidamente e a um custo menor que o de outros programas sociais.",
+      "O programa exige frequência escolar e vacinação. Assim, ajuda crianças a estudar mais e ter melhor saúde, o que diminui a pobreza na geração seguinte.",
+      "O dinheiro é gasto no comércio local, o que movimenta a economia de cidades pequenas e de regiões mais pobres."
+    ],
+    "contra": [
+      "O gasto com o programa já é alto. Ampliá-lo pressiona as contas públicas e pode tirar recursos de áreas como saúde, educação e investimento.",
+      "Um benefício maior pode desestimular a busca por emprego formal, se a família tiver medo de perder o auxílio ao aumentar a renda.",
+      "A prioridade deveria ser corrigir o cadastro e gerar emprego, que levam à saída da pobreza, e não aumentar valores ou o número de beneficiários."
+    ],
+    "fontes": [
+      "https://www.gov.br/mds/pt-br/noticias-e-conteudos/desenvolvimento-social/noticias-desenvolvimento-social/em-junho-bolsa-familia-atende-mais-de-19-34-milhoes-de-lares-a-partir-desta-quarta-feira-17-06",
+      "https://www.gov.br/mds/pt-br/noticias/bolsa-familia-tera-valor-minimo-de-r-691-a-partir-de-outubro"
+    ]
+  },
+  "G03": {
+    "situacao": "Em Minas, a Copasa foi privatizada por oferta de ações concluída em junho de 2026, depois que a Assembleia retirou em 2025 a exigência de referendo para sua venda; o Grupo Equatorial ficou com 30% da empresa, e o Estado manteve uma ação especial com poder de veto (golden share). A Cemig continua estatal, e sua venda ainda depende de referendo. Na esfera federal, os Correios tiveram prejuízo de R$ 8,5 bilhões em 2025 e fizeram um empréstimo de R$ 12 bilhões com bancos.",
+    "aFavor": [
+      "Empresas privadas têm mais liberdade para investir e contratar, e costumam ser mais eficientes. Isso pode trazer serviços melhores e ampliar o atendimento.",
+      "A venda gera dinheiro para o governo e acaba com o risco de o Tesouro cobrir prejuízos de estatais, como tem acontecido com os Correios.",
+      "Sem controle do governo, as indicações para cargos na empresa deixam de ser usadas politicamente, o que reduz o risco de má gestão e de corrupção."
+    ],
+    "contra": [
+      "Serviços essenciais como água e energia devem priorizar o interesse público. Uma empresa privada pode aumentar tarifas e deixar de atender áreas que dão pouco lucro.",
+      "Estatais lucrativas pagam dividendos ao governo todos os anos. Vendê-las significa ter um ganho uma única vez e perder essa renda para sempre.",
+      "O Estado perde um instrumento para executar políticas públicas, como levar serviço a regiões pobres ou segurar preços em momentos de crise."
+    ],
+    "fontes": [
+      "https://www.almg.gov.br/comunicacao/noticias/arquivos/Emenda-que-acaba-com-referendo-para-privatizacao-da-Copasa-e-promulgada/",
+      "https://www.almg.gov.br/comunicacao/noticias/arquivos/PL-que-autoriza-privatizacao-da-Copasa-e-aprovado-em-definitivo/",
+      "https://www.otempo.com.br/politica/2026/6/16/privatizacao-da-copasa-gerou-r-8-38-bilhoes-ao-governo-veja-os-novos-acionistas",
+      "https://timesbrasil.com.br/empresas-e-negocios/prejuizo-dos-correios-dispara-85-bilhoes-privatizacao-e-solucao-veja-como-funcionaria/"
+    ]
+  },
+  "G04": {
+    "situacao": "O tema é regulado pelo Estatuto do Desarmamento (Lei 10.826/2003); decretos de 2019 a 2022 flexibilizaram as regras, e o Decreto 11.615, de julho de 2023, voltou a restringi-las. Para defesa pessoal, o limite hoje é de 2 armas e 50 munições por ano, e armas de calibre restrito voltaram a ser proibidas para esse uso. Desde julho de 2025, a Polícia Federal faz o registro e a fiscalização de atiradores, caçadores e colecionadores (CACs), função que antes era do Exército. Há projetos no Congresso para derrubar o decreto.",
+    "aFavor": [
+      "Quem cumpre a lei deveria poder se defender e defender sua família, sobretudo em áreas em que a polícia demora a chegar.",
+      "Criminosos conseguem armas ilegais de qualquer jeito. Regras duras atingem principalmente o cidadão que segue a lei.",
+      "No referendo de 2005, a maioria votou contra proibir o comércio de armas. Facilitar o acesso respeitaria essa escolha."
+    ],
+    "contra": [
+      "Mais armas em circulação aumentam o risco de brigas terminarem em morte, de acidentes domésticos e de suicídios.",
+      "Armas compradas legalmente podem ser roubadas ou desviadas e acabar abastecendo o crime.",
+      "Segurança é dever do Estado. A prioridade deveria ser melhorar a polícia e a investigação, e não transferir essa tarefa ao cidadão."
+    ],
+    "fontes": [
+      "https://www2.camara.leg.br/legin/fed/decret/2023/decreto-11615-21-julho-2023-794460-publicacaooriginal-168524-pe.html",
+      "https://www.gov.br/secom/pt-br/fatos/brasil-contra-fake/noticias/2023/10/armas-de-fogo-possuem-nova-regulamentacao-desde-julho",
+      "https://agenciabrasil.ebc.com.br/geral/noticia/2025-06/fiscalizacao-e-registro-de-cacs-passam-ser-feitas-pela-pf",
+      "https://www.camara.leg.br/noticias/981018-projeto-revoga-novo-decreto-do-governo-sobre-controle-de-armas/"
+    ]
+  },
+  "G05": {
+    "situacao": "O Código Penal permite o aborto em caso de estupro ou quando não há outro meio de salvar a vida da gestante. Desde 2012, por decisão do STF, também é permitido quando o feto é anencéfalo. No STF, a ADPF 442 pede que o aborto até a 12ª semana deixe de ser crime: Rosa Weber (2023) e Barroso (outubro de 2025) votaram a favor, e o julgamento foi levado ao plenário presencial após pedido de destaque de Gilmar Mendes. Na Câmara, o PL 1904/2024, que equipara ao homicídio o aborto feito após 22 semanas, teve urgência aprovada em junho de 2024.",
+    "aFavor": [
+      "A proibição não impede abortos, apenas os torna inseguros. Mulheres pobres são as que mais morrem ou sofrem sequelas em procedimentos clandestinos.",
+      "A mulher deve ter autonomia sobre o próprio corpo e sobre a decisão de ter filhos, sem correr o risco de ser presa.",
+      "Tratar o tema como questão de saúde pública, com acolhimento e planejamento familiar, reduz o número de abortos mais do que a punição."
+    ],
+    "contra": [
+      "A vida humana começa na concepção, e o feto tem direito à vida, garantido pela Constituição. O Estado deve protegê-lo.",
+      "Tirar o aborto do Código Penal pode aumentar o número de abortos e passar a ideia de que é um método comum de evitar filhos.",
+      "Uma mudança dessa importância deveria ser decidida pelo Congresso, eleito pelo povo, e não por decisão judicial."
+    ],
+    "fontes": [
+      "https://noticias.stf.jus.br/postsnoticias/ministro-barroso-vota-pela-descriminalizacao-do-aborto-ate-12-semanas-de-gestacao/",
+      "https://agenciabrasil.ebc.com.br/justica/noticia/2025-10/barroso-vota-por-descriminalizar-aborto-ate-12a-semana-de-gestacao",
+      "https://www.camara.leg.br/noticias/1072249-camara-aprova-urgencia-para-projeto-que-equipara-aborto-de-gestacao-acima-de-22-semanas-a-homicidio/"
+    ]
+  },
+  "G06": {
+    "situacao": "Em junho de 2024 (RE 635659), o STF decidiu que portar maconha para uso pessoal é infração administrativa, não crime: cabe advertência e curso educativo, sem ficha criminal. Até 40 gramas ou 6 plantas fêmeas, presume-se uso pessoal, mas a polícia pode apontar indícios de tráfico; a decisão vale só para a maconha. A PEC 45/2023, que torna crime a posse de qualquer quantidade de droga, foi aprovada pelo Senado em abril de 2024 e pela CCJ da Câmara. Ainda falta a análise de uma comissão especial e do Plenário da Câmara.",
+    "aFavor": [
+      "Punir o usuário com a lei penal não reduz o consumo e lota as prisões. Muitas pessoas presas como traficantes eram apenas usuárias.",
+      "O uso de drogas é questão de saúde pública. Tratar o usuário como criminoso dificulta que ele procure ajuda e tratamento.",
+      "Um critério objetivo de quantidade diminui decisões desiguais: hoje, pessoas pobres e negras são mais enquadradas como traficantes pela mesma conduta."
+    ],
+    "contra": [
+      "Tolerar o porte aumenta a demanda por drogas e, com isso, fortalece o tráfico e as facções que o controlam.",
+      "A maconha faz mal à saúde, especialmente de jovens. Mantê-la como crime reforça a mensagem de que o uso deve ser evitado.",
+      "Cabe ao Congresso, e não ao STF, decidir o que é crime. A lei de drogas foi aprovada por representantes eleitos."
+    ],
+    "fontes": [
+      "https://noticias.stf.jus.br/postsnoticias/stf-define-40-gramas-de-maconha-como-criterio-para-diferenciar-usuario-de-traficante/",
+      "https://agenciabrasil.ebc.com.br/justica/noticia/2024-06/entenda-decisao-do-stf-sobre-descriminalizacao-do-porte-de-maconha",
+      "https://www12.senado.leg.br/noticias/materias/2024/04/16/senado-aprova-pec-sobre-drogas-que-segue-para-a-camara",
+      "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2428236"
+    ]
+  },
+  "G07": {
+    "situacao": "Minas recolheu 45% da CFEM (royalties da mineração) do país em 2025, cerca de R$ 3,57 bilhões, à frente do Pará. O estado viveu os rompimentos de barragens em Mariana (2015, 19 mortes) e Brumadinho (2019). Em outubro de 2024 foi assinado um acordo de R$ 170 bilhões para a reparação de Mariana. Em agosto de 2025 foi sancionada a Lei Geral do Licenciamento Ambiental (Lei 15.190), e em novembro de 2025 o Congresso derrubou a maior parte dos vetos presidenciais a ela.",
+    "aFavor": [
+      "Mariana e Brumadinho mostram que o dano ambiental pode custar vidas, ser irreversível e exigir bilhões em reparação.",
+      "Água, solo e clima estáveis são a base da própria agricultura e da economia no longo prazo; proteger o ambiente protege a produção futura.",
+      "Regras ambientais firmes dão segurança às comunidades vizinhas e evitam que o custo dos danos recaia sobre o poder público."
+    ],
+    "contra": [
+      "Mineração e agro geram empregos, renda e impostos, e sustentam muitas cidades de Minas; travar projetos afeta essas famílias.",
+      "É possível produzir com responsabilidade: tecnologia e boa fiscalização reduzem riscos sem precisar barrar a atividade.",
+      "Licenças lentas e regras rígidas afastam investimentos e podem levar a produção para lugares com fiscalização ainda menor."
+    ],
+    "fontes": [
+      "https://revistamineracao.com.br/2026/01/13/arrecadacao-da-cfem-soma-r-791-bi-em-2025-e-registra-a-segunda-maior-marca-da-historia/",
+      "https://www.agenciaminas.mg.gov.br/noticia/novo-acordo-de-mariana-poder-publico-responsabiliza-mineradoras-e-reparacao-de-prejuizos-causados-por-rompimento-de-barragem-chegara-a-r-170-bilhoes-124010",
+      "https://www12.senado.leg.br/noticias/materias/2025/08/08/publicada-lei-do-licenciamento-ambiental-com-63-vetos",
+      "https://www12.senado.leg.br/noticias/materias/2025/11/27/congresso-derruba-52-itens-de-veto-a-lei-geral-do-licenciamento-ambiental"
+    ]
+  },
+  "G08": {
+    "situacao": "Até janeiro de 2026, o STF havia condenado 1.399 pessoas pelos atos de 8 de janeiro de 2023. Quase 70% delas responderam por crimes menos graves, com penas de até um ano ou acordos de não persecução penal. Em 30 de abril de 2026, o Congresso derrubou o veto ao PL da Dosimetria (PL 2.162/2023), que permite reduzir de um terço a dois terços as penas de quem agiu \"em contexto de multidão\", sem financiar nem liderar os atos. Uma anistia ampla não foi aprovada até agora.",
+    "aFavor": [
+      "Muitos condenados eram manifestantes sem armas nem papel de liderança, e penas de 12 a 18 anos seriam desproporcionais ao que cada um fez.",
+      "O Brasil já usou anistias, como a de 1979, para pacificar o país depois de conflitos políticos.",
+      "Os julgamentos teriam tido falhas, como denúncias coletivas e julgamento direto no STF, com menos chances de recurso."
+    ],
+    "contra": [
+      "Os atos atacaram as sedes dos Três Poderes para tentar derrubar um governo eleito; perdoar isso pode incentivar novas tentativas.",
+      "Os réus tiveram direito de defesa, e as penas já foram graduadas: quase 70% tiveram penas de até um ano ou fizeram acordos.",
+      "Juristas veem como inconstitucional anistiar crimes contra o Estado democrático, o que levaria a nova disputa na Justiça."
+    ],
+    "fontes": [
+      "https://agenciabrasil.ebc.com.br/justica/noticia/2026-01/stf-condenou-1399-pessoas-por-atos-golpistas-179-estao-presas",
+      "https://www12.senado.leg.br/noticias/materias/2026/04/30/congresso-derruba-veto-e-possibilita-reducao-de-penas-pelo-8-de-janeiro",
+      "https://noticias.stf.jus.br/postsnoticias/stf-divulga-balanco-atualizado-sobre-investigacoes-e-condenacoes-por-atos-antidemocraticos/"
+    ]
+  },
+  "G09": {
+    "situacao": "O STF julga se leis e atos respeitam a Constituição. Nos últimos anos, julgou os réus do 8 de janeiro e da trama golpista e mudou as regras de responsabilidade das redes sociais (2025 e 2026). A PEC 8/2021 proíbe que um único ministro suspenda leis ou atos dos presidentes da República, do Senado e da Câmara. Ela foi aprovada pelo Senado em 2023 e pela CCJ da Câmara em 9 de outubro de 2024, e ainda aguarda comissão especial e votação no Plenário.",
+    "aFavor": [
+      "Decisões individuais de ministros suspendem leis aprovadas pelo Congresso, e isso concentra poder em poucas pessoas não eleitas.",
+      "O tribunal tem decidido temas que caberiam ao Legislativo, como regras para redes sociais, em vez de esperar o Congresso votar.",
+      "Em inquéritos como o das fake news, o STF atuou ao mesmo tempo como vítima, investigador e julgador, o que desequilibra o processo."
+    ],
+    "contra": [
+      "A Constituição dá ao STF o papel de barrar leis e atos inconstitucionais; decidir temas polêmicos faz parte dessa função.",
+      "O tribunal só decide quando é acionado por partidos, entidades ou cidadãos, e muitas vezes porque o Congresso deixou de legislar.",
+      "Diante de ataques às instituições, como o 8 de janeiro, a atuação firme do STF ajudou a proteger a democracia e as eleições."
+    ],
+    "fontes": [
+      "https://www.camara.leg.br/noticias/1101762-comissao-de-constituicao-e-justica-aprova-proposta-que-limita-decisao-monocratica-no-stf/",
+      "https://agenciabrasil.ebc.com.br/politica/noticia/2024-08/pec-que-limita-decisoes-do-supremo-comeca-tramitar-na-camara",
+      "https://agenciabrasil.ebc.com.br/justica/noticia/2026-01/stf-condenou-1399-pessoas-por-atos-golpistas-179-estao-presas",
+      "https://noticias.stf.jus.br/postsnoticias/stf-define-parametros-para-responsabilizacao-de-plataformas-por-conteudos-de-terceiros/"
+    ]
+  },
+  "G10": {
+    "situacao": "Em junho de 2025, o STF declarou parcialmente inconstitucional, por 8 votos a 3, o artigo 19 do Marco Civil da Internet. Esse artigo só responsabilizava as plataformas depois de uma ordem judicial. Em 17 de junho de 2026, ao julgar recursos, o tribunal ajustou a tese: as redes respondem por \"falha sistêmica\" e devem remover conteúdos graves, como terrorismo e abuso sexual infantil, sem ordem judicial; ofensas à honra ainda exigem ordem judicial. O PL 2630/2020 (PL das Fake News) segue sem votação no Congresso.",
+    "aFavor": [
+      "As plataformas lucram com o alcance dos conteúdos, inclusive com anúncios pagos, e por isso devem responder quando espalham crimes.",
+      "Esperar uma ordem judicial para cada caso é lento; golpes, abuso infantil e incitação à violência causam dano em poucas horas.",
+      "A União Europeia e outros lugares já exigem que grandes redes cumpram deveres de cuidado e de transparência."
+    ],
+    "contra": [
+      "Com medo de punição, as redes tendem a remover conteúdo legítimo em excesso, o que restringe a liberdade de expressão.",
+      "Decidir o que é crime cabe à Justiça, não a empresas privadas; passar essa tarefa às plataformas cria uma censura privada.",
+      "Regras desse tipo deveriam vir de uma lei aprovada pelo Congresso depois de debate público, e não de decisões judiciais."
+    ],
+    "fontes": [
+      "https://noticias.stf.jus.br/postsnoticias/stf-define-parametros-para-responsabilizacao-de-plataformas-por-conteudos-de-terceiros/",
+      "https://agenciabrasil.ebc.com.br/justica/noticia/2025-06/stf-decide-que-redes-devem-ser-responsabilizadas-por-conteudos-ilegais",
+      "https://conjur.com.br/2026-jun-17/stf-amplia-responsabilidade-das-plataformas-digitais-e-redefine-aplicacao-do-marco-civil-da-internet/",
+      "https://www.poder360.com.br/poder-justica/entenda-a-regulamentacao-das-big-techs-definida-pelo-stf/"
+    ]
+  },
+  "G11": {
+    "situacao": "A Lei 14.723/2023 atualizou a Lei de Cotas nas universidades e institutos federais. Ela incluiu os quilombolas, reduziu para um salário mínimo por pessoa o limite de renda da cota para baixa renda e prevê uma avaliação do programa a cada 10 anos. Em junho de 2025, a Lei 15.142 ampliou de 20% para 30% a reserva de vagas para pretos, pardos, indígenas e quilombolas em concursos e seleções federais, com vigência de 10 anos.",
+    "aFavor": [
+      "Pretos e pardos são a maioria da população, mas ainda são minoria em cursos concorridos e em cargos públicos de alta remuneração.",
+      "O racismo afeta as oportunidades mesmo entre pessoas com a mesma renda; por isso, cotas só sociais não bastariam.",
+      "Defensores citam estudos que mostram desempenho e taxa de conclusão dos cotistas próximos aos dos demais estudantes."
+    ],
+    "contra": [
+      "Critérios de cor tratam cidadãos de forma diferente; cotas só por renda e escola pública alcançariam os mais pobres de todas as cores.",
+      "Num país miscigenado, é difícil definir quem é pardo ou negro, o que abre espaço para fraudes e bancas de verificação contestadas.",
+      "O foco deveria ser melhorar a escola pública básica, atacando a causa da desigualdade antes da universidade e do concurso."
+    ],
+    "fontes": [
+      "https://www.planalto.gov.br/ccivil_03/_ato2023-2026/2023/lei/l14723.htm",
+      "https://www.camara.leg.br/noticias/1016535-entra-em-vigor-lei-que-atualiza-sistema-de-cotas-no-ensino-federal/",
+      "https://www.camara.leg.br/noticias/1166154-SANCIONADA-LEI-QUE-AMPLIA-COTAS-EM-CONCURSOS-PUBLICOS-FEDERAIS-PARA-30",
+      "https://www12.senado.leg.br/noticias/materias/2025/06/06/lei-amplia-a-30-as-vagas-para-negros-indigenas-e-quilombolas-em-concursos"
+    ]
+  },
+  "G12": {
+    "situacao": "Pela Constituição, menores de 18 anos não respondem ao Código Penal, e sim ao ECA, que prevê medidas socioeducativas; a internação dura no máximo 3 anos. Em 10 de junho de 2026, a CCJ da Câmara aprovou, por 44 votos a 18, a admissibilidade da PEC 32/2015, que reduz a maioridade penal para 16 anos. O texto ainda precisa passar por uma comissão especial e por dois turnos de votação na Câmara, e depois ir ao Senado.",
+    "aFavor": [
+      "Aos 16 anos o jovem já pode votar e entende o que é crime; quem comete crimes graves deveria responder como adulto.",
+      "O limite de 3 anos de internação seria brando para crimes como homicídio e estupro, e passaria uma sensação de impunidade.",
+      "Facções recrutam adolescentes justamente porque eles recebem punições menores; reduzir a idade diminuiria esse incentivo."
+    ],
+    "contra": [
+      "As prisões estão superlotadas e dominadas por facções; levar jovens de 16 anos para lá tende a aumentar a reincidência.",
+      "Homicídios são uma parte pequena dos atos cometidos por adolescentes; a mudança teria pouco efeito sobre a violência em geral.",
+      "Juristas veem a idade de 18 anos como cláusula pétrea da Constituição, e lembram que o ECA já prevê punição e ressocialização."
+    ],
+    "fontes": [
+      "https://www.camara.leg.br/noticias/1280551-comissao-de-constituicao-e-justica-aprova-pec-que-reduz-maioridade-penal/",
+      "https://agenciabrasil.ebc.com.br/politica/noticia/2026-06/comissao-da-camara-aprova-reducao-da-maioridade-penal-para-16-anos"
+    ]
+  },
+  "G13": {
+    "situacao": "A Constituição (art. 19) proíbe União, estados e municípios de criar, subsidiar ou manter aliança com igrejas e cultos, e garante a liberdade de crença. Isso não impede que parlamentares levem suas convicções religiosas ao debate. Em fevereiro de 2025, a Frente Parlamentar Evangélica reunia 219 deputados e 26 senadores. O STF já derrubou lei estadual que obrigava manter Bíblias em escolas e bibliotecas públicas (ADI 5.258).",
+    "aFavor": [
+      "As leis refletem os valores da sociedade, e a maioria dos brasileiros é religiosa. Ignorar essa visão afastaria a lei de quem ela deve servir.",
+      "Estado laico significa não ter religião oficial, não excluir a fé do debate. Todo cidadão pode defender suas convicções, inclusive as religiosas.",
+      "Tradições religiosas trazem princípios como proteção da vida, da família e solidariedade, que ajudam a orientar escolhas morais nas leis."
+    ],
+    "contra": [
+      "As leis valem para todos, inclusive para quem tem outra fé ou nenhuma. Por isso devem se basear em razões que qualquer cidadão possa aceitar.",
+      "Quando uma crença vira lei, minorias religiosas e não religiosas podem ter direitos limitados. A laicidade protege a liberdade de todas as crenças.",
+      "Misturar religião e Estado pode levar igrejas a disputar poder e recursos públicos, o que também ameaça a independência das próprias religiões."
+    ],
+    "fontes": [
+      "https://portal.stf.jus.br/constituicao-supremo/artigo.asp?abrirBase=CF&abrirArtigo=19",
+      "https://www.camara.leg.br/noticias/1136508-gilberto-nascimento-e-eleito-presidente-da-frente-parlamentar-evangelica/"
+    ]
+  },
+  "G14": {
+    "situacao": "Hoje a Constituição fixa jornada máxima de 44 horas semanais, o que permite a escala 6x1 (seis dias de trabalho e um de folga). Em 27/05/2026 a Câmara aprovou a PEC 221/2019, que reduz a jornada para 40 horas em cinco dias, com duas folgas remuneradas e sem corte de salário, com transição por 42 horas. A CCJ do Senado aprovou o texto em 02/09/2026. A votação no plenário, que exige 49 votos em dois turnos, ainda não ocorreu e foi adiada para depois do 1º turno das eleições.",
+    "aFavor": [
+      "Mais tempo livre melhora a saúde, a convivência familiar e permite estudar. Jornadas longas estão ligadas a estresse, adoecimento e acidentes de trabalho.",
+      "Experiências de redução de jornada mostram que trabalhadores descansados rendem mais e faltam menos, o que compensa parte do custo das empresas.",
+      "A última redução foi em 1988 (de 48 para 44 horas). Desde então a tecnologia elevou a produção, e parte desse ganho deveria virar descanso."
+    ],
+    "contra": [
+      "Reduzir horas sem reduzir salário eleva o custo por hora. Pequenos negócios, comércio e serviços podem contratar menos, demitir ou repassar o custo aos preços.",
+      "A produtividade no Brasil cresce pouco. Cortar horas por lei, antes de ganhos de eficiência, pode reduzir a produção e a competitividade.",
+      "A jornada poderia ser negociada por setor, em acordos coletivos, respeitando realidades diferentes, em vez de uma regra única na Constituição."
+    ],
+    "fontes": [
+      "https://www.camara.leg.br/noticias/1277141-camara-aprova-em-dois-turnos-fim-da-escala-6x1-com-jornada-maxima-de-40-horas-semanais/",
+      "https://www12.senado.leg.br/noticias/materias/2026/09/02/aguardar-fim-da-escala-6x1-passa-na-ccj-e-vai-a-plenario",
+      "https://agenciabrasil.ebc.com.br/politica/noticia/2026-09/senado-oposicao-obstrui-e-fim-da-escala-6x1-nao-vai-plenario"
+    ]
+  },
+  "P01": {
+    "situacao": "Desde 2023 vale o arcabouço fiscal (Lei Complementar 200/2023): a despesa pode crescer até 70% do aumento real da receita (50% se a meta não for cumprida), sempre entre 0,6% e 2,5% acima da inflação. A meta de 2026 é superávit primário de 0,25% do PIB, com tolerância de 0,25 ponto para mais ou para menos. Em setembro de 2026, o governo anunciou contenção de R$ 16,1 bilhões no Orçamento para cumprir a meta.",
+    "aFavor": [
+      "Déficits seguidos aumentam a dívida pública. Com mais dívida, o governo gasta mais com juros e sobra menos para saúde, educação e investimento.",
+      "Contas equilibradas dão confiança a investidores e ajudam a baixar juros e inflação, o que beneficia empresas, empregos e o poder de compra.",
+      "Adiar o ajuste torna o corte futuro maior. Fazer agora evita crises fiscais, que costumam atingir mais os mais pobres."
+    ],
+    "contra": [
+      "Cortar investimentos e programas sociais pode frear o crescimento. Com a economia mais fraca, a arrecadação cai e o déficit pode não diminuir.",
+      "Programas sociais protegem famílias vulneráveis e movimentam o consumo. O equilíbrio pode vir aos poucos, sem sacrificar quem mais depende deles.",
+      "Há outras formas de melhorar as contas, como rever benefícios fiscais e isenções a empresas, sem priorizar cortes em investimento e área social."
+    ],
+    "fontes": [
+      "https://www12.senado.leg.br/noticias/materias/2023/08/31/novo-arcabouco-fiscal-entra-em-vigencia-no-brasil",
+      "https://www.camara.leg.br/noticias/1229998-congresso-aprova-lei-de-diretrizes-orcamentarias-de-2026-com-meta-de-superavit/",
+      "https://agenciabrasil.ebc.com.br/economia/noticia/2026-09/contencao-no-orcamento-e-reduzida-de-r-179-bi-para-r-161-bi"
+    ]
+  },
+  "P02": {
+    "situacao": "A Lei 15.270/2025, sancionada em novembro de 2025 e em vigor desde janeiro de 2026, isentou de IR quem ganha até R$ 5 mil por mês, com desconto parcial até R$ 7.350. Para compensar, criou um imposto mínimo para quem tem renda acima de R$ 600 mil por ano (R$ 50 mil por mês), com alíquota que sobe até 10% a partir de R$ 1,2 milhão. Dividendos acima de R$ 50 mil por mês pagos por uma mesma empresa têm retenção de 10%. Cerca de 141 mil pessoas devem pagar mais.",
+    "aFavor": [
+      "Muitos dos mais ricos pagavam alíquota efetiva menor que a classe média, porque boa parte da renda vinha de dividendos isentos. Cobrar mais corrige isso.",
+      "Com mais imposto no topo, é possível aliviar quem ganha menos sem perder arrecadação, reduzindo a desigualdade de renda no país.",
+      "O ajuste atinge um grupo pequeno, com capacidade de pagar, para financiar alívio a milhões de trabalhadores."
+    ],
+    "contra": [
+      "Os lucros já são tributados na empresa. Cobrar de novo do sócio aumenta a carga total e pode desestimular investimento e abertura de negócios.",
+      "Quem tem renda alta pode mudar investimentos, domicílio fiscal ou estrutura da empresa. A arrecadação esperada pode não vir e o capital pode sair.",
+      "Profissionais liberais e pequenos empresários que recebem por lucros podem ser atingidos, mesmo sem grandes fortunas, com mais custo e burocracia."
+    ],
+    "fontes": [
+      "https://agenciabrasil.ebc.com.br/economia/noticia/2025-12/isencao-de-ir-para-quem-ganha-ate-r-5-mil-entra-em-vigor",
+      "https://www.gov.br/fazenda/pt-br/assuntos/noticias/2026/janeiro/receita-divulga-nova-tabela-do-irpf-com-as-mudancas-apos-isencao-para-quem-ganha-ate-r-5-mil",
+      "https://www.mayerbrown.com/pt/insights/publications/2025/12/enactment-of-law-no-15270-2025-which-establishes-dividend-taxation-expands-the-exemption-threshold-and-introduces-a-minimum-tax-on-high-incomes"
+    ]
+  },
+  "P03": {
+    "situacao": "Em 2025 a China comprou 28,7% das exportações brasileiras (cerca de US$ 100 bilhões), e os EUA, 10,8%. Os EUA impuseram tarifas extras ao Brasil em 2025; depois que a Suprema Corte americana derrubou as tarifas emergenciais, em fevereiro de 2026, o governo americano aplicou em julho de 2026 novas sobretaxas (25% mais 12,5%) sobre cerca de US$ 6,6 bilhões em produtos brasileiros. Em 27/07/2026 o Brasil acionou a OMC. O Brasil integra o BRICS, junto com China, Rússia, Índia, África do Sul e outros países.",
+    "aFavor": [
+      "Os EUA são a maior economia do mundo e uma das maiores fontes de investimento e tecnologia no Brasil. Relação próxima pode abrir mercados e atrair empresas.",
+      "O Brasil compartilha com os EUA valores como democracia e economia de mercado. Aproximar-se de China e Rússia pode associar o país a regimes autoritários.",
+      "As vendas aos EUA incluem mais produtos industrializados, que geram empregos mais qualificados do que a exportação de matérias-primas à China."
+    ],
+    "contra": [
+      "A China compra quase três vezes mais do Brasil que os EUA. Priorizar um lado pode custar mercados para o agro, a mineração e o emprego.",
+      "Manter boas relações com vários polos dá mais poder de negociação. O BRICS amplia a voz do Brasil em comércio, finanças e na reforma de organismos globais.",
+      "Os EUA impuseram tarifas ao Brasil em 2025 e em 2026. Depender mais de um só parceiro deixa o país vulnerável a decisões unilaterais."
+    ],
+    "fontes": [
+      "https://istoedinheiro.com.br/ranking-paises-exportacoes-brasil-importa-2025",
+      "https://agenciabrasil.ebc.com.br/economia/noticia/2026-07/brasil-aciona-omc-contra-tarifas-impostas-pelos-estados-unidos",
+      "https://www.cnnbrasil.com.br/economia/macroeconomia/1-ano-depois-do-tarifaco-ao-brasil-situacao-com-eua-segue-indefinida/"
+    ]
+  },
+  "P04": {
+    "situacao": "A Lei Complementar 179/2021 deu autonomia ao Banco Central: presidente e diretores têm mandatos fixos de quatro anos, que não coincidem com o do presidente da República. O STF confirmou a validade da lei em 2021. A taxa Selic é definida pelo Copom; em 16/09/2026 foi reduzida de 14% para 13,75% ao ano, quinto corte seguido desde março. No Senado, a PEC 65/2023, que daria também autonomia financeira e orçamentária ao BC, foi aprovada na CCJ e aguarda votação no plenário.",
+    "aFavor": [
+      "Com mandato fixo, o BC pode tomar decisões impopulares no curto prazo, como subir juros para conter a inflação, sem pressão do calendário eleitoral.",
+      "A autonomia dá credibilidade: se o mercado confia que a inflação será controlada, as expectativas caem e o juro necessário tende a ser menor.",
+      "É o modelo adotado pela maioria dos países desenvolvidos e por muitos emergentes, que associam bancos centrais autônomos a inflação mais estável."
+    ],
+    "contra": [
+      "Juros afetam emprego, crédito e crescimento. Decisões tão importantes deveriam responder a um governo eleito, que presta contas nas urnas.",
+      "Sem coordenação com o governo, o BC pode manter juros altos por muito tempo, encarecendo a dívida pública e freando investimento e emprego.",
+      "Diretores com mandato fixo podem ficar mais próximos da visão do mercado financeiro do que de prioridades da população, como emprego e renda."
+    ],
+    "fontes": [
+      "https://portal.stf.jus.br/noticias/verNoticiaDetalhe.asp?idConteudo=471872&ori=1",
+      "https://agenciabrasil.ebc.com.br/economia/noticia/2026-09/bc-reduz-juros-basicos-para-1375-ao-ano",
+      "https://www12.senado.leg.br/noticias/materias/2026/09/01/plinio-valerio-cobra-votacao-de-pec-que-amplia-autonomia-do-banco-central"
+    ]
+  },
+  "P05": {
+    "situacao": "Desde maio de 2023, a Petrobras não segue mais a paridade de preço de importação (PPI) e diz que evita repassar de imediato a oscilação do petróleo e do câmbio aos preços no Brasil. Em 2026, com a alta do petróleo, o governo passou a subsidiar combustíveis. Em 29 de maio, a gasolina subiu R$ 0,48 por litro na venda às distribuidoras, com desconto de R$ 0,44 bancado pela União. Em 17 de setembro, o diesel subiu R$ 1 por litro, compensado por subsídio federal do mesmo valor por 30 dias.",
+    "aFavor": [
+      "Vender abaixo do preço internacional reduz o lucro da Petrobras, que também pertence ao país, e pode afastar investimentos em produção e refino.",
+      "Preço artificial desestimula importadores e concorrentes, e aumenta o risco de faltar combustível quando o país precisa importar.",
+      "Segurar preço por decisão política deixa as regras menos claras. Subsídios, quando necessários, deveriam vir do orçamento de forma transparente."
+    ],
+    "contra": [
+      "O Brasil produz a maior parte do petróleo que consome. O preço pode refletir o custo local, e não só a cotação em dólar.",
+      "Combustível caro encarece frete, alimentos e transporte, e pesa mais para os mais pobres. Suavizar as altas protege a economia.",
+      "Uma empresa controlada pelo Estado pode ter papel estratégico e evitar que crises externas cheguem de uma vez ao consumidor."
+    ],
+    "fontes": [
+      "https://agencia.petrobras.com.br/w/negocio/petrobras-informa-sobre-ajuste-nos-pre%C3%A7os-de-gasolina%C2%A0",
+      "https://www.correiobraziliense.com.br/economia/2026/09/7502485-petrobras-reajusta-diesel-mas-valor-ao-consumidor-nao-muda.html",
+      "https://agenciabrasil.ebc.com.br/economia/noticia/2023-12/entenda-como-os-precos-dos-combustiveis-variaram-em-2023"
+    ]
+  },
+  "P06": {
+    "situacao": "A principal política industrial federal hoje é a Nova Indústria Brasil (NIB), com financiamento do BNDES e da Finep para áreas como fertilizantes, saúde, inteligência artificial, mobilidade sustentável e defesa. Em fevereiro de 2026, o BNDES anunciou mais R$ 70 bilhões para o programa. Em 26 de junho de 2026, o governo anunciou mais R$ 140 bilhões até dezembro de 2026 (R$ 102,5 bilhões do BNDES e R$ 37,5 bilhões da Finep). Com isso, o total previsto passa de R$ 750 bilhões entre 2023 e 2026.",
+    "aFavor": [
+      "Setores novos e de alto risco, como tecnologia e saúde, dificilmente recebem crédito longo e barato só do mercado privado.",
+      "Países como EUA, China e membros da União Europeia usam política industrial. Sem ela, o Brasil perde espaço e empregos qualificados.",
+      "Produzir aqui itens estratégicos, como fertilizantes e remédios, reduz a dependência de importações em tempos de crise."
+    ],
+    "contra": [
+      "Crédito subsidiado tem custo para o Tesouro, pago por todos os contribuintes, e esse dinheiro poderia ir para outras áreas.",
+      "Quando o governo escolhe setores, há risco de favorecer grupos com mais influência política e não os mais produtivos.",
+      "Experiências passadas com crédito farto a grandes empresas não trouxeram ganho duradouro de produtividade, segundo críticos."
+    ],
+    "fontes": [
+      "https://diariodocomercio.com.br/economia/nova-industria-brasil-investimentos/",
+      "https://www.gov.br/secom/pt-br/acompanhe-a-secom/noticias/2026/02/nova-industria-brasil-ganha-reforco-de-r-70-bilhoes-para-impulsionar-a-economia"
+    ]
+  },
+  "GV01": {
+    "situacao": "O governo de Minas detém cerca de 51% das ações com direito a voto da Cemig, o que lhe dá o controle da empresa. Em 2025, a Assembleia retirou da Constituição mineira a exigência de referendo para vender a Copasa, mas a manteve para a Cemig e a Gasmig. Com isso, a venda da Cemig ainda depende de consulta popular. A Copasa foi privatizada por oferta de ações em bolsa concluída em junho de 2026, que movimentou R$ 8,4 bilhões.",
+    "aFavor": [
+      "O dinheiro da venda poderia abater a dívida de Minas com a União e liberar recursos para saúde, educação e segurança.",
+      "Uma empresa privada tem mais liberdade para investir e contratar, e pode melhorar o serviço, sob fiscalização da Aneel.",
+      "O Estado deixa de correr risco empresarial e passa a focar em funções que só ele pode cumprir."
+    ],
+    "contra": [
+      "A Cemig dá lucro e paga dividendos ao Estado. Vender a empresa troca uma renda contínua por um valor único.",
+      "Energia é estratégica. O controle público permite orientar investimentos para regiões menos lucrativas e para o desenvolvimento do estado.",
+      "Privatizações de energia em outros estados não garantiram tarifa menor nem atendimento melhor, segundo críticos."
+    ],
+    "fontes": [
+      "https://www.otempo.com.br/politica/2025/12/18/apos-autorizar-venda-de-copasa-assembleia-afasta-privatizacao-da-cemig",
+      "https://www.cnnbrasil.com.br/infra/privatizacao-da-copasa-se-torna-2a-maior-do-setor-de-saneamento/",
+      "https://www.otempo.com.br/economia/2026/6/16/copasa-vira-um-opcao-estavel-para-investidores-apos-conclusao-da-privatizacao"
+    ]
+  },
+  "GV02": {
+    "situacao": "A PM de Minas começou a usar câmeras nas fardas no fim de 2022 e tem cerca de 1.600 aparelhos, bem menos que o número de policiais nas ruas. Em abril de 2025, a Justiça negou pedido do Ministério Público para obrigar o uso por todos os policiais do policiamento ostensivo. Desde maio de 2024, a Portaria 648 do Ministério da Justiça fixa regras para o uso das câmeras e condiciona a elas o repasse de verbas federais para esses projetos. Em São Paulo, estudo da FGV associou as câmeras a uma queda de 57% nas mortes em ações policiais.",
+    "aFavor": [
+      "Estudos em São Paulo associaram as câmeras à queda de mortes e lesões causadas em ações policiais.",
+      "As gravações servem de prova em processos e protegem o policial contra acusações falsas.",
+      "O registro aumenta a transparência e a confiança da população na polícia."
+    ],
+    "contra": [
+      "Comprar, manter e armazenar vídeos custa caro. O dinheiro poderia ir para viaturas, efetivo e salários.",
+      "Gravação contínua em turnos de 12 horas expõe a intimidade do policial e pode inibir sua ação em situações de risco.",
+      "A redução da violência depende mais de treinamento e comando do que do equipamento, e os resultados variam entre estados."
+    ],
+    "fontes": [
+      "https://correiodeminas.com.br/2025/04/26/mg-justica-nega-pedido-do-mp-para-uso-de-cameras-corporais-na-pm-entenda/",
+      "https://www.gov.br/mj/pt-br/assuntos/sua-seguranca/seguranca-publica/PORTARIA648de2024.pdf",
+      "https://agenciabrasil.ebc.com.br/geral/noticia/2023-05/letalidade-policial-em-sao-paulo-cai-com-uso-de-cameras-corporais",
+      "https://www.metropoles.com/minas-gerais/cameras-em-pms-viram-campo-de-batalha-da-eleicao-em-mg-veja-posicoes"
+    ]
+  },
+  "GV03": {
+    "situacao": "A Lei estadual 23.291/2019 (Mar de Lama Nunca Mais), aprovada após o rompimento em Brumadinho, proibiu novas barragens de rejeitos a montante. Ela também deu prazo até fevereiro de 2022 para desativar as existentes. Das 54 barragens desse tipo, poucas foram desativadas no prazo, e acordos com as mineradoras estenderam os prazos, em alguns casos até 2035. Em 2025, Minas liderou a arrecadação de royalties da mineração (CFEM) no país, com R$ 3,57 bilhões de um total de R$ 7,91 bilhões.",
+    "aFavor": [
+      "Os desastres de Mariana e Brumadinho mostraram que falhas custam vidas, rios e cidades inteiras. Prevenção vale mais que reparação.",
+      "Prazos para desativar barragens já foram descumpridos. Regras e punições mais duras dariam mais força à fiscalização.",
+      "Mineração tem prazo de validade. Regras rígidas protegem água, turismo e agricultura, que continuam depois que a mina fecha."
+    ],
+    "contra": [
+      "A lei de 2019 já é das mais rígidas do país. O problema está em fiscalizar e cumprir as regras atuais, não em criar outras.",
+      "Várias cidades dependem dos empregos e dos royalties da mineração. Menos investimento reduz renda e serviços públicos locais.",
+      "Exigências excessivas podem levar empresas a investir em outros estados ou países, sem ganho real de segurança."
+    ],
+    "fontes": [
+      "https://barragens.mpmg.mp.br/",
+      "https://manuelzao.ufmg.br/mar-de-lama-nunca-mais-mineradoras-perdem-o-prazo-para-desmontar-49-barragens-a-montante/",
+      "https://www.gov.br/anm/pt-br/assuntos/noticias/quase-r-8-bilhoes-arrecadados-com-royalties-da-mineracao-em-2025",
+      "https://revistamineracao.com.br/2026/01/13/arrecadacao-da-cfem-soma-r-791-bi-em-2025-e-registra-a-segunda-maior-marca-da-historia/"
+    ]
+  },
+  "GV04": {
+    "situacao": "Em março de 2026, a Assembleia aprovou e o governo sancionou uma recomposição de 5,4% para cerca de 673 mil servidores do Executivo (ativos, aposentados e pensionistas), retroativa a janeiro. O custo estimado é de R$ 3,4 bilhões por ano. Sindicatos pediam um índice maior, perto de 8,8%. Ao aderir ao Propag, programa federal de renegociação da dívida, Minas se compromete a limitar o crescimento dos gastos à inflação (IPCA), com um acréscimo parcial quando a receita cresce acima dela.",
+    "aFavor": [
+      "Anos sem reposição reduziram o poder de compra dos servidores. Ganho real ajuda a recuperar parte dessa perda.",
+      "Salário melhor atrai e mantém bons professores e profissionais, o que melhora escolas, hospitais e segurança.",
+      "Servidores são essenciais ao serviço público. Valorizar a carreira é investimento na população, não só gasto."
+    ],
+    "contra": [
+      "Minas tem dívida bilionária e limite de gastos no Propag. Aumentos acima da inflação reduzem o dinheiro para obras e serviços.",
+      "Reajuste é gasto permanente. Se a receita cair, o Estado pode voltar a atrasar ou parcelar salários.",
+      "Com recursos limitados, pode ser melhor priorizar reposição da inflação e investir em áreas com mais impacto direto."
+    ],
+    "fontes": [
+      "https://www.almg.gov.br/comunicacao/noticias/arquivos/Revisoes-salariais-de-servidores-do-Estado-aprovadas-em-definitivo/",
+      "https://maisminas.com.br/noticias-mg/governo-de-minas-recomposicao-salarial/",
+      "https://ofator.com.br/informacao/tesouro-nacional-define-regras-para-fiscalizar-teto-gastos-propag/"
+    ]
+  },
+  "GV05": {
+    "situacao": "O ICMS é a maior receita de Minas: rendeu R$ 85,5 bilhões em 2025, de um total de R$ 113,2 bilhões arrecadados pelo estado, segundo a Secretaria de Fazenda. A alíquota padrão em Minas é de 18%. Pela reforma tributária (Emenda Constitucional 132/2023), o ICMS será reduzido aos poucos entre 2029 e 2032 e deixará de existir em 2033, substituído pelo IBS. Em 2026 o IBS está só em fase de teste, sem cobrança efetiva.",
+    "aFavor": [
+      "Imposto menor deixa Minas mais competitiva frente a estados vizinhos e pode atrair fábricas, empregos e renda que compensam a perda com o tempo.",
+      "O ICMS pesa no preço final. Reduzi-lo alivia consumidores e empresas e estimula a atividade econômica, o que também gera arrecadação.",
+      "Até 2032 o ICMS ainda é a ferramenta que o estado tem. Atrair investimentos agora deixa empresas já instaladas quando o IBS chegar."
+    ],
+    "contra": [
+      "O ICMS paga saúde, educação e segurança. Abrir mão de receita pode cortar serviços em um estado que tem dívida alta com a União.",
+      "Cortar imposto para atrair empresas alimenta a guerra fiscal: outros estados reagem, o ganho some e a perda de receita permanece.",
+      "Com o fim do ICMS em 2033, empresas atraídas só pelo benefício podem ir embora depois. Investir em infraestrutura e qualificação dura mais."
+    ],
+    "fontes": [
+      "https://www12.senado.leg.br/noticias/materias/2024/12/16/novos-tributos-comecam-a-ser-testados-em-2026-e-transicao-vai-ate-2033",
+      "https://www.fazenda.mg.gov.br/reforma-tributaria/",
+      "https://diariodocomercio.com.br/economia/arrecadacao-minas-gerais-avanca-totaliza-r-1132-bilhoes-2025/",
+      "https://focusnfe.com.br/blog/tabela-icms/"
+    ]
+  },
+  "GV06": {
+    "situacao": "O modelo começou na rede estadual em 2020, em parceria com a Polícia Militar e os Bombeiros, e chegou a 9 escolas. O TCE-MG e o TJMG mandaram descontinuar o programa, apontando falta de lei específica e falhas no orçamento; em 9/7/2026 o TJMG manteve essa decisão. O governo enviou à ALMG o PL 5.545/2026, que cria o programa por lei e está na Comissão de Constituição e Justiça. Em julho de 2026, deputados protocolaram uma PEC sobre o tema.",
+    "aFavor": [
+      "Mais disciplina e segurança criam um ambiente melhor para aprender, sobretudo em escolas de regiões com violência e evasão escolar.",
+      "A adesão é voluntária e depende de consulta à comunidade. Famílias que querem esse modelo devem poder escolhê-lo.",
+      "Colégios ligados às forças de segurança têm bons resultados em avaliações, e o modelo leva parte dessa experiência à rede comum."
+    ],
+    "contra": [
+      "O dinheiro pago a militares poderia contratar professores, psicólogos e melhorar a estrutura, o que ataca as causas da indisciplina.",
+      "A escola deve formar pensamento crítico e convivência democrática. Regras militares podem priorizar a obediência e reprimir a diversidade.",
+      "Pesquisadores atribuem os bons resultados dos colégios militares à seleção de alunos e à maior verba por aluno, não ao modelo disciplinar."
+    ],
+    "fontes": [
+      "https://www.em.com.br/politica/2026/04/7396354-simoes-envia-a-assembleia-projeto-que-cria-escolas-civico-militares-em-mg.html",
+      "https://www.tvcparacatu.com.br/2026/07/10/justica-mantem-fim-das-escolas-civico-militares-em-minas/",
+      "https://www.almg.gov.br/projetos-de-lei/PL/5545/2026",
+      "https://ofator.com.br/informacao/o-plano-de-deputados-favoraveis-as-escolas-civico-militares-para-emplacar-modelo-em-mg/"
+    ]
+  },
+  "S01": {
+    "situacao": "Pela Constituição, só o Senado processa e julga ministros do STF por crime de responsabilidade, com base na Lei 1.079/1950. Nenhum pedido contra ministro do STF chegou a ser votado no plenário do Senado. Em dezembro de 2025, uma liminar do ministro Gilmar Mendes (ADPFs 1.259 e 1.260) passou a exigir dois terços dos senadores (54 votos) para abrir o processo; ela ainda aguarda análise do plenário do STF. O Senado discute uma nova Lei do Impeachment (PL 1.388/2023).",
+    "aFavor": [
+      "Ninguém deve estar acima de controle. O impeachment é o freio que a Constituição prevê para abusos de ministros do STF.",
+      "Arquivar todos os pedidos sem análise deixa o Senado omisso. Dar andamento permite apurar as denúncias, com direito de defesa e voto.",
+      "Ministros não passam por eleição e ficam até os 75 anos. O Senado é a única instância que pode responsabilizá-los politicamente."
+    ],
+    "contra": [
+      "Muitos pedidos questionam o conteúdo de decisões judiciais. Punir um juiz pelo que ele decide ameaça a independência do Judiciário.",
+      "Usar o impeachment como resposta a decisões que desagradam pode virar instrumento de pressão política e desequilibrar os Poderes.",
+      "Há outros caminhos para corrigir excessos, como recursos, revisão pelo plenário do STF e mudanças na lei pelo Congresso."
+    ],
+    "fontes": [
+      "https://www12.senado.leg.br/radio/1/noticia/2025/12/12/gilmar-mendes-reconsidera-suspensao-parcial-da-lei-do-impeachment-de-ministros",
+      "https://www12.senado.leg.br/noticias/materias/2025/12/03/senado-reage-a-decisao-que-dificulta-impeachment-de-ministros-do-stf",
+      "https://www.correiobraziliense.com.br/aqui/2026/09/21/senado-2027-impeachment-de-ministros-do-stf-pauta-as-eleicoes/",
+      "https://www.migalhas.com.br/quentes/455135/impeachment-de-ministros-do-stf-volta-ao-radar-liminar-barra-avanco"
+    ]
+  },
+  "S02": {
+    "situacao": "Hoje ministros do STF são indicados pelo presidente, aprovados pelo Senado e ficam no cargo até a aposentadoria obrigatória aos 75 anos, sem prazo fixo. No Senado, a PEC 16/2019 cria mandato fixo (o texto passou de 8 para 12 anos) e aguarda votação na CCJ. Outras propostas no Congresso sugerem prazos entre 8 e 15 anos, sem recondução.",
+    "aFavor": [
+      "Mandato fixo renova a Corte com regularidade e evita que um ministro fique décadas no cargo, como pode acontecer hoje.",
+      "Cada presidente indicaria um número mais previsível de ministros, sem depender do acaso de mortes e aposentadorias.",
+      "Cortes constitucionais de outros países, como a Alemanha, usam mandatos fixos (12 anos) sem perder independência."
+    ],
+    "contra": [
+      "Ficar até os 75 anos protege o ministro de pressões: ele não precisa agradar ninguém pensando no próximo emprego.",
+      "Trocas mais frequentes podem politizar a Corte, com cada governo buscando moldar o STF de acordo com seus interesses.",
+      "Mandatos curtos aumentam a rotatividade e a perda de experiência, e ex-ministros ainda jovens podem ir para a advocacia ou a política."
+    ],
+    "fontes": [
+      "https://www12.senado.leg.br/noticias/materias/2025/10/23/plinio-valerio-pede-votacao-de-proposta-que-limita-mandato-de-ministros-do-stf",
+      "https://www12.senado.leg.br/tv/programas/argumento/2026/05/senador-acredita-que-rejeicao-de-jorge-messias-pode-impulsionar-pec-sobre-mandato-no-stf",
+      "https://www.cnnbrasil.com.br/politica/mandatos-fixos-para-ministros-o-proximo-passo-do-senado-no-embate-com-o-stf/"
+    ]
+  },
+  "S03": {
+    "situacao": "Hoje um ministro do STF pode, sozinho, suspender uma lei por liminar. Desde dezembro de 2022, regra interna do STF obriga levar essas decisões logo ao plenário, e as liminares individuais concedidas caíram mais de 70%. A PEC 8/2021, aprovada pelo Senado em novembro de 2023 (52 votos a 18), proíbe decisões individuais que suspendam leis ou atos dos presidentes da República, do Senado e da Câmara. Na Câmara, a CCJ aprovou a admissibilidade em 9/10/2024; faltam comissão especial e dois turnos no plenário.",
+    "aFavor": [
+      "Uma lei aprovada por centenas de parlamentares eleitos não deveria ser suspensa pela vontade de um único ministro.",
+      "Decisões do colegiado dão mais segurança jurídica e evitam que o resultado dependa de qual ministro recebeu o caso.",
+      "A PEC ainda permite decisão individual no recesso em casos urgentes, com prazo para o plenário julgar, o que mantém a proteção."
+    ],
+    "contra": [
+      "Em casos urgentes, esperar o plenário pode deixar uma lei inconstitucional causar danos que depois não podem ser desfeitos.",
+      "O próprio STF já passou a exigir que liminares individuais sejam levadas logo ao plenário. Mudar a Constituição para isso seria desnecessário.",
+      "Limitar o STF por emenda constitucional pode enfraquecer o controle sobre leis e desequilibrar a relação entre os Poderes."
+    ],
+    "fontes": [
+      "https://www.conjur.com.br/2023-nov-22/senado-aprova-em-primeiro-turno-pec-que-limita-decisoes-monocraticas-do-stf/",
+      "https://www.camara.leg.br/noticias/1101762-comissao-de-constituicao-e-justica-aprova-proposta-que-limita-decisao-monocratica-no-stf/",
+      "https://www.conjur.com.br/2026-jun-08/stf-reduz-em-mais-de-70-liminares-monocraticas-concedidas-desde-2022/"
+    ]
+  },
+  "S04": {
+    "situacao": "Hoje o presidente, deputados, senadores e ministros de Estado respondem por crimes comuns no STF. Desde 2018 o STF limita o foro a crimes cometidos no cargo e em razão dele; em março de 2025 decidiu que o foro continua mesmo depois que a pessoa deixa o cargo. A PEC 333/2017, aprovada pelo Senado em 2017, mantém o foro só para presidente e vice da República e presidentes da Câmara, do Senado e do STF. Ela aguarda votação no plenário da Câmara desde 2018.",
+    "aFavor": [
+      "Todos devem ser julgados pelas mesmas regras. O foro especial dá a políticos um tratamento diferente do resto da população.",
+      "O STF é uma corte constitucional e não foi feito para conduzir processos criminais. Julgar políticos toma tempo de outros temas.",
+      "Com juízes de primeira instância em todo o país, os processos poderiam andar mais rápido do que em uma corte de 11 ministros."
+    ],
+    "contra": [
+      "O foro protege o cargo, não a pessoa: evita que um juiz local, sujeito a pressões, afaste autoridades por motivos políticos.",
+      "Na primeira instância cabem muitos recursos. Os processos podem demorar mais e chegar à prescrição, o que favorece a impunidade.",
+      "Um tribunal único dá decisões mais uniformes do que milhares de juízes com entendimentos diferentes sobre casos de políticos."
+    ],
+    "fontes": [
+      "https://www.camara.leg.br/noticias/549635-comissao-especial-aprova-foro-privilegiado-apenas-para-os-chefes-dos-tres-poderes-da-uniao",
+      "https://site.mppr.mp.br/criminal/Noticia/STF-fixa-nova-regra-para-o-foro-privilegiado",
+      "https://www.gazetadopovo.com.br/republica/projeto-fim-foro-privilegiado-prioridade-congresso/"
+    ]
+  },
+  "S05": {
+    "situacao": "Hoje a Constituição permite uma reeleição seguida para presidente, governador e prefeito (regra criada pela Emenda Constitucional 16, de 1997). A PEC 12/2022 acaba com a reeleição e unifica em 5 anos os mandatos de todos os cargos, com eleições gerais a partir de 2034. A CCJ do Senado aprovou a proposta em 21/05/2025. Até setembro de 2026 ela aguarda votação no Plenário do Senado e depois ainda precisa passar pela Câmara.",
+    "aFavor": [
+      "Quem está no cargo usa a máquina pública, a agenda oficial e a visibilidade para se reeleger, o que torna a disputa desigual.",
+      "Sem pensar na reeleição, o governante pode tomar decisões necessárias e impopulares, em vez de governar de olho na próxima eleição.",
+      "Um mandato único de 5 anos dá tempo para executar um programa e favorece a renovação de lideranças."
+    ],
+    "contra": [
+      "A reeleição permite ao eleitor premiar um bom governo e dar continuidade a projetos que levam mais de um mandato.",
+      "Quem sabe que vai ser avaliado nas urnas presta mais contas. Sem reeleição, o governante do último mandato não responde ao eleitor por seus atos.",
+      "Se o governo for ruim, 5 anos sem poder trocar é um período longo. A alternância já é possível pelo voto."
+    ],
+    "fontes": [
+      "https://www12.senado.leg.br/noticias/materias/2025/05/21/ccj-aprova-fim-da-reeleicao-mandatos-de-cinco-anos-e-eleicoes-unificadas",
+      "https://www25.senado.leg.br/web/atividade/materias/-/materia/153068",
+      "https://www12.senado.leg.br/noticias/materias/2026/01/23/pecs-do-mandato-de-5-anos-e-do-fim-da-escala-6x1-podem-ir-a-plenario"
+    ]
+  },
+  "DF01": {
+    "situacao": "O Orçamento da União de 2026, aprovado pelo Congresso em 19/12/2025, previu cerca de R$ 61 bilhões em emendas parlamentares. Desse total, R$ 26,6 bilhões são emendas individuais, R$ 11,2 bilhões são de bancada e R$ 12,1 bilhões são de comissão. Desde 2024, o ministro Flávio Dino, do STF, vem dando decisões que exigem que se saiba quem pediu cada emenda e para onde o dinheiro foi, depois do fim do chamado orçamento secreto.",
+    "aFavor": [
+      "As emendas ocupam uma fatia grande das despesas livres do governo, o que dificulta planejar políticas públicas nacionais.",
+      "Parte das emendas ainda é difícil de rastrear, e isso abre espaço para desvios e para o uso eleitoral do dinheiro público.",
+      "Regras mais rígidas permitem que a população e os órgãos de controle saibam quem indicou cada verba e qual foi o resultado."
+    ],
+    "contra": [
+      "Deputados conhecem as necessidades locais e levam recursos a municípios pequenos que o governo federal muitas vezes não alcança.",
+      "Cortar as emendas concentra o poder sobre o orçamento no Executivo e reduz o papel do Congresso, que representa o eleitor.",
+      "As emendas já seguem regras de transparência e decisões do STF. Novas exigências podem atrasar obras e serviços nas cidades."
+    ],
+    "fontes": [
+      "https://www.camara.leg.br/noticias/1235253-congresso-nacional-aprova-orcamento-de-2026-com-r-65-trilhoes-em-despesas",
+      "https://www.cnnbrasil.com.br/politica/congresso-aprova-orcamento-de-2026-com-r-61-bi-em-emendas/",
+      "https://noticias.stf.jus.br/postsnoticias/stf-estabelece-novos-prazos-para-que-executivo-aprimore-mecanismo-de-transparencia-das-emendas-parlamentares/"
+    ]
+  },
+  "DF02": {
+    "situacao": "Desde 2001, o STF pode abrir ação penal contra deputados e senadores sem pedir licença ao Congresso. A Casa do parlamentar pode apenas suspender o andamento do processo. Em 16/09/2025 a Câmara aprovou a PEC 3/2021 (chamada PEC da Blindagem), que exigia autorização do Congresso em votação secreta para processar parlamentares. Em 24/09/2025 a CCJ do Senado rejeitou a proposta por unanimidade, e ela foi arquivada.",
+    "aFavor": [
+      "A regra protege o mandato dado pelo eleitor contra processos usados como perseguição política.",
+      "A autorização do Congresso reforça a separação entre os Poderes e evita que o Judiciário interfira no Legislativo.",
+      "A exigência já existia na Constituição de 1988 até 2001, como forma de proteger a liberdade de atuação dos parlamentares."
+    ],
+    "contra": [
+      "Parlamentares devem responder à Justiça como qualquer cidadão. Exigir licença dos próprios colegas favorece a impunidade.",
+      "Entre 1988 e 2001, quase nenhum pedido para processar parlamentares foi autorizado, e muitos casos ficaram parados.",
+      "A imunidade por opiniões e votos já protege o mandato. Estender a proteção a crimes comuns vai além do necessário."
+    ],
+    "fontes": [
+      "https://agenciabrasil.ebc.com.br/politica/noticia/2025-09/pec-da-blindagem-e-aprovada-por-deputados-e-vai-ao-senado",
+      "https://www12.senado.leg.br/noticias/materias/2025/09/24/ccj-rejeita-pec-que-exige-autorizacao-para-acao-penal-contra-parlamentares",
+      "https://www12.senado.leg.br/radio/1/noticia/2025/09/24/ccj-rejeita-pec-da-blindagem"
+    ]
+  },
+  "DF03": {
+    "situacao": "Em 2023, o STF rejeitou a tese do marco temporal, e logo depois o Congresso aprovou a Lei 14.701/2023, que a adotava. Em dezembro de 2025, o STF julgou essa lei e declarou de novo que o marco temporal é inconstitucional, mas manteve outros trechos dela. Em 09/12/2025, o Senado aprovou a PEC 48/2023, que coloca o marco temporal na Constituição. A proposta agora está na Câmara.",
+    "aFavor": [
+      "Uma data fixa dá segurança jurídica a produtores e moradores que ocupam terras há décadas e evita disputas sem fim.",
+      "A Constituição fala em terras que os indígenas 'ocupam', no presente, e 1988 é um critério objetivo para ler essa regra.",
+      "O critério reduz conflitos no campo e protege investimentos e empregos em regiões com pedidos de demarcação."
+    ],
+    "contra": [
+      "Muitos povos não estavam em suas terras em 1988 porque tinham sido expulsos, às vezes com violência. O marco ignora essa história.",
+      "O STF já decidiu duas vezes que o direito dos indígenas à terra tradicional não depende de uma data.",
+      "Terras indígenas demarcadas ajudam a conservar florestas e a proteger modos de vida e culturas."
+    ],
+    "fontes": [
+      "https://www.socioambiental.org/noticias-socioambientais/stf-conclui-julgamento-e-rejeita-marco-temporal-mas-mantem-retrocessos-da",
+      "https://www.migalhas.com.br/quentes/446840/ponto-a-ponto-entenda-decisao-do-stf-que-derrubou-o-marco-temporal",
+      "https://www25.senado.leg.br/web/atividade/materias/-/materia/160148",
+      "https://www.gov.br/povosindigenas/pt-br/assuntos/noticias/2025/12/stf-inicia-julgamento-de-acoes-sobre-marco-temporal-com-disputa-entre-lei-aprovada-pelo-congresso-e-decisao-de-inconstitucionalidade-da-corte"
+    ]
+  },
+  "DF04": {
+    "situacao": "A Lei Geral do Licenciamento Ambiental (Lei 15.190/2025) foi sancionada em agosto de 2025 com 63 vetos, e em 27/11/2025 o Congresso derrubou 52 deles. A lei amplia a Licença por Adesão e Compromisso (LAC), em que o próprio empreendedor declara que cumpre as regras. Ações no STF questionam a lei, e em 26/08/2026 o julgamento foi adiado, sem nova data.",
+    "aFavor": [
+      "O licenciamento atual é lento e cheio de burocracia. Obras de infraestrutura, saneamento e energia ficam paradas por anos.",
+      "Regras nacionais mais claras reduzem a insegurança jurídica e atraem investimentos que geram emprego.",
+      "Simplificar para obras de menor impacto deixa os órgãos ambientais livres para focar nos casos de maior risco."
+    ],
+    "contra": [
+      "Com a autodeclaração, empreendimentos podem começar sem uma análise técnica prévia, o que aumenta o risco de danos ambientais.",
+      "Tragédias como as de Mariana e Brumadinho mostram o custo de uma fiscalização fraca. Afrouxar o controle pode repetir esses desastres.",
+      "Reduzir a consulta a comunidades indígenas, quilombolas e a órgãos de proteção deixa de fora quem é afetado pelas obras."
+    ],
+    "fontes": [
+      "https://www12.senado.leg.br/noticias/materias/2025/11/27/congresso-derruba-52-itens-de-veto-a-lei-geral-do-licenciamento-ambiental",
+      "https://www12.senado.leg.br/radio/1/noticia/2026/08/26/lei-sobre-licenciamento-ambiental-tem-julgamento-adiado-pelo-stf",
+      "https://agenciabrasil.ebc.com.br/meio-ambiente/noticia/2026-02/lei-do-licenciamento-ambiental-entra-em-vigor-com-acoes-no-stf-0"
+    ]
+  },
+  "DF05": {
+    "situacao": "O Fundo Especial de Financiamento de Campanha (fundo eleitoral) existe desde 2017, depois que o STF proibiu doações de empresas para campanhas (decisão de 2015). Para as eleições de 2026, o fundo tem cerca de R$ 4,9 bilhões, o mesmo valor de 2022 e bem acima dos R$ 1,7 bilhão de 2018. O TSE divide o dinheiro entre os partidos principalmente pelo tamanho das bancadas na Câmara e no Senado.",
+    "aFavor": [
+      "São bilhões de reais que poderiam ir para saúde, educação ou segurança, em vez de pagar propaganda eleitoral.",
+      "A divisão segue o tamanho das bancadas e concentra o dinheiro nos maiores partidos e nos candidatos escolhidos pelos dirigentes.",
+      "Campanhas mais baratas, com mais uso da internet e de doações de pessoas físicas, obrigam os candidatos a buscar apoio real do eleitor."
+    ],
+    "contra": [
+      "Sem dinheiro de empresas, o fundo público evita que as campanhas dependam de grandes doadores e de seus interesses.",
+      "O fundo permite que candidatos sem fortuna pessoal disputem eleições, e garante verbas mínimas para mulheres e pessoas negras.",
+      "Cortar o fundo pode aumentar o caixa dois e a influência de quem tem mais dinheiro, como o crime organizado."
+    ],
+    "fontes": [
+      "https://www.tse.jus.br/comunicacao/noticias/2026/Junho/tse-divulga-distribuicao-do-fundo-especial-de-financiamento-de-campanha-para-as-eleicoes-2026",
+      "https://www.camara.leg.br/noticias/1205778-comissao-de-orcamento-eleva-recursos-do-fundo-eleitoral-para-2026",
+      "https://www.tre-sp.jus.br/comunicacao/noticias/2026/Junho/eleicoes-2026-saiba-como-os-fundos-eleitoral-e-partidario-sao-usados-nas-campanhas-e-na-estrutura-dos-partidos"
+    ]
+  },
+  "DF06": {
+    "situacao": "A Lei 14.843/2024 acabou com a saída temporária de presos do regime semiaberto para visitar a família e participar de atividades em feriados e datas comemorativas. Em 28/05/2024 o Congresso derrubou o veto do presidente a esse ponto (314 a 126 na Câmara e 52 a 11 no Senado). Hoje a saída só é permitida para estudar (ensino médio, superior ou curso profissionalizante). O STF ainda vai decidir se a nova regra vale para crimes cometidos antes da lei (Tema 1.381).",
+    "aFavor": [
+      "Parte dos presos não volta ou comete crimes durante a saída; acabar com o benefício reduz esse risco para a população.",
+      "A pena deve ser cumprida com rigor; a ressocialização pode ocorrer por trabalho e estudo dentro do sistema, sem saídas.",
+      "Vítimas e famílias veem a saída em datas festivas como impunidade, o que abala a confiança na Justiça."
+    ],
+    "contra": [
+      "A grande maioria dos presos volta no prazo; a saída prepara o retorno gradual à sociedade e ajuda a reduzir a reincidência.",
+      "Manter laços com a família é um dos fatores que mais ajudam o preso a não voltar ao crime depois de solto.",
+      "Sem saídas, o regime semiaberto perde sentido e aumenta a tensão em presídios já superlotados."
+    ],
+    "fontes": [
+      "https://www12.senado.leg.br/noticias/materias/2024/05/28/pela-segunda-vez-congresso-acaba-com-saidas-temporarias-de-presos-em-feriados",
+      "https://www.congressonacional.leg.br/materias/vetos/-/veto/detalhe/16409",
+      "https://agenciabrasil.ebc.com.br/politica/noticia/2024-05/congresso-derruba-veto-de-lula-e-volta-proibir-saidinha-de-presos",
+      "https://portal.stf.jus.br/jurisprudenciaRepercussao/verAndamentoProcesso.asp?incidente=7137543&numeroProcesso=1532446&classeProcesso=RE&numeroTema=1381"
+    ]
+  },
+  "DE01": {
+    "situacao": "A Constituição de Minas (art. 14, § 17) exige referendo popular para desestatizar empresas do estado de energia elétrica, gás canalizado e saneamento, como Cemig e Gasmig. Em novembro de 2025 a ALMG aprovou, por 48 votos a 22, a Emenda à Constituição 117, que retirou essa exigência só para a Copasa. A Copasa foi privatizada por oferta de ações em junho de 2026, com o grupo Equatorial como acionista de referência (30% do capital), e o Cade deu aval final à operação em 22/09/2026. Uma ação no STF (ADI 7902) questiona a emenda.",
+    "aFavor": [
+      "Estatais de serviços essenciais pertencem a toda a população; uma decisão tão grande e difícil de reverter deve passar pelo voto direto.",
+      "O referendo protege contra vendas feitas às pressas, por necessidade de caixa de um governo, sem debate amplo com a sociedade.",
+      "Água, luz e gás afetam tarifas e atendimento por décadas; o eleitor deve ter a palavra final sobre quem controla esses serviços."
+    ],
+    "contra": [
+      "Os deputados eleitos já representam a população e podem decidir; o referendo encarece e atrasa decisões econômicas.",
+      "O referendo só pode ocorrer junto com eleições, o que pode travar por anos uma venda que ajudaria a pagar a dívida do estado.",
+      "Temas técnicos, como valor das ações e modelo de regulação, são difíceis de resumir numa pergunta de sim ou não."
+    ],
+    "fontes": [
+      "https://www.almg.gov.br/comunicacao/noticias/arquivos/Emenda-que-acaba-com-referendo-para-privatizacao-da-Copasa-e-promulgada/",
+      "https://www.almg.gov.br/comunicacao/noticias/arquivos/Proposta-que-facilita-privatizacao-da-Copasa-e-aprovada-em-definitivo/",
+      "https://noticias.stf.jus.br/postsnoticias/stf-deve-analisar-norma-mineira-que-retira-consulta-popular-em-processo-de-privatizacao-da-copasa/",
+      "https://www.otempo.com.br/politica/2026/9/22/cade-da-aval-final-e-copasa-fica-livre-para-concluir-privatizacao-entenda-os-proximos-passos"
+    ]
+  },
+  "DE02": {
+    "situacao": "A Lei federal 11.738/2008 criou o piso nacional do magistério; em 2026 ele é de R$ 5.130,63 para 40 horas semanais (Portaria MEC nº 82, de 30/01/2026). Na rede estadual mineira a jornada é de 24 horas, e o governo paga o valor proporcional (cerca de R$ 2.920 em 2025, 60% do piso), o que o sindicato da categoria contesta. Os servidores da educação estadual entraram em greve em 4 de março de 2026, cobrando o piso e a recomposição de perdas salariais.",
+    "aFavor": [
+      "O piso é lei federal e é o mínimo para quem ensina; pagá-lo por inteiro é cumprir a lei e valorizar a profissão.",
+      "Salário baixo afasta bons profissionais e aumenta a falta de professores; sem eles, a qualidade do ensino cai.",
+      "Educação deve ser prioridade no orçamento; outras despesas podem ser revistas para garantir esse direito."
+    ],
+    "contra": [
+      "Como o piso é fixado para 40 horas, pagar valor proporcional a jornadas de 24 horas já cumpre a lei.",
+      "Minas tem déficit e gasto com pessoal acima do limite legal; um aumento grande pode atrasar salários e travar outros serviços.",
+      "Cortar outras áreas, como saúde e segurança, para cobrir a folha pode prejudicar a população que depende desses serviços."
+    ],
+    "fontes": [
+      "https://www.gov.br/mec/pt-br/assuntos/noticias/2026/janeiro/piso-nacional-do-magisterio-e-fixado-em-r-5-1-mil",
+      "https://sindutemg.org.br/noticias/reajuste-de-56-nao-nos-atende-piso-e-o-minimo/",
+      "https://www.em.com.br/gerais/2026/02/7363700-professores-e-servidores-da-rede-estadual-de-educacao-entram-em-greve.html",
+      "https://www.almg.gov.br/comunicacao/noticias/arquivos/Governo-anuncia-recomposicao-do-piso-da-educacao/"
+    ]
+  },
+  "DE03": {
+    "situacao": "A Constituição de Minas (art. 157, § 2º) diz que o orçamento deve ter, entre suas funções, a de reduzir desigualdades entre as regiões do estado, segundo critério populacional, e a lei orçamentária deve identificar os investimentos por região. Pelo Atlas do Desenvolvimento Humano (dados do Censo 2010), os piores índices do estado se concentram no Norte de Minas e nos vales do Jequitinhonha e do Mucuri. Essas regiões contam com um órgão estadual próprio de desenvolvimento, o Idene.",
+    "aFavor": [
+      "Onde há mais pobreza e menos serviços, cada real investido tende a gerar mais efeito em saúde, educação e renda.",
+      "Sem mais recursos para essas regiões, a desigualdade se mantém por gerações e leva jovens a sair em busca de oportunidades.",
+      "A própria Constituição mineira diz que o orçamento deve ajudar a reduzir as desigualdades entre as regiões do estado."
+    ],
+    "contra": [
+      "O dinheiro deve seguir onde vive mais gente e há mais demanda; a maior parte da população mineira está em outras regiões.",
+      "Uma fatia maior fixada por região engessa o orçamento; é melhor decidir por programas e indicadores de cada município.",
+      "Mais recurso sem boa gestão não resolve; o foco deve ser atrair investimento privado e melhorar a execução dos projetos."
+    ],
+    "fontes": [
+      "https://www.almg.gov.br/atividade-parlamentar/leis/constituicao-estadual?aba=pesquisa&pesquisou=true",
+      "https://www.tjmg.jus.br/data/files/D3/24/D7/B7/8FC5A5103B71C5A5480808A8/Constituicao%20Estadual%20-%20atual.%2006.02.2017.pdf",
+      "https://www.em.com.br/app/noticia/politica/2013/07/30/interna_politica,429106/minas-gerais-retrata-o-indice-de-desenvolvimento-humano-brasileiro.shtml",
+      "https://www.almg.gov.br/acompanhe/noticias/arquivos/2018/11/20_plenario_municipios_idene.html"
+    ]
+  },
+  "DE04": {
+    "situacao": "O transporte metropolitano por ônibus da Grande BH é regulado pelo governo do estado e operado por empresas concessionárias. Em 9 de janeiro de 2026 as tarifas subiram 8,93% e passaram a variar de R$ 6,10 a R$ 62,45, conforme a linha. Em 2024 o estado destinou R$ 382 milhões de um acordo judicial para comprar cerca de 600 ônibus novos, mas disse não ter plano de subsídio à tarifa. As empresas pedem um subsídio parecido com o que a Prefeitura de BH paga ao sistema municipal (R$ 756,9 milhões previstos para 2026).",
+    "aFavor": [
+      "Tarifa mais barata amplia o acesso a trabalho, estudo e saúde para quem mora longe do centro e gasta muito com passagem.",
+      "Mais gente no ônibus reduz trânsito, poluição e acidentes, benefícios que atingem toda a região, não só quem usa.",
+      "Sem subsídio, o custo fica todo com o passageiro, a tarifa sobe, o uso cai e o sistema entra num ciclo de piora."
+    ],
+    "contra": [
+      "O subsídio usa impostos de todo o estado, inclusive de quem vive longe da Grande BH e não usa esse transporte.",
+      "Com déficit no orçamento, o estado teria de tirar dinheiro de outras áreas ou se endividar para bancar a tarifa.",
+      "Pagar às empresas sem contratos com metas e controle rigoroso pode cobrir ineficiência em vez de melhorar o serviço."
+    ],
+    "fontes": [
+      "https://www.otempo.com.br/cidades/2025/12/30/tarifas-de-onibus-metropolitanos-da-grande-bh-terao-reajuste-de-8-93-em-2026",
+      "https://www.em.com.br/gerais/2024/11/6996781-empresas-de-onibus-metropolitanos-cobram-subsidio-do-governo-de-minas.html",
+      "https://www.otempo.com.br/politica/aparte/2024/12/18/governo-de-minas-utiliza-dinheiro-de-acordo-para-onibus-mas-nega-subsidio",
+      "https://www.em.com.br/gerais/2025/12/7323649-subsidio-ao-transporte-publico-de-bh-sera-de-rs-7569-milhoes-em-2026.html"
+    ]
+  },
+  "DE05": {
+    "situacao": "O governo de Minas comanda as polícias Militar e Civil e o sistema prisional. Segundo o Anuário Brasileiro de Segurança Pública, a fatia do orçamento mineiro destinada à segurança caiu de 12,7% em 2021 para 9,7% em 2025, a maior queda proporcional entre os estados. O orçamento de 2026, aprovado pela ALMG em dezembro de 2025, prevê déficit de R$ 5,2 bilhões, e o estado renegocia pelo Propag sua dívida com a União.",
+    "aFavor": [
+      "Segurança é condição para o resto: sem ela, comércio, escolas e serviços de saúde também sofrem com a violência.",
+      "Polícias e presídios precisam de efetivo, equipamentos e salários adequados, e a fatia da segurança no orçamento mineiro caiu.",
+      "Investir em inteligência e investigação aumenta a solução de crimes e reduz a sensação de impunidade."
+    ],
+    "contra": [
+      "Saúde e educação também têm grandes carências; tirar recursos delas pode piorar serviços que a população usa todo dia.",
+      "Mais dinheiro não garante menos crime; o resultado depende de gestão, integração entre as polícias e uso de dados.",
+      "Prevenção, como escola em tempo integral e oportunidades para jovens, também reduz a violência a longo prazo."
+    ],
+    "fontes": [
+      "https://tribunademinas.com.br/noticias/minas/23-07-2026/seguranca-publica-perde-espaco-no-orcamento-de-minas-gerais.html",
+      "https://www.almg.gov.br/comunicacao/noticias/arquivos/Orcamento-do-Estado-para-2026-e-aprovado/"
+    ]
+  }
+}

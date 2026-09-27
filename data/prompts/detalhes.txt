@@ -1,0 +1,24 @@
+Você vai escrever o material "Mais detalhes" de cada pergunta de um app neutro de orientação de voto (Minas Gerais, eleições de 2026; hoje é 26/09/2026). Trabalhe em /Users/filipemeireles/Documents/match-eleitoral/. Leia data/questions.json: são 42 afirmações, cada uma com um "contexto" curto que já aparece no app.
+
+Para cada pergunta, escreva um texto que ajude um eleitor comum a formar opinião, SEM induzir a resposta. Use a busca na web para checar fatos, números e datas atuais (setembro de 2026). Formato de saída, em data/detalhes.json:
+
+{
+  "G01": {
+    "situacao": "2 a 4 frases sobre o estado atual do tema no Brasil (ou em Minas, para GV*/DE*): o que a lei diz hoje, o que está em discussão, números relevantes, com datas.",
+    "aFavor": ["argumento 1 de quem concorda com a afirmação", "argumento 2", "argumento 3 (opcional)"],
+    "contra": ["argumento 1 de quem discorda", "argumento 2", "argumento 3 (opcional)"],
+    "fontes": ["https://...", "https://..."]
+  },
+  ...
+}
+
+Regras:
+- Português do Brasil, linguagem simples, frases curtas. Cada argumento com até 200 caracteres.
+- Mesmo número de argumentos dos dois lados, com a mesma força e o mesmo cuidado. Apresente cada argumento como ele é defendido pelos seus melhores defensores, não como caricatura. Não use adjetivos avaliativos nem diga qual lado tem razão.
+- Não atribua argumentos a partidos ou candidatos específicos.
+- "situacao" deve conter só fatos verificáveis, e as fontes (2 a 4 por pergunta, preferindo órgãos oficiais, dados públicos e veículos jornalísticos reconhecidos) devem sustentar esses fatos.
+- Se o "contexto" existente em questions.json tiver algum erro factual, NÃO altere questions.json; liste o problema em data/detalhes_correcoes.md com a fonte.
+- Não use travessão (—) em nenhum texto; use vírgula, dois-pontos ou parênteses.
+- Grave o arquivo aos poucos (a cada ~6 perguntas). Não escreva fora de data/detalhes.json e data/detalhes_correcoes.md.
+
+Ao terminar, responda com quantas perguntas foram cobertas e os problemas encontrados nos contextos.

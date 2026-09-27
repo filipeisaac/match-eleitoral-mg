@@ -1,0 +1,794 @@
+[
+ {
+  "id": 130002539775,
+  "nomeUrna": "ALEXANDRE KALIL",
+  "resumo": "Ex-prefeito de Belo Horizonte (2017 a 2022) e ex-presidente do Atlético-MG. Disputou o governo de Minas em 2022 e concorre de novo em 2026 pelo PDT, com Carlos Mosconi (PSDB) de vice.",
+  "bandeiras": [
+   "Saúde pública",
+   "Negociação da dívida de Minas com a União (Propag)",
+   "Estrutura das polícias e segurança pública"
+  ],
+  "posicoes": {
+   "G01": {
+    "v": 2,
+    "conf": "declaracao",
+    "fonte": "https://www.otempo.com.br/eleicoes/2026/governadores/2026/9/10/kalil-quer-usar-recursos-de-isencoes-fiscais-dadas-a-empresas-para-investir-em-saude-no-estado",
+    "nota": "Em 10/09/2026 propôs retirar de 30% a 50% das isenções de ICMS de grandes empresas para reinvestir em saúde."
+   },
+   "G03": {
+    "v": 2,
+    "conf": "declaracao",
+    "fonte": "https://www.otempo.com.br/politica/2025/7/10/kalil-defende-privatizacoes-mas-rejeita-venda-da-cemig-ela-da-lucro",
+    "nota": "Em 10/07/2025 disse 'vamos privatizar, sim, mas o que dá prejuízo'; rejeita vender estatais lucrativas como a Cemig."
+   },
+   "G07": {
+    "v": 4,
+    "conf": "declaracao",
+    "fonte": "https://www.em.com.br/politica/2026/09/7498883-o-que-o-futuro-governador-de-minas-propoe-para-controlar-a-mineracao.html",
+    "nota": "Ao Estado de Minas (12/09/2026) disse que a expansão da mineração deve estar condicionada à segurança das pessoas e à proteção ambiental."
+   },
+   "GV01": {
+    "v": 1,
+    "conf": "declaracao",
+    "fonte": "https://www.otempo.com.br/eleicoes/2026/governadores/2026/9/14/nos-tivemos-tempos-melhores-diz-kalil-ao-comentar-cenario-politico-em-minas",
+    "nota": "Na sabatina de O Tempo (14/09/2026) respondeu 'contra' à venda de estatais como a Cemig; também critica a privatização da Copasa."
+   },
+   "GV02": {
+    "v": 4,
+    "conf": "declaracao",
+    "fonte": "https://kikacastro.com.br/wp-content/uploads/2026/08/plano-governo-kalil-2026-tre.pdf",
+    "nota": "Plano (TSE 2026) prevê universalizar câmeras corporais aos poucos; em 09/2026 disse que antes a PM precisa de gasolina, armas e treino."
+   },
+   "GV03": {
+    "v": 3,
+    "conf": "declaracao",
+    "fonte": "https://kikacastro.com.br/wp-content/uploads/2026/08/plano-governo-kalil-2026-tre.pdf",
+    "nota": "Plano de governo (TSE 2026): licenciamento com 'rigor técnico, previsibilidade e prazo'; fiscalização presencial contínua de barragens."
+   },
+   "GV04": {
+    "v": 2,
+    "conf": "declaracao",
+    "fonte": "https://www.otempo.com.br/eleicoes/2026/governadores/2026/9/14/nos-tivemos-tempos-melhores-diz-kalil-ao-comentar-cenario-politico-em-minas",
+    "nota": "Em 14/09/2026, sobre reajuste da polícia: 'Se tiver o dinheiro, tem que dar reajuste. Se não tiver, não pode dar'."
+   },
+   "GV05": {
+    "v": 2,
+    "conf": "declaracao",
+    "fonte": "https://www.otempo.com.br/eleicoes/2026/governadores/2026/8/27/em-cafe-com-empresarios-kalil-ataca-atual-governo-de-minas-e-critica-isencoes-aberracao",
+    "nota": "Em 27/08/2026 chamou de 'aberração' as isenções de ICMS dadas a setores econômicos; plano prevê reavaliar incentivos periodicamente."
+   },
+   "GV06": {
+    "v": 1,
+    "conf": "declaracao",
+    "fonte": "https://jornalgeraes.com.br/kalil-critica-escolas-civico-militares/",
+    "nota": "Em 03/08/2026 chamou o modelo cívico-militar de 'idiota'; ao O Tempo disse que escola 'não é cantar hino nacional e raspar a cabeça'."
+   }
+  }
+ },
+ {
+  "id": 130002544411,
+  "nomeUrna": "BEN MENDES",
+  "resumo": "Advogado e jornalista, apresenta o quadro 'Ronda do Consumidor', exibido no SBT desde 2024. Disputa sua primeira eleição, para governador pelo Missão, com Cabo David Souza de vice.",
+  "bandeiras": [
+   "Ferrovias e logística",
+   "Combate ao crime organizado",
+   "Educação básica"
+  ],
+  "posicoes": {
+   "G03": {
+    "v": 4,
+    "conf": "declaracao",
+    "fonte": "https://www.otempo.com.br/eleicoes/2026/candidatos/minas-gerais/governador/ben-mendes-14",
+    "nota": "Em entrevista ao Café com Política (O Tempo), disse apoiar privatizações e que 'deve privatizar a Copasa'."
+   },
+   "GV03": {
+    "v": 2,
+    "conf": "declaracao",
+    "fonte": "https://www.otempo.com.br/eleicoes/2026/candidatos/minas-gerais/governador/ben-mendes-14",
+    "nota": "Plano (TSE 2026), segundo O Tempo: unificar órgãos ambientais para acelerar licenciamentos e licença sumária de 60 dias em ferrovias."
+   },
+   "GV05": {
+    "v": 4,
+    "conf": "declaracao",
+    "fonte": "https://www.otempo.com.br/eleicoes/2026/candidatos/minas-gerais/governador/ben-mendes-14",
+    "nota": "Plano (TSE 2026), segundo O Tempo: abater até 50% do ICMS de quem investir em ferrovias e dar isenções a quem pavimentar estradas."
+   }
+  }
+ },
+ {
+  "id": 130002552296,
+  "nomeUrna": "CLEITINHO AZEVEDO",
+  "resumo": "Senador por Minas desde 2023, ex-deputado estadual (2019 a 2022) e ex-vereador de Divinópolis. Candidato a governador pelo Republicanos.",
+  "bandeiras": [
+   "Corte de privilégios e de gastos da máquina pública",
+   "Redução de tarifas e tributos (Copasa, energia, IPVA)",
+   "Renegociação da dívida de Minas com a União"
+  ],
+  "posicoes": {
+   "G01": {
+    "v": 3,
+    "conf": "declaracao",
+    "fonte": "https://kikacastro.com.br/wp-content/uploads/2026/08/plano-de-governo-cleitinho-e-falcao2mb.pdf",
+    "nota": "Plano de governo (TSE 2026): cortes no orçamento não afetarão serviços essenciais nem programas sociais; em discurso (12/08/2026) defendeu reduzir tributos."
+   },
+   "G05": {
+    "v": 1,
+    "conf": "declaracao",
+    "fonte": "https://www25.senado.leg.br/web/atividade/pronunciamentos/-/p/pronunciamento/500847",
+    "nota": "Em discurso no Senado (26/09/2023) manifestou-se contra a descriminalização do aborto; reiterou a posição em 18/06/2024."
+   },
+   "G06": {
+    "v": 1,
+    "conf": "voto",
+    "fonte": "https://legis.senado.leg.br/dadosabertos/votacao?codigoParlamentar=6337&dataInicio=2024-04-16&dataFim=2024-04-16",
+    "nota": "Votou sim à PEC 45/2023 (criminaliza porte de drogas em qualquer quantidade) em 16/04/2024; criticou o julgamento do STF em 2023 e 2024."
+   },
+   "G07": {
+    "v": 2,
+    "conf": "voto",
+    "fonte": "https://legis.senado.leg.br/dadosabertos/votacao?codigoParlamentar=6337&dataInicio=2025-05-21&dataFim=2025-05-21",
+    "nota": "Votou sim ao PL 2159/2021 (nova lei geral do licenciamento ambiental) no Senado em 21/05/2025."
+   },
+   "G08": {
+    "v": 5,
+    "conf": "voto",
+    "fonte": "https://legis.senado.leg.br/dadosabertos/votacao?codigoParlamentar=6337&dataInicio=2025-12-17&dataFim=2025-12-17",
+    "nota": "Votou sim ao PL 2162/2023 (redução de penas do 8/1) em 17/12/2025; em discursos de 2023 a 2025 defendeu anistia aos envolvidos."
+   },
+   "G09": {
+    "v": 5,
+    "conf": "voto",
+    "fonte": "https://legis.senado.leg.br/dadosabertos/votacao?codigoParlamentar=6337&dataInicio=2023-11-22&dataFim=2023-11-22",
+    "nota": "Votou sim à PEC 8/2021 (limita decisões monocráticas do STF) em 22/11/2023; em 2025 e 2026 defendeu impeachment de ministros do STF."
+   },
+   "G11": {
+    "v": 2,
+    "conf": "voto",
+    "fonte": "https://legis.senado.leg.br/dadosabertos/votacao?codigoParlamentar=6337&dataInicio=2023-10-24&dataFim=2023-10-24",
+    "nota": "Registrou voto contrário à renovação da Lei de Cotas (PL 5384/2020) no Senado em 24/10/2023."
+   },
+   "G12": {
+    "v": 4,
+    "conf": "declaracao",
+    "fonte": "https://www25.senado.leg.br/web/atividade/pronunciamentos/-/p/pronunciamento/510478",
+    "nota": "Em discurso no Senado (04/12/2024) defendeu que jovens de 16 e 17 anos que cometem crimes respondam como adultos."
+   },
+   "G14": {
+    "v": 4,
+    "conf": "declaracao",
+    "fonte": "https://www25.senado.leg.br/web/atividade/pronunciamentos/-/p/pronunciamento/523261",
+    "nota": "Defende o fim da escala 6x1 sem redução salarial (discursos de 2024 a 2026); propõe compensar o custo das empresas com corte de impostos."
+   },
+   "GV01": {
+    "v": 2,
+    "conf": "declaracao",
+    "fonte": "https://www.itatiaia.com.br/politica/eleicoes/privatizar-ou-nao-saiba-a-opiniao-de-cada-candidato-sobre-o-futuro-da-cemig/",
+    "nota": "Em ago/2026 disse não ter vontade de privatizar a Cemig e, em 17/09/2026, que não venderá estatais lucrativas; em 2022 defendia privatizar a Cemig."
+   },
+   "GV02": {
+    "v": 4,
+    "conf": "declaracao",
+    "fonte": "https://www.otempo.com.br/eleicoes/2026/governadores/2026/9/17/cleitinho-diz-que-policiais-vao-usar-cameras-corporais-crime-organizado-estado-desorganizado",
+    "nota": "Em 17/09/2026 disse que policiais vão usar câmeras corporais; no debate da Band (16/08/2026) havia dito que a polícia não usaria."
+   },
+   "GV03": {
+    "v": 3,
+    "conf": "declaracao",
+    "fonte": "https://kikacastro.com.br/wp-content/uploads/2026/08/plano-de-governo-cleitinho-e-falcao2mb.pdf",
+    "nota": "Plano de governo (TSE 2026): fiscalização diária de barragens e licenciamento ambiental simplificado, 'sem redução do rigor técnico'."
+   },
+   "GV04": {
+    "v": 4,
+    "conf": "declaracao",
+    "fonte": "https://kikacastro.com.br/wp-content/uploads/2026/08/plano-de-governo-cleitinho-e-falcao2mb.pdf",
+    "nota": "Plano de governo (TSE 2026): recomposição salarial contínua na segurança pública; cortes de orçamento não atingiriam carreiras de servidores."
+   },
+   "GV05": {
+    "v": 2,
+    "conf": "declaracao",
+    "fonte": "https://kikacastro.com.br/wp-content/uploads/2026/08/plano-de-governo-cleitinho-e-falcao2mb.pdf",
+    "nota": "Plano de governo (TSE 2026): rever todas as renúncias fiscais e manter só as que comprovem empregos e arrecadação; criticou isenções em debate."
+   }
+  }
+ },
+ {
+  "id": 130002550834,
+  "nomeUrna": "FLÁVIO ROSCOE",
+  "resumo": "Empresário e ex-presidente da Fiemg, a federação das indústrias de Minas. Estreia em eleições como candidato do PL ao governo de Minas, com Ellen Miziara (PL) de vice.",
+  "bandeiras": [
+   "Equilíbrio fiscal e cobrança da CFEM",
+   "Segurança com câmeras de reconhecimento facial",
+   "Ambiente de negócios e tributação"
+  ],
+  "posicoes": {
+   "G01": {
+    "v": 3,
+    "conf": "declaracao",
+    "fonte": "https://kikacastro.com.br/wp-content/uploads/2026/08/plano-de-governo-flavio-roscoe.pdf",
+    "nota": "Plano de governo (TSE 2026): reduzir despesa com pessoal ao limite prudencial, sem subir imposto, e usar CFEM cobrada em saúde e segurança."
+   },
+   "G03": {
+    "v": 3,
+    "conf": "declaracao",
+    "fonte": "https://www.otempo.com.br/eleicoes/2026/governadores/2026/8/20/roscoe-alfineta-tulio-e-diz-que-debate-sobre-privatizacao-e-ideologico-importante-e-a-eficiencia",
+    "nota": "Em 20/08/2026 disse que 'privado ou estatal é discussão ideológica' e que o critério é a eficiência."
+   },
+   "G07": {
+    "v": 2,
+    "conf": "declaracao",
+    "fonte": "https://www.em.com.br/politica/2026/09/7498883-o-que-o-futuro-governador-de-minas-propoe-para-controlar-a-mineracao.html",
+    "nota": "Ao Estado de Minas (12/09/2026): 'Precisamos parar de demonizar a mineração'; defende licenciamento 'com menos subjetividade'."
+   },
+   "GV01": {
+    "v": 2,
+    "conf": "declaracao",
+    "fonte": "https://investidor10.com.br/noticias/privatizacao-da-cemig-cmig4-sai-do-radar-com-eleicao-em-minas-gerais-122742/",
+    "nota": "Segundo o Investidor10 (20/09/2026), é contra privatizar a Cemig. Defendeu a privatização da Copasa no debate da Band."
+   },
+   "GV02": {
+    "v": 4,
+    "conf": "declaracao",
+    "fonte": "https://www.metropoles.com/minas-gerais/flavio-roscoe-propoe-policiais-com-cameras-e-presos-trabalhando-em-mg",
+    "nota": "Em 30/08/2026 defendeu câmeras corporais: 'É uma proteção para o agente, mas não precisa estar ligada 24 horas'."
+   },
+   "GV03": {
+    "v": 2,
+    "conf": "declaracao",
+    "fonte": "https://www.em.com.br/politica/2026/09/7498883-o-que-o-futuro-governador-de-minas-propoe-para-controlar-a-mineracao.html",
+    "nota": "Ao Estado de Minas (12/09/2026) defendeu simplificar o licenciamento, alinhando-o à lei federal, e punir quem descumpre a legislação."
+   },
+   "GV04": {
+    "v": 2,
+    "conf": "declaracao",
+    "fonte": "https://kikacastro.com.br/wp-content/uploads/2026/08/plano-de-governo-flavio-roscoe.pdf",
+    "nota": "Plano de governo (TSE 2026): compromete-se a reduzir a despesa com pessoal de 48,22% para o limite prudencial de 46,55% da RCL."
+   },
+   "GV05": {
+    "v": 4,
+    "conf": "declaracao",
+    "fonte": "https://kikacastro.com.br/wp-content/uploads/2026/08/plano-de-governo-flavio-roscoe.pdf",
+    "nota": "Plano (TSE 2026): diferimento de ICMS na importação de insumos e regimes especiais; benefício fiscal atrelado a geração de emprego."
+   }
+  }
+ },
+ {
+  "id": 130002549557,
+  "nomeUrna": "GABRIEL",
+  "resumo": "Advogado e professor universitário; foi vereador de BH (2017 a 2024), presidente da Câmara Municipal (2023 a 2024) e candidato a prefeito em 2024. Candidato a governador pelo MDB.",
+  "bandeiras": [
+   "Ferrovias e infraestrutura",
+   "Educação com foco em aprendizagem",
+   "Responsabilidade fiscal e revisão de subsídios"
+  ],
+  "posicoes": {
+   "G03": {
+    "v": 2,
+    "conf": "declaracao",
+    "fonte": "https://gabriel15.com.br/wp-content/uploads/2026/08/d0e3bd04-Carta_Compromisso_Servico_Publico_Minas_Gerais.pdf",
+    "nota": "Em carta de 28/07/2026 prometeu não privatizar Ipsemg, UEMG e Unimontes, nem Cemig e Copasa sem referendo; aceita concessões de rodovias."
+   },
+   "GV01": {
+    "v": 1,
+    "conf": "declaracao",
+    "fonte": "https://gabriel15.com.br/wp-content/uploads/2026/09/Carta_Resposta_FAEMG_Sistema_Sindical_Rural_Mineiro_Final.pdf",
+    "nota": "Na Band (16/08/2026) disse ser contra vender Cemig e Copasa; em carta à Faemg (09/2026) escreveu 'Não privatizarei a Cemig'."
+   },
+   "GV02": {
+    "v": 4,
+    "conf": "declaracao",
+    "fonte": "https://www.metropoles.com/minas-gerais/cameras-em-pms-viram-campo-de-batalha-da-eleicao-em-mg-veja-posicoes",
+    "nota": "Em 09/2026 defendeu que a gravação das câmeras corporais seja 'automática e ininterrupta', com exceções para inteligência e intimidade."
+   },
+   "GV03": {
+    "v": 4,
+    "conf": "declaracao",
+    "fonte": "https://kikacastro.com.br/wp-content/uploads/2026/08/plano-de-governo-final.pdf",
+    "nota": "Plano de governo (TSE 2026): auditoria independente e cadastro público de barragens; coordenação de obras sem flexibilizar licenciamento."
+   },
+   "GV04": {
+    "v": 2,
+    "conf": "declaracao",
+    "fonte": "https://gabriel15.com.br/wp-content/uploads/2026/08/d0e3bd04-Carta_Compromisso_Servico_Publico_Minas_Gerais.pdf",
+    "nota": "Em carta de 28/07/2026 não assumiu percentual de reajuste, citando gasto acima do limite prudencial; promete cumprir o piso nacional."
+   },
+   "GV05": {
+    "v": 2,
+    "conf": "declaracao",
+    "fonte": "https://gabriel15.com.br/wp-content/uploads/2026/09/Carta_Resposta_AMM_Prefeitas_Prefeitos_Minas_Gerais.pdf",
+    "nota": "Em carta à AMM (12/09/2026) prometeu revisar renúncias de ICMS sem contrapartida, sem 'decisão genérica contra os incentivos'."
+   },
+   "GV06": {
+    "v": 1,
+    "conf": "declaracao",
+    "fonte": "https://gabriel15.com.br/wp-content/uploads/2026/09/Carta_Resposta_Sind_REDE_BH_Formatada_Final.pdf",
+    "nota": "Em cartas de 09/2026 disse ser contrário à militarização e que não implantará escolas cívico-militares; manteria os Colégios Tiradentes."
+   }
+  }
+ },
+ {
+  "id": 130002552308,
+  "nomeUrna": "HENRIQUE ÁREAS",
+  "resumo": "Jornalista, candidato do PCO ao governo de Minas. Disputou eleições em São Paulo (prefeito em 2016, deputado federal em 2018). Registro indeferido pela Justiça Eleitoral, com recurso.",
+  "bandeiras": [
+   "Reposição das perdas salariais",
+   "Redução da jornada para 35 horas semanais",
+   "Cancelamento das privatizações"
+  ],
+  "posicoes": {
+   "G01": {
+    "v": 1,
+    "conf": "declaracao",
+    "fonte": "https://kikacastro.com.br/wp-content/uploads/2026/08/pcoprogramadegoverno2026-1.pdf",
+    "nota": "Plano de governo (TSE 2026): defende o fim do teto de gastos e da LRF, mais verbas para serviços públicos e é contra cortes de gastos."
+   },
+   "G02": {
+    "v": 4,
+    "conf": "declaracao",
+    "fonte": "https://kikacastro.com.br/wp-content/uploads/2026/08/pcoprogramadegoverno2026-1.pdf",
+    "nota": "Plano de governo (TSE 2026): propõe Bolsa Família de pelo menos um salário mínimo e auxílio emergencial."
+   },
+   "G03": {
+    "v": 1,
+    "conf": "declaracao",
+    "fonte": "https://kikacastro.com.br/wp-content/uploads/2026/08/pcoprogramadegoverno2026-1.pdf",
+    "nota": "Plano de governo (TSE 2026): defende cancelar todas as privatizações e reestatizar as empresas vendidas."
+   },
+   "G04": {
+    "v": 4,
+    "conf": "declaracao",
+    "fonte": "https://kikacastro.com.br/wp-content/uploads/2026/08/pcoprogramadegoverno2026-1.pdf",
+    "nota": "Plano de governo (TSE 2026): defende 'direito de autodefesa e armamento' para trabalhadores do campo e indígenas."
+   },
+   "G09": {
+    "v": 5,
+    "conf": "declaracao",
+    "fonte": "https://kikacastro.com.br/wp-content/uploads/2026/08/pcoprogramadegoverno2026-1.pdf",
+    "nota": "Plano de governo (TSE 2026): diz que o Judiciário 'atua acima dos demais poderes' e propõe o fim do STF."
+   },
+   "G10": {
+    "v": 2,
+    "conf": "declaracao",
+    "fonte": "https://kikacastro.com.br/wp-content/uploads/2026/08/pcoprogramadegoverno2026-1.pdf",
+    "nota": "Plano de governo (TSE 2026): defende 'liberdade irrestrita de expressão' na internet, o fim da censura e a revogação da 'Lei Felca'."
+   },
+   "G14": {
+    "v": 5,
+    "conf": "declaracao",
+    "fonte": "https://kikacastro.com.br/wp-content/uploads/2026/08/pcoprogramadegoverno2026-1.pdf",
+    "nota": "Plano de governo (TSE 2026): propõe jornada máxima de 7 horas diárias, 5 dias por semana (35 horas), sem redução de salário."
+   },
+   "GV01": {
+    "v": 1,
+    "conf": "declaracao",
+    "fonte": "https://kikacastro.com.br/wp-content/uploads/2026/08/pcoprogramadegoverno2026-1.pdf",
+    "nota": "Plano de governo (TSE 2026): defende cancelar todas as privatizações e reestatizar empresas; não cita a Cemig nominalmente."
+   },
+   "GV04": {
+    "v": 5,
+    "conf": "declaracao",
+    "fonte": "https://kikacastro.com.br/wp-content/uploads/2026/08/pcoprogramadegoverno2026-1.pdf",
+    "nota": "Plano de governo (TSE 2026): propõe reposição integral das perdas salariais e aumento emergencial de 50% de todos os salários."
+   }
+  }
+ },
+ {
+  "id": 130002547874,
+  "nomeUrna": "INDIRA XAVIER",
+  "resumo": "Militante da Unidade Popular (UP). Foi candidata ao governo de Minas em 2022 e à Prefeitura de Belo Horizonte em 2024. Disputa o governo pela UP, com Renato Campos de vice.",
+  "bandeiras": [
+   "Fim da escala 6x1",
+   "Reestatização da Copasa e revogação do Propag",
+   "Suspensão da mineração e reparação aos atingidos"
+  ],
+  "posicoes": {
+   "G01": {
+    "v": 1,
+    "conf": "declaracao",
+    "fonte": "https://kikacastro.com.br/wp-content/uploads/2026/08/programa-de-governo-up-mg.pdf",
+    "nota": "Plano de governo (TSE 2026): defende o fim do arcabouço fiscal, mais investimento no SUS e taxação de grandes fortunas."
+   },
+   "G02": {
+    "v": 4,
+    "conf": "declaracao",
+    "fonte": "https://kikacastro.com.br/wp-content/uploads/2026/08/programa-de-governo-up-mg.pdf",
+    "nota": "Plano de governo (TSE 2026): propõe transferência de renda para mulheres vítimas de violência e renda para gestantes (Gestação Digna)."
+   },
+   "G03": {
+    "v": 1,
+    "conf": "declaracao",
+    "fonte": "https://kikacastro.com.br/wp-content/uploads/2026/08/programa-de-governo-up-mg.pdf",
+    "nota": "Plano de governo (TSE 2026): propõe reestatizar Copasa e Vale e estatizar a cadeia extrativista, como lítio e terras raras."
+   },
+   "G06": {
+    "v": 4,
+    "conf": "declaracao",
+    "fonte": "https://kikacastro.com.br/wp-content/uploads/2026/08/programa-de-governo-up-mg.pdf",
+    "nota": "Plano de governo (TSE 2026): propõe tratar o uso de drogas como questão de saúde pública, não de polícia."
+   },
+   "G07": {
+    "v": 5,
+    "conf": "declaracao",
+    "fonte": "https://kikacastro.com.br/wp-content/uploads/2026/08/programa-de-governo-up-mg.pdf",
+    "nota": "Plano de governo (TSE 2026): propõe suspender toda a mineração no estado, rever contratos e reconhecer a natureza como sujeito de direitos."
+   },
+   "G11": {
+    "v": 5,
+    "conf": "declaracao",
+    "fonte": "https://kikacastro.com.br/wp-content/uploads/2026/08/programa-de-governo-up-mg.pdf",
+    "nota": "Plano (TSE 2026): propõe lei com 30% das vagas em concursos para negros, indígenas, PCDs e pessoas trans, e cotas trans na Unimontes."
+   },
+   "G14": {
+    "v": 5,
+    "conf": "declaracao",
+    "fonte": "https://kikacastro.com.br/wp-content/uploads/2026/08/programa-de-governo-up-mg.pdf",
+    "nota": "Plano de governo (TSE 2026): propõe o fim da escala 6x1, com jornada de 6 horas diárias."
+   },
+   "GV01": {
+    "v": 1,
+    "conf": "declaracao",
+    "fonte": "https://kikacastro.com.br/wp-content/uploads/2026/08/programa-de-governo-up-mg.pdf",
+    "nota": "Plano de governo (TSE 2026): propõe a reestatização imediata da Copasa e o fortalecimento da Cemig e das demais estatais."
+   },
+   "GV03": {
+    "v": 5,
+    "conf": "declaracao",
+    "fonte": "https://kikacastro.com.br/wp-content/uploads/2026/08/programa-de-governo-up-mg.pdf",
+    "nota": "Plano (TSE 2026): propõe suspender a mineração, acabar com barragens por alteamento e fiscalização pública, sem automonitoramento."
+   },
+   "GV04": {
+    "v": 4,
+    "conf": "declaracao",
+    "fonte": "https://kikacastro.com.br/wp-content/uploads/2026/08/programa-de-governo-up-mg.pdf",
+    "nota": "Plano de governo (TSE 2026): critica o 'arrocho salarial' e propõe garantir o piso e os planos de carreira de todas as categorias."
+   },
+   "GV05": {
+    "v": 2,
+    "conf": "declaracao",
+    "fonte": "https://kikacastro.com.br/wp-content/uploads/2026/08/programa-de-governo-up-mg.pdf",
+    "nota": "Plano de governo (TSE 2026): critica R$ 19,4 bilhões em isenções fiscais concedidas a mais de 4 mil empresas em 2025."
+   },
+   "GV06": {
+    "v": 1,
+    "conf": "declaracao",
+    "fonte": "https://kikacastro.com.br/wp-content/uploads/2026/08/programa-de-governo-up-mg.pdf",
+    "nota": "Plano (TSE 2026): propõe o 'fim do processo de militarização' das escolas; à Tribuna de Minas (17/09/2026), defendeu gestão pública."
+   }
+  }
+ },
+ {
+  "id": 130002541911,
+  "nomeUrna": "MATEUS SIMÕES",
+  "resumo": "Governador de Minas desde março de 2026, quando Zema deixou o cargo; foi vice-governador (2023 a 2026) e vereador de BH. Candidato à reeleição pelo PSD.",
+  "bandeiras": [
+   "Segurança pública e controle das divisas (Escudo Mineiro)",
+   "Saúde",
+   "Aumento da renda média do mineiro"
+  ],
+  "posicoes": {
+   "G03": {
+    "v": 4,
+    "conf": "declaracao",
+    "fonte": "https://www.metropoles.com/minas-gerais/simoes-diz-que-cleitinho-nao-esta-pronto-e-ve-minas-gerais-em-risco",
+    "nota": "Concluiu a venda da Copasa em 2026 e defende privatizar a Gasmig; em 25/09/2026 disse que vender a Cemig não está entre suas prioridades."
+   },
+   "G14": {
+    "v": 2,
+    "conf": "declaracao",
+    "fonte": "https://www.otempo.com.br/economia/2024/11/12/-vai-gerar-desemprego---diz-mateus-simoes-sobre-fim-da-escala-6x",
+    "nota": "Em 11/2024, como vice-governador, disse que o fim da escala 6x1 'vai gerar desemprego' e defendeu flexibilizar a legislação trabalhista."
+   },
+   "GV01": {
+    "v": 3,
+    "conf": "declaracao",
+    "fonte": "https://www.otempo.com.br/eleicoes/2026/governadores/2026/9/4/simoes-defende-privatizacao-da-gasmig-mas-afasta-venda-da-cemig",
+    "nota": "Em 04/09/2026 disse 'conseguimos evitar a venda da Cemig' e defendeu vender a Gasmig; concluiu a privatização da Copasa em 06/2026."
+   },
+   "GV02": {
+    "v": 4,
+    "conf": "declaracao",
+    "fonte": "https://www.metropoles.com/minas-gerais/simoes-diz-que-cleitinho-nao-esta-pronto-e-ve-minas-gerais-em-risco",
+    "nota": "Em 25/09/2026 disse que câmeras corporais são 'muito úteis e importantes para o patrulhamento', mas não devem ser usadas em operações."
+   },
+   "GV03": {
+    "v": 3,
+    "conf": "declaracao",
+    "fonte": "https://www.em.com.br/politica/2026/09/7498883-o-que-o-futuro-governador-de-minas-propoe-para-controlar-a-mineracao.html",
+    "nota": "Em 09/2026 disse que não autoriza barragens de risco e é contra minerar a Serra do Curral, mas que fiscalizar importa mais que burocracia na licença."
+   },
+   "GV04": {
+    "v": 2,
+    "conf": "declaracao",
+    "fonte": "https://www.metropoles.com/minas-gerais/simoes-diz-que-cleitinho-nao-esta-pronto-e-ve-minas-gerais-em-risco",
+    "nota": "Sancionou reajuste de 5,4% em 03/2026; em 25/09/2026 disse que prometer aos policiais mais que a inflação é mentir, por falta de orçamento."
+   },
+   "GV05": {
+    "v": 2,
+    "conf": "declaracao",
+    "fonte": "https://www.metropoles.com/minas-gerais/simoes-atribui-a-roscoe-decisao-de-zema-de-nao-divulgar-incentivos-fiscais",
+    "nota": "Enviou à ALMG em 09/2026 projeto que permite cortar benefícios de ICMS sem contrapartida (cerca de R$ 7 bi/ano); defende manter incentivos setoriais."
+   },
+   "GV06": {
+    "v": 5,
+    "conf": "declaracao",
+    "fonte": "https://www.otempo.com.br/politica/2026/4/13/escolas-civico-militares-podem-chegar-a-700-desde-que-existam-militares-interessados-diz-simoes",
+    "nota": "Em 13/04/2026 enviou à ALMG projeto que cria o programa de escolas cívico-militares e disse que o modelo pode chegar a 700 escolas."
+   }
+  }
+ },
+ {
+  "id": 130002550464,
+  "nomeUrna": "PATRUS ANANIAS",
+  "resumo": "Deputado federal desde 2015, ex-prefeito de Belo Horizonte (1993 a 1996) e ex-ministro do Desenvolvimento Social (2004 a 2010). Candidato a governador pelo PT.",
+  "bandeiras": [
+   "Cemig sob controle do estado e revisão da venda da Copasa",
+   "Saúde e educação públicas",
+   "Renegociação da dívida de Minas com a União"
+  ],
+  "posicoes": {
+   "G01": {
+    "v": 2,
+    "conf": "declaracao",
+    "fonte": "https://kikacastro.com.br/wp-content/uploads/2026/08/plano-de-governo-patrus-ananias-2026-2030.pdf",
+    "nota": "Plano de governo (TSE 2026): ampliar a arrecadação, rever benefícios fiscais e preservar serviços públicos e servidores."
+   },
+   "G02": {
+    "v": 4,
+    "conf": "declaracao",
+    "fonte": "https://www.otempo.com.br/eleicoes/2026/candidatos/minas-gerais/governador/patrus-ananias-13",
+    "nota": "Ex-ministro que implantou o Bolsa Família; em entrevista (O Tempo, 2026) defendeu manter as políticas sociais que tiraram o país do mapa da fome."
+   },
+   "G03": {
+    "v": 1,
+    "conf": "voto",
+    "fonte": "https://dadosabertos.camara.leg.br/api/v2/votacoes/2270789-73/votos",
+    "nota": "Votou não à privatização da Eletrobras (19/05/2021) e dos Correios (05/08/2021); plano defende manter estatais como Cemig e Codemig."
+   },
+   "G04": {
+    "v": 1,
+    "conf": "voto",
+    "fonte": "https://dadosabertos.camara.leg.br/api/v2/votacoes/2209381-100/votos",
+    "nota": "Votou não ao PL 3723/2019 (amplia posse e porte de armas) em 05/11/2019; em discurso de 12/05/2026 criticou 'armar o povo'."
+   },
+   "G07": {
+    "v": 4,
+    "conf": "voto",
+    "fonte": "https://dadosabertos.camara.leg.br/api/v2/votacoes/257161-337/votos",
+    "nota": "Votou não ao texto-base da Lei Geral do Licenciamento Ambiental (PL 3729/2004, depois PL 2159/2021) em 12/05/2021; plano pede mais rigor na mineração."
+   },
+   "G08": {
+    "v": 1,
+    "conf": "voto",
+    "fonte": "https://dadosabertos.camara.leg.br/api/v2/votacoes/2358548-89/votos",
+    "nota": "Votou não à urgência do PL da anistia (17/09/2025) e ao substitutivo que reduz penas do 8/1 (09/12/2025)."
+   },
+   "G09": {
+    "v": 2,
+    "conf": "declaracao",
+    "fonte": "https://dadosabertos.camara.leg.br/api/v2/deputados/74160/discursos?dataInicio=2025-08-12&dataFim=2025-08-12",
+    "nota": "Em discursos na Câmara (15/02/2023 e 12/08/2025) defendeu a atuação do STF e criticou ameaças de afastamento de seus ministros."
+   },
+   "G10": {
+    "v": 4,
+    "conf": "voto",
+    "fonte": "https://dadosabertos.camara.leg.br/api/v2/votacoes/2310837-8/votos",
+    "nota": "Votou sim à urgência do PL 2630/2020 (regras e responsabilidade das plataformas digitais) em 25/04/2023."
+   },
+   "G14": {
+    "v": 5,
+    "conf": "voto",
+    "fonte": "https://dadosabertos.camara.leg.br/api/v2/votacoes/2233802-424/votos",
+    "nota": "Votou sim à PEC 221/2019 (jornada menor e 2 dias de folga) em 27/05/2026; em discursos rebateu o argumento de que empresas quebrariam."
+   },
+   "GV01": {
+    "v": 1,
+    "conf": "declaracao",
+    "fonte": "https://kikacastro.com.br/wp-content/uploads/2026/08/plano-de-governo-patrus-ananias-2026-2030.pdf",
+    "nota": "Plano de governo (TSE 2026): manter a Cemig sob controle do estado e rever a privatização da Copasa; reiterou em entrevista (ago/2026)."
+   },
+   "GV02": {
+    "v": 4,
+    "conf": "declaracao",
+    "fonte": "https://www.metropoles.com/minas-gerais/cameras-em-pms-viram-campo-de-batalha-da-eleicao-em-mg-veja-posicoes",
+    "nota": "Propõe implantar progressivamente câmeras corporais nas forças de segurança estaduais, com protocolos de uso (set/2026)."
+   },
+   "GV03": {
+    "v": 4,
+    "conf": "declaracao",
+    "fonte": "https://kikacastro.com.br/wp-content/uploads/2026/08/plano-de-governo-patrus-ananias-2026-2030.pdf",
+    "nota": "Plano de governo (TSE 2026): maior rigor na fiscalização da mineração e na segurança de barragens, com participação das comunidades atingidas."
+   },
+   "GV04": {
+    "v": 4,
+    "conf": "declaracao",
+    "fonte": "https://www.otempo.com.br/eleicoes/2026/governadores/2026/9/21/alvo-no-debate-patrus-nega-que-pretende-implantar-escola-plural-no-governo-de-minas",
+    "nota": "Campanha lista como prioridade o pagamento do piso nacional do magistério na rede estadual (set/2026)."
+   },
+   "GV05": {
+    "v": 2,
+    "conf": "declaracao",
+    "fonte": "https://kikacastro.com.br/wp-content/uploads/2026/08/plano-de-governo-patrus-ananias-2026-2030.pdf",
+    "nota": "Plano de governo (TSE 2026): ampliar a arrecadação revendo subsídios e benefícios fiscais, inclusive isenções à mineração."
+   },
+   "GV06": {
+    "v": 2,
+    "conf": "declaracao",
+    "fonte": "https://kikacastro.com.br/wp-content/uploads/2026/08/plano-de-governo-patrus-ananias-2026-2030.pdf",
+    "nota": "Plano de governo (TSE 2026): propõe o fim da militarização das escolas estaduais."
+   }
+  }
+ },
+ {
+  "id": 130002544122,
+  "nomeUrna": "PROFESSOR TÚLIO LOPES",
+  "resumo": "Professor universitário, candidato do PCB ao governo de Minas, com Warlen Nunes de vice. Disputou o governo em 2014 e o Senado em 2018.",
+  "bandeiras": [
+   "Reestatização da Cemig e da Copasa",
+   "Auditoria da dívida e fim das renúncias fiscais",
+   "Novo modelo de mineração sob controle popular"
+  ],
+  "posicoes": {
+   "G01": {
+    "v": 1,
+    "conf": "declaracao",
+    "fonte": "https://kikacastro.com.br/wp-content/uploads/2026/08/programapcb2026.pdf",
+    "nota": "Plano de governo (TSE 2026): propõe impostos progressivos sobre capital e fortunas, fim das renúncias fiscais e mais investimento social."
+   },
+   "G03": {
+    "v": 1,
+    "conf": "declaracao",
+    "fonte": "https://kikacastro.com.br/wp-content/uploads/2026/08/programapcb2026.pdf",
+    "nota": "Plano de governo (TSE 2026): propõe estatizar Cemig e Copasa, reestatizar o setor mineral e reverter as privatizações estaduais."
+   },
+   "G04": {
+    "v": 2,
+    "conf": "declaracao",
+    "fonte": "https://kikacastro.com.br/wp-content/uploads/2026/08/programapcb2026.pdf",
+    "nota": "Plano de governo (TSE 2026): defende o 'desarmamento civil'."
+   },
+   "G07": {
+    "v": 5,
+    "conf": "declaracao",
+    "fonte": "https://kikacastro.com.br/wp-content/uploads/2026/08/programapcb2026.pdf",
+    "nota": "Plano de governo (TSE 2026): propõe territórios livres de mineração e controle do ritmo de extração para preservar o território."
+   },
+   "G13": {
+    "v": 2,
+    "conf": "declaracao",
+    "fonte": "https://kikacastro.com.br/wp-content/uploads/2026/08/programapcb2026.pdf",
+    "nota": "Plano de governo (TSE 2026): defende 'Estado laico, liberdade de crença e de não-crença'."
+   },
+   "G14": {
+    "v": 4,
+    "conf": "declaracao",
+    "fonte": "https://kikacastro.com.br/wp-content/uploads/2026/08/programapcb2026.pdf",
+    "nota": "Plano de governo (TSE 2026): propõe redução da jornada sem redução salarial e 30 horas semanais para os servidores estaduais."
+   },
+   "GV01": {
+    "v": 1,
+    "conf": "declaracao",
+    "fonte": "https://kikacastro.com.br/wp-content/uploads/2026/08/programapcb2026.pdf",
+    "nota": "Plano de governo (TSE 2026): propõe 'estatização plena da Cemig e da Copasa' e a reversão imediata da privatização da Copasa."
+   },
+   "GV03": {
+    "v": 5,
+    "conf": "declaracao",
+    "fonte": "https://kikacastro.com.br/wp-content/uploads/2026/08/programapcb2026.pdf",
+    "nota": "Plano de governo (TSE 2026): propõe fim do autolicenciamento, revisão de todos os licenciamentos e fiscalização massiva."
+   },
+   "GV04": {
+    "v": 5,
+    "conf": "declaracao",
+    "fonte": "https://kikacastro.com.br/wp-content/uploads/2026/08/programapcb2026.pdf",
+    "nota": "Plano de governo (TSE 2026): propõe revisão anual na data-base e um plano de recomposição das perdas inflacionárias acumuladas."
+   },
+   "GV05": {
+    "v": 1,
+    "conf": "declaracao",
+    "fonte": "https://www.otempo.com.br/eleicoes/2026/candidatos/minas-gerais/governador/professor-tulio-lopes-21",
+    "nota": "A O Tempo, criticou cerca de R$ 111 bi em renúncias fiscais desde 2019; o plano propõe suspender renúncias fiscais."
+   },
+   "GV06": {
+    "v": 1,
+    "conf": "declaracao",
+    "fonte": "https://kikacastro.com.br/wp-content/uploads/2026/08/programapcb2026.pdf",
+    "nota": "Plano de governo (TSE 2026): defende 'a extinção das escolas cívico-militares' e o fim da militarização das escolas estaduais."
+   }
+  }
+ },
+ {
+  "id": 130002546802,
+  "nomeUrna": "RAFAEL DUDA",
+  "resumo": "Técnico em mineração, militante do PSTU. Disputou a Prefeitura de Congonhas em 2020 e 2024 e a Câmara dos Deputados em 2022. Candidato ao governo com a Prof. Diana de Cássia de vice.",
+  "bandeiras": [
+   "Reverter as privatizações e estatizar empresas estratégicas",
+   "Suspensão do pagamento da dívida com a União",
+   "Estatização da mineração sob controle dos trabalhadores"
+  ],
+  "posicoes": {
+   "G01": {
+    "v": 1,
+    "conf": "declaracao",
+    "fonte": "https://kikacastro.com.br/wp-content/uploads/2026/08/programa-tre-pstu-mg.pdf",
+    "nota": "Plano de governo (TSE 2026): propõe revogar a LRF, acabar com isenções fiscais e destinar 30% da arrecadação à educação."
+   },
+   "G02": {
+    "v": 4,
+    "conf": "declaracao",
+    "fonte": "https://kikacastro.com.br/wp-content/uploads/2026/08/programa-tre-pstu-mg.pdf",
+    "nota": "Plano de governo (TSE 2026): propõe auxílio emergencial de um salário mínimo para todos os desempregados."
+   },
+   "G03": {
+    "v": 1,
+    "conf": "declaracao",
+    "fonte": "https://kikacastro.com.br/wp-content/uploads/2026/08/programa-tre-pstu-mg.pdf",
+    "nota": "Plano de governo (TSE 2026): propõe estatizar mineradoras, reestatizar Vale e CSN e reverter todas as privatizações."
+   },
+   "G05": {
+    "v": 4,
+    "conf": "declaracao",
+    "fonte": "https://kikacastro.com.br/wp-content/uploads/2026/08/programa-tre-pstu-mg.pdf",
+    "nota": "Plano de governo (TSE 2026): defende 'a legalização do aborto'."
+   },
+   "G06": {
+    "v": 4,
+    "conf": "declaracao",
+    "fonte": "https://kikacastro.com.br/wp-content/uploads/2026/08/programa-tre-pstu-mg.pdf",
+    "nota": "Plano de governo (TSE 2026): defende uma política de drogas 'com a legalização e descriminalização'."
+   },
+   "G07": {
+    "v": 5,
+    "conf": "declaracao",
+    "fonte": "https://kikacastro.com.br/wp-content/uploads/2026/08/programa-tre-pstu-mg.pdf",
+    "nota": "Plano (TSE 2026): propõe proibir mineração nas serras que abastecem a Grande BH, ampliar áreas de preservação e estatizar o agronegócio."
+   },
+   "G12": {
+    "v": 2,
+    "conf": "declaracao",
+    "fonte": "https://kikacastro.com.br/wp-content/uploads/2026/08/programa-tre-pstu-mg.pdf",
+    "nota": "Plano de governo (TSE 2026): posiciona-se 'contra a redução da maioridade penal'."
+   },
+   "G13": {
+    "v": 2,
+    "conf": "declaracao",
+    "fonte": "https://kikacastro.com.br/wp-content/uploads/2026/08/programa-tre-pstu-mg.pdf",
+    "nota": "Plano de governo (TSE 2026): opõe-se a projetos educacionais 'defendidos pelas bancadas fundamentalistas' e defende educação laica."
+   },
+   "G14": {
+    "v": 5,
+    "conf": "declaracao",
+    "fonte": "https://kikacastro.com.br/wp-content/uploads/2026/08/programa-tre-pstu-mg.pdf",
+    "nota": "Plano de governo (TSE 2026): propõe jornada de 6 horas diárias (30 semanais) para todos e critica a escala 6x1."
+   },
+   "GV01": {
+    "v": 1,
+    "conf": "declaracao",
+    "fonte": "https://kikacastro.com.br/wp-content/uploads/2026/08/programa-tre-pstu-mg.pdf",
+    "nota": "Plano de governo (TSE 2026): propõe Copasa 100% estatal e estatizar as empresas de energia e saneamento."
+   },
+   "GV03": {
+    "v": 5,
+    "conf": "declaracao",
+    "fonte": "https://kikacastro.com.br/wp-content/uploads/2026/08/programa-tre-pstu-mg.pdf",
+    "nota": "Plano de governo (TSE 2026): propõe elevar a CFEM a 10% do lucro bruto, proibir mineração em serras e reforçar a fiscalização."
+   },
+   "GV04": {
+    "v": 4,
+    "conf": "declaracao",
+    "fonte": "https://kikacastro.com.br/wp-content/uploads/2026/08/programa-tre-pstu-mg.pdf",
+    "nota": "Plano de governo (TSE 2026): propõe pagar o piso do magistério sem distinção de jornada e valorização salarial na saúde."
+   },
+   "GV05": {
+    "v": 1,
+    "conf": "declaracao",
+    "fonte": "https://kikacastro.com.br/wp-content/uploads/2026/08/programa-tre-pstu-mg.pdf",
+    "nota": "Plano de governo (TSE 2026): propõe o fim das isenções fiscais a grandes empresas e da política de 'renúncia fiscal' do estado."
+   },
+   "GV06": {
+    "v": 1,
+    "conf": "declaracao",
+    "fonte": "https://tribunademinas.com.br/noticias/politica/eleicoes-2026/17-09-2026/voto-e-cidadania-2026-escolas-estaduais-em-juiz-de-fora-entram-na-pauta-dos-candidatos-ao-governo-de-minas-confira-o-que-propoem.html",
+    "nota": "À Tribuna de Minas (17/09/2026), opôs-se a 'militarizar as escolas'; o plano de governo também critica a militarização."
+   }
+  }
+ }
+]

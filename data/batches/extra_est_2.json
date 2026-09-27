@@ -1,0 +1,2850 @@
+[
+ {
+  "id": 130002544127,
+  "cargo": "Deputado Estadual",
+  "nomeUrna": "CAROL CARAM",
+  "nomeCompleto": "ANA CAROLINA PINTO CARAM GUIMARAES",
+  "numero": 70123,
+  "partido": "AVANTE",
+  "ocupacao": "Advogado",
+  "anteriores": [
+   {
+    "ano": 2022,
+    "cargo": "Deputado Estadual",
+    "local": "MINAS GERAIS",
+    "partido": "AVANTE",
+    "resultado": "Suplente"
+   }
+  ],
+  "sites": [
+   "HTTPS://WWW.INSTAGRAM.COM/DEPCAROLCARAM?IGSH=M2FNOTIXZDE0BNBJ",
+   "HTTPS://WWW.FACEBOOK.COM/CAROLCARAMMG/"
+  ],
+  "resumoAtual": "Advogada, ex-secretária nacional do Consumidor. Deputada estadual pelo Avante, em exercício na ALMG desde fevereiro de 2025; vice-líder do governo. Candidata à reeleição.",
+  "bandeirasAtuais": [
+   "Defesa do consumidor",
+   "Enfrentamento à violência contra a mulher",
+   "Combate à fome"
+  ],
+  "posicoesExistentes": {
+   "DE01": {
+    "v": 1,
+    "conf": "voto",
+    "nota": "Votou a favor da PEC 24/2023, que retirou a exigência de referendo para vender a Copasa, nos dois turnos (24/10 e 05/11/2025)."
+   },
+   "G03": {
+    "v": 4,
+    "conf": "voto",
+    "nota": "Votou a favor da privatização da Copasa (PL 4.380/2025) em 17/12/2025; em maio de 2025 dissera preferir caminhos sem privatizar Cemig e Copasa."
+   }
+  },
+  "perguntasFaltando": [
+   "G01",
+   "G02",
+   "G04",
+   "G05",
+   "G06",
+   "G07",
+   "G08",
+   "G09",
+   "G10",
+   "G11",
+   "G12",
+   "G13",
+   "G14",
+   "DE02",
+   "DE03",
+   "DE04",
+   "DE05"
+  ]
+ },
+ {
+  "id": 130002532951,
+  "cargo": "Deputado Estadual",
+  "nomeUrna": "ROBERTO ANDRADE",
+  "nomeCompleto": "ROBERTO DIAS DE ANDRADE",
+  "numero": 25222,
+  "partido": "PRD",
+  "ocupacao": "Deputado",
+  "anteriores": [
+   {
+    "ano": 2022,
+    "cargo": "Deputado Estadual",
+    "local": "MINAS GERAIS",
+    "partido": "PATRIOTA",
+    "resultado": "Eleito por média"
+   },
+   {
+    "ano": 2018,
+    "cargo": "Deputado Estadual",
+    "local": "MINAS GERAIS",
+    "partido": "PSB",
+    "resultado": "Concorrendo"
+   },
+   {
+    "ano": 2018,
+    "cargo": "Deputado Estadual",
+    "local": "MINAS GERAIS",
+    "partido": "PSB",
+    "resultado": "Eleito por QP"
+   },
+   {
+    "ano": 2014,
+    "cargo": "Deputado Estadual",
+    "local": "MINAS GERAIS",
+    "partido": "PTN",
+    "resultado": "Eleito por QP"
+   }
+  ],
+  "sites": [
+   "https://ROBERTOANDRADE.MG",
+   "https://@DEPROBERTOANDRADE"
+  ],
+  "resumoAtual": "Empresário da construção civil e ex-presidente da Serjus-Anoreg/MG, deputado estadual no 4º mandato. Tenta a reeleição pelo PRD.",
+  "bandeirasAtuais": [],
+  "posicoesExistentes": {
+   "DE01": {
+    "v": 1,
+    "conf": "voto",
+    "nota": "Votou a favor da PEC 24/2023, que dispensa referendo para privatizar a Copasa, nos 2 turnos (24/10 e 5/11/2025)."
+   },
+   "G03": {
+    "v": 4,
+    "conf": "voto",
+    "nota": "Votou a favor do PL 4.380/2025, que autoriza a privatização da Copasa, nos 2 turnos (2/12 e 17/12/2025)."
+   },
+   "G07": {
+    "v": 2,
+    "conf": "voto",
+    "nota": "Votou por manter o veto do governador à ampliação da Estação Ecológica de Fechos (Nova Lima), em 24/04/2024."
+   },
+   "G11": {
+    "v": 4,
+    "conf": "voto",
+    "nota": "Votou a favor do PL 438/2019, que reserva vagas para negros em concursos estaduais, nos 2 turnos (3/12 e 16/12/2025)."
+   }
+  },
+  "perguntasFaltando": [
+   "G01",
+   "G02",
+   "G04",
+   "G05",
+   "G06",
+   "G08",
+   "G09",
+   "G10",
+   "G12",
+   "G13",
+   "G14",
+   "DE02",
+   "DE03",
+   "DE04",
+   "DE05"
+  ]
+ },
+ {
+  "id": 130002535340,
+  "cargo": "Deputado Estadual",
+  "nomeUrna": "ADALCLEVER LOPES",
+  "nomeCompleto": "ADALCLEVER RIBEIRO LOPES",
+  "numero": 43123,
+  "partido": "PV",
+  "ocupacao": "Deputado",
+  "anteriores": [
+   {
+    "ano": 2022,
+    "cargo": "Deputado Estadual",
+    "local": "MINAS GERAIS",
+    "partido": "PSD",
+    "resultado": "Suplente"
+   },
+   {
+    "ano": 2018,
+    "cargo": "Governador",
+    "local": "MINAS GERAIS",
+    "partido": "MDB",
+    "resultado": "Não eleito"
+   },
+   {
+    "ano": 2014,
+    "cargo": "Deputado Estadual",
+    "local": "MINAS GERAIS",
+    "partido": "PMDB",
+    "resultado": "Eleito por QP"
+   },
+   {
+    "ano": 2010,
+    "cargo": "Deputado Estadual",
+    "local": "MINAS GERAIS",
+    "partido": "PMDB",
+    "resultado": "Eleito"
+   }
+  ],
+  "sites": [
+   "HTTPS://WWW.FACEBOOK.COM/PROFILE.PHP?ID=61573403129800",
+   "HTTPS://WWW.INSTAGRAM.COM/ADALCLEVERLOPES/",
+   "https://adalcleverlopes.com.br/"
+  ],
+  "resumoAtual": "Empresário; deputado estadual em cinco mandatos (2003 a 2018 e desde 2025) e presidente da ALMG de 2015 a 2018. Disputou o governo de Minas em 2018. Concorre pelo PV.",
+  "bandeirasAtuais": [
+   "Educação e mediação com o magistério",
+   "Infraestrutura regional (BR-262 e Rodoanel)",
+   "Voz para as regiões esquecidas"
+  ],
+  "posicoesExistentes": {
+   "G03": {
+    "v": 4,
+    "conf": "voto",
+    "nota": "Votou a favor do PL 4.380/2025, que autoriza a privatização da Copasa, em 2º turno na ALMG em 17/12/2025."
+   },
+   "DE01": {
+    "v": 1,
+    "conf": "voto",
+    "nota": "Votou a favor da PEC 24/2023, que retirou a exigência de referendo para vender a Copasa, nos dois turnos (24/10 e 05/11/2025)."
+   },
+   "DE03": {
+    "v": 4,
+    "conf": "declaracao",
+    "nota": "Compromisso de campanha 2026: levar Rio Doce, Jequitinhonha, Mucuri, Central e Zona da Mata, que chama de regiões esquecidas, ao debate orçamentário."
+   }
+  },
+  "perguntasFaltando": [
+   "G01",
+   "G02",
+   "G04",
+   "G05",
+   "G06",
+   "G07",
+   "G08",
+   "G09",
+   "G10",
+   "G11",
+   "G12",
+   "G13",
+   "G14",
+   "DE02",
+   "DE04",
+   "DE05"
+  ]
+ },
+ {
+  "id": 130002533217,
+  "cargo": "Deputado Estadual",
+  "nomeUrna": "CAROL FARIA",
+  "nomeCompleto": "ANA CAROLINA SILVA FARIA",
+  "numero": 25888,
+  "partido": "PRD",
+  "ocupacao": "Outros",
+  "anteriores": [
+   {
+    "ano": 2024,
+    "cargo": "Vereador",
+    "local": "ITAÚNA",
+    "partido": "PRD",
+    "resultado": "Eleito por QP"
+   },
+   {
+    "ano": 2020,
+    "cargo": "Vereador",
+    "local": "ITAÚNA",
+    "partido": "AVANTE",
+    "resultado": "Eleito por QP"
+   }
+  ],
+  "sites": [
+   "https://@CAROLFARIA_A"
+  ],
+  "resumoAtual": "Vereadora de Itaúna desde 2021, reeleita em 2024 pelo PRD, com atuação legislativa voltada sobretudo à proteção animal. Candidata a deputada estadual.",
+  "bandeirasAtuais": [
+   "Proteção e bem-estar animal",
+   "Atendimento à mulher vítima de violência"
+  ],
+  "posicoesExistentes": {},
+  "perguntasFaltando": [
+   "G01",
+   "G02",
+   "G03",
+   "G04",
+   "G05",
+   "G06",
+   "G07",
+   "G08",
+   "G09",
+   "G10",
+   "G11",
+   "G12",
+   "G13",
+   "G14",
+   "DE01",
+   "DE02",
+   "DE03",
+   "DE04",
+   "DE05"
+  ]
+ },
+ {
+  "id": 130002542062,
+  "cargo": "Deputado Estadual",
+  "nomeUrna": "MARLI RIBEIRO",
+  "nomeCompleto": "MARLI FERREIRA DA SILVA",
+  "numero": 22022,
+  "partido": "PL",
+  "ocupacao": "Deputado",
+  "anteriores": [
+   {
+    "ano": 2022,
+    "cargo": "Deputado Estadual",
+    "local": "MINAS GERAIS",
+    "partido": "PSC",
+    "resultado": "Eleito por QP"
+   },
+   {
+    "ano": 2020,
+    "cargo": "Vereador",
+    "local": "PARACATU",
+    "partido": "PSC",
+    "resultado": "Eleito por QP"
+   },
+   {
+    "ano": 2018,
+    "cargo": "Deputado Estadual",
+    "local": "MINAS GERAIS",
+    "partido": "PSC",
+    "resultado": "Suplente"
+   },
+   {
+    "ano": 2016,
+    "cargo": "Vereador",
+    "local": "PARACATU",
+    "partido": "PSDB",
+    "resultado": "Eleito por QP"
+   }
+  ],
+  "sites": [
+   "https://INSTAGRAM: @MARLIRIBEIROMG",
+   "https://FACEBOOK: @MARLIRIBEIROMG"
+  ],
+  "resumoAtual": "Pedagoga, missionária e ex-vereadora de Paracatu, deputada estadual em 1º mandato. Tenta a reeleição pelo PL.",
+  "bandeirasAtuais": [
+   "Projetos sociais e esportivos",
+   "Infraestrutura para o agro e a agricultura familiar",
+   "Saúde"
+  ],
+  "posicoesExistentes": {
+   "G03": {
+    "v": 4,
+    "conf": "voto",
+    "nota": "Votou a favor do PL 4.380/2025, que autoriza a privatização da Copasa, nos 2 turnos (2/12 e 17/12/2025)."
+   },
+   "G07": {
+    "v": 2,
+    "conf": "voto",
+    "nota": "Votou por manter o veto do governador à ampliação da Estação Ecológica de Fechos (Nova Lima), em 24/04/2024."
+   },
+   "DE01": {
+    "v": 1,
+    "conf": "voto",
+    "nota": "Votou a favor da PEC 24/2023, que dispensa referendo para privatizar a Copasa, nos 2 turnos (24/10 e 5/11/2025)."
+   }
+  },
+  "perguntasFaltando": [
+   "G01",
+   "G02",
+   "G04",
+   "G05",
+   "G06",
+   "G08",
+   "G09",
+   "G10",
+   "G11",
+   "G12",
+   "G13",
+   "G14",
+   "DE02",
+   "DE03",
+   "DE04",
+   "DE05"
+  ]
+ },
+ {
+  "id": 130002542804,
+  "cargo": "Deputado Estadual",
+  "nomeUrna": "GREGO DA FUNDAÇÃO",
+  "nomeCompleto": "IOANNIS KONSTANTINOS GRAMMATIKOPOULOS",
+  "numero": 44500,
+  "partido": "UNIÃO",
+  "ocupacao": "Outros",
+  "anteriores": [
+   {
+    "ano": 2022,
+    "cargo": "Deputado Estadual",
+    "local": "MINAS GERAIS",
+    "partido": "PMN",
+    "resultado": "Eleito por média"
+   },
+   {
+    "ano": 2020,
+    "cargo": "Prefeito",
+    "local": "MURIAÉ",
+    "partido": "PSD",
+    "resultado": "Não eleito"
+   },
+   {
+    "ano": 2016,
+    "cargo": "Prefeito",
+    "local": "MURIAÉ",
+    "partido": "DEM",
+    "resultado": "Eleito"
+   },
+   {
+    "ano": 2012,
+    "cargo": "Prefeito",
+    "local": "MURIAÉ",
+    "partido": "DEM",
+    "resultado": "Não eleito"
+   }
+  ],
+  "sites": [
+   "https://www.instagram.com/gregodafundacao?igsh=MWtyY3p1MHRmZ203MQ==",
+   "HTTPS://WWW.FACEBOOK.COM/GREGODAFUNDACAO",
+   "https://www.facebook.com/share/1GXoMTrtdv/?mibextid=wwXIfr",
+   "https://www.tiktok.com/@gregodafundacao?_r=1&_t=ZS-98uROJoXxSe",
+   "HTTPS://WWW.TIKTOK.COM/@GREGODAFUNDACAO",
+   "HTTPS://WWW.INSTAGRAM.COM/GREGODAFUNDACAO/"
+  ],
+  "resumoAtual": "Ex-prefeito de Muriaé e voluntário do Hospital do Câncer de Muriaé, deputado estadual em 1º mandato e ouvidor-geral da ALMG. Tenta a reeleição pelo União Brasil.",
+  "bandeirasAtuais": [
+   "Saúde"
+  ],
+  "posicoesExistentes": {
+   "G07": {
+    "v": 2,
+    "conf": "voto",
+    "nota": "Votou por manter o veto do governador à ampliação da Estação Ecológica de Fechos (Nova Lima), em 24/04/2024."
+   },
+   "DE01": {
+    "v": 1,
+    "conf": "voto",
+    "nota": "Votou a favor da PEC 24/2023, que dispensa referendo para privatizar a Copasa, nos 2 turnos (24/10 e 5/11/2025)."
+   },
+   "G03": {
+    "v": 4,
+    "conf": "voto",
+    "nota": "Votou a favor do PL 4.380/2025, que autoriza a privatização da Copasa, nos 2 turnos (2/12 e 17/12/2025)."
+   },
+   "G11": {
+    "v": 4,
+    "conf": "voto",
+    "nota": "Votou a favor do PL 438/2019 (cotas para negros em concursos estaduais) no 2º turno, em 16/12/2025; não votou no 1º."
+   }
+  },
+  "perguntasFaltando": [
+   "G01",
+   "G02",
+   "G04",
+   "G05",
+   "G06",
+   "G08",
+   "G09",
+   "G10",
+   "G12",
+   "G13",
+   "G14",
+   "DE02",
+   "DE03",
+   "DE04",
+   "DE05"
+  ]
+ },
+ {
+  "id": 130002542792,
+  "cargo": "Deputado Estadual",
+  "nomeUrna": "JÉSSICA MARA",
+  "nomeCompleto": "JESSICA CAROLINA MARA MUNIZ",
+  "numero": 44099,
+  "partido": "UNIÃO",
+  "ocupacao": "Empresário",
+  "anteriores": [],
+  "sites": [
+   "https://@JESSICA.A.MARA"
+  ],
+  "resumoAtual": "Empresária. Disputa pela primeira vez uma eleição, como candidata a deputada estadual pelo União Brasil.",
+  "bandeirasAtuais": [],
+  "posicoesExistentes": {},
+  "perguntasFaltando": [
+   "G01",
+   "G02",
+   "G03",
+   "G04",
+   "G05",
+   "G06",
+   "G07",
+   "G08",
+   "G09",
+   "G10",
+   "G11",
+   "G12",
+   "G13",
+   "G14",
+   "DE01",
+   "DE02",
+   "DE03",
+   "DE04",
+   "DE05"
+  ]
+ },
+ {
+  "id": 130002549957,
+  "cargo": "Deputado Estadual",
+  "nomeUrna": "TITO TORRES",
+  "nomeCompleto": "TITO BRUNO MIRANDA TORRES DUARTE",
+  "numero": 55240,
+  "partido": "PSD",
+  "ocupacao": "Deputado",
+  "anteriores": [
+   {
+    "ano": 2022,
+    "cargo": "Deputado Estadual",
+    "local": "MINAS GERAIS",
+    "partido": "PSD",
+    "resultado": "Eleito por QP"
+   },
+   {
+    "ano": 2018,
+    "cargo": "Deputado Estadual",
+    "local": "MINAS GERAIS",
+    "partido": "PSDB",
+    "resultado": "Eleito por QP"
+   },
+   {
+    "ano": 2014,
+    "cargo": "Deputado Estadual",
+    "local": "MINAS GERAIS",
+    "partido": "PSDB",
+    "resultado": "Eleito por média"
+   }
+  ],
+  "sites": [
+   "https://www.instagram.com/titotorresmg/",
+   "https://FACEBOOK.COM/DEPUTADOTITOTORRES",
+   "https://WWW.TITOTORRES.COM.BR",
+   "https://TIKTOK:@TITOTORRESMG"
+  ],
+  "resumoAtual": "Deputado estadual em 3º mandato (desde 2015). Empresário e pecuarista de João Monlevade, filho do ex-deputado Mauri Torres. Candidato à reeleição pelo PSD.",
+  "bandeirasAtuais": [
+   "Proteção das águas e sustentabilidade",
+   "Proteção animal",
+   "Saúde e obras regionais, como a duplicação da BR-381"
+  ],
+  "posicoesExistentes": {
+   "G07": {
+    "v": 2,
+    "conf": "voto",
+    "nota": "Votou pela manutenção do veto à ampliação da Estação Ecológica de Fechos, área de mananciais sob pressão da mineração (24/04/2024)."
+   },
+   "DE01": {
+    "v": 1,
+    "conf": "voto",
+    "nota": "Votou Sim à PEC 24/2023, que retirou a exigência de referendo para privatizar a Copasa, nos 2 turnos (24/10 e 05/11/2025)."
+   },
+   "G03": {
+    "v": 4,
+    "conf": "voto",
+    "nota": "Votou Sim ao PL 4.380/2025, que autoriza a privatização da Copasa, nos 2 turnos (02/12 e 17/12/2025)."
+   },
+   "G11": {
+    "v": 4,
+    "conf": "voto",
+    "nota": "Votou Sim ao PL 438/2019, que reserva vagas para negros em concursos públicos estaduais, no 2º turno (16/12/2025)."
+   }
+  },
+  "perguntasFaltando": [
+   "G01",
+   "G02",
+   "G04",
+   "G05",
+   "G06",
+   "G08",
+   "G09",
+   "G10",
+   "G12",
+   "G13",
+   "G14",
+   "DE02",
+   "DE03",
+   "DE04",
+   "DE05"
+  ]
+ },
+ {
+  "id": 130002542094,
+  "cargo": "Deputado Estadual",
+  "nomeUrna": "UGLENO ALVES",
+  "nomeCompleto": "UGLENO ALVES PEREIRA SANTOS",
+  "numero": 22888,
+  "partido": "PL",
+  "ocupacao": "Vereador",
+  "anteriores": [
+   {
+    "ano": 2024,
+    "cargo": "Vereador",
+    "local": "TEÓFILO OTONI",
+    "partido": "PL",
+    "resultado": "Eleito por QP"
+   },
+   {
+    "ano": 2020,
+    "cargo": "Vereador",
+    "local": "TEÓFILO OTONI",
+    "partido": "PATRIOTA",
+    "resultado": "Eleito por QP"
+   }
+  ],
+  "sites": [
+   "https://X: UGLENOALVES",
+   "https://FACEBOOK: UGLENOALVES",
+   "https://tropadougleno.lovable.app/",
+   "https://INSTAGRAM: @UGLENOALVES",
+   "https://UGLENOALVES",
+   "https://THREAD: UGLENOALVES",
+   "https://YAOUTUB: @UGLENOALVES6189"
+  ],
+  "resumoAtual": "Vereador de Teófilo Otoni desde 2021, reeleito em 2024 pelo PL. Faz campanha associada ao deputado federal Nikolas Ferreira. Candidato a deputado estadual.",
+  "bandeirasAtuais": [],
+  "posicoesExistentes": {},
+  "perguntasFaltando": [
+   "G01",
+   "G02",
+   "G03",
+   "G04",
+   "G05",
+   "G06",
+   "G07",
+   "G08",
+   "G09",
+   "G10",
+   "G11",
+   "G12",
+   "G13",
+   "G14",
+   "DE01",
+   "DE02",
+   "DE03",
+   "DE04",
+   "DE05"
+  ]
+ },
+ {
+  "id": 130002532947,
+  "cargo": "Deputado Estadual",
+  "nomeUrna": "DENISE DA SUPRA",
+  "nomeCompleto": "DENISE DE STEFANI MAX",
+  "numero": 25999,
+  "partido": "PRD",
+  "ocupacao": "Corretor de Imóveis, Seguros, Títulos e Valores",
+  "anteriores": [
+   {
+    "ano": 2024,
+    "cargo": "Vereador",
+    "local": "UBERABA",
+    "partido": "PRD",
+    "resultado": "Eleito por média"
+   },
+   {
+    "ano": 2022,
+    "cargo": "Deputado Estadual",
+    "local": "MINAS GERAIS",
+    "partido": "PATRIOTA",
+    "resultado": "Suplente"
+   },
+   {
+    "ano": 2020,
+    "cargo": "Vereador",
+    "local": "UBERABA",
+    "partido": "PATRIOTA",
+    "resultado": "Eleito por QP"
+   },
+   {
+    "ano": 2018,
+    "cargo": "Deputado Estadual",
+    "local": "MINAS GERAIS",
+    "partido": "PR",
+    "resultado": "Suplente"
+   }
+  ],
+  "sites": [
+   "https://www.instagram.com/denisedasupravereadora",
+   "https://www.facebook.com/denisemax",
+   "https://DENISEMAX",
+   "https://@DENISEDASUPRAVEREADORA"
+  ],
+  "resumoAtual": "Corretora de imóveis e vereadora de Uberaba desde 2021, reeleita em 2024 pelo PRD; foi suplente de deputada estadual em 2018 e 2022. Candidata a deputada estadual.",
+  "bandeirasAtuais": [],
+  "posicoesExistentes": {},
+  "perguntasFaltando": [
+   "G01",
+   "G02",
+   "G03",
+   "G04",
+   "G05",
+   "G06",
+   "G07",
+   "G08",
+   "G09",
+   "G10",
+   "G11",
+   "G12",
+   "G13",
+   "G14",
+   "DE01",
+   "DE02",
+   "DE03",
+   "DE04",
+   "DE05"
+  ]
+ },
+ {
+  "id": 130002542081,
+  "cargo": "Deputado Estadual",
+  "nomeUrna": "ALÊ PORTELA",
+  "nomeCompleto": "ALESSANDRA DINIZ PORTELA SILVEIRA",
+  "numero": 22333,
+  "partido": "PL",
+  "ocupacao": "Deputado",
+  "anteriores": [
+   {
+    "ano": 2022,
+    "cargo": "Deputado Estadual",
+    "local": "MINAS GERAIS",
+    "partido": "PL",
+    "resultado": "Eleito por QP"
+   }
+  ],
+  "sites": [
+   "https://TIKTOK:@ALEPORTELAOFICIAL",
+   "https://FACEBOOK PÁGINA: @ALEPORTELAOFICIAL",
+   "https://X: @ALEPORTELA",
+   "https://aleportela22333.com.br/home/",
+   "https://NSTAGRAM: @ALEPORTELAOFICIAL",
+   "https://aleportela.com",
+   "https://FACEBOOK PERFIL: @ALEPORTELA",
+   "https://www.threads.com/@aleportelaoficial",
+   "https://THREADS: @ALEPORTELA",
+   "https://KWAI: @ALEPORTELAOFICIAL"
+  ],
+  "resumoAtual": "Deputada estadual em 1º mandato (desde 2023), advogada, licenciou-se para ser secretária de Estado de Desenvolvimento Social no governo Zema. Candidata à reeleição pelo PL.",
+  "bandeirasAtuais": [
+   "Defesa da família",
+   "Proteção da infância",
+   "Liberdade religiosa"
+  ],
+  "posicoesExistentes": {
+   "G05": {
+    "v": 1,
+    "conf": "declaracao",
+    "nota": "Autora de requerimento (RQN 3.363/2023) de repúdio à descriminalização do aborto (ADPF 442); no site, diz que sua lei de entrega legal combate o aborto."
+   },
+   "G07": {
+    "v": 2,
+    "conf": "voto",
+    "nota": "Votou pela manutenção do veto à ampliação da Estação Ecológica de Fechos, área de mananciais sob pressão da mineração (24/04/2024)."
+   },
+   "G10": {
+    "v": 4,
+    "conf": "declaracao",
+    "nota": "Autora do PL 3.142/2024, que obriga plataformas digitais a filtrar conteúdo sexual, de drogas e violência para crianças, com sanções."
+   },
+   "G13": {
+    "v": 4,
+    "conf": "declaracao",
+    "nota": "No 1º discurso (14/02/2023) disse ter assumido a bandeira da família e do \"respeito ao conjunto de valores que norteiam a fé cristã\"."
+   }
+  },
+  "perguntasFaltando": [
+   "G01",
+   "G02",
+   "G03",
+   "G04",
+   "G06",
+   "G08",
+   "G09",
+   "G11",
+   "G12",
+   "G14",
+   "DE01",
+   "DE02",
+   "DE03",
+   "DE04",
+   "DE05"
+  ]
+ },
+ {
+  "id": 130002543678,
+  "cargo": "Deputado Estadual",
+  "nomeUrna": "RENATO LOFFI",
+  "nomeCompleto": "RENATO GUIMARAES LOFFI",
+  "numero": 40700,
+  "partido": "PSB",
+  "ocupacao": "Empresário",
+  "anteriores": [],
+  "sites": [
+   "http://www.renatoloffi.com.br/",
+   "https://www.threads.com/@renatoloffi",
+   "https://www.instagram.com/renatoloffi",
+   "https://www.facebook.com/profile.php?id=61588625435542&locale=pt_BR",
+   "https://www.youtube.com/@renatoloffi",
+   "https://www.instagram.com/renatoloffiatipicosmg/",
+   "https://@RENATOLOFFI",
+   "https://www.instagram.com/renatoloffi_fisioterapeuta/",
+   "https://www.tiktok.com/@renatoloffi",
+   "https://www.linkedin.com/in/renato-loffi-95305a45/",
+   "https://www.facebook.com/renatoloffiatipicosmg/?locale=pt_BR",
+   "https://x.com/renatoloffi",
+   "https://www.facebook.com/profile.php?id=61593688796437&locale=pt_BR"
+  ],
+  "resumoAtual": "Empresário e fisioterapeuta de Belo Horizonte, à frente de instituto com ações sociais voltadas à inclusão de pessoas com autismo. Disputa pela primeira vez uma eleição, pelo PSB.",
+  "bandeirasAtuais": [
+   "Inclusão de pessoas com TEA e famílias atípicas",
+   "Saúde de grupos vulneráveis",
+   "Educação inclusiva"
+  ],
+  "posicoesExistentes": {},
+  "perguntasFaltando": [
+   "G01",
+   "G02",
+   "G03",
+   "G04",
+   "G05",
+   "G06",
+   "G07",
+   "G08",
+   "G09",
+   "G10",
+   "G11",
+   "G12",
+   "G13",
+   "G14",
+   "DE01",
+   "DE02",
+   "DE03",
+   "DE04",
+   "DE05"
+  ]
+ },
+ {
+  "id": 130002542068,
+  "cargo": "Deputado Estadual",
+  "nomeUrna": "DENERVAL GERMANO",
+  "nomeCompleto": "DENERVAL GERMANO DA CRUZ",
+  "numero": 22345,
+  "partido": "PL",
+  "ocupacao": "Produtor Agropecuário",
+  "anteriores": [
+   {
+    "ano": 2024,
+    "cargo": "Prefeito",
+    "local": "TAIOBEIRAS",
+    "partido": "PSDB",
+    "resultado": "Eleito"
+   },
+   {
+    "ano": 2020,
+    "cargo": "Prefeito",
+    "local": "TAIOBEIRAS",
+    "partido": "PSDB",
+    "resultado": "Eleito"
+   },
+   {
+    "ano": 2008,
+    "cargo": "Prefeito",
+    "local": "TAIOBEIRAS",
+    "partido": "PSDB",
+    "resultado": "Eleito"
+   },
+   {
+    "ano": 2004,
+    "cargo": "Prefeito",
+    "local": "TAIOBEIRAS",
+    "partido": "PFL",
+    "resultado": "Eleito"
+   }
+  ],
+  "sites": [
+   "https://FACEBOOK: FACEBOOK.COM/DEVERVALGERMANOOFICIAL",
+   "https://SITE: DENERVAL.COM",
+   "https://INSTAGRAM: @DENERVAL.GERMANO"
+  ],
+  "resumoAtual": "Administrador e produtor rural; foi prefeito de Taiobeiras, no Norte de Minas, por quatro mandatos (eleito em 2004, 2008, 2020 e 2024). Candidato a deputado estadual pelo PL.",
+  "bandeirasAtuais": [
+   "Norte de Minas: saúde regional e infraestrutura",
+   "Agronegócio e irrigação",
+   "Educação técnica e juventude"
+  ],
+  "posicoesExistentes": {
+   "DE03": {
+    "v": 4,
+    "conf": "declaracao",
+    "nota": "Site de campanha de 2026 ('Norte de Minas em primeiro lugar') defende investimento estadual em estradas e saúde e mais emendas para a região."
+   }
+  },
+  "perguntasFaltando": [
+   "G01",
+   "G02",
+   "G03",
+   "G04",
+   "G05",
+   "G06",
+   "G07",
+   "G08",
+   "G09",
+   "G10",
+   "G11",
+   "G12",
+   "G13",
+   "G14",
+   "DE01",
+   "DE02",
+   "DE04",
+   "DE05"
+  ]
+ },
+ {
+  "id": 130002535373,
+  "cargo": "Deputado Estadual",
+  "nomeUrna": "GILSA SANTOS",
+  "nomeCompleto": "GILSA MARIA DOS SANTOS",
+  "numero": 13900,
+  "partido": "PT",
+  "ocupacao": "Professor de Ensino Médio",
+  "anteriores": [
+   {
+    "ano": 2024,
+    "cargo": "Vereador",
+    "local": "GOVERNADOR VALADARES",
+    "partido": "PT",
+    "resultado": "Eleito por média"
+   },
+   {
+    "ano": 2020,
+    "cargo": "Vereador",
+    "local": "GOVERNADOR VALADARES",
+    "partido": "PT",
+    "resultado": "Eleito por QP"
+   },
+   {
+    "ano": 2016,
+    "cargo": "Vereador",
+    "local": "GOVERNADOR VALADARES",
+    "partido": "PT",
+    "resultado": "Suplente"
+   }
+  ],
+  "sites": [
+   "HTTPS://WWW.FACEBOOK.COM/GILSASANTOSOFICIAL",
+   "HTTPS://WWW.THREADS.COM/@GILSA.SANTOS",
+   "HTTPS://WWW.INSTAGRAM.COM/GILSA.SANTOS",
+   "HTTPS://WWW.TIKTOK.COM/@GILSA.SANTOS",
+   "HTTPS://X.COM/PRETAGILSA",
+   "HTTPS://WWW.YOUTUBE.COM/@GILSA.SANTOS"
+  ],
+  "resumoAtual": "Professora e vereadora de Governador Valadares pelo PT desde 2021, reeleita em 2024. Candidata a deputada estadual.",
+  "bandeirasAtuais": [],
+  "posicoesExistentes": {},
+  "perguntasFaltando": [
+   "G01",
+   "G02",
+   "G03",
+   "G04",
+   "G05",
+   "G06",
+   "G07",
+   "G08",
+   "G09",
+   "G10",
+   "G11",
+   "G12",
+   "G13",
+   "G14",
+   "DE01",
+   "DE02",
+   "DE03",
+   "DE04",
+   "DE05"
+  ]
+ },
+ {
+  "id": 130002535322,
+  "cargo": "Deputado Estadual",
+  "nomeUrna": "MARIA DO CARMO",
+  "nomeCompleto": "MARIA DO CARMO LARA PERPETUO",
+  "numero": 13300,
+  "partido": "PT",
+  "ocupacao": "Psicólogo",
+  "anteriores": [
+   {
+    "ano": 2020,
+    "cargo": "Prefeito",
+    "local": "BETIM",
+    "partido": "PT",
+    "resultado": "Não eleito"
+   },
+   {
+    "ano": 2018,
+    "cargo": "Deputado Estadual",
+    "local": "MINAS GERAIS",
+    "partido": "PT",
+    "resultado": "Suplente"
+   },
+   {
+    "ano": 2014,
+    "cargo": "Deputado Federal",
+    "local": "MINAS GERAIS",
+    "partido": "PT",
+    "resultado": "Suplente"
+   },
+   {
+    "ano": 2012,
+    "cargo": "Prefeito",
+    "local": "BETIM",
+    "partido": "PT",
+    "resultado": "Não eleito"
+   }
+  ],
+  "sites": [
+   "HTTPS://WWW.INSTAGRAM.COM/MARIADCARMOLARA",
+   "HTTPS://WWW.FACEBOOK.COM/MARIADCARMOLARA"
+  ],
+  "resumoAtual": "Psicóloga; foi duas vezes prefeita de Betim (mandatos iniciados em 1989 e 2009) e deputada federal pelo PT de 1999 a 2008. Candidata a deputada estadual.",
+  "bandeirasAtuais": [],
+  "posicoesExistentes": {},
+  "perguntasFaltando": [
+   "G01",
+   "G02",
+   "G03",
+   "G04",
+   "G05",
+   "G06",
+   "G07",
+   "G08",
+   "G09",
+   "G10",
+   "G11",
+   "G12",
+   "G13",
+   "G14",
+   "DE01",
+   "DE02",
+   "DE03",
+   "DE04",
+   "DE05"
+  ]
+ },
+ {
+  "id": 130002532941,
+  "cargo": "Deputado Estadual",
+  "nomeUrna": "FERNANDO BRENO",
+  "nomeCompleto": "FERNANDO BRENO VALADARES VIEIRA",
+  "numero": 25123,
+  "partido": "PRD",
+  "ocupacao": "Advogado",
+  "anteriores": [
+   {
+    "ano": 2024,
+    "cargo": "Prefeito",
+    "local": "COROMANDEL",
+    "partido": "PRD",
+    "resultado": "Eleito"
+   },
+   {
+    "ano": 2020,
+    "cargo": "Prefeito",
+    "local": "COROMANDEL",
+    "partido": "PATRIOTA",
+    "resultado": "Eleito"
+   },
+   {
+    "ano": 2016,
+    "cargo": "Vereador",
+    "local": "COROMANDEL",
+    "partido": "PMDB",
+    "resultado": "Eleito por QP"
+   },
+   {
+    "ano": 2012,
+    "cargo": "Vereador",
+    "local": "COROMANDEL",
+    "partido": "PMDB",
+    "resultado": "Eleito por QP"
+   }
+  ],
+  "sites": [
+   "https://www.threads.com/@fernandobrenocoro",
+   "https://@FERNANDOBRENOCORO",
+   "https://www.facebook.com/fernandobrenocoro",
+   "https://www.tiktok.com/@fernandobrenocoro",
+   "https://www.threads.com/fernandobrenocoro",
+   "https://www.youtube.com/@fernandobrenocoromandel"
+  ],
+  "resumoAtual": "Advogado; eleito prefeito de Coromandel, no Alto Paranaíba, em 2020 e 2024, depois de dois mandatos de vereador. Candidato a deputado estadual pelo PRD.",
+  "bandeirasAtuais": [],
+  "posicoesExistentes": {},
+  "perguntasFaltando": [
+   "G01",
+   "G02",
+   "G03",
+   "G04",
+   "G05",
+   "G06",
+   "G07",
+   "G08",
+   "G09",
+   "G10",
+   "G11",
+   "G12",
+   "G13",
+   "G14",
+   "DE01",
+   "DE02",
+   "DE03",
+   "DE04",
+   "DE05"
+  ]
+ },
+ {
+  "id": 130002535378,
+  "cargo": "Deputado Estadual",
+  "nomeUrna": "MÁRIO HENRIQUE CAIXA",
+  "nomeCompleto": "MARIO HENRIQUE DA SILVA",
+  "numero": 43333,
+  "partido": "PV",
+  "ocupacao": "Jornalista e Redator",
+  "anteriores": [
+   {
+    "ano": 2022,
+    "cargo": "Deputado Estadual",
+    "local": "MINAS GERAIS",
+    "partido": "PV",
+    "resultado": "Eleito por QP"
+   },
+   {
+    "ano": 2018,
+    "cargo": "Deputado Estadual",
+    "local": "MINAS GERAIS",
+    "partido": "PV",
+    "resultado": "Eleito por QP"
+   },
+   {
+    "ano": 2014,
+    "cargo": "Deputado Estadual",
+    "local": "MINAS GERAIS",
+    "partido": "PC do B",
+    "resultado": "Eleito por QP"
+   },
+   {
+    "ano": 2010,
+    "cargo": "Deputado Estadual",
+    "local": "MINAS GERAIS",
+    "partido": "PC do B",
+    "resultado": "Suplente"
+   }
+  ],
+  "sites": [
+   "HTTPS://WWW.FACEBOOK.COM/MARIOCAIXAOFICIAL/",
+   "HTTPS://WWW.TIKTOK.COM/@MARIOCAIXAOFICIAL",
+   "HTTPS://X.COM/MARIOCAIXA",
+   "HTTPS://WWW.INSTAGRAM.COM/MARIOCAIXAOFICIAL",
+   "HTTPS://WWW.THREADS.COM/@MARIOCAIXAOFICIAL"
+  ],
+  "resumoAtual": "Deputado estadual desde 2013, em 4º mandato. Radialista e narrador esportivo da Rádio Itatiaia, natural de Três Pontas. Candidato à reeleição pelo PV.",
+  "bandeirasAtuais": [
+   "Esporte"
+  ],
+  "posicoesExistentes": {
+   "G11": {
+    "v": 4,
+    "conf": "voto",
+    "nota": "Votou Sim ao PL 438/2019, que reserva vagas para negros em concursos públicos estaduais, no 2º turno (16/12/2025)."
+   }
+  },
+  "perguntasFaltando": [
+   "G01",
+   "G02",
+   "G03",
+   "G04",
+   "G05",
+   "G06",
+   "G07",
+   "G08",
+   "G09",
+   "G10",
+   "G12",
+   "G13",
+   "G14",
+   "DE01",
+   "DE02",
+   "DE03",
+   "DE04",
+   "DE05"
+  ]
+ },
+ {
+  "id": 130002542048,
+  "cargo": "Deputado Estadual",
+  "nomeUrna": "SAMUEL CAIRES",
+  "nomeCompleto": "CLAUDIO SAMUEL SOUSA CAIRES",
+  "numero": 22822,
+  "partido": "PL",
+  "ocupacao": "Vereador",
+  "anteriores": [
+   {
+    "ano": 2024,
+    "cargo": "Vereador",
+    "local": "JANAÚBA",
+    "partido": "PL",
+    "resultado": "Eleito por QP"
+   }
+  ],
+  "sites": [
+   "https://INSTAGRAM: @SAMUELCAIRESMG",
+   "https://TIKTOK: @SAMUELCAIRESMG",
+   "https://FACEBOOK: SAMUELCAIRES",
+   "https://YOUTUB: @SAMUEL CAIRES VEREADOR"
+  ],
+  "resumoAtual": "Vereador de Janaúba, no Norte de Minas, eleito em 2024 pelo PL. Candidato a deputado estadual.",
+  "bandeirasAtuais": [],
+  "posicoesExistentes": {},
+  "perguntasFaltando": [
+   "G01",
+   "G02",
+   "G03",
+   "G04",
+   "G05",
+   "G06",
+   "G07",
+   "G08",
+   "G09",
+   "G10",
+   "G11",
+   "G12",
+   "G13",
+   "G14",
+   "DE01",
+   "DE02",
+   "DE03",
+   "DE04",
+   "DE05"
+  ]
+ },
+ {
+  "id": 130002542066,
+  "cargo": "Deputado Estadual",
+  "nomeUrna": "MARCELO HEITOR",
+  "nomeCompleto": "MARCELO HEITOR DA SILVA",
+  "numero": 22722,
+  "partido": "PL",
+  "ocupacao": "Empresário",
+  "anteriores": [
+   {
+    "ano": 2024,
+    "cargo": "Prefeito",
+    "local": "POÇOS DE CALDAS",
+    "partido": "PL",
+    "resultado": "Não eleito"
+   },
+   {
+    "ano": 2022,
+    "cargo": "Deputado Estadual",
+    "local": "MINAS GERAIS",
+    "partido": "PSC",
+    "resultado": "Suplente"
+   },
+   {
+    "ano": 2020,
+    "cargo": "Vereador",
+    "local": "POÇOS DE CALDAS",
+    "partido": "PSC",
+    "resultado": "Eleito por QP"
+   },
+   {
+    "ano": 2016,
+    "cargo": "Vereador",
+    "local": "POÇOS DE CALDAS",
+    "partido": "PSC",
+    "resultado": "Eleito por QP"
+   }
+  ],
+  "sites": [
+   "https://@MARCELOHEITOR.OFICIAL"
+  ],
+  "resumoAtual": "Empresário de Poços de Caldas; foi vereador (2017 a 2024) e candidato a prefeito da cidade em 2024 pelo PL. Candidato a deputado estadual.",
+  "bandeirasAtuais": [],
+  "posicoesExistentes": {},
+  "perguntasFaltando": [
+   "G01",
+   "G02",
+   "G03",
+   "G04",
+   "G05",
+   "G06",
+   "G07",
+   "G08",
+   "G09",
+   "G10",
+   "G11",
+   "G12",
+   "G13",
+   "G14",
+   "DE01",
+   "DE02",
+   "DE03",
+   "DE04",
+   "DE05"
+  ]
+ },
+ {
+  "id": 130002550179,
+  "cargo": "Deputado Estadual",
+  "nomeUrna": "VERA SARAIVA",
+  "nomeCompleto": "VERA SONIA SARAIVA",
+  "numero": 77177,
+  "partido": "SOLIDARIEDADE",
+  "ocupacao": "Outros",
+  "anteriores": [
+   {
+    "ano": 2012,
+    "cargo": "Vereador",
+    "local": "VIÇOSA",
+    "partido": "PDT",
+    "resultado": "Suplente"
+   },
+   {
+    "ano": 2008,
+    "cargo": "Vereador",
+    "local": "VIÇOSA",
+    "partido": "PDT",
+    "resultado": "Suplente"
+   },
+   {
+    "ano": 2004,
+    "cargo": "Vereador",
+    "local": "VIÇOSA",
+    "partido": "PDT",
+    "resultado": "Média"
+   }
+  ],
+  "sites": [
+   "https://@VERA SARAIVA"
+  ],
+  "resumoAtual": "Moradora de Viçosa, na Zona da Mata; foi eleita vereadora da cidade em 2004 e ficou como suplente em 2008 e 2012. Candidata a deputada estadual pelo Solidariedade.",
+  "bandeirasAtuais": [],
+  "posicoesExistentes": {},
+  "perguntasFaltando": [
+   "G01",
+   "G02",
+   "G03",
+   "G04",
+   "G05",
+   "G06",
+   "G07",
+   "G08",
+   "G09",
+   "G10",
+   "G11",
+   "G12",
+   "G13",
+   "G14",
+   "DE01",
+   "DE02",
+   "DE03",
+   "DE04",
+   "DE05"
+  ]
+ },
+ {
+  "id": 130002533229,
+  "cargo": "Deputado Estadual",
+  "nomeUrna": "JUCA BAHIA",
+  "nomeCompleto": "JOSÉ VALADARES BAHIA",
+  "numero": 25555,
+  "partido": "PRD",
+  "ocupacao": "Economista",
+  "anteriores": [
+   {
+    "ano": 2022,
+    "cargo": "Deputado Federal",
+    "local": "MINAS GERAIS",
+    "partido": "PODE",
+    "resultado": "Suplente"
+   },
+   {
+    "ano": 2020,
+    "cargo": "Prefeito",
+    "local": "PARAOPEBA",
+    "partido": "PSD",
+    "resultado": "Eleito"
+   },
+   {
+    "ano": 2016,
+    "cargo": "Prefeito",
+    "local": "PARAOPEBA",
+    "partido": "PSDB",
+    "resultado": "Eleito"
+   }
+  ],
+  "sites": [
+   "https://facebookjosebahiaoficial",
+   "https://www.facebook.com/share/18mdN8X2sq/",
+   "https://x.com/jucabahia25555",
+   "https://@JUCABAHIAOFICIAL",
+   "https://@jucabahiaoficial",
+   "https://tiktokjucabahiaoficial",
+   "https://www.instagram.com/jucabahiaoficial?igsi=MXc4Z3N5aWg0bjkzdw==",
+   "https://www.facebook.com/share/14oT25giHor/",
+   "https://josevaladaresbahia.com",
+   "http://www.jucabahia.com.br/",
+   "https://www.tiktok.com/@jucabahiaoficial",
+   "http://www.josevaladaresbahia.com/",
+   "https://facebookjuca.bahia.1612",
+   "https://twittejrucabahiaoficial"
+  ],
+  "resumoAtual": "Economista e empresário do setor de ardósia; foi prefeito de Paraopeba por dois mandatos (2017 a 2024) e suplente de deputado federal em 2022. Candidato pelo PRD.",
+  "bandeirasAtuais": [
+   "Desenvolvimento da região de Sete Lagoas e Paraopeba"
+  ],
+  "posicoesExistentes": {},
+  "perguntasFaltando": [
+   "G01",
+   "G02",
+   "G03",
+   "G04",
+   "G05",
+   "G06",
+   "G07",
+   "G08",
+   "G09",
+   "G10",
+   "G11",
+   "G12",
+   "G13",
+   "G14",
+   "DE01",
+   "DE02",
+   "DE03",
+   "DE04",
+   "DE05"
+  ]
+ },
+ {
+  "id": 130002534518,
+  "cargo": "Deputado Estadual",
+  "nomeUrna": "MARCELA TRÓPIA",
+  "nomeCompleto": "MARCELA DE LACERDA TRÓPIA",
+  "numero": 30400,
+  "partido": "NOVO",
+  "ocupacao": "Vereador",
+  "anteriores": [
+   {
+    "ano": 2024,
+    "cargo": "Vereador",
+    "local": "BELO HORIZONTE",
+    "partido": "NOVO",
+    "resultado": "Eleito por QP"
+   },
+   {
+    "ano": 2020,
+    "cargo": "Vereador",
+    "local": "BELO HORIZONTE",
+    "partido": "NOVO",
+    "resultado": "Eleito por QP"
+   },
+   {
+    "ano": 2016,
+    "cargo": "Vereador",
+    "local": "BELO HORIZONTE",
+    "partido": "PRTB",
+    "resultado": "Não eleito"
+   }
+  ],
+  "sites": [
+   "https://www.tiktok.com/@marcelatropia",
+   "https://www.youtube.com/@marcelatropia",
+   "HTTPS://WWW.MARCELATROPIA.COM.BR",
+   "https://www.linkedin.com/in/marcelatropia",
+   "https://www.linkedin.com/in/marcelatropia/",
+   "https://www.instagram.com/marcelatropia/",
+   "HTTPS://WWW.INSTAGRAM.COM/MARCELATROPIA/",
+   "https://www.facebook.com/marcela.tropia",
+   "https://www.marcelatropia.com.br/"
+  ],
+  "resumoAtual": "Vereadora de Belo Horizonte pelo Novo desde 2021, reeleita em 2024; autora da Lei de Liberdade Econômica e do Marco Municipal das Startups na capital. Candidata a deputada estadual.",
+  "bandeirasAtuais": [
+   "Saúde e fim das filas do SUS",
+   "Educação e combate à evasão escolar",
+   "Desburocratização e liberdade econômica"
+  ],
+  "posicoesExistentes": {},
+  "perguntasFaltando": [
+   "G01",
+   "G02",
+   "G03",
+   "G04",
+   "G05",
+   "G06",
+   "G07",
+   "G08",
+   "G09",
+   "G10",
+   "G11",
+   "G12",
+   "G13",
+   "G14",
+   "DE01",
+   "DE02",
+   "DE03",
+   "DE04",
+   "DE05"
+  ]
+ },
+ {
+  "id": 130002539901,
+  "cargo": "Deputado Estadual",
+  "nomeUrna": "JEPHERSON MADUREIRA",
+  "nomeCompleto": "JEPHERSON ROCHA MADUREIRA",
+  "numero": 10200,
+  "partido": "REPUBLICANOS",
+  "ocupacao": "Empresário",
+  "anteriores": [
+   {
+    "ano": 2024,
+    "cargo": "Vereador",
+    "local": "GOVERNADOR VALADARES",
+    "partido": "REPUBLICANOS",
+    "resultado": "Eleito por QP"
+   },
+   {
+    "ano": 2020,
+    "cargo": "Vereador",
+    "local": "GOVERNADOR VALADARES",
+    "partido": "PSC",
+    "resultado": "Eleito por QP"
+   },
+   {
+    "ano": 2016,
+    "cargo": "Vereador",
+    "local": "GOVERNADOR VALADARES",
+    "partido": "PROS",
+    "resultado": "Suplente"
+   }
+  ],
+  "sites": [
+   "HTTPS://WWW.INSTAGRAM.COM/JEPHERSON.MADUREIRA/",
+   "https://www.threads.com/@jepherson.madureira?xmt=AQG0rHEkD8Y4ymmc5Ycy8TXnu6AE0eETYjMS2prp2bEcUNg",
+   "HTTPS://WWW.FACEBOOK.COM/JEPHERSON.MADUREIRA",
+   "https://www.tiktok.com/@jepherson.madureira"
+  ],
+  "resumoAtual": "Empresário e vereador de Governador Valadares desde 2021, reeleito em 2024 pelo Republicanos. Candidato a deputado estadual.",
+  "bandeirasAtuais": [],
+  "posicoesExistentes": {},
+  "perguntasFaltando": [
+   "G01",
+   "G02",
+   "G03",
+   "G04",
+   "G05",
+   "G06",
+   "G07",
+   "G08",
+   "G09",
+   "G10",
+   "G11",
+   "G12",
+   "G13",
+   "G14",
+   "DE01",
+   "DE02",
+   "DE03",
+   "DE04",
+   "DE05"
+  ]
+ },
+ {
+  "id": 130002542761,
+  "cargo": "Deputado Estadual",
+  "nomeUrna": "CLEITON XAVIER",
+  "nomeCompleto": "CLEITON XAVIER DA SILVA",
+  "numero": 44999,
+  "partido": "UNIÃO",
+  "ocupacao": "Servidor Público Estadual",
+  "anteriores": [
+   {
+    "ano": 2024,
+    "cargo": "Vereador",
+    "local": "BELO HORIZONTE",
+    "partido": "MDB",
+    "resultado": "Eleito por média"
+   },
+   {
+    "ano": 2022,
+    "cargo": "Deputado Federal",
+    "local": "MINAS GERAIS",
+    "partido": "PMN",
+    "resultado": "Não eleito"
+   },
+   {
+    "ano": 2020,
+    "cargo": "Vereador",
+    "local": "BELO HORIZONTE",
+    "partido": "PMN",
+    "resultado": "Suplente"
+   },
+   {
+    "ano": 2016,
+    "cargo": "Vereador",
+    "local": "BELO HORIZONTE",
+    "partido": "PTN",
+    "resultado": "Suplente"
+   }
+  ],
+  "sites": [
+   "https://FACEBOOK- HTTPS://WWW.FACEBOOK.COM/SHARE/1BFZQIRTPD/",
+   "https://WWW.CLEITONXAVIER.COM.BR",
+   "https://INSTA - HTTPS://WWW.INSTAGRAM.COM/CLEITONXAVIERPC?IGSH=MTA4M2NWDXDMD3IXCQ==",
+   "https://TIKTOK- TIKTOK.COM/@CLEITON.XAVIER"
+  ],
+  "resumoAtual": "Investigador da Polícia Civil e vereador de Belo Horizonte desde 2022, reeleito em 2024; faz palestras em escolas sobre abuso infantil e drogas. Candidato pelo União Brasil.",
+  "bandeirasAtuais": [
+   "Proteção à infância e combate à pedofilia",
+   "Fortalecimento da família",
+   "Segurança nas escolas"
+  ],
+  "posicoesExistentes": {},
+  "perguntasFaltando": [
+   "G01",
+   "G02",
+   "G03",
+   "G04",
+   "G05",
+   "G06",
+   "G07",
+   "G08",
+   "G09",
+   "G10",
+   "G11",
+   "G12",
+   "G13",
+   "G14",
+   "DE01",
+   "DE02",
+   "DE03",
+   "DE04",
+   "DE05"
+  ]
+ },
+ {
+  "id": 130002542754,
+  "cargo": "Deputado Estadual",
+  "nomeUrna": "BETINHO PINTO COELHO",
+  "nomeCompleto": "ALBERTO PINTO COELHO NETO",
+  "numero": 44111,
+  "partido": "UNIÃO",
+  "ocupacao": "Deputado",
+  "anteriores": [
+   {
+    "ano": 2022,
+    "cargo": "Deputado Estadual",
+    "local": "MINAS GERAIS",
+    "partido": "PV",
+    "resultado": "Eleito por QP"
+   },
+   {
+    "ano": 2018,
+    "cargo": "Deputado Estadual",
+    "local": "MINAS GERAIS",
+    "partido": "SOLIDARIEDADE",
+    "resultado": "Eleito por QP"
+   }
+  ],
+  "sites": [
+   "https://@BETINHOPINTOCOELHO"
+  ],
+  "resumoAtual": "Deputado estadual desde 2019, em 2º mandato, e 3º-vice-presidente da ALMG. Administrador, filho do ex-governador Alberto Pinto Coelho. Candidato à reeleição pelo União Brasil.",
+  "bandeirasAtuais": [
+   "Municipalismo",
+   "Energias renováveis",
+   "Agronegócio"
+  ],
+  "posicoesExistentes": {
+   "DE01": {
+    "v": 1,
+    "conf": "voto",
+    "nota": "Votou Sim à PEC 24/2023, que retirou a exigência de referendo para privatizar a Copasa, nos 2 turnos (24/10 e 05/11/2025)."
+   },
+   "G03": {
+    "v": 4,
+    "conf": "voto",
+    "nota": "Votou Sim ao PL 4.380/2025, que autoriza a privatização da Copasa, nos 2 turnos (02/12 e 17/12/2025)."
+   },
+   "G11": {
+    "v": 4,
+    "conf": "voto",
+    "nota": "Votou Sim ao PL 438/2019, que reserva vagas para negros em concursos públicos estaduais, no 1º turno (03/12/2025)."
+   }
+  },
+  "perguntasFaltando": [
+   "G01",
+   "G02",
+   "G04",
+   "G05",
+   "G06",
+   "G07",
+   "G08",
+   "G09",
+   "G10",
+   "G12",
+   "G13",
+   "G14",
+   "DE02",
+   "DE03",
+   "DE04",
+   "DE05"
+  ]
+ },
+ {
+  "id": 130002543664,
+  "cargo": "Deputado Estadual",
+  "nomeUrna": "NORALDINO JUNIOR",
+  "nomeCompleto": "NORALDINO LUCIO DIAS JUNIOR",
+  "numero": 40123,
+  "partido": "PSB",
+  "ocupacao": "Empresário",
+  "anteriores": [
+   {
+    "ano": 2022,
+    "cargo": "Deputado Estadual",
+    "local": "MINAS GERAIS",
+    "partido": "PSC",
+    "resultado": "Eleito por QP"
+   },
+   {
+    "ano": 2018,
+    "cargo": "Deputado Estadual",
+    "local": "MINAS GERAIS",
+    "partido": "PSC",
+    "resultado": "Eleito por QP"
+   },
+   {
+    "ano": 2016,
+    "cargo": "Prefeito",
+    "local": "JUIZ DE FORA",
+    "partido": "PSC",
+    "resultado": "Não eleito"
+   },
+   {
+    "ano": 2014,
+    "cargo": "Deputado Estadual",
+    "local": "MINAS GERAIS",
+    "partido": "PSC",
+    "resultado": "Eleito por QP"
+   }
+  ],
+  "sites": [
+   "https://x.com/noraldinojunior",
+   "HTTPS://WWW.INSTAGRAM.COM/NORALDINOJR",
+   "https://www.tiktok.com/@noraldinojunior"
+  ],
+  "resumoAtual": "Deputado estadual desde 2015, em 3º mandato. Ex-vereador de Juiz de Fora, atua na defesa dos animais e em temas ambientais. Candidato à reeleição pelo PSB.",
+  "bandeirasAtuais": [
+   "Proteção animal",
+   "Meio ambiente",
+   "Juiz de Fora e Zona da Mata"
+  ],
+  "posicoesExistentes": {
+   "G03": {
+    "v": 4,
+    "conf": "voto",
+    "nota": "Votou Sim ao PL 4.380/2025, que autoriza a privatização da Copasa, nos 2 turnos (02/12 e 17/12/2025)."
+   },
+   "G07": {
+    "v": 2,
+    "conf": "voto",
+    "nota": "Votou pela manutenção do veto à ampliação da Estação Ecológica de Fechos, área de mananciais sob pressão da mineração (24/04/2024)."
+   },
+   "G11": {
+    "v": 4,
+    "conf": "voto",
+    "nota": "Votou Sim ao PL 438/2019, que reserva vagas para negros em concursos públicos estaduais, nos 2 turnos (03/12 e 16/12/2025)."
+   },
+   "DE01": {
+    "v": 1,
+    "conf": "voto",
+    "nota": "Votou Sim à PEC 24/2023, que retirou a exigência de referendo para privatizar a Copasa, nos 2 turnos (24/10 e 05/11/2025)."
+   }
+  },
+  "perguntasFaltando": [
+   "G01",
+   "G02",
+   "G04",
+   "G05",
+   "G06",
+   "G08",
+   "G09",
+   "G10",
+   "G12",
+   "G13",
+   "G14",
+   "DE02",
+   "DE03",
+   "DE04",
+   "DE05"
+  ]
+ },
+ {
+  "id": 130002542748,
+  "cargo": "Deputado Estadual",
+  "nomeUrna": "DOORGAL ANDRADA",
+  "nomeCompleto": "DOORGAL GUSTAVO SAD LAFAYETTE DE ANDRADA",
+  "numero": 11300,
+  "partido": "PP",
+  "ocupacao": "Deputado",
+  "anteriores": [
+   {
+    "ano": 2022,
+    "cargo": "Deputado Estadual",
+    "local": "MINAS GERAIS",
+    "partido": "PATRIOTA",
+    "resultado": "Eleito por QP"
+   },
+   {
+    "ano": 2018,
+    "cargo": "Deputado Estadual",
+    "local": "MINAS GERAIS",
+    "partido": "PATRIOTA",
+    "resultado": "Eleito por QP"
+   },
+   {
+    "ano": 2016,
+    "cargo": "Vereador",
+    "local": "BELO HORIZONTE",
+    "partido": "PSD",
+    "resultado": "Eleito por QP"
+   }
+  ],
+  "sites": [
+   "HTTPS://WWW.INSTAGRAM.COM/DOORGALANDRADAMG/",
+   "HTTPS://X.COM/DOORGALANDRADA",
+   "HTTPS://WWW.FACEBOOK.COM/DOORGALANDRADAMG/?LOCALE=TE_IN",
+   "https://www.tiktok.com/@doorgal.andrada"
+  ],
+  "resumoAtual": "Deputado estadual desde 2019, em 2º mandato. Bacharel em Direito, ex-vereador de Belo Horizonte e oficial da reserva do Exército. Candidato à reeleição pelo PP.",
+  "bandeirasAtuais": [
+   "Apoio às pessoas com autismo e suas famílias",
+   "Esporte",
+   "Eficiência do poder público e municipalismo"
+  ],
+  "posicoesExistentes": {
+   "G03": {
+    "v": 4,
+    "conf": "voto",
+    "nota": "Votou Sim ao PL 4.380/2025, que autoriza a privatização da Copasa, nos 2 turnos (02/12 e 17/12/2025)."
+   },
+   "G07": {
+    "v": 4,
+    "conf": "voto",
+    "nota": "Votou pela derrubada do veto à ampliação de Fechos (24/04/2024) e é autor do PL 480/2023, que cria o Parque Metropolitano da Serra do Curral."
+   },
+   "DE01": {
+    "v": 1,
+    "conf": "voto",
+    "nota": "Votou Sim à PEC 24/2023, que retirou a exigência de referendo para privatizar a Copasa, nos 2 turnos (24/10 e 05/11/2025)."
+   },
+   "G11": {
+    "v": 4,
+    "conf": "voto",
+    "nota": "Votou Sim ao PL 438/2019, que reserva vagas para negros em concursos públicos estaduais, no 1º turno (03/12/2025)."
+   }
+  },
+  "perguntasFaltando": [
+   "G01",
+   "G02",
+   "G04",
+   "G05",
+   "G06",
+   "G08",
+   "G09",
+   "G10",
+   "G12",
+   "G13",
+   "G14",
+   "DE02",
+   "DE03",
+   "DE04",
+   "DE05"
+  ]
+ },
+ {
+  "id": 130002548769,
+  "cargo": "Deputado Estadual",
+  "nomeUrna": "RODRIGO CADEIRANTE",
+  "nomeCompleto": "RODRIGO MAIA DE OLIVEIRA",
+  "numero": 20120,
+  "partido": "PODE",
+  "ocupacao": "Vereador",
+  "anteriores": [
+   {
+    "ano": 2024,
+    "cargo": "Vereador",
+    "local": "MONTES CLAROS",
+    "partido": "UNIÃO",
+    "resultado": "Eleito por QP"
+   },
+   {
+    "ano": 2022,
+    "cargo": "Deputado Federal",
+    "local": "MINAS GERAIS",
+    "partido": "REDE",
+    "resultado": "Suplente"
+   },
+   {
+    "ano": 2020,
+    "cargo": "Vereador",
+    "local": "MONTES CLAROS",
+    "partido": "REDE",
+    "resultado": "Eleito por QP"
+   },
+   {
+    "ano": 2016,
+    "cargo": "Vereador",
+    "local": "MONTES CLAROS",
+    "partido": "REDE",
+    "resultado": "Eleito por QP"
+   }
+  ],
+  "sites": [
+   "HTTPS://WWW.KWAI.COM/@RODRIGOCADEIRA674",
+   "HTTPS://WWW.INSTAGRAM.COM/RODRIGOCADEIRANTE/",
+   "HTTPS://WWW.FACEBOOK.COM/RODRIGOCADEIRANTE1801/?LOCALE=PT_BR",
+   "HTTPS://WWW.TIKTOK.COM/@RODRIGOCADEIRANTEMG"
+  ],
+  "resumoAtual": "Vereador de Montes Claros desde 2017, no terceiro mandato; foi suplente de deputado federal em 2022. Candidato a deputado estadual pelo Podemos.",
+  "bandeirasAtuais": [],
+  "posicoesExistentes": {},
+  "perguntasFaltando": [
+   "G01",
+   "G02",
+   "G03",
+   "G04",
+   "G05",
+   "G06",
+   "G07",
+   "G08",
+   "G09",
+   "G10",
+   "G11",
+   "G12",
+   "G13",
+   "G14",
+   "DE01",
+   "DE02",
+   "DE03",
+   "DE04",
+   "DE05"
+  ]
+ },
+ {
+  "id": 130002548716,
+  "cargo": "Deputado Estadual",
+  "nomeUrna": "FLÁVIA BORJA",
+  "nomeCompleto": "FLAVIA FERREIRA BORJA PINTO",
+  "numero": 20000,
+  "partido": "PODE",
+  "ocupacao": "Vereador",
+  "anteriores": [
+   {
+    "ano": 2024,
+    "cargo": "Vereador",
+    "local": "BELO HORIZONTE",
+    "partido": "DC",
+    "resultado": "Eleito por QP"
+   },
+   {
+    "ano": 2022,
+    "cargo": "Deputado Estadual",
+    "local": "MINAS GERAIS",
+    "partido": "PP",
+    "resultado": "Suplente"
+   },
+   {
+    "ano": 2020,
+    "cargo": "Vereador",
+    "local": "BELO HORIZONTE",
+    "partido": "AVANTE",
+    "resultado": "Eleito por QP"
+   }
+  ],
+  "sites": [
+   "HTTPS://WWW.TIKTOK.COM/@FLAVIABORJAOFICIAL?_R=1&_T=ZS-98FQXICZMZS",
+   "https://WWW.FACEBOOK.COM.BR/FLAVIABORJAOFICIAL",
+   "HTTPS://WWW.INSTAGRAM.COM/FLAVIABORJAOFICIAL?IGSH=MTJXN3NVYXM0BTE3MQ=="
+  ],
+  "resumoAtual": "Vereadora de Belo Horizonte desde 2021, reeleita em 2024; foi suplente de deputada estadual em 2022. Candidata a deputada estadual pelo Podemos.",
+  "bandeirasAtuais": [],
+  "posicoesExistentes": {},
+  "perguntasFaltando": [
+   "G01",
+   "G02",
+   "G03",
+   "G04",
+   "G05",
+   "G06",
+   "G07",
+   "G08",
+   "G09",
+   "G10",
+   "G11",
+   "G12",
+   "G13",
+   "G14",
+   "DE01",
+   "DE02",
+   "DE03",
+   "DE04",
+   "DE05"
+  ]
+ },
+ {
+  "id": 130002549946,
+  "cargo": "Deputado Estadual",
+  "nomeUrna": "EDIR",
+  "nomeCompleto": "EDIRLANE APARECIDA DOS REIS MOREIRA",
+  "numero": 55225,
+  "partido": "PSD",
+  "ocupacao": "Empresário",
+  "anteriores": [],
+  "sites": [
+   "https://www.instagram.com/edirlaner/"
+  ],
+  "resumoAtual": "Empresária. Disputa pela primeira vez uma eleição, como candidata a deputada estadual pelo PSD.",
+  "bandeirasAtuais": [],
+  "posicoesExistentes": {},
+  "perguntasFaltando": [
+   "G01",
+   "G02",
+   "G03",
+   "G04",
+   "G05",
+   "G06",
+   "G07",
+   "G08",
+   "G09",
+   "G10",
+   "G11",
+   "G12",
+   "G13",
+   "G14",
+   "DE01",
+   "DE02",
+   "DE03",
+   "DE04",
+   "DE05"
+  ]
+ },
+ {
+  "id": 130002549941,
+  "cargo": "Deputado Estadual",
+  "nomeUrna": "VERA ARAÚJO",
+  "nomeCompleto": "VERA MARIA ARAÚJO GUERRA",
+  "numero": 55855,
+  "partido": "PSD",
+  "ocupacao": "Outros",
+  "anteriores": [
+   {
+    "ano": 2018,
+    "cargo": "Deputado Estadual",
+    "local": "MINAS GERAIS",
+    "partido": "PSD",
+    "resultado": "Suplente"
+   }
+  ],
+  "sites": [
+   "https://@VERAARAUJOGUERRA",
+   "https://www.instagram.com/veraaraujoguerra/"
+  ],
+  "resumoAtual": "Foi suplente de deputada estadual pelo PSD em 2018. Candidata a deputada estadual pelo PSD.",
+  "bandeirasAtuais": [],
+  "posicoesExistentes": {},
+  "perguntasFaltando": [
+   "G01",
+   "G02",
+   "G03",
+   "G04",
+   "G05",
+   "G06",
+   "G07",
+   "G08",
+   "G09",
+   "G10",
+   "G11",
+   "G12",
+   "G13",
+   "G14",
+   "DE01",
+   "DE02",
+   "DE03",
+   "DE04",
+   "DE05"
+  ]
+ },
+ {
+  "id": 130002540050,
+  "cargo": "Deputado Estadual",
+  "nomeUrna": "CHIQUINHO TOMAZ",
+  "nomeCompleto": "FRANCISCO TOMAZ DE OLIVEIRA FILHO",
+  "numero": 12212,
+  "partido": "PDT",
+  "ocupacao": "Vereador",
+  "anteriores": [
+   {
+    "ano": 2024,
+    "cargo": "Vereador",
+    "local": "ITUIUTABA",
+    "partido": "PDT",
+    "resultado": "Eleito por QP"
+   },
+   {
+    "ano": 2020,
+    "cargo": "Vereador",
+    "local": "ITUIUTABA",
+    "partido": "PTB",
+    "resultado": "Eleito por QP"
+   },
+   {
+    "ano": 2016,
+    "cargo": "Vereador",
+    "local": "ITUIUTABA",
+    "partido": "PSB",
+    "resultado": "Eleito por média"
+   },
+   {
+    "ano": 2012,
+    "cargo": "Vereador",
+    "local": "ITUIUTABA",
+    "partido": "PSDB",
+    "resultado": "Eleito por QP"
+   }
+  ],
+  "sites": [
+   "HTTPS://CHIQUINHOTOMAZMG"
+  ],
+  "resumoAtual": "Vereador de Ituiutaba, no Triângulo Mineiro, desde 2013, reeleito em 2016, 2020 e 2024. Candidato a deputado estadual pelo PDT.",
+  "bandeirasAtuais": [],
+  "posicoesExistentes": {},
+  "perguntasFaltando": [
+   "G01",
+   "G02",
+   "G03",
+   "G04",
+   "G05",
+   "G06",
+   "G07",
+   "G08",
+   "G09",
+   "G10",
+   "G11",
+   "G12",
+   "G13",
+   "G14",
+   "DE01",
+   "DE02",
+   "DE03",
+   "DE04",
+   "DE05"
+  ]
+ },
+ {
+  "id": 130002539496,
+  "cargo": "Deputado Estadual",
+  "nomeUrna": "PEPÊ DA LIBERDADE",
+  "nomeCompleto": "PEDRO PAULO DOS SANTOS CARVALHO",
+  "numero": 18444,
+  "partido": "REDE",
+  "ocupacao": "Locutor e Comentarista de Rádio e Televisão e Radialista",
+  "anteriores": [
+   {
+    "ano": 2004,
+    "cargo": "Vereador",
+    "local": "BELO HORIZONTE",
+    "partido": "PT",
+    "resultado": "Suplente"
+   }
+  ],
+  "sites": [
+   "https://www.facebook.com/pedropauloradioliberdade",
+   "https://www.tiktok.com/@pepedaliberdade",
+   "https://www.threads.com/@pedropauloliberdadefm",
+   "https://www.instagram.com/pepedaliberdade/",
+   "https://x.com/pepeliberdadefm",
+   "https://www.youtube.com/@Pep%C3%AAdaLiberdade",
+   "https://pepedaliberdade18444.com.br/"
+  ],
+  "resumoAtual": "Radialista em Belo Horizonte; foi candidato a vereador da capital em 2004. Candidato a deputado estadual pela Rede.",
+  "bandeirasAtuais": [
+   "Terceira idade",
+   "Creches e escolas em tempo integral",
+   "Moradia e transporte público"
+  ],
+  "posicoesExistentes": {},
+  "perguntasFaltando": [
+   "G01",
+   "G02",
+   "G03",
+   "G04",
+   "G05",
+   "G06",
+   "G07",
+   "G08",
+   "G09",
+   "G10",
+   "G11",
+   "G12",
+   "G13",
+   "G14",
+   "DE01",
+   "DE02",
+   "DE03",
+   "DE04",
+   "DE05"
+  ]
+ },
+ {
+  "id": 130002535344,
+  "cargo": "Deputado Estadual",
+  "nomeUrna": "EDMAR BRANCO",
+  "nomeCompleto": "EDMAR MARTINS CABRAL DA CRUZ",
+  "numero": 65065,
+  "partido": "PCDOB",
+  "ocupacao": "Outros",
+  "anteriores": [
+   {
+    "ano": 2024,
+    "cargo": "Vereador",
+    "local": "BELO HORIZONTE",
+    "partido": "PC do B",
+    "resultado": "Eleito por média"
+   },
+   {
+    "ano": 2020,
+    "cargo": "Vereador",
+    "local": "BELO HORIZONTE",
+    "partido": "PSB",
+    "resultado": "Não eleito"
+   },
+   {
+    "ano": 2018,
+    "cargo": "Deputado Estadual",
+    "local": "MINAS GERAIS",
+    "partido": "AVANTE",
+    "resultado": "Suplente"
+   },
+   {
+    "ano": 2016,
+    "cargo": "Vereador",
+    "local": "BELO HORIZONTE",
+    "partido": "PT do B",
+    "resultado": "Eleito por QP"
+   }
+  ],
+  "sites": [
+   "https://www.youtube.com/@EdmarBranco",
+   "HTTPS://WWW.INSTAGRAM.COM/EDMAR.BRANCO/",
+   "https://www.facebook.com/edmarmartinsbranco",
+   "HTTPS://WWW.YOUTUBE.COM/@EDMARBRANCO",
+   "https://www.instagram.com/edmar.branco",
+   "HTTPS://WEB.FACEBOOK.COM/EDMARMARTINSBRANCO?LOCALE=PT_BR",
+   "https://edmarbranco65065.com.br/"
+  ],
+  "resumoAtual": "Vereador de Belo Horizonte pelo PCdoB, eleito em 2016 e em 2024, com atuação ligada a movimentos comunitários, moradia e meio ambiente. Candidato a deputado estadual.",
+  "bandeirasAtuais": [
+   "Meio ambiente e recuperação de córregos",
+   "Moradia popular e urbanização",
+   "Saúde e fortalecimento do SUS"
+  ],
+  "posicoesExistentes": {},
+  "perguntasFaltando": [
+   "G01",
+   "G02",
+   "G03",
+   "G04",
+   "G05",
+   "G06",
+   "G07",
+   "G08",
+   "G09",
+   "G10",
+   "G11",
+   "G12",
+   "G13",
+   "G14",
+   "DE01",
+   "DE02",
+   "DE03",
+   "DE04",
+   "DE05"
+  ]
+ },
+ {
+  "id": 130002551763,
+  "cargo": "Deputado Estadual",
+  "nomeUrna": "DR. JORGE ALI",
+  "nomeCompleto": "JORGE LUIZ FORTUNATO ALI",
+  "numero": 36123,
+  "partido": "AGIR",
+  "ocupacao": "Médico",
+  "anteriores": [
+   {
+    "ano": 2022,
+    "cargo": "Deputado Estadual",
+    "local": "MINAS GERAIS",
+    "partido": "PSC",
+    "resultado": "Suplente"
+   },
+   {
+    "ano": 2018,
+    "cargo": "Deputado Estadual",
+    "local": "MINAS GERAIS",
+    "partido": "PSC",
+    "resultado": "Suplente"
+   }
+  ],
+  "sites": [
+   "HTTPS://WWW.FACEBOOK.COM/DRJORGEALI20100/#",
+   "HTTPS://WWW.INSTAGRAM.COM/DRJORGEALI?IGSH=MTBZZ2GXYXLWAGH1DW%3D%3D"
+  ],
+  "resumoAtual": "Médico cirurgião, pecuarista e empresário, natural de Itambacuri; exerceu mandato de deputado estadual como suplente de junho a outubro de 2024. Candidato pelo Agir.",
+  "bandeirasAtuais": [
+   "Emprego e renda nos Vales do Rio Doce, Mucuri e Jequitinhonha"
+  ],
+  "posicoesExistentes": {},
+  "perguntasFaltando": [
+   "G01",
+   "G02",
+   "G03",
+   "G04",
+   "G05",
+   "G06",
+   "G07",
+   "G08",
+   "G09",
+   "G10",
+   "G11",
+   "G12",
+   "G13",
+   "G14",
+   "DE01",
+   "DE02",
+   "DE03",
+   "DE04",
+   "DE05"
+  ]
+ },
+ {
+  "id": 130002549947,
+  "cargo": "Deputado Estadual",
+  "nomeUrna": "LEANDRO GENARO JUNTOS SOMOS +",
+  "nomeCompleto": "LEANDRO ANDRADE GENARO OLIVEIRA",
+  "numero": 55444,
+  "partido": "PSD",
+  "ocupacao": "Deputado",
+  "anteriores": [
+   {
+    "ano": 2022,
+    "cargo": "Deputado Estadual",
+    "local": "MINAS GERAIS",
+    "partido": "PSD",
+    "resultado": "Eleito por QP"
+   },
+   {
+    "ano": 2018,
+    "cargo": "Deputado Estadual",
+    "local": "MINAS GERAIS",
+    "partido": "PSD",
+    "resultado": "Eleito por QP"
+   },
+   {
+    "ano": 2014,
+    "cargo": "Deputado Estadual",
+    "local": "MINAS GERAIS",
+    "partido": "PSB",
+    "resultado": "Eleito por QP"
+   },
+   {
+    "ano": 2010,
+    "cargo": "Deputado Estadual",
+    "local": "MINAS GERAIS",
+    "partido": "PSC",
+    "resultado": "Suplente"
+   }
+  ],
+  "sites": [
+   "https://www.instagram.com/leandro.genaro/",
+   "https://FACEBOOK.COM/DEP.LEANDROGENARO"
+  ],
+  "resumoAtual": "Deputado estadual desde 2015, em 3º mandato. Pastor da Igreja do Evangelho Quadrangular e radialista, de Contagem. Candidato à reeleição pelo PSD.",
+  "bandeirasAtuais": [
+   "Comunidades terapêuticas e recuperação de dependentes químicos",
+   "Proteção animal"
+  ],
+  "posicoesExistentes": {
+   "G07": {
+    "v": 2,
+    "conf": "voto",
+    "nota": "Votou pela manutenção do veto à ampliação da Estação Ecológica de Fechos, área de mananciais sob pressão da mineração (24/04/2024)."
+   },
+   "DE01": {
+    "v": 1,
+    "conf": "voto",
+    "nota": "Votou Sim à PEC 24/2023, que retirou a exigência de referendo para privatizar a Copasa, nos 2 turnos (24/10 e 05/11/2025)."
+   },
+   "G03": {
+    "v": 4,
+    "conf": "voto",
+    "nota": "Votou Sim ao PL 4.380/2025, que autoriza a privatização da Copasa, nos 2 turnos (02/12 e 17/12/2025)."
+   }
+  },
+  "perguntasFaltando": [
+   "G01",
+   "G02",
+   "G04",
+   "G05",
+   "G06",
+   "G08",
+   "G09",
+   "G10",
+   "G11",
+   "G12",
+   "G13",
+   "G14",
+   "DE02",
+   "DE03",
+   "DE04",
+   "DE05"
+  ]
+ },
+ {
+  "id": 130002539884,
+  "cargo": "Deputado Estadual",
+  "nomeUrna": "MAURO TRAMONTE",
+  "nomeCompleto": "MAURO HENRIQUE TRAMONTE",
+  "numero": 10800,
+  "partido": "REPUBLICANOS",
+  "ocupacao": "Deputado",
+  "anteriores": [
+   {
+    "ano": 2024,
+    "cargo": "Prefeito",
+    "local": "BELO HORIZONTE",
+    "partido": "REPUBLICANOS",
+    "resultado": "Não eleito"
+   },
+   {
+    "ano": 2022,
+    "cargo": "Deputado Estadual",
+    "local": "MINAS GERAIS",
+    "partido": "REPUBLICANOS",
+    "resultado": "Eleito por QP"
+   },
+   {
+    "ano": 2018,
+    "cargo": "Deputado Estadual",
+    "local": "MINAS GERAIS",
+    "partido": "PRB",
+    "resultado": "Eleito por QP"
+   },
+   {
+    "ano": 2004,
+    "cargo": "Vereador",
+    "local": "POÇOS DE CALDAS",
+    "partido": "PMDB",
+    "resultado": "Suplente"
+   }
+  ],
+  "sites": [
+   "https://www.instagram.com/maurotramontereal/",
+   "https://www.facebook.com/maurotramonteoficial",
+   "https://x.com/maurotramonte",
+   "https://www.kwai.com/@maurotramonte002",
+   "https://linktr.ee/maurotramontereal",
+   "https://www.tiktok.com/@maurotramonte",
+   "https://www.kwai.com/@maurotramonte"
+  ],
+  "resumoAtual": "Deputado estadual desde 2019, em 2º mandato. Jornalista e apresentador do Balanço Geral, da TV Record Minas; disputou eleição para prefeito em 2024. Candidato à reeleição pelo Republicanos.",
+  "bandeirasAtuais": [
+   "Turismo e gastronomia",
+   "Combate ao racismo e à violência contra a mulher em eventos",
+   "Cultura"
+  ],
+  "posicoesExistentes": {
+   "G03": {
+    "v": 4,
+    "conf": "voto",
+    "nota": "Votou Sim ao PL 4.380/2025, que autoriza a privatização da Copasa, nos 2 turnos (02/12 e 17/12/2025)."
+   },
+   "G11": {
+    "v": 4,
+    "conf": "voto",
+    "nota": "Votou Sim ao PL 438/2019, que reserva vagas para negros em concursos públicos estaduais, no 2º turno (16/12/2025)."
+   },
+   "DE01": {
+    "v": 4,
+    "conf": "voto",
+    "nota": "Votou Não à PEC 24/2023 (fim do referendo para privatizar a Copasa) no 2º turno, em 05/11/2025, após votar Sim no 1º turno."
+   }
+  },
+  "perguntasFaltando": [
+   "G01",
+   "G02",
+   "G04",
+   "G05",
+   "G06",
+   "G07",
+   "G08",
+   "G09",
+   "G10",
+   "G12",
+   "G13",
+   "G14",
+   "DE02",
+   "DE03",
+   "DE04",
+   "DE05"
+  ]
+ },
+ {
+  "id": 130002549966,
+  "cargo": "Deputado Estadual",
+  "nomeUrna": "DOUTOR WILSON BATISTA",
+  "nomeCompleto": "WILSON ROBERTO BATISTA",
+  "numero": 55123,
+  "partido": "PSD",
+  "ocupacao": "Médico",
+  "anteriores": [
+   {
+    "ano": 2022,
+    "cargo": "Deputado Estadual",
+    "local": "MINAS GERAIS",
+    "partido": "PSD",
+    "resultado": "Eleito por QP"
+   },
+   {
+    "ano": 2018,
+    "cargo": "Deputado Estadual",
+    "local": "MINAS GERAIS",
+    "partido": "PSD",
+    "resultado": "Eleito por QP"
+   },
+   {
+    "ano": 2014,
+    "cargo": "Deputado Estadual",
+    "local": "MINAS GERAIS",
+    "partido": "PSD",
+    "resultado": "Eleito por QP"
+   },
+   {
+    "ano": 2010,
+    "cargo": "Deputado Estadual",
+    "local": "MINAS GERAIS",
+    "partido": "PSL",
+    "resultado": "Eleito"
+   }
+  ],
+  "sites": [
+   "https://FACEBOOK: DEPUTADODOUTORWILSONBATISTA",
+   "https://www.instagram.com/drwilsonbatista/",
+   "https://WWW.DEPUTADOWILSONBATISTA.COM.BR"
+  ],
+  "resumoAtual": "Deputado estadual desde 2011, em 4º mandato. Cirurgião oncológico em Muriaé, na Zona da Mata. Candidato à reeleição pelo PSD.",
+  "bandeirasAtuais": [
+   "Prevenção e tratamento do câncer",
+   "Zona da Mata",
+   "Saúde pública"
+  ],
+  "posicoesExistentes": {
+   "G07": {
+    "v": 2,
+    "conf": "voto",
+    "nota": "Votou pela manutenção do veto à ampliação da Estação Ecológica de Fechos, área de mananciais sob pressão da mineração (24/04/2024)."
+   },
+   "DE01": {
+    "v": 1,
+    "conf": "voto",
+    "nota": "Votou Sim à PEC 24/2023, que retirou a exigência de referendo para privatizar a Copasa, nos 2 turnos (24/10 e 05/11/2025)."
+   },
+   "G03": {
+    "v": 4,
+    "conf": "voto",
+    "nota": "Votou Sim ao PL 4.380/2025, que autoriza a privatização da Copasa, no 2º turno (17/12/2025)."
+   },
+   "G11": {
+    "v": 4,
+    "conf": "voto",
+    "nota": "Votou Sim ao PL 438/2019, que reserva vagas para negros em concursos públicos estaduais, nos 2 turnos (03/12 e 16/12/2025)."
+   }
+  },
+  "perguntasFaltando": [
+   "G01",
+   "G02",
+   "G04",
+   "G05",
+   "G06",
+   "G08",
+   "G09",
+   "G10",
+   "G12",
+   "G13",
+   "G14",
+   "DE02",
+   "DE03",
+   "DE04",
+   "DE05"
+  ]
+ },
+ {
+  "id": 130002534510,
+  "cargo": "Deputado Estadual",
+  "nomeUrna": "ZÉ LAVIOLA",
+  "nomeCompleto": "JOSE LAVIOLA NETO DE LIRA",
+  "numero": 30011,
+  "partido": "NOVO",
+  "ocupacao": "Produtor Agropecuário",
+  "anteriores": [
+   {
+    "ano": 2022,
+    "cargo": "Deputado Estadual",
+    "local": "MINAS GERAIS",
+    "partido": "NOVO",
+    "resultado": "Eleito por QP"
+   }
+  ],
+  "sites": [
+   "HTTPS://WWW.FACEBOOK.COM/JOSE.LAVIOLA.7",
+   "https://www.threads.net/@joselaviola",
+   "HTTPS://WWW.INSTAGRAM.COM/JOSELAVIOLA",
+   "https://www.facebook.com/joselaviolamg",
+   "HTTPS://WWW.FACEBOOK.COM/JOSELAVIOLAMG",
+   "https://twitter.com/joselaviola",
+   "https://www.linkedin.com/in/joselaviola",
+   "HTTPS://ZELAVIOLA.COM.BR",
+   "https://zelaviola.com.br/",
+   "https://www.tiktok.com/@joselaviola",
+   "https://www.facebook.com/jose.laviola.7",
+   "https://www.instagram.com/joselaviola",
+   "https://www.youtube.com/@joselaviola"
+  ],
+  "resumoAtual": "Deputado estadual em 1º mandato (desde 2023). Advogado e produtor agropecuário, filho da ex-deputada Celise Laviola, com atuação no Leste de Minas. Candidato à reeleição pelo Novo.",
+  "bandeirasAtuais": [
+   "Leste de Minas e interior do estado"
+  ],
+  "posicoesExistentes": {
+   "G03": {
+    "v": 4,
+    "conf": "voto",
+    "nota": "Votou Sim ao PL 4.380/2025, que autoriza a privatização da Copasa, nos 2 turnos (02/12 e 17/12/2025)."
+   },
+   "G07": {
+    "v": 2,
+    "conf": "voto",
+    "nota": "Votou pela manutenção do veto à ampliação da Estação Ecológica de Fechos, área de mananciais sob pressão da mineração (24/04/2024)."
+   },
+   "G11": {
+    "v": 4,
+    "conf": "voto",
+    "nota": "Votou Sim ao PL 438/2019, que reserva vagas para negros em concursos públicos estaduais, no 1º turno (03/12/2025)."
+   },
+   "DE01": {
+    "v": 1,
+    "conf": "voto",
+    "nota": "Votou Sim à PEC 24/2023, que retirou a exigência de referendo para privatizar a Copasa, nos 2 turnos (24/10 e 05/11/2025)."
+   }
+  },
+  "perguntasFaltando": [
+   "G01",
+   "G02",
+   "G04",
+   "G05",
+   "G06",
+   "G08",
+   "G09",
+   "G10",
+   "G12",
+   "G13",
+   "G14",
+   "DE02",
+   "DE03",
+   "DE04",
+   "DE05"
+  ]
+ },
+ {
+  "id": 130002549942,
+  "cargo": "Deputado Estadual",
+  "nomeUrna": "RAFAEL MARTINS",
+  "nomeCompleto": "RAFAEL MARTINS DE SOUZA",
+  "numero": 55031,
+  "partido": "PSD",
+  "ocupacao": "Deputado",
+  "anteriores": [
+   {
+    "ano": 2022,
+    "cargo": "Deputado Estadual",
+    "local": "MINAS GERAIS",
+    "partido": "PSD",
+    "resultado": "Eleito por média"
+   },
+   {
+    "ano": 2018,
+    "cargo": "Deputado Estadual",
+    "local": "MINAS GERAIS",
+    "partido": "PRTB",
+    "resultado": "Eleito por QP"
+   },
+   {
+    "ano": 2016,
+    "cargo": "Vereador",
+    "local": "BELO HORIZONTE",
+    "partido": "PMDB",
+    "resultado": "Eleito por QP"
+   },
+   {
+    "ano": 2014,
+    "cargo": "Deputado Estadual",
+    "local": "MINAS GERAIS",
+    "partido": "PT do B",
+    "resultado": "Suplente"
+   }
+  ],
+  "sites": [
+   "https://FACEBOOK.COM/RAFAELMARTINSTV",
+   "https://INSTAGRAM.COM/RAFAELMARTINSTV",
+   "http://www.tiktok.com/@rafaelmartinstv",
+   "https://youtube.com/@deputadorafaelmartins?si=PwgaF3lwBfWSm0GJ"
+  ],
+  "resumoAtual": "Deputado estadual desde 2019, em 2º mandato. Jornalista e repórter da TV Alterosa, ex-vereador de Belo Horizonte. Candidato à reeleição pelo PSD.",
+  "bandeirasAtuais": [
+   "Meio ambiente e política urbana",
+   "Minas e energia"
+  ],
+  "posicoesExistentes": {
+   "G07": {
+    "v": 2,
+    "conf": "voto",
+    "nota": "Votou pela manutenção do veto à ampliação da Estação Ecológica de Fechos, área de mananciais sob pressão da mineração (24/04/2024)."
+   },
+   "DE01": {
+    "v": 1,
+    "conf": "voto",
+    "nota": "Votou Sim à PEC 24/2023, que retirou a exigência de referendo para privatizar a Copasa, nos 2 turnos (24/10 e 05/11/2025)."
+   },
+   "G03": {
+    "v": 4,
+    "conf": "voto",
+    "nota": "Votou Sim ao PL 4.380/2025, que autoriza a privatização da Copasa, nos 2 turnos (02/12 e 17/12/2025)."
+   }
+  },
+  "perguntasFaltando": [
+   "G01",
+   "G02",
+   "G04",
+   "G05",
+   "G06",
+   "G08",
+   "G09",
+   "G10",
+   "G11",
+   "G12",
+   "G13",
+   "G14",
+   "DE02",
+   "DE03",
+   "DE04",
+   "DE05"
+  ]
+ },
+ {
+  "id": 130002539880,
+  "cargo": "Deputado Estadual",
+  "nomeUrna": "CHARLES SANTOS",
+  "nomeCompleto": "CHARLES DOS SANTOS",
+  "numero": 10100,
+  "partido": "REPUBLICANOS",
+  "ocupacao": "Deputado",
+  "anteriores": [
+   {
+    "ano": 2022,
+    "cargo": "Deputado Estadual",
+    "local": "MINAS GERAIS",
+    "partido": "REPUBLICANOS",
+    "resultado": "Eleito por QP"
+   },
+   {
+    "ano": 2018,
+    "cargo": "Deputado Estadual",
+    "local": "MINAS GERAIS",
+    "partido": "PRB",
+    "resultado": "Eleito por QP"
+   }
+  ],
+  "sites": [
+   "https://www.tiktok.com/@charlessantosmg",
+   "https://www.youtube.com/@charlessantosmg7920",
+   "https://charlessantos.com.br/site/",
+   "https://x.com/charlessantosmg",
+   "https://www.threads.com/@charlessantosmg?xmt=AQG0rHEkD8Y4ymmc5Ycy8TXnu6AE0eETYjMS2prp2bEcUNg",
+   "https://www.facebook.com/charlessantosmg/?ref=NONE_xav_ig_profile_page_web#",
+   "https://www.instagram.com/charlessantosmg/"
+  ],
+  "resumoAtual": "Deputado estadual desde 2019, em 2º mandato. Bacharel em Teologia e ex-diretor do jornal Hoje em Dia. Candidato à reeleição pelo Republicanos.",
+  "bandeirasAtuais": [
+   "Saúde mental e prevenção ao suicídio",
+   "Proteção à mulher vítima de violência",
+   "Denúncia de crimes ambientais"
+  ],
+  "posicoesExistentes": {
+   "G03": {
+    "v": 4,
+    "conf": "voto",
+    "nota": "Votou Sim ao PL 4.380/2025, que autoriza a privatização da Copasa, nos 2 turnos (02/12 e 17/12/2025)."
+   },
+   "G07": {
+    "v": 2,
+    "conf": "voto",
+    "nota": "Votou pela manutenção do veto à ampliação da Estação Ecológica de Fechos, área de mananciais sob pressão da mineração (24/04/2024)."
+   },
+   "G11": {
+    "v": 4,
+    "conf": "voto",
+    "nota": "Votou Sim ao PL 438/2019, que reserva vagas para negros em concursos públicos estaduais, nos 2 turnos (03/12 e 16/12/2025)."
+   },
+   "DE01": {
+    "v": 1,
+    "conf": "voto",
+    "nota": "Votou Sim à PEC 24/2023, que retirou a exigência de referendo para privatizar a Copasa, nos 2 turnos (24/10 e 05/11/2025)."
+   }
+  },
+  "perguntasFaltando": [
+   "G01",
+   "G02",
+   "G04",
+   "G05",
+   "G06",
+   "G08",
+   "G09",
+   "G10",
+   "G12",
+   "G13",
+   "G14",
+   "DE02",
+   "DE03",
+   "DE04",
+   "DE05"
+  ]
+ }
+]

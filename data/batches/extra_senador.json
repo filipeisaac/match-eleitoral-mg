@@ -1,0 +1,1430 @@
+[
+ {
+  "id": 130002554332,
+  "cargo": "Senador",
+  "nomeUrna": "AÉCIO NEVES",
+  "nomeCompleto": "AÉCIO NEVES DA CUNHA",
+  "numero": 456,
+  "partido": "PSDB",
+  "ocupacao": "Deputado",
+  "anteriores": [
+   {
+    "ano": 2022,
+    "cargo": "Deputado Federal",
+    "local": "MINAS GERAIS",
+    "partido": "PSDB",
+    "resultado": "Eleito por média"
+   },
+   {
+    "ano": 2018,
+    "cargo": "Deputado Federal",
+    "local": "MINAS GERAIS",
+    "partido": "PSDB",
+    "resultado": "Eleito por QP"
+   },
+   {
+    "ano": 2014,
+    "cargo": "Presidente",
+    "local": "BRASIL",
+    "partido": "PSDB",
+    "resultado": "Não eleito"
+   },
+   {
+    "ano": 2010,
+    "cargo": "Senador",
+    "local": "MINAS GERAIS",
+    "partido": "PSDB",
+    "resultado": "Eleito"
+   }
+  ],
+  "sites": [
+   "https://www.facebook.com/share/1D454kJsG8/",
+   "https://linktr.ee/estoucomaeciosenador456",
+   "https://www.instagram.com/aecionevesoficial",
+   "https://www.threads.com/@aecionevesoficial",
+   "https://www.youtube.com/@AecionevesBr",
+   "https://chat.whatsapp.com/FFJKDIjNLGwL5VdSM30LZN?s=cl&p=a&ilr=1",
+   "https://aecioneves.com.br/",
+   "https://www.kwai.com/@AecioNevesoficial",
+   "https://open.spotify.com/user/31paqoq4glkba4in3hhhzb5stjxu?si=lMlvaW6HQ5mHRnHr0h9OMQ&utm_source=copy",
+   "https://x.com/AecioNeves",
+   "https://www.tiktok.com/@aecionevesoficial",
+   "https://www.flickr.com/photos/193325034@N04/",
+   "https://twb.nz/aecio-senador-456"
+  ],
+  "resumoAtual": "Deputado federal por Minas desde 2019 e presidente nacional do PSDB. Foi governador de Minas (2003 a 2010), senador (2011 a 2019) e candidato a presidente em 2014.",
+  "bandeirasAtuais": [
+   "Renegociação da dívida de Minas com a União",
+   "Reforma do STF",
+   "Redução da polarização política"
+  ],
+  "posicoesExistentes": {
+   "G07": {
+    "v": 2,
+    "conf": "voto",
+    "nota": "Votou pela manutenção do texto da nova lei de licenciamento ambiental (PL 3729/2004), contra destaques, em 13/05/2021."
+   },
+   "G08": {
+    "v": 4,
+    "conf": "voto",
+    "nota": "Votou Sim no substitutivo do PL 2162/2023 que reduz penas do 8 de janeiro em 10/12/2025."
+   },
+   "G14": {
+    "v": 4,
+    "conf": "voto",
+    "nota": "Votou a favor da PEC 221/2019 (40h semanais e 2 dias de folga, fim da escala 6x1) nos dois turnos, em 27/05/2026."
+   },
+   "G02": {
+    "v": 4,
+    "conf": "declaracao",
+    "nota": "Em 31/05/2023 citou o novo Bolsa Família como medida favorável ao país apoiada pelo PSDB; autor do PL 1465/2019, que o torna dever do Estado."
+   },
+   "G03": {
+    "v": 3,
+    "conf": "declaracao",
+    "nota": "Votou pela privatização da Eletrobras e dos Correios (2021); em 28/05/2026 defendeu suspender a privatização da Copasa para reavaliá-la."
+   },
+   "G04": {
+    "v": 4,
+    "conf": "voto",
+    "nota": "Votou a favor do PL 3723/2019, que flexibilizava regras de posse e porte de armas, em 05/11/2019."
+   },
+   "G05": {
+    "v": 2,
+    "conf": "declaracao",
+    "nota": "Em debate da Band em 26/08/2014, como candidato a presidente, defendeu manter a legislação atual sobre aborto."
+   },
+   "G10": {
+    "v": 4,
+    "conf": "voto",
+    "nota": "Votou a favor da urgência do PL 2630/2020 (PL das Fake News), que responsabiliza plataformas, em 25/04/2023."
+   },
+   "S01": {
+    "v": 3,
+    "conf": "declaracao",
+    "nota": "Em 11/09/2026 admitiu impeachment de ministro do STF que cometer crime; em 04/2026 havia se dito contrário a isso como solução de crise."
+   },
+   "S02": {
+    "v": 5,
+    "conf": "declaracao",
+    "nota": "Defende mandato de 12 anos para ministros do STF; repetiu na Itatiaia (04/09/2026), no debate do g1 (08/09) e ao Estado de Minas (11/09)."
+   },
+   "S03": {
+    "v": 4,
+    "conf": "declaracao",
+    "nota": "Em 04/09/2026 defendeu limitar fortemente decisões monocráticas que invalidam leis do Congresso; não propôs proibição total."
+   },
+   "S04": {
+    "v": 2,
+    "conf": "declaracao",
+    "nota": "Em 13/08/2025 defendeu manter as regras atuais de foro e imunidade; como senador, votou em 2017 pela PEC que extinguia o foro em crimes comuns."
+   },
+   "S05": {
+    "v": 4,
+    "conf": "declaracao",
+    "nota": "Em 16/04/2015, em comissão da Câmara, defendeu o fim da reeleição com mandato de cinco anos; não há declaração recente localizada."
+   }
+  },
+  "perguntasFaltando": [
+   "G01",
+   "G06",
+   "G09",
+   "G11",
+   "G12",
+   "G13"
+  ]
+ },
+ {
+  "id": 130002547884,
+  "cargo": "Senador",
+  "nomeUrna": "ANA LUIZA DO MLB",
+  "nomeCompleto": "ANA LUIZA CARDOSO DE MACEDO",
+  "numero": 808,
+  "partido": "UP",
+  "ocupacao": "Auxiliar de Laboratório",
+  "anteriores": [],
+  "sites": [
+   "HTTPS://WWW.INSTAGRAM.COM/ANA_DA_MGS/"
+  ],
+  "resumoAtual": "Trabalhadora da MGS na Funed e estudante de biologia; integra a coordenação estadual do MLB e mora na Ocupação Carolina Maria de Jesus, em BH, desde 2017. Disputa a primeira eleição.",
+  "bandeirasAtuais": [
+   "Fim da escala 6x1 e aumento do salário mínimo",
+   "Estatização da cadeia da mineração e fim da Lei Kandir",
+   "Regulamentação do trabalho por aplicativo"
+  ],
+  "posicoesExistentes": {
+   "G03": {
+    "v": 2,
+    "conf": "declaracao",
+    "nota": "Segundo a CNN (10/09/2026), lista entre suas propostas o fortalecimento das estatais mineiras e a estatização de toda a cadeia extrativista."
+   },
+   "G14": {
+    "v": 4,
+    "conf": "declaracao",
+    "nota": "Segundo a CNN (10/09/2026), lista 'lutar pelo fim da escala 6x1' entre suas oito propostas principais para o mandato."
+   }
+  },
+  "perguntasFaltando": [
+   "G01",
+   "G02",
+   "G04",
+   "G05",
+   "G06",
+   "G07",
+   "G08",
+   "G09",
+   "G10",
+   "G11",
+   "G12",
+   "G13",
+   "S01",
+   "S02",
+   "S03",
+   "S04",
+   "S05"
+  ]
+ },
+ {
+  "id": 130002552302,
+  "cargo": "Senador",
+  "nomeUrna": "ARCANJO PIMENTA",
+  "nomeCompleto": "ARCANJO CARLOS PIMENTA",
+  "numero": 155,
+  "partido": "MDB",
+  "ocupacao": "Industrial",
+  "anteriores": [
+   {
+    "ano": 2022,
+    "cargo": "Deputado Federal",
+    "local": "MINAS GERAIS",
+    "partido": "MDB",
+    "resultado": "Suplente"
+   },
+   {
+    "ano": 2008,
+    "cargo": "Vereador",
+    "local": "BELO HORIZONTE",
+    "partido": "PMDB",
+    "resultado": "Suplente"
+   }
+  ],
+  "sites": [
+   "https://www.facebook.com/arcanjocarlospimenta/?locale=pa_IN",
+   "https://www.instagram.com/arcanjopimenta/"
+  ],
+  "resumoAtual": "Industrial formado em Gestão Pública e ativista da causa racial; já disputou vaga de vereador em BH e de deputado federal (2022), sem se eleger. Candidato ao Senado pelo MDB.",
+  "bandeirasAtuais": [
+   "Igualdade racial e combate ao racismo",
+   "Representatividade da população negra na política",
+   "Mudanças no funcionamento do STF"
+  ],
+  "posicoesExistentes": {
+   "G11": {
+    "v": 4,
+    "conf": "declaracao",
+    "nota": "Segundo a CNN (14/09/2026), é favorável às cotas e defende ampliar políticas públicas de igualdade racial."
+   },
+   "S01": {
+    "v": 3,
+    "conf": "declaracao",
+    "nota": "Segundo a CNN (14/09/2026), apoia a possibilidade de impeachment de ministros do STF se constatadas irregularidades, com devido processo."
+   },
+   "S03": {
+    "v": 4,
+    "conf": "declaracao",
+    "nota": "Segundo a CNN (14/09/2026), posiciona-se contra decisões monocráticas no STF e propõe mudanças no funcionamento da Corte."
+   }
+  },
+  "perguntasFaltando": [
+   "G01",
+   "G02",
+   "G03",
+   "G04",
+   "G05",
+   "G06",
+   "G07",
+   "G08",
+   "G09",
+   "G10",
+   "G12",
+   "G13",
+   "G14",
+   "S02",
+   "S04",
+   "S05"
+  ]
+ },
+ {
+  "id": 130002550557,
+  "cargo": "Senador",
+  "nomeUrna": "ÁUREA CAROLINA",
+  "nomeCompleto": "AUREA CAROLINA DE FREITAS E SILVA",
+  "numero": 500,
+  "partido": "PSOL",
+  "ocupacao": "Cientista Político",
+  "anteriores": [
+   {
+    "ano": 2020,
+    "cargo": "Prefeito",
+    "local": "BELO HORIZONTE",
+    "partido": "PSOL",
+    "resultado": "Não eleito"
+   },
+   {
+    "ano": 2018,
+    "cargo": "Deputado Federal",
+    "local": "MINAS GERAIS",
+    "partido": "PSOL",
+    "resultado": "Eleito por QP"
+   },
+   {
+    "ano": 2016,
+    "cargo": "Vereador",
+    "local": "BELO HORIZONTE",
+    "partido": "PSOL",
+    "resultado": "Eleito por QP"
+   }
+  ],
+  "sites": [
+   "HTTPS://WWW.THREADS.COM/@AUREACAROLINA",
+   "HTTPS://BR.LINKEDIN.COM/IN/AUREACAROLINAX",
+   "HTTPS://WWW.INSTAGRAM.COM/AUREACAROLINA/",
+   "HTTPS://WWW.AUREACAROLINA.COM.BR",
+   "HTTPS://WWW.FACEBOOK.COM/AUREACAROLINA/",
+   "HTTPS://X.COM/AUREACAROLINAX",
+   "HTTPS://WWW.YOUTUBE.COM/@%C3%81UREACAROLINA-U4U",
+   "HTTPS://WWW.TIKTOK.COM/@AUREACAROLINA11"
+  ],
+  "resumoAtual": "Cientista política, foi vereadora de Belo Horizonte (2017-2018) e deputada federal (2019-2023) pelo PSOL. Atuou na direção da ONG Nossas e disputa o Senado pelo PSOL.",
+  "bandeirasAtuais": [
+   "Combate ao feminicídio e à violência contra a mulher",
+   "Fim da escala 6x1",
+   "Fortalecimento do SUS"
+  ],
+  "posicoesExistentes": {
+   "G01": {
+    "v": 2,
+    "conf": "declaracao",
+    "nota": "Em 07/05/2019 criticou o teto de gastos e disse ser 'inadmissível' o Congresso aprovar cortes na educação."
+   },
+   "G02": {
+    "v": 5,
+    "conf": "voto",
+    "nota": "Votou a favor da PEC da Transição (Bolsa Família) em 21/12/2022; coautora do PL 3933/2020, que reajusta valores do Bolsa Família."
+   },
+   "G03": {
+    "v": 2,
+    "conf": "voto",
+    "nota": "Votou contra a privatização dos Correios em 05/08/2021; coautora de PDLs contra incluir Correios e EBC no programa de desestatização."
+   },
+   "G04": {
+    "v": 1,
+    "conf": "declaracao",
+    "nota": "Na Band (21/09/2026) posicionou-se contra o porte de armas por cidadãos comuns; votou contra o PL 3723/2019 e é coautora de PDLs contra decretos de armas."
+   },
+   "G06": {
+    "v": 4,
+    "conf": "declaracao",
+    "nota": "Em 26/06/2019 criticou a 'política proibicionista' e a 'guerra às drogas', que associou ao encarceramento em massa de jovens negros."
+   },
+   "G07": {
+    "v": 5,
+    "conf": "declaracao",
+    "nota": "Em 07/2026 chamou o modelo baseado em agronegócio e mineração de 'lógica predatória'; coautora de PLs sobre barragens e limites à mineração (2019-2021)."
+   },
+   "G08": {
+    "v": 2,
+    "conf": "declaracao",
+    "nota": "Na Itatiaia (03/09/2026) chamou os atos de 8/1 de inaceitáveis e disse: 'ainda bem que esses golpistas foram responsabilizados'."
+   },
+   "G10": {
+    "v": 5,
+    "conf": "declaracao",
+    "nota": "No site de campanha defende responsabilizar plataformas por violência digital e golpes; em 2022 votou pela urgência do PL das Fake News."
+   },
+   "G11": {
+    "v": 5,
+    "conf": "declaracao",
+    "nota": "Coautora do PL 5384/2020, que renovou a Lei de Cotas, e do PL 3489/2020, que cria cotas na pós-graduação federal."
+   },
+   "G14": {
+    "v": 5,
+    "conf": "declaracao",
+    "nota": "No site de campanha afirma que vai 'brigar pelo fim da escala 6x1'; reiterou a proposta a O Tempo em 26/09/2026."
+   },
+   "S01": {
+    "v": 4,
+    "conf": "declaracao",
+    "nota": "Em 03/09/2026 discordou da recusa de Alcolumbre em abrir impeachment e disse que, com investigação e provas, o Senado deve se posicionar."
+   }
+  },
+  "perguntasFaltando": [
+   "G05",
+   "G09",
+   "G12",
+   "G13",
+   "S02",
+   "S03",
+   "S04",
+   "S05"
+  ]
+ },
+ {
+  "id": 130002552186,
+  "cargo": "Senador",
+  "nomeUrna": "CARLIN MOURA",
+  "nomeCompleto": "CARLOS MAGNO DE MOURA SOARES",
+  "numero": 700,
+  "partido": "AVANTE",
+  "ocupacao": "Advogado",
+  "anteriores": [
+   {
+    "ano": 2024,
+    "cargo": "Vereador",
+    "local": "CONTAGEM",
+    "partido": "PSB",
+    "resultado": "Suplente"
+   },
+   {
+    "ano": 2022,
+    "cargo": "Deputado Estadual",
+    "local": "MINAS GERAIS",
+    "partido": "PSB",
+    "resultado": "Suplente"
+   },
+   {
+    "ano": 2020,
+    "cargo": "Vereador",
+    "local": "CONTAGEM",
+    "partido": "PDT",
+    "resultado": "Eleito por média"
+   },
+   {
+    "ano": 2018,
+    "cargo": "Deputado Federal",
+    "local": "MINAS GERAIS",
+    "partido": "PC do B",
+    "resultado": "Suplente"
+   }
+  ],
+  "sites": [
+   "HTTPS://WWW.FACEBOOK.COM/EUCARLINMOURA",
+   "HTTPS://WWW.INSTAGRAM.COM/EUCARLINMOURA?IGSH=MXGZMHN3DTJOMZA2NW%3D%3D"
+  ],
+  "resumoAtual": "Advogado, foi prefeito de Contagem (2013-2016), deputado estadual (2007-2012) e vereador de Contagem (2005-2006 e 2021-2024). Filiado ao Avante, já passou por PCdoB, PDT e PSB.",
+  "bandeirasAtuais": [
+   "Desenvolvimento das regiões metropolitanas",
+   "Mais recursos federais para municípios e saúde",
+   "Reforma do Judiciário e semipresidencialismo"
+  ],
+  "posicoesExistentes": {
+   "G09": {
+    "v": 3,
+    "conf": "declaracao",
+    "nota": "Em 24/08/2026, disse que o STF 'precisa evoluir' e que a judicialização da política 'não é bom', mas rejeitou 'fulanizar' a crítica a ministros."
+   },
+   "S02": {
+    "v": 4,
+    "conf": "declaracao",
+    "nota": "Em debate do g1 em 08/09/2026, propôs mandatos por tempo determinado para ministros do STF."
+   }
+  },
+  "perguntasFaltando": [
+   "G01",
+   "G02",
+   "G03",
+   "G04",
+   "G05",
+   "G06",
+   "G07",
+   "G08",
+   "G10",
+   "G11",
+   "G12",
+   "G13",
+   "G14",
+   "S01",
+   "S03",
+   "S04",
+   "S05"
+  ]
+ },
+ {
+  "id": 130002545590,
+  "cargo": "Senador",
+  "nomeUrna": "CARLOS VIANA",
+  "nomeCompleto": "CARLOS ALBERTO DIAS VIANA",
+  "numero": 555,
+  "partido": "PSD",
+  "ocupacao": "Jornalista e Redator",
+  "anteriores": [
+   {
+    "ano": 2024,
+    "cargo": "Prefeito",
+    "local": "BELO HORIZONTE",
+    "partido": "PODE",
+    "resultado": "Não eleito"
+   },
+   {
+    "ano": 2022,
+    "cargo": "Governador",
+    "local": "MINAS GERAIS",
+    "partido": "PL",
+    "resultado": "Não eleito"
+   },
+   {
+    "ano": 2018,
+    "cargo": "Senador",
+    "local": "MINAS GERAIS",
+    "partido": "PHS",
+    "resultado": "Eleito"
+   },
+   {
+    "ano": 2004,
+    "cargo": "Vereador",
+    "local": "BELO HORIZONTE",
+    "partido": "PSC",
+    "resultado": "Suplente"
+   }
+  ],
+  "sites": [
+   "HTTPS://WWW.FACEBOOK.COM/CARLOSVIANA/#HTTPS://WWW.FACEBOOK.COM/CARLOSVIANA/",
+   "HTTPS://X.COM/CARLOSVIANA",
+   "HTTPS://WWW.INSTAGRAM.COM/CARLOSVIANA/"
+  ],
+  "resumoAtual": "Jornalista e ex-apresentador de TV, é senador por Minas Gerais desde 2019. Presidiu a CPMI do INSS (2025-2026) e disputa a reeleição pelo PSD.",
+  "bandeirasAtuais": [
+   "Mudanças no STF (mandatos e fim de decisões monocráticas)",
+   "Renegociação da dívida de Minas com a União",
+   "Investigações no Senado (INSS e Banco Master)"
+  ],
+  "posicoesExistentes": {
+   "G04": {
+    "v": 4,
+    "conf": "voto",
+    "nota": "Votou contra sustar o decreto de 2019 que ampliou posse e porte de armas (PDL 233/2019), em 18/06/2019."
+   },
+   "G07": {
+    "v": 2,
+    "conf": "voto",
+    "nota": "Votou a favor do PL 2159/2021 (licenciamento ambiental) em 21/05/2025; autor do PL 5438/2026, que restringe apreensões ambientais."
+   },
+   "G14": {
+    "v": 3,
+    "conf": "declaracao",
+    "nota": "Coautor da PEC 4/2025 (40h em até 5 dias por semana) e da PEC 12/2026, que permite optar por regime flexível por horas."
+   },
+   "G01": {
+    "v": 4,
+    "conf": "declaracao",
+    "nota": "Em entrevista a O Tempo (30/06/2026), defendeu diminuir o peso do Estado sobre empresários e criticou o aumento da carga tributária."
+   },
+   "G02": {
+    "v": 2,
+    "conf": "declaracao",
+    "nota": "Em 30/06/2026 disse que quase 60 milhões vivem de bolsas e que isso prejudica o país; na Band (22/09/2026) apoiou os programas com foco em autonomia."
+   },
+   "G03": {
+    "v": 4,
+    "conf": "voto",
+    "nota": "Votou a favor da privatização da Eletrobras (MP 1031/2021) em 16/06/2021."
+   },
+   "G05": {
+    "v": 1,
+    "conf": "declaracao",
+    "nota": "Em 22/02/2022 disse em plenário que 'nós, cristãos... somos contra o aborto'; coautor da PEC 49/2023, que estende o direito à vida ao nascituro."
+   },
+   "G08": {
+    "v": 4,
+    "conf": "declaracao",
+    "nota": "Disse em 20/11/2025 que votaria pela anistia se pautada e defendeu a dosimetria; em 30/04/2026 pediu a derrubada do veto ao PL da Dosimetria."
+   },
+   "G09": {
+    "v": 5,
+    "conf": "declaracao",
+    "nota": "Em 30/06/2026 disse que decisões do STF estão 'totalmente fora de controle'; criticou o 'ativismo judicial' em discursos no Senado (2020, 2022, 2026)."
+   },
+   "G10": {
+    "v": 3,
+    "conf": "declaracao",
+    "nota": "Autor do PL 2431/2024 (redes respondem por anúncios falsos); em 18/03/2026 pediu adiar projeto de moderação, citando risco regulatório."
+   },
+   "G12": {
+    "v": 5,
+    "conf": "declaracao",
+    "nota": "Coautor das PECs 32/2019 e 1/2024, que reduzem a maioridade penal para 16 anos (a segunda, para crimes hediondos)."
+   },
+   "G13": {
+    "v": 5,
+    "conf": "declaracao",
+    "nota": "Ao criar a Frente Evangélica do Senado (20/12/2022), disse que sua função é discutir 'princípios cristãos dentro da legislação'."
+   },
+   "S01": {
+    "v": 5,
+    "conf": "declaracao",
+    "nota": "Protocolou pedido de impeachment de Moraes (04/09/2026) e diz que pautá-lo seria sua 1ª ação se presidir o Senado; em 2025 dizia não crer nisso."
+   },
+   "S02": {
+    "v": 5,
+    "conf": "declaracao",
+    "nota": "Na Band (22/09/2026) defendeu mandato por tempo determinado para ministros do STF; coautor das PECs 77/2019 e 51/2023 sobre o tema."
+   },
+   "S03": {
+    "v": 5,
+    "conf": "voto",
+    "nota": "Votou a favor da PEC 8/2021, que limita decisões monocráticas no STF, em 22/11/2023, e cobrou sua aprovação na Câmara em 15/04/2026."
+   }
+  },
+  "perguntasFaltando": [
+   "G06",
+   "G11",
+   "S04",
+   "S05"
+  ]
+ },
+ {
+  "id": 130002551786,
+  "cargo": "Senador",
+  "nomeUrna": "DOMINGOS SÁVIO",
+  "nomeCompleto": "DOMINGOS SAVIO CAMPOS RESENDE",
+  "numero": 222,
+  "partido": "PL",
+  "ocupacao": "Veterinário",
+  "anteriores": [
+   {
+    "ano": 2022,
+    "cargo": "Deputado Federal",
+    "local": "MINAS GERAIS",
+    "partido": "PL",
+    "resultado": "Eleito por QP"
+   },
+   {
+    "ano": 2018,
+    "cargo": "Deputado Federal",
+    "local": "MINAS GERAIS",
+    "partido": "PSDB",
+    "resultado": "Eleito por QP"
+   },
+   {
+    "ano": 2014,
+    "cargo": "Deputado Federal",
+    "local": "MINAS GERAIS",
+    "partido": "PSDB",
+    "resultado": "Eleito por QP"
+   },
+   {
+    "ano": 2010,
+    "cargo": "Deputado Federal",
+    "local": "MINAS GERAIS",
+    "partido": "PSDB",
+    "resultado": "Eleito"
+   }
+  ],
+  "sites": [
+   "https://INSTAGRAM.COM/DOMINGOSSAVIOMG",
+   "https://TWITTER.COM/DOMINGOSSAVIOMG",
+   "https://FACEBOOK.COM/DOMINGOSSAVIOMG"
+  ],
+  "resumoAtual": "Médico veterinário, deputado federal por Minas desde 2011, no quarto mandato. Foi prefeito de Divinópolis e deputado estadual; presidiu o PL mineiro de 2023 a 2026.",
+  "bandeirasAtuais": [
+   "Limites ao STF e impeachment de ministros",
+   "Renegociação da dívida de Minas e mais recursos federais",
+   "Apoio ao produtor rural e ao agronegócio"
+  ],
+  "posicoesExistentes": {
+   "G01": {
+    "v": 4,
+    "conf": "voto",
+    "nota": "Votou a favor da PEC 241/2016 (teto de gastos) nos dois turnos, em 10/10 e 25/10/2016."
+   },
+   "G03": {
+    "v": 4,
+    "conf": "voto",
+    "nota": "Votou a favor da privatização da Eletrobras (MP 1031/2021) em 19/05/2021 e dos Correios (PL 591/2021) em 05/08/2021."
+   },
+   "G04": {
+    "v": 4,
+    "conf": "voto",
+    "nota": "Votou a favor do PL 3723/2019 (armas) em 05/11/2019 e é coautor do PDL 3/2023, que sustava o decreto de 2023 que restringiu armas."
+   },
+   "G05": {
+    "v": 1,
+    "conf": "declaracao",
+    "nota": "Em 15/12/2024 chamou de absurdo 'liberar o aborto de modo geral' (e também restringir os casos já permitidos); em 2023 criticou o STF sobre o tema."
+   },
+   "G06": {
+    "v": 1,
+    "conf": "declaracao",
+    "nota": "Em 02/08/2023 chamou de 'inaceitável' o STF liberar o porte de maconha; é coautor da PEC 34/2023, contra a liberação de drogas."
+   },
+   "G07": {
+    "v": 2,
+    "conf": "voto",
+    "nota": "Votou a favor da nova lei de licenciamento ambiental (PL 2159/2021) em 13/05/2021 e em 16/07/2025."
+   },
+   "G08": {
+    "v": 5,
+    "conf": "voto",
+    "nota": "Votou a favor da urgência da anistia (17/09/2025) e do PL da Dosimetria (09/12/2025); é coautor do PL 2162/2023 (anistia)."
+   },
+   "G09": {
+    "v": 5,
+    "conf": "declaracao",
+    "nota": "Em 21/08/2026, citou 'abusos de autoridade que têm ocorrido no STF'; é autor da PEC 50/2023, que permite ao Congresso sustar decisões do STF."
+   },
+   "G10": {
+    "v": 2,
+    "conf": "declaracao",
+    "nota": "Autor do PL 3286/2025, que só responsabiliza plataformas após ordem judicial; votou contra a urgência do PL das Fake News em 06/04/2022."
+   },
+   "G11": {
+    "v": 2,
+    "conf": "voto",
+    "nota": "Votou contra o PL 1958/2021, que renova e amplia para 30% as cotas raciais em concursos federais, em 19/11/2024."
+   },
+   "G12": {
+    "v": 5,
+    "conf": "voto",
+    "nota": "Votou a favor da PEC 171/1993 (maioridade penal) nos dois turnos em 2015 e é coautor da PEC 8/2026, que reduz a maioridade em crimes hediondos."
+   },
+   "G14": {
+    "v": 4,
+    "conf": "voto",
+    "nota": "Votou a favor da PEC 221/2019 (40h e 2 folgas, fim da 6x1) em 27/05/2026; em 24/03/2026 criticou a versão 4x3 (PEC 8/2025)."
+   },
+   "S03": {
+    "v": 5,
+    "conf": "declaracao",
+    "nota": "Em 23/09/2026 defendeu o fim das decisões monocráticas no STF; já havia defendido a PEC sobre o tema em 2024 e em 13/05/2026."
+   },
+   "G02": {
+    "v": 2,
+    "conf": "declaracao",
+    "nota": "Em entrevista a O Tempo em 13/05/2026, disse que programas sociais são fundamentais a quem precisa, mas criticou um país 'baseado no Bolsa Família'."
+   },
+   "S01": {
+    "v": 5,
+    "conf": "declaracao",
+    "nota": "Em 21/08/2026, disse que 'é dever do Senado promover o impeachment de ministros que estejam envolvidos'; repetiu em sabatina de 23/09/2026."
+   },
+   "S02": {
+    "v": 4,
+    "conf": "declaracao",
+    "nota": "Em sabatina do programa Minas Presente em 23/09/2026, defendeu mandato de oito anos para ministros do STF."
+   },
+   "S04": {
+    "v": 2,
+    "conf": "voto",
+    "nota": "Votou a favor da PEC 3/2021 (PEC da Blindagem), que estendia o foro no STF a presidentes de partidos, em 16/09/2025."
+   }
+  },
+  "perguntasFaltando": [
+   "G13",
+   "S05"
+  ]
+ },
+ {
+  "id": 130002547882,
+  "cargo": "Senador",
+  "nomeUrna": "FIDÉLIS ALCÂNTARA",
+  "nomeCompleto": "FIDELIS OLIVEIRA ALCANTARA",
+  "numero": 800,
+  "partido": "UP",
+  "ocupacao": "Estudante, Bolsista, Estagiário e Assemelhados",
+  "anteriores": [
+   {
+    "ano": 2016,
+    "cargo": "Vereador",
+    "local": "BELO HORIZONTE",
+    "partido": "PSOL",
+    "resultado": "Suplente"
+   },
+   {
+    "ano": 2014,
+    "cargo": "Governador",
+    "local": "MINAS GERAIS",
+    "partido": "PSOL",
+    "resultado": "Não eleito"
+   }
+  ],
+  "sites": [
+   "HTTPS://WWW.INSTAGRAM.COM/FIDELIS.ALCANTARA.UP/"
+  ],
+  "resumoAtual": "Natural de Coluna (MG), foi candidato a governador de Minas pelo PSOL em 2014 e a vereador de Belo Horizonte em 2016. Candidato ao Senado pela UP.",
+  "bandeirasAtuais": [],
+  "posicoesExistentes": {},
+  "perguntasFaltando": [
+   "G01",
+   "G02",
+   "G03",
+   "G04",
+   "G05",
+   "G06",
+   "G07",
+   "G08",
+   "G09",
+   "G10",
+   "G11",
+   "G12",
+   "G13",
+   "G14",
+   "S01",
+   "S02",
+   "S03",
+   "S04",
+   "S05"
+  ]
+ },
+ {
+  "id": 130002551929,
+  "cargo": "Senador",
+  "nomeUrna": "JORDANO METALÚRGICO",
+  "nomeCompleto": "JORDANO CARVALHO DOS SANTOS",
+  "numero": 160,
+  "partido": "PSTU",
+  "ocupacao": "Trabalhador Metalúrgico e Siderúrgico",
+  "anteriores": [
+   {
+    "ano": 2024,
+    "cargo": "Prefeito",
+    "local": "SÃO JOÃO DEL REI",
+    "partido": "PSTU",
+    "resultado": "Não eleito"
+   },
+   {
+    "ano": 2022,
+    "cargo": "Vice-governador",
+    "local": "MINAS GERAIS",
+    "partido": "PSTU",
+    "resultado": "Não eleito"
+   },
+   {
+    "ano": 2020,
+    "cargo": "Vereador",
+    "local": "SÃO JOÃO DEL REI",
+    "partido": "PSTU",
+    "resultado": "Não eleito"
+   },
+   {
+    "ano": 2018,
+    "cargo": "Governador",
+    "local": "MINAS GERAIS",
+    "partido": "PSTU",
+    "resultado": "Não eleito"
+   }
+  ],
+  "sites": [
+   "https://@JORDANOMETALURGICO"
+  ],
+  "resumoAtual": "Metalúrgico e dirigente sindical em São João del-Rei, ligado à CSP-Conlutas. Concorreu a governador (2018), vice-governador (2022) e prefeito (2024) pelo PSTU.",
+  "bandeirasAtuais": [
+   "Redução da jornada para 36 horas semanais",
+   "Reestatização de empresas privatizadas",
+   "Fim da Lei de Responsabilidade Fiscal"
+  ],
+  "posicoesExistentes": {
+   "G01": {
+    "v": 2,
+    "conf": "declaracao",
+    "nota": "Segundo a CNN (10/09/2026), defende o fim da Lei de Responsabilidade Fiscal, a ser trocada por uma 'Lei de Responsabilidade Social'."
+   },
+   "G03": {
+    "v": 1,
+    "conf": "declaracao",
+    "nota": "Em 22/09/2026 defendeu 'estatizar e reestatizar todas as empresas maiores' de Minas; em 2022 já defendia reestatizar Vale e Usiminas."
+   },
+   "G14": {
+    "v": 5,
+    "conf": "declaracao",
+    "nota": "Defende o fim da escala 6x1 e jornada de 36 horas semanais sem redução salarial (O Tempo, 09/09/2026; Rede 98, 22/09/2026)."
+   }
+  },
+  "perguntasFaltando": [
+   "G02",
+   "G04",
+   "G05",
+   "G06",
+   "G07",
+   "G08",
+   "G09",
+   "G10",
+   "G11",
+   "G12",
+   "G13",
+   "S01",
+   "S02",
+   "S03",
+   "S04",
+   "S05"
+  ]
+ },
+ {
+  "id": 130002551265,
+  "cargo": "Senador",
+  "nomeUrna": "JUÍZ RAMON MOREIRA",
+  "nomeCompleto": "RAMON MOREIRA",
+  "numero": 277,
+  "partido": "DC",
+  "ocupacao": "Magistrado",
+  "anteriores": [
+   {
+    "ano": 2022,
+    "cargo": "Deputado Federal",
+    "local": "MINAS GERAIS",
+    "partido": "AVANTE",
+    "resultado": "Suplente"
+   },
+   {
+    "ano": 2020,
+    "cargo": "Prefeito",
+    "local": "CAMPO BELO",
+    "partido": "AVANTE",
+    "resultado": "Não eleito"
+   },
+   {
+    "ano": 2018,
+    "cargo": "Deputado Federal",
+    "local": "MINAS GERAIS",
+    "partido": "AVANTE",
+    "resultado": "Suplente"
+   }
+  ],
+  "sites": [],
+  "resumoAtual": "Juiz aposentado do TJMG, natural de Campo Belo. Disputa o Senado pelo DC após concorrer a deputado federal (2018 e 2022) e a prefeito de Campo Belo (2020).",
+  "bandeirasAtuais": [
+   "Reforma do Judiciário e mandatos no STF",
+   "Segurança pública",
+   "Combate à impunidade"
+  ],
+  "posicoesExistentes": {
+   "S01": {
+    "v": 4,
+    "conf": "declaracao",
+    "nota": "À 98 News (17/09/2026) defendeu prazo de 24 horas para o presidente do Senado dar andamento a pedidos de impeachment de ministros do STF."
+   },
+   "S02": {
+    "v": 4,
+    "conf": "declaracao",
+    "nota": "Em 17/09/2026 propôs mandato de 4 anos para ministros do STF, com uma recondução, e indicação entre desembargadores."
+   },
+   "S04": {
+    "v": 4,
+    "conf": "declaracao",
+    "nota": "Em 17/09/2026 disse que o julgamento de senadores e deputados pelo STF cria conflito de interesses ('rabo preso')."
+   }
+  },
+  "perguntasFaltando": [
+   "G01",
+   "G02",
+   "G03",
+   "G04",
+   "G05",
+   "G06",
+   "G07",
+   "G08",
+   "G09",
+   "G10",
+   "G11",
+   "G12",
+   "G13",
+   "G14",
+   "S03",
+   "S05"
+  ]
+ },
+ {
+  "id": 130002552299,
+  "cargo": "Senador",
+  "nomeUrna": "MANOEL CARVALHO",
+  "nomeCompleto": "MANOEL TEODORO PEREIRA DE CARVALHO FILHO",
+  "numero": 150,
+  "partido": "MDB",
+  "ocupacao": "Zootecnista",
+  "anteriores": [
+   {
+    "ano": 2024,
+    "cargo": "Vice-prefeito",
+    "local": "MURIAÉ",
+    "partido": "MDB",
+    "resultado": "Eleito"
+   },
+   {
+    "ano": 2020,
+    "cargo": "Prefeito",
+    "local": "MURIAÉ",
+    "partido": "MDB",
+    "resultado": "Não eleito"
+   },
+   {
+    "ano": 2016,
+    "cargo": "Vereador",
+    "local": "MURIAÉ",
+    "partido": "PMDB",
+    "resultado": "Eleito por QP"
+   },
+   {
+    "ano": 2012,
+    "cargo": "Vereador",
+    "local": "MURIAÉ",
+    "partido": "PMDB",
+    "resultado": "Eleito por QP"
+   }
+  ],
+  "sites": [
+   "https://www.instagram.com/manoelcarvalhofilho/",
+   "https://www.facebook.com/ManoelCarvalhoMuriae/",
+   "https://www.tiktok.com/@manoelcarvalho8634",
+   "https://www.youtube.com/@manoelteodoropereiradecarv3706"
+  ],
+  "resumoAtual": "Zootecnista, empresário do agro e produtor rural, vice-prefeito de Muriaé desde 2025. Foi vereador (2013-2020) e secretário municipal de Agricultura de Muriaé.",
+  "bandeirasAtuais": [
+   "Fortalecimento dos pequenos municípios do interior",
+   "Agropecuária e agricultura familiar",
+   "Infraestrutura: ferrovias e rodovias"
+  ],
+  "posicoesExistentes": {
+   "G01": {
+    "v": 4,
+    "conf": "declaracao",
+    "nota": "Em debate do g1 em 08/09/2026, defendeu menos impostos para quem trabalha e empreende e a redução do tamanho da máquina pública."
+   },
+   "S02": {
+    "v": 4,
+    "conf": "declaracao",
+    "nota": "Em debate do g1 em 08/09/2026, apoiou mandato com prazo determinado e sem recondução para ministros do STF, no modelo alemão."
+   }
+  },
+  "perguntasFaltando": [
+   "G02",
+   "G03",
+   "G04",
+   "G05",
+   "G06",
+   "G07",
+   "G08",
+   "G09",
+   "G10",
+   "G11",
+   "G12",
+   "G13",
+   "G14",
+   "S01",
+   "S03",
+   "S04",
+   "S05"
+  ]
+ },
+ {
+  "id": 130002548381,
+  "cargo": "Senador",
+  "nomeUrna": "MARCELO ARO",
+  "nomeCompleto": "MARCELO GUILHERME DE ARO FERREIRA",
+  "numero": 111,
+  "partido": "PP",
+  "ocupacao": "Advogado",
+  "anteriores": [
+   {
+    "ano": 2022,
+    "cargo": "Senador",
+    "local": "MINAS GERAIS",
+    "partido": "PP",
+    "resultado": "Não eleito"
+   },
+   {
+    "ano": 2018,
+    "cargo": "Deputado Federal",
+    "local": "MINAS GERAIS",
+    "partido": "PHS",
+    "resultado": "Eleito por QP"
+   },
+   {
+    "ano": 2014,
+    "cargo": "Deputado Federal",
+    "local": "MINAS GERAIS",
+    "partido": "PHS",
+    "resultado": "Eleito por QP"
+   },
+   {
+    "ano": 2012,
+    "cargo": "Vereador",
+    "local": "BELO HORIZONTE",
+    "partido": "PHS",
+    "resultado": "Eleito por QP"
+   }
+  ],
+  "sites": [
+   "HTTPS://WWW.THREADS.COM/@MARCELOARO",
+   "HTTPS://WWW.YOUTUBE.COM/@MARCELO_ARO",
+   "HTTPS://WWW.INSTAGRAM.COM/MARCELOARO/?HL=PT-BR",
+   "HTTPS://X.COM/MARCELOARO",
+   "HTTPS://WWW.TIKTOK.COM/@SOUMARCELOARO",
+   "HTTPS://WWW.FACEBOOK.COM/MARCELOARO/?LOCALE=PT_BR"
+  ],
+  "resumoAtual": "Ex-deputado federal (2015-2023) e ex-vereador de Belo Horizonte; foi secretário da Casa Civil e de Governo de Minas no governo Zema até abril de 2026. Candidato ao Senado pelo PP.",
+  "bandeirasAtuais": [
+   "Mais recursos federais para a saúde em Minas",
+   "Direitos de pessoas com deficiência e doenças raras",
+   "Segurança pública e penas mais duras"
+  ],
+  "posicoesExistentes": {
+   "G03": {
+    "v": 4,
+    "conf": "voto",
+    "nota": "Votou a favor da privatização da Eletrobras (MP 1031/2021) em 19/05/2021 e dos Correios (PL 591/2021) em 05/08/2021."
+   },
+   "G07": {
+    "v": 2,
+    "conf": "voto",
+    "nota": "Votou a favor do texto-base da nova lei de licenciamento ambiental (PL 3729/2004) em 12/05/2021."
+   },
+   "G12": {
+    "v": 5,
+    "conf": "voto",
+    "nota": "Votou a favor da PEC 171/1993 (maioridade penal a 16 anos) nos dois turnos de 2015; em 2026 propõe reduzir a maioridade para 16 anos (CNN, 14/09)."
+   },
+   "G01": {
+    "v": 4,
+    "conf": "voto",
+    "nota": "Votou a favor da PEC 241/2016 (teto de gastos) no 1º turno, em 10/10/2016."
+   },
+   "G02": {
+    "v": 5,
+    "conf": "declaracao",
+    "nota": "Relator do Auxílio Brasil (25/11/2021), disse que o texto zera filas e amplia beneficiários e que defende a renda básica; votou pela PEC da Transição."
+   }
+  },
+  "perguntasFaltando": [
+   "G04",
+   "G05",
+   "G06",
+   "G08",
+   "G09",
+   "G10",
+   "G11",
+   "G13",
+   "G14",
+   "S01",
+   "S02",
+   "S03",
+   "S04",
+   "S05"
+  ]
+ },
+ {
+  "id": 130002551284,
+  "cargo": "Senador",
+  "nomeUrna": "MARCO ANTÔNIO SUPERMAN",
+  "nomeCompleto": "MARCO ANTÔNIO MOREIRA DA COSTA",
+  "numero": 300,
+  "partido": "NOVO",
+  "ocupacao": "Advogado",
+  "anteriores": [],
+  "sites": [
+   "HTTPS://WWW.YOUTUBE.COM/@MARCO.ANTONIOCOSTA",
+   "HTTPS://WWW.INSTAGRAM.COM/MARCO.ANTONIO.COSTA",
+   "https://tiktok.com/realmarcoantoniocosta",
+   "https://www.instagram.com/realmacosta",
+   "https://x.com/realmacosta"
+  ],
+  "resumoAtual": "Advogado e doutor em Direito Constitucional, ex-comentarista da Jovem Pan e apresentador do canal Fio Diário. Mudou-se de São Paulo para Lagoa Santa (MG) em 2025 e filiou-se ao Novo em 2026.",
+  "bandeirasAtuais": [
+   "Contenção do poder do STF",
+   "Autonomia dos estados e mais recursos para Minas",
+   "Redução da máquina pública e de impostos"
+  ],
+  "posicoesExistentes": {
+   "G01": {
+    "v": 4,
+    "conf": "declaracao",
+    "nota": "Em sabatina em 23/09/2026, defendeu enxugar a máquina pública com redução de cargos e de impostos e uma reforma administrativa."
+   },
+   "G09": {
+    "v": 5,
+    "conf": "declaracao",
+    "nota": "Em 11/08/2026 disse que não há questão mais urgente do que limitar a atuação do STF; fala em 'ciclo de abuso' e 'ativismo judicial'."
+   },
+   "G14": {
+    "v": 2,
+    "conf": "declaracao",
+    "nota": "Questionado em 23/09/2026 sobre a PEC do fim da escala 6x1, disse ser a favor de 'rasgar a CLT' e deixar o mercado regular o trabalho."
+   },
+   "S01": {
+    "v": 5,
+    "conf": "declaracao",
+    "nota": "Classificado como a favor pela Gazeta do Povo; em ato em 07/09/2026 defendeu 'impeachment coletivo' de ministros do STF."
+   }
+  },
+  "perguntasFaltando": [
+   "G02",
+   "G03",
+   "G04",
+   "G05",
+   "G06",
+   "G07",
+   "G08",
+   "G10",
+   "G11",
+   "G12",
+   "G13",
+   "S02",
+   "S03",
+   "S04",
+   "S05"
+  ]
+ },
+ {
+  "id": 130002550560,
+  "cargo": "Senador",
+  "nomeUrna": "MARÍLIA CAMPOS",
+  "nomeCompleto": "MARILIA APARECIDA CAMPOS",
+  "numero": 131,
+  "partido": "PT",
+  "ocupacao": "Aposentado (Exceto Servidor Público)",
+  "anteriores": [
+   {
+    "ano": 2024,
+    "cargo": "Prefeito",
+    "local": "CONTAGEM",
+    "partido": "PT",
+    "resultado": "Eleito"
+   },
+   {
+    "ano": 2020,
+    "cargo": "Prefeito",
+    "local": "CONTAGEM",
+    "partido": "PT",
+    "resultado": "Eleito"
+   },
+   {
+    "ano": 2018,
+    "cargo": "Deputado Estadual",
+    "local": "MINAS GERAIS",
+    "partido": "PT",
+    "resultado": "Eleito por QP"
+   },
+   {
+    "ano": 2014,
+    "cargo": "Deputado Estadual",
+    "local": "MINAS GERAIS",
+    "partido": "PT",
+    "resultado": "Eleito por QP"
+   }
+  ],
+  "sites": [
+   "HTTPS://WWW.LINKEDIN.COM/IN/MARÍLIA-CAMPOS-5346BB55",
+   "HTTPS://X.COM/MARILIACAMPOSMG",
+   "HTTPS://WWW.THREADS.COM/@MARILIACAMPOS.MG",
+   "HTTPS://WWW.FACEBOOK.COM/MARILIACAMPOS.MG/",
+   "HTTPS://WWW.INSTAGRAM.COM/MARILIACAMPOS.MG/",
+   "HTTPS://WWW.TIKTOK.COM/@MARILIACAMPOS.MG",
+   "HTTPS://WWW.FLICKR.COM/PHOTOS/MARILIA_CAMPOS/"
+  ],
+  "resumoAtual": "Foi prefeita de Contagem (2005 a 2012 e 2021 a 2026) e deputada estadual em Minas pelo PT. Deixou a prefeitura em 2026 para disputar o Senado.",
+  "bandeirasAtuais": [
+   "Fortalecimento dos municípios (revisão do FPM)",
+   "Renegociação da dívida de Minas",
+   "Mais mulheres na política"
+  ],
+  "posicoesExistentes": {
+   "G03": {
+    "v": 1,
+    "conf": "declaracao",
+    "nota": "Em 12/2025 criticou a privatização da Copasa e defendeu a empresa pública; em 2020 assinou a carta 'As Estatais São Nossas'."
+   },
+   "G04": {
+    "v": 2,
+    "conf": "declaracao",
+    "nota": "Em 03/2019, ao presidir audiência na ALMG, disse que a facilidade de acesso a armas pode gerar mais violência."
+   },
+   "G08": {
+    "v": 2,
+    "conf": "declaracao",
+    "nota": "Em 07/01/2026 defendeu o veto de Lula ao PL da Dosimetria, que reduzia penas dos condenados pelo 8 de janeiro: 'é importante o veto'."
+   },
+   "G14": {
+    "v": 5,
+    "conf": "declaracao",
+    "nota": "Citou o fim da jornada 6x1 como lei fundamental a aprovar no Senado (Itatiaia, 31/08/2026) e defendeu o tema em 14/04/2026."
+   },
+   "S01": {
+    "v": 3,
+    "conf": "declaracao",
+    "nota": "À Gazeta do Povo (2026) disse que, se houver conduta comprovadamente ilegal, o impeachment 'precisa ser discutido'."
+   }
+  },
+  "perguntasFaltando": [
+   "G01",
+   "G02",
+   "G05",
+   "G06",
+   "G07",
+   "G09",
+   "G10",
+   "G11",
+   "G12",
+   "G13",
+   "S02",
+   "S03",
+   "S04",
+   "S05"
+  ]
+ },
+ {
+  "id": 130002552311,
+  "cargo": "Senador",
+  "nomeUrna": "TIÃO PESSOA",
+  "nomeCompleto": "SEBASTIAO DE OLIVEIRA PESSOA",
+  "numero": 290,
+  "partido": "PCO",
+  "ocupacao": "Administrador",
+  "anteriores": [
+   {
+    "ano": 2024,
+    "cargo": "Prefeito",
+    "local": "CONTAGEM",
+    "partido": "PCO",
+    "resultado": "Não eleito"
+   },
+   {
+    "ano": 2022,
+    "cargo": "Vice-governador",
+    "local": "MINAS GERAIS",
+    "partido": "PCO",
+    "resultado": "Não eleito"
+   },
+   {
+    "ano": 2020,
+    "cargo": "Prefeito",
+    "local": "CONTAGEM",
+    "partido": "PCO",
+    "resultado": "Não eleito"
+   },
+   {
+    "ano": 2018,
+    "cargo": "Vice-governador",
+    "local": "MINAS GERAIS",
+    "partido": "PCO",
+    "resultado": "Não eleito"
+   }
+  ],
+  "sites": [
+   "https://candidatos.pco.org.br"
+  ],
+  "resumoAtual": "Programador e administrador de Contagem, filiado ao PCO desde 2017; disputou a prefeitura de Contagem (2020 e 2024) e a vice-governadoria (2018 e 2022). Registro ao Senado indeferido, com recurso.",
+  "bandeirasAtuais": [
+   "Fim do Senado e do STF, com eleição de juízes",
+   "Fim da censura na internet",
+   "Internet gratuita e fim do monopólio das teles"
+  ],
+  "posicoesExistentes": {
+   "G09": {
+    "v": 4,
+    "conf": "declaracao",
+    "nota": "À TV Assembleia criticou a atuação do STF e defendeu extinguir a Corte e eleger juízes pelo voto (CNN, 16/09/2026; perfil no site do PCO)."
+   },
+   "G10": {
+    "v": 2,
+    "conf": "declaracao",
+    "nota": "Defende 'liberdade irrestrita de expressão e o fim de toda censura na Internet', segundo seu perfil no site do PCO (2026)."
+   }
+  },
+  "perguntasFaltando": [
+   "G01",
+   "G02",
+   "G03",
+   "G04",
+   "G05",
+   "G06",
+   "G07",
+   "G08",
+   "G11",
+   "G12",
+   "G13",
+   "G14",
+   "S01",
+   "S02",
+   "S03",
+   "S04",
+   "S05"
+  ]
+ },
+ {
+  "id": 130002551930,
+  "cargo": "Senador",
+  "nomeUrna": "VICTÓRIA MELLO VIC",
+  "nomeCompleto": "VICTORIA DE FATIMA DE MELLO",
+  "numero": 161,
+  "partido": "PSTU",
+  "ocupacao": "Servidor Público Civil Aposentado",
+  "anteriores": [
+   {
+    "ano": 2024,
+    "cargo": "Prefeito",
+    "local": "JUIZ DE FORA",
+    "partido": "PSTU",
+    "resultado": "Não eleito"
+   },
+   {
+    "ano": 2022,
+    "cargo": "1º Suplente",
+    "local": "MINAS GERAIS",
+    "partido": "PSTU",
+    "resultado": "Não eleito"
+   },
+   {
+    "ano": 2020,
+    "cargo": "Prefeito",
+    "local": "JUIZ DE FORA",
+    "partido": "PSTU",
+    "resultado": "Não eleito"
+   },
+   {
+    "ano": 2018,
+    "cargo": "Vice-governador",
+    "local": "MINAS GERAIS",
+    "partido": "PSTU",
+    "resultado": "Não eleito"
+   }
+  ],
+  "sites": [
+   "https://@VICMELLO16"
+  ],
+  "resumoAtual": "Professora e servidora pública aposentada, já integrou a direção do Sind-UTE/MG. Militante do PSTU em Juiz de Fora, disputou a prefeitura da cidade e concorre ao Senado.",
+  "bandeirasAtuais": [
+   "Combate à violência contra mulheres, LGBTs e população negra",
+   "Fim da Lei de Responsabilidade Fiscal",
+   "Defesa dos trabalhadores da educação"
+  ],
+  "posicoesExistentes": {
+   "G01": {
+    "v": 2,
+    "conf": "declaracao",
+    "nota": "Segundo a CNN (14/09/2026), defende o fim da Lei de Responsabilidade Fiscal, a ser trocada por uma 'Lei de Responsabilidade Social'."
+   },
+   "G02": {
+    "v": 4,
+    "conf": "declaracao",
+    "nota": "Em ato em Juiz de Fora (24/03/2021), cobrou 'auxílio emergencial digno', vacina para todos, emprego e renda."
+   }
+  },
+  "perguntasFaltando": [
+   "G03",
+   "G04",
+   "G05",
+   "G06",
+   "G07",
+   "G08",
+   "G09",
+   "G10",
+   "G11",
+   "G12",
+   "G13",
+   "G14",
+   "S01",
+   "S02",
+   "S03",
+   "S04",
+   "S05"
+  ]
+ }
+]

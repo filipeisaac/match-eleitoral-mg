@@ -1,0 +1,295 @@
+[
+  {
+    "id": 280002552484,
+    "nomeUrna": "CLARIANA BARAO",
+    "posicoes": {
+      "G09": {
+        "v": 5,
+        "conf": "declaracao",
+        "fonte": "https://www.poder360.com.br/poder-eleicoes-2026/clariana-barao-do-dc-defende-reforma-no-stf-e-fim-da-6-x-1/",
+        "nota": "Ao Poder360 (25/08/2026) disse que o STF excedeu suas competências e deve ser reformado; ao MidiaNews (19/09) defendeu impeachment de ministros."
+      },
+      "G08": {
+        "v": 2,
+        "conf": "declaracao",
+        "fonte": "https://www.poder360.com.br/poder-eleicoes-2026/clariana-barao-do-dc-defende-reforma-no-stf-e-fim-da-6-x-1/",
+        "nota": "Ao Poder360 (25/08/2026) disse não ser favorável à anistia do 8/1, mas defende revisão com individualização das condutas e penas proporcionais."
+      },
+      "G14": {
+        "v": 4,
+        "conf": "declaracao",
+        "fonte": "https://www.poder360.com.br/poder-eleicoes-2026/clariana-barao-do-dc-defende-reforma-no-stf-e-fim-da-6-x-1/",
+        "nota": "Ao Poder360 (25/08/2026) declarou-se favorável ao fim da escala 6x1, citando a conciliação de trabalho e família pelas mulheres."
+      },
+      "G03": {
+        "v": 2,
+        "conf": "declaracao",
+        "fonte": "https://www.midianews.com.br/entrevista-da-semana/cuiabana-gestao-lula-e-publicidade-e-perdeu-a-mao-na-corrupcao/529252",
+        "nota": "Ao MidiaNews (19/09/2026) criticou a proposta de privatizar tudo e disse que os Correios provam que estatais podem dar certo, dependendo da gestão."
+      },
+      "G07": {
+        "v": 2,
+        "conf": "declaracao",
+        "fonte": "https://www.midianews.com.br/entrevista-da-semana/cuiabana-gestao-lula-e-publicidade-e-perdeu-a-mao-na-corrupcao/529252",
+        "nota": "Ao MidiaNews (19/09/2026) disse que o agro sustenta o país e criticou regiões interditadas por ONGs que querem o Brasil como pulmão do mundo."
+      },
+      "P06": {
+        "v": 4,
+        "conf": "declaracao",
+        "fonte": "https://canalmynews.com.br/cafe-do-mynews/clariana-barao-nao-existe-democracia-sem-as-mulheres/",
+        "nota": "Segundo o MyNews (02/09/2026), defendeu a reindustrialização e que o governo invista na indústria de transformação e na inovação."
+      }
+    }
+  },
+  {
+    "id": 280002551975,
+    "nomeUrna": "EDMILSON COSTA",
+    "posicoes": {
+      "P05": {
+        "v": 1,
+        "conf": "declaracao",
+        "fonte": "https://planodegoverno2026.com.br/planos/edmilson-costa-7bade087.pdf#page=14",
+        "nota": "Plano de 2026 propõe o fim do PPI e das 'políticas de precificação artificialmente altas' de combustíveis e gás de cozinha."
+      }
+    }
+  },
+  {
+    "id": 280002551547,
+    "nomeUrna": "ESCRITOR AUGUSTO CURY",
+    "posicoes": {
+      "P04": {
+        "v": 4,
+        "conf": "declaracao",
+        "fonte": "https://www.cnnbrasil.com.br/eleicoes/cury-a-cnn-juro-alto-esta-atrelado-a-irresponsabilidade-fiscal-do-governo/",
+        "nota": "À CNN (07/09/2026) disse que o BC \"tem que ser independente\" e atribuiu a Selic alta à política fiscal do governo."
+      }
+    }
+  },
+  {
+    "id": 280002551544,
+    "nomeUrna": "FLAVIO BOLSONARO",
+    "posicoes": {}
+  },
+  {
+    "id": 280002541457,
+    "nomeUrna": "HERTZ DIAS",
+    "posicoes": {
+      "G10": {
+        "v": 4,
+        "conf": "declaracao",
+        "fonte": "https://planodegoverno2026.com.br/planos/hertz-dias-762b5f88.pdf#page=23",
+        "nota": "Plano de 2026 propõe a responsabilização das plataformas que lucram com a disseminação do ódio contra as mulheres."
+      },
+      "G12": {
+        "v": 2,
+        "conf": "declaracao",
+        "fonte": "https://planodegoverno2026.com.br/planos/hertz-dias-762b5f88.pdf#page=21",
+        "nota": "Plano de 2026 se declara contra a redução da maioridade penal."
+      },
+      "P02": {
+        "v": 4,
+        "conf": "declaracao",
+        "fonte": "https://planodegoverno2026.com.br/planos/hertz-dias-762b5f88.pdf#page=27",
+        "nota": "Plano de 2026 propõe isentar de IR quem ganha até dez salários mínimos e aplicar alíquotas progressivas acima disso."
+      }
+    }
+  },
+  {
+    "id": 280002554479,
+    "nomeUrna": "LEONARDO AVALANCHE",
+    "posicoes": {
+      "P02": {
+        "v": 2,
+        "conf": "declaracao",
+        "fonte": "https://agenciabrasil.ebc.com.br/politica/noticia/2026-09/leonardo-avalanche-quer-reduzir-impostos-e-zerar-fila-do-sus",
+        "nota": "Plano de 2026 propõe trocar o IRPF e outros tributos por imposto único de alíquota fixa de 3,5%; defendeu a ideia no Correio Braziliense (28/07/2026)."
+      },
+      "P06": {
+        "v": 4,
+        "conf": "declaracao",
+        "fonte": "https://agenciabrasil.ebc.com.br/politica/noticia/2026-09/leonardo-avalanche-quer-reduzir-impostos-e-zerar-fila-do-sus",
+        "nota": "Plano de 2026 prevê desoneração e crédito facilitado à indústria nacional, com prioridade para nióbio, terras raras, fertilizantes e autopeças."
+      }
+    }
+  },
+  {
+    "id": 280002542548,
+    "nomeUrna": "LULA",
+    "posicoes": {
+      "G13": {
+        "v": 2,
+        "conf": "declaracao",
+        "fonte": "https://agenciabrasil.ebc.com.br/politica/noticia/2022-09/lula-defende-liberdade-religiosa-e-estado-separado-de-igrejas",
+        "nota": "Em 09/09/2022 disse que \"o Estado não deve ter religião\" nem igreja; o plano de 2026 não trata do tema."
+      }
+    }
+  },
+  {
+    "id": 280002540694,
+    "nomeUrna": "RENAN SANTOS",
+    "posicoes": {
+      "G05": {
+        "v": 2,
+        "conf": "declaracao",
+        "fonte": "https://www.renanpresidente.com.br/caixa-preta/renan-e-a-favor-do-aborto",
+        "nota": "Site oficial da campanha (2026) diz que ele defende manter a lei atual (risco de vida, estupro, anencefalia) e nega apoiar a legalização."
+      },
+      "G09": {
+        "v": 4,
+        "conf": "declaracao",
+        "fonte": "https://www.cnnbrasil.com.br/eleicoes/renan-santos-chama-moraes-de-imperador-e-lanca-manifesto-contra-o-stf/",
+        "nota": "Em 07/09/2026 chamou Moraes de \"imperador\" e disse que, se eleito, não reconhecerá decisões de Moraes e Toffoli que considere ilegais."
+      },
+      "P06": {
+        "v": 4,
+        "conf": "declaracao",
+        "fonte": "https://planodegoverno2026.com.br/planos/renan-santos-f1272756.pdf#page=42",
+        "nota": "Plano de 2026 propõe \"investimento estratégico do Estado\" e crédito do BNDES atrelado a metas de exportação, inclusive para terras raras."
+      }
+    }
+  },
+  {
+    "id": 280002551932,
+    "nomeUrna": "RONALDO CAIADO",
+    "posicoes": {
+      "G05": {
+        "v": 2,
+        "conf": "declaracao",
+        "fonte": "https://jornaldebrasilia.com.br/noticias/politica-e-poder/zema-ataca-esquerda-e-caiado-cobra-congresso-apos-senado-dificultar-aborto-legal/",
+        "nota": "Em nota (jul/2026) disse ser contra o aborto, salvo nos casos previstos em lei; apoiou derrubar a resolução do Conanda sobre aborto legal."
+      },
+      "G09": {
+        "v": 4,
+        "conf": "declaracao",
+        "fonte": "https://www.gazetadopovo.com.br/eleicoes/2026/postura-diante-do-ativismo-do-stf-expoe-a-distancia-entre-caiado-e-flavio-bolsonaro/",
+        "nota": "No Fórum da Liberdade (abr/2026) disse que não há democracia sólida \"com um Poder que avança sobre os demais\"."
+      }
+    }
+  },
+  {
+    "id": 280002552487,
+    "nomeUrna": "RUI COSTA PIMENTA",
+    "posicoes": {
+      "G05": {
+        "v": 5,
+        "conf": "declaracao",
+        "fonte": "https://www.diariocarioca.com/2026/08/22/politica/eleicoes/pimenta-do-pco-defende-legalizacao-integral-do-aborto",
+        "nota": "Em entrevista ao Poder360 (21/08/2026), defendeu a legalização integral do aborto; posição já expressa em 2014."
+      },
+      "G06": {
+        "v": 4,
+        "conf": "declaracao",
+        "fonte": "https://agenciabrasil.ebc.com.br/politica/noticia/2014-08/rui-costa-pimenta-e-eduardo-jorge-defendem-legalizacao-da-maconha",
+        "nota": "Em debate na USP (05/08/2014), defendeu a legalização da maconha; não há registro verificado de 2026 sobre o tema."
+      },
+      "G12": {
+        "v": 2,
+        "conf": "declaracao",
+        "fonte": "https://www.congressoemfoco.com.br/noticia/57657/programa-de-governo-de-rui-costa-pimenta",
+        "nota": "Programa de governo de sua candidatura de 2014 dizia 'Não à redução da maioridade penal'."
+      },
+      "G13": {
+        "v": 1,
+        "conf": "declaracao",
+        "fonte": "https://www.diariocarioca.com/2026/08/22/politica/eleicoes/pimenta-do-pco-defende-legalizacao-integral-do-aborto",
+        "nota": "Em entrevista (21/08/2026), criticou a interferência de preceitos religiosos na lei de um Estado laico; disse o mesmo em 2014."
+      }
+    }
+  },
+  {
+    "id": 280002538811,
+    "nomeUrna": "SAMARA",
+    "posicoes": {
+      "G02": {
+        "v": 4,
+        "conf": "declaracao",
+        "fonte": "https://planodegoverno2026.com.br/planos/samara-305b3f63.pdf#page=34",
+        "nota": "Plano de 2026 propõe fortalecer e ampliar o BPC; em 18/09/2026 disse ao Poder360 que o absurdo é o 'bolsa-banqueiro', não o Bolsa Família."
+      },
+      "G10": {
+        "v": 4,
+        "conf": "declaracao",
+        "fonte": "https://www.correiobraziliense.com.br/politica/2026/09/7496426-bolsa-banqueiro-quebra-o-brasil-diz-samara-martins.html",
+        "nota": "Ao Correio Braziliense (09/09/2026), defendeu criminalizar as plataformas que veiculam conteúdo de ódio, misoginia e apologia ao estupro."
+      },
+      "G12": {
+        "v": 2,
+        "conf": "declaracao",
+        "fonte": "https://planodegoverno2026.com.br/planos/samara-305b3f63.pdf#page=30",
+        "nota": "Plano de 2026 diz 'Não à redução da maioridade penal'."
+      }
+    }
+  },
+  {
+    "id": 280002548139,
+    "nomeUrna": "VETERINÁRIO WILSON GRASSI",
+    "posicoes": {
+      "G08": {
+        "v": 4,
+        "conf": "declaracao",
+        "fonte": "https://www.metropoles.com/brasil/candidato-a-presidencia-pelo-democrata-quer-acabar-com-governos-estaduais",
+        "nota": "Em entrevista ao Metrópoles (01/09/2026) defendeu anistia \"ampla, geral e irrestrita\" aos envolvidos no 8 de janeiro."
+      },
+      "G14": {
+        "v": 2,
+        "conf": "declaracao",
+        "fonte": "https://www.metropoles.com/brasil/candidato-a-presidencia-pelo-democrata-quer-acabar-com-governos-estaduais",
+        "nota": "Ao Metrópoles (01/09/2026) declarou-se contra o fim da escala 6x1; à Folha (29/08) defendeu o fim da CLT."
+      },
+      "G09": {
+        "v": 4,
+        "conf": "declaracao",
+        "fonte": "https://blogdoamarildo.com.br/em-entrevista-wilson-grassi-fala-sobre-crise-no-stf-tribunal-hoje-e-politico/",
+        "nota": "Em entrevista (08/09/2026) disse que o STF deixou de ser técnico e virou político; propõe mandato de 3 a 4 anos e ministros não advogados."
+      },
+      "G02": {
+        "v": 4,
+        "conf": "declaracao",
+        "fonte": "https://agorarn.com.br/politica/wilson-grassi-democrata-propostas-clt-bolsa-familia/",
+        "nota": "À Folha (29/08/2026) propôs elevar o Bolsa Família a R$ 2 mil, condicionado à perda do direito de voto do beneficiário."
+      },
+      "P02": {
+        "v": 2,
+        "conf": "declaracao",
+        "fonte": "https://planodegoverno2026.com.br/planos/wilson-grassi-6fecb19d.pdf#page=9",
+        "nota": "Plano de 2026 isenta IR até 5 salários mínimos e desloca a tabela, reduzindo em 11% o imposto de quem ganha R$ 50 mil."
+      },
+      "P06": {
+        "v": 4,
+        "conf": "declaracao",
+        "fonte": "https://planodegoverno2026.com.br/planos/wilson-grassi-6fecb19d.pdf#page=51",
+        "nota": "Plano de 2026 propõe base industrial de defesa com conteúdo nacional e compras públicas que sustentem a produção nacional de medicamentos."
+      }
+    }
+  },
+  {
+    "id": 280002539826,
+    "nomeUrna": "ZEMA",
+    "posicoes": {
+      "G05": {
+        "v": 1,
+        "conf": "declaracao",
+        "fonte": "https://www.correiobraziliense.com.br/cidades-df/2026/09/7497075-zema-e-caputo-criticam-gestao-do-df-em-lancamento-de-carta-a-cristaos.html",
+        "nota": "Carta a cristãos (09/09/2026) defende a vida \"desde a concepção\" e rejeita ampliar os casos de aborto; em sabatina (04/08/2026) quis \"manter como está\"."
+      },
+      "G06": {
+        "v": 2,
+        "conf": "declaracao",
+        "fonte": "https://www.piranot.com.br/2026/09/09/noticias/politica/zema-apresenta-carta-cristaos-drogas/",
+        "nota": "Carta a cristãos (09/09/2026) se opõe a flexibilizar consumo, porte e plantio de maconha recreativa e diz que o tema cabe ao Congresso."
+      },
+      "G11": {
+        "v": 2,
+        "conf": "declaracao",
+        "fonte": "https://www.metropoles.com/sao-paulo/o-brasil-nao-aguenta-mais-quatro-anos-de-cotas-afirma-zema-em-sp",
+        "nota": "Em encontro do Novo (18/07/2026) disse que o Brasil \"não aguenta mais quatro anos de políticas de cotas\" que olham \"a cor da pele\"."
+      },
+      "P04": {
+        "v": 4,
+        "conf": "declaracao",
+        "fonte": "https://diariodopoder.com.br/brasil-e-regioes/e12-brasil/zema-chama-governo-de-pro-bilionario-e-promete-cortar-gastos",
+        "nota": "Segundo o Diário do Poder (18/08/2026), defendeu manter a independência do Banco Central, sem interferência do Executivo."
+      }
+    }
+  }
+]

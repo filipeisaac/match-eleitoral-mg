@@ -1,0 +1,1091 @@
+[
+ {
+  "id": 130002542007,
+  "cargoCod": 6,
+  "cargo": "Deputado Federal",
+  "nomeUrna": "EROS BIONDINI",
+  "nomeCompleto": "EROS FERREIRA BIONDINI",
+  "numero": 2277,
+  "partido": "PL",
+  "coligacao": "PL",
+  "situacao": "Deferido",
+  "ocupacao": "Deputado",
+  "incumbente": true,
+  "arrecadado": 2658101,
+  "anteriores": [
+   {
+    "ano": 2022,
+    "cargo": "Deputado Federal",
+    "local": "MINAS GERAIS",
+    "partido": "PL",
+    "resultado": "Eleito por QP"
+   },
+   {
+    "ano": 2018,
+    "cargo": "Deputado Federal",
+    "local": "MINAS GERAIS",
+    "partido": "PROS",
+    "resultado": "Eleito por QP"
+   },
+   {
+    "ano": 2016,
+    "cargo": "Prefeito",
+    "local": "BELO HORIZONTE",
+    "partido": "PROS",
+    "resultado": "Não eleito"
+   },
+   {
+    "ano": 2014,
+    "cargo": "Deputado Federal",
+    "local": "MINAS GERAIS",
+    "partido": "PTB",
+    "resultado": "Eleito por QP"
+   }
+  ],
+  "sites": [
+   "HTTPS://EROSBIONDINI.COM.BR",
+   "https://www.facebook.com/erosbiondini",
+   "HTTPS://WWW.INSTAGRAM.COM/EROSBIONDINI",
+   "http://erosbiondini2277.com.br/",
+   "https://erosbiondini.com.br/"
+  ]
+ },
+ {
+  "id": 130002542016,
+  "cargoCod": 6,
+  "cargo": "Deputado Federal",
+  "nomeUrna": "MARCELO ÁLVARO ANTÔNIO",
+  "nomeCompleto": "MARCELO HENRIQUE TEIXEIRA DIAS",
+  "numero": 2244,
+  "partido": "PL",
+  "coligacao": "PL",
+  "situacao": "Deferido",
+  "ocupacao": "Comerciante",
+  "incumbente": true,
+  "arrecadado": 2650783,
+  "anteriores": [
+   {
+    "ano": 2022,
+    "cargo": "Deputado Federal",
+    "local": "MINAS GERAIS",
+    "partido": "PL",
+    "resultado": "Eleito por QP"
+   },
+   {
+    "ano": 2018,
+    "cargo": "Deputado Federal",
+    "local": "MINAS GERAIS",
+    "partido": "PSL",
+    "resultado": "Eleito por QP"
+   },
+   {
+    "ano": 2016,
+    "cargo": "Prefeito",
+    "local": "BELO HORIZONTE",
+    "partido": "PR",
+    "resultado": "Não eleito"
+   },
+   {
+    "ano": 2014,
+    "cargo": "Deputado Federal",
+    "local": "MINAS GERAIS",
+    "partido": "PRP",
+    "resultado": "Eleito por QP"
+   }
+  ],
+  "sites": [
+   "https://INSTAGRAM.COM/MARCELOALVAROANTONIO",
+   "https://www.youtube.com/@deputadomarceloalvaro",
+   "https://www.youtube.com/deputadomarceloalvaro",
+   "https://X.COM/MARCELOALVAROAN",
+   "https://YOUTUBE.COM/MARCELOALVAROAN",
+   "https://MARCELO2244.COM.BR",
+   "https://FACEBOOK.COM/MARCELOALVAROANTONIO",
+   "https://TIKTOK.COM/@MARCELOALVAROANTONIO"
+  ]
+ },
+ {
+  "id": 130002541996,
+  "cargoCod": 6,
+  "cargo": "Deputado Federal",
+  "nomeUrna": "MAURÍCIO DO VÔLEI",
+  "nomeCompleto": "MAURICIO LUIZ DE SOUZA",
+  "numero": 2210,
+  "partido": "PL",
+  "coligacao": "PL",
+  "situacao": "Deferido",
+  "ocupacao": "Atleta Profissional e Técnico em Desportos",
+  "incumbente": true,
+  "arrecadado": 2649000,
+  "anteriores": [
+   {
+    "ano": 2022,
+    "cargo": "Deputado Federal",
+    "local": "MINAS GERAIS",
+    "partido": "PL",
+    "resultado": "Eleito por QP"
+   }
+  ],
+  "sites": [
+   "https://INSTAGRAM.COM/MAURICIODOVOLEI",
+   "https://www.facebook.com/mauriciodovolei/"
+  ]
+ },
+ {
+  "id": 130002535317,
+  "cargoCod": 6,
+  "cargo": "Deputado Federal",
+  "nomeUrna": "REGINALDO LOPES",
+  "nomeCompleto": "REGINALDO LAZARO DE OLIVEIRA LOPES",
+  "numero": 1312,
+  "partido": "PT",
+  "coligacao": "FEDERAÇÃO BRASIL DA ESPERANÇA - FE BRASIL(13-PT/65-PC do B/43-PV)",
+  "situacao": "Deferido",
+  "ocupacao": "Economista",
+  "incumbente": true,
+  "arrecadado": 2648430,
+  "anteriores": [
+   {
+    "ano": 2022,
+    "cargo": "Deputado Federal",
+    "local": "MINAS GERAIS",
+    "partido": "PT",
+    "resultado": "Eleito por QP"
+   },
+   {
+    "ano": 2018,
+    "cargo": "Deputado Federal",
+    "local": "MINAS GERAIS",
+    "partido": "PT",
+    "resultado": "Eleito por QP"
+   },
+   {
+    "ano": 2016,
+    "cargo": "Prefeito",
+    "local": "BELO HORIZONTE",
+    "partido": "PT",
+    "resultado": "Não eleito"
+   },
+   {
+    "ano": 2014,
+    "cargo": "Deputado Federal",
+    "local": "MINAS GERAIS",
+    "partido": "PT",
+    "resultado": "Eleito por QP"
+   }
+  ],
+  "sites": [
+   "HTTPS://BSKY.APP/PROFILE/REGINALDOLOPES.BSKY.SOCIAL",
+   "HTTPS://WWW.LINKEDIN.COM/IN/REGINALDOLOPESMG",
+   "HTTPS://X.COM/REGINALDOLOPES",
+   "HTTPS://WWW.FACEBOOK.COM/REGINALDOLOPESMG",
+   "HTTPS://WWW.TIKTOK.COM/@REGINALDOLOPESMG",
+   "HTTPS://WWW.INSTAGRAM.COM/REGINALDOLOPESMG",
+   "HTTPS://REGINALDOLOPES.COM.BR/",
+   "HTTPS://WWW.KWAI.COM/@REGINALDOLOPESMG"
+  ]
+ },
+ {
+  "id": 130002542017,
+  "cargoCod": 6,
+  "cargo": "Deputado Federal",
+  "nomeUrna": "EMIDINHO MADEIRA",
+  "nomeCompleto": "EMIDIO ALVES MADEIRA JUNIOR",
+  "numero": 2240,
+  "partido": "PL",
+  "coligacao": "PL",
+  "situacao": "Deferido",
+  "ocupacao": "Agricultor",
+  "incumbente": true,
+  "arrecadado": 2613930,
+  "anteriores": [
+   {
+    "ano": 2022,
+    "cargo": "Deputado Federal",
+    "local": "MINAS GERAIS",
+    "partido": "PL",
+    "resultado": "Eleito por QP"
+   },
+   {
+    "ano": 2018,
+    "cargo": "Deputado Federal",
+    "local": "MINAS GERAIS",
+    "partido": "PSB",
+    "resultado": "Concorrendo"
+   },
+   {
+    "ano": 2018,
+    "cargo": "Deputado Federal",
+    "local": "MINAS GERAIS",
+    "partido": "PSB",
+    "resultado": "Eleito por QP"
+   },
+   {
+    "ano": 2014,
+    "cargo": "Deputado Estadual",
+    "local": "MINAS GERAIS",
+    "partido": "PT do B",
+    "resultado": "Eleito por QP"
+   }
+  ],
+  "sites": [
+   "https://@EMIDINHOMADEIRA",
+   "https://www.tiktok.com/@emidinhomadeira?lang=en",
+   "http://facebook.com/EmidinhoMadeira",
+   "https://www.instagram.com/emidinhomadeira/?hl=en"
+  ]
+ },
+ {
+  "id": 130002542004,
+  "cargoCod": 6,
+  "cargo": "Deputado Federal",
+  "nomeUrna": "DELEGADA IONE",
+  "nomeCompleto": "IONE MARIA MOREIRA DIAS BARBOSA",
+  "numero": 2232,
+  "partido": "PL",
+  "coligacao": "PL",
+  "situacao": "Deferido",
+  "ocupacao": "Outros",
+  "incumbente": true,
+  "arrecadado": 2597387.3,
+  "anteriores": [
+   {
+    "ano": 2024,
+    "cargo": "Prefeito",
+    "local": "JUIZ DE FORA",
+    "partido": "AVANTE",
+    "resultado": "Não eleito"
+   },
+   {
+    "ano": 2022,
+    "cargo": "Deputado Federal",
+    "local": "MINAS GERAIS",
+    "partido": "AVANTE",
+    "resultado": "Eleito por média"
+   },
+   {
+    "ano": 2020,
+    "cargo": "Prefeito",
+    "local": "JUIZ DE FORA",
+    "partido": "REPUBLICANOS",
+    "resultado": "Não eleito"
+   }
+  ],
+  "sites": [
+   "https://FACEBOOK.COM/DELEGADAIONE",
+   "https://INSTAGRAM.COM/DELEGADAIONE"
+  ]
+ },
+ {
+  "id": 130002545559,
+  "cargoCod": 6,
+  "cargo": "Deputado Federal",
+  "nomeUrna": "DIEGO ANDRADE",
+  "nomeCompleto": "DIEGO LEONARDO DE ANDRADE CARVALHO",
+  "numero": 5555,
+  "partido": "PSD",
+  "coligacao": "PSD",
+  "situacao": "Deferido",
+  "ocupacao": "Deputado",
+  "incumbente": true,
+  "arrecadado": 2504999.02,
+  "anteriores": [
+   {
+    "ano": 2022,
+    "cargo": "Deputado Federal",
+    "local": "MINAS GERAIS",
+    "partido": "PSD",
+    "resultado": "Eleito por QP"
+   },
+   {
+    "ano": 2018,
+    "cargo": "Deputado Federal",
+    "local": "MINAS GERAIS",
+    "partido": "PSD",
+    "resultado": "Eleito por QP"
+   },
+   {
+    "ano": 2014,
+    "cargo": "Deputado Federal",
+    "local": "MINAS GERAIS",
+    "partido": "PSD",
+    "resultado": "Eleito por QP"
+   },
+   {
+    "ano": 2010,
+    "cargo": "Deputado Federal",
+    "local": "MINAS GERAIS",
+    "partido": "PR",
+    "resultado": "Média"
+   }
+  ],
+  "sites": [
+   "https://www.facebook.com/diegoandrademg/?locale=pt_BR",
+   "https://diego-andrade-deputado-federal.netlify.app/",
+   "https://www.instagram.com/diegoandrademg/?hl=pt",
+   "https://www.facebook.com/profile.php?id=100007790975580",
+   "https://www.facebook.com/diegoandrademg/",
+   "https://DIEGOANDRADE",
+   "https://@DIEGOANDRADEMG",
+   "https://www.instagram.com/diegoandrademg/"
+  ]
+ },
+ {
+  "id": 130002537202,
+  "cargoCod": 6,
+  "cargo": "Deputado Federal",
+  "nomeUrna": "BRUNO FARIAS",
+  "nomeCompleto": "BRUNO SOUZA FARIAS",
+  "numero": 1077,
+  "partido": "REPUBLICANOS",
+  "coligacao": "REPUBLICANOS",
+  "situacao": "Deferido",
+  "ocupacao": "Enfermeiro",
+  "incumbente": true,
+  "arrecadado": 2219050,
+  "anteriores": [
+   {
+    "ano": 2022,
+    "cargo": "Deputado Federal",
+    "local": "MINAS GERAIS",
+    "partido": "AVANTE",
+    "resultado": "Eleito por QP"
+   }
+  ],
+  "sites": [
+   "HTTPS://X.COM/ENFBRUNOFARIAS",
+   "HTTPS://WWW.INSTAGRAM.COM/BRUNOFARIASMG/",
+   "HTTPS://WWW.TIKTOK.COM/@DEPBRUNOFARIAS",
+   "HTTPS://WWW.YOUTUBE.COM/@BRUNOFARIAS-VE5LS",
+   "https://WWW.FACEBOOK.COM/BRUNOFARIASMG"
+  ]
+ },
+ {
+  "id": 130002539741,
+  "cargoCod": 6,
+  "cargo": "Deputado Federal",
+  "nomeUrna": "CÉLIA XAKRIABÁ",
+  "nomeCompleto": "CÉLIA NUNES CORREA",
+  "numero": 5088,
+  "partido": "PSOL",
+  "coligacao": "FEDERAÇÃO PSOL REDE(50-PSOL/18-REDE)",
+  "situacao": "Deferido",
+  "ocupacao": "Deputado",
+  "incumbente": true,
+  "arrecadado": 2181425.92,
+  "anteriores": [
+   {
+    "ano": 2022,
+    "cargo": "Deputado Federal",
+    "local": "MINAS GERAIS",
+    "partido": "PSOL",
+    "resultado": "Eleito por QP"
+   }
+  ],
+  "sites": [
+   "HTTPS://WWW.THREADS.COM/@CELIA.XAKRIABA?HL=PT-BR",
+   "HTTPS://WWW.INSTAGRAM.COM/CORTESDACELINHA",
+   "https://www.instagram.com/cortesdacelinha",
+   "HTTPS://WWW.INSTAGRAM.COM/TIMECELIAXAKRIABA/",
+   "HTTPS://X.COM/CELIAXAKRIABA",
+   "HTTPS://WWW.FACEBOOK.COM/CELIAXAKRIABAA",
+   "HTTPS://WWW.INSTAGRAM.COM/CELINDA_XAKRIABA/",
+   "HTTPS://WWW.TIKTOK.COM/@CELIAXAKRIABA",
+   "HTTPS://WWW.INSTAGRAM.COM/CELIA.XAKRIABA/",
+   "HTTPS://WWW.FACEBOOK.COM/CELIA.XAKRIABA"
+  ]
+ },
+ {
+  "id": 130002537223,
+  "cargoCod": 6,
+  "cargo": "Deputado Federal",
+  "nomeUrna": "GILBERTO ABRAMO",
+  "nomeCompleto": "GILBERTO APARECIDO ABRAMO",
+  "numero": 1010,
+  "partido": "REPUBLICANOS",
+  "coligacao": "REPUBLICANOS",
+  "situacao": "Deferido",
+  "ocupacao": "Deputado",
+  "incumbente": true,
+  "arrecadado": 2172000,
+  "anteriores": [
+   {
+    "ano": 2022,
+    "cargo": "Deputado Federal",
+    "local": "MINAS GERAIS",
+    "partido": "REPUBLICANOS",
+    "resultado": "Eleito por QP"
+   },
+   {
+    "ano": 2018,
+    "cargo": "Deputado Federal",
+    "local": "MINAS GERAIS",
+    "partido": "PRB",
+    "resultado": "Eleito por QP"
+   },
+   {
+    "ano": 2014,
+    "cargo": "Deputado Estadual",
+    "local": "MINAS GERAIS",
+    "partido": "PRB",
+    "resultado": "Eleito por QP"
+   },
+   {
+    "ano": 2010,
+    "cargo": "Deputado Estadual",
+    "local": "MINAS GERAIS",
+    "partido": "PRB",
+    "resultado": "Eleito"
+   }
+  ],
+  "sites": [
+   "https://whatsapp.com/channel/0029Vb5ph4J0wajxNFneE93t",
+   "HTTPS://WWW.FACEBOOK.COM/GILBERTOABRAMO/",
+   "https://x.com/gilbertoabramo",
+   "https://www.threads.com/@gilbertoabramo_?xmt=AQG0kz_XcZSKZpt4WLT26uK8tdalOxaEqcDu0L33Jo3QsAg",
+   "https://www.tiktok.com/search?q=gilberto%20abramo&t=1787089387063",
+   "http://www.youtube.com/@GilbertoAbramo1010-e1w",
+   "HTTPS://GILBERTOABRAMO.COM.BR",
+   "HTTPS://WWW.INSTAGRAM.COM/GILBERTOABRAMO_/?HL=PT"
+  ]
+ },
+ {
+  "id": 130002538287,
+  "cargoCod": 6,
+  "cargo": "Deputado Federal",
+  "nomeUrna": "MÁRIO HERINGER",
+  "nomeCompleto": "MARIO LUCIO HERINGER",
+  "numero": 1234,
+  "partido": "PDT",
+  "coligacao": "PDT",
+  "situacao": "Deferido",
+  "ocupacao": "Médico",
+  "incumbente": true,
+  "arrecadado": 2140000,
+  "anteriores": [
+   {
+    "ano": 2022,
+    "cargo": "Deputado Federal",
+    "local": "MINAS GERAIS",
+    "partido": "PDT",
+    "resultado": "Eleito por QP"
+   },
+   {
+    "ano": 2018,
+    "cargo": "Deputado Federal",
+    "local": "MINAS GERAIS",
+    "partido": "PDT",
+    "resultado": "Eleito por QP"
+   },
+   {
+    "ano": 2014,
+    "cargo": "Deputado Federal",
+    "local": "MINAS GERAIS",
+    "partido": "PDT",
+    "resultado": "Eleito por QP"
+   },
+   {
+    "ano": 2010,
+    "cargo": "Deputado Federal",
+    "local": "MINAS GERAIS",
+    "partido": "PDT",
+    "resultado": "Suplente"
+   }
+  ],
+  "sites": [
+   "https://YOUTUBE: HTTPS://WWW.YOUTUBE.COM/@M%C3%A1RIOHERINGEROFICIAL",
+   "https://TIKTOK: HTTPS://WWW.TIKTOK.COM/@DEPUTADOMARIOHERINGER?_R=1&_T=ZS-98PYJ7GL9IH",
+   "https://INSTAGRAM: HTTPS://WWW.INSTAGRAM.COM/DEPUTADOMARIOHERINGER",
+   "https://FACEFACEBOOK: HTTPS://WWW.FACEBOOK.COM/DEPUTADOMARIOHERINGER",
+   "https://SITE: HTTPS://MARIOHERINGER.COM.BR/"
+  ]
+ },
+ {
+  "id": 130002539728,
+  "cargoCod": 6,
+  "cargo": "Deputado Federal",
+  "nomeUrna": "DUDA SALABERT",
+  "nomeCompleto": "DUDA SALABERT",
+  "numero": 5050,
+  "partido": "PSOL",
+  "coligacao": "FEDERAÇÃO PSOL REDE(50-PSOL/18-REDE)",
+  "situacao": "Deferido",
+  "ocupacao": "Deputado",
+  "incumbente": true,
+  "arrecadado": 2057570.01,
+  "anteriores": [
+   {
+    "ano": 2024,
+    "cargo": "Prefeito",
+    "local": "BELO HORIZONTE",
+    "partido": "PDT",
+    "resultado": "Não eleito"
+   },
+   {
+    "ano": 2022,
+    "cargo": "Deputado Federal",
+    "local": "MINAS GERAIS",
+    "partido": "PDT",
+    "resultado": "Eleito por QP"
+   },
+   {
+    "ano": 2020,
+    "cargo": "Vereador",
+    "local": "BELO HORIZONTE",
+    "partido": "PDT",
+    "resultado": "Eleito por QP"
+   },
+   {
+    "ano": 2018,
+    "cargo": "Senador",
+    "local": "MINAS GERAIS",
+    "partido": "PSOL",
+    "resultado": "Não eleito"
+   }
+  ],
+  "sites": [
+   "HTTPS://WWW.FACEBOOK.COM/DUDASALABERT",
+   "HTTPS://X.COM/DUDASALABERT",
+   "HTTPS://WWW.YOUTUBE.COM/@DUDASALABERTOFICIAL",
+   "https://www.dudasalabert.com.br/",
+   "https://www.dudasalabert5050.com.br/",
+   "HTTPS://WWW.TIKTOK.COM/@DUDA_SALABERT",
+   "HTTPS://WWW.INSTAGRAM.COM/DUDA_SALABERT",
+   "https://www.duda5050.com.br/"
+  ]
+ },
+ {
+  "id": 130002548795,
+  "cargoCod": 6,
+  "cargo": "Deputado Federal",
+  "nomeUrna": "NELY AQUINO",
+  "nomeCompleto": "NELI PEREIRA DE AQUINO",
+  "numero": 2020,
+  "partido": "PODE",
+  "coligacao": "PODE",
+  "situacao": "Deferido",
+  "ocupacao": "Deputado",
+  "incumbente": true,
+  "arrecadado": 2037364,
+  "anteriores": [
+   {
+    "ano": 2022,
+    "cargo": "Deputado Federal",
+    "local": "MINAS GERAIS",
+    "partido": "PODE",
+    "resultado": "Eleito por média"
+   },
+   {
+    "ano": 2020,
+    "cargo": "Vereador",
+    "local": "BELO HORIZONTE",
+    "partido": "PODE",
+    "resultado": "Eleito por QP"
+   },
+   {
+    "ano": 2018,
+    "cargo": "Deputado Estadual",
+    "local": "MINAS GERAIS",
+    "partido": "PRTB",
+    "resultado": "Suplente"
+   },
+   {
+    "ano": 2016,
+    "cargo": "Vereador",
+    "local": "BELO HORIZONTE",
+    "partido": "PMN",
+    "resultado": "Eleito por QP"
+   }
+  ],
+  "sites": [
+   "HTTPS://WWW.INSTAGRAM.COM/NELYAQUINOOFICIAL/",
+   "HTTPS://WWW.YOUTUBE.COM/@NELYAQUINO",
+   "HTTPS://WWW.FACEBOOK.COM/NELYAQUINOOFICIAL"
+  ]
+ },
+ {
+  "id": 130002535293,
+  "cargoCod": 6,
+  "cargo": "Deputado Federal",
+  "nomeUrna": "PAULO GUEDES",
+  "nomeCompleto": "PAULO JOSE CARLOS GUEDES",
+  "numero": 1378,
+  "partido": "PT",
+  "coligacao": "FEDERAÇÃO BRASIL DA ESPERANÇA - FE BRASIL(13-PT/65-PC do B/43-PV)",
+  "situacao": "Deferido",
+  "ocupacao": "Deputado",
+  "incumbente": true,
+  "arrecadado": 2029100,
+  "anteriores": [
+   {
+    "ano": 2024,
+    "cargo": "Prefeito",
+    "local": "MONTES CLAROS",
+    "partido": "PT",
+    "resultado": "Não eleito"
+   },
+   {
+    "ano": 2022,
+    "cargo": "Deputado Federal",
+    "local": "MINAS GERAIS",
+    "partido": "PT",
+    "resultado": "Eleito por QP"
+   },
+   {
+    "ano": 2018,
+    "cargo": "Deputado Federal",
+    "local": "MINAS GERAIS",
+    "partido": "PT",
+    "resultado": "Eleito por QP"
+   },
+   {
+    "ano": 2014,
+    "cargo": "Deputado Estadual",
+    "local": "MINAS GERAIS",
+    "partido": "PT",
+    "resultado": "Eleito por QP"
+   }
+  ],
+  "sites": [
+   "HTTPS://WWW.TIKTOK.COM/@DEPUTADOPAULOGUEDES",
+   "HTTPS://WWW.FACEBOOK.COM/DEPUTADOPAULOGUEDES/",
+   "HTTPS://X.COM/DEPPAULOGUEDES",
+   "HTTPS://WWW.FACEBOOK.COM/PAULOGUEDESMG/",
+   "HTTPS://WWW.INSTAGRAM.COM/DEPUTADOPAULOGUEDES"
+  ]
+ },
+ {
+  "id": 130002535286,
+  "cargoCod": 6,
+  "cargo": "Deputado Federal",
+  "nomeUrna": "MIGUEL ÂNGELO",
+  "nomeCompleto": "MIGUEL ANGELO MONTEIRO ANDRADE",
+  "numero": 1339,
+  "partido": "PT",
+  "coligacao": "FEDERAÇÃO BRASIL DA ESPERANÇA - FE BRASIL(13-PT/65-PC do B/43-PV)",
+  "situacao": "Deferido",
+  "ocupacao": "Advogado",
+  "incumbente": true,
+  "arrecadado": 2000500,
+  "anteriores": [
+   {
+    "ano": 2022,
+    "cargo": "Deputado Federal",
+    "local": "MINAS GERAIS",
+    "partido": "PT",
+    "resultado": "Eleito por QP"
+   }
+  ],
+  "sites": [
+   "HTTPS://WWW.THREADS.COM/@MIGUELANGELOMG13",
+   "HTTPS://MIGUELANGELO13.COM.BR/",
+   "HTTPS://WWW.INSTAGRAM.COM/MIGUELANGELOMG13/",
+   "HTTPS://WWW.FACEBOOK.COM/MIGUELANGELO.MONTEIROANDRADE"
+  ]
+ },
+ {
+  "id": 130002535313,
+  "cargoCod": 6,
+  "cargo": "Deputado Federal",
+  "nomeUrna": "LEONARDO MONTEIRO",
+  "nomeCompleto": "JOSE LEONARDO COSTA MONTEIRO",
+  "numero": 1363,
+  "partido": "PT",
+  "coligacao": "FEDERAÇÃO BRASIL DA ESPERANÇA - FE BRASIL(13-PT/65-PC do B/43-PV)",
+  "situacao": "Deferido",
+  "ocupacao": "Deputado",
+  "incumbente": true,
+  "arrecadado": 1980371,
+  "anteriores": [
+   {
+    "ano": 2024,
+    "cargo": "Prefeito",
+    "local": "GOVERNADOR VALADARES",
+    "partido": "PT",
+    "resultado": "Não eleito"
+   },
+   {
+    "ano": 2022,
+    "cargo": "Deputado Federal",
+    "local": "MINAS GERAIS",
+    "partido": "PT",
+    "resultado": "Eleito por média"
+   },
+   {
+    "ano": 2020,
+    "cargo": "Prefeito",
+    "local": "GOVERNADOR VALADARES",
+    "partido": "PT",
+    "resultado": "Não eleito"
+   },
+   {
+    "ano": 2018,
+    "cargo": "Deputado Federal",
+    "local": "MINAS GERAIS",
+    "partido": "PT",
+    "resultado": "Eleito por QP"
+   }
+  ],
+  "sites": [
+   "HTTPS://WWW.FLICKR.COM/PHOTOS/LEOMONTEIROGV/",
+   "HTTPS://WWW.YOUTUBE.COM/@LEOMONTEIRO_GV",
+   "HTTPS://WWW.LEONARDOMONTEIRO.COM.BR/",
+   "HTTPS://WWW.TIKTOK.COM/@LEOMONTEIRO.GV",
+   "HTTPS://WWW.INSTAGRAM.COM/DEPLEOMONTEIRO/",
+   "HTTPS://WWW.FACEBOOK.COM/DEPLEOMONTEIRO13",
+   "HTTPS://X.COM/DEPLEOMONTEIRO"
+  ]
+ },
+ {
+  "id": 130002535279,
+  "cargoCod": 6,
+  "cargo": "Deputado Federal",
+  "nomeUrna": "ROGÉRIO CORREIA",
+  "nomeCompleto": "ROGERIO CORREIA DE MOURA BAPTISTA",
+  "numero": 1313,
+  "partido": "PT",
+  "coligacao": "FEDERAÇÃO BRASIL DA ESPERANÇA - FE BRASIL(13-PT/65-PC do B/43-PV)",
+  "situacao": "Deferido",
+  "ocupacao": "Deputado",
+  "incumbente": true,
+  "arrecadado": 1936400,
+  "anteriores": [
+   {
+    "ano": 2024,
+    "cargo": "Prefeito",
+    "local": "BELO HORIZONTE",
+    "partido": "PT",
+    "resultado": "Não eleito"
+   },
+   {
+    "ano": 2022,
+    "cargo": "Deputado Federal",
+    "local": "MINAS GERAIS",
+    "partido": "PT",
+    "resultado": "Eleito por QP"
+   },
+   {
+    "ano": 2018,
+    "cargo": "Deputado Federal",
+    "local": "MINAS GERAIS",
+    "partido": "PT",
+    "resultado": "Eleito por QP"
+   },
+   {
+    "ano": 2014,
+    "cargo": "Deputado Estadual",
+    "local": "MINAS GERAIS",
+    "partido": "PT",
+    "resultado": "Eleito por QP"
+   }
+  ],
+  "sites": [
+   "HTTPS://BSKY.APP/PROFILE/ROGERIOCORREIA.BSKY.SOCIAL",
+   "HTTPS://WWW.YOUTUBE.COM/@ROGERIOCORREIAPT",
+   "HTTPS://WWW.INSTAGRAM.COM/ROGERIOCORREIA_",
+   "HTTPS://WWW.FLICKR.COM/PHOTOS/ROGERIOCORREIAOFICIAL/",
+   "HTTPS://WWW.TIKTOK.COM/@ROGERIOCORREIAPT",
+   "HTTPS://X.COM/ROGERIOCORREIA_",
+   "HTTPS://WWW.FACEBOOK.COM/DEPUTADOROGERIOCORREIA"
+  ]
+ },
+ {
+  "id": 130002535303,
+  "cargoCod": 6,
+  "cargo": "Deputado Federal",
+  "nomeUrna": "PADRE JOÃO",
+  "nomeCompleto": "JOAO CARLOS SIQUEIRA",
+  "numero": 1315,
+  "partido": "PT",
+  "coligacao": "FEDERAÇÃO BRASIL DA ESPERANÇA - FE BRASIL(13-PT/65-PC do B/43-PV)",
+  "situacao": "Deferido",
+  "ocupacao": "Sacerdote ou Membro de Ordem ou Seita Religiosa",
+  "incumbente": true,
+  "arrecadado": 1916706.4,
+  "anteriores": [
+   {
+    "ano": 2022,
+    "cargo": "Deputado Federal",
+    "local": "MINAS GERAIS",
+    "partido": "PT",
+    "resultado": "Eleito por QP"
+   },
+   {
+    "ano": 2018,
+    "cargo": "Deputado Federal",
+    "local": "MINAS GERAIS",
+    "partido": "PT",
+    "resultado": "Eleito por QP"
+   },
+   {
+    "ano": 2014,
+    "cargo": "Deputado Federal",
+    "local": "MINAS GERAIS",
+    "partido": "PT",
+    "resultado": "Eleito por QP"
+   },
+   {
+    "ano": 2010,
+    "cargo": "Deputado Federal",
+    "local": "MINAS GERAIS",
+    "partido": "PT",
+    "resultado": "Eleito"
+   }
+  ],
+  "sites": [
+   "HTTPS://WWW.PADREJOAO.COM.BR/",
+   "HTTPS://WWW.THREADS.COM/@DEP_PADREJOAO",
+   "HTTPS://X.COM/DEP_PADREJOAO",
+   "HTTPS://WWW.FACEBOOK.COM/PADREJOAO",
+   "HTTPS://WWW.TIKTOK.COM/@DEP_PADREJOAO",
+   "HTTPS://WWW.INSTAGRAM.COM/DEP_PADREJOAO/",
+   "HTTPS://WWW.YOUTUBE.COM/USER/DEPPADREJOAO"
+  ]
+ },
+ {
+  "id": 130002542008,
+  "cargoCod": 6,
+  "cargo": "Deputado Federal",
+  "nomeUrna": "JUNIO AMARAL",
+  "nomeCompleto": "GERALDO JUNIO DO AMARAL",
+  "numero": 2299,
+  "partido": "PL",
+  "coligacao": "PL",
+  "situacao": "Deferido",
+  "ocupacao": "Deputado",
+  "incumbente": true,
+  "arrecadado": 1879998.3,
+  "anteriores": [
+   {
+    "ano": 2024,
+    "cargo": "Prefeito",
+    "local": "CONTAGEM",
+    "partido": "PL",
+    "resultado": "Não eleito"
+   },
+   {
+    "ano": 2022,
+    "cargo": "Deputado Federal",
+    "local": "MINAS GERAIS",
+    "partido": "PL",
+    "resultado": "Eleito por QP"
+   },
+   {
+    "ano": 2018,
+    "cargo": "Deputado Federal",
+    "local": "MINAS GERAIS",
+    "partido": "PSL",
+    "resultado": "Eleito por QP"
+   }
+  ],
+  "sites": [
+   "https://junioamaral.com.br/site/",
+   "https://encurtador.com.br/mTEh",
+   "https://TIKTOK.COM/CABOJUNIOAMARALDM",
+   "https://YOUTUBE.COM/JUNIOAMARALDM",
+   "https://INSTAGRAM.COM/JUNIOAMARALDM",
+   "https://FACEBOOK.COM/CABOJUNIOAMARAL",
+   "https://X.COM/CABOJUNIOAMARAL",
+   "https://INSTAGRAM.COM/JUNIOAMARALMG"
+  ]
+ },
+ {
+  "id": 130002537206,
+  "cargoCod": 6,
+  "cargo": "Deputado Federal",
+  "nomeUrna": "EUCLYDES PETTERSEN",
+  "nomeCompleto": "EUCLYDES MARCOS PETTERSEN NETO",
+  "numero": 1015,
+  "partido": "REPUBLICANOS",
+  "coligacao": "REPUBLICANOS",
+  "situacao": "Deferido",
+  "ocupacao": "Deputado",
+  "incumbente": true,
+  "arrecadado": 1807162.06,
+  "anteriores": [
+   {
+    "ano": 2022,
+    "cargo": "Deputado Federal",
+    "local": "MINAS GERAIS",
+    "partido": "PSC",
+    "resultado": "Eleito por QP"
+   },
+   {
+    "ano": 2018,
+    "cargo": "Deputado Federal",
+    "local": "MINAS GERAIS",
+    "partido": "PSC",
+    "resultado": "Eleito por QP"
+   },
+   {
+    "ano": 2014,
+    "cargo": "Deputado Federal",
+    "local": "MINAS GERAIS",
+    "partido": "PTB",
+    "resultado": "Suplente"
+   },
+   {
+    "ano": 2012,
+    "cargo": "Vice-prefeito",
+    "local": "GOVERNADOR VALADARES",
+    "partido": "PRTB",
+    "resultado": "Não eleito"
+   }
+  ],
+  "sites": [
+   "HTTPS://X.COM/EUCLYDESPETTER",
+   "HTTPS://WWW.INSTAGRAM.COM/EUCLYDESPETTERSENOFICIAL/",
+   "HTTPS://WWW.FACEBOOK.COM/EUCLYDESPETTERSENOFICIAL/?LOCALE=PT_BR",
+   "HTTPS://WWW.TIKTOK.COM/@EUCLYDES_PARA_DEPUTADO",
+   "https://euclydespettersen.com.br",
+   "HTTPS://WWW.THREADS.COM/@EUCLYDESPETTERSENOFICIAL"
+  ]
+ },
+ {
+  "id": 130002543112,
+  "cargoCod": 6,
+  "cargo": "Deputado Federal",
+  "nomeUrna": "LUIS TIBÉ",
+  "nomeCompleto": "LUIS HENRIQUE DE OLIVEIRA RESENDE",
+  "numero": 7070,
+  "partido": "AVANTE",
+  "coligacao": "AVANTE",
+  "situacao": "Deferido",
+  "ocupacao": "Deputado",
+  "incumbente": true,
+  "arrecadado": 1673354.2,
+  "anteriores": [
+   {
+    "ano": 2022,
+    "cargo": "Deputado Federal",
+    "local": "MINAS GERAIS",
+    "partido": "AVANTE",
+    "resultado": "Eleito por QP"
+   },
+   {
+    "ano": 2018,
+    "cargo": "Deputado Federal",
+    "local": "MINAS GERAIS",
+    "partido": "AVANTE",
+    "resultado": "Eleito por QP"
+   },
+   {
+    "ano": 2016,
+    "cargo": "Prefeito",
+    "local": "BELO HORIZONTE",
+    "partido": "PT do B",
+    "resultado": "Não eleito"
+   },
+   {
+    "ano": 2014,
+    "cargo": "Deputado Federal",
+    "local": "MINAS GERAIS",
+    "partido": "PT do B",
+    "resultado": "Eleito por QP"
+   }
+  ],
+  "sites": [
+   "HTTPS://WWW.INSTAGRAM.COM/DEPUTADOLUISTIBE",
+   "HTTPS://X.COM/LUISTIBEOFICIAL",
+   "HTTPS://WWW.FACEBOOK.COM/LUISTIBEOFICIAL",
+   "HTTPS://WWW.TIKTOK.COM/@DEPUTADOLUISTIBE",
+   "HTTPS://LUISTIBE.COM.BR/"
+  ]
+ },
+ {
+  "id": 130002545565,
+  "cargoCod": 6,
+  "cargo": "Deputado Federal",
+  "nomeUrna": "STEFANO AGUIAR",
+  "nomeCompleto": "STEFANO AGUIAR DOS SANTOS",
+  "numero": 5544,
+  "partido": "PSD",
+  "coligacao": "PSD",
+  "situacao": "Deferido",
+  "ocupacao": "Deputado",
+  "incumbente": true,
+  "arrecadado": 1630000,
+  "anteriores": [
+   {
+    "ano": 2022,
+    "cargo": "Deputado Federal",
+    "local": "MINAS GERAIS",
+    "partido": "PSD",
+    "resultado": "Eleito por QP"
+   },
+   {
+    "ano": 2018,
+    "cargo": "Deputado Federal",
+    "local": "MINAS GERAIS",
+    "partido": "PSD",
+    "resultado": "Eleito por QP"
+   },
+   {
+    "ano": 2014,
+    "cargo": "Deputado Federal",
+    "local": "MINAS GERAIS",
+    "partido": "PSB",
+    "resultado": "Eleito por QP"
+   },
+   {
+    "ano": 2010,
+    "cargo": "Deputado Federal",
+    "local": "MINAS GERAIS",
+    "partido": "PSC",
+    "resultado": "Suplente"
+   }
+  ],
+  "sites": [
+   "https://www.STEFANOAGUIARMG.COM.BR",
+   "https://INSTAGRAM: @DEPSTEFANO",
+   "https://www.youtube.com/@depstefanoaguiar",
+   "https://FACEBOOK: STEFANOAGUIAR"
+  ]
+ },
+ {
+  "id": 130002542026,
+  "cargoCod": 6,
+  "cargo": "Deputado Federal",
+  "nomeUrna": "NIKOLAS FERREIRA",
+  "nomeCompleto": "NIKOLAS FERREIRA DE OLIVEIRA",
+  "numero": 2222,
+  "partido": "PL",
+  "coligacao": "PL",
+  "situacao": "Deferido",
+  "ocupacao": "Deputado",
+  "incumbente": true,
+  "arrecadado": 1502759.23,
+  "anteriores": [
+   {
+    "ano": 2022,
+    "cargo": "Deputado Federal",
+    "local": "MINAS GERAIS",
+    "partido": "PL",
+    "resultado": "Eleito por QP"
+   },
+   {
+    "ano": 2020,
+    "cargo": "Vereador",
+    "local": "BELO HORIZONTE",
+    "partido": "PRTB",
+    "resultado": "Não eleito"
+   }
+  ],
+  "sites": [
+   "HTTPS://WWW.TIKTOK.COM/@NIKOLASFERREIRADM",
+   "HTTPS://WWW.FACEBOOK.COM/NIKOLASFERREIRADM/?LOCALE=PT_BR",
+   "https://nikolasferreira.com.br/candidatos",
+   "HTTPS://WWW.INSTAGRAM.COM/NIKOLASFERREIRADM",
+   "https://www.youtube.com/@NikolasFerreiraO",
+   "https://go.nikita.com.br/NikolasFerreira",
+   "HTTPS://WWW.INSTAGRAM.COM/NIKOLASFERREIRABR?IGSH=ODFHBJNLDWM3DXZP",
+   "https://grupos-nikolas-mg.pages.dev/",
+   "https://www.youtube.com/watch?v=XHtcg9mqABM",
+   "https://www.instagram.com/oquenikolasfez?igsi=MWtqb3JiZWE0NGNxcA==",
+   "https://k.kwai.com/u/@NikolasFerreiradm/wBWnKCgC",
+   "HTTPS://X.COM/NIKOLAS_DM",
+   "https://t.me/nikolasferreira",
+   "https://movimentonikolasferreira.com/?utm_source=ig&utm_medium=social&utm_content=link_in_bio&fbclid"
+  ]
+ }
+]

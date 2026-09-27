@@ -1,0 +1,500 @@
+[
+ {
+  "id": 130002542047,
+  "nomeUrna": "GUSTAVO SANTANA",
+  "posicoes": {
+   "G01": {
+    "v": 2,
+    "conf": "declaracao",
+    "fonte": "https://www.almg.gov.br/atividade-parlamentar/plenario/pronunciamentos/pronunciamento/?id=42793",
+    "nota": "Em discurso na ALMG (10/04/2019), criticou cortes em educação, saúde e segurança e disse que a reforma não deveria acabar com o serviço público de qualidade."
+   }
+  }
+ },
+ {
+  "id": 130002542058,
+  "nomeUrna": "VITTORIO MEDIOLI",
+  "posicoes": {
+   "G09": {
+    "v": 5,
+    "conf": "declaracao",
+    "fonte": "https://www.otempo.com.br/opiniao/vittorio-medioli/2026/2/15/stf-em-julgamento",
+    "nota": "Na coluna 'STF em julgamento' (15/02/2026) diz que o Congresso precisa com urgência fixar limites à Corte; já havia criticado o STF em 28/12/2025."
+   }
+  }
+ },
+ {
+  "id": 130002542781,
+  "nomeUrna": "FERNANDA DAVID",
+  "posicoes": {},
+  "bandeiras": [
+   "Esporte e oportunidades para jovens"
+  ]
+ },
+ {
+  "id": 130002549959,
+  "nomeUrna": "JOÃO MAGALHÃES",
+  "posicoes": {}
+ },
+ {
+  "id": 130002539490,
+  "nomeUrna": "IZA LOURENÇA",
+  "posicoes": {
+   "G01": {
+    "v": 2,
+    "conf": "declaracao",
+    "fonte": "https://www.otempo.com.br/opiniao/iza-lourenca/2025/7/17/justica-fiscal-fim-da-escala-6x1-e-soberania",
+    "nota": "Em coluna de 17/07/2025 defendeu que quem ganha mais de R$ 50 mil por mês pague mais imposto e a isenção de IR até R$ 5 mil (justiça fiscal)."
+   },
+   "G06": {
+    "v": 4,
+    "conf": "voto",
+    "fonte": "https://www.otempo.com.br/politica/2026/5/12/camara-de-bh-aprova-multa-para-quem-consumir-maconha-ou-outras-drogas-em-espacos-publicos",
+    "nota": "Votou contra o projeto que multa quem consome maconha ou outras drogas em espaços públicos de BH (Câmara Municipal, 12/05/2026)."
+   },
+   "G08": {
+    "v": 1,
+    "conf": "declaracao",
+    "fonte": "https://www.otempo.com.br/opiniao/iza-lourenca/2025/9/25/retomamos-o-que-e-nosso-ir-as-ruas-vale-a-pena",
+    "nota": "Em coluna de 25/09/2025 criticou a urgência do 'PL da Anistia aos golpistas de 8 de janeiro'; convocou atos contra a anistia em setembro de 2025."
+   },
+   "G09": {
+    "v": 2,
+    "conf": "declaracao",
+    "fonte": "https://www.cmbh.mg.gov.br/comunica%C3%A7%C3%A3o/not%C3%ADcias/2025/09/vereadores-aprovam-mo%C3%A7%C3%A3o-de-protesto-contra-ministro-alexandre-de",
+    "nota": "Em 08/09/2025, contra moção de protesto a Alexandre de Moraes, disse que o STF está garantindo a democracia; admitiu erros do ministro no passado."
+   },
+   "G11": {
+    "v": 5,
+    "conf": "declaracao",
+    "fonte": "https://www.otempo.com.br/opiniao/iza-lourenca/2026/6/18/o-ataque-da-extrema-direita-as-cotas-raciais-em-bh",
+    "nota": "Relatora do PL 888/2024, que amplia para 30% as cotas raciais em concursos de BH; em coluna de 18/06/2026 criticou projeto para extingui-las."
+   }
+  }
+ },
+ {
+  "id": 130002542775,
+  "nomeUrna": "MARIA HILDA LEÃO",
+  "posicoes": {}
+ },
+ {
+  "id": 130002535329,
+  "nomeUrna": "MACAÉ EVARISTO",
+  "posicoes": {
+   "G03": {
+    "v": 2,
+    "conf": "declaracao",
+    "fonte": "https://www.brasildefato.com.br/colunista/macae-evaristo/2026/05/14/dois-projetos-em-disputa-as-pessoas-sao-o-nosso-maior-patrimonio",
+    "nota": "Em coluna de 14/05/2026, criticou a privatização da Copasa e citou contas mais altas após a concessão do saneamento em Ouro Preto."
+   },
+   "G08": {
+    "v": 1,
+    "conf": "declaracao",
+    "fonte": "https://www.brasildefato.com.br/2025/03/24/as-familias-tem-direito-a-verdade-macae-evaristo-pede-desculpas-por-crimes-da-ditadura-em-nome-do-estado/",
+    "nota": "Como ministra, em 24/03/2025, disse \"a gente grita sem anistia\" sobre quem pede anistia ao 8/1; em 19/03/2025 defendeu responsabilizar os autores."
+   },
+   "G14": {
+    "v": 5,
+    "conf": "declaracao",
+    "fonte": "https://www.brasildefato.com.br/podcast/visoespopulares/2026/03/12/o-campo-democratico-precisa-de-maturidade-para-construir-convergencias-diz-macae-evaristo/",
+    "nota": "Em 12/03/2026, defendeu o fim da escala 6x1 como pauta de direitos humanos; em 27/05/2026 comemorou no X a aprovação da PEC na comissão especial."
+   },
+   "DE02": {
+    "v": 4,
+    "conf": "declaracao",
+    "fonte": "https://www.otempo.com.br/politica/deputada-do-pt-critica-zema-perspectiva-privatista-da-educacao-1.2819210",
+    "nota": "Em 24/02/2023, como deputada estadual, cobrou do governo de Minas o pagamento do piso salarial nacional aos professores da rede estadual."
+   }
+  }
+ },
+ {
+  "id": 130002549952,
+  "nomeUrna": "ELISMAR PRADO",
+  "posicoes": {
+   "DE02": {
+    "v": 4,
+    "conf": "declaracao",
+    "fonte": "https://www.almg.gov.br/pronunciamentos/deputado-elismar-prado/2023-06-28/48438",
+    "nota": "Em discursos na ALMG em 28/06/2023 e 22/05/2024, criticou o governo por alegar falta de recursos para não pagar o piso salarial da educação."
+   }
+  }
+ },
+ {
+  "id": 130002539885,
+  "nomeUrna": "NEILANDO PIMENTA",
+  "posicoes": {
+   "DE03": {
+    "v": 4,
+    "conf": "declaracao",
+    "fonte": "https://www.almg.gov.br/atividade-parlamentar/plenario/pronunciamentos/pronunciamento/?id=44894",
+    "nota": "Em 30/04/2020, disse que os vales do Jequitinhonha e Mucuri têm o menor IDH e a maior carência de leitos; em 22/05/2024 pediu acesso a recursos para a região."
+   }
+  }
+ },
+ {
+  "id": 130002532927,
+  "nomeUrna": "WANDERLEY PORTO",
+  "posicoes": {}
+ },
+ {
+  "id": 130002542110,
+  "nomeUrna": "DELEGADA SHEILA",
+  "posicoes": {
+   "G10": {
+    "v": 4,
+    "conf": "declaracao",
+    "fonte": "https://www.almg.gov.br/projetos-de-lei/PL/3829/2025",
+    "nota": "Autora do PL 3.829/2025, que pune conteúdo sexual feito com IA simulando deficiências e multa plataformas que não removem o conteúdo após notificação."
+   }
+  }
+ },
+ {
+  "id": 130002542088,
+  "nomeUrna": "RODRIGO NICOLAU",
+  "posicoes": {},
+  "bandeiras": [
+   "Causa animal"
+  ]
+ },
+ {
+  "id": 130002542782,
+  "nomeUrna": "NAYARA ROCHA",
+  "posicoes": {}
+ },
+ {
+  "id": 130002542072,
+  "nomeUrna": "CORONEL HENRIQUE",
+  "posicoes": {
+   "G05": {
+    "v": 1,
+    "conf": "declaracao",
+    "fonte": "https://coronelhenrique.com.br/noticia.html?id=import-coronel-henrique-participa-de-caminhada-contra-o-aborto-em-bh",
+    "nota": "Em 08/10/2023 participou da Caminhada Contra o Aborto em BH e disse que o aborto é tema que deve ser combatido no país."
+   }
+  }
+ },
+ {
+  "id": 130002549940,
+  "nomeUrna": "GUSTAVO VALADARES",
+  "posicoes": {
+   "DE02": {
+    "v": 2,
+    "conf": "declaracao",
+    "fonte": "https://www.em.com.br/app/noticia/politica/2023/07/02/interna_politica,1515227/professores-nas-ruas-e-cobranca-de-divida-semana-repercute-pauta-da-almg.shtml",
+    "nota": "Como líder do governo, em 29/06/2023, disse que não havia como dar recomposição retroativa aos professores (PL 822/2023) sem condição de pagamento."
+   }
+  }
+ },
+ {
+  "id": 130002539931,
+  "nomeUrna": "MARIA CLARA",
+  "posicoes": {}
+ },
+ {
+  "id": 130002539499,
+  "nomeUrna": "JUHLIA SANTOS",
+  "posicoes": {
+   "G06": {
+    "v": 4,
+    "conf": "voto",
+    "fonte": "https://www.otempo.com.br/politica/2026/5/12/camara-de-bh-aprova-multa-para-quem-consumir-maconha-ou-outras-drogas-em-espacos-publicos",
+    "nota": "Na Câmara de BH, votou contra o PL 155/2025 (multa de R$ 1,5 mil por porte ou consumo de drogas em vias públicas), 2º turno, em 12/05/2026."
+   },
+   "G07": {
+    "v": 4,
+    "conf": "declaracao",
+    "fonte": "https://cmbh.mg.gov.br/vereadores/juhlia-santos",
+    "nota": "Entre as prioridades do mandato de vereadora estão a emergência climática e a proteção de serras e nascentes contra a \"exploração predatória\"."
+   }
+  },
+  "bandeiras": [
+   "Emergência climática e proteção das serras",
+   "Defesa dos quilombos e combate ao racismo",
+   "Direitos da população LGBTQIA+"
+  ]
+ },
+ {
+  "id": 130002532948,
+  "nomeUrna": "DIRCE AIDA",
+  "posicoes": {},
+  "bandeiras": [
+   "Valorização dos agentes comunitários de saúde e de endemias",
+   "Aposentadoria especial e jornada de 30 horas para ACS e ACE",
+   "Saúde pública"
+  ]
+ },
+ {
+  "id": 130002550121,
+  "nomeUrna": "CAROL DAMASCENO",
+  "posicoes": {}
+ },
+ {
+  "id": 130002542079,
+  "nomeUrna": "ANDERSON LIMA",
+  "posicoes": {
+   "G13": {
+    "v": 4,
+    "conf": "declaracao",
+    "fonte": "https://www.camarauberlandia.mg.gov.br/vereadores/vereadores/537427",
+    "nota": "Em seu perfil oficial de vereador em Uberlândia, lista \"Deus e fé\" como primeira bandeira do mandato e se apresenta como cristão."
+   }
+  },
+  "bandeiras": [
+   "Deus e fé",
+   "Família",
+   "Educação e saúde"
+  ]
+ },
+ {
+  "id": 130002542812,
+  "nomeUrna": "ADRIANO ALVARENGA",
+  "posicoes": {},
+  "bandeiras": [
+   "Fortalecimento dos municípios",
+   "Estradas e rodovias seguras",
+   "Defesa do consumidor"
+  ]
+ },
+ {
+  "id": 130002542764,
+  "nomeUrna": "VITÓRIO",
+  "posicoes": {}
+ },
+ {
+  "id": 130002549949,
+  "nomeUrna": "DUARTE",
+  "posicoes": {}
+ },
+ {
+  "id": 130002540054,
+  "nomeUrna": "DRA LAÍS SANTIAGO",
+  "posicoes": {
+   "G13": {
+    "v": 4,
+    "conf": "declaracao",
+    "fonte": "https://geraisnews.com.br/2025/04/08/saiba-quem-e-a-filha-do-deputado-arlen-santiago-que-pode-ser-a-nova-cara-da-politica-mineira/",
+    "nota": "Em 04/2025, antes da candidatura, disse que quer lutar por uma política com valores cristãos; é pastora da Igreja Cristã Graça e Paz."
+   }
+  },
+  "bandeiras": [
+   "Saúde pública no Norte de Minas",
+   "Apoio ao pequeno produtor e à agricultura familiar",
+   "Infraestrutura e estradas no Norte de Minas"
+  ]
+ },
+ {
+  "id": 130002542753,
+  "nomeUrna": "ZÉ GUILHERME",
+  "posicoes": {}
+ },
+ {
+  "id": 130002549954,
+  "nomeUrna": "ENES CANDIDO",
+  "posicoes": {}
+ },
+ {
+  "id": 130002542107,
+  "nomeUrna": "PABLO ALMEIDA",
+  "posicoes": {
+   "G04": {
+    "v": 4,
+    "conf": "declaracao",
+    "fonte": "https://www.cmbh.mg.gov.br/comunica%C3%A7%C3%A3o/not%C3%ADcias/2026/05/valoriza%C3%A7%C3%A3o-do-tiro-desportivo-na-cidade-obt%C3%A9m-aval-da-maioria-em-1%C2%BA",
+    "nota": "Autor do PL 430/2025 (tiro desportivo); em 05/2026 disse que pessoas sem antecedentes têm direito de possuir arma para defender a família."
+   },
+   "G05": {
+    "v": 1,
+    "conf": "declaracao",
+    "fonte": "https://www.em.com.br/politica/2024/10/6959165-vereador-mais-bem-votado-em-bh-defende-pauta-antiaborto-e-bons-costumes.html",
+    "nota": "Na campanha de 2024 defendeu pauta contra o aborto e publicou 'Não é seu corpo. Não é a sua escolha' com imagem de gestante."
+   },
+   "G13": {
+    "v": 4,
+    "conf": "declaracao",
+    "fonte": "https://www.cnnbrasil.com.br/nacional/sudeste/mg/biblia-como-material-paradidatico-e-aprovado-em-bh-entenda/",
+    "nota": "Defendeu em 04/2025 o projeto da Bíblia como material paradidático em escolas de BH e disse que 'o Estado laico não é laicista ou ateu'."
+   }
+  }
+ },
+ {
+  "id": 130002535342,
+  "nomeUrna": "PATRÍCIA MELO",
+  "posicoes": {
+   "G14": {
+    "v": 4,
+    "conf": "declaracao",
+    "fonte": "https://www.patriciamelobrasil.com.br/",
+    "nota": "Site de campanha de 2026 lista o fim da escala 6x1 entre as propostas da candidata."
+   },
+   "DE04": {
+    "v": 4,
+    "conf": "declaracao",
+    "fonte": "https://www.patriciamelobrasil.com.br/",
+    "nota": "Site de campanha de 2026 lista a Tarifa Zero no transporte entre as propostas, sem detalhar o modelo de financiamento."
+   }
+  }
+ },
+ {
+  "id": 130002535320,
+  "nomeUrna": "ADRIANA SOUZA",
+  "posicoes": {
+   "G01": {
+    "v": 2,
+    "conf": "declaracao",
+    "fonte": "https://www.brasildefato.com.br/colunista/adriana-souza/2025/11/18/desmonte-do-estado-mineiro-coloca-desafios-para-municipios-da-regiao-metropolitana-de-bh/",
+    "nota": "Em coluna de 18/11/2025 criticou o 'neoliberalismo fiscalista' do governo Zema e disse ser possível governar 'sem sacrificar direitos'."
+   },
+   "G07": {
+    "v": 4,
+    "conf": "declaracao",
+    "fonte": "https://www.brasildefato.com.br/colunista/adriana-souza/2025/10/06/operacao-rejeito-o-retrato-de-um-governo-neocolonial/",
+    "nota": "Em coluna de 06/10/2025 criticou o governo estadual por tratar a proteção ambiental como 'entrave burocrático' diante das mineradoras."
+   },
+   "G08": {
+    "v": 1,
+    "conf": "declaracao",
+    "fonte": "https://www.brasildefato.com.br/colunista/adriana-souza/2025/09/12/bolsonaro-condenado-e-preciso-estar-atento-e-forte/",
+    "nota": "Em coluna de 12/09/2025 defendeu a 'luta contra qualquer medida de anistia, seja ela total ou light' aos condenados por golpe."
+   },
+   "G10": {
+    "v": 4,
+    "conf": "declaracao",
+    "fonte": "https://www.brasildefato.com.br/colunista/adriana-souza/2025/08/18/o-efeito-felca-protecao-da-infancia-sem-falso-moralismo/",
+    "nota": "Em coluna de 18/08/2025 defendeu regulamentar as plataformas 'para que funcionem com responsabilidade, sob regras públicas e transparentes'."
+   },
+   "DE02": {
+    "v": 4,
+    "conf": "declaracao",
+    "fonte": "https://www.brasildefato.com.br/colunista/adriana-souza/2025/12/01/do-espetaculo-ao-caos-aulao-de-ia-e-o-desmonte-da-educacao-mineira/",
+    "nota": "Em coluna de 01/12/2025 criticou o salário inicial dos professores da rede estadual por estar abaixo do Piso Salarial Nacional do Magistério."
+   },
+   "DE03": {
+    "v": 4,
+    "conf": "declaracao",
+    "fonte": "https://www.adrianasouza13.com/",
+    "nota": "Propostas de 2026 defendem critérios de financiamento estadual que considerem desigualdades territoriais, com recursos extras a regiões vulneráveis."
+   }
+  }
+ },
+ {
+  "id": 130002533215,
+  "nomeUrna": "ANDRADE",
+  "posicoes": {},
+  "bandeiras": [
+   "Saúde",
+   "Geração de emprego e apoio a pequenos negócios",
+   "Investimentos e infraestrutura para o Vale do Aço"
+  ]
+ },
+ {
+  "id": 130002542096,
+  "nomeUrna": "ROBERTA LOPES",
+  "posicoes": {
+   "G06": {
+    "v": 2,
+    "conf": "declaracao",
+    "fonte": "https://tribunademinas.com.br/politica-3/18-11-2024/roberta-lopes-oposicao-petista-multa-drogas.html",
+    "nota": "Em 11/2024 anunciou projeto de multa municipal para quem usar maconha em espaços públicos, dizendo que o município não pode legislar na área criminal."
+   }
+  }
+ },
+ {
+  "id": 130002542054,
+  "nomeUrna": "MARILIA AMARAL",
+  "posicoes": {
+   "G01": {
+    "v": 4,
+    "conf": "declaracao",
+    "fonte": "https://mariliaamaral.com/propostas-campanha",
+    "nota": "Nas '22 ideias' de campanha (publicadas em 17/08/2026) lista redução da carga tributária, responsabilidade fiscal e antidesperdício na gestão pública."
+   },
+   "G04": {
+    "v": 4,
+    "conf": "declaracao",
+    "fonte": "https://mariliaamaral.com/propostas-campanha",
+    "nota": "Nas '22 ideias' de campanha (17/08/2026) defende o direito à legítima defesa e a flexibilização do armamentismo civil."
+   },
+   "G09": {
+    "v": 4,
+    "conf": "declaracao",
+    "fonte": "https://mariliaamaral.com/propostas-campanha",
+    "nota": "Nas '22 ideias' de campanha (17/08/2026) inclui o combate ao ativismo judicial entre suas propostas."
+   }
+  }
+ },
+ {
+  "id": 130002539486,
+  "nomeUrna": "WAGNER FERREIRA",
+  "posicoes": {
+   "DE02": {
+    "v": 4,
+    "conf": "declaracao",
+    "fonte": "https://wagnerferreira.com.br/",
+    "nota": "No plano de campanha de 2026 propõe lutar pelo cumprimento do piso nacional do magistério na rede estadual de Minas Gerais."
+   },
+   "DE04": {
+    "v": 5,
+    "conf": "declaracao",
+    "fonte": "https://wagnerferreira.com.br/",
+    "nota": "Na campanha de 2026 defende implantar e expandir a Tarifa Zero nas linhas intermunicipais da RMBH. Em 03/10/2025 votou a favor da Tarifa Zero em BH."
+   }
+  },
+  "bandeiras": [
+   "Valorização dos servidores públicos",
+   "Tarifa Zero no transporte",
+   "Combate ao vício em apostas (bets)"
+  ]
+ },
+ {
+  "id": 130002534574,
+  "nomeUrna": "FERNANDA PEREIRA ALTOÉ",
+  "posicoes": {}
+ },
+ {
+  "id": 130002542100,
+  "nomeUrna": "RAFHAEL DE PAULO",
+  "posicoes": {
+   "G09": {
+    "v": 4,
+    "conf": "declaracao",
+    "fonte": "https://sapl.unai.mg.leg.br/materia/16559",
+    "nota": "Autor de requerimento (11/09/2023) pedindo ao Senado garantir prerrogativas do Congresso ante a ADPF 442 no STF; propôs moção de protesto ao STF (20/11/2023)."
+   }
+  }
+ },
+ {
+  "id": 130002543650,
+  "nomeUrna": "LUIZ PAULO",
+  "posicoes": {}
+ },
+ {
+  "id": 130002542811,
+  "nomeUrna": "DR. PAULO",
+  "posicoes": {}
+ },
+ {
+  "id": 130002540609,
+  "nomeUrna": "HELENO DO HOSPITAL",
+  "posicoes": {},
+  "bandeiras": [
+   "Readequação da tabela do SUS",
+   "Expansão de modelo de gestão hospitalar para municípios mineiros",
+   "Desenvolvimento do Vale do Aço"
+  ]
+ },
+ {
+  "id": 130002542093,
+  "nomeUrna": "PEDRO LUIZ",
+  "posicoes": {}
+ },
+ {
+  "id": 130002534522,
+  "nomeUrna": "LARISSA DIAS",
+  "posicoes": {},
+  "bandeiras": [
+   "Norte de Minas",
+   "Agronegócio",
+   "Mulheres"
+  ]
+ }
+]

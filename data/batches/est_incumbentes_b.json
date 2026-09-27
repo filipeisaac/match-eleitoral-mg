@@ -1,0 +1,1509 @@
+[
+ {
+  "id": 130002549957,
+  "cargoCod": 7,
+  "cargo": "Deputado Estadual",
+  "nomeUrna": "TITO TORRES",
+  "nomeCompleto": "TITO BRUNO MIRANDA TORRES DUARTE",
+  "numero": 55240,
+  "partido": "PSD",
+  "coligacao": "PSD",
+  "situacao": "Deferido",
+  "ocupacao": "Deputado",
+  "incumbente": true,
+  "arrecadado": 675985,
+  "anteriores": [
+   {
+    "ano": 2022,
+    "cargo": "Deputado Estadual",
+    "local": "MINAS GERAIS",
+    "partido": "PSD",
+    "resultado": "Eleito por QP"
+   },
+   {
+    "ano": 2018,
+    "cargo": "Deputado Estadual",
+    "local": "MINAS GERAIS",
+    "partido": "PSDB",
+    "resultado": "Eleito por QP"
+   },
+   {
+    "ano": 2014,
+    "cargo": "Deputado Estadual",
+    "local": "MINAS GERAIS",
+    "partido": "PSDB",
+    "resultado": "Eleito por média"
+   }
+  ],
+  "sites": [
+   "https://www.instagram.com/titotorresmg/",
+   "https://FACEBOOK.COM/DEPUTADOTITOTORRES",
+   "https://WWW.TITOTORRES.COM.BR",
+   "https://TIKTOK:@TITOTORRESMG"
+  ]
+ },
+ {
+  "id": 130002535362,
+  "cargoCod": 7,
+  "cargo": "Deputado Estadual",
+  "nomeUrna": "LUIZINHO",
+  "nomeCompleto": "LUIZ ANTONIO DA SILVA",
+  "numero": 13125,
+  "partido": "PT",
+  "coligacao": "FEDERAÇÃO BRASIL DA ESPERANÇA - FE BRASIL(13-PT/65-PC do B/43-PV)",
+  "situacao": "Deferido",
+  "ocupacao": "Comerciante",
+  "incumbente": true,
+  "arrecadado": 664300,
+  "anteriores": [
+   {
+    "ano": 2022,
+    "cargo": "Deputado Estadual",
+    "local": "MINAS GERAIS",
+    "partido": "PT",
+    "resultado": "Eleito por QP"
+   },
+   {
+    "ano": 2020,
+    "cargo": "Prefeito",
+    "local": "ALFENAS",
+    "partido": "PT",
+    "resultado": "Eleito"
+   },
+   {
+    "ano": 2016,
+    "cargo": "Prefeito",
+    "local": "ALFENAS",
+    "partido": "PT",
+    "resultado": "Eleito"
+   },
+   {
+    "ano": 2012,
+    "cargo": "Prefeito",
+    "local": "ALFENAS",
+    "partido": "PT",
+    "resultado": "Não eleito"
+   }
+  ],
+  "sites": [
+   "HTTPS://WWW.INSTAGRAM.COM/LUIZINHO.MINAS",
+   "HTTPS://WWW.KWAI.COM/@LUIZINHO.MINAS",
+   "HTTPS://WWW.FACEBOOK.COM/LUIZINHOPESSOAL",
+   "HTTPS://WWW.YOUTUBE.COM/@LUIZINHOMINAS",
+   "HTTPS://WWW.TIKTOK.COM/@LUIZINHO.MINAS",
+   "HTTPS://X.COM/LUIZINHOMINAS"
+  ]
+ },
+ {
+  "id": 130002542081,
+  "cargoCod": 7,
+  "cargo": "Deputado Estadual",
+  "nomeUrna": "ALÊ PORTELA",
+  "nomeCompleto": "ALESSANDRA DINIZ PORTELA SILVEIRA",
+  "numero": 22333,
+  "partido": "PL",
+  "coligacao": "PL",
+  "situacao": "Deferido",
+  "ocupacao": "Deputado",
+  "incumbente": true,
+  "arrecadado": 660498.3,
+  "anteriores": [
+   {
+    "ano": 2022,
+    "cargo": "Deputado Estadual",
+    "local": "MINAS GERAIS",
+    "partido": "PL",
+    "resultado": "Eleito por QP"
+   }
+  ],
+  "sites": [
+   "https://TIKTOK:@ALEPORTELAOFICIAL",
+   "https://FACEBOOK PÁGINA: @ALEPORTELAOFICIAL",
+   "https://X: @ALEPORTELA",
+   "https://aleportela22333.com.br/home/",
+   "https://NSTAGRAM: @ALEPORTELAOFICIAL",
+   "https://aleportela.com",
+   "https://FACEBOOK PERFIL: @ALEPORTELA",
+   "https://www.threads.com/@aleportelaoficial",
+   "https://THREADS: @ALEPORTELA",
+   "https://KWAI: @ALEPORTELAOFICIAL"
+  ]
+ },
+ {
+  "id": 130002535378,
+  "cargoCod": 7,
+  "cargo": "Deputado Estadual",
+  "nomeUrna": "MÁRIO HENRIQUE CAIXA",
+  "nomeCompleto": "MARIO HENRIQUE DA SILVA",
+  "numero": 43333,
+  "partido": "PV",
+  "coligacao": "FEDERAÇÃO BRASIL DA ESPERANÇA - FE BRASIL(13-PT/65-PC do B/43-PV)",
+  "situacao": "Deferido",
+  "ocupacao": "Jornalista e Redator",
+  "incumbente": true,
+  "arrecadado": 613987,
+  "anteriores": [
+   {
+    "ano": 2022,
+    "cargo": "Deputado Estadual",
+    "local": "MINAS GERAIS",
+    "partido": "PV",
+    "resultado": "Eleito por QP"
+   },
+   {
+    "ano": 2018,
+    "cargo": "Deputado Estadual",
+    "local": "MINAS GERAIS",
+    "partido": "PV",
+    "resultado": "Eleito por QP"
+   },
+   {
+    "ano": 2014,
+    "cargo": "Deputado Estadual",
+    "local": "MINAS GERAIS",
+    "partido": "PC do B",
+    "resultado": "Eleito por QP"
+   },
+   {
+    "ano": 2010,
+    "cargo": "Deputado Estadual",
+    "local": "MINAS GERAIS",
+    "partido": "PC do B",
+    "resultado": "Suplente"
+   }
+  ],
+  "sites": [
+   "HTTPS://WWW.FACEBOOK.COM/MARIOCAIXAOFICIAL/",
+   "HTTPS://WWW.TIKTOK.COM/@MARIOCAIXAOFICIAL",
+   "HTTPS://X.COM/MARIOCAIXA",
+   "HTTPS://WWW.INSTAGRAM.COM/MARIOCAIXAOFICIAL",
+   "HTTPS://WWW.THREADS.COM/@MARIOCAIXAOFICIAL"
+  ]
+ },
+ {
+  "id": 130002542817,
+  "cargoCod": 7,
+  "cargo": "Deputado Estadual",
+  "nomeUrna": "ARNALDO",
+  "nomeCompleto": "ARNALDO SILVA JÚNIOR",
+  "numero": 44444,
+  "partido": "UNIÃO",
+  "coligacao": "FEDERAÇÃO UNIÃO PROGRESSISTA(44-UNIÃO/11-PP)",
+  "situacao": "Deferido",
+  "ocupacao": "Deputado",
+  "incumbente": true,
+  "arrecadado": 589300,
+  "anteriores": [
+   {
+    "ano": 2022,
+    "cargo": "Deputado Estadual",
+    "local": "MINAS GERAIS",
+    "partido": "UNIÃO",
+    "resultado": "Eleito por QP"
+   },
+   {
+    "ano": 2018,
+    "cargo": "Deputado Estadual",
+    "local": "MINAS GERAIS",
+    "partido": "DEM",
+    "resultado": "Suplente"
+   },
+   {
+    "ano": 2014,
+    "cargo": "Deputado Estadual",
+    "local": "MINAS GERAIS",
+    "partido": "PR",
+    "resultado": "Eleito por QP"
+   }
+  ],
+  "sites": [
+   "HTTPS://WWW.INSTAGRAM.COM/ARNALDOSILVA.JR/",
+   "HTTPS://WWW.FACEBOOK.COM/ARNALDOSILVA.JR"
+  ]
+ },
+ {
+  "id": 130002539905,
+  "cargoCod": 7,
+  "cargo": "Deputado Estadual",
+  "nomeUrna": "CARLOS HENRIQUE",
+  "nomeCompleto": "CARLOS HENRIQUE ALVES DA SILVA",
+  "numero": 10123,
+  "partido": "REPUBLICANOS",
+  "coligacao": "REPUBLICANOS",
+  "situacao": "Deferido",
+  "ocupacao": "Deputado",
+  "incumbente": true,
+  "arrecadado": 561061.86,
+  "anteriores": [
+   {
+    "ano": 2022,
+    "cargo": "Deputado Estadual",
+    "local": "MINAS GERAIS",
+    "partido": "REPUBLICANOS",
+    "resultado": "Eleito por QP"
+   },
+   {
+    "ano": 2018,
+    "cargo": "Deputado Estadual",
+    "local": "MINAS GERAIS",
+    "partido": "PRB",
+    "resultado": "Eleito por QP"
+   },
+   {
+    "ano": 2014,
+    "cargo": "Deputado Estadual",
+    "local": "MINAS GERAIS",
+    "partido": "PRB",
+    "resultado": "Eleito por QP"
+   },
+   {
+    "ano": 2010,
+    "cargo": "Deputado Estadual",
+    "local": "MINAS GERAIS",
+    "partido": "PRB",
+    "resultado": "Média"
+   }
+  ],
+  "sites": [
+   "HTTPS://X.COM/DEPUTADOCARLOSH",
+   "HTTPS://DEPUTADOCARLOSHENRIQUE.COM.BR/",
+   "HTTPS://WWW.YOUTUBE.COM/@CARLOSHENRIQUEMG8837",
+   "HTTPS://WWW.TIKTOK.COM/@CARLOSHENRIQUE.MG",
+   "HTTPS://LINKTR.EE/DEPUTADOCARLOSHENRIQUE?UTM_SOURCE=IG&UTM_MEDIUM=SOCIAL&UTM_CON",
+   "HTTPS://WWW.FACEBOOK.COM/DEPUTADOCARLOSHENRIQUEOFICIAL",
+   "HTTPS://WWW.INSTAGRAM.COM/CARLOSHENRIQUE.MG/"
+  ]
+ },
+ {
+  "id": 130002542754,
+  "cargoCod": 7,
+  "cargo": "Deputado Estadual",
+  "nomeUrna": "BETINHO PINTO COELHO",
+  "nomeCompleto": "ALBERTO PINTO COELHO NETO",
+  "numero": 44111,
+  "partido": "UNIÃO",
+  "coligacao": "FEDERAÇÃO UNIÃO PROGRESSISTA(44-UNIÃO/11-PP)",
+  "situacao": "Deferido",
+  "ocupacao": "Deputado",
+  "incumbente": true,
+  "arrecadado": 556980,
+  "anteriores": [
+   {
+    "ano": 2022,
+    "cargo": "Deputado Estadual",
+    "local": "MINAS GERAIS",
+    "partido": "PV",
+    "resultado": "Eleito por QP"
+   },
+   {
+    "ano": 2018,
+    "cargo": "Deputado Estadual",
+    "local": "MINAS GERAIS",
+    "partido": "SOLIDARIEDADE",
+    "resultado": "Eleito por QP"
+   }
+  ],
+  "sites": [
+   "https://@BETINHOPINTOCOELHO"
+  ]
+ },
+ {
+  "id": 130002535348,
+  "cargoCod": 7,
+  "cargo": "Deputado Estadual",
+  "nomeUrna": "ULYSSES GOMES",
+  "nomeCompleto": "ULYSSES GOMES DE OLIVEIRA NETO",
+  "numero": 13077,
+  "partido": "PT",
+  "coligacao": "FEDERAÇÃO BRASIL DA ESPERANÇA - FE BRASIL(13-PT/65-PC do B/43-PV)",
+  "situacao": "Deferido",
+  "ocupacao": "Deputado",
+  "incumbente": true,
+  "arrecadado": 548660,
+  "anteriores": [
+   {
+    "ano": 2022,
+    "cargo": "Deputado Estadual",
+    "local": "MINAS GERAIS",
+    "partido": "PT",
+    "resultado": "Eleito por QP"
+   },
+   {
+    "ano": 2018,
+    "cargo": "Deputado Estadual",
+    "local": "MINAS GERAIS",
+    "partido": "PT",
+    "resultado": "Eleito por QP"
+   },
+   {
+    "ano": 2014,
+    "cargo": "Deputado Estadual",
+    "local": "MINAS GERAIS",
+    "partido": "PT",
+    "resultado": "Eleito por QP"
+   },
+   {
+    "ano": 2010,
+    "cargo": "Deputado Estadual",
+    "local": "MINAS GERAIS",
+    "partido": "PT",
+    "resultado": "Eleito"
+   }
+  ],
+  "sites": [
+   "HTTPS://WWW.INSTAGRAM.COM/ULYSSESGOMES/",
+   "HTTPS://WWW.FLICKR.COM/PHOTOS/DEPULYSSESGOMES/",
+   "HTTPS://X.COM/DEPULYSSESGOMES",
+   "HTTPS://WWW.YOUTUBE.COM/USER/DEPULYSSESGOMES",
+   "HTTPS://WWW.TIKTOK.COM/@DEPUTADONOTIKTOK",
+   "HTTPS://WWW.FACEBOOK.COM/ULYSSESGOMES",
+   "HTTPS://ULYSSESGOMES.COM.BR/"
+  ]
+ },
+ {
+  "id": 130002543664,
+  "cargoCod": 7,
+  "cargo": "Deputado Estadual",
+  "nomeUrna": "NORALDINO JUNIOR",
+  "nomeCompleto": "NORALDINO LUCIO DIAS JUNIOR",
+  "numero": 40123,
+  "partido": "PSB",
+  "coligacao": "PSB",
+  "situacao": "Deferido",
+  "ocupacao": "Empresário",
+  "incumbente": true,
+  "arrecadado": 548501,
+  "anteriores": [
+   {
+    "ano": 2022,
+    "cargo": "Deputado Estadual",
+    "local": "MINAS GERAIS",
+    "partido": "PSC",
+    "resultado": "Eleito por QP"
+   },
+   {
+    "ano": 2018,
+    "cargo": "Deputado Estadual",
+    "local": "MINAS GERAIS",
+    "partido": "PSC",
+    "resultado": "Eleito por QP"
+   },
+   {
+    "ano": 2016,
+    "cargo": "Prefeito",
+    "local": "JUIZ DE FORA",
+    "partido": "PSC",
+    "resultado": "Não eleito"
+   },
+   {
+    "ano": 2014,
+    "cargo": "Deputado Estadual",
+    "local": "MINAS GERAIS",
+    "partido": "PSC",
+    "resultado": "Eleito por QP"
+   }
+  ],
+  "sites": [
+   "https://x.com/noraldinojunior",
+   "HTTPS://WWW.INSTAGRAM.COM/NORALDINOJR",
+   "https://www.tiktok.com/@noraldinojunior"
+  ]
+ },
+ {
+  "id": 130002542748,
+  "cargoCod": 7,
+  "cargo": "Deputado Estadual",
+  "nomeUrna": "DOORGAL ANDRADA",
+  "nomeCompleto": "DOORGAL GUSTAVO SAD LAFAYETTE DE ANDRADA",
+  "numero": 11300,
+  "partido": "PP",
+  "coligacao": "FEDERAÇÃO UNIÃO PROGRESSISTA(44-UNIÃO/11-PP)",
+  "situacao": "Deferido",
+  "ocupacao": "Deputado",
+  "incumbente": true,
+  "arrecadado": 543610.92,
+  "anteriores": [
+   {
+    "ano": 2022,
+    "cargo": "Deputado Estadual",
+    "local": "MINAS GERAIS",
+    "partido": "PATRIOTA",
+    "resultado": "Eleito por QP"
+   },
+   {
+    "ano": 2018,
+    "cargo": "Deputado Estadual",
+    "local": "MINAS GERAIS",
+    "partido": "PATRIOTA",
+    "resultado": "Eleito por QP"
+   },
+   {
+    "ano": 2016,
+    "cargo": "Vereador",
+    "local": "BELO HORIZONTE",
+    "partido": "PSD",
+    "resultado": "Eleito por QP"
+   }
+  ],
+  "sites": [
+   "HTTPS://WWW.INSTAGRAM.COM/DOORGALANDRADAMG/",
+   "HTTPS://X.COM/DOORGALANDRADA",
+   "HTTPS://WWW.FACEBOOK.COM/DOORGALANDRADAMG/?LOCALE=TE_IN",
+   "https://www.tiktok.com/@doorgal.andrada"
+  ]
+ },
+ {
+  "id": 130002535325,
+  "cargoCod": 7,
+  "cargo": "Deputado Estadual",
+  "nomeUrna": "MARQUINHO LEMOS",
+  "nomeCompleto": "MARCOS JOSERALDO LEMOS",
+  "numero": 13139,
+  "partido": "PT",
+  "coligacao": "FEDERAÇÃO BRASIL DA ESPERANÇA - FE BRASIL(13-PT/65-PC do B/43-PV)",
+  "situacao": "Deferido",
+  "ocupacao": "Deputado",
+  "incumbente": true,
+  "arrecadado": 542830,
+  "anteriores": [
+   {
+    "ano": 2022,
+    "cargo": "Deputado Estadual",
+    "local": "MINAS GERAIS",
+    "partido": "PT",
+    "resultado": "Eleito por QP"
+   },
+   {
+    "ano": 2018,
+    "cargo": "Deputado Estadual",
+    "local": "MINAS GERAIS",
+    "partido": "PT",
+    "resultado": "Eleito por QP"
+   },
+   {
+    "ano": 2016,
+    "cargo": "Prefeito",
+    "local": "CARBONITA",
+    "partido": "PT",
+    "resultado": "Não eleito"
+   },
+   {
+    "ano": 2012,
+    "cargo": "Prefeito",
+    "local": "CARBONITA",
+    "partido": "PT",
+    "resultado": "Eleito"
+   }
+  ],
+  "sites": [
+   "HTTPS://WWW.TIKTOK.COM/@MARQUINHODEPUTADO",
+   "HTTPS://X.COM/DEPUTADOLEMOS",
+   "HTTPS://WWW.THREADS.COM/@MARQUINHODEPUTADO",
+   "HTTPS://MARQUINHOLEMOS.COM.BR/",
+   "HTTPS://WWW.FACEBOOK.COM/MARQUINHOLEMOSDEPUTADO",
+   "HTTPS://WWW.INSTAGRAM.COM/MARQUINHODEPUTADO"
+  ]
+ },
+ {
+  "id": 130002549938,
+  "cargoCod": 7,
+  "cargo": "Deputado Estadual",
+  "nomeUrna": "RAUL BELEM",
+  "nomeCompleto": "RAUL JOSÉ DE BELEM",
+  "numero": 55700,
+  "partido": "PSD",
+  "coligacao": "PSD",
+  "situacao": "Deferido",
+  "ocupacao": "Deputado",
+  "incumbente": true,
+  "arrecadado": 478696.73,
+  "anteriores": [
+   {
+    "ano": 2022,
+    "cargo": "Deputado Estadual",
+    "local": "MINAS GERAIS",
+    "partido": "CIDADANIA",
+    "resultado": "Eleito por QP"
+   },
+   {
+    "ano": 2018,
+    "cargo": "Deputado Estadual",
+    "local": "MINAS GERAIS",
+    "partido": "PSC",
+    "resultado": "Eleito por QP"
+   },
+   {
+    "ano": 2016,
+    "cargo": "Prefeito",
+    "local": "ARAGUARI",
+    "partido": "PP",
+    "resultado": "Não eleito"
+   },
+   {
+    "ano": 2012,
+    "cargo": "Prefeito",
+    "local": "ARAGUARI",
+    "partido": "PP",
+    "resultado": "Eleito"
+   }
+  ],
+  "sites": [
+   "https://FACEBOOK.COM/RAULBELEMOFICIAL",
+   "https://www.instagram.com/raulbelemoficial/"
+  ]
+ },
+ {
+  "id": 130002535327,
+  "cargoCod": 7,
+  "cargo": "Deputado Estadual",
+  "nomeUrna": "BETÃO",
+  "nomeCompleto": "ROBERTO CUPOLILLO",
+  "numero": 13613,
+  "partido": "PT",
+  "coligacao": "FEDERAÇÃO BRASIL DA ESPERANÇA - FE BRASIL(13-PT/65-PC do B/43-PV)",
+  "situacao": "Deferido",
+  "ocupacao": "Deputado",
+  "incumbente": true,
+  "arrecadado": 467275.09,
+  "anteriores": [
+   {
+    "ano": 2022,
+    "cargo": "Deputado Estadual",
+    "local": "MINAS GERAIS",
+    "partido": "PT",
+    "resultado": "Eleito por QP"
+   },
+   {
+    "ano": 2018,
+    "cargo": "Deputado Estadual",
+    "local": "MINAS GERAIS",
+    "partido": "PT",
+    "resultado": "Eleito por média"
+   },
+   {
+    "ano": 2016,
+    "cargo": "Vereador",
+    "local": "JUIZ DE FORA",
+    "partido": "PT",
+    "resultado": "Eleito por QP"
+   },
+   {
+    "ano": 2014,
+    "cargo": "Deputado Estadual",
+    "local": "MINAS GERAIS",
+    "partido": "PT",
+    "resultado": "Suplente"
+   }
+  ],
+  "sites": [
+   "HTTPS://WWW.YOUTUBE.COM/@BETAOPT9858",
+   "HTTPS://WWW.FACEBOOK.COM/BETAOPT",
+   "HTTPS://NALUTACOMBETAO.COM.BR/",
+   "HTTPS://WWW.INSTAGRAM.COM/BETAOPT",
+   "HTTPS://X.COM/BETAOPT",
+   "HTTPS://WWW.TIKTOK.COM/@BETAOPT"
+  ]
+ },
+ {
+  "id": 130002535374,
+  "cargoCod": 7,
+  "cargo": "Deputado Estadual",
+  "nomeUrna": "DR. JEAN FREIRE",
+  "nomeCompleto": "JEAN MARK FREIRE SILVA",
+  "numero": 13100,
+  "partido": "PT",
+  "coligacao": "FEDERAÇÃO BRASIL DA ESPERANÇA - FE BRASIL(13-PT/65-PC do B/43-PV)",
+  "situacao": "Deferido",
+  "ocupacao": "Médico",
+  "incumbente": true,
+  "arrecadado": 457860,
+  "anteriores": [
+   {
+    "ano": 2022,
+    "cargo": "Deputado Estadual",
+    "local": "MINAS GERAIS",
+    "partido": "PT",
+    "resultado": "Eleito por QP"
+   },
+   {
+    "ano": 2018,
+    "cargo": "Deputado Estadual",
+    "local": "MINAS GERAIS",
+    "partido": "PT",
+    "resultado": "Eleito por QP"
+   },
+   {
+    "ano": 2014,
+    "cargo": "Deputado Estadual",
+    "local": "MINAS GERAIS",
+    "partido": "PT",
+    "resultado": "Eleito por QP"
+   },
+   {
+    "ano": 2012,
+    "cargo": "Vereador",
+    "local": "ITAOBIM",
+    "partido": "PT",
+    "resultado": "Eleito por QP"
+   }
+  ],
+  "sites": [
+   "HTTPS://WWW.YOUTUBE.COM/@DR.JEANFREIRE8701",
+   "HTTPS://WWW.FACEBOOK.COM/DRJEANFREIRE",
+   "HTTPS://WWW.INSTAGRAM.COM/DRJEANFREIRE/",
+   "HTTPS://WWW.TIKTOK.COM/@DRJEANFREIRE",
+   "HTTPS://X.COM/DRJEANFREIRE",
+   "HTTPS://DRJEANFREIRE.COM.BR/"
+  ]
+ },
+ {
+  "id": 130002535334,
+  "cargoCod": 7,
+  "cargo": "Deputado Estadual",
+  "nomeUrna": "LELECO PIMENTEL",
+  "nomeCompleto": "WHELTON PIMENTEL DE FREITAS",
+  "numero": 13579,
+  "partido": "PT",
+  "coligacao": "FEDERAÇÃO BRASIL DA ESPERANÇA - FE BRASIL(13-PT/65-PC do B/43-PV)",
+  "situacao": "Deferido",
+  "ocupacao": "Deputado",
+  "incumbente": true,
+  "arrecadado": 436064.69,
+  "anteriores": [
+   {
+    "ano": 2022,
+    "cargo": "Deputado Estadual",
+    "local": "MINAS GERAIS",
+    "partido": "PT",
+    "resultado": "Eleito por média"
+   },
+   {
+    "ano": 2018,
+    "cargo": "Deputado Estadual",
+    "local": "MINAS GERAIS",
+    "partido": "PT",
+    "resultado": "Suplente"
+   },
+   {
+    "ano": 2016,
+    "cargo": "Vereador",
+    "local": "OURO PRETO",
+    "partido": "PT",
+    "resultado": "Suplente"
+   },
+   {
+    "ano": 2014,
+    "cargo": "Deputado Estadual",
+    "local": "MINAS GERAIS",
+    "partido": "PT",
+    "resultado": "Suplente"
+   }
+  ],
+  "sites": [
+   "HTTPS://WWW.FACEBOOK.COM/DEPUTADOLELECOPIMENTEL/",
+   "HTTPS://X.COM/LELECOPIMENTEL_",
+   "HTTPS://LELECOPIMENTEL.COM.BR/",
+   "HTTPS://WWW.YOUTUBE.COM/@DEP_LELECOPIMENTEL",
+   "HTTPS://WWW.INSTAGRAM.COM/DEP_LELECOPIMENTEL/"
+  ]
+ },
+ {
+  "id": 130002542810,
+  "cargoCod": 7,
+  "cargo": "Deputado Estadual",
+  "nomeUrna": "OSCAR TEIXEIRA",
+  "nomeCompleto": "OSCAR LISANDRO TEIXEIRA",
+  "numero": 11230,
+  "partido": "PP",
+  "coligacao": "FEDERAÇÃO UNIÃO PROGRESSISTA(44-UNIÃO/11-PP)",
+  "situacao": "Deferido",
+  "ocupacao": "Empresário",
+  "incumbente": true,
+  "arrecadado": 420610.92,
+  "anteriores": [
+   {
+    "ano": 2022,
+    "cargo": "Deputado Estadual",
+    "local": "MINAS GERAIS",
+    "partido": "PP",
+    "resultado": "Eleito por QP"
+   },
+   {
+    "ano": 2020,
+    "cargo": "Prefeito",
+    "local": "MATO VERDE",
+    "partido": "PDT",
+    "resultado": "Eleito"
+   },
+   {
+    "ano": 2016,
+    "cargo": "Prefeito",
+    "local": "MATO VERDE",
+    "partido": "PDT",
+    "resultado": "Eleito"
+   }
+  ],
+  "sites": [
+   "https://www.instagram.com/oscarteixeirapelonorte",
+   "https://www.instagram.com/juventudecomoscarteixeira",
+   "https://www.threads.com/@oscarlteixeira?igshid=NTc4MTIwNjQ2YQ",
+   "https://whatsapp.com/channel/0029VbBIpjJ0bIdsOv43iw0N",
+   "HTTPS://WWW.INSTAGRAM.COM/OSCARLTEIXEIRA/",
+   "https://www.tiktok.com/@deputadooscarteixeira",
+   "https://www.instagram.com/oscarlteixeira",
+   "https://www.instagram.com/cortesoscarteixeira",
+   "https://www.instagram.com/deputado.oscarteixeira",
+   "https://www.instagram.com/timeoscarteixeira",
+   "https://www.facebook.com/oscarlteixeira",
+   "https://www.facebook.com/oscar.teixeira.526"
+  ]
+ },
+ {
+  "id": 130002549939,
+  "cargoCod": 7,
+  "cargo": "Deputado Estadual",
+  "nomeUrna": "BOSCO",
+  "nomeCompleto": "JOÃO BOSCO",
+  "numero": 55200,
+  "partido": "PSD",
+  "coligacao": "PSD",
+  "situacao": "Deferido",
+  "ocupacao": "Produtor Agropecuário",
+  "incumbente": true,
+  "arrecadado": 416696.73,
+  "anteriores": [
+   {
+    "ano": 2022,
+    "cargo": "Deputado Estadual",
+    "local": "MINAS GERAIS",
+    "partido": "CIDADANIA",
+    "resultado": "Eleito por QP"
+   },
+   {
+    "ano": 2018,
+    "cargo": "Deputado Estadual",
+    "local": "MINAS GERAIS",
+    "partido": "AVANTE",
+    "resultado": "Eleito por média"
+   },
+   {
+    "ano": 2014,
+    "cargo": "Deputado Estadual",
+    "local": "MINAS GERAIS",
+    "partido": "PT do B",
+    "resultado": "Eleito por QP"
+   },
+   {
+    "ano": 2010,
+    "cargo": "Deputado Estadual",
+    "local": "MINAS GERAIS",
+    "partido": "PT do B",
+    "resultado": "Eleito"
+   }
+  ],
+  "sites": [
+   "https://www.instagram.com/depbosco/",
+   "https://TIKTOK: BOSCODEPUTADOESTADUAL",
+   "https://WWW.DEPUTADOBOSCO.COM"
+  ]
+ },
+ {
+  "id": 130002549960,
+  "cargoCod": 7,
+  "cargo": "Deputado Estadual",
+  "nomeUrna": "GIL PEREIRA",
+  "nomeCompleto": "GILBERTO WAGNER MARTINS PEREIRA ANTUNES",
+  "numero": 55210,
+  "partido": "PSD",
+  "coligacao": "PSD",
+  "situacao": "Deferido",
+  "ocupacao": "Deputado",
+  "incumbente": true,
+  "arrecadado": 411800,
+  "anteriores": [
+   {
+    "ano": 2022,
+    "cargo": "Deputado Estadual",
+    "local": "MINAS GERAIS",
+    "partido": "PSD",
+    "resultado": "Eleito por QP"
+   },
+   {
+    "ano": 2018,
+    "cargo": "Deputado Estadual",
+    "local": "MINAS GERAIS",
+    "partido": "PP",
+    "resultado": "Eleito por QP"
+   },
+   {
+    "ano": 2014,
+    "cargo": "Deputado Estadual",
+    "local": "MINAS GERAIS",
+    "partido": "PP",
+    "resultado": "Eleito por QP"
+   },
+   {
+    "ano": 2010,
+    "cargo": "Deputado Estadual",
+    "local": "MINAS GERAIS",
+    "partido": "PP",
+    "resultado": "Eleito"
+   }
+  ],
+  "sites": [
+   "https://SITE - WWW.GILPEREIRAMG.COM.BR",
+   "https://TIKTOK - @GILPEREIRA.MG",
+   "https://LINKEDIN - GILPEREIRAMG",
+   "https://www.instagram.com/GILPEREIRA.MG/",
+   "https://FACEBOOK - GILPEREIRA.MG",
+   "https://YOUTUBE - GILPEREIRAMG",
+   "https://X.COM - @DEP_GILPEREIRA"
+  ]
+ },
+ {
+  "id": 130002549947,
+  "cargoCod": 7,
+  "cargo": "Deputado Estadual",
+  "nomeUrna": "LEANDRO GENARO JUNTOS SOMOS +",
+  "nomeCompleto": "LEANDRO ANDRADE GENARO OLIVEIRA",
+  "numero": 55444,
+  "partido": "PSD",
+  "coligacao": "PSD",
+  "situacao": "Deferido",
+  "ocupacao": "Deputado",
+  "incumbente": true,
+  "arrecadado": 400850,
+  "anteriores": [
+   {
+    "ano": 2022,
+    "cargo": "Deputado Estadual",
+    "local": "MINAS GERAIS",
+    "partido": "PSD",
+    "resultado": "Eleito por QP"
+   },
+   {
+    "ano": 2018,
+    "cargo": "Deputado Estadual",
+    "local": "MINAS GERAIS",
+    "partido": "PSD",
+    "resultado": "Eleito por QP"
+   },
+   {
+    "ano": 2014,
+    "cargo": "Deputado Estadual",
+    "local": "MINAS GERAIS",
+    "partido": "PSB",
+    "resultado": "Eleito por QP"
+   },
+   {
+    "ano": 2010,
+    "cargo": "Deputado Estadual",
+    "local": "MINAS GERAIS",
+    "partido": "PSC",
+    "resultado": "Suplente"
+   }
+  ],
+  "sites": [
+   "https://www.instagram.com/leandro.genaro/",
+   "https://FACEBOOK.COM/DEP.LEANDROGENARO"
+  ]
+ },
+ {
+  "id": 130002535382,
+  "cargoCod": 7,
+  "cargo": "Deputado Estadual",
+  "nomeUrna": "PROFESSOR CLEITON",
+  "nomeCompleto": "CLEITON DE OLIVEIRA",
+  "numero": 43700,
+  "partido": "PV",
+  "coligacao": "FEDERAÇÃO BRASIL DA ESPERANÇA - FE BRASIL(13-PT/65-PC do B/43-PV)",
+  "situacao": "Deferido",
+  "ocupacao": "Professor de Ensino Médio",
+  "incumbente": true,
+  "arrecadado": 387020,
+  "anteriores": [
+   {
+    "ano": 2022,
+    "cargo": "Deputado Estadual",
+    "local": "MINAS GERAIS",
+    "partido": "PV",
+    "resultado": "Eleito por QP"
+   },
+   {
+    "ano": 2018,
+    "cargo": "Deputado Estadual",
+    "local": "MINAS GERAIS",
+    "partido": "DC",
+    "resultado": "Eleito por QP"
+   }
+  ],
+  "sites": [
+   "HTTPS://X.COM/DEPPROFCLEITON",
+   "HTTPS://WWW.THREADS.COM/@DEPPROFESSORCLEITON",
+   "HTTPS://WWW.TIKTOK.COM/@PROFESSORCLEITONOLIVEIRA",
+   "HTTPS://WWW.PROFESSORCLEITON.COM.BR/",
+   "HTTPS://WWW.FACEBOOK.COM/PROFESSOR.CLEITON.RCC/",
+   "HTTPS://WWW.YOUTUBE.COM/@PROFESSORCLEITON",
+   "HTTPS://WWW.INSTAGRAM.COM/DEPPROFESSORCLEITON/",
+   "HTTPS://WWW.FLICKR.COM/PHOTOS/196271699@N05/"
+  ]
+ },
+ {
+  "id": 130002535370,
+  "cargoCod": 7,
+  "cargo": "Deputado Estadual",
+  "nomeUrna": "CELINHO SINTROCEL",
+  "nomeCompleto": "JOSE CELIO DE ALVARENGA",
+  "numero": 65112,
+  "partido": "PCDOB",
+  "coligacao": "FEDERAÇÃO BRASIL DA ESPERANÇA - FE BRASIL(13-PT/65-PC do B/43-PV)",
+  "situacao": "Deferido",
+  "ocupacao": "Auxiliar de Escritório e Assemelhados",
+  "incumbente": true,
+  "arrecadado": 373710,
+  "anteriores": [
+   {
+    "ano": 2022,
+    "cargo": "Deputado Estadual",
+    "local": "MINAS GERAIS",
+    "partido": "PC do B",
+    "resultado": "Eleito por média"
+   },
+   {
+    "ano": 2018,
+    "cargo": "Deputado Estadual",
+    "local": "MINAS GERAIS",
+    "partido": "PC do B",
+    "resultado": "Eleito por QP"
+   },
+   {
+    "ano": 2016,
+    "cargo": "Prefeito",
+    "local": "CORONEL FABRICIANO",
+    "partido": "PC do B",
+    "resultado": "Não eleito"
+   },
+   {
+    "ano": 2014,
+    "cargo": "Deputado Estadual",
+    "local": "MINAS GERAIS",
+    "partido": "PC do B",
+    "resultado": "Eleito por QP"
+   }
+  ],
+  "sites": [
+   "https://HTTPS:WWW.INSTAGRAM.COM/DEPUTADOCELINHO",
+   "HTTPS://WWW.YOUTUBE.COM/@DEPCELINHOSINTTROCEL",
+   "HTTP://WWW.CELINHOSINTTROCEL.COM.BR/",
+   "https://HTTPS:WWW.FACEBOOK.COM/DEPUTADOCELINHO"
+  ]
+ },
+ {
+  "id": 130002540603,
+  "cargoCod": 7,
+  "cargo": "Deputado Estadual",
+  "nomeUrna": "LEONÍDIO BOUÇAS",
+  "nomeCompleto": "LEONIDIO HENRIQUE CORREA BOUCAS",
+  "numero": 45999,
+  "partido": "PSDB",
+  "coligacao": "FEDERAÇÃO PSDB CIDADANIA(45-PSDB/23-CIDADANIA)",
+  "situacao": "Deferido",
+  "ocupacao": "Empresário",
+  "incumbente": true,
+  "arrecadado": 358000,
+  "anteriores": [
+   {
+    "ano": 2024,
+    "cargo": "Prefeito",
+    "local": "UBERLÂNDIA",
+    "partido": "PSDB",
+    "resultado": "Não eleito"
+   },
+   {
+    "ano": 2022,
+    "cargo": "Deputado Estadual",
+    "local": "MINAS GERAIS",
+    "partido": "PSDB",
+    "resultado": "Eleito por QP"
+   },
+   {
+    "ano": 2018,
+    "cargo": "Deputado Estadual",
+    "local": "MINAS GERAIS",
+    "partido": "MDB",
+    "resultado": "Eleito por QP"
+   },
+   {
+    "ano": 2014,
+    "cargo": "Deputado Estadual",
+    "local": "MINAS GERAIS",
+    "partido": "PMDB",
+    "resultado": "Eleito por média"
+   }
+  ],
+  "sites": [
+   "https://www.instagram.com/leonidioboucas/",
+   "https://www.facebook.com/leonidioboucas/",
+   "https://www.tiktok.com/@leonidioboucas?_r=1&_t=ZS-98zhsNTZZyf",
+   "HTTPS://WWW.INSTAGRAM.COM/LEONIDIOBOUCAS/",
+   "https://twitter.com/leonidio_boucas?utm_source=chatgpt.com",
+   "https://www.instagram.com/leonidioboucas.reserva/",
+   "http://www.youtube.com/@leonidioboucas45999"
+  ]
+ },
+ {
+  "id": 130002544380,
+  "cargoCod": 7,
+  "cargo": "Deputado Estadual",
+  "nomeUrna": "BIM DA AMBULÂNCIA",
+  "nomeCompleto": "RUBENS GONCALVES DE BRITO",
+  "numero": 70193,
+  "partido": "AVANTE",
+  "coligacao": "AVANTE",
+  "situacao": "Deferido",
+  "ocupacao": "Empresário",
+  "incumbente": true,
+  "arrecadado": 353700.77,
+  "anteriores": [
+   {
+    "ano": 2022,
+    "cargo": "Deputado Estadual",
+    "local": "MINAS GERAIS",
+    "partido": "AVANTE",
+    "resultado": "Eleito por QP"
+   },
+   {
+    "ano": 2020,
+    "cargo": "Vereador",
+    "local": "BELO HORIZONTE",
+    "partido": "PSD",
+    "resultado": "Eleito por QP"
+   },
+   {
+    "ano": 2018,
+    "cargo": "Deputado Estadual",
+    "local": "MINAS GERAIS",
+    "partido": "PSDB",
+    "resultado": "Suplente"
+   },
+   {
+    "ano": 2016,
+    "cargo": "Vereador",
+    "local": "BELO HORIZONTE",
+    "partido": "PSDB",
+    "resultado": "Eleito por QP"
+   }
+  ],
+  "sites": []
+ },
+ {
+  "id": 130002539884,
+  "cargoCod": 7,
+  "cargo": "Deputado Estadual",
+  "nomeUrna": "MAURO TRAMONTE",
+  "nomeCompleto": "MAURO HENRIQUE TRAMONTE",
+  "numero": 10800,
+  "partido": "REPUBLICANOS",
+  "coligacao": "REPUBLICANOS",
+  "situacao": "Deferido",
+  "ocupacao": "Deputado",
+  "incumbente": true,
+  "arrecadado": 313417.5,
+  "anteriores": [
+   {
+    "ano": 2024,
+    "cargo": "Prefeito",
+    "local": "BELO HORIZONTE",
+    "partido": "REPUBLICANOS",
+    "resultado": "Não eleito"
+   },
+   {
+    "ano": 2022,
+    "cargo": "Deputado Estadual",
+    "local": "MINAS GERAIS",
+    "partido": "REPUBLICANOS",
+    "resultado": "Eleito por QP"
+   },
+   {
+    "ano": 2018,
+    "cargo": "Deputado Estadual",
+    "local": "MINAS GERAIS",
+    "partido": "PRB",
+    "resultado": "Eleito por QP"
+   },
+   {
+    "ano": 2004,
+    "cargo": "Vereador",
+    "local": "POÇOS DE CALDAS",
+    "partido": "PMDB",
+    "resultado": "Suplente"
+   }
+  ],
+  "sites": [
+   "https://www.instagram.com/maurotramontereal/",
+   "https://www.facebook.com/maurotramonteoficial",
+   "https://x.com/maurotramonte",
+   "https://www.kwai.com/@maurotramonte002",
+   "https://linktr.ee/maurotramontereal",
+   "https://www.tiktok.com/@maurotramonte",
+   "https://www.kwai.com/@maurotramonte"
+  ]
+ },
+ {
+  "id": 130002535376,
+  "cargoCod": 7,
+  "cargo": "Deputado Estadual",
+  "nomeUrna": "RICARDO CAMPOS",
+  "nomeCompleto": "RICARDO AUGUSTO DA COSTA CAMPOS",
+  "numero": 13789,
+  "partido": "PT",
+  "coligacao": "FEDERAÇÃO BRASIL DA ESPERANÇA - FE BRASIL(13-PT/65-PC do B/43-PV)",
+  "situacao": "Deferido",
+  "ocupacao": "Deputado",
+  "incumbente": true,
+  "arrecadado": 290937.75,
+  "anteriores": [
+   {
+    "ano": 2022,
+    "cargo": "Deputado Estadual",
+    "local": "MINAS GERAIS",
+    "partido": "PT",
+    "resultado": "Eleito por média"
+   }
+  ],
+  "sites": [
+   "HTTPS://WWW.INSTAGRAM.COM/RICARDOCAMPOSDEPUTADO/",
+   "HTTPS://WWW.THREADS.COM/@RICARDOCAMPOSDEPUTADO",
+   "HTTPS://WWW.FLICKR.COM/PHOTOS/RICARDOCAMPOSDEPUTADO/",
+   "HTTPS://RICARDOCAMPOSDEPUTADO.COM",
+   "HTTPS://WWW.FACEBOOK.COM/RICARDOCAMPOSDEPUTADO",
+   "HTTPS://WWW.YOUTUBE.COM/@RICARDOCAMPOSDEPUTADO"
+  ]
+ },
+ {
+  "id": 130002549948,
+  "cargoCod": 7,
+  "cargo": "Deputado Estadual",
+  "nomeUrna": "DELEGADO CHRISTIANO XAVIER",
+  "nomeCompleto": "CHRISTIANO AUGUSTO XAVIER FERREIRA",
+  "numero": 55555,
+  "partido": "PSD",
+  "coligacao": "PSD",
+  "situacao": "Deferido",
+  "ocupacao": "Deputado",
+  "incumbente": true,
+  "arrecadado": 259500,
+  "anteriores": [
+   {
+    "ano": 2022,
+    "cargo": "Deputado Estadual",
+    "local": "MINAS GERAIS",
+    "partido": "PSD",
+    "resultado": "Eleito por QP"
+   },
+   {
+    "ano": 2020,
+    "cargo": "Prefeito",
+    "local": "SANTA LUZIA",
+    "partido": "PSD",
+    "resultado": "Eleito"
+   },
+   {
+    "ano": 2016,
+    "cargo": "Prefeito",
+    "local": "SANTA LUZIA",
+    "partido": "PSD",
+    "resultado": "Não eleito"
+   },
+   {
+    "ano": 2016,
+    "cargo": "Prefeito",
+    "local": "SANTA LUZIA",
+    "partido": "PSD",
+    "resultado": "Eleito"
+   }
+  ],
+  "sites": [
+   "https://WWW.TIKTOK.COM/@DELEGADOCHRISTIANOXAVIER",
+   "https://WWW.INSTAGRAN.COM/MANDATO.DELCHRISTIANOXAVIER/",
+   "HTTPS://WWW.INSTAGRAM.COM/CHRISDELEGA/",
+   "https://WWW.FACEBOOK.COM/CHRISDELEGA/",
+   "https://WWW.YOUTUBE.COM/@PODCASTDODELEGA8530/SHORTS"
+  ]
+ },
+ {
+  "id": 130002542758,
+  "cargoCod": 7,
+  "cargo": "Deputado Estadual",
+  "nomeUrna": "PROFESSOR WENDEL MESQUITA",
+  "nomeCompleto": "WENDEL CRISTIANO SOARES DE MESQUITA",
+  "numero": 44777,
+  "partido": "UNIÃO",
+  "coligacao": "FEDERAÇÃO UNIÃO PROGRESSISTA(44-UNIÃO/11-PP)",
+  "situacao": "Deferido",
+  "ocupacao": "Deputado",
+  "incumbente": true,
+  "arrecadado": 251125,
+  "anteriores": [
+   {
+    "ano": 2022,
+    "cargo": "Deputado Estadual",
+    "local": "MINAS GERAIS",
+    "partido": "SOLIDARIEDADE",
+    "resultado": "Eleito por QP"
+   },
+   {
+    "ano": 2020,
+    "cargo": "Prefeito",
+    "local": "BELO HORIZONTE",
+    "partido": "SOLIDARIEDADE",
+    "resultado": "Não eleito"
+   },
+   {
+    "ano": 2018,
+    "cargo": "Deputado Estadual",
+    "local": "MINAS GERAIS",
+    "partido": "SOLIDARIEDADE",
+    "resultado": "Eleito por QP"
+   },
+   {
+    "ano": 2016,
+    "cargo": "Vereador",
+    "local": "BELO HORIZONTE",
+    "partido": "PSB",
+    "resultado": "Eleito por QP"
+   }
+  ],
+  "sites": [
+   "HTTPS://WWW.FACEBOOK.COM/WENDELMESQUITAMG/",
+   "https://@PROFESSORWENDEL"
+  ]
+ },
+ {
+  "id": 130002549966,
+  "cargoCod": 7,
+  "cargo": "Deputado Estadual",
+  "nomeUrna": "DOUTOR WILSON BATISTA",
+  "nomeCompleto": "WILSON ROBERTO BATISTA",
+  "numero": 55123,
+  "partido": "PSD",
+  "coligacao": "PSD",
+  "situacao": "Deferido",
+  "ocupacao": "Médico",
+  "incumbente": true,
+  "arrecadado": 240896.79,
+  "anteriores": [
+   {
+    "ano": 2022,
+    "cargo": "Deputado Estadual",
+    "local": "MINAS GERAIS",
+    "partido": "PSD",
+    "resultado": "Eleito por QP"
+   },
+   {
+    "ano": 2018,
+    "cargo": "Deputado Estadual",
+    "local": "MINAS GERAIS",
+    "partido": "PSD",
+    "resultado": "Eleito por QP"
+   },
+   {
+    "ano": 2014,
+    "cargo": "Deputado Estadual",
+    "local": "MINAS GERAIS",
+    "partido": "PSD",
+    "resultado": "Eleito por QP"
+   },
+   {
+    "ano": 2010,
+    "cargo": "Deputado Estadual",
+    "local": "MINAS GERAIS",
+    "partido": "PSL",
+    "resultado": "Eleito"
+   }
+  ],
+  "sites": [
+   "https://FACEBOOK: DEPUTADODOUTORWILSONBATISTA",
+   "https://www.instagram.com/drwilsonbatista/",
+   "https://WWW.DEPUTADOWILSONBATISTA.COM.BR"
+  ]
+ },
+ {
+  "id": 130002534569,
+  "cargoCod": 7,
+  "cargo": "Deputado Estadual",
+  "nomeUrna": "DR. MAURÍCIO",
+  "nomeCompleto": "MAURÍCIO LEMES DE CARVALHO",
+  "numero": 30230,
+  "partido": "NOVO",
+  "coligacao": "NOVO",
+  "situacao": "Deferido",
+  "ocupacao": "Médico",
+  "incumbente": true,
+  "arrecadado": 238700,
+  "anteriores": [
+   {
+    "ano": 2022,
+    "cargo": "Deputado Estadual",
+    "local": "MINAS GERAIS",
+    "partido": "NOVO",
+    "resultado": "Eleito por QP"
+   },
+   {
+    "ano": 2016,
+    "cargo": "Prefeito",
+    "local": "OURO FINO",
+    "partido": "PMDB",
+    "resultado": "Eleito"
+   },
+   {
+    "ano": 2012,
+    "cargo": "Prefeito",
+    "local": "OURO FINO",
+    "partido": "PMDB",
+    "resultado": "Eleito"
+   },
+   {
+    "ano": 2008,
+    "cargo": "Prefeito",
+    "local": "OURO FINO",
+    "partido": "PHS",
+    "resultado": "Não eleito"
+   }
+  ],
+  "sites": [
+   "https://www.youtube.com/@dep.dr.mauricio",
+   "https://www.instagram.com/drmauricio/",
+   "HTTPS://WWW.FACEBOOK.COM/DEP.DR.MAURICIO/?REF=PROFILE_EDIT_XAV_IG_PROFILE_PAGE_W",
+   "https://www.facebook.com/dep.dr.mauricio/",
+   "HTTPS://WWW.INSTAGRAM.COM/DRMAURICIO/?HL=PT"
+  ]
+ },
+ {
+  "id": 130002534510,
+  "cargoCod": 7,
+  "cargo": "Deputado Estadual",
+  "nomeUrna": "ZÉ LAVIOLA",
+  "nomeCompleto": "JOSE LAVIOLA NETO DE LIRA",
+  "numero": 30011,
+  "partido": "NOVO",
+  "coligacao": "NOVO",
+  "situacao": "Deferido",
+  "ocupacao": "Produtor Agropecuário",
+  "incumbente": true,
+  "arrecadado": 154000,
+  "anteriores": [
+   {
+    "ano": 2022,
+    "cargo": "Deputado Estadual",
+    "local": "MINAS GERAIS",
+    "partido": "NOVO",
+    "resultado": "Eleito por QP"
+   }
+  ],
+  "sites": [
+   "HTTPS://WWW.FACEBOOK.COM/JOSE.LAVIOLA.7",
+   "https://www.threads.net/@joselaviola",
+   "HTTPS://WWW.INSTAGRAM.COM/JOSELAVIOLA",
+   "https://www.facebook.com/joselaviolamg",
+   "HTTPS://WWW.FACEBOOK.COM/JOSELAVIOLAMG",
+   "https://twitter.com/joselaviola",
+   "https://www.linkedin.com/in/joselaviola",
+   "HTTPS://ZELAVIOLA.COM.BR",
+   "https://zelaviola.com.br/",
+   "https://www.tiktok.com/@joselaviola",
+   "https://www.facebook.com/jose.laviola.7",
+   "https://www.instagram.com/joselaviola",
+   "https://www.youtube.com/@joselaviola"
+  ]
+ },
+ {
+  "id": 130002549942,
+  "cargoCod": 7,
+  "cargo": "Deputado Estadual",
+  "nomeUrna": "RAFAEL MARTINS",
+  "nomeCompleto": "RAFAEL MARTINS DE SOUZA",
+  "numero": 55031,
+  "partido": "PSD",
+  "coligacao": "PSD",
+  "situacao": "Deferido",
+  "ocupacao": "Deputado",
+  "incumbente": true,
+  "arrecadado": 84058.46,
+  "anteriores": [
+   {
+    "ano": 2022,
+    "cargo": "Deputado Estadual",
+    "local": "MINAS GERAIS",
+    "partido": "PSD",
+    "resultado": "Eleito por média"
+   },
+   {
+    "ano": 2018,
+    "cargo": "Deputado Estadual",
+    "local": "MINAS GERAIS",
+    "partido": "PRTB",
+    "resultado": "Eleito por QP"
+   },
+   {
+    "ano": 2016,
+    "cargo": "Vereador",
+    "local": "BELO HORIZONTE",
+    "partido": "PMDB",
+    "resultado": "Eleito por QP"
+   },
+   {
+    "ano": 2014,
+    "cargo": "Deputado Estadual",
+    "local": "MINAS GERAIS",
+    "partido": "PT do B",
+    "resultado": "Suplente"
+   }
+  ],
+  "sites": [
+   "https://FACEBOOK.COM/RAFAELMARTINSTV",
+   "https://INSTAGRAM.COM/RAFAELMARTINSTV",
+   "http://www.tiktok.com/@rafaelmartinstv",
+   "https://youtube.com/@deputadorafaelmartins?si=PwgaF3lwBfWSm0GJ"
+  ]
+ },
+ {
+  "id": 130002539880,
+  "cargoCod": 7,
+  "cargo": "Deputado Estadual",
+  "nomeUrna": "CHARLES SANTOS",
+  "nomeCompleto": "CHARLES DOS SANTOS",
+  "numero": 10100,
+  "partido": "REPUBLICANOS",
+  "coligacao": "REPUBLICANOS",
+  "situacao": "Deferido",
+  "ocupacao": "Deputado",
+  "incumbente": true,
+  "arrecadado": 20000,
+  "anteriores": [
+   {
+    "ano": 2022,
+    "cargo": "Deputado Estadual",
+    "local": "MINAS GERAIS",
+    "partido": "REPUBLICANOS",
+    "resultado": "Eleito por QP"
+   },
+   {
+    "ano": 2018,
+    "cargo": "Deputado Estadual",
+    "local": "MINAS GERAIS",
+    "partido": "PRB",
+    "resultado": "Eleito por QP"
+   }
+  ],
+  "sites": [
+   "https://www.tiktok.com/@charlessantosmg",
+   "https://www.youtube.com/@charlessantosmg7920",
+   "https://charlessantos.com.br/site/",
+   "https://x.com/charlessantosmg",
+   "https://www.threads.com/@charlessantosmg?xmt=AQG0rHEkD8Y4ymmc5Ycy8TXnu6AE0eETYjMS2prp2bEcUNg",
+   "https://www.facebook.com/charlessantosmg/?ref=NONE_xav_ig_profile_page_web#",
+   "https://www.instagram.com/charlessantosmg/"
+  ]
+ }
+]

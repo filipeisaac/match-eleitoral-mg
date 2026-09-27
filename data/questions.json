@@ -1,0 +1,281 @@
+{
+  "escala": {
+    "1": "Discordo totalmente",
+    "2": "Discordo",
+    "3": "Neutro",
+    "4": "Concordo",
+    "5": "Concordo totalmente"
+  },
+  "secoes": [
+    {
+      "id": "geral",
+      "titulo": "Visão geral",
+      "cargoCod": null,
+      "descricao": "Perguntas sobre valores e prioridades. Elas contam para todos os cargos, porque dizem muito sobre como um político tende a votar em qualquer função.",
+      "perguntas": [
+        {
+          "id": "G01",
+          "texto": "O governo deve cortar gastos e reduzir impostos, mesmo que isso reduza serviços públicos.",
+          "contexto": "Define o tamanho do Estado: menos imposto e menos serviço, ou mais imposto e mais serviço."
+        },
+        {
+          "id": "G02",
+          "texto": "Programas de transferência de renda, como o Bolsa Família, devem ser ampliados.",
+          "contexto": "O Bolsa Família atende cerca de 19 milhões de famílias e é um dos maiores gastos sociais do orçamento federal."
+        },
+        {
+          "id": "G03",
+          "texto": "Empresas estatais devem ser privatizadas sempre que possível.",
+          "contexto": "Inclui empresas federais como Correios e Petrobras e estaduais como a Cemig. A Copasa, de saneamento, foi privatizada em 2026."
+        },
+        {
+          "id": "G04",
+          "texto": "Deve ser mais fácil para um cidadão comum comprar e portar arma de fogo.",
+          "contexto": "As regras ficaram mais flexíveis entre 2019 e 2022 e voltaram a ser restringidas a partir de 2023."
+        },
+        {
+          "id": "G05",
+          "texto": "O aborto deve deixar de ser crime.",
+          "contexto": "Hoje o aborto só é permitido em caso de estupro, risco de vida para a mulher ou anencefalia do feto."
+        },
+        {
+          "id": "G06",
+          "texto": "Portar maconha para uso pessoal não deve ser crime.",
+          "contexto": "Em 2024 o STF definiu que portar maconha para uso pessoal é infração administrativa, não crime, e fixou 40 gramas como referência. Uma PEC que criminaliza o porte de qualquer quantidade já passou no Senado e está na Câmara."
+        },
+        {
+          "id": "G07",
+          "texto": "Quando entram em conflito, a proteção ambiental deve vir antes da expansão do agronegócio e da mineração.",
+          "contexto": "Minas é o maior estado minerador do país e viveu os desastres de Mariana (2015) e Brumadinho (2019)."
+        },
+        {
+          "id": "G08",
+          "texto": "Os condenados pelos atos de 8 de janeiro de 2023 devem receber anistia.",
+          "contexto": "Mais de 1.300 pessoas foram condenadas pelo STF pela invasão das sedes dos Três Poderes. Em 2026 o Congresso aprovou a redução de penas para parte delas; propostas de anistia ampla não foram aprovadas."
+        },
+        {
+          "id": "G09",
+          "texto": "O STF tem ultrapassado os limites dos seus poderes.",
+          "contexto": "Críticos apontam decisões que invadiriam o papel do Congresso; defensores dizem que o tribunal protegeu a democracia."
+        },
+        {
+          "id": "G10",
+          "texto": "Redes sociais devem ser responsabilizadas quando não removem conteúdo criminoso publicado por usuários.",
+          "contexto": "Em 2025 o STF ampliou a responsabilidade das plataformas e, em 2026, ajustou a regra para casos de falha sistêmica. Críticos veem risco à liberdade de expressão."
+        },
+        {
+          "id": "G11",
+          "texto": "As cotas raciais em universidades e concursos públicos devem ser mantidas.",
+          "contexto": "As cotas nas universidades federais foram renovadas em 2023, e as de concursos federais em 2025, quando subiram para 30%. As duas leis preveem revisão em 10 anos."
+        },
+        {
+          "id": "G12",
+          "texto": "A maioridade penal deve ser reduzida para 16 anos.",
+          "contexto": "Hoje menores de 18 anos respondem pelo ECA, com medidas socioeducativas de até 3 anos de internação."
+        },
+        {
+          "id": "G13",
+          "texto": "Valores religiosos devem ter peso na elaboração das leis.",
+          "contexto": "O Brasil é um Estado laico, mas as frentes parlamentares religiosas estão entre as maiores do Congresso."
+        },
+        {
+          "id": "G14",
+          "texto": "A jornada de trabalho deve ser reduzida, com o fim da escala 6x1, mesmo que isso aumente o custo para as empresas.",
+          "contexto": "A escala 6x1 tem seis dias de trabalho para um de folga. Em 2026 a Câmara aprovou uma PEC que reduz a jornada para 40 horas semanais, com duas folgas; ela aguarda o plenário do Senado."
+        }
+      ]
+    },
+    {
+      "id": "presidente",
+      "titulo": "Presidente",
+      "cargoCod": 1,
+      "vagas": 1,
+      "mostrar": 3,
+      "descricao": "Chefia o governo federal e representa o país. Sanciona ou veta as leis aprovadas pelo Congresso, edita medidas provisórias, envia o orçamento da União, nomeia os ministros, indica os ministros do STF (que o Senado precisa aprovar), comanda as Forças Armadas e conduz a política externa. Mandato de 4 anos, com direito a uma reeleição.",
+      "perguntas": [
+        {
+          "id": "P01",
+          "texto": "O governo federal deve priorizar zerar o déficit das contas públicas, mesmo que isso limite investimentos e programas sociais.",
+          "contexto": "O arcabouço fiscal limita o crescimento dos gastos e fixa metas de resultado."
+        },
+        {
+          "id": "P02",
+          "texto": "Quem ganha mais de R$ 50 mil por mês deve pagar mais imposto de renda.",
+          "contexto": "Desde 2026 quem ganha até R$ 5 mil não paga IR, e há um imposto mínimo para rendas acima de R$ 600 mil por ano (R$ 50 mil por mês). A pergunta é se essa cobrança deve ser mantida ou ampliada."
+        },
+        {
+          "id": "P03",
+          "texto": "Nas relações internacionais, o Brasil deve se aproximar mais dos Estados Unidos do que da China e dos BRICS.",
+          "contexto": "A China é o maior comprador de produtos brasileiros; os EUA aplicaram tarifas extras sobre produtos do Brasil em 2025 e novamente em 2026."
+        },
+        {
+          "id": "P04",
+          "texto": "O Banco Central deve continuar autônomo, sem interferência do presidente na definição dos juros.",
+          "contexto": "A autonomia foi aprovada em 2021: o presidente do BC tem mandato fixo que não coincide com o do presidente da República."
+        },
+        {
+          "id": "P05",
+          "texto": "Os preços dos combustíveis da Petrobras devem acompanhar o mercado internacional.",
+          "contexto": "Seguir o preço internacional protege o caixa da empresa; segurar o preço alivia o consumidor, mas pode gerar prejuízo."
+        },
+        {
+          "id": "P06",
+          "texto": "O governo deve investir e dar crédito subsidiado para desenvolver setores estratégicos da indústria.",
+          "contexto": "É a chamada política industrial, feita por exemplo via BNDES. Críticos dizem que o mercado aloca melhor os recursos."
+        }
+      ]
+    },
+    {
+      "id": "governador",
+      "titulo": "Governador de Minas",
+      "cargoCod": 3,
+      "vagas": 1,
+      "mostrar": 3,
+      "descricao": "Chefia o governo de Minas Gerais. Comanda as polícias Militar e Civil e os presídios, mantém as escolas estaduais (sobretudo o ensino médio) e a rede estadual de hospitais, cuida das rodovias estaduais e arrecada o ICMS, o principal imposto do estado. Define o orçamento com a Assembleia e sanciona ou veta as leis estaduais. Minas deve cerca de R$ 186 bilhões à União, renegociados em 30 anos em 2025, o que limita o que o governador pode gastar.",
+      "perguntas": [
+        {
+          "id": "GV01",
+          "texto": "A Cemig deve ser privatizada.",
+          "contexto": "A Cemig distribui energia em quase todo o estado e é controlada pelo governo de Minas. A Copasa, de saneamento, já foi privatizada em junho de 2026."
+        },
+        {
+          "id": "GV02",
+          "texto": "Policiais militares devem usar câmeras corporais durante o serviço.",
+          "contexto": "Defensores citam a redução da letalidade policial; críticos falam em custo e em exposição dos policiais."
+        },
+        {
+          "id": "GV03",
+          "texto": "As regras para mineração e barragens em Minas devem ser mais rígidas, mesmo que isso reduza investimentos.",
+          "contexto": "A mineração responde por boa parte da arrecadação e dos empregos em várias cidades mineiras."
+        },
+        {
+          "id": "GV04",
+          "texto": "O estado deve dar reajustes acima da inflação a professores e servidores, mesmo com as contas apertadas.",
+          "contexto": "Servidores estaduais tiveram longos períodos sem reposição salarial nos últimos anos."
+        },
+        {
+          "id": "GV05",
+          "texto": "Minas deve reduzir o ICMS para atrair empresas, mesmo perdendo arrecadação no curto prazo.",
+          "contexto": "O ICMS é a principal receita do estado. Com a reforma tributária, ele e seus incentivos começam a ser substituídos a partir de 2029 e deixam de existir em 2033."
+        },
+        {
+          "id": "GV06",
+          "texto": "O modelo de escolas cívico-militares deve ser ampliado na rede estadual.",
+          "contexto": "Nessas escolas, militares atuam na gestão disciplinar e professores civis cuidam do ensino. A Justiça mandou encerrar as 9 escolas estaduais do modelo em 2026, e a ALMG analisa projetos para recriá-lo."
+        }
+      ]
+    },
+    {
+      "id": "senador",
+      "titulo": "Senador",
+      "cargoCod": 5,
+      "vagas": 2,
+      "mostrar": 4,
+      "descricao": "O Senado tem 81 senadores, três por estado, com mandato de 8 anos. Em 2026 cada estado elege dois, por isso você vota em dois candidatos diferentes. Os senadores votam leis e emendas à Constituição junto com a Câmara, aprovam ou rejeitam os ministros do STF, o procurador-geral da República, os diretores do Banco Central e os embaixadores, julgam o presidente e os ministros do STF em processos de impeachment e autorizam empréstimos de estados e municípios.",
+      "perguntas": [
+        {
+          "id": "S01",
+          "texto": "O Senado deve dar andamento a pedidos de impeachment de ministros do STF.",
+          "contexto": "Só o Senado pode processar ministros do STF por crime de responsabilidade. Hoje, por decisão provisória do STF, abrir o processo exige dois terços dos senadores. Nenhum pedido foi levado adiante até hoje."
+        },
+        {
+          "id": "S02",
+          "texto": "Ministros do STF devem ter mandato com prazo fixo, em vez de ficar no cargo até os 75 anos.",
+          "contexto": "Várias propostas sugerem mandatos de 8 a 15 anos."
+        },
+        {
+          "id": "S03",
+          "texto": "Decisões individuais de ministros do STF que suspendem leis aprovadas pelo Congresso devem ser proibidas.",
+          "contexto": "O Senado aprovou em 2023 uma PEC nesse sentido, que ainda depende da Câmara."
+        },
+        {
+          "id": "S04",
+          "texto": "O foro privilegiado para políticos deve acabar.",
+          "contexto": "Hoje deputados, senadores e ministros de Estado são julgados pelo STF por crimes cometidos no cargo e ligados à função, mesmo depois de deixarem o cargo."
+        },
+        {
+          "id": "S05",
+          "texto": "A reeleição para presidente, governador e prefeito deve acabar.",
+          "contexto": "Propostas em discussão trocam a reeleição por um mandato único de 5 anos."
+        }
+      ]
+    },
+    {
+      "id": "deputado_federal",
+      "titulo": "Deputado federal",
+      "cargoCod": 6,
+      "vagas": 53,
+      "mostrar": 3,
+      "descricao": "A Câmara tem 513 deputados, e Minas elege 53, a segunda maior bancada do país. O mandato é de 4 anos, em Brasília. Os deputados propõem e votam leis federais e emendas à Constituição, votam o orçamento da União e indicam emendas parlamentares (verbas para obras e serviços nas suas regiões). Junto com o Senado, podem derrubar vetos do presidente. A Câmara também autoriza a abertura de impeachment do presidente e fiscaliza o governo com CPIs.",
+      "votoProporcional": "O voto para deputado é proporcional: ele conta primeiro para o partido ou federação do candidato, que conquista cadeiras conforme o total de votos recebidos. Só depois as cadeiras vão para os mais votados de cada partido. Votar num candidato também ajuda a eleger colegas de partido dele.",
+      "perguntas": [
+        {
+          "id": "DF01",
+          "texto": "Emendas parlamentares devem ser reduzidas e ter regras de transparência mais rígidas.",
+          "contexto": "As emendas somam dezenas de bilhões por ano. O STF cobrou mais transparência depois do chamado orçamento secreto."
+        },
+        {
+          "id": "DF02",
+          "texto": "Deputados e senadores só devem ser processados criminalmente com autorização do Congresso.",
+          "contexto": "É o tema da chamada PEC da Blindagem, aprovada pela Câmara e rejeitada na CCJ do Senado, que a arquivou, em 2025."
+        },
+        {
+          "id": "DF03",
+          "texto": "Terras indígenas só devem ser demarcadas se estavam ocupadas pelos indígenas em 1988.",
+          "contexto": "É a tese do marco temporal. O Congresso a aprovou em lei em 2023, o STF a declarou inconstitucional em 2025, e uma PEC para incluí-la na Constituição, já aprovada pelo Senado, está na Câmara."
+        },
+        {
+          "id": "DF04",
+          "texto": "O licenciamento ambiental deve ser simplificado para acelerar obras e empreendimentos.",
+          "contexto": "A nova Lei Geral do Licenciamento foi aprovada em 2025. Críticos a chamaram de PL da Devastação."
+        },
+        {
+          "id": "DF05",
+          "texto": "O fundo eleitoral, que financia as campanhas com dinheiro público, deve ser reduzido.",
+          "contexto": "O fundo eleitoral é dividido entre os partidos. Em 2026 é de cerca de R$ 4,9 bilhões, o mesmo valor de 2022."
+        },
+        {
+          "id": "DF06",
+          "texto": "A saída temporária de presos (saidinha) deve acabar.",
+          "contexto": "Em 2024 o Congresso restringiu o benefício e derrubou o veto parcial do presidente."
+        }
+      ]
+    },
+    {
+      "id": "deputado_estadual",
+      "titulo": "Deputado estadual",
+      "cargoCod": 7,
+      "vagas": 77,
+      "mostrar": 3,
+      "descricao": "A Assembleia Legislativa de Minas (ALMG) tem 77 deputados, com mandato de 4 anos, em Belo Horizonte. Eles fazem as leis estaduais, votam o orçamento do estado, fiscalizam o governador, abrem CPIs, julgam as contas do governo e decidem sobre temas como a venda de estatais mineiras. Podem também abrir processo de impeachment do governador. Leis penais e impostos federais não são com eles.",
+      "votoProporcional": "O voto para deputado estadual também é proporcional: conta primeiro para o partido ou federação do candidato e só depois define quem ocupa as cadeiras conquistadas.",
+      "perguntas": [
+        {
+          "id": "DE01",
+          "texto": "Vender estatais mineiras, como a Cemig, deve exigir aprovação da população em referendo.",
+          "contexto": "A Constituição de Minas exige referendo para vender a Cemig e a Gasmig. Em 2025 a ALMG retirou essa exigência para a Copasa, que foi vendida em 2026; a mudança é questionada no STF."
+        },
+        {
+          "id": "DE02",
+          "texto": "O piso salarial nacional dos professores deve ser pago integralmente na rede estadual, mesmo que isso exija cortar outras despesas.",
+          "contexto": "O pagamento do piso na rede mineira é uma disputa antiga entre sindicatos e governo."
+        },
+        {
+          "id": "DE03",
+          "texto": "Regiões mais pobres, como o Norte de Minas e os vales do Jequitinhonha e do Mucuri, devem receber uma fatia maior do orçamento estadual.",
+          "contexto": "Minas tem grandes desigualdades regionais de renda e de acesso a serviços."
+        },
+        {
+          "id": "DE04",
+          "texto": "O transporte metropolitano da Grande BH deve ter tarifa subsidiada pelo governo do estado.",
+          "contexto": "Os ônibus metropolitanos são de responsabilidade do estado, e o preço da passagem é uma queixa frequente."
+        },
+        {
+          "id": "DE05",
+          "texto": "O estado deve colocar mais dinheiro em segurança pública, mesmo que isso tire recursos de outras áreas.",
+          "contexto": "O estado comanda as polícias Militar e Civil e o sistema prisional, e disputa recursos com saúde e educação num orçamento apertado pela dívida."
+        }
+      ]
+    }
+  ]
+}

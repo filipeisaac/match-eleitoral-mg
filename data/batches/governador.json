@@ -1,0 +1,510 @@
+[
+ {
+  "id": 130002539775,
+  "cargoCod": 3,
+  "cargo": "Governador",
+  "nomeUrna": "ALEXANDRE KALIL",
+  "nomeCompleto": "ALEXANDRE KALIL",
+  "numero": 12,
+  "partido": "PDT",
+  "coligacao": "CUIDAR DE MINAS",
+  "situacao": "Deferido",
+  "ocupacao": "Outros",
+  "incumbente": false,
+  "arrecadado": null,
+  "anteriores": [
+   {
+    "ano": 2022,
+    "cargo": "Governador",
+    "local": "MINAS GERAIS",
+    "partido": "PSD",
+    "resultado": "Não eleito"
+   },
+   {
+    "ano": 2020,
+    "cargo": "Prefeito",
+    "local": "BELO HORIZONTE",
+    "partido": "PSD",
+    "resultado": "Eleito"
+   },
+   {
+    "ano": 2016,
+    "cargo": "Prefeito",
+    "local": "BELO HORIZONTE",
+    "partido": "PHS",
+    "resultado": "2º turno"
+   },
+   {
+    "ano": 2014,
+    "cargo": "Deputado Federal",
+    "local": "MINAS GERAIS",
+    "partido": "PSB",
+    "resultado": "Não eleito"
+   }
+  ],
+  "sites": [
+   "https://www.tiktok.com/@alexandrekaliloficial",
+   "https://www.kalilmg.com.br",
+   "https://www.twibbonize.com/timekalil?utm_source=ig&utm_medium=social&utm_content=link_in_bio",
+   "https://www.youtube.com/@alexandrekalil3080/featured",
+   "https://k.kwai.com/u/@alexandre.kalil/Pt5mA8CV",
+   "https://chat.whatsapp.com/Hg76EUcgXo35Rs6Qknqu6l",
+   "https://chat.whatsapp.com/LhOHhAG52fi5zn6hBtlIiD",
+   "https://www.facebook.com/AlexandreKaliloficial",
+   "https://www.threads.com/@alexandrekaliloficial",
+   "https://www.kalil12.com.br",
+   "https://x.com/alexandrekalil",
+   "https://www.instagram.com/alexandrekaliloficial",
+   "https://linktr.ee/alexandre.kalil",
+   "https://www.flickr.com/photos/204785450@N08/"
+  ]
+ },
+ {
+  "id": 130002544411,
+  "cargoCod": 3,
+  "cargo": "Governador",
+  "nomeUrna": "BEN MENDES",
+  "nomeCompleto": "BENONI BENJAMIN CARDOSO MENDES",
+  "numero": 14,
+  "partido": "MISSÃO",
+  "coligacao": "MISSÃO",
+  "situacao": "Deferido",
+  "ocupacao": "Advogado",
+  "incumbente": false,
+  "arrecadado": null,
+  "anteriores": [],
+  "sites": [
+   "https://drbenmendes.com/",
+   "https://www.facebook.com/drbenmendes",
+   "https://www.tiktok.com/@adv.benonimendes",
+   "https://instagram.com/drbenonimendes",
+   "https://queroapoiar.com.br/benmendes"
+  ]
+ },
+ {
+  "id": 130002552296,
+  "cargoCod": 3,
+  "cargo": "Governador",
+  "nomeUrna": "CLEITINHO AZEVEDO",
+  "nomeCompleto": "CLEITON GONTIJO DE AZEVEDO",
+  "numero": 10,
+  "partido": "REPUBLICANOS",
+  "coligacao": "MINAS É DO POVO",
+  "situacao": "Deferido",
+  "ocupacao": "Senador",
+  "incumbente": false,
+  "arrecadado": null,
+  "anteriores": [
+   {
+    "ano": 2022,
+    "cargo": "Senador",
+    "local": "MINAS GERAIS",
+    "partido": "PSC",
+    "resultado": "Eleito"
+   },
+   {
+    "ano": 2018,
+    "cargo": "Deputado Estadual",
+    "local": "MINAS GERAIS",
+    "partido": "PPS",
+    "resultado": "Eleito por QP"
+   },
+   {
+    "ano": 2016,
+    "cargo": "Vereador",
+    "local": "DIVINÓPOLIS",
+    "partido": "PPS",
+    "resultado": "Eleito por média"
+   }
+  ],
+  "sites": [
+   "HTTPS://WWW.YOUTUBE.COM/@CLEITINHOAZEVEDOOFICIAL",
+   "HTTPS://WWW.INSTAGRAM.COM/CLEITINHOAZEVEDO",
+   "HTTPS://X.COM/CLEITINHOTMJ",
+   "HTTPS://WWW.CLEITINHO.COM/",
+   "HTTPS://WWW.TIKTOK.COM/@CLEITINHO.OFICIAL",
+   "HTTPS://WEB.FACEBOOK.COM/CLEITINHOSENADOR",
+   "https://www.instagram.com/cleitinhosenadormg/"
+  ]
+ },
+ {
+  "id": 130002550834,
+  "cargoCod": 3,
+  "cargo": "Governador",
+  "nomeUrna": "FLÁVIO ROSCOE",
+  "nomeCompleto": "FLAVIO ROSCOE NOGUEIRA",
+  "numero": 22,
+  "partido": "PL",
+  "coligacao": "PL",
+  "situacao": "Deferido",
+  "ocupacao": "Empresário",
+  "incumbente": false,
+  "arrecadado": null,
+  "anteriores": [],
+  "sites": [
+   "https://www.facebook.com/flavioroscoenogueira/",
+   "https://br.linkedin.com/in/flávio-roscoe-377998300",
+   "https://www.instagram.com/channel/AbaZqg7dbgxxwdhz/",
+   "https://www.instagram.com/ROSCOE.FLAVIO/"
+  ]
+ },
+ {
+  "id": 130002549557,
+  "cargoCod": 3,
+  "cargo": "Governador",
+  "nomeUrna": "GABRIEL",
+  "nomeCompleto": "GABRIEL SOUSA MARQUES DE AZEVEDO",
+  "numero": 15,
+  "partido": "MDB",
+  "coligacao": "MDB",
+  "situacao": "Deferido",
+  "ocupacao": "Professor de Ensino Superior",
+  "incumbente": false,
+  "arrecadado": null,
+  "anteriores": [
+   {
+    "ano": 2024,
+    "cargo": "Prefeito",
+    "local": "BELO HORIZONTE",
+    "partido": "MDB",
+    "resultado": "Não eleito"
+   },
+   {
+    "ano": 2020,
+    "cargo": "Vereador",
+    "local": "BELO HORIZONTE",
+    "partido": "PATRIOTA",
+    "resultado": "Eleito por QP"
+   },
+   {
+    "ano": 2016,
+    "cargo": "Vereador",
+    "local": "BELO HORIZONTE",
+    "partido": "PHS",
+    "resultado": "Eleito por QP"
+   }
+  ],
+  "sites": [
+   "https://gabriel15.com.br/",
+   "https://linktr.ee/gabrielazevedo",
+   "HTTPS://WWW.FACEBOOK.COM/GABRIELAZEVEDO?UTM_SOURCE=IG&UTM_MEDIUM=SOCIAL&UTM_CONT",
+   "HTTPS://X.COM/GSMA1986?FBCLID=PACGRVZGJLEHRUA2FLBQIXMQBZCNRJBMFWCF9PZA85MZY2MTK3",
+   "https://bsky.app/profile/gabrielazevedo.bsky.social",
+   "HTTPS://WWW.THREADS.COM/@GABRIELAZEVEDO?XMT=AQG0DWOJOFHZVOYVGGAOD1YNVIKD_YOUF85W",
+   "HTTPS://GABRIEL15.COM.BR/",
+   "https://gabriel15.com/",
+   "https://central15.live/",
+   "HTTPS://WWW.TIKTOK.COM/@GABRIELAZEVEDO1986",
+   "HTTPS://WWW.INSTAGRAM.COM/GABRIELAZEVEDO/",
+   "https://www.youtube.com/@gabrieldeazevedo",
+   "https://x.com/oGabrielAzevedo",
+   "https://gabriel15.app/"
+  ]
+ },
+ {
+  "id": 130002552308,
+  "cargoCod": 3,
+  "cargo": "Governador",
+  "nomeUrna": "HENRIQUE ÁREAS",
+  "nomeCompleto": "HENRIQUE AREAS DE ARAUJO",
+  "numero": 29,
+  "partido": "PCO",
+  "coligacao": "PCO",
+  "situacao": "Indeferido em prazo recursal ou com recurso",
+  "ocupacao": "Jornalista e Redator",
+  "incumbente": false,
+  "arrecadado": null,
+  "anteriores": [
+   {
+    "ano": 2020,
+    "cargo": "Vice-prefeito",
+    "local": "SÃO PAULO",
+    "partido": "PCO",
+    "resultado": "Não eleito"
+   },
+   {
+    "ano": 2018,
+    "cargo": "Deputado Federal",
+    "local": "SÃO PAULO",
+    "partido": "PCO",
+    "resultado": "Não eleito"
+   },
+   {
+    "ano": 2016,
+    "cargo": "Prefeito",
+    "local": "SÃO PAULO",
+    "partido": "PCO",
+    "resultado": "Não eleito"
+   }
+  ],
+  "sites": [
+   "https://www.instagram.com/henriqueareasaraujo",
+   "HTTPS://CANDIDATOS.PCO.ORG.BR",
+   "https://x.com/henrique29areas",
+   "https://www.facebook.com/henrique.areasdearaujo"
+  ]
+ },
+ {
+  "id": 130002547874,
+  "cargoCod": 3,
+  "cargo": "Governador",
+  "nomeUrna": "INDIRA XAVIER",
+  "nomeCompleto": "INDIRA IVANISE XAVIER",
+  "numero": 80,
+  "partido": "UP",
+  "coligacao": "UP",
+  "situacao": "Deferido",
+  "ocupacao": "Auxiliar de Escritório e Assemelhados",
+  "incumbente": false,
+  "arrecadado": null,
+  "anteriores": [
+   {
+    "ano": 2024,
+    "cargo": "Prefeito",
+    "local": "BELO HORIZONTE",
+    "partido": "UP",
+    "resultado": "Não eleito"
+   },
+   {
+    "ano": 2022,
+    "cargo": "Governador",
+    "local": "MINAS GERAIS",
+    "partido": "UP",
+    "resultado": "Não eleito"
+   },
+   {
+    "ano": 2010,
+    "cargo": "Deputado Estadual",
+    "local": "ALAGOAS",
+    "partido": "PSOL",
+    "resultado": "Não eleito"
+   },
+   {
+    "ano": 2006,
+    "cargo": "Deputado Estadual",
+    "local": "ALAGOAS",
+    "partido": "PSOL",
+    "resultado": "Não eleito"
+   }
+  ],
+  "sites": [
+   "HTTPS://WWW.INSTAGRAM.COM/INDIRAXAVIER.UP/"
+  ]
+ },
+ {
+  "id": 130002541911,
+  "cargoCod": 3,
+  "cargo": "Governador",
+  "nomeUrna": "MATEUS SIMÕES",
+  "nomeCompleto": "MATEUS SIMÕES DE ALMEIDA",
+  "numero": 55,
+  "partido": "PSD",
+  "coligacao": "MINAS NO CAMINHO CERTO ",
+  "situacao": "Deferido",
+  "ocupacao": "Governador",
+  "incumbente": false,
+  "arrecadado": null,
+  "anteriores": [
+   {
+    "ano": 2022,
+    "cargo": "Vice-governador",
+    "local": "MINAS GERAIS",
+    "partido": "NOVO",
+    "resultado": "Eleito"
+   },
+   {
+    "ano": 2016,
+    "cargo": "Vereador",
+    "local": "BELO HORIZONTE",
+    "partido": "NOVO",
+    "resultado": "Eleito por QP"
+   },
+   {
+    "ano": 2014,
+    "cargo": "Deputado Estadual",
+    "local": "MINAS GERAIS",
+    "partido": "PSDB",
+    "resultado": "Suplente"
+   }
+  ],
+  "sites": [
+   "HTTPS://WWW.INSTAGRAM.COM/MATEUS.SIMOESMG/",
+   "https://www.youtube.com/@MateusSimoes",
+   "HTTPS://X.COM/MATEUS_SIMOESMG",
+   "http://meulink.bio.br/mateusgovernador55",
+   "https://whatsapp.com/channel/0029VbDWsrI9mrGYIoZuMO12",
+   "HTTPS://WWW.FACEBOOK.COM/MATEUSSIMOESMG",
+   "https://www.twibbonize.com/u/equipems2026zkkc",
+   "https://www.tiktok.com/@mateus.simoesmg",
+   "HTTPS://WWW.LINKEDIN.COM/IN/MATEUSALMEIDA/"
+  ]
+ },
+ {
+  "id": 130002550464,
+  "cargoCod": 3,
+  "cargo": "Governador",
+  "nomeUrna": "PATRUS ANANIAS",
+  "nomeCompleto": "PATRUS ANANIAS DE SOUSA",
+  "numero": 13,
+  "partido": "PT",
+  "coligacao": "PRA MINAS GERAIS VOLTAR A SONHAR ",
+  "situacao": "Deferido",
+  "ocupacao": "Deputado",
+  "incumbente": false,
+  "arrecadado": null,
+  "anteriores": [
+   {
+    "ano": 2022,
+    "cargo": "Deputado Federal",
+    "local": "MINAS GERAIS",
+    "partido": "PT",
+    "resultado": "Eleito por QP"
+   },
+   {
+    "ano": 2018,
+    "cargo": "Deputado Federal",
+    "local": "MINAS GERAIS",
+    "partido": "PT",
+    "resultado": "Eleito por QP"
+   },
+   {
+    "ano": 2014,
+    "cargo": "Deputado Federal",
+    "local": "MINAS GERAIS",
+    "partido": "PT",
+    "resultado": "Eleito por QP"
+   },
+   {
+    "ano": 2012,
+    "cargo": "Prefeito",
+    "local": "BELO HORIZONTE",
+    "partido": "PT",
+    "resultado": "Não eleito"
+   }
+  ],
+  "sites": [
+   "HTTPS://PATRUSANANIAS.COM.BR",
+   "https://www.instagram.com/timepatrus",
+   "HTTPS://WWW.INSTAGRAM.COM/PATRUS_ANANIAS/",
+   "HTTPS://PATRUS13.COM.BR",
+   "HTTPS://WWW.FLICKR.COM/PHOTOS/PATRUSGOVERNADOR/",
+   "HTTPS://TOCOMPATRUS.COM",
+   "HTTPS://X.COM/PATRUS_ANANIAS",
+   "http://www.twibbonize.com/patrus13",
+   "https://chat.whatsapp.com/GSYb1mSduoe625KYCNdBUV",
+   "https://chat.whatsapp.com/GONjbl5rfyv7ty3blbJXE",
+   "https://chat.whatsapp.com/LZEODNgNcCOKWxVkVXjkpY",
+   "https://chat.whatsapp.com/EZ0o9HGcu671RkWNJANRAV",
+   "https://chat.whatsapp.com/DjQaRnSc00HH7kX4rKjjk",
+   "HTTPS://WWW.FACEBOOK.COM/PATRUSANANIAS13/",
+   "HTTPS://PATRUSGOVERNADOR.COM.BR",
+   "https://chat.whatsapp.com/LOTiBIiTHOX4a3IN6l7JOz",
+   "https://chat.whatsapp.com/BgYQ1PoWBQY4toDF74PKu7",
+   "HTTPS://WWW.TIKTOK.COM/@PATRUS_ANANIAS",
+   "HTTPS://LINKTR.EE/PATRUS_ANANIAS",
+   "https://www.youtube.com/@PatrusAnanias13",
+   "https://chat.whatsapp.com/CVvOSmkVavwI7ivWlbV2a2",
+   "HTTPS://WWW.THREADS.NET/@PATRUS_ANANIAS"
+  ]
+ },
+ {
+  "id": 130002544122,
+  "cargoCod": 3,
+  "cargo": "Governador",
+  "nomeUrna": "PROFESSOR TÚLIO LOPES",
+  "nomeCompleto": "TULIO CESAR DIAS LOPES",
+  "numero": 21,
+  "partido": "PCB",
+  "coligacao": "PCB",
+  "situacao": "Deferido",
+  "ocupacao": "Professor de Ensino Superior",
+  "incumbente": false,
+  "arrecadado": null,
+  "anteriores": [
+   {
+    "ano": 2018,
+    "cargo": "Senador",
+    "local": "MINAS GERAIS",
+    "partido": "PCB",
+    "resultado": "Não eleito"
+   },
+   {
+    "ano": 2016,
+    "cargo": "Vereador",
+    "local": "BELO HORIZONTE",
+    "partido": "PCB",
+    "resultado": "Suplente"
+   },
+   {
+    "ano": 2014,
+    "cargo": "Governador",
+    "local": "MINAS GERAIS",
+    "partido": "PCB",
+    "resultado": "Não eleito"
+   },
+   {
+    "ano": 2006,
+    "cargo": "Deputado Estadual",
+    "local": "MINAS GERAIS",
+    "partido": "PCB",
+    "resultado": "Não eleito"
+   }
+  ],
+  "sites": [
+   "https://www.poderpopularmg.org/",
+   "HTTPS://WWW.TIKTOK.COM/@TULIOLOPESGOVMG?_R=1&_T=ZS-93Q3DLEIWHZ",
+   "HTTPS://WWW.YOUTUBE.COM/@JORNALDOPOVOMG",
+   "https://professortuliolopes.com.br/",
+   "HTTPS://WWW.TIKTOK.COM/@TULIOLOPESGOVMG?_R=1&_T=ZS-98FTWKPQGCY",
+   "https://WWW.YOUTUBE.COM/@PROFESSORTÚLIOLOPES",
+   "HTTPS://WWW.YOUTUBE.COM/@PROFESSORT%C3%9ALIOLOPES",
+   "https://www.youtube.com/@ProfessorT%C3%BAlioLopes",
+   "HTTPS://WWW.FACEBOOK.COM/TULIO.LOPES.52?RDID=WLYXBGMJADBSISG3&SHARE_URL=HTTPS%3A",
+   "HTTPS://WWW.THREADS.COM/@TULIOLOPESMG",
+   "HTTPS://X.COM/PROFTULIO",
+   "https://www.instagram.com/tuliolopesmg/"
+  ]
+ },
+ {
+  "id": 130002546802,
+  "cargoCod": 3,
+  "cargo": "Governador",
+  "nomeUrna": "RAFAEL DUDA",
+  "nomeCompleto": "RAFAEL RIBEIRO DE ÁVILA",
+  "numero": 16,
+  "partido": "PSTU",
+  "coligacao": "PSTU",
+  "situacao": "Deferido",
+  "ocupacao": "Técnico de Mineração, Metalurgia e Geologia",
+  "incumbente": false,
+  "arrecadado": null,
+  "anteriores": [
+   {
+    "ano": 2024,
+    "cargo": "Prefeito",
+    "local": "CONGONHAS",
+    "partido": "PSTU",
+    "resultado": "Não eleito"
+   },
+   {
+    "ano": 2022,
+    "cargo": "Deputado Federal",
+    "local": "MINAS GERAIS",
+    "partido": "PSTU",
+    "resultado": "Não eleito"
+   },
+   {
+    "ano": 2020,
+    "cargo": "Prefeito",
+    "local": "CONGONHAS",
+    "partido": "PSTU",
+    "resultado": "Não eleito"
+   }
+  ],
+  "sites": [
+   "https://www.facebook@rafaelavila",
+   "https://www.instagram.com/rafael_duda_pstu",
+   "https://@RAFAEL_DUDA_PSTU"
+  ]
+ }
+]

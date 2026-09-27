@@ -1,0 +1,695 @@
+[
+ {
+  "id": 130002554332,
+  "cargoCod": 5,
+  "cargo": "Senador",
+  "nomeUrna": "AÉCIO NEVES",
+  "nomeCompleto": "AÉCIO NEVES DA CUNHA",
+  "numero": 456,
+  "partido": "PSDB",
+  "coligacao": "CUIDAR DE MINAS ",
+  "situacao": "Deferido",
+  "ocupacao": "Deputado",
+  "incumbente": false,
+  "arrecadado": null,
+  "anteriores": [
+   {
+    "ano": 2022,
+    "cargo": "Deputado Federal",
+    "local": "MINAS GERAIS",
+    "partido": "PSDB",
+    "resultado": "Eleito por média"
+   },
+   {
+    "ano": 2018,
+    "cargo": "Deputado Federal",
+    "local": "MINAS GERAIS",
+    "partido": "PSDB",
+    "resultado": "Eleito por QP"
+   },
+   {
+    "ano": 2014,
+    "cargo": "Presidente",
+    "local": "BRASIL",
+    "partido": "PSDB",
+    "resultado": "Não eleito"
+   },
+   {
+    "ano": 2010,
+    "cargo": "Senador",
+    "local": "MINAS GERAIS",
+    "partido": "PSDB",
+    "resultado": "Eleito"
+   }
+  ],
+  "sites": [
+   "https://www.facebook.com/share/1D454kJsG8/",
+   "https://linktr.ee/estoucomaeciosenador456",
+   "https://www.instagram.com/aecionevesoficial",
+   "https://www.threads.com/@aecionevesoficial",
+   "https://www.youtube.com/@AecionevesBr",
+   "https://chat.whatsapp.com/FFJKDIjNLGwL5VdSM30LZN?s=cl&p=a&ilr=1",
+   "https://aecioneves.com.br/",
+   "https://www.kwai.com/@AecioNevesoficial",
+   "https://open.spotify.com/user/31paqoq4glkba4in3hhhzb5stjxu?si=lMlvaW6HQ5mHRnHr0h9OMQ&utm_source=copy",
+   "https://x.com/AecioNeves",
+   "https://www.tiktok.com/@aecionevesoficial",
+   "https://www.flickr.com/photos/193325034@N04/",
+   "https://twb.nz/aecio-senador-456"
+  ]
+ },
+ {
+  "id": 130002547884,
+  "cargoCod": 5,
+  "cargo": "Senador",
+  "nomeUrna": "ANA LUIZA DO MLB",
+  "nomeCompleto": "ANA LUIZA CARDOSO DE MACEDO",
+  "numero": 808,
+  "partido": "UP",
+  "coligacao": "UP",
+  "situacao": "Deferido",
+  "ocupacao": "Auxiliar de Laboratório",
+  "incumbente": false,
+  "arrecadado": null,
+  "anteriores": [],
+  "sites": [
+   "HTTPS://WWW.INSTAGRAM.COM/ANA_DA_MGS/"
+  ]
+ },
+ {
+  "id": 130002552302,
+  "cargoCod": 5,
+  "cargo": "Senador",
+  "nomeUrna": "ARCANJO PIMENTA",
+  "nomeCompleto": "ARCANJO CARLOS PIMENTA",
+  "numero": 155,
+  "partido": "MDB",
+  "coligacao": "MDB",
+  "situacao": "Deferido",
+  "ocupacao": "Industrial",
+  "incumbente": false,
+  "arrecadado": null,
+  "anteriores": [
+   {
+    "ano": 2022,
+    "cargo": "Deputado Federal",
+    "local": "MINAS GERAIS",
+    "partido": "MDB",
+    "resultado": "Suplente"
+   },
+   {
+    "ano": 2008,
+    "cargo": "Vereador",
+    "local": "BELO HORIZONTE",
+    "partido": "PMDB",
+    "resultado": "Suplente"
+   }
+  ],
+  "sites": [
+   "https://www.facebook.com/arcanjocarlospimenta/?locale=pa_IN",
+   "https://www.instagram.com/arcanjopimenta/"
+  ]
+ },
+ {
+  "id": 130002550557,
+  "cargoCod": 5,
+  "cargo": "Senador",
+  "nomeUrna": "ÁUREA CAROLINA",
+  "nomeCompleto": "AUREA CAROLINA DE FREITAS E SILVA",
+  "numero": 500,
+  "partido": "PSOL",
+  "coligacao": "PRA MINAS GERAIS VOLTAR A SONHAR ",
+  "situacao": "Deferido",
+  "ocupacao": "Cientista Político",
+  "incumbente": false,
+  "arrecadado": null,
+  "anteriores": [
+   {
+    "ano": 2020,
+    "cargo": "Prefeito",
+    "local": "BELO HORIZONTE",
+    "partido": "PSOL",
+    "resultado": "Não eleito"
+   },
+   {
+    "ano": 2018,
+    "cargo": "Deputado Federal",
+    "local": "MINAS GERAIS",
+    "partido": "PSOL",
+    "resultado": "Eleito por QP"
+   },
+   {
+    "ano": 2016,
+    "cargo": "Vereador",
+    "local": "BELO HORIZONTE",
+    "partido": "PSOL",
+    "resultado": "Eleito por QP"
+   }
+  ],
+  "sites": [
+   "HTTPS://WWW.THREADS.COM/@AUREACAROLINA",
+   "HTTPS://BR.LINKEDIN.COM/IN/AUREACAROLINAX",
+   "HTTPS://WWW.INSTAGRAM.COM/AUREACAROLINA/",
+   "HTTPS://WWW.AUREACAROLINA.COM.BR",
+   "HTTPS://WWW.FACEBOOK.COM/AUREACAROLINA/",
+   "HTTPS://X.COM/AUREACAROLINAX",
+   "HTTPS://WWW.YOUTUBE.COM/@%C3%81UREACAROLINA-U4U",
+   "HTTPS://WWW.TIKTOK.COM/@AUREACAROLINA11"
+  ]
+ },
+ {
+  "id": 130002552186,
+  "cargoCod": 5,
+  "cargo": "Senador",
+  "nomeUrna": "CARLIN MOURA",
+  "nomeCompleto": "CARLOS MAGNO DE MOURA SOARES",
+  "numero": 700,
+  "partido": "AVANTE",
+  "coligacao": "AVANTE",
+  "situacao": "Deferido",
+  "ocupacao": "Advogado",
+  "incumbente": false,
+  "arrecadado": null,
+  "anteriores": [
+   {
+    "ano": 2024,
+    "cargo": "Vereador",
+    "local": "CONTAGEM",
+    "partido": "PSB",
+    "resultado": "Suplente"
+   },
+   {
+    "ano": 2022,
+    "cargo": "Deputado Estadual",
+    "local": "MINAS GERAIS",
+    "partido": "PSB",
+    "resultado": "Suplente"
+   },
+   {
+    "ano": 2020,
+    "cargo": "Vereador",
+    "local": "CONTAGEM",
+    "partido": "PDT",
+    "resultado": "Eleito por média"
+   },
+   {
+    "ano": 2018,
+    "cargo": "Deputado Federal",
+    "local": "MINAS GERAIS",
+    "partido": "PC do B",
+    "resultado": "Suplente"
+   }
+  ],
+  "sites": [
+   "HTTPS://WWW.FACEBOOK.COM/EUCARLINMOURA",
+   "HTTPS://WWW.INSTAGRAM.COM/EUCARLINMOURA?IGSH=MXGZMHN3DTJOMZA2NW%3D%3D"
+  ]
+ },
+ {
+  "id": 130002545590,
+  "cargoCod": 5,
+  "cargo": "Senador",
+  "nomeUrna": "CARLOS VIANA",
+  "nomeCompleto": "CARLOS ALBERTO DIAS VIANA",
+  "numero": 555,
+  "partido": "PSD",
+  "coligacao": "PSD",
+  "situacao": "Deferido",
+  "ocupacao": "Jornalista e Redator",
+  "incumbente": false,
+  "arrecadado": null,
+  "anteriores": [
+   {
+    "ano": 2024,
+    "cargo": "Prefeito",
+    "local": "BELO HORIZONTE",
+    "partido": "PODE",
+    "resultado": "Não eleito"
+   },
+   {
+    "ano": 2022,
+    "cargo": "Governador",
+    "local": "MINAS GERAIS",
+    "partido": "PL",
+    "resultado": "Não eleito"
+   },
+   {
+    "ano": 2018,
+    "cargo": "Senador",
+    "local": "MINAS GERAIS",
+    "partido": "PHS",
+    "resultado": "Eleito"
+   },
+   {
+    "ano": 2004,
+    "cargo": "Vereador",
+    "local": "BELO HORIZONTE",
+    "partido": "PSC",
+    "resultado": "Suplente"
+   }
+  ],
+  "sites": [
+   "HTTPS://WWW.FACEBOOK.COM/CARLOSVIANA/#HTTPS://WWW.FACEBOOK.COM/CARLOSVIANA/",
+   "HTTPS://X.COM/CARLOSVIANA",
+   "HTTPS://WWW.INSTAGRAM.COM/CARLOSVIANA/"
+  ]
+ },
+ {
+  "id": 130002551786,
+  "cargoCod": 5,
+  "cargo": "Senador",
+  "nomeUrna": "DOMINGOS SÁVIO",
+  "nomeCompleto": "DOMINGOS SAVIO CAMPOS RESENDE",
+  "numero": 222,
+  "partido": "PL",
+  "coligacao": "PL",
+  "situacao": "Deferido",
+  "ocupacao": "Veterinário",
+  "incumbente": false,
+  "arrecadado": null,
+  "anteriores": [
+   {
+    "ano": 2022,
+    "cargo": "Deputado Federal",
+    "local": "MINAS GERAIS",
+    "partido": "PL",
+    "resultado": "Eleito por QP"
+   },
+   {
+    "ano": 2018,
+    "cargo": "Deputado Federal",
+    "local": "MINAS GERAIS",
+    "partido": "PSDB",
+    "resultado": "Eleito por QP"
+   },
+   {
+    "ano": 2014,
+    "cargo": "Deputado Federal",
+    "local": "MINAS GERAIS",
+    "partido": "PSDB",
+    "resultado": "Eleito por QP"
+   },
+   {
+    "ano": 2010,
+    "cargo": "Deputado Federal",
+    "local": "MINAS GERAIS",
+    "partido": "PSDB",
+    "resultado": "Eleito"
+   }
+  ],
+  "sites": [
+   "https://INSTAGRAM.COM/DOMINGOSSAVIOMG",
+   "https://TWITTER.COM/DOMINGOSSAVIOMG",
+   "https://FACEBOOK.COM/DOMINGOSSAVIOMG"
+  ]
+ },
+ {
+  "id": 130002547882,
+  "cargoCod": 5,
+  "cargo": "Senador",
+  "nomeUrna": "FIDÉLIS ALCÂNTARA",
+  "nomeCompleto": "FIDELIS OLIVEIRA ALCANTARA",
+  "numero": 800,
+  "partido": "UP",
+  "coligacao": "UP",
+  "situacao": "Deferido",
+  "ocupacao": "Estudante, Bolsista, Estagiário e Assemelhados",
+  "incumbente": false,
+  "arrecadado": null,
+  "anteriores": [
+   {
+    "ano": 2016,
+    "cargo": "Vereador",
+    "local": "BELO HORIZONTE",
+    "partido": "PSOL",
+    "resultado": "Suplente"
+   },
+   {
+    "ano": 2014,
+    "cargo": "Governador",
+    "local": "MINAS GERAIS",
+    "partido": "PSOL",
+    "resultado": "Não eleito"
+   }
+  ],
+  "sites": [
+   "HTTPS://WWW.INSTAGRAM.COM/FIDELIS.ALCANTARA.UP/"
+  ]
+ },
+ {
+  "id": 130002551929,
+  "cargoCod": 5,
+  "cargo": "Senador",
+  "nomeUrna": "JORDANO METALÚRGICO",
+  "nomeCompleto": "JORDANO CARVALHO DOS SANTOS",
+  "numero": 160,
+  "partido": "PSTU",
+  "coligacao": "PSTU",
+  "situacao": "Deferido",
+  "ocupacao": "Trabalhador Metalúrgico e Siderúrgico",
+  "incumbente": false,
+  "arrecadado": null,
+  "anteriores": [
+   {
+    "ano": 2024,
+    "cargo": "Prefeito",
+    "local": "SÃO JOÃO DEL REI",
+    "partido": "PSTU",
+    "resultado": "Não eleito"
+   },
+   {
+    "ano": 2022,
+    "cargo": "Vice-governador",
+    "local": "MINAS GERAIS",
+    "partido": "PSTU",
+    "resultado": "Não eleito"
+   },
+   {
+    "ano": 2020,
+    "cargo": "Vereador",
+    "local": "SÃO JOÃO DEL REI",
+    "partido": "PSTU",
+    "resultado": "Não eleito"
+   },
+   {
+    "ano": 2018,
+    "cargo": "Governador",
+    "local": "MINAS GERAIS",
+    "partido": "PSTU",
+    "resultado": "Não eleito"
+   }
+  ],
+  "sites": [
+   "https://@JORDANOMETALURGICO"
+  ]
+ },
+ {
+  "id": 130002551265,
+  "cargoCod": 5,
+  "cargo": "Senador",
+  "nomeUrna": "JUÍZ RAMON MOREIRA",
+  "nomeCompleto": "RAMON MOREIRA",
+  "numero": 277,
+  "partido": "DC",
+  "coligacao": "DC",
+  "situacao": "Deferido",
+  "ocupacao": "Magistrado",
+  "incumbente": false,
+  "arrecadado": null,
+  "anteriores": [
+   {
+    "ano": 2022,
+    "cargo": "Deputado Federal",
+    "local": "MINAS GERAIS",
+    "partido": "AVANTE",
+    "resultado": "Suplente"
+   },
+   {
+    "ano": 2020,
+    "cargo": "Prefeito",
+    "local": "CAMPO BELO",
+    "partido": "AVANTE",
+    "resultado": "Não eleito"
+   },
+   {
+    "ano": 2018,
+    "cargo": "Deputado Federal",
+    "local": "MINAS GERAIS",
+    "partido": "AVANTE",
+    "resultado": "Suplente"
+   }
+  ],
+  "sites": []
+ },
+ {
+  "id": 130002552299,
+  "cargoCod": 5,
+  "cargo": "Senador",
+  "nomeUrna": "MANOEL CARVALHO",
+  "nomeCompleto": "MANOEL TEODORO PEREIRA DE CARVALHO FILHO",
+  "numero": 150,
+  "partido": "MDB",
+  "coligacao": "MDB",
+  "situacao": "Deferido",
+  "ocupacao": "Zootecnista",
+  "incumbente": false,
+  "arrecadado": null,
+  "anteriores": [
+   {
+    "ano": 2024,
+    "cargo": "Vice-prefeito",
+    "local": "MURIAÉ",
+    "partido": "MDB",
+    "resultado": "Eleito"
+   },
+   {
+    "ano": 2020,
+    "cargo": "Prefeito",
+    "local": "MURIAÉ",
+    "partido": "MDB",
+    "resultado": "Não eleito"
+   },
+   {
+    "ano": 2016,
+    "cargo": "Vereador",
+    "local": "MURIAÉ",
+    "partido": "PMDB",
+    "resultado": "Eleito por QP"
+   },
+   {
+    "ano": 2012,
+    "cargo": "Vereador",
+    "local": "MURIAÉ",
+    "partido": "PMDB",
+    "resultado": "Eleito por QP"
+   }
+  ],
+  "sites": [
+   "https://www.instagram.com/manoelcarvalhofilho/",
+   "https://www.facebook.com/ManoelCarvalhoMuriae/",
+   "https://www.tiktok.com/@manoelcarvalho8634",
+   "https://www.youtube.com/@manoelteodoropereiradecarv3706"
+  ]
+ },
+ {
+  "id": 130002548381,
+  "cargoCod": 5,
+  "cargo": "Senador",
+  "nomeUrna": "MARCELO ARO",
+  "nomeCompleto": "MARCELO GUILHERME DE ARO FERREIRA",
+  "numero": 111,
+  "partido": "PP",
+  "coligacao": "FEDERAÇÃO UNIÃO PROGRESSISTA(44-UNIÃO/11-PP)",
+  "situacao": "Deferido",
+  "ocupacao": "Advogado",
+  "incumbente": false,
+  "arrecadado": null,
+  "anteriores": [
+   {
+    "ano": 2022,
+    "cargo": "Senador",
+    "local": "MINAS GERAIS",
+    "partido": "PP",
+    "resultado": "Não eleito"
+   },
+   {
+    "ano": 2018,
+    "cargo": "Deputado Federal",
+    "local": "MINAS GERAIS",
+    "partido": "PHS",
+    "resultado": "Eleito por QP"
+   },
+   {
+    "ano": 2014,
+    "cargo": "Deputado Federal",
+    "local": "MINAS GERAIS",
+    "partido": "PHS",
+    "resultado": "Eleito por QP"
+   },
+   {
+    "ano": 2012,
+    "cargo": "Vereador",
+    "local": "BELO HORIZONTE",
+    "partido": "PHS",
+    "resultado": "Eleito por QP"
+   }
+  ],
+  "sites": [
+   "HTTPS://WWW.THREADS.COM/@MARCELOARO",
+   "HTTPS://WWW.YOUTUBE.COM/@MARCELO_ARO",
+   "HTTPS://WWW.INSTAGRAM.COM/MARCELOARO/?HL=PT-BR",
+   "HTTPS://X.COM/MARCELOARO",
+   "HTTPS://WWW.TIKTOK.COM/@SOUMARCELOARO",
+   "HTTPS://WWW.FACEBOOK.COM/MARCELOARO/?LOCALE=PT_BR"
+  ]
+ },
+ {
+  "id": 130002551284,
+  "cargoCod": 5,
+  "cargo": "Senador",
+  "nomeUrna": "MARCO ANTÔNIO SUPERMAN",
+  "nomeCompleto": "MARCO ANTÔNIO MOREIRA DA COSTA",
+  "numero": 300,
+  "partido": "NOVO",
+  "coligacao": "NOVO",
+  "situacao": "Deferido",
+  "ocupacao": "Advogado",
+  "incumbente": false,
+  "arrecadado": null,
+  "anteriores": [],
+  "sites": [
+   "HTTPS://WWW.YOUTUBE.COM/@MARCO.ANTONIOCOSTA",
+   "HTTPS://WWW.INSTAGRAM.COM/MARCO.ANTONIO.COSTA",
+   "https://tiktok.com/realmarcoantoniocosta",
+   "https://www.instagram.com/realmacosta",
+   "https://x.com/realmacosta"
+  ]
+ },
+ {
+  "id": 130002550560,
+  "cargoCod": 5,
+  "cargo": "Senador",
+  "nomeUrna": "MARÍLIA CAMPOS",
+  "nomeCompleto": "MARILIA APARECIDA CAMPOS",
+  "numero": 131,
+  "partido": "PT",
+  "coligacao": "PRA MINAS GERAIS VOLTAR A SONHAR ",
+  "situacao": "Deferido",
+  "ocupacao": "Aposentado (Exceto Servidor Público)",
+  "incumbente": false,
+  "arrecadado": null,
+  "anteriores": [
+   {
+    "ano": 2024,
+    "cargo": "Prefeito",
+    "local": "CONTAGEM",
+    "partido": "PT",
+    "resultado": "Eleito"
+   },
+   {
+    "ano": 2020,
+    "cargo": "Prefeito",
+    "local": "CONTAGEM",
+    "partido": "PT",
+    "resultado": "Eleito"
+   },
+   {
+    "ano": 2018,
+    "cargo": "Deputado Estadual",
+    "local": "MINAS GERAIS",
+    "partido": "PT",
+    "resultado": "Eleito por QP"
+   },
+   {
+    "ano": 2014,
+    "cargo": "Deputado Estadual",
+    "local": "MINAS GERAIS",
+    "partido": "PT",
+    "resultado": "Eleito por QP"
+   }
+  ],
+  "sites": [
+   "HTTPS://WWW.LINKEDIN.COM/IN/MARÍLIA-CAMPOS-5346BB55",
+   "HTTPS://X.COM/MARILIACAMPOSMG",
+   "HTTPS://WWW.THREADS.COM/@MARILIACAMPOS.MG",
+   "HTTPS://WWW.FACEBOOK.COM/MARILIACAMPOS.MG/",
+   "HTTPS://WWW.INSTAGRAM.COM/MARILIACAMPOS.MG/",
+   "HTTPS://WWW.TIKTOK.COM/@MARILIACAMPOS.MG",
+   "HTTPS://WWW.FLICKR.COM/PHOTOS/MARILIA_CAMPOS/"
+  ]
+ },
+ {
+  "id": 130002552311,
+  "cargoCod": 5,
+  "cargo": "Senador",
+  "nomeUrna": "TIÃO PESSOA",
+  "nomeCompleto": "SEBASTIAO DE OLIVEIRA PESSOA",
+  "numero": 290,
+  "partido": "PCO",
+  "coligacao": "PCO",
+  "situacao": "Indeferido em prazo recursal ou com recurso",
+  "ocupacao": "Administrador",
+  "incumbente": false,
+  "arrecadado": null,
+  "anteriores": [
+   {
+    "ano": 2024,
+    "cargo": "Prefeito",
+    "local": "CONTAGEM",
+    "partido": "PCO",
+    "resultado": "Não eleito"
+   },
+   {
+    "ano": 2022,
+    "cargo": "Vice-governador",
+    "local": "MINAS GERAIS",
+    "partido": "PCO",
+    "resultado": "Não eleito"
+   },
+   {
+    "ano": 2020,
+    "cargo": "Prefeito",
+    "local": "CONTAGEM",
+    "partido": "PCO",
+    "resultado": "Não eleito"
+   },
+   {
+    "ano": 2018,
+    "cargo": "Vice-governador",
+    "local": "MINAS GERAIS",
+    "partido": "PCO",
+    "resultado": "Não eleito"
+   }
+  ],
+  "sites": [
+   "https://candidatos.pco.org.br"
+  ]
+ },
+ {
+  "id": 130002551930,
+  "cargoCod": 5,
+  "cargo": "Senador",
+  "nomeUrna": "VICTÓRIA MELLO VIC",
+  "nomeCompleto": "VICTORIA DE FATIMA DE MELLO",
+  "numero": 161,
+  "partido": "PSTU",
+  "coligacao": "PSTU",
+  "situacao": "Deferido",
+  "ocupacao": "Servidor Público Civil Aposentado",
+  "incumbente": false,
+  "arrecadado": null,
+  "anteriores": [
+   {
+    "ano": 2024,
+    "cargo": "Prefeito",
+    "local": "JUIZ DE FORA",
+    "partido": "PSTU",
+    "resultado": "Não eleito"
+   },
+   {
+    "ano": 2022,
+    "cargo": "1º Suplente",
+    "local": "MINAS GERAIS",
+    "partido": "PSTU",
+    "resultado": "Não eleito"
+   },
+   {
+    "ano": 2020,
+    "cargo": "Prefeito",
+    "local": "JUIZ DE FORA",
+    "partido": "PSTU",
+    "resultado": "Não eleito"
+   },
+   {
+    "ano": 2018,
+    "cargo": "Vice-governador",
+    "local": "MINAS GERAIS",
+    "partido": "PSTU",
+    "resultado": "Não eleito"
+   }
+  ],
+  "sites": [
+   "https://@VICMELLO16"
+  ]
+ }
+]

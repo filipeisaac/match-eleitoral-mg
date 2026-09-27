@@ -1,0 +1,462 @@
+[
+ {
+  "id": 130002545584,
+  "nomeUrna": "PAULO FILHO DA FUNDAÇÃO",
+  "posicoes": {}
+ },
+ {
+  "id": 130002542742,
+  "nomeUrna": "LUIZ FERNANDO",
+  "posicoes": {
+   "G05": {
+    "v": 2,
+    "conf": "voto",
+    "fonte": "https://dadosabertos.camara.leg.br/api/v2/votacoes/2482078-57/votos",
+    "nota": "Votou a favor do PDL 3/2025, que sustou resolução do Conanda sobre atendimento a vítimas de violência sexual, incluindo aborto legal (05/11/2025)."
+   },
+   "G12": {
+    "v": 4,
+    "conf": "voto",
+    "fonte": "https://dadosabertos.camara.leg.br/api/v2/votacoes/14493-536/votos",
+    "nota": "Votou Sim à PEC 171/1993 (maioridade penal aos 16 anos em crimes graves) nos dois turnos, em 01/07 e 19/08/2015."
+   },
+   "DF05": {
+    "v": 2,
+    "conf": "voto",
+    "fonte": "https://dadosabertos.camara.leg.br/api/v2/votacoes/2153714-7/votos",
+    "nota": "Votou a favor da urgência do PL 8.703/2017, que criou o fundo eleitoral de financiamento de campanhas, em 03/10/2017."
+   }
+  }
+ },
+ {
+  "id": 130002542034,
+  "nomeUrna": "THIAGO GANEM",
+  "posicoes": {}
+ },
+ {
+  "id": 130002535282,
+  "nomeUrna": "GLEIDE ANDRADE",
+  "posicoes": {
+   "G03": {
+    "v": 2,
+    "conf": "declaracao",
+    "fonte": "https://divinews.com/2025/12/03/gleide-andrade-alerta-para-riscos-da-privatizacao-da-copasa-e-pede-mobilizacao-no-2o-turno/",
+    "nota": "Em vídeo de 12/2025, criticou a privatização da Copasa, citando aumento de tarifas em privatizações anteriores: \"não há justificativa para vender empresa lucrativa\"."
+   },
+   "G08": {
+    "v": 1,
+    "conf": "declaracao",
+    "fonte": "https://divinews.com/2025/03/18/gleide-andrade-detona-cleitinho-azevedo-nao-nos-envergonhe-senador-estude-historia-antes-de-defensor-anistia-a-golpistas/",
+    "nota": "Em 18/03/2025 criticou o senador Cleitinho por defender anistia ao 8 de janeiro; em artigo de 08/01/2026 (Brasil de Fato) defendeu a responsabilização."
+   }
+  }
+ },
+ {
+  "id": 130002542697,
+  "nomeUrna": "JUNYNHO MARTINS",
+  "posicoes": {}
+ },
+ {
+  "id": 130002545585,
+  "nomeUrna": "CASSIO SOARES",
+  "posicoes": {
+   "DF01": {
+    "v": 3,
+    "conf": "declaracao",
+    "fonte": "https://www.em.com.br/politica/2025/03/7091500-cassio-soares-comenta-gestao-do-psd-pedagios-e-privatizacoes-em-foco-em-mg.html",
+    "nota": "Ao Estado de Minas em 24/03/2025, defendeu 'de forma veemente' transparência nas emendas, mas defendeu seu uso em obras locais, sem propor redução."
+   }
+  }
+ },
+ {
+  "id": 130002543710,
+  "nomeUrna": "KATIA DIAS",
+  "posicoes": {
+   "G08": {
+    "v": 4,
+    "conf": "declaracao",
+    "fonte": "https://www.camara.leg.br/propostas-legislativas/2497499",
+    "nota": "Em 14/04/2025, como deputada suplente (Republicanos), assinou o REQ 1410/2025, de urgência para o PL 2858/2022 (anistia a manifestantes pós-eleição)."
+   }
+  }
+ },
+ {
+  "id": 130002535290,
+  "nomeUrna": "WADSON RIBEIRO",
+  "posicoes": {
+   "G03": {
+    "v": 2,
+    "conf": "declaracao",
+    "fonte": "https://www.cedefes.org.br/centenas-de-entidades-de-minas-e-candidatos-lancam-carta-as-estatais-sao-nossas/",
+    "nota": "Como candidato a prefeito de BH, assinou em 11/2020 a carta \"As Estatais São Nossas\", contra a privatização de Cemig, Copasa, Codemig e Gasmig."
+   },
+   "G13": {
+    "v": 2,
+    "conf": "declaracao",
+    "fonte": "https://vermelho.org.br/2018/12/13/wadson-ribeiro-a-escola-e-laica/",
+    "nota": "Em artigo de 13/12/2018, defendeu educação laica e criticou o Escola Sem Partido por submeter conteúdos às convicções religiosas dos pais."
+   }
+  }
+ },
+ {
+  "id": 130002533264,
+  "nomeUrna": "OLAVO KEESEN",
+  "posicoes": {}
+ },
+ {
+  "id": 130002535319,
+  "nomeUrna": "LOHANNA",
+  "posicoes": {
+   "G07": {
+    "v": 4,
+    "conf": "voto",
+    "fonte": "https://mediaserver.almg.gov.br/acervo/86/875/2086875.pdf",
+    "nota": "Votou pela derrubada do Veto 9/2024, que barrava a ampliação da Estação Ecológica de Fechos (área sob pressão da mineração), na ALMG em 24/04/2024."
+   },
+   "G12": {
+    "v": 2,
+    "conf": "declaracao",
+    "fonte": "https://portalgerais.com/lohanna-defende-educacao-saude-e-fiscalizacao-da-mineracao-em-entrevista-ao-portal-gerais",
+    "nota": "Em entrevista ao Portal Gerais (14/09/2026), disse não ser a favor da redução da maioridade penal e priorizar polícia, escola e emprego."
+   },
+   "G14": {
+    "v": 5,
+    "conf": "declaracao",
+    "fonte": "https://dadosabertos.almg.gov.br/api/v2/pronunciamentos/58553?formato=json",
+    "nota": "Na ALMG (27/05/2026) chamou o fim da escala 6x1 de pauta das mais urgentes; reafirmou apoio em entrevista de 14/09/2026 e em 2024."
+   },
+   "DF01": {
+    "v": 4,
+    "conf": "declaracao",
+    "fonte": "https://portalgerais.com/lohanna-defende-educacao-saude-e-fiscalizacao-da-mineracao-em-entrevista-ao-portal-gerais",
+    "nota": "Em 14/09/2026 disse não defender o fim das emendas, mas diminuir seus valores, criar mais regras e ampliar transparência e controle."
+   },
+   "DF04": {
+    "v": 2,
+    "conf": "declaracao",
+    "fonte": "https://portalgerais.com/lohanna-defende-educacao-saude-e-fiscalizacao-da-mineracao-em-entrevista-ao-portal-gerais",
+    "nota": "Em 14/09/2026 defendeu ampliação robusta da fiscalização da mineração e licenciamento ambiental feito com mais seriedade."
+   }
+  }
+ },
+ {
+  "id": 130002535314,
+  "nomeUrna": "GILMAR MACHADO",
+  "posicoes": {
+   "G01": {
+    "v": 2,
+    "conf": "declaracao",
+    "fonte": "https://dadosabertos.camara.leg.br/api/v2/deputados/74581/discursos?dataInicio=2007-11-29&dataFim=2007-11-29",
+    "nota": "Em discurso na Câmara (29/11/2007), defendeu a aprovação da prorrogação da CPMF para manter recursos do orçamento federal."
+   },
+   "G03": {
+    "v": 2,
+    "conf": "declaracao",
+    "fonte": "https://dadosabertos.camara.leg.br/api/v2/deputados/74581/discursos?dataInicio=2007-09-06&dataFim=2007-09-06",
+    "nota": "Na Câmara, apoiou em 2007 o plebiscito para reavaliar a privatização da Vale e, em 2000, a luta contra a privatização dos Correios."
+   },
+   "G05": {
+    "v": 2,
+    "conf": "declaracao",
+    "fonte": "https://dadosabertos.camara.leg.br/api/v2/deputados/74581/discursos?dataInicio=2010-10-06&dataFim=2010-10-06",
+    "nota": "Em discurso na Câmara (06/10/2010), declarou ter posição clara e firme contra o aborto."
+   },
+   "G09": {
+    "v": 4,
+    "conf": "declaracao",
+    "fonte": "https://dadosabertos.camara.leg.br/api/v2/deputados/74581/discursos?dataInicio=2011-06-16&dataFim=2011-06-16",
+    "nota": "Em 16/06/2011, criticou decisão do STF sobre a Marcha da Maconha e disse que 'o Supremo não faz lei, mas está querendo fazer lei'."
+   },
+   "G11": {
+    "v": 5,
+    "conf": "declaracao",
+    "fonte": "https://dadosabertos.camara.leg.br/api/v2/deputados/74581/discursos?dataInicio=2012-10-16&dataFim=2012-10-16",
+    "nota": "Defendeu cotas raciais em universidades em discursos na Câmara de 2001 a 2012; em 16/10/2012 chamou a cota racial de fundamental."
+   }
+  }
+ },
+ {
+  "id": 130002533247,
+  "nomeUrna": "DRA. MICHELLY SIQUEIRA",
+  "posicoes": {
+   "G11": {
+    "v": 4,
+    "conf": "declaracao",
+    "fonte": "https://www.cmbh.mg.gov.br/comunica%C3%A7%C3%A3o/not%C3%ADcias/2026/03/projeto-que-pro%C3%ADbe-cotas-raciais-em-concursos-p%C3%BAblicos-come%C3%A7a-tramitar",
+    "nota": "Na CLJ da Câmara de BH (10/03/2026), ao votar sobre o PL 663/2026 (fim de cotas em concursos), disse que cotas enfrentam desigualdades históricas."
+   }
+  }
+ },
+ {
+  "id": 130002543108,
+  "nomeUrna": "IGOR ETO",
+  "posicoes": {
+   "G03": {
+    "v": 4,
+    "conf": "declaracao",
+    "fonte": "https://www.itatiaia.com.br/editorias/politica/2023/05/04/privatizacoes-e-recuperacao-fiscal-igor-eto-fala-sobre-proximos-desafios-do-governo-zema",
+    "nota": "Como secretário de Governo de MG, defendeu à Itatiaia em 04/05/2023 a desestatização da Cemig e da Copasa para destravar o desenvolvimento do estado."
+   }
+  },
+  "bandeiras": [
+   "Captação de investimentos para Varginha e o Sul de Minas"
+  ]
+ },
+ {
+  "id": 130002542040,
+  "nomeUrna": "VILE SANTOS",
+  "posicoes": {
+   "G09": {
+    "v": 4,
+    "conf": "declaracao",
+    "fonte": "https://www.cmbh.mg.gov.br/atividade-legislativa/pesquisar-proposicoes/mocao/81/2026",
+    "nota": "Autor da Moção 81/2026 (30/04/2026), que repudia a 'politização e instrumentalização' do STF; em 09/2025 disse que Moraes toma 'decisões políticas'."
+   },
+   "G14": {
+    "v": 2,
+    "conf": "declaracao",
+    "fonte": "https://www.otempo.com.br/politica/aparte/2024/12/13/vereadora-quer-fim-da-escala-6x1-de-terceirizado-na-prefeitura-d",
+    "nota": "Em 12/2024 criticou projeto que acabava com a escala 6x1 de terceirizados da PBH: 'o povo vai pagar para o funcionário público trabalhar menos'."
+   }
+  },
+  "bandeiras": [
+   "Fim de cotas raciais e de gênero em concursos públicos",
+   "Escolas cívico-militares"
+  ]
+ },
+ {
+  "id": 130002543112,
+  "nomeUrna": "LUIS TIBÉ",
+  "posicoes": {
+   "G07": {
+    "v": 4,
+    "conf": "voto",
+    "fonte": "https://dadosabertos.camara.leg.br/api/v2/votacoes/17338-321/votos",
+    "nota": "Votou contra a Emenda 164 ao Código Florestal, que permitia manter atividades agropecuárias em APPs, em 24/05/2011."
+   },
+   "G12": {
+    "v": 4,
+    "conf": "voto",
+    "fonte": "https://dadosabertos.camara.leg.br/api/v2/votacoes/14493-536/votos",
+    "nota": "Votou Sim à PEC 171/1993 (maioridade penal aos 16 anos em crimes graves) nos dois turnos, em 01/07 e 19/08/2015."
+   },
+   "DF05": {
+    "v": 4,
+    "conf": "declaracao",
+    "fonte": "https://www.camara.leg.br/noticias/531421-proposta-cria-fundo-eleitoral-abastecido-com-contribuicao-sobre-salarios-de-politicos/",
+    "nota": "Autor da PEC 360/2017: fundo de campanha bancado por contribuição sobre salários de políticos, para não usar verba do orçamento (Agência Câmara, 07/02/2018)."
+   }
+  }
+ },
+ {
+  "id": 130002547913,
+  "nomeUrna": "MONICA VALLONE",
+  "posicoes": {}
+ },
+ {
+  "id": 130002542039,
+  "nomeUrna": "RODRIGO TAVARES",
+  "posicoes": {},
+  "bandeiras": [
+   "Investimentos federais em infraestrutura e rodovias",
+   "Atração de investimentos e desenvolvimento regional",
+   "Desburocratização do Estado"
+  ]
+ },
+ {
+  "id": 130002547929,
+  "nomeUrna": "ULISSES GUIMARÃES",
+  "posicoes": {
+   "G07": {
+    "v": 4,
+    "conf": "declaracao",
+    "fonte": "https://www.jornalmantiqueira.com.br/2026/08/21/agenda-em-pocos/",
+    "nota": "Em ago/2026, defendeu que exploração de terras raras em Poços só avance com estudos independentes, garantia de abastecimento de água e transparência."
+   }
+  }
+ },
+ {
+  "id": 130002547840,
+  "nomeUrna": "CHARLLES EVANGELISTA",
+  "posicoes": {
+   "G06": {
+    "v": 2,
+    "conf": "declaracao",
+    "fonte": "https://imagem.camara.gov.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=17%2F10%2F2019&txPagina=300&txSuplemento=&enviar=Pesquisar",
+    "nota": "Em discurso na Câmara em 16/10/2019, pediu que o STF rejeitasse a 'liberação das drogas' e disse que o enfrentamento às drogas é sua bandeira principal."
+   },
+   "G07": {
+    "v": 2,
+    "conf": "voto",
+    "fonte": "https://dadosabertos.camara.leg.br/api/v2/votacoes/257161-337/votos",
+    "nota": "Votou a favor do texto-base da Lei Geral do Licenciamento Ambiental (PL 3.729/2004) em 12/05/2021; correspondência parcial com o tema."
+   }
+  },
+  "bandeiras": [
+   "Proteção das crianças",
+   "Inclusão de pessoas neurodivergentes e suas famílias",
+   "Desenvolvimento de Juiz de Fora e da Zona da Mata"
+  ]
+ },
+ {
+  "id": 130002533243,
+  "nomeUrna": "PEDRO BRAGA",
+  "posicoes": {}
+ },
+ {
+  "id": 130002535285,
+  "nomeUrna": "PEDRO ROUSSEFF",
+  "posicoes": {
+   "G14": {
+    "v": 5,
+    "conf": "declaracao",
+    "fonte": "https://www.brasil247.com/entrevistas/o-povo-nao-aceita-mais-escala-6x1-e-miseria-pedro-rousseff-avalia-largada-de-lula-papel-das-redes-e-disputa-pelo-congresso/",
+    "nota": "Disse em 23/08/2026 que o povo não aceita mais a escala 6x1; em maio/2026 liderou em BH protocolo de PL de 40h semanais com 2 folgas sem redução salarial."
+   },
+   "DF02": {
+    "v": 2,
+    "conf": "declaracao",
+    "fonte": "https://www.band.com.br/noticias/nas-redes-esquerda-e-artistas-impulsionam-atos-contra-pec-da-blindagem-e-anistia-a-bolsonaro-202509211433",
+    "nota": "Aderiu nas redes à mobilização contra a PEC da Blindagem e a anistia, em 21/09/2025, segundo a Band."
+   }
+  },
+  "bandeiras": [
+   "Fim da escala 6x1",
+   "Combate à desinformação e educação midiática",
+   "Restrição à publicidade de apostas (bets)"
+  ]
+ },
+ {
+  "id": 130002533244,
+  "nomeUrna": "SÉRGIO SANTOS RODRIGUES",
+  "posicoes": {
+   "G09": {
+    "v": 4,
+    "conf": "declaracao",
+    "fonte": "https://www.conjur.com.br/2022-ago-07/entrevista-sergio-santos-rodrigues-advogado-candidato-deputado/",
+    "nota": "Em entrevista ao ConJur (07/08/2022), disse que o Judiciário 'decide coisas que não deveria decidir' e que seu protagonismo é 'desnecessário'."
+   },
+   "DF04": {
+    "v": 4,
+    "conf": "voto",
+    "fonte": "https://dadosabertos.camara.leg.br/api/v2/votacoes/2541991-38/votos",
+    "nota": "Votou Sim para manter no texto da MP 1308/2025 a licença ambiental especial com prazo para obras em rodovias existentes, em 02/12/2025."
+   }
+  }
+ },
+ {
+  "id": 130002538968,
+  "nomeUrna": "SÁVIO SOUZA CRUZ",
+  "posicoes": {
+   "G01": {
+    "v": 2,
+    "conf": "declaracao",
+    "fonte": "https://www.saviosouzacruz.com.br/",
+    "nota": "Propostas de campanha de 2026: 'voto contra a reforma administrativa e contra qualquer nova reforma da previdência' e defesa de mais concursos públicos."
+   }
+  }
+ },
+ {
+  "id": 130002542000,
+  "nomeUrna": "IGOR SANTOS",
+  "posicoes": {},
+  "bandeiras": [
+   "Representação do Noroeste de Minas no Congresso",
+   "Hospital Regional de Unaí",
+   "Infraestrutura rodoviária"
+  ]
+ },
+ {
+  "id": 130002542044,
+  "nomeUrna": "DR. MARCOS VINICIUS",
+  "posicoes": {
+   "DF01": {
+    "v": 2,
+    "conf": "declaracao",
+    "fonte": "https://www.em.com.br/politica/2024/12/7021421-amm-teme-impactos-em-servicos-da-saude-com-decisao-de-dino-sobre-emendas.html",
+    "nota": "Como presidente da AMM, disse ser 'absolutamente contra' o bloqueio de emendas por Dino, alegando que já são auditáveis pelo TCU (26/12/2024)."
+   }
+  },
+  "bandeiras": [
+   "Saúde",
+   "Fortalecimento dos municípios",
+   "Desenvolvimento regional e geração de empregos"
+  ]
+ },
+ {
+  "id": 130002542012,
+  "nomeUrna": "GLAUCIA SANTIAGO",
+  "posicoes": {}
+ },
+ {
+  "id": 130002542006,
+  "nomeUrna": "FABIANO CAZECA",
+  "posicoes": {
+   "G14": {
+    "v": 4,
+    "conf": "declaracao",
+    "fonte": "https://portalgerais.com/fabiano-cazeca-defende-investimentos-em-saude-e-educacao-e-fortalecimento-de-emprego-e-renda",
+    "nota": "Em entrevista ao Portal Gerais (21/09/2026), defendeu dois dias de folga semanais e disse ser possível chegar ao modelo 5x2 com diálogo."
+   },
+   "G02": {
+    "v": 2,
+    "conf": "declaracao",
+    "fonte": "https://portalgerais.com/fabiano-cazeca-defende-investimentos-em-saude-e-educacao-e-fortalecimento-de-emprego-e-renda",
+    "nota": "Em entrevista (21/09/2026), disse que auxílios do governo levam pessoas a evitar trabalho formal e atrapalham a economia."
+   }
+  },
+  "bandeiras": [
+   "Recursos para hospitais em municípios pequenos e médios",
+   "Educação e qualificação profissional de jovens",
+   "Agronegócio"
+  ]
+ },
+ {
+  "id": 130002543720,
+  "nomeUrna": "RENATO ANDRADE",
+  "posicoes": {
+   "G12": {
+    "v": 5,
+    "conf": "declaracao",
+    "fonte": "https://dadosabertos.camara.leg.br/api/v2/deputados/171620/discursos?dataInicio=2013-01-01&dataFim=2014-12-31&itens=100",
+    "nota": "Em discurso na Câmara (11/09/2013) defendeu reduzir a maioridade penal para 16 anos; voltou a cobrar a redução em junho de 2017."
+   },
+   "G03": {
+    "v": 3,
+    "conf": "voto",
+    "fonte": "https://dadosabertos.camara.leg.br/api/v2/votacoes/2177451-90/votos",
+    "nota": "Votou Sim à venda das distribuidoras da Eletrobras (PL 10332/2018) em 04/07/2018; em 14/03/2018 saudou na Câmara a luta contra a privatização de Furnas."
+   }
+  }
+ },
+ {
+  "id": 130002542723,
+  "nomeUrna": "DELEGADA LIA VALECHI",
+  "posicoes": {}
+ },
+ {
+  "id": 130002544821,
+  "nomeUrna": "MUCIDA",
+  "posicoes": {},
+  "bandeiras": [
+   "Diversificação da economia e política mineral, com compensação financeira aos municípios",
+   "Saúde regional",
+   "BR-381 e segurança pública"
+  ]
+ },
+ {
+  "id": 130002541999,
+  "nomeUrna": "ANDRE COSTA",
+  "posicoes": {},
+  "bandeiras": [
+   "Defesa do produtor rural e do direito de propriedade",
+   "Segurança no campo",
+   "Infraestrutura rural (estradas e energia elétrica)"
+  ]
+ },
+ {
+  "id": 130002543706,
+  "nomeUrna": "PEDRO GAMA",
+  "posicoes": {}
+ }
+]

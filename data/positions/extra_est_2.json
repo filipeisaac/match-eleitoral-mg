@@ -1,0 +1,532 @@
+[
+ {
+  "id": 130002544127,
+  "nomeUrna": "CAROL CARAM",
+  "posicoes": {}
+ },
+ {
+  "id": 130002532951,
+  "nomeUrna": "ROBERTO ANDRADE",
+  "posicoes": {
+   "DE02": {
+    "v": 2,
+    "conf": "voto",
+    "fonte": "https://diariolegislativo.almg.gov.br/2024/L20240611.pdf",
+    "nota": "Votou não à Emenda 18 ao PL 2.309/2024 (recomposição de 33,24% do piso nacional da educação na rede estadual), rejeitada em 2º turno em 6/6/2024."
+   }
+  },
+  "bandeiras": [
+   "Fortalecimento dos municípios",
+   "Saúde",
+   "Infraestrutura e desenvolvimento regional"
+  ]
+ },
+ {
+  "id": 130002535340,
+  "nomeUrna": "ADALCLEVER LOPES",
+  "posicoes": {}
+ },
+ {
+  "id": 130002533217,
+  "nomeUrna": "CAROL FARIA",
+  "posicoes": {
+   "G05": {
+    "v": 2,
+    "conf": "voto",
+    "fonte": "https://sapl.itauna.mg.leg.br/materia/4188",
+    "nota": "Votou Sim (16x0) na Moção 46/2023 da Câmara de Itaúna, de apoio ao Congresso contra a legalização do aborto via Judiciário, em 03/10/2023."
+   },
+   "G09": {
+    "v": 4,
+    "conf": "voto",
+    "fonte": "https://sapl.itauna.mg.leg.br/materia/4188",
+    "nota": "Votou Sim na Moção 46/2023 (Itaúna), que apoia o Congresso para evitar que o Judiciário usurpe a competência do Legislativo, em 03/10/2023."
+   },
+   "G13": {
+    "v": 4,
+    "conf": "voto",
+    "fonte": "https://sapl.itauna.mg.leg.br/materia/4458",
+    "nota": "Votou Sim (16x0) no PL 56/2024 de Itaúna, que proíbe o vilipêndio de dogmas e crenças da religião cristã, em 13/08/2024."
+   }
+  }
+ },
+ {
+  "id": 130002542062,
+  "nomeUrna": "MARLI RIBEIRO",
+  "posicoes": {
+   "DE02": {
+    "v": 2,
+    "conf": "voto",
+    "fonte": "https://diariolegislativo.almg.gov.br/2024/L20240611.pdf",
+    "nota": "Votou não à Emenda 18 ao PL 2.309/2024 (recomposição de 33,24% do piso nacional da educação na rede estadual), rejeitada em 2º turno em 6/6/2024."
+   }
+  }
+ },
+ {
+  "id": 130002542804,
+  "nomeUrna": "GREGO DA FUNDAÇÃO",
+  "posicoes": {
+   "DE02": {
+    "v": 2,
+    "conf": "voto",
+    "fonte": "https://diariolegislativo.almg.gov.br/2024/L20240611.pdf",
+    "nota": "Votou não à Emenda 18 ao PL 2.309/2024 (recomposição de 33,24% do piso nacional da educação na rede estadual), rejeitada em 2º turno em 6/6/2024."
+   }
+  }
+ },
+ {
+  "id": 130002542792,
+  "nomeUrna": "JÉSSICA MARA",
+  "posicoes": {}
+ },
+ {
+  "id": 130002549957,
+  "nomeUrna": "TITO TORRES",
+  "posicoes": {
+   "DE02": {
+    "v": 2,
+    "conf": "voto",
+    "fonte": "https://diariolegislativo.almg.gov.br/2024/L20240611.pdf",
+    "nota": "Votou não à Emenda 18 ao PL 2.309/2024 (recomposição de 33,24% do piso nacional da educação na rede estadual), rejeitada em 2º turno em 6/6/2024."
+   }
+  }
+ },
+ {
+  "id": 130002542094,
+  "nomeUrna": "UGLENO ALVES",
+  "posicoes": {
+   "G01": {
+    "v": 4,
+    "conf": "declaracao",
+    "fonte": "https://soaquinoticias.com.br/nikolas-ferreira-apoia-nove-candidatos-em-mg-ugleno-alves-vai-representar-o-vale-do-aco/",
+    "nota": "Em campanha de 2026, defende 'maior liberdade econômica, Estado mínimo, menos burocracia' para Minas Gerais."
+   }
+  },
+  "bandeiras": [
+   "Liberdade econômica e desburocratização",
+   "Valores conservadores e família",
+   "Recursos para os Vales do Mucuri e Jequitinhonha"
+  ]
+ },
+ {
+  "id": 130002532947,
+  "nomeUrna": "DENISE DA SUPRA",
+  "posicoes": {}
+ },
+ {
+  "id": 130002542081,
+  "nomeUrna": "ALÊ PORTELA",
+  "posicoes": {
+   "DE02": {
+    "v": 2,
+    "conf": "voto",
+    "fonte": "https://diariolegislativo.almg.gov.br/2024/L20240611.pdf",
+    "nota": "Votou não à Emenda 18 ao PL 2.309/2024 (recomposição de 33,24% do piso nacional da educação na rede estadual), rejeitada em 2º turno em 6/6/2024."
+   },
+   "G04": {
+    "v": 4,
+    "conf": "declaracao",
+    "fonte": "https://www.almg.gov.br/deputados/ale-portela/16234",
+    "nota": "Consta como membro da Frente Parlamentar em Defesa do Cidadão Armado na ALMG (perfil oficial consultado em 26/09/2026)."
+   }
+  }
+ },
+ {
+  "id": 130002543678,
+  "nomeUrna": "RENATO LOFFI",
+  "posicoes": {}
+ },
+ {
+  "id": 130002542068,
+  "nomeUrna": "DENERVAL GERMANO",
+  "posicoes": {}
+ },
+ {
+  "id": 130002535373,
+  "nomeUrna": "GILSA SANTOS",
+  "posicoes": {},
+  "bandeiras": [
+   "Educação pública",
+   "Defesa da população negra e das periferias",
+   "Direitos das mulheres"
+  ]
+ },
+ {
+  "id": 130002535322,
+  "nomeUrna": "MARIA DO CARMO",
+  "posicoes": {
+   "G01": {
+    "v": 2,
+    "conf": "voto",
+    "fonte": "https://www.camara.leg.br/SitCamaraWS/Proposicoes.asmx/ObterVotacaoProposicao?tipo=PEC&numero=558&ano=2006",
+    "nota": "Como deputada federal, votou Sim à PEC 558/2006 (prorrogação da CPMF e DRU) em 1º e 2º turnos, set/out 2007. Evidência antiga."
+   }
+  },
+  "bandeiras": [
+   "Fortalecimento da democracia",
+   "Direitos do povo",
+   "Presença ativa do Estado nas políticas públicas"
+  ]
+ },
+ {
+  "id": 130002532941,
+  "nomeUrna": "FERNANDO BRENO",
+  "posicoes": {},
+  "bandeiras": [
+   "Representatividade dos pequenos municípios do Cerrado Mineiro",
+   "Saúde regionalizada",
+   "Manutenção e asfaltamento de estradas rurais"
+  ]
+ },
+ {
+  "id": 130002535378,
+  "nomeUrna": "MÁRIO HENRIQUE CAIXA",
+  "posicoes": {
+   "DE02": {
+    "v": 4,
+    "conf": "voto",
+    "fonte": "https://diariolegislativo.almg.gov.br/2024/L20240611.pdf",
+    "nota": "Votou sim à Emenda 18 ao PL 2.309/2024 (recomposição de 33,24% do piso nacional da educação na rede estadual), rejeitada em 2º turno em 6/6/2024."
+   }
+  }
+ },
+ {
+  "id": 130002542048,
+  "nomeUrna": "SAMUEL CAIRES",
+  "posicoes": {
+   "G08": {
+    "v": 4,
+    "conf": "declaracao",
+    "fonte": "https://www.samuelcaires.com.br/samuel-caires-participa-de-manifestação",
+    "nota": "Site do vereador (2025) registra participação dele em ato na Av. Paulista em defesa da anistia aos envolvidos no 8/1."
+   },
+   "G13": {
+    "v": 4,
+    "conf": "declaracao",
+    "fonte": "https://www.samuelcaires.com.br/mandato-1",
+    "nota": "Página do mandato de vereador lista como meta 'defender valores cristãos' na atuação legislativa (2025)."
+   }
+  }
+ },
+ {
+  "id": 130002542066,
+  "nomeUrna": "MARCELO HEITOR",
+  "posicoes": {
+   "G01": {
+    "v": 4,
+    "conf": "declaracao",
+    "fonte": "https://pocoscom.com/eleicoes-2026-por-que-voce-quer-ser-candidato-a-deputado-estadual/",
+    "nota": "Em 18/09/2026 disse defender 'um Estado que gasta menos e entrega mais resultado'; em 2024 propôs reduzir secretarias em Poços."
+   }
+  },
+  "bandeiras": [
+   "Saúde regionalizada (hoje concentrada em poucos municípios)",
+   "Segurança pública",
+   "Estradas no Sul e Sudoeste de Minas"
+  ]
+ },
+ {
+  "id": 130002550179,
+  "nomeUrna": "VERA SARAIVA",
+  "posicoes": {
+   "G02": {
+    "v": 4,
+    "conf": "declaracao",
+    "fonte": "https://www.vicosa.mg.leg.br/institucional/noticias/2021/06-2021/vereadores-recebem-esclarecimentos-da-secretaria-municipal-de-assistencia-social-1",
+    "nota": "Como secretária de Assistência Social de Viçosa (jun/2021), chamou de 'absurdo' o Bolsa Família não aceitar novas famílias na pandemia."
+   }
+  }
+ },
+ {
+  "id": 130002533229,
+  "nomeUrna": "JUCA BAHIA",
+  "posicoes": {}
+ },
+ {
+  "id": 130002534518,
+  "nomeUrna": "MARCELA TRÓPIA",
+  "posicoes": {
+   "G09": {
+    "v": 4,
+    "conf": "declaracao",
+    "fonte": "https://www.cmbh.mg.gov.br/comunica%C3%A7%C3%A3o/not%C3%ADcias/2022/12/mo%C3%A7%C3%A3o-pela-liberdade-contra-censura-do-stf-ser%C3%A1-enviada-ao-senado",
+    "nota": "Coautora da Moção 49/2022 na CMBH, que acusa o ministro Moraes (STF) de abusos e pede ao Senado apurar crime de responsabilidade (aprovada em 15/12/2022)."
+   },
+   "G01": {
+    "v": 4,
+    "conf": "declaracao",
+    "fonte": "https://marcelatropia.com.br/mandato-marcela-tropia/",
+    "nota": "Compromissos do mandato de vereadora (desde 2021): 'votar contra aumento de impostos' e 'reduzir os gastos do gabinete em pelo menos 50%'."
+   },
+   "G03": {
+    "v": 4,
+    "conf": "declaracao",
+    "fonte": "https://marcelatropia.com.br/mandato-marcela-tropia/",
+    "nota": "Entre os compromissos do mandato está 'defender a transferência de atividades exercidas pelo poder público para o setor privado'."
+   },
+   "G13": {
+    "v": 4,
+    "conf": "voto",
+    "fonte": "https://cmbhsildownload.cmbh.mg.gov.br/silinternet/servico/download/documentoVinculado?idDocumento=2c907f769fc06af1019ff77ba2f7518c",
+    "nota": "Votou sim ao PL 268/2025 (intervalo bíblico voluntário nas escolas de BH), 1º turno na CMBH, em 12/08/2026 (30 a 8)."
+   }
+  }
+ },
+ {
+  "id": 130002539901,
+  "nomeUrna": "JEPHERSON MADUREIRA",
+  "posicoes": {}
+ },
+ {
+  "id": 130002542761,
+  "nomeUrna": "CLEITON XAVIER",
+  "posicoes": {
+   "G06": {
+    "v": 2,
+    "conf": "declaracao",
+    "fonte": "https://x.com/cleitonxavierpc",
+    "nota": "Em 25/06/2024 disse que descriminalizar o porte de drogas para consumo pessoal é 'retrocesso da moralidade' e levaria a 'epidemia de consumo'."
+   },
+   "G13": {
+    "v": 4,
+    "conf": "voto",
+    "fonte": "https://cmbhsildownload.cmbh.mg.gov.br/silinternet/servico/download/documentoVinculado?idDocumento=2c907f769fc06af1019ff77ba2f7518c",
+    "nota": "Votou sim ao PL 268/2025 (intervalo bíblico voluntário nas escolas de BH), 1º turno na CMBH, em 12/08/2026 (30 a 8)."
+   }
+  }
+ },
+ {
+  "id": 130002542754,
+  "nomeUrna": "BETINHO PINTO COELHO",
+  "posicoes": {}
+ },
+ {
+  "id": 130002543664,
+  "nomeUrna": "NORALDINO JUNIOR",
+  "posicoes": {}
+ },
+ {
+  "id": 130002542748,
+  "nomeUrna": "DOORGAL ANDRADA",
+  "posicoes": {
+   "DE02": {
+    "v": 2,
+    "conf": "voto",
+    "fonte": "https://diariolegislativo.almg.gov.br/2024/L20240611.pdf",
+    "nota": "Votou não à Emenda 18 ao PL 2.309/2024 (recomposição de 33,24% do piso nacional da educação na rede estadual), rejeitada em 2º turno em 6/6/2024."
+   }
+  }
+ },
+ {
+  "id": 130002548769,
+  "nomeUrna": "RODRIGO CADEIRANTE",
+  "posicoes": {
+   "DE01": {
+    "v": 4,
+    "conf": "declaracao",
+    "fonte": "https://www.em.com.br/politica/2025/10/7276633-vereadores-se-unem-contra-pec-que-abre-caminho-para-privatizacao-da-copasa.html",
+    "nota": "Em audiência na ALMG (22/10/2025), pediu que deputados não votassem a favor da PEC 24/2023, que retira o referendo para privatizar a Copasa."
+   },
+   "G03": {
+    "v": 2,
+    "conf": "declaracao",
+    "fonte": "https://www.em.com.br/politica/2025/10/7276633-vereadores-se-unem-contra-pec-que-abre-caminho-para-privatizacao-da-copasa.html",
+    "nota": "Em 22/10/2025, disse que sem a Copasa estatal o Norte de Minas 'entraria no total caos' e tratou a empresa como patrimônio da população."
+   }
+  },
+  "bandeiras": [
+   "Inclusão e direitos das pessoas com deficiência",
+   "Mobilidade urbana e transporte público",
+   "Desenvolvimento do Norte de Minas"
+  ]
+ },
+ {
+  "id": 130002548716,
+  "nomeUrna": "FLÁVIA BORJA",
+  "posicoes": {
+   "G05": {
+    "v": 1,
+    "conf": "declaracao",
+    "fonte": "https://www.em.com.br/app/noticia/politica/2020/11/23/interna_politica,1208653/minha-bandeira-e-a-defesa-da-familia-diz-vereadora-eleita-em-bh.shtml",
+    "nota": "Disse em 11/2020: 'Sou pró-vida, não sou a favor do aborto'. Em 04/2024 comemorou o 'censo do aborto' como 'defesa desde a concepção'."
+   },
+   "G13": {
+    "v": 4,
+    "conf": "declaracao",
+    "fonte": "https://www.em.com.br/politica/2025/12/7323177-vereadores-de-bh-priorizam-pautas-de-costumes-a-politicas-publicas.html",
+    "nota": "Autora do PL 268/2025 (intervalo bíblico com oração nas escolas de BH) e da lei que adotou a Bíblia como material paradidático, aprovada em 04/2025."
+   }
+  }
+ },
+ {
+  "id": 130002549946,
+  "nomeUrna": "EDIR",
+  "posicoes": {},
+  "bandeiras": [
+   "Participação das mulheres na política",
+   "Apoio à agricultura e ao agronegócio",
+   "Educação, saúde e emprego"
+  ]
+ },
+ {
+  "id": 130002549941,
+  "nomeUrna": "VERA ARAÚJO",
+  "posicoes": {},
+  "bandeiras": [
+   "Educação",
+   "Participação das mulheres nos espaços de decisão",
+   "Acesso à saúde nas comunidades"
+  ]
+ },
+ {
+  "id": 130002540050,
+  "nomeUrna": "CHIQUINHO TOMAZ",
+  "posicoes": {},
+  "bandeiras": [
+   "Representação do Pontal do Triângulo na Assembleia",
+   "Recursos para saúde nos municípios da região"
+  ]
+ },
+ {
+  "id": 130002539496,
+  "nomeUrna": "PEPÊ DA LIBERDADE",
+  "posicoes": {}
+ },
+ {
+  "id": 130002535344,
+  "nomeUrna": "EDMAR BRANCO",
+  "posicoes": {
+   "G14": {
+    "v": 5,
+    "conf": "declaracao",
+    "fonte": "https://www.facebook.com/edmarmartinsbranco/",
+    "nota": "Perfil oficial diz que defende o fim da escala 6x1 e a redução da jornada para 30 horas semanais sem redução salarial (vereador, 2025)."
+   },
+   "DE04": {
+    "v": 4,
+    "conf": "declaracao",
+    "fonte": "https://edmarbranco65065.com.br/",
+    "nota": "Site de campanha 2026 propõe Bilhete Único metropolitano e tarifas justas na RMBH; em 2025 votou a favor da Tarifa Zero municipal em BH."
+   },
+   "G13": {
+    "v": 2,
+    "conf": "voto",
+    "fonte": "https://cmbhsildownload.cmbh.mg.gov.br/silinternet/servico/download/documentoVinculado?idDocumento=2c907f769fc06af1019ff77ba2f7518c",
+    "nota": "Votou não ao PL 268/2025 (intervalo bíblico voluntário nas escolas de BH), 1º turno na CMBH, em 12/08/2026 (aprovado por 30 a 8)."
+   }
+  }
+ },
+ {
+  "id": 130002551763,
+  "nomeUrna": "DR. JORGE ALI",
+  "posicoes": {
+   "DE02": {
+    "v": 2,
+    "conf": "voto",
+    "fonte": "https://diariolegislativo.almg.gov.br/2024/L20240611.pdf",
+    "nota": "Votou não às Emendas 55 (1º t., 4/6/24) e 18 (2º t., 6/6/24) ao PL 2.309/2024, que previam recompor o piso da educação; ambas rejeitadas."
+   }
+  }
+ },
+ {
+  "id": 130002549947,
+  "nomeUrna": "LEANDRO GENARO JUNTOS SOMOS +",
+  "posicoes": {
+   "DE02": {
+    "v": 2,
+    "conf": "voto",
+    "fonte": "https://diariolegislativo.almg.gov.br/2024/L20240611.pdf",
+    "nota": "Votou não à Emenda 18 ao PL 2.309/2024 (recomposição de 33,24% do piso nacional da educação na rede estadual), rejeitada em 2º turno em 6/6/2024."
+   },
+   "G05": {
+    "v": 1,
+    "conf": "declaracao",
+    "fonte": "https://www.almg.gov.br/pronunciamentos/deputado-leandro-genaro/2025-08-04/57483",
+    "nota": "Em discurso na ALMG (04/08/2025): 'cremos na vida a partir da sua concepção e não admitimos nenhuma tentativa contra ela'."
+   },
+   "G13": {
+    "v": 4,
+    "conf": "declaracao",
+    "fonte": "https://www.almg.gov.br/pronunciamentos/deputado-leandro-genaro/2021-10-21/46943",
+    "nota": "Na ALMG (21/10/2021), citou o 'padrão bíblico' de família e disse que se posicionará contra projetos desse teor; em 2025 defendeu a fé cristã no mandato."
+   }
+  }
+ },
+ {
+  "id": 130002539884,
+  "nomeUrna": "MAURO TRAMONTE",
+  "posicoes": {
+   "DE02": {
+    "v": 4,
+    "conf": "voto",
+    "fonte": "https://diariolegislativo.almg.gov.br/2024/L20240611.pdf",
+    "nota": "Votou sim à Emenda 18 ao PL 2.309/2024 (recomposição de 33,24% do piso nacional da educação na rede estadual), rejeitada em 2º turno em 6/6/2024."
+   }
+  }
+ },
+ {
+  "id": 130002549966,
+  "nomeUrna": "DOUTOR WILSON BATISTA",
+  "posicoes": {}
+ },
+ {
+  "id": 130002534510,
+  "nomeUrna": "ZÉ LAVIOLA",
+  "posicoes": {
+   "DE02": {
+    "v": 2,
+    "conf": "voto",
+    "fonte": "https://diariolegislativo.almg.gov.br/2024/L20240611.pdf",
+    "nota": "Votou não à Emenda 18 ao PL 2.309/2024 (recomposição de 33,24% do piso nacional da educação na rede estadual), rejeitada em 2º turno em 6/6/2024."
+   },
+   "G05": {
+    "v": 1,
+    "conf": "declaracao",
+    "fonte": "https://www.almg.gov.br/comunicacao/noticias/arquivos/Deputados-e-ativistas-condenam-possibilidade-de-descriminalizacao-do-aborto/",
+    "nota": "Disse ser contra o aborto em audiência na ALMG (04/09/2023). Coautor e relator favorável (CCJ, 27/05/2025) da PEC 26/2023 do nascituro."
+   }
+  }
+ },
+ {
+  "id": 130002549942,
+  "nomeUrna": "RAFAEL MARTINS",
+  "posicoes": {
+   "DE02": {
+    "v": 2,
+    "conf": "voto",
+    "fonte": "https://diariolegislativo.almg.gov.br/2024/L20240611.pdf",
+    "nota": "Votou não à Emenda 18 ao PL 2.309/2024 (recomposição de 33,24% do piso nacional da educação na rede estadual), rejeitada em 2º turno em 6/6/2024."
+   },
+   "DE04": {
+    "v": 4,
+    "conf": "declaracao",
+    "fonte": "https://www.almg.gov.br/atividade-parlamentar/projetos-de-lei/texto/?tipo=PL&num=5023&ano=2026",
+    "nota": "Autor do PL 5.023/2026 (fev/2026): passe livre estudantil no ônibus intermunicipal do estado, pago com orçamento estadual e fundos."
+   }
+  }
+ },
+ {
+  "id": 130002539880,
+  "nomeUrna": "CHARLES SANTOS",
+  "posicoes": {
+   "DE02": {
+    "v": 2,
+    "conf": "voto",
+    "fonte": "https://diariolegislativo.almg.gov.br/2024/L20240611.pdf",
+    "nota": "Votou não à Emenda 18 ao PL 2.309/2024 (recomposição de 33,24% do piso nacional da educação na rede estadual), rejeitada em 2º turno em 6/6/2024."
+   },
+   "G06": {
+    "v": 2,
+    "conf": "declaracao",
+    "fonte": "https://www.almg.gov.br/atividade-parlamentar/plenario/pronunciamentos/pronunciamento/?id=47541",
+    "nota": "Em discurso na ALMG (06/10/2022), criticou a proposta de 'liberação da maconha' como pauta ruim para o país."
+   },
+   "G13": {
+    "v": 4,
+    "conf": "declaracao",
+    "fonte": "https://charlessantos.com.br/uploads/Empresas/48/Biografia_Editada_Dep-Charles-Santos_2023_12_02.pdf",
+    "nota": "Biografia oficial (dez/2023) se apresenta como 'defensor dos valores cristãos' que guiam sua atuação no Parlamento; criou frente pela família e vida."
+   }
+  }
+ }
+]

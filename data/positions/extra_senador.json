@@ -1,0 +1,347 @@
+[
+ {
+  "id": 130002554332,
+  "nomeUrna": "AÉCIO NEVES",
+  "posicoes": {
+   "G01": {
+    "v": 4,
+    "conf": "declaracao",
+    "fonte": "https://www.psdb.org.br/acompanhe/noticias/em-entrevista-ao-canal-livre-aecio-neves-defende-uma-nova-via-para-o-brasil/",
+    "nota": "No Canal Livre (Band, 06/2026), criticou a 'gastância' do governo e defendeu política fiscal 'rígida', controle de gastos e privatizações."
+   },
+   "G06": {
+    "v": 2,
+    "conf": "declaracao",
+    "fonte": "https://www.otempo.com.br/politica/aos-18-experimentei-maconha-diz-aecio-1.850419",
+    "nota": "Em 2014, como pré-candidato a presidente, disse: 'Não sou a favor da descriminalização' da maconha. Não há declaração recente localizada."
+   },
+   "G09": {
+    "v": 4,
+    "conf": "declaracao",
+    "fonte": "https://tmc.com.br/politica/aecio-neves-critica-emendas-parlamentares-estamos-atuando-fora-de-qualquer-limite/",
+    "nota": "Em 06/2026 disse que o STF é 'um poder tão acima dos outros' que decisões monocráticas anulam decisões do Congresso."
+   },
+   "G12": {
+    "v": 4,
+    "conf": "declaracao",
+    "fonte": "https://jornalggn.com.br/politica/aecio-neves-se-declara-a-favor-da-reducao-da-maioridade-penal/",
+    "nota": "Em 04/2014 apoiou a PEC 33/2012, que permitia punir como adulto jovens de 16 a 18 anos por crimes graves. Não há fala recente localizada."
+   }
+  }
+ },
+ {
+  "id": 130002547884,
+  "nomeUrna": "ANA LUIZA DO MLB",
+  "posicoes": {
+   "S01": {
+    "v": 3,
+    "conf": "declaracao",
+    "fonte": "https://www.youtube.com/watch?v=AK8VgknDW9E",
+    "nota": "Na TV Assembleia (12/09/2026), disse não ser a favor nem contra o impeachment de ministros do STF; defende eleger os ministros por voto."
+   },
+   "G07": {
+    "v": 4,
+    "conf": "declaracao",
+    "fonte": "https://www.youtube.com/watch?v=4DXjLD7B5V0",
+    "nota": "Na Itatiaia (01/09/2026), disse que a mineração prejudica a população e só deve ocorrer com fiscalização ambiental e conselhos populares."
+   }
+  }
+ },
+ {
+  "id": 130002552302,
+  "nomeUrna": "ARCANJO PIMENTA",
+  "posicoes": {
+   "G09": {
+    "v": 4,
+    "conf": "declaracao",
+    "fonte": "https://www.gazetadopovo.com.br/eleicoes/2026/gazeta-do-povo-mapeia-candidatos-senado-impeachment-ministros-stf/",
+    "nota": "À Gazeta do Povo (09/2026), disse que é preciso um 'freio de arrumação no Supremo' e que 'um poder não pode se sobrepor a outros'."
+   },
+   "S02": {
+    "v": 4,
+    "conf": "declaracao",
+    "fonte": "https://www.dgabc.com.br/Noticia/4344775/em-mg-gabriel-azevedo-e-candidatos-ao-senado-pedem-renuncia-de-moraes-e-reforma-do-stf",
+    "nota": "Em 02/09/2026 lançou com Gabriel Azevedo e Manoel Carvalho o manifesto 'Reformar para proteger', que propõe mandato de 12 anos no STF."
+   }
+  }
+ },
+ {
+  "id": 130002550557,
+  "nomeUrna": "ÁUREA CAROLINA",
+  "posicoes": {
+   "G05": {
+    "v": 4,
+    "conf": "declaracao",
+    "fonte": "https://apublica.org/2019/05/nenhuma-senadora-apoia-a-descriminalizacao-do-aborto/",
+    "nota": "À Agência Pública (05/2019), como deputada, disse ser 'indefensável a criminalização da mulher que faz um aborto'."
+   },
+   "G12": {
+    "v": 2,
+    "conf": "declaracao",
+    "fonte": "https://portalgerais.com/manda-prender-manda-matar-nao-e-resposta-aurea-carolina-rebate-discurso-punitivista",
+    "nota": "Ao Portal Gerais (08/2026), rebateu apelos pela redução da maioridade penal e defendeu aplicar as medidas previstas no ECA."
+   }
+  }
+ },
+ {
+  "id": 130002552186,
+  "nomeUrna": "CARLIN MOURA",
+  "posicoes": {
+   "S01": {
+    "v": 4,
+    "conf": "declaracao",
+    "fonte": "https://www.gazetadopovo.com.br/eleicoes/2026/gazeta-do-povo-mapeia-candidatos-senado-impeachment-ministros-stf/",
+    "nota": "À 98 News (início de 09/2026, citado pela Gazeta do Povo), disse que o impeachment de ministro do STF 'tem que ser feito' se houver crime de responsabilidade."
+   },
+   "G03": {
+    "v": 3,
+    "conf": "declaracao",
+    "fonte": "https://www.band.com.br/nacional/mg/carlin-moura-apresenta-propostas-para-minas-em-sabatina-da-band-minas",
+    "nota": "Na sabatina da Band Minas (17/09/2026), disse concordar com a venda de ativos estaduais se o dinheiro for só para educação, segurança e habitação."
+   }
+  }
+ },
+ {
+  "id": 130002545590,
+  "nomeUrna": "CARLOS VIANA",
+  "posicoes": {
+   "G06": {
+    "v": 1,
+    "conf": "declaracao",
+    "fonte": "https://istoe.com.br/lider-evangelico-no-senado-quer-que-bolsonaro-e-generais-sejam-julgados-pelo-stf",
+    "nota": "Defendeu na CCJ (13/03/2024) a PEC 45/2023, que criminaliza porte de qualquer quantidade de droga, e em 02/2025 cobrou sua aprovação na Câmara."
+   },
+   "G11": {
+    "v": 3,
+    "conf": "voto",
+    "fonte": "https://legis.senado.leg.br/dadosabertos/votacao?dataInicio=2024-05-22&dataFim=2024-05-22",
+    "nota": "Em 22/05/2024 votou Sim à preferência de emenda que trocava cotas raciais em concursos por sociais; em 24/10/2023 votou Não a pedido análogo."
+   }
+  }
+ },
+ {
+  "id": 130002551786,
+  "nomeUrna": "DOMINGOS SÁVIO",
+  "posicoes": {
+   "S05": {
+    "v": 4,
+    "conf": "voto",
+    "fonte": "https://dadosabertos.camara.leg.br/api/v2/votacoes/373327-190/votos",
+    "nota": "Votou a favor do fim da reeleição no Executivo (PEC 182/2007) em 27/05/2015 e da PEC em 2º turno em 07/07/2015. Sem fala recente localizada."
+   },
+   "G13": {
+    "v": 4,
+    "conf": "declaracao",
+    "fonte": "https://www.domingossavio.com.br/sobre",
+    "nota": "Seu site oficial afirma que ele exerce 'um mandato comprometido com os valores de Deus, da Pátria, da Família e da Liberdade'."
+   }
+  }
+ },
+ {
+  "id": 130002547882,
+  "nomeUrna": "FIDÉLIS ALCÂNTARA",
+  "posicoes": {
+   "S02": {
+    "v": 4,
+    "conf": "declaracao",
+    "fonte": "https://www.youtube.com/watch?v=YVxLFhDANE0",
+    "nota": "Na TV Assembleia (13/09/2026), defendeu eleger ministros do STF com mandato de 4 ou 8 anos, no lugar da indicação presidencial."
+   },
+   "S01": {
+    "v": 2,
+    "conf": "declaracao",
+    "fonte": "https://www.youtube.com/watch?v=YVxLFhDANE0",
+    "nota": "Na TV Assembleia (13/09/2026), chamou as propostas de impeachment de ministros do STF de 'jogo político' e defendeu eleger os juízes."
+   },
+   "G03": {
+    "v": 2,
+    "conf": "declaracao",
+    "fonte": "https://www.youtube.com/watch?v=YVxLFhDANE0",
+    "nota": "Na TV Assembleia (13/09/2026), criticou a venda de ações da Copasa como 'entrega pros ricos' e a política 'neoliberal' dos governos."
+   }
+  },
+  "bandeiras": [
+   "Auditoria da dívida pública federal e estadual",
+   "Fim das emendas parlamentares",
+   "Eleição direta e mandato fixo para ministros do STF"
+  ]
+ },
+ {
+  "id": 130002551929,
+  "nomeUrna": "JORDANO METALÚRGICO",
+  "posicoes": {
+   "G04": {
+    "v": 4,
+    "conf": "declaracao",
+    "fonte": "https://bhaz.com.br/eleicoes/jordano-metalurgico-entrevista-bhaz/",
+    "nota": "Em 2018, candidato a governador, defendeu liberar armas para a população se defender; em 2022 (O Tempo) voltou a defender a autodefesa organizada."
+   },
+   "G07": {
+    "v": 4,
+    "conf": "declaracao",
+    "fonte": "https://www.youtube.com/watch?v=VraUUDqrO3I",
+    "nota": "No Café com Política de O Tempo (09/09/2026), defendeu 'luta muito forte pela preservação do meio ambiente' contra a degradação da mineração."
+   }
+  }
+ },
+ {
+  "id": 130002551265,
+  "nomeUrna": "JUÍZ RAMON MOREIRA",
+  "posicoes": {}
+ },
+ {
+  "id": 130002552299,
+  "nomeUrna": "MANOEL CARVALHO",
+  "posicoes": {
+   "S01": {
+    "v": 4,
+    "conf": "declaracao",
+    "fonte": "https://www.gazetadopovo.com.br/eleicoes/2026/gazeta-do-povo-mapeia-candidatos-senado-impeachment-ministros-stf/",
+    "nota": "À TV Horizonte (citado pela Gazeta do Povo, 09/2026): 'se for comprovado [crime], eu voto a favor' do impeachment; manifesto de 02/09 pede exame dos pedidos."
+   },
+   "S03": {
+    "v": 4,
+    "conf": "declaracao",
+    "fonte": "https://www.dgabc.com.br/Noticia/4344775/em-mg-gabriel-azevedo-e-candidatos-ao-senado-pedem-renuncia-de-moraes-e-reforma-do-stf",
+    "nota": "Manifesto que lançou em 02/09/2026 propõe que cautelares individuais de alcance nacional percam efeito se o plenário do STF não confirmar em 15 dias."
+   }
+  }
+ },
+ {
+  "id": 130002548381,
+  "nomeUrna": "MARCELO ARO",
+  "posicoes": {
+   "G04": {
+    "v": 4,
+    "conf": "voto",
+    "fonte": "https://dadosabertos.camara.leg.br/api/v2/votacoes/2210523-70/votos",
+    "nota": "Votou a favor do PL 3715/2019, que estende a posse de arma a toda a área da propriedade rural, em 21/08/2019."
+   },
+   "G09": {
+    "v": 5,
+    "conf": "declaracao",
+    "fonte": "https://g1.globo.com/mg/minas-gerais/eleicoes/2026/noticia/2026/09/08/primeiro-debate-senado-mg.ghtml",
+    "nota": "No debate do g1 (08/09/2026), disse que o Judiciário ultrapassou seus limites constitucionais; ao Estado de Minas, que 'faz as vezes' dos outros Poderes."
+   },
+   "G14": {
+    "v": 4,
+    "conf": "declaracao",
+    "fonte": "https://g1.globo.com/mg/minas-gerais/eleicoes/2026/noticia/2026/09/08/primeiro-debate-senado-mg.ghtml",
+    "nota": "No debate do g1 (08/09/2026), disse apoiar a redução da jornada semanal de 44 para 40 horas se eleito."
+   },
+   "S01": {
+    "v": 5,
+    "conf": "declaracao",
+    "fonte": "https://g1.globo.com/mg/minas-gerais/eleicoes/2026/noticia/2026/09/08/primeiro-debate-senado-mg.ghtml",
+    "nota": "No debate do g1 (08/09/2026), declarou-se totalmente favorável ao impeachment de ministros do STF; em 24/09 citou crime de responsabilidade comprovado."
+   },
+   "S02": {
+    "v": 4,
+    "conf": "declaracao",
+    "fonte": "https://diariodocomercio.com.br/politica/aro-e-pimenta-defendem-impeachment-de-ministros-do-stf-em-sabatina/",
+    "nota": "Na sabatina Minas Presente (24/09/2026), defendeu mandato de oito anos para ministros do STF."
+   },
+   "S03": {
+    "v": 4,
+    "conf": "declaracao",
+    "fonte": "https://www.em.com.br/politica/2026/08/amp/7482307-aro-critica-propag-e-defende-novo-pacto-federativo.html",
+    "nota": "Ao Estado de Minas (18/08/2026), criticou decisões monocráticas que anulam leis do Congresso e disse que devem ao menos ir ao colegiado."
+   },
+   "S05": {
+    "v": 4,
+    "conf": "voto",
+    "fonte": "https://dadosabertos.camara.leg.br/api/v2/votacoes/373327-190/votos",
+    "nota": "Votou a favor do fim da reeleição no Executivo (PEC 182/2007) em 27/05/2015 e da PEC em 2º turno em 07/07/2015."
+   }
+  }
+ },
+ {
+  "id": 130002551284,
+  "nomeUrna": "MARCO ANTÔNIO SUPERMAN",
+  "posicoes": {
+   "G03": {
+    "v": 4,
+    "conf": "declaracao",
+    "fonte": "https://rede98.com.br/eleicoes2026/impeachment-de-ministros-do-tcu-stf-e-novo-pacto-federativo-as-pautas-de-marco-antonio-superman/",
+    "nota": "À Rede 98 (09/2026), sobre Cemig e Copasa: 'Tem que privatizar tudo' o que tem gestão estatal comprovadamente ineficiente."
+   },
+   "G04": {
+    "v": 4,
+    "conf": "declaracao",
+    "fonte": "https://jovempan.com.br/videos/programas/opiniao/marco-antonio-costa-desarmamento-e-uma-atitude-ditatorial.html",
+    "nota": "Como comentarista da Jovem Pan, em 06/2022, afirmou que 'desarmamento é uma atitude ditatorial'."
+   },
+   "G08": {
+    "v": 4,
+    "conf": "declaracao",
+    "fonte": "https://x.com/realmacosta/status/1901372405928591484",
+    "nota": "Em post de 16/03/2025 sobre ato pró-anistia, pediu 'justiça aos injustiçados de 8 de janeiro' e escreveu 'Anistia já!'."
+   },
+   "S04": {
+    "v": 4,
+    "conf": "declaracao",
+    "fonte": "https://rede98.com.br/noticias/politica/sou-o-unico-de-direita-em-mg-diz-pre-candidato-ao-senado/",
+    "nota": "Em 05/2026 disse que o foro privilegiado 'fez o Supremo virar uma máquina de crimes' e cria 'codependência' entre senadores e o STF."
+   }
+  }
+ },
+ {
+  "id": 130002550560,
+  "nomeUrna": "MARÍLIA CAMPOS",
+  "posicoes": {
+   "G11": {
+    "v": 4,
+    "conf": "declaracao",
+    "fonte": "https://www.almg.gov.br/projetos-de-lei/PL/690/2015",
+    "nota": "Autora do PL 690/2015 na ALMG, que estabelece cotas raciais para negros no ingresso no serviço público estadual."
+   },
+   "G12": {
+    "v": 2,
+    "conf": "declaracao",
+    "fonte": "https://www.almg.gov.br/acompanhe/noticias/arquivos/2015/06/22_direitos_humanos_maioridade_penal.html",
+    "nota": "Em audiência na ALMG (22/06/2015), disse que 'não faltam argumentos contra a redução da maioridade penal'."
+   }
+  }
+ },
+ {
+  "id": 130002552311,
+  "nomeUrna": "TIÃO PESSOA",
+  "posicoes": {}
+ },
+ {
+  "id": 130002551930,
+  "nomeUrna": "VICTÓRIA MELLO VIC",
+  "posicoes": {
+   "G03": {
+    "v": 1,
+    "conf": "declaracao",
+    "fonte": "https://rede98.com.br/eleicoes2026/victoria-mello-pstu-defende-escala-4-x-3-em-sabatina-na-98-news/",
+    "nota": "Na 98 News (11/09/2026), defendeu expropriar e estatizar cerca de 250 grandes empresas e reestatizar a mineração, sob controle dos trabalhadores."
+   },
+   "G06": {
+    "v": 4,
+    "conf": "declaracao",
+    "fonte": "https://tribunademinas.com.br/noticias/politica/eleicoes-2024/10-09-2024/victoria-mello.html",
+    "nota": "Como candidata a prefeita de Juiz de Fora (Tribuna de Minas, 10/09/2024), disse que a violência se resolve 'descriminalizando as drogas'."
+   },
+   "G07": {
+    "v": 4,
+    "conf": "declaracao",
+    "fonte": "https://www.youtube.com/watch?v=iCZeSa15hCI",
+    "nota": "Na 98 News (11/09/2026), criticou a mineração pelo 'ataque ao meio ambiente' e à água; em 2024 propôs confiscar empresas que poluíssem o Paraibuna."
+   },
+   "G09": {
+    "v": 2,
+    "conf": "declaracao",
+    "fonte": "https://www.youtube.com/watch?v=QUH1XxcR794",
+    "nota": "Na TV Assembleia (05/09/2026), disse que o STF agiu 'corretamente' no 8 de janeiro para defender a democracia; critica decisões contra trabalhadores."
+   },
+   "G14": {
+    "v": 5,
+    "conf": "declaracao",
+    "fonte": "https://rede98.com.br/eleicoes2026/victoria-mello-pstu-defende-escala-4-x-3-em-sabatina-na-98-news/",
+    "nota": "Na 98 News (11/09/2026), defendeu reduzir a jornada para 36 horas semanais, com escala 4x3 (quatro dias de trabalho e três de descanso)."
+   }
+  }
+ }
+]

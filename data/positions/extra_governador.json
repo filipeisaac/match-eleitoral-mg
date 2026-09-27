@@ -1,0 +1,202 @@
+[
+  {
+    "id": 130002539775,
+    "nomeUrna": "ALEXANDRE KALIL",
+    "posicoes": {
+      "G06": {
+        "v": 2,
+        "conf": "declaracao",
+        "fonte": "https://www.youtube.com/watch?v=ZgVoubuUB1Y",
+        "nota": "Na sabatina UOL/Folha de 11/05/2022, em rodada de respostas curtas, disse ser contra a descriminalização da maconha."
+      }
+    }
+  },
+  {
+    "id": 130002544411,
+    "nomeUrna": "BEN MENDES",
+    "posicoes": {
+      "G05": {
+        "v": 1,
+        "conf": "declaracao",
+        "fonte": "https://www.youtube.com/watch?v=vvIyzHdg4wA",
+        "nota": "Em debate no Podcast 3 Irmãos (06/12/2025), defendeu posição contrária ao aborto e à descriminalização, que chamou de assassinato."
+      },
+      "G14": {
+        "v": 2,
+        "conf": "declaracao",
+        "fonte": "https://www.youtube.com/watch?v=H5J5wlpW7cI",
+        "nota": "Em debate com Henrique Vieira (09/02/2026), chamou o fim da escala 6x1 de proposta populista e disse que o trabalhador prefere mais renda."
+      },
+      "GV02": {
+        "v": 5,
+        "conf": "declaracao",
+        "fonte": "https://www.youtube.com/watch?v=Wf_puTe2t8w",
+        "nota": "À RecordTV Minas (11/09/2026), disse ser 'absolutamente favorável' às câmeras na farda policial, como prova para a sociedade e o policial."
+      },
+      "G07": {
+        "v": 2,
+        "conf": "declaracao",
+        "fonte": "https://www.youtube.com/watch?v=SUWbhMhMrEc",
+        "nota": "Na TV Assembleia (01/09/2026), disse que a mineração foi tratada como 'inimiga' por políticas antidesenvolvimentistas e que o estado precisa dela."
+      }
+    }
+  },
+  {
+    "id": 130002552296,
+    "nomeUrna": "CLEITINHO AZEVEDO",
+    "posicoes": {
+      "G03": {
+        "v": 2,
+        "conf": "declaracao",
+        "fonte": "https://www.otempo.com.br/eleicoes/2026/governadores/2026/9/17/guarda-esse-video-e-me-cobra-daqui-quatro-anos-diz-cleitinho-sobre-valorizar-professores-em-minas",
+        "nota": "Em 17/09/2026 disse que não privatizará estatais que dão lucro; em 22/08/2022 havia defendido privatizar Copasa, Cemig e Petrobras."
+      },
+      "G04": {
+        "v": 4,
+        "conf": "declaracao",
+        "fonte": "https://www25.senado.leg.br/web/atividade/materias/-/materia/158826",
+        "nota": "Coautor do PDL 193/2023, que susta o decreto de armas 11.615/2023 (assinatura em 25/07/2023); autor dos PLs 3631/2023 e 2530/2024, que ampliam o porte."
+      },
+      "G10": {
+        "v": 2,
+        "conf": "declaracao",
+        "fonte": "https://sbtnews.sbt.com.br/noticia/politica/big-techs-regulacao-das-redes-sociais-no-stf-acirra-governo-e-oposicao-no-senado",
+        "nota": "Em 30/05/2025, sobre o julgamento do Marco Civil no STF, disse ser contra a regulamentação das redes e que o tema cabe ao Congresso."
+      },
+      "GV06": {
+        "v": 4,
+        "conf": "declaracao",
+        "fonte": "https://www25.senado.leg.br/web/atividade/materias/-/materia/158799",
+        "nota": "Coautor do PL 3568/2023 (fomento às escolas cívico-militares públicas); autor do PL 3626/2025, que autoriza o modelo na rede privada."
+      },
+      "G02": {
+        "v": 3,
+        "conf": "declaracao",
+        "fonte": "https://www25.senado.leg.br/web/atividade/materias/-/materia/167189",
+        "nota": "PL 408/2025 mantém no Bolsa Família famílias com trabalhador CLT de 1 salário mínimo; PL 3739/2024 restringe o uso do benefício a despesas essenciais."
+      }
+    }
+  },
+  {
+    "id": 130002550834,
+    "nomeUrna": "FLÁVIO ROSCOE",
+    "posicoes": {
+      "G02": {
+        "v": 3,
+        "conf": "declaracao",
+        "fonte": "https://jornaldebrasilia.com.br/noticias/politica-e-poder/flavio-roscoe-candidato-do-pl-em-minas-diz-que-tera-chapa-pura-e-que-nao-quis-se-contrapor-a-cleitinho/",
+        "nota": "Em 08/2026 defendeu trocar o Bolsa Família por renda mínima a quem ganha abaixo de um piso, trabalhando ou não; diz que o modelo atual gera dependência."
+      },
+      "G14": {
+        "v": 2,
+        "conf": "declaracao",
+        "fonte": "https://www.cnnbrasil.com.br/economia/macroeconomia/debate-sobre-escala-6x1-e-doping-eleitoral-diz-ex-presidente-da-fiemg/",
+        "nota": "À CNN (07/04/2026) chamou o debate do fim da 6x1 de 'doping eleitoral', disse que reduzir jornada encarece preços e defendeu negociação coletiva."
+      },
+      "GV06": {
+        "v": 3,
+        "conf": "declaracao",
+        "fonte": "https://www.band.com.br/nacional/mg/flavio-roscoe-apresenta-propostas-em-sabatina-na-bandnews-fm-bh",
+        "nota": "Na BandNews FM (16/09/2026) avaliou positivamente o modelo cívico-militar, mas disse que não é viável para toda a rede; propõe gestão tipo Sesi/Senai."
+      }
+    }
+  },
+  {
+    "id": 130002549557,
+    "nomeUrna": "GABRIEL",
+    "posicoes": {
+      "G05": {
+        "v": 1,
+        "conf": "declaracao",
+        "fonte": "https://www.otempo.com.br/eleicoes/2026/governadores/2026/6/11/alianca-com-pt-educacao-seguranca-e-ferrovias-leia-a-entrevista-de-gabriel-azevedo-na-integra",
+        "nota": "No Café com Política (11/06/2026), disse ser contra o aborto; em 2017 e 2020 já se opunha à descriminalização e aceitava as hipóteses legais atuais."
+      },
+      "G06": {
+        "v": 4,
+        "conf": "declaracao",
+        "fonte": "https://www.youtube.com/watch?v=ypQsSixxTJ0",
+        "nota": "Em vídeo de 01/12/2020, concordou que o porte de maconha para uso pessoal não deve ser crime; em 2017 já apoiava a descriminalização."
+      },
+      "G04": {
+        "v": 2,
+        "conf": "declaracao",
+        "fonte": "http://web.archive.org/web/20210124063828/https://www.obeltrano.com.br/portfolio/conservador-ou-progressista-gabriel-azevedo-e-aurea-carolina/",
+        "nota": "Em questionário ao O Beltrano (23/05/2017), como vereador, disse ser a favor do desarmamento da população e da segurança como monopólio do Estado."
+      },
+      "G02": {
+        "v": 3,
+        "conf": "declaracao",
+        "fonte": "http://web.archive.org/web/20210124063828/https://www.obeltrano.com.br/portfolio/conservador-ou-progressista-gabriel-azevedo-e-aurea-carolina/",
+        "nota": "Em 2017 disse ser a favor do Bolsa Família, com a ressalva de evitar dependência entre gerações; o plano de 2026 fala em complementar a renda federal."
+      },
+      "G01": {
+        "v": 3,
+        "conf": "declaracao",
+        "fonte": "https://kikacastro.com.br/wp-content/uploads/2026/08/plano-de-governo-final.pdf",
+        "nota": "Plano (TSE 2026): despesa deve crescer menos que a receita, sem elevar a carga tributária e preservando prioridades; não propõe cortar impostos."
+      },
+      "G07": {
+        "v": 3,
+        "conf": "declaracao",
+        "fonte": "https://www.otempo.com.br/eleicoes/2026/governadores/2026/9/15/governo-arrotava-etica-e-acabou-vomitando-a-operacao-rejeito-diz-gabriel-sobre-mineracao-em-minas",
+        "nota": "Na sabatina de O Tempo (15/09/2026), disse ser contra a mineração predatória; o plano trata proteção ambiental e produção como compatíveis."
+      }
+    }
+  },
+  {
+    "id": 130002552308,
+    "nomeUrna": "HENRIQUE ÁREAS",
+    "posicoes": {}
+  },
+  {
+    "id": 130002547874,
+    "nomeUrna": "INDIRA XAVIER",
+    "posicoes": {}
+  },
+  {
+    "id": 130002541911,
+    "nomeUrna": "MATEUS SIMÕES",
+    "posicoes": {
+      "G01": {
+        "v": 2,
+        "conf": "declaracao",
+        "fonte": "https://www.em.com.br/politica/2026/03/7378619-simoes-diz-nao-poder-cortar-icms-do-diesel-e-chama-lula-de-mentiroso.html",
+        "nota": "Em 18/03/2026 disse que não pode cortar ICMS do diesel porque faltariam recursos para outras áreas; em 09/2026 propôs rever isenções fiscais."
+      },
+      "G07": {
+        "v": 3,
+        "conf": "declaracao",
+        "fonte": "https://www.em.com.br/politica/2026/08/7481926-mineracao-na-serra-do-curral-permanece-tema-central-entre-candidatos-ao-governo-de-mg.html",
+        "nota": "Em 08/2026 disse ser possível conciliar mineração e preservação: licença ágil com contrapartidas ambientais; é contra minerar a Serra do Curral."
+      },
+      "G09": {
+        "v": 5,
+        "conf": "declaracao",
+        "fonte": "https://www.em.com.br/politica/2026/05/7416545-simoes-critica-stf-e-ve-ameaca-a-democracia-em-suspensao-da-dosimetria.html",
+        "nota": "Em 10/05/2026 falou em 'autoritarismo judicial'; repetiu críticas ao STF em 12/2025, 20/08 e 07/09/2026 e propôs mandato de 15 anos."
+      }
+    }
+  },
+  {
+    "id": 130002550464,
+    "nomeUrna": "PATRUS ANANIAS",
+    "posicoes": {
+      "G12": {
+        "v": 1,
+        "conf": "voto",
+        "fonte": "https://dadosabertos.camara.leg.br/api/v2/votacoes/1228863-102/votos",
+        "nota": "Votou não e apresentou voto em separado contra a admissibilidade da PEC 32/2015 (maioridade penal aos 16 anos) na CCJ da Câmara em 10/06/2026."
+      }
+    }
+  },
+  {
+    "id": 130002544122,
+    "nomeUrna": "PROFESSOR TÚLIO LOPES",
+    "posicoes": {}
+  },
+  {
+    "id": 130002546802,
+    "nomeUrna": "RAFAEL DUDA",
+    "posicoes": {}
+  }
+]

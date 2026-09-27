@@ -1,0 +1,1082 @@
+[
+ {
+  "id": 280002552484,
+  "nomeUrna": "CLARIANA BARAO",
+  "resumo": "Advogada de Cuiabá (MT), especialista em direito administrativo, com atuação na OAB-MT e em conselhos municipais. Candidata da DC à Presidência em sua primeira eleição.",
+  "bandeiras": [
+   "Proteção de mulheres e crianças",
+   "Primeira infância como prioridade nacional",
+   "Defesa da família e de valores cristãos"
+  ],
+  "posicoes": {
+   "G05": {
+    "v": 2,
+    "conf": "declaracao",
+    "fonte": "https://www.band.com.br/politica/eleicoes/eleicoes-2026-aborto-e-drogas-dividem-presidenciaveis-compare-propostas",
+    "nota": "Posiciona-se contra a legalização do aborto, segundo reportagem da Band de 17/09/2026 sobre as propostas dos presidenciáveis."
+   },
+   "G06": {
+    "v": 2,
+    "conf": "declaracao",
+    "fonte": "https://www.band.com.br/politica/eleicoes/eleicoes-2026-aborto-e-drogas-dividem-presidenciaveis-compare-propostas",
+    "nota": "Segundo a Band (17/09/2026), é contra flexibilizar as leis sobre drogas; o plano registrado só cita o combate ao narcotráfico."
+   },
+   "G13": {
+    "v": 4,
+    "conf": "declaracao",
+    "fonte": "https://www.band.com.br/politica/eleicoes/eleicoes-2026-conheca-o-perfil-e-as-propostas-de-clariana-barao-dc",
+    "nota": "Segundo a Band (02/09/2026), pauta suas diretrizes na preservação dos valores cristãos e na defesa da estrutura familiar tradicional."
+   }
+  }
+ },
+ {
+  "id": 280002551975,
+  "nomeUrna": "EDMILSON COSTA",
+  "resumo": "Economista, doutor pela Unicamp e militante do PCB. Já disputou a Prefeitura de São Paulo (2008) e o Senado por SP (2014); é o candidato do PCB à Presidência.",
+  "bandeiras": [
+   "Poder Popular e nova Assembleia Constituinte",
+   "Jornada de 30 horas semanais",
+   "Combate ao imperialismo"
+  ],
+  "posicoes": {
+   "G01": {
+    "v": 1,
+    "conf": "declaracao",
+    "fonte": "https://planodegoverno2026.com.br/planos/edmilson-costa-7bade087.pdf",
+    "nota": "Plano de governo propõe revogar o arcabouço fiscal e a Lei de Responsabilidade Fiscal, ampliar gastos sociais e criar impostos progressivos sobre os mais ricos."
+   },
+   "G03": {
+    "v": 1,
+    "conf": "declaracao",
+    "fonte": "https://planodegoverno2026.com.br/planos/edmilson-costa-7bade087.pdf",
+    "nota": "Plano de governo propõe retomar para o patrimônio público as empresas estratégicas privatizadas e estatizar o sistema financeiro."
+   },
+   "G05": {
+    "v": 5,
+    "conf": "declaracao",
+    "fonte": "https://www.gazetadopovo.com.br/ideias/candidatos-ao-planalto-registram-propostas-de-governo-polemicas-e-inviaveis/",
+    "nota": "Plano de governo 2026 do PCB defende a legalização do aborto, com atendimento garantido na rede pública de saúde."
+   },
+   "G06": {
+    "v": 5,
+    "conf": "declaracao",
+    "fonte": "https://planodegoverno2026.com.br/candidatos/presidente/edmilson-costa/",
+    "nota": "Plano de 2026 propõe acabar com a \"guerra às drogas\", descriminalizar o uso e legalizar a maconha a curto prazo."
+   },
+   "G07": {
+    "v": 5,
+    "conf": "declaracao",
+    "fonte": "https://planodegoverno2026.com.br/planos/edmilson-costa-7bade087.pdf",
+    "nota": "Plano de 2026 afirma que o agronegócio é o principal destruidor do meio ambiente e propõe a expropriação do agronegócio."
+   },
+   "G10": {
+    "v": 4,
+    "conf": "declaracao",
+    "fonte": "https://planodegoverno2026.com.br/planos/edmilson-costa-7bade087.pdf#page=13",
+    "nota": "Plano de governo defende \"forte regulação das Big Techs e redes sociais imperialistas\" e monopólio estatal da internet."
+   },
+   "G11": {
+    "v": 5,
+    "conf": "declaracao",
+    "fonte": "https://almapreta.com.br/sessao/politica/candidatos-presidencia-propostas-contra-racismo/",
+    "nota": "Plano de 2026 propõe ampliar as cotas para 54% para a população negra e criar cotas raciais em concursos das forças de segurança."
+   },
+   "G12": {
+    "v": 2,
+    "conf": "declaracao",
+    "fonte": "https://planodegoverno2026.com.br/candidatos/presidente/edmilson-costa/",
+    "nota": "Plano de 2026 se declara contra reduzir a maioridade penal."
+   },
+   "G14": {
+    "v": 5,
+    "conf": "declaracao",
+    "fonte": "https://planodegoverno2026.com.br/temas/presidente/trabalho/",
+    "nota": "Plano de 2026 propõe reduzir a jornada para 30 horas semanais sem redução de salário e acabar com a escala 6x1."
+   },
+   "P01": {
+    "v": 1,
+    "conf": "declaracao",
+    "fonte": "https://planodegoverno2026.com.br/planos/edmilson-costa-7bade087.pdf",
+    "nota": "Plano propõe revogar o arcabouço fiscal e a LRF e suspender juros e amortizações da dívida durante investigação de sua origem."
+   },
+   "P02": {
+    "v": 5,
+    "conf": "declaracao",
+    "fonte": "https://www.band.com.br/politica/eleicoes/taxar-ricos-ou-cortar-impostos-as-propostas-dos-presidenciaveis-em-2026",
+    "nota": "Plano de 2026 propõe tributar lucros e dividendos e taxar heranças e grandes fortunas com alíquotas maiores nas faixas superiores."
+   },
+   "P03": {
+    "v": 1,
+    "conf": "declaracao",
+    "fonte": "https://planodegoverno2026.com.br/planos/edmilson-costa-7bade087.pdf#page=15",
+    "nota": "Plano de governo defende o \"fim de todos os acordos militares com os EUA\" e combate às \"investidas imperialistas\" da OTAN e da OEA."
+   },
+   "P04": {
+    "v": 1,
+    "conf": "declaracao",
+    "fonte": "https://planodegoverno2026.com.br/planos/edmilson-costa-7bade087.pdf",
+    "nota": "Plano de governo propõe o fim da autonomia do Banco Central, com diretoria composta por representantes de trabalhadores e centrais sindicais."
+   },
+   "P06": {
+    "v": 4,
+    "conf": "declaracao",
+    "fonte": "https://canalsolar.com.br/eleicoes-presidente-propostas-setor-de-energia/",
+    "nota": "Plano de 2026 propõe Petrobras 100% estatal, ampliar a capacidade das refinarias e criar empresas estatais."
+   }
+  }
+ },
+ {
+  "id": 280002551547,
+  "nomeUrna": "ESCRITOR AUGUSTO CURY",
+  "resumo": "Psiquiatra e escritor, autor de livros sobre gestão da emoção. Disputa sua primeira eleição, como candidato do Avante à Presidência.",
+  "bandeiras": [
+   "Saúde mental e gestão da emoção nas escolas",
+   "Semipresidencialismo e reforma do STF",
+   "Dobrar a produção de alimentos em uma década"
+  ],
+  "posicoes": {
+   "G01": {
+    "v": 4,
+    "conf": "declaracao",
+    "fonte": "https://planodegoverno2026.com.br/planos/augusto-cury-2890f992.pdf",
+    "nota": "Plano de governo propõe 'controle rigoroso dos gastos públicos', estudos para reduzir ministérios e compromisso com carga tributária menor."
+   },
+   "G02": {
+    "v": 3,
+    "conf": "declaracao",
+    "fonte": "https://planodegoverno2026.com.br/planos/augusto-cury-2890f992.pdf#page=98",
+    "nota": "Plano diz que o Bolsa Família \"ama a pobreza, mas não ama os pobres\" e propõe reformulá-lo como renda para impulsionar o empreendedorismo."
+   },
+   "G03": {
+    "v": 3,
+    "conf": "declaracao",
+    "fonte": "https://www.tribunadosertao.com.br/financas/2026/09/21/982853-petrobras-correios-e-bb-a-visao-dos-presidenciaveis-sobre-as-estatais",
+    "nota": "Disse que 'todas as estatais que não forem eficientes serão privatizadas', citando os Correios, mas defende que a Petrobras não seja vendida."
+   },
+   "G07": {
+    "v": 3,
+    "conf": "declaracao",
+    "fonte": "https://planodegoverno2026.com.br/planos/augusto-cury-2890f992.pdf",
+    "nota": "Plano de 2026 diz que crescimento e preservação não são incompatíveis; propõe dobrar a produção agropecuária e prazos máximos para licenciamento."
+   },
+   "G08": {
+    "v": 4,
+    "conf": "declaracao",
+    "fonte": "https://www.cnnbrasil.com.br/eleicoes/daria-perdao-a-quase-todos-envolvidos-no-8-1-diz-augusto-cury-a-cnn/",
+    "nota": "À CNN (28/04/2026) disse que daria anistia \"para quase todos\" os envolvidos no 8/1, exceto os \"cabeças\"."
+   },
+   "G09": {
+    "v": 4,
+    "conf": "declaracao",
+    "fonte": "https://planodegoverno2026.com.br/planos/augusto-cury-2890f992.pdf#page=60",
+    "nota": "Plano de governo defende reforma do STF \"para garantir maior equilíbrio entre os Poderes\", com mandato de 8 anos e 9 ministros."
+   },
+   "G10": {
+    "v": 2,
+    "conf": "declaracao",
+    "fonte": "https://planodegoverno2026.com.br/planos/augusto-cury-2890f992.pdf#page=20",
+    "nota": "Plano de governo afirma que \"o desafio não é controlar as redes, mas educar\" seus usuários."
+   },
+   "G14": {
+    "v": 4,
+    "conf": "declaracao",
+    "fonte": "https://www.infomoney.com.br/politica/o-que-os-candidatos-a-presidencia-dizem-sobre-o-fim-da-escala-6x1/",
+    "nota": "Na campanha de 2026 defendeu substituir a escala 6x1 pela 5x2, citando o desgaste físico e emocional dos trabalhadores."
+   },
+   "P01": {
+    "v": 4,
+    "conf": "declaracao",
+    "fonte": "https://planodegoverno2026.com.br/planos/augusto-cury-2890f992.pdf",
+    "nota": "Plano de governo fixa meta de 'déficit público próximo de zero durante o mandato' como prioridade, preservando investimentos estratégicos."
+   },
+   "P03": {
+    "v": 2,
+    "conf": "declaracao",
+    "fonte": "https://planodegoverno2026.com.br/planos/augusto-cury-2890f992.pdf#page=147",
+    "nota": "Plano propõe deslocar 20% dos diplomatas lotados nos EUA para Índia e Ásia e parte dos da Europa para China e Oriente Médio."
+   },
+   "P06": {
+    "v": 4,
+    "conf": "declaracao",
+    "fonte": "https://planodegoverno2026.com.br/planos/augusto-cury-2890f992.pdf#page=142",
+    "nota": "Plano diz que sua \"política industrial priorizará setores estratégicos\", como IA, semicondutores e energia limpa, com zonas francas de inovação."
+   }
+  }
+ },
+ {
+  "id": 280002551544,
+  "nomeUrna": "FLAVIO BOLSONARO",
+  "resumo": "Senador pelo Rio de Janeiro desde 2019 e filho do ex-presidente Jair Bolsonaro; antes foi deputado estadual no RJ. Candidato do PL à Presidência.",
+  "bandeiras": [
+   "Segurança pública e combate às facções",
+   "Corte de gastos (Tesouraço) e desestatização",
+   "Anistia aos condenados do 8 de janeiro"
+  ],
+  "posicoes": {
+   "G01": {
+    "v": 4,
+    "conf": "declaracao",
+    "fonte": "https://www.infomoney.com.br/politica/tesouraco-o-plano-de-flavio-bolsonaro-para-corte-de-gastos-e-impostos/",
+    "nota": "Plano de governo propõe o 'tesouraço': cortar ao menos dez ministérios e despesas para abrir espaço à redução de impostos."
+   },
+   "G02": {
+    "v": 4,
+    "conf": "declaracao",
+    "fonte": "https://www.cnnbrasil.com.br/eleicoes/flavio-bolsonaro-diz-que-se-eleito-mantera-reajuste-do-bolsa-familia/",
+    "nota": "Disse em 17/09/2026 que manterá o Bolsa Família e o reajuste de 2026 e 'fará muito mais'; propõe cashback por qualificação e porta de saída."
+   },
+   "G03": {
+    "v": 4,
+    "conf": "voto",
+    "fonte": "https://legis.senado.leg.br/dadosabertos/senador/5894/votacoes?ano=2021",
+    "nota": "Votou a favor da MP 1031/2021 (privatização da Eletrobras) em 16/06/2021; plano de 2026 propõe retomar o Programa Nacional de Desestatização. Exceção: em 09/02/2026 disse que a Petrobras deve seguir sob controle estatal."
+   },
+   "G04": {
+    "v": 5,
+    "conf": "declaracao",
+    "fonte": "https://ndmais.com.br/politica/propostas-armas-eleicoes-2026-esquerda-direita/",
+    "nota": "Na campanha de 2026 defende revogar o Estatuto do Desarmamento e criar regras mais flexíveis para compra e porte de armas."
+   },
+   "G05": {
+    "v": 1,
+    "conf": "declaracao",
+    "fonte": "https://www.gazetadopovo.com.br/ideias/candidatos-ao-planalto-registram-propostas-de-governo-polemicas-e-inviaveis/",
+    "nota": "Plano de 2026 põe o respeito à 'vida desde a concepção' entre valores inegociáveis; Gazeta do Povo (28/08/2026) relata oposição inegociável ao aborto."
+   },
+   "G06": {
+    "v": 1,
+    "conf": "voto",
+    "fonte": "https://legis.senado.leg.br/dadosabertos/votacao?codigoParlamentar=5894&dataInicio=2024-04-01&dataFim=2024-04-30",
+    "nota": "Votou sim à PEC 45/2023, que criminaliza porte de qualquer quantidade de droga, em 16/04/2024; plano de 2026 defende penas mais duras."
+   },
+   "G07": {
+    "v": 2,
+    "conf": "voto",
+    "fonte": "https://legis.senado.leg.br/dadosabertos/plenario/lista/votacao/20250521.json",
+    "nota": "Votou a favor do PL 2159/2021 (Lei Geral do Licenciamento) em 21/05/2025; plano de 2026 prevê licença automática se o órgão não decidir no prazo."
+   },
+   "G08": {
+    "v": 5,
+    "conf": "voto",
+    "fonte": "https://legis.senado.leg.br/dadosabertos/senador/5894/votacoes?ano=2025",
+    "nota": "Votou a favor do PL 2162/2023 (penas do 8/1) em 17/12/2025. Em 28/08/2026 disse que buscará a anistia já na transição e, se falhar, dará indulto."
+   },
+   "G09": {
+    "v": 5,
+    "conf": "voto",
+    "fonte": "https://legis.senado.leg.br/dadosabertos/senador/5894/votacoes?ano=2023",
+    "nota": "Votou a favor da PEC 8/2021, que limita decisões monocráticas do STF, em 22/11/2023; plano de 2026 propõe reduzir competências da Corte."
+   },
+   "G10": {
+    "v": 2,
+    "conf": "declaracao",
+    "fonte": "https://planodegoverno2026.com.br/planos/flavio-bolsonaro-0a34723b.pdf#page=66",
+    "nota": "Plano propõe o \"Tesouraço na Censura\": extinguir estruturas estatais que \"vigiem, rotulem ou punam\" opiniões e revogar atos do governo sobre o tema."
+   },
+   "G11": {
+    "v": 1,
+    "conf": "voto",
+    "fonte": "https://legis.senado.leg.br/dadosabertos/votacao?sigla=PL&numero=5384&ano=2020",
+    "nota": "Em 24/10/2023 votou pela preferência à própria emenda ao PL 5384/2020, que tirava o critério racial da Lei de Cotas e deixava só o de renda."
+   },
+   "G12": {
+    "v": 5,
+    "conf": "declaracao",
+    "fonte": "https://www.opovo.com.br/noticias/mundo/2026/09/25/as-propostas-dos-presidenciaveis-para-a-seguranca-publica.html",
+    "nota": "Plano de 2026 propõe reduzir a maioridade penal de 18 para 16 anos e punições mais severas a partir dos 14 anos em crimes graves."
+   },
+   "G13": {
+    "v": 4,
+    "conf": "declaracao",
+    "fonte": "https://www.band.com.br/politica/eleicoes/eleicoes-2026-aborto-e-drogas-dividem-presidenciaveis-compare-propostas",
+    "nota": "Segundo a Band (17/09/2026), enfatiza a defesa da família tradicional e dos valores cristãos em suas propostas."
+   },
+   "G14": {
+    "v": 2,
+    "conf": "declaracao",
+    "fonte": "https://www.infomoney.com.br/politica/o-que-os-candidatos-a-presidencia-dizem-sobre-o-fim-da-escala-6x1/",
+    "nota": "Chamou o fim da 6x1 de \"inoportuno e eleitoreiro\", disse que eleva custos das empresas e propõe remuneração por hora com jornada flexível."
+   },
+   "P01": {
+    "v": 4,
+    "conf": "declaracao",
+    "fonte": "https://www.infomoney.com.br/politica/lula-e-flavio-preparam-ajustes-fiscais-com-ritmos-distintos-mas-evitam-detalhamento/",
+    "nota": "Campanha promete ajuste de 1,5% do PIB em 18 meses e superávits recorrentes; disse que não fará economia com salário mínimo nem aposentados."
+   },
+   "P02": {
+    "v": 2,
+    "conf": "declaracao",
+    "fonte": "https://www12.senado.leg.br/noticias/materias/2025/11/05/isencao-de-ir-para-quem-ganha-ate-r-5-mil-segue-para-sancao",
+    "nota": "Apoiou a isenção do IR até R$ 5 mil, mas chamou de 'confisco' a nova taxação de dividendos de profissionais liberais (Senado, 05/11/2025)."
+   },
+   "P03": {
+    "v": 4,
+    "conf": "declaracao",
+    "fonte": "https://planodegoverno2026.com.br/planos/flavio-bolsonaro-0a34723b.pdf#page=62",
+    "nota": "Plano propõe reverter o afastamento de EUA, Argentina e Israel, e diz que negociará \"com todos\", da China à União Europeia."
+   },
+   "P04": {
+    "v": 4,
+    "conf": "voto",
+    "fonte": "https://legis.senado.leg.br/dadosabertos/votacao?sigla=PLP&numero=19&ano=2019",
+    "nota": "Votou a favor do substitutivo do PLP 19/2019, que instituiu a autonomia do Banco Central, no Senado em 03/11/2020."
+   },
+   "P06": {
+    "v": 2,
+    "conf": "declaracao",
+    "fonte": "https://www.gazetadopovo.com.br/eleicoes/2026/plano-de-governo-flavio-bolsonaro-economia/",
+    "nota": "Plano de governo de 2026 prevê limites para o crédito subsidiado com recursos do Tesouro."
+   }
+  }
+ },
+ {
+  "id": 280002541457,
+  "nomeUrna": "HERTZ DIAS",
+  "resumo": "Professor e rapper de São Luís (MA), militante do PSTU. Foi candidato a vice-presidente em 2018 e a governador do Maranhão em 2022.",
+  "bandeiras": [
+   "Fim da escala 6x1 com jornada de 36 horas",
+   "Estatização de empresas estratégicas",
+   "Ruptura com o imperialismo"
+  ],
+  "posicoes": {
+   "G01": {
+    "v": 1,
+    "conf": "declaracao",
+    "fonte": "https://planodegoverno2026.com.br/planos/hertz-dias-762b5f88.pdf",
+    "nota": "Plano propõe fim da Lei de Responsabilidade Fiscal, ampliação do serviço público, imposto sobre grandes fortunas e isenção de IR até dez salários mínimos."
+   },
+   "G02": {
+    "v": 5,
+    "conf": "declaracao",
+    "fonte": "https://planodegoverno2026.com.br/candidatos/presidente/hertz-dias/",
+    "nota": "Plano de 2026 chama o Bolsa Família de insuficiente e propõe bolsa de um salário mínimo aos desempregados enquanto não houver emprego."
+   },
+   "G03": {
+    "v": 1,
+    "conf": "declaracao",
+    "fonte": "https://planodegoverno2026.com.br/planos/hertz-dias-762b5f88.pdf",
+    "nota": "Plano de governo propõe proibir privatizações de empresas estratégicas, reverter as já feitas e expropriar grandes empresas de mineração, petróleo e energia."
+   },
+   "G05": {
+    "v": 5,
+    "conf": "declaracao",
+    "fonte": "https://www.band.com.br/politica/eleicoes/eleicoes-2026-aborto-e-drogas-dividem-presidenciaveis-compare-propostas",
+    "nota": "Plano do PSTU de 2026 defende descriminalizar e legalizar o aborto, de forma legal, segura e gratuita no SUS."
+   },
+   "G06": {
+    "v": 5,
+    "conf": "declaracao",
+    "fonte": "https://www.band.com.br/politica/eleicoes/eleicoes-2026-aborto-e-drogas-dividem-presidenciaveis-compare-propostas",
+    "nota": "Plano de 2026 propõe descriminalizar as drogas e revogar a atual Lei Antidrogas, levando o foco para a saúde pública."
+   },
+   "G07": {
+    "v": 5,
+    "conf": "declaracao",
+    "fonte": "https://planodegoverno2026.com.br/planos/hertz-dias-762b5f88.pdf",
+    "nota": "Plano de 2026 chama o agronegócio de \"modelo destrutivo e predatório\"; propõe fim de subsídios ao setor, dos agrotóxicos e do petróleo na Margem Equatorial."
+   },
+   "G11": {
+    "v": 5,
+    "conf": "declaracao",
+    "fonte": "https://almapreta.com.br/sessao/politica/candidatos-presidencia-propostas-contra-racismo/",
+    "nota": "Plano de 2026 propõe a manutenção e a ampliação das cotas para negros nas universidades e nos serviços públicos."
+   },
+   "G13": {
+    "v": 2,
+    "conf": "declaracao",
+    "fonte": "https://planodegoverno2026.com.br/planos/hertz-dias-762b5f88.pdf",
+    "nota": "Plano de 2026 defende aborto legal no SUS 'contra qualquer interferência de igrejas e setores reacionários'."
+   },
+   "G14": {
+    "v": 5,
+    "conf": "declaracao",
+    "fonte": "https://planodegoverno2026.com.br/temas/presidente/trabalho/",
+    "nota": "Plano de 2026 propõe acabar com a escala 6x1 e reduzir a jornada para 36 horas semanais sem corte de salário."
+   },
+   "P01": {
+    "v": 1,
+    "conf": "declaracao",
+    "fonte": "https://planodegoverno2026.com.br/planos/hertz-dias-762b5f88.pdf",
+    "nota": "Plano de governo propõe suspender o pagamento da dívida pública aos grandes investidores, com auditoria, e acabar com a Lei de Responsabilidade Fiscal."
+   },
+   "P03": {
+    "v": 2,
+    "conf": "declaracao",
+    "fonte": "https://planodegoverno2026.com.br/planos/hertz-dias-762b5f88.pdf#page=5",
+    "nota": "Plano defende romper com o \"imperialismo\" dos EUA e da Europa e afirma que \"tampouco a China é uma alternativa\"."
+   },
+   "P06": {
+    "v": 4,
+    "conf": "declaracao",
+    "fonte": "https://planodegoverno2026.com.br/candidatos/presidente/hertz-dias/",
+    "nota": "Plano de 2026 propõe estatizar setores estratégicos, como mineração, petróleo e energia."
+   }
+  }
+ },
+ {
+  "id": 280002554479,
+  "nomeUrna": "LEONARDO AVALANCHE",
+  "resumo": "Empresário e presidente nacional do PRTB desde 2024. Coordenou a campanha de Pablo Marçal em SP (2024) e o substituiu como candidato do PRTB à Presidência em 14/09/2026.",
+  "bandeiras": [
+   "Pagamento por hora no trabalho",
+   "Imposto único (flat tax)",
+   "Empreendedorismo"
+  ],
+  "posicoes": {
+   "G05": {
+    "v": 1,
+    "conf": "declaracao",
+    "fonte": "https://www.correiobraziliense.com.br/politica/2026/07/7469550-leonardo-avalanche-afirma-que-todo-tipo-de-aborto-e-um-assassinato.html",
+    "nota": "Em 28/07/2026 disse que \"não existe aborto legal\" e que todo aborto, inclusive em caso de estupro, \"é um assassinato\"."
+   },
+   "G09": {
+    "v": 4,
+    "conf": "declaracao",
+    "fonte": "https://www.correiobraziliense.com.br/politica/2026/07/7469571-avalanche-diz-que-bolsonaro-esta-preso-por-implicancia-no-stf.html",
+    "nota": "Em 28/07/2026 disse que Bolsonaro está preso por \"implicância\" de ministros do STF e chamou de \"covarde\" a prisão de 1.500 pessoas no 8/1."
+   },
+   "G14": {
+    "v": 2,
+    "conf": "declaracao",
+    "fonte": "https://www.correiobraziliense.com.br/politica/2026/07/7469552-avalanche-defende-pagamento-por-hora-imposto-unico-e-empreender.html",
+    "nota": "Em 28/07/2026 disse que reduzir a jornada no atual modelo tributário \"vai falir as empresas\" e defendeu pagamento por hora trabalhada."
+   }
+  }
+ },
+ {
+  "id": 280002542548,
+  "nomeUrna": "LULA",
+  "resumo": "Presidente da República (2003 a 2010 e desde 2023), candidato à reeleição pelo PT na coligação Brasil Pronto pra Mais.",
+  "bandeiras": [
+   "Fim da escala 6x1 com jornada de 40 horas",
+   "Isenção do IR até R$ 5 mil e taxação dos mais ricos",
+   "Ampliação de programas sociais e do SUS"
+  ],
+  "posicoes": {
+   "G01": {
+    "v": 2,
+    "conf": "declaracao",
+    "fonte": "https://www.em.com.br/politica/2026/08/7490597-lula-2026-conheca-as-propostas-do-candidato-a-presidencia.html",
+    "nota": "Plano de governo propõe 'colocar o pobre no orçamento e o rico no Imposto de Renda' e fortalecer o papel do Estado; não prevê agenda de corte de gastos."
+   },
+   "G02": {
+    "v": 5,
+    "conf": "declaracao",
+    "fonte": "https://www.poder360.com.br/poder-governo/lula-aumenta-bolsa-familia-para-r-691-a-17-dias-do-1o-turno/",
+    "nota": "Como presidente, reajustou os benefícios do Bolsa Família em 15% em set/2026; o piso passou de R$ 600 para R$ 691."
+   },
+   "G03": {
+    "v": 1,
+    "conf": "declaracao",
+    "fonte": "https://www.otempo.com.br/eleicoes/2026/presidentes/2026/8/27/lula-minimiza-crescimento-da-divida-publica-e-rejeita-privatizacao-dos-correios",
+    "nota": "No Jornal Nacional (27/08/2026), disse 'não considero vender os Correios'; plano de governo não propõe privatizações."
+   },
+   "G04": {
+    "v": 1,
+    "conf": "declaracao",
+    "fonte": "https://ndmais.com.br/politica/propostas-armas-eleicoes-2026-esquerda-direita/",
+    "nota": "Plano de 2026 prevê manter o controle de armas e munições e reforçar a rastreabilidade; revogou em 2023 decretos que facilitavam o acesso a armas."
+   },
+   "G05": {
+    "v": 3,
+    "conf": "declaracao",
+    "fonte": "https://nahoradanoticia.com.br/politica/aborto-drogas-armas-veja-o-que-presidenciaveis-dizem-sobre-temas-polemicos/",
+    "nota": "Em 2022 disse ser pessoalmente contra o aborto, mas que deve ser tratado como questão de saúde pública; plano de 2026 não propõe mudar a lei."
+   },
+   "G06": {
+    "v": 3,
+    "conf": "declaracao",
+    "fonte": "https://www.poder360.com.br/governo/debate-da-maconha-e-da-ciencia-e-stf-podia-nao-se-meter-diz-lula/",
+    "nota": "Em 26/06/2024 disse que o tema cabe à ciência e não ao STF e que uma PEC seria pior; plano de 2026 foca saúde e redução de riscos, sem legalizar."
+   },
+   "G07": {
+    "v": 4,
+    "conf": "declaracao",
+    "fonte": "https://planodegoverno2026.com.br/planos/lula-e48f1c29.pdf",
+    "nota": "Plano de 2026 reafirma desmatamento líquido zero até 2030 e destinação de terras públicas a conservação; também prevê investimentos em petróleo e gás."
+   },
+   "G08": {
+    "v": 1,
+    "conf": "declaracao",
+    "fonte": "https://www.migalhas.com.br/quentes/447536/sob-gritos-de-sem-anistia--lula-veta-projeto-sobre-penas-do-8-1",
+    "nota": "Como presidente, vetou integralmente em 08/01/2026 o PL da Dosimetria, que reduzia penas dos condenados pelo 8/1; o veto foi derrubado em abril."
+   },
+   "G09": {
+    "v": 1,
+    "conf": "declaracao",
+    "fonte": "https://www.poder360.com.br/poder-eleicoes/10-dos-12-pre-candidatos-a-presidencia-ja-se-manifestaram-contra-o-stf/",
+    "nota": "Em 02/02/2026 disse que o STF \"não buscou protagonismo, muito menos tomou para si atribuições de outros Poderes\"."
+   },
+   "G10": {
+    "v": 5,
+    "conf": "declaracao",
+    "fonte": "https://planodegoverno2026.com.br/planos/lula-e48f1c29.pdf#page=16",
+    "nota": "Plano de governo propõe avançar na \"regulação democrática das redes sociais e das plataformas\" para impedir desinformação e campanhas de ódio."
+   },
+   "G11": {
+    "v": 5,
+    "conf": "declaracao",
+    "fonte": "https://almapreta.com.br/sessao/politica/candidatos-presidencia-propostas-contra-racismo/",
+    "nota": "Plano de 2026 prevê continuidade das cotas no serviço público e nas universidades, que diz ter aperfeiçoado no mandato atual."
+   },
+   "G12": {
+    "v": 2,
+    "conf": "declaracao",
+    "fonte": "https://www.cnnbrasil.com.br/politica/time-de-lula-teme-desgaste-em-discutir-maioridade-penal/",
+    "nota": "Criticou a redução em 2007; em 2026 evita se posicionar, mas seu governo divulgou nota contra a redução em 03/2026."
+   },
+   "G14": {
+    "v": 5,
+    "conf": "declaracao",
+    "fonte": "https://www.infomoney.com.br/politica/o-que-os-candidatos-a-presidencia-dizem-sobre-o-fim-da-escala-6x1/",
+    "nota": "Defende o fim da escala 6x1 e jornada de 40h sem redução salarial; o governo lançou campanha nacional pelo tema em 05/2026."
+   },
+   "P01": {
+    "v": 2,
+    "conf": "declaracao",
+    "fonte": "https://www.poder360.com.br/poder-eleicoes-2026/e-preciso-parar-com-essa-babaquice-de-fazer-superavit-diz-lula/",
+    "nota": "Em comício (12/09/2026), chamou de 'babaquice' insistir em superávit e defendeu investir; a empresários, disse que estabilidade fiscal é obrigatória."
+   },
+   "P02": {
+    "v": 5,
+    "conf": "declaracao",
+    "fonte": "https://www12.senado.leg.br/noticias/materias/2025/11/27/sancionada-isencao-do-imposto-de-renda-para-quem-ganha-ate-r-5-mil-por-mes",
+    "nota": "Sancionou em 26/11/2025 a Lei 15.270: isenção de IR até R$ 5 mil e imposto mínimo de até 10% sobre rendas acima de R$ 600 mil/ano."
+   },
+   "P03": {
+    "v": 1,
+    "conf": "declaracao",
+    "fonte": "https://planodegoverno2026.com.br/planos/lula-e48f1c29.pdf#page=81",
+    "nota": "Plano de governo diz que vai aprofundar \"a aproximação geopolítica com o BRICS e com o Sul Global\" e rejeita \"alinhamentos automáticos\"."
+   },
+   "P04": {
+    "v": 2,
+    "conf": "declaracao",
+    "fonte": "https://www.infomoney.com.br/politica/lula-diz-que-bc-independente-nao-resolveu-os-problemas-economicos/",
+    "nota": "Em entrevista à Record (15/09/2026), disse que o BC independente não resolveu os problemas e que o presidente eleito deveria poder interferir na economia."
+   },
+   "P05": {
+    "v": 1,
+    "conf": "declaracao",
+    "fonte": "https://www.poder360.com.br/governo/politica-de-precos-da-petrobras-mudara-com-criterios-diz-lula/",
+    "nota": "Disse em abr/2023 que 'o Brasil não tem por que estar submetido a PPI'; seu governo encerrou a paridade de importação na Petrobras em mai/2023."
+   },
+   "P06": {
+    "v": 5,
+    "conf": "declaracao",
+    "fonte": "https://www.correiobraziliense.com.br/politica/2026/06/7445978-lula-anuncia-rs-140-bilhoes-para-a-nova-industria-brasil.html",
+    "nota": "Anunciou em 22/06/2026 mais R$ 140 bi do BNDES e da Finep para a Nova Indústria Brasil, política industrial para setores estratégicos."
+   }
+  }
+ },
+ {
+  "id": 280002540694,
+  "nomeUrna": "RENAN SANTOS",
+  "resumo": "Cofundador do MBL e presidente do partido Missão, criado pelo movimento. Disputa sua primeira eleição, como candidato à Presidência.",
+  "bandeiras": [
+   "Combate ao crime organizado",
+   "Fusão de municípios e reforma do Estado",
+   "Desfavelização"
+  ],
+  "posicoes": {
+   "G01": {
+    "v": 4,
+    "conf": "declaracao",
+    "fonte": "https://planodegoverno2026.com.br/planos/renan-santos-f1272756.pdf",
+    "nota": "Plano de governo (Livro Amarelo) defende austeridade e contenção de gastos para 'liberar espaço fiscal para investimentos e redução de impostos'."
+   },
+   "G02": {
+    "v": 1,
+    "conf": "declaracao",
+    "fonte": "https://www.poder360.com.br/poder-eleicoes-2026/planos-de-candidatos-a-presidencia-tem-de-7-a-200-paginas/",
+    "nota": "Plano de 2026 propõe substituir o Bolsa Família pelas 'Frentes Cidadãs', frentes de trabalho remuneradas."
+   },
+   "G03": {
+    "v": 3,
+    "conf": "declaracao",
+    "fonte": "https://eixos.com.br/politica/eleicoes/eleicoes-2026/renan-santos-diz-que-e-contra-privatizacao-da-petrobras-e-embrapa-mas-nao-dos-correios/",
+    "nota": "Em entrevista à Jovem Pan (08/09/2026), disse que manterá estatais estratégicas como Petrobras e Embrapa e defendeu privatizar os Correios."
+   },
+   "G04": {
+    "v": 4,
+    "conf": "declaracao",
+    "fonte": "https://spdiario.com.br/noticias/politica/eleicoes-2026-veja-as-principais-propostas-dos-candidatos-a-presidencia.html",
+    "nota": "Segundo o SP Diário (03/09/2026), defende na campanha a ampliação do acesso da população a armas; o plano registrado não trata do tema."
+   },
+   "G07": {
+    "v": 2,
+    "conf": "declaracao",
+    "fonte": "https://planodegoverno2026.com.br/planos/renan-santos-f1272756.pdf",
+    "nota": "Plano de 2026 propõe aplicar a nova Lei do Licenciamento para acelerar projetos e simplificar licenças de mineração; não trata do desmatamento."
+   },
+   "G08": {
+    "v": 4,
+    "conf": "declaracao",
+    "fonte": "https://www.itatiaia.com.br/politica/presidente-do-partido-do-mbl-defende-prisao-para-bolsonaro-e-anistia-para-presos",
+    "nota": "À Itatiaia (19/11/2025) disse que os presos do 8/1 \"merecem anistia\", enquanto defendeu a prisão de Jair Bolsonaro."
+   },
+   "G10": {
+    "v": 2,
+    "conf": "declaracao",
+    "fonte": "https://www.observatoriodaimprensa.com.br/eleicoes-2026/o-que-os-programas-presidenciais-dizem-sobre-o-futuro-da-comunicacao/",
+    "nota": "Segundo análise do programa (03/09/2026), rejeita ampliar mecanismos de controle sobre mídia e internet e defende intervenção mínima."
+   },
+   "G11": {
+    "v": 1,
+    "conf": "declaracao",
+    "fonte": "https://planodegoverno2026.com.br/planos/renan-santos-f1272756.pdf",
+    "nota": "Plano de 2026 propõe abolir o sistema de cotas na educação 'e em geral', substituindo-o por bolsas por mérito."
+   },
+   "G12": {
+    "v": 4,
+    "conf": "declaracao",
+    "fonte": "https://spdiario.com.br/noticias/politica/eleicoes-2026-veja-as-principais-propostas-dos-candidatos-a-presidencia.html",
+    "nota": "Segundo o SP Diário (03/09/2026), defende a redução da maioridade penal, sem detalhar a idade; o plano registrado não trata do tema."
+   },
+   "G14": {
+    "v": 2,
+    "conf": "declaracao",
+    "fonte": "https://www.infomoney.com.br/politica/o-que-os-candidatos-a-presidencia-dizem-sobre-o-fim-da-escala-6x1/",
+    "nota": "Chamou o fim da 6x1 de \"maluquice\" e, em debate, de \"farsa\"; defende reforma trabalhista ampla e contratação por hora."
+   },
+   "P01": {
+    "v": 5,
+    "conf": "declaracao",
+    "fonte": "https://planodegoverno2026.com.br/planos/renan-santos-f1272756.pdf",
+    "nota": "Plano propõe, antes da posse, PEC de ajuste fiscal ('remédio amargo') que desindexa benefícios do salário mínimo e desvincula pisos de saúde e educação."
+   },
+   "P03": {
+    "v": 3,
+    "conf": "declaracao",
+    "fonte": "https://planodegoverno2026.com.br/planos/renan-santos-f1272756.pdf#page=45",
+    "nota": "Plano critica a \"dominação chinesa dentro do BRICS\" e também a dependência do dólar; propõe o Brasil como \"árbitro do Sul Global\"."
+   },
+   "P04": {
+    "v": 4,
+    "conf": "declaracao",
+    "fonte": "https://www.gazetadopovo.com.br/economia/o-que-defendem-os-presidenciaveis-da-direita-para-a-economia-em-2026/",
+    "nota": "Reportagem de 30/05/2026 relata que defende 'autonomia total do Banco Central'; plano de governo cita a independência do BC como modelo para outro órgão."
+   }
+  }
+ },
+ {
+  "id": 280002551932,
+  "nomeUrna": "RONALDO CAIADO",
+  "resumo": "Médico, governou Goiás de 2019 a 2026 e foi senador e deputado federal. Candidato do PSD à Presidência, com Gilberto Kassab como vice.",
+  "bandeiras": [
+   "Segurança pública e combate às facções",
+   "Redução dos juros",
+   "Pacificação política e fim da reeleição"
+  ],
+  "posicoes": {
+   "G01": {
+    "v": 3,
+    "conf": "declaracao",
+    "fonte": "https://ronaldocaiado.com.br/plano_de_governo_ronaldo_caiado_presidente.pdf",
+    "nota": "Plano propõe conter despesas sem elevar a carga tributária, mas rejeita 'cortes lineares', diz proteger políticas sociais e não prevê corte geral de impostos."
+   },
+   "G02": {
+    "v": 3,
+    "conf": "declaracao",
+    "fonte": "https://ronaldocaiado.com.br/plano_de_governo_ronaldo_caiado_presidente.pdf",
+    "nota": "Plano de 2026 propõe preservar os programas de transferência de renda, com porta de saída e redução gradual para quem entra no emprego formal."
+   },
+   "G03": {
+    "v": 3,
+    "conf": "declaracao",
+    "fonte": "https://www.tribunadosertao.com.br/financas/2026/09/21/982853-petrobras-correios-e-bb-a-visao-dos-presidenciaveis-sobre-as-estatais",
+    "nota": "Defende privatizar os Correios, mas descarta privatização integral da Petrobras (admite negociar a exploração de gás)."
+   },
+   "G07": {
+    "v": 2,
+    "conf": "declaracao",
+    "fonte": "https://planodegoverno2026.com.br/planos/ronaldo-caiado-58a0d5be.pdf",
+    "nota": "Plano de 2026 propõe licenciamento com prazo e simplificado para baixo impacto e avaliar novas fronteiras de petróleo; diz não rebaixar exigências."
+   },
+   "G08": {
+    "v": 5,
+    "conf": "declaracao",
+    "fonte": "https://ohoje.com/2026/08/26/caiado-promete-anistia-a-condenados-pelo-8-de-janeiro/",
+    "nota": "No Jornal Nacional (25/08/2026) disse que enviará ao Congresso projeto de \"anistia geral, ampla\" aos condenados pelo 8/1."
+   },
+   "G10": {
+    "v": 3,
+    "conf": "declaracao",
+    "fonte": "https://planodegoverno2026.com.br/planos/ronaldo-caiado-58a0d5be.pdf#page=26",
+    "nota": "Plano propõe \"plataformas responsáveis\", com regras de responsabilidade, devido processo e recurso, mas preservando os princípios do Marco Civil."
+   },
+   "G11": {
+    "v": 3,
+    "conf": "declaracao",
+    "fonte": "https://planodegoverno2026.com.br/planos/ronaldo-caiado-58a0d5be.pdf",
+    "nota": "Plano de 2026 propõe 'aprimorar políticas de inclusão em concursos', respeitando decisões judiciais e o mérito, e metas de equidade racial."
+   },
+   "G12": {
+    "v": 4,
+    "conf": "declaracao",
+    "fonte": "https://ronaldocaiado.com.br/plano_de_governo_ronaldo_caiado_presidente.pdf",
+    "nota": "Plano de 2026 promete \"trabalhar fortemente\" pela PEC que reduz a maioridade penal para 16 anos em homicídio, estupro, assalto e outros crimes graves."
+   },
+   "G13": {
+    "v": 2,
+    "conf": "declaracao",
+    "fonte": "https://planodegoverno2026.com.br/planos/ronaldo-caiado-58a0d5be.pdf",
+    "nota": "Plano de 2026 afirma que 'o Estado será laico' e não privilegiará nem hostilizará qualquer religião."
+   },
+   "G14": {
+    "v": 4,
+    "conf": "declaracao",
+    "fonte": "https://www.infomoney.com.br/politica/o-que-os-candidatos-a-presidencia-dizem-sobre-o-fim-da-escala-6x1/",
+    "nota": "Em 22/08/2026 respondeu \"Sim, sou a favor\" do fim da 6x1, sem detalhar o modelo; antes havia chamado a proposta de populista."
+   },
+   "P01": {
+    "v": 4,
+    "conf": "declaracao",
+    "fonte": "https://ronaldocaiado.com.br/plano_de_governo_ronaldo_caiado_presidente.pdf",
+    "nota": "Plano põe a estabilização fiscal como 'ponto de partida', com superávits primários progressivos, em horizonte de mais de um mandato e preservando investimento."
+   },
+   "P03": {
+    "v": 3,
+    "conf": "declaracao",
+    "fonte": "https://planodegoverno2026.com.br/planos/ronaldo-caiado-58a0d5be.pdf#page=73",
+    "nota": "Plano propõe relações simultâneas com EUA, Ásia e outros polos, \"sem hierarquias\" nem \"falsas escolhas entre polos geopolíticos rivais\"."
+   },
+   "P04": {
+    "v": 4,
+    "conf": "declaracao",
+    "fonte": "https://ronaldocaiado.com.br/plano_de_governo_ronaldo_caiado_presidente.pdf",
+    "nota": "Plano de governo propõe coordenar as políticas fiscal e monetária 'com respeito à autonomia do Banco Central'."
+   },
+   "P05": {
+    "v": 4,
+    "conf": "declaracao",
+    "fonte": "https://ronaldocaiado.com.br/plano_de_governo_ronaldo_caiado_presidente.pdf",
+    "nota": "Plano de 2026 diz que Petrobras e estatais terão governança 'sem uso partidário ou controle artificial de preços'."
+   },
+   "P06": {
+    "v": 4,
+    "conf": "declaracao",
+    "fonte": "https://ronaldocaiado.com.br/plano_de_governo_ronaldo_caiado_presidente.pdf",
+    "nota": "Plano de 2026 trata a política industrial como política de Estado e propõe ampliar crédito de longo prazo e recursos do BNDES e da Finep."
+   }
+  }
+ },
+ {
+  "id": 280002552487,
+  "nomeUrna": "RUI COSTA PIMENTA",
+  "resumo": "Jornalista e presidente nacional do PCO. Já concorreu à Presidência em 2006, 2010 e 2014 e é novamente o candidato do partido.",
+  "bandeiras": [
+   "Reajuste dos salários e salário mínimo vital",
+   "Redução da jornada para 35 horas",
+   "Governo operário e socialismo"
+  ],
+  "posicoes": {
+   "G01": {
+    "v": 1,
+    "conf": "declaracao",
+    "fonte": "https://planodegoverno2026.com.br/planos/rui-costa-pimenta-05642e1c.pdf",
+    "nota": "Programa defende lutar contra o corte nos gastos públicos, mais verbas para saúde e educação e imposto só sobre ganhos de capitalistas e grandes fortunas."
+   },
+   "G02": {
+    "v": 5,
+    "conf": "declaracao",
+    "fonte": "https://candidatos.pco.org.br/wp-content/uploads/2026/08/PCO-programa-de-governo-2026.pdf",
+    "nota": "Programa de 2026 propõe Bolsa Família de pelo menos um salário mínimo e auxílio emergencial."
+   },
+   "G03": {
+    "v": 1,
+    "conf": "declaracao",
+    "fonte": "https://planodegoverno2026.com.br/planos/rui-costa-pimenta-05642e1c.pdf",
+    "nota": "Programa propõe cancelar todas as privatizações realizadas (Eletrobras, Vale, bancos, telefonia) e Petrobras 100% estatal."
+   },
+   "G04": {
+    "v": 4,
+    "conf": "declaracao",
+    "fonte": "https://candidatos.pco.org.br/wp-content/uploads/2026/08/PCO-programa-de-governo-2026.pdf",
+    "nota": "Programa do PCO para 2026 defende \"direito de autodefesa e armamento para os trabalhadores do campo e índios\" e comitês de autodefesa."
+   },
+   "G08": {
+    "v": 5,
+    "conf": "declaracao",
+    "fonte": "https://www.ainvestigacao.com/p/entevista-rui-costa-pimenta-pco",
+    "nota": "Em entrevista (14/09/2026) defendeu perdão aos condenados do 8/1 e chamou de \"abusivas\" as condenações por golpe e organização criminosa armada."
+   },
+   "G09": {
+    "v": 5,
+    "conf": "declaracao",
+    "fonte": "https://planodegoverno2026.com.br/planos/rui-costa-pimenta-05642e1c.pdf#page=6",
+    "nota": "Plano propõe \"acabar com a ditadura do Judiciário, que atua acima dos demais poderes\" e extinguir o STF, com juízes eleitos."
+   },
+   "G10": {
+    "v": 1,
+    "conf": "declaracao",
+    "fonte": "https://planodegoverno2026.com.br/planos/rui-costa-pimenta-05642e1c.pdf#page=6",
+    "nota": "Plano pede \"fim de todo tipo de censura, liberdade irrestrita de expressão\" na internet e \"abaixo a Lei Felca\" (ECA Digital)."
+   },
+   "G14": {
+    "v": 5,
+    "conf": "declaracao",
+    "fonte": "https://planodegoverno2026.com.br/temas/presidente/trabalho/",
+    "nota": "Plano de 2026 propõe reduzir a jornada para 35 horas semanais, 7 horas por dia e 5 dias por semana, sem perda de salário."
+   },
+   "P01": {
+    "v": 1,
+    "conf": "declaracao",
+    "fonte": "https://planodegoverno2026.com.br/planos/rui-costa-pimenta-05642e1c.pdf",
+    "nota": "Programa propõe o fim do teto de gastos e da Lei de Responsabilidade Fiscal e o cancelamento das dívidas interna e externa com bancos e grandes credores."
+   },
+   "P02": {
+    "v": 4,
+    "conf": "declaracao",
+    "fonte": "https://candidatos.pco.org.br/wp-content/uploads/2026/08/PCO-programa-de-governo-2026.pdf",
+    "nota": "Programa de 2026 propõe fim dos impostos sobre consumo e salários e imposto somente sobre ganhos dos capitalistas e grandes fortunas."
+   },
+   "P03": {
+    "v": 1,
+    "conf": "declaracao",
+    "fonte": "https://planodegoverno2026.com.br/planos/rui-costa-pimenta-05642e1c.pdf#page=7",
+    "nota": "Plano pede \"abaixo a ingerência dos EUA e da OEA\" e defende povos que lutam contra o imperialismo, como Palestina, Irã e Rússia."
+   },
+   "P04": {
+    "v": 1,
+    "conf": "declaracao",
+    "fonte": "https://planodegoverno2026.com.br/planos/rui-costa-pimenta-05642e1c.pdf",
+    "nota": "Programa de governo propõe o fim da 'independência' do Banco Central e a estatização do sistema financeiro."
+   },
+   "P05": {
+    "v": 1,
+    "conf": "declaracao",
+    "fonte": "https://candidatos.pco.org.br/wp-content/uploads/2026/08/PCO-programa-de-governo-2026.pdf",
+    "nota": "Programa de 2026 propõe reduzir de imediato em 50% o preço dos combustíveis e acabar com a paridade com o dólar."
+   },
+   "P06": {
+    "v": 4,
+    "conf": "declaracao",
+    "fonte": "https://candidatos.pco.org.br/wp-content/uploads/2026/08/PCO-programa-de-governo-2026.pdf",
+    "nota": "Programa de 2026 propõe Petrobras 100% estatal e criar estatal para explorar terras raras."
+   }
+  }
+ },
+ {
+  "id": 280002538811,
+  "nomeUrna": "SAMARA",
+  "resumo": "Dentista do SUS e vice-presidente nacional da Unidade Popular (UP). Foi candidata a vice-presidente em 2022; lidera chapa com Raquel Bricio como vice.",
+  "bandeiras": [
+   "Fim da escala 6x1 com jornada de 30 horas",
+   "Dobrar o salário mínimo",
+   "Reestatização de empresas estratégicas"
+  ],
+  "posicoes": {
+   "G01": {
+    "v": 1,
+    "conf": "declaracao",
+    "fonte": "https://planodegoverno2026.com.br/planos/samara-305b3f63.pdf",
+    "nota": "Plano de governo propõe o fim do arcabouço fiscal, frentes de emprego público, isentar de impostos quem vive de salário e taxar grandes fortunas."
+   },
+   "G03": {
+    "v": 1,
+    "conf": "declaracao",
+    "fonte": "https://planodegoverno2026.com.br/planos/samara-305b3f63.pdf",
+    "nota": "Plano de governo propõe reestatizar empresas privatizadas e nacionalizar os bancos."
+   },
+   "G05": {
+    "v": 5,
+    "conf": "declaracao",
+    "fonte": "https://planodegoverno2026.com.br/planos/samara-305b3f63.pdf",
+    "nota": "Plano da UP de 2026 defende a descriminalização e a legalização do aborto, com atenção integral à saúde sexual e reprodutiva."
+   },
+   "G06": {
+    "v": 4,
+    "conf": "declaracao",
+    "fonte": "https://planodegoverno2026.com.br/planos/samara-305b3f63.pdf#page=48",
+    "nota": "Plano propõe o fim da \"guerra às drogas\", com transição do paradigma penal para o de saúde pública e prevenção."
+   },
+   "G07": {
+    "v": 5,
+    "conf": "declaracao",
+    "fonte": "https://planodegoverno2026.com.br/planos/samara-305b3f63.pdf",
+    "nota": "Plano de 2026 propõe proibir a destruição de florestas, banir agrotóxicos proibidos no exterior e produzir 'mantendo a floresta em pé'."
+   },
+   "G08": {
+    "v": 1,
+    "conf": "declaracao",
+    "fonte": "https://planodegoverno2026.com.br/planos/samara-305b3f63.pdf#page=54",
+    "nota": "Plano de governo registrado no TSE defende \"sem anistia para conspiradores, financiadores e agentes do Estado\" que tentaram golpes."
+   },
+   "G11": {
+    "v": 5,
+    "conf": "declaracao",
+    "fonte": "https://almapreta.com.br/sessao/politica/candidatos-presidencia-propostas-contra-racismo/",
+    "nota": "Plano de 2026 propõe ampliar as vagas no setor público reservadas à população negra."
+   },
+   "G13": {
+    "v": 2,
+    "conf": "declaracao",
+    "fonte": "https://planodegoverno2026.com.br/planos/samara-305b3f63.pdf",
+    "nota": "Plano de 2026 propõe 'garantir a laicidade do Estado em todos os aspectos de atuação estatal'."
+   },
+   "G14": {
+    "v": 5,
+    "conf": "declaracao",
+    "fonte": "https://planodegoverno2026.com.br/temas/presidente/trabalho/",
+    "nota": "Plano de 2026 propõe o fim da escala 6x1, com jornada de 36 horas semanais."
+   },
+   "P01": {
+    "v": 1,
+    "conf": "declaracao",
+    "fonte": "https://planodegoverno2026.com.br/planos/samara-305b3f63.pdf",
+    "nota": "Plano propõe o fim do arcabouço fiscal e a suspensão imediata do pagamento da dívida pública, com auditoria, para ampliar gastos sociais."
+   },
+   "P02": {
+    "v": 5,
+    "conf": "declaracao",
+    "fonte": "https://planodegoverno2026.com.br/candidatos/presidente/samara/",
+    "nota": "Plano de 2026 propõe taxar grandes fortunas, lucros, dividendos e heranças e isentar de impostos quem vive de salário."
+   },
+   "P03": {
+    "v": 2,
+    "conf": "declaracao",
+    "fonte": "https://planodegoverno2026.com.br/planos/samara-305b3f63.pdf#page=7",
+    "nota": "Plano defende luta anti-imperialista e diz \"chega\" de riquezas \"roubadas pelos EUA, pela China ou pela União Europeia\"."
+   },
+   "P04": {
+    "v": 1,
+    "conf": "declaracao",
+    "fonte": "https://planodegoverno2026.com.br/planos/samara-305b3f63.pdf",
+    "nota": "Plano de governo propõe o 'fim da autonomia do Banco Central em relação ao governo'."
+   },
+   "P06": {
+    "v": 4,
+    "conf": "declaracao",
+    "fonte": "https://canalsolar.com.br/eleicoes-presidente-propostas-setor-de-energia/",
+    "nota": "Plano de 2026 defende monopólio público em setores estratégicos e Petrobras com controle 100% estatal."
+   }
+  }
+ },
+ {
+  "id": 280002548139,
+  "nomeUrna": "VETERINÁRIO WILSON GRASSI",
+  "resumo": "Médico veterinário de São Paulo ligado à causa animal. Candidato do Partido Democrata à Presidência, com a presidente do partido, Suêd Haidar, como vice.",
+  "bandeiras": [
+   "Imposto Único Federal",
+   "Segurança pública e combate ao crime organizado",
+   "Saúde e proteção animal"
+  ],
+  "posicoes": {
+   "G01": {
+    "v": 3,
+    "conf": "declaracao",
+    "fonte": "https://planodegoverno2026.com.br/planos/wilson-grassi-6fecb19d.pdf",
+    "nota": "Plano propõe Imposto Único Federal com arrecadação neutra e isenção de IR até 5 salários mínimos; diz que a conta não depende de corte de despesa."
+   },
+   "G07": {
+    "v": 3,
+    "conf": "declaracao",
+    "fonte": "https://planodegoverno2026.com.br/planos/wilson-grassi-6fecb19d.pdf",
+    "nota": "Plano de 2026 propõe regulamentar mineração em terra indígena com consentimento e licenciamento pleno, e licenciamento com prazo definido."
+   },
+   "P03": {
+    "v": 3,
+    "conf": "declaracao",
+    "fonte": "https://planodegoverno2026.com.br/planos/wilson-grassi-6fecb19d.pdf#page=52",
+    "nota": "Plano diz que posições externas serão definidas caso a caso por \"o que o Brasil ganha\", \"não por alinhamento automático\" a blocos."
+   }
+  }
+ },
+ {
+  "id": 280002539826,
+  "nomeUrna": "ZEMA",
+  "resumo": "Empresário, governou Minas Gerais de 2019 a 2026. Candidato do Novo à Presidência.",
+  "bandeiras": [
+   "Segurança pública e facções como terroristas",
+   "Combate à corrupção e aos privilégios",
+   "Privatização das estatais federais"
+  ],
+  "posicoes": {
+   "G01": {
+    "v": 5,
+    "conf": "declaracao",
+    "fonte": "https://zema30.com.br/wp-content/uploads/2026/08/Plano-Implacavel-Romeu-Zema-2026.pdf",
+    "nota": "Plano de governo propõe 'choque fiscal nos gastos' e metas progressivas de redução da carga tributária que imponham cortes de gastos."
+   },
+   "G02": {
+    "v": 2,
+    "conf": "declaracao",
+    "fonte": "https://zema30.com.br/wp-content/uploads/2026/08/Plano-Implacavel-Romeu-Zema-2026.pdf",
+    "nota": "Plano de 2026 limita o Bolsa Família de adultos aptos a quem busca emprego ou estuda, suspende quem recusar trabalho e premia quem sair."
+   },
+   "G03": {
+    "v": 5,
+    "conf": "declaracao",
+    "fonte": "https://zema30.com.br/wp-content/uploads/2026/08/Plano-Implacavel-Romeu-Zema-2026.pdf",
+    "nota": "Plano de governo propõe 'privatizar todas as empresas estatais'; em entrevistas citou Petrobras e Banco do Brasil."
+   },
+   "G04": {
+    "v": 4,
+    "conf": "declaracao",
+    "fonte": "https://zema30.com.br/wp-content/uploads/2026/08/Plano-Implacavel-Romeu-Zema-2026.pdf",
+    "nota": "Plano Implacável (2026) propõe garantir o porte de armas em toda a extensão da propriedade rural, além da posse estendida já prevista em lei."
+   },
+   "G07": {
+    "v": 2,
+    "conf": "declaracao",
+    "fonte": "https://planodegoverno2026.com.br/planos/zema-de28e2e5.pdf",
+    "nota": "Plano de 2026 propõe reduzir entraves do licenciamento à agropecuária e aplicar a nova lei, 'sem penalizar quem produz'; prevê combate ao desmatamento ilegal."
+   },
+   "G08": {
+    "v": 5,
+    "conf": "declaracao",
+    "fonte": "https://www.otempo.com.br/eleicoes/2026/presidentes/2026/8/7/zema-defende-anistia-imediata-aos-condenados-pelos-atos-de-8-de-janeiro-de-2023",
+    "nota": "Em 07/08/2026 defendeu anistia imediata aos condenados pelo 8/1: \"temos que corrigir essa injustiça\"."
+   },
+   "G09": {
+    "v": 5,
+    "conf": "declaracao",
+    "fonte": "https://planodegoverno2026.com.br/planos/zema-de28e2e5.pdf#page=11",
+    "nota": "Plano de governo afirma que \"o STF extrapola suas atribuições constitucionais\" e propõe fim das decisões monocráticas e limites ao \"ativismo judicial\"."
+   },
+   "G10": {
+    "v": 1,
+    "conf": "declaracao",
+    "fonte": "https://planodegoverno2026.com.br/planos/zema-de28e2e5.pdf#page=74",
+    "nota": "Plano propõe vedar exclusão de perfis e moderação de opiniões pelas plataformas, \"inclusive por determinação judicial\", trocando por retratação."
+   },
+   "G12": {
+    "v": 5,
+    "conf": "declaracao",
+    "fonte": "https://zema30.com.br/wp-content/uploads/2026/08/Plano-Implacavel-Romeu-Zema-2026.pdf",
+    "nota": "Plano Implacável (2026) propõe reduzir a maioridade penal para 16 anos e, em crimes graves ou reincidência, permitir imputação de mais jovens."
+   },
+   "G14": {
+    "v": 2,
+    "conf": "declaracao",
+    "fonte": "https://www.infomoney.com.br/politica/o-que-os-candidatos-a-presidencia-dizem-sobre-o-fim-da-escala-6x1/",
+    "nota": "Defende que o trabalhador escolha a escala; plano propõe regime alternativo à CLT com jornada negociada até 44h semanais, sem tratar da 6x1."
+   },
+   "P01": {
+    "v": 5,
+    "conf": "declaracao",
+    "fonte": "https://zema30.com.br/wp-content/uploads/2026/08/Plano-Implacavel-Romeu-Zema-2026.pdf",
+    "nota": "Plano de governo propõe choque fiscal, reforma da Previdência e revisão de despesas obrigatórias, mantendo superávits primários."
+   },
+   "P03": {
+    "v": 5,
+    "conf": "declaracao",
+    "fonte": "https://planodegoverno2026.com.br/planos/zema-de28e2e5.pdf#page=37",
+    "nota": "Plano propõe \"alinhar o Brasil às democracias\" e retirar o país do BRICS de forma diplomática, mantendo o comércio com o bloco."
+   },
+   "P05": {
+    "v": 5,
+    "conf": "declaracao",
+    "fonte": "https://zema30.com.br/wp-content/uploads/2026/08/Plano-Implacavel-Romeu-Zema-2026.pdf",
+    "nota": "Plano de 2026 propõe que os preços dos combustíveis 'sigam referências de mercado' sem interferência de governos e desverticalizar a Petrobras."
+   },
+   "P06": {
+    "v": 2,
+    "conf": "declaracao",
+    "fonte": "https://planodegoverno2026.com.br/planos/zema-de28e2e5.pdf#page=18",
+    "nota": "Plano propõe \"reduzir gradualmente\" o crédito direcionado, incluindo linhas subsidiadas do BNDES, para \"setores escolhidos politicamente\"."
+   }
+  }
+ }
+]

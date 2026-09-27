@@ -1,0 +1,4831 @@
+{
+ "metodo": "Votos nominais do Plenário da Câmara (57ª legislatura, 2023 a 2026), API de dados abertos. Sim/Não viram valor 1 a 5 conforme valorSim/valorNao; abstenção, obstrução, art. 17 e ausência não geram posição. Duas votações na mesma pergunta: média arredondada. Valores 4/2 indicam correspondência parcial (urgência ou texto que cobre só parte da afirmação).",
+ "votacoes": [
+  {
+   "idVotacao": "345311-270",
+   "proposicao": "PL 490/2007",
+   "data": "2023-05-30",
+   "descricao": "Aprovação do substitutivo do PL 490/2007, que fixa o marco temporal (ocupação em 5/10/1988) para demarcação de terras indígenas.",
+   "placar": "283 x 155",
+   "pergunta": "DF03",
+   "valorSim": 5,
+   "valorNao": 1,
+   "url": "https://dadosabertos.camara.leg.br/api/v2/votacoes/345311-270/votos",
+   "urlProposicao": "https://www.camara.leg.br/propostas-legislativas/345311"
+  },
+  {
+   "idVotacao": "2310837-8",
+   "proposicao": "PL 2630/2020",
+   "data": "2023-04-25",
+   "descricao": "Requerimento de urgência para o PL 2630/2020 (regulação e responsabilidade de plataformas digitais). Voto de urgência: correspondência parcial.",
+   "placar": "238 x 192",
+   "pergunta": "G10",
+   "valorSim": 4,
+   "valorNao": 2,
+   "url": "https://dadosabertos.camara.leg.br/api/v2/votacoes/2310837-8/votos",
+   "urlProposicao": "https://www.camara.leg.br/propostas-legislativas/2256735"
+  },
+  {
+   "idVotacao": "2357898-11",
+   "proposicao": "PDL 3/2023",
+   "data": "2023-12-06",
+   "descricao": "Requerimento de urgência para o PDL 3/2023, que susta o Decreto 11.366/2023 (restrição a registro e compra de armas). Rejeitado: 254 votos, abaixo dos 257 exigidos.",
+   "placar": "254 x 156",
+   "pergunta": "G04",
+   "valorSim": 4,
+   "valorNao": 2,
+   "url": "https://dadosabertos.camara.leg.br/api/v2/votacoes/2357898-11/votos",
+   "urlProposicao": "https://www.camara.leg.br/propostas-legislativas/2357898"
+  },
+  {
+   "idVotacao": "2439779-55",
+   "proposicao": "PL 1958/2021",
+   "data": "2024-11-19",
+   "descricao": "Aprovação do substitutivo do PL 1958/2021, que renova a reserva de vagas em concursos federais para pessoas pretas, pardas, indígenas e quilombolas (30%). Cobre só concursos.",
+   "placar": "241 x 94",
+   "pergunta": "G11",
+   "valorSim": 4,
+   "valorNao": 2,
+   "url": "https://dadosabertos.camara.leg.br/api/v2/votacoes/2439779-55/votos",
+   "urlProposicao": "https://www.camara.leg.br/propostas-legislativas/2439779"
+  },
+  {
+   "idVotacao": "257161-454",
+   "proposicao": "PL 2159/2021",
+   "data": "2025-07-17",
+   "descricao": "Aprovação das emendas do Senado ao PL 2159/2021 (Lei Geral do Licenciamento Ambiental), votação principal da etapa final na Câmara.",
+   "placar": "267 x 116",
+   "pergunta": "DF04",
+   "valorSim": 5,
+   "valorNao": 1,
+   "url": "https://dadosabertos.camara.leg.br/api/v2/votacoes/257161-454/votos",
+   "urlProposicao": "https://www.camara.leg.br/propostas-legislativas/257161"
+  },
+  {
+   "idVotacao": "257161-454",
+   "proposicao": "PL 2159/2021",
+   "data": "2025-07-17",
+   "descricao": "Mesma votação do PL 2159/2021 (licenciamento ambiental). Correspondência parcial com G07: Sim indica prioridade à simplificação de empreendimentos.",
+   "placar": "267 x 116",
+   "pergunta": "G07",
+   "valorSim": 2,
+   "valorNao": 4,
+   "url": "https://dadosabertos.camara.leg.br/api/v2/votacoes/257161-454/votos",
+   "urlProposicao": "https://www.camara.leg.br/propostas-legislativas/257161"
+  },
+  {
+   "idVotacao": "2270800-135",
+   "proposicao": "PEC 3/2021",
+   "data": "2025-09-16",
+   "descricao": "PEC 3/2021, 1º turno: parlamentares só podem ser processados criminalmente com licença prévia da sua Casa (chamada PEC da Blindagem).",
+   "placar": "353 x 134",
+   "pergunta": "DF02",
+   "valorSim": 5,
+   "valorNao": 1,
+   "url": "https://dadosabertos.camara.leg.br/api/v2/votacoes/2270800-135/votos",
+   "urlProposicao": "https://www.camara.leg.br/propostas-legislativas/2270800"
+  },
+  {
+   "idVotacao": "2270800-160",
+   "proposicao": "PEC 3/2021",
+   "data": "2025-09-16",
+   "descricao": "PEC 3/2021, 2º turno (mesmo conteúdo do 1º turno).",
+   "placar": "344 x 133",
+   "pergunta": "DF02",
+   "valorSim": 5,
+   "valorNao": 1,
+   "url": "https://dadosabertos.camara.leg.br/api/v2/votacoes/2270800-160/votos",
+   "urlProposicao": "https://www.camara.leg.br/propostas-legislativas/2270800"
+  },
+  {
+   "idVotacao": "2562149-7",
+   "proposicao": "PL 2162/2023",
+   "data": "2025-09-17",
+   "descricao": "Requerimento de urgência para o PL 2162/2023 (anistia a participantes de atos políticos, incluindo o 8 de janeiro). Voto de urgência: correspondência parcial.",
+   "placar": "311 x 163",
+   "pergunta": "G08",
+   "valorSim": 4,
+   "valorNao": 2,
+   "url": "https://dadosabertos.camara.leg.br/api/v2/votacoes/2562149-7/votos",
+   "urlProposicao": "https://www.camara.leg.br/propostas-legislativas/2358548"
+  },
+  {
+   "idVotacao": "2358548-89",
+   "proposicao": "PL 2162/2023",
+   "data": "2025-12-10",
+   "descricao": "Substitutivo do PL 2162/2023 que reduz penas de crimes contra o Estado Democrático de Direito (aplicável ao 8 de janeiro), sem anistia. Correspondência parcial.",
+   "placar": "291 x 148",
+   "pergunta": "G08",
+   "valorSim": 4,
+   "valorNao": 2,
+   "url": "https://dadosabertos.camara.leg.br/api/v2/votacoes/2358548-89/votos",
+   "urlProposicao": "https://www.camara.leg.br/propostas-legislativas/2358548"
+  },
+  {
+   "idVotacao": "2233802-424",
+   "proposicao": "PEC 221/2019",
+   "data": "2026-05-27",
+   "descricao": "PEC 221/2019, 1º turno: jornada máxima de 40h semanais e 2 dias de repouso semanal, sem redução salarial (fim da escala 6x1).",
+   "placar": "472 x 22",
+   "pergunta": "G14",
+   "valorSim": 5,
+   "valorNao": 1,
+   "url": "https://dadosabertos.camara.leg.br/api/v2/votacoes/2233802-424/votos",
+   "urlProposicao": "https://www.camara.leg.br/propostas-legislativas/2233802"
+  },
+  {
+   "idVotacao": "2233802-438",
+   "proposicao": "PEC 221/2019",
+   "data": "2026-05-27",
+   "descricao": "PEC 221/2019, 2º turno (mesmo conteúdo do 1º turno).",
+   "placar": "461 x 19",
+   "pergunta": "G14",
+   "valorSim": 5,
+   "valorNao": 1,
+   "url": "https://dadosabertos.camara.leg.br/api/v2/votacoes/2233802-438/votos",
+   "urlProposicao": "https://www.camara.leg.br/propostas-legislativas/2233802"
+  }
+ ],
+ "candidatos": {
+  "130002542714": {
+   "nomeUrna": "ANA PAULA LEÃO",
+   "cargo": "Deputado Federal",
+   "partido": "PP",
+   "idCamara": 107970,
+   "nomeCamara": "Ana Paula Leão",
+   "pareamento": "nome civil exato",
+   "posicoes": {
+    "DF03": {
+     "v": 5,
+     "conf": "voto",
+     "fonte": "https://dadosabertos.camara.leg.br/api/v2/votacoes/345311-270/votos",
+     "nota": "Votou Sim no substitutivo do PL 490/2007 (marco temporal de terras indígenas) em 30/05/2023."
+    },
+    "G10": {
+     "v": 2,
+     "conf": "voto",
+     "fonte": "https://dadosabertos.camara.leg.br/api/v2/votacoes/2310837-8/votos",
+     "nota": "Votou Não na urgência do PL 2630/2020 (regulação de plataformas digitais) em 25/04/2023."
+    },
+    "G04": {
+     "v": 4,
+     "conf": "voto",
+     "fonte": "https://dadosabertos.camara.leg.br/api/v2/votacoes/2357898-11/votos",
+     "nota": "Votou Sim na urgência do PDL 3/2023 (sustar o decreto de 2023 que restringiu armas) em 06/12/2023."
+    },
+    "DF04": {
+     "v": 5,
+     "conf": "voto",
+     "fonte": "https://dadosabertos.camara.leg.br/api/v2/votacoes/257161-454/votos",
+     "nota": "Votou Sim nas emendas do Senado ao PL 2159/2021 (licenciamento ambiental) em 17/07/2025."
+    },
+    "G07": {
+     "v": 2,
+     "conf": "voto",
+     "fonte": "https://dadosabertos.camara.leg.br/api/v2/votacoes/257161-454/votos",
+     "nota": "Votou Sim nas emendas do Senado ao PL 2159/2021 (licenciamento ambiental) em 17/07/2025."
+    },
+    "DF02": {
+     "v": 5,
+     "conf": "voto",
+     "fonte": "https://dadosabertos.camara.leg.br/api/v2/votacoes/2270800-135/votos",
+     "nota": "Votou Sim nos dois turnos da PEC 3/2021 (licença do Congresso para processar parlamentares) em 16/09/2025.",
+     "fontes": [
+      "https://dadosabertos.camara.leg.br/api/v2/votacoes/2270800-135/votos",
+      "https://dadosabertos.camara.leg.br/api/v2/votacoes/2270800-160/votos"
+     ]
+    },
+    "G08": {
+     "v": 4,
+     "conf": "voto",
+     "fonte": "https://dadosabertos.camara.leg.br/api/v2/votacoes/2562149-7/votos",
+     "nota": "Votou Sim na urgência do PL 2162/2023 (anistia do 8 de janeiro) em 17/09/2025 e Sim no substitutivo que reduz as penas em 10/12/2025.",
+     "fontes": [
+      "https://dadosabertos.camara.leg.br/api/v2/votacoes/2562149-7/votos",
+      "https://dadosabertos.camara.leg.br/api/v2/votacoes/2358548-89/votos"
+     ]
+    },
+    "G14": {
+     "v": 5,
+     "conf": "voto",
+     "fonte": "https://dadosabertos.camara.leg.br/api/v2/votacoes/2233802-424/votos",
+     "nota": "Votou Sim nos dois turnos da PEC 221/2019 (40h semanais e 2 dias de folga, fim da escala 6x1) em 27/05/2026.",
+     "fontes": [
+      "https://dadosabertos.camara.leg.br/api/v2/votacoes/2233802-424/votos",
+      "https://dadosabertos.camara.leg.br/api/v2/votacoes/2233802-438/votos"
+     ]
+    }
+   },
+   "votos": {
+    "2233802-424": "Sim",
+    "2233802-438": "Sim",
+    "2270800-135": "Sim",
+    "2270800-160": "Sim",
+    "2310837-8": "Não",
+    "2357898-11": "Sim",
+    "2358548-89": "Sim",
+    "2562149-7": "Sim",
+    "257161-454": "Sim",
+    "345311-270": "Sim"
+   }
+  },
+  "130002535276": {
+   "nomeUrna": "ANA PIMENTEL",
+   "cargo": "Deputado Federal",
+   "partido": "PT",
+   "idCamara": 220632,
+   "nomeCamara": "Ana Pimentel",
+   "pareamento": "nome civil exato",
+   "posicoes": {
+    "DF03": {
+     "v": 1,
+     "conf": "voto",
+     "fonte": "https://dadosabertos.camara.leg.br/api/v2/votacoes/345311-270/votos",
+     "nota": "Votou Não no substitutivo do PL 490/2007 (marco temporal de terras indígenas) em 30/05/2023."
+    },
+    "G10": {
+     "v": 4,
+     "conf": "voto",
+     "fonte": "https://dadosabertos.camara.leg.br/api/v2/votacoes/2310837-8/votos",
+     "nota": "Votou Sim na urgência do PL 2630/2020 (regulação de plataformas digitais) em 25/04/2023."
+    },
+    "G11": {
+     "v": 4,
+     "conf": "voto",
+     "fonte": "https://dadosabertos.camara.leg.br/api/v2/votacoes/2439779-55/votos",
+     "nota": "Votou Sim no PL 1958/2021 (cotas raciais em concursos públicos) em 19/11/2024."
+    },
+    "DF04": {
+     "v": 1,
+     "conf": "voto",
+     "fonte": "https://dadosabertos.camara.leg.br/api/v2/votacoes/257161-454/votos",
+     "nota": "Votou Não nas emendas do Senado ao PL 2159/2021 (licenciamento ambiental) em 17/07/2025."
+    },
+    "G07": {
+     "v": 4,
+     "conf": "voto",
+     "fonte": "https://dadosabertos.camara.leg.br/api/v2/votacoes/257161-454/votos",
+     "nota": "Votou Não nas emendas do Senado ao PL 2159/2021 (licenciamento ambiental) em 17/07/2025."
+    },
+    "DF02": {
+     "v": 1,
+     "conf": "voto",
+     "fonte": "https://dadosabertos.camara.leg.br/api/v2/votacoes/2270800-135/votos",
+     "nota": "Votou Não nos dois turnos da PEC 3/2021 (licença do Congresso para processar parlamentares) em 16/09/2025.",
+     "fontes": [
+      "https://dadosabertos.camara.leg.br/api/v2/votacoes/2270800-135/votos",
+      "https://dadosabertos.camara.leg.br/api/v2/votacoes/2270800-160/votos"
+     ]
+    },
+    "G08": {
+     "v": 2,
+     "conf": "voto",
+     "fonte": "https://dadosabertos.camara.leg.br/api/v2/votacoes/2562149-7/votos",
+     "nota": "Votou Não na urgência do PL 2162/2023 (anistia do 8 de janeiro) em 17/09/2025 e Não no substitutivo que reduz as penas em 10/12/2025.",
+     "fontes": [
+      "https://dadosabertos.camara.leg.br/api/v2/votacoes/2562149-7/votos",
+      "https://dadosabertos.camara.leg.br/api/v2/votacoes/2358548-89/votos"
+     ]
+    },
+    "G14": {
+     "v": 5,
+     "conf": "voto",
+     "fonte": "https://dadosabertos.camara.leg.br/api/v2/votacoes/2233802-424/votos",
+     "nota": "Votou Sim nos dois turnos da PEC 221/2019 (40h semanais e 2 dias de folga, fim da escala 6x1) em 27/05/2026.",
+     "fontes": [
+      "https://dadosabertos.camara.leg.br/api/v2/votacoes/2233802-424/votos",
+      "https://dadosabertos.camara.leg.br/api/v2/votacoes/2233802-438/votos"
+     ]
+    }
+   },
+   "votos": {
+    "2233802-424": "Sim",
+    "2233802-438": "Sim",
+    "2270800-135": "Não",
+    "2270800-160": "Não",
+    "2310837-8": "Sim",
+    "2358548-89": "Não",
+    "2439779-55": "Sim",
+    "2562149-7": "Não",
+    "257161-454": "Não",
+    "345311-270": "Não"
+   }
+  },
+  "130002539715": {
+   "nomeUrna": "ANDRÉ JANONES",
+   "cargo": "Deputado Federal",
+   "partido": "REDE",
+   "idCamara": 204515,
+   "nomeCamara": "André Janones",
+   "pareamento": "nome civil exato",
+   "posicoes": {
+    "DF03": {
+     "v": 1,
+     "conf": "voto",
+     "fonte": "https://dadosabertos.camara.leg.br/api/v2/votacoes/345311-270/votos",
+     "nota": "Votou Não no substitutivo do PL 490/2007 (marco temporal de terras indígenas) em 30/05/2023."
+    },
+    "G10": {
+     "v": 4,
+     "conf": "voto",
+     "fonte": "https://dadosabertos.camara.leg.br/api/v2/votacoes/2310837-8/votos",
+     "nota": "Votou Sim na urgência do PL 2630/2020 (regulação de plataformas digitais) em 25/04/2023."
+    },
+    "G11": {
+     "v": 4,
+     "conf": "voto",
+     "fonte": "https://dadosabertos.camara.leg.br/api/v2/votacoes/2439779-55/votos",
+     "nota": "Votou Sim no PL 1958/2021 (cotas raciais em concursos públicos) em 19/11/2024."
+    },
+    "G08": {
+     "v": 2,
+     "conf": "voto",
+     "fonte": "https://dadosabertos.camara.leg.br/api/v2/votacoes/2358548-89/votos",
+     "nota": "Votou Não no substitutivo do PL 2162/2023 que reduz penas do 8 de janeiro em 10/12/2025."
+    },
+    "G14": {
+     "v": 5,
+     "conf": "voto",
+     "fonte": "https://dadosabertos.camara.leg.br/api/v2/votacoes/2233802-424/votos",
+     "nota": "Votou Sim nos dois turnos da PEC 221/2019 (40h semanais e 2 dias de folga, fim da escala 6x1) em 27/05/2026.",
+     "fontes": [
+      "https://dadosabertos.camara.leg.br/api/v2/votacoes/2233802-424/votos",
+      "https://dadosabertos.camara.leg.br/api/v2/votacoes/2233802-438/votos"
+     ]
+    }
+   },
+   "votos": {
+    "2233802-424": "Sim",
+    "2233802-438": "Sim",
+    "2310837-8": "Sim",
+    "2358548-89": "Não",
+    "2439779-55": "Sim",
+    "345311-270": "Não"
+   }
+  },
+  "130002554332": {
+   "nomeUrna": "AÉCIO NEVES",
+   "cargo": "Senador",
+   "partido": "PSDB",
+   "idCamara": 74646,
+   "nomeCamara": "Aécio Neves",
+   "pareamento": "nome civil exato",
+   "posicoes": {
+    "G10": {
+     "v": 4,
+     "conf": "voto",
+     "fonte": "https://dadosabertos.camara.leg.br/api/v2/votacoes/2310837-8/votos",
+     "nota": "Votou Sim na urgência do PL 2630/2020 (regulação de plataformas digitais) em 25/04/2023."
+    },
+    "G08": {
+     "v": 4,
+     "conf": "voto",
+     "fonte": "https://dadosabertos.camara.leg.br/api/v2/votacoes/2358548-89/votos",
+     "nota": "Votou Sim no substitutivo do PL 2162/2023 que reduz penas do 8 de janeiro em 10/12/2025."
+    },
+    "G14": {
+     "v": 5,
+     "conf": "voto",
+     "fonte": "https://dadosabertos.camara.leg.br/api/v2/votacoes/2233802-424/votos",
+     "nota": "Votou Sim nos dois turnos da PEC 221/2019 (40h semanais e 2 dias de folga, fim da escala 6x1) em 27/05/2026.",
+     "fontes": [
+      "https://dadosabertos.camara.leg.br/api/v2/votacoes/2233802-424/votos",
+      "https://dadosabertos.camara.leg.br/api/v2/votacoes/2233802-438/votos"
+     ]
+    }
+   },
+   "posicoesNaoAplicaveisAoCargo": {
+    "DF02": {
+     "v": 1,
+     "conf": "voto",
+     "fonte": "https://dadosabertos.camara.leg.br/api/v2/votacoes/2270800-135/votos",
+     "nota": "Votou Não nos dois turnos da PEC 3/2021 (licença do Congresso para processar parlamentares) em 16/09/2025.",
+     "fontes": [
+      "https://dadosabertos.camara.leg.br/api/v2/votacoes/2270800-135/votos",
+      "https://dadosabertos.camara.leg.br/api/v2/votacoes/2270800-160/votos"
+     ]
+    }
+   },
+   "votos": {
+    "2233802-424": "Sim",
+    "2233802-438": "Sim",
+    "2270800-135": "Não",
+    "2270800-160": "Não",
+    "2310837-8": "Sim",
+    "2358548-89": "Sim"
+   }
+  },
+  "130002537202": {
+   "nomeUrna": "BRUNO FARIAS",
+   "cargo": "Deputado Federal",
+   "partido": "REPUBLICANOS",
+   "idCamara": 210989,
+   "nomeCamara": "Bruno Farias",
+   "pareamento": "nome civil exato",
+   "posicoes": {
+    "DF03": {
+     "v": 5,
+     "conf": "voto",
+     "fonte": "https://dadosabertos.camara.leg.br/api/v2/votacoes/345311-270/votos",
+     "nota": "Votou Sim no substitutivo do PL 490/2007 (marco temporal de terras indígenas) em 30/05/2023."
+    },
+    "G10": {
+     "v": 4,
+     "conf": "voto",
+     "fonte": "https://dadosabertos.camara.leg.br/api/v2/votacoes/2310837-8/votos",
+     "nota": "Votou Sim na urgência do PL 2630/2020 (regulação de plataformas digitais) em 25/04/2023."
+    },
+    "G04": {
+     "v": 2,
+     "conf": "voto",
+     "fonte": "https://dadosabertos.camara.leg.br/api/v2/votacoes/2357898-11/votos",
+     "nota": "Votou Não na urgência do PDL 3/2023 (sustar o decreto de 2023 que restringiu armas) em 06/12/2023."
+    },
+    "DF04": {
+     "v": 5,
+     "conf": "voto",
+     "fonte": "https://dadosabertos.camara.leg.br/api/v2/votacoes/257161-454/votos",
+     "nota": "Votou Sim nas emendas do Senado ao PL 2159/2021 (licenciamento ambiental) em 17/07/2025."
+    },
+    "G07": {
+     "v": 2,
+     "conf": "voto",
+     "fonte": "https://dadosabertos.camara.leg.br/api/v2/votacoes/257161-454/votos",
+     "nota": "Votou Sim nas emendas do Senado ao PL 2159/2021 (licenciamento ambiental) em 17/07/2025."
+    },
+    "DF02": {
+     "v": 5,
+     "conf": "voto",
+     "fonte": "https://dadosabertos.camara.leg.br/api/v2/votacoes/2270800-135/votos",
+     "nota": "Votou Sim nos dois turnos da PEC 3/2021 (licença do Congresso para processar parlamentares) em 16/09/2025.",
+     "fontes": [
+      "https://dadosabertos.camara.leg.br/api/v2/votacoes/2270800-135/votos",
+      "https://dadosabertos.camara.leg.br/api/v2/votacoes/2270800-160/votos"
+     ]
+    },
+    "G08": {
+     "v": 4,
+     "conf": "voto",
+     "fonte": "https://dadosabertos.camara.leg.br/api/v2/votacoes/2562149-7/votos",
+     "nota": "Votou Sim na urgência do PL 2162/2023 (anistia do 8 de janeiro) em 17/09/2025 e Sim no substitutivo que reduz as penas em 10/12/2025.",
+     "fontes": [
+      "https://dadosabertos.camara.leg.br/api/v2/votacoes/2562149-7/votos",
+      "https://dadosabertos.camara.leg.br/api/v2/votacoes/2358548-89/votos"
+     ]
+    },
+    "G14": {
+     "v": 5,
+     "conf": "voto",
+     "fonte": "https://dadosabertos.camara.leg.br/api/v2/votacoes/2233802-424/votos",
+     "nota": "Votou Sim nos dois turnos da PEC 221/2019 (40h semanais e 2 dias de folga, fim da escala 6x1) em 27/05/2026.",
+     "fontes": [
+      "https://dadosabertos.camara.leg.br/api/v2/votacoes/2233802-424/votos",
+      "https://dadosabertos.camara.leg.br/api/v2/votacoes/2233802-438/votos"
+     ]
+    }
+   },
+   "votos": {
+    "2233802-424": "Sim",
+    "2233802-438": "Sim",
+    "2270800-135": "Sim",
+    "2270800-160": "Sim",
+    "2310837-8": "Sim",
+    "2357898-11": "Não",
+    "2358548-89": "Sim",
+    "2562149-7": "Sim",
+    "257161-454": "Sim",
+    "345311-270": "Sim"
+   }
+  },
+  "130002539741": {
+   "nomeUrna": "CÉLIA XAKRIABÁ",
+   "cargo": "Deputado Federal",
+   "partido": "PSOL",
+   "idCamara": 206018,
+   "nomeCamara": "Célia Xakriabá",
+   "pareamento": "nome civil exato",
+   "posicoes": {
+    "DF03": {
+     "v": 1,
+     "conf": "voto",
+     "fonte": "https://dadosabertos.camara.leg.br/api/v2/votacoes/345311-270/votos",
+     "nota": "Votou Não no substitutivo do PL 490/2007 (marco temporal de terras indígenas) em 30/05/2023."
+    },
+    "G10": {
+     "v": 4,
+     "conf": "voto",
+     "fonte": "https://dadosabertos.camara.leg.br/api/v2/votacoes/2310837-8/votos",
+     "nota": "Votou Sim na urgência do PL 2630/2020 (regulação de plataformas digitais) em 25/04/2023."
+    },
+    "DF04": {
+     "v": 1,
+     "conf": "voto",
+     "fonte": "https://dadosabertos.camara.leg.br/api/v2/votacoes/257161-454/votos",
+     "nota": "Votou Não nas emendas do Senado ao PL 2159/2021 (licenciamento ambiental) em 17/07/2025."
+    },
+    "G07": {
+     "v": 4,
+     "conf": "voto",
+     "fonte": "https://dadosabertos.camara.leg.br/api/v2/votacoes/257161-454/votos",
+     "nota": "Votou Não nas emendas do Senado ao PL 2159/2021 (licenciamento ambiental) em 17/07/2025."
+    },
+    "DF02": {
+     "v": 1,
+     "conf": "voto",
+     "fonte": "https://dadosabertos.camara.leg.br/api/v2/votacoes/2270800-135/votos",
+     "nota": "Votou Não nos dois turnos da PEC 3/2021 (licença do Congresso para processar parlamentares) em 16/09/2025.",
+     "fontes": [
+      "https://dadosabertos.camara.leg.br/api/v2/votacoes/2270800-135/votos",
+      "https://dadosabertos.camara.leg.br/api/v2/votacoes/2270800-160/votos"
+     ]
+    },
+    "G08": {
+     "v": 2,
+     "conf": "voto",
+     "fonte": "https://dadosabertos.camara.leg.br/api/v2/votacoes/2562149-7/votos",
+     "nota": "Votou Não na urgência do PL 2162/2023 (anistia do 8 de janeiro) em 17/09/2025 e Não no substitutivo que reduz as penas em 10/12/2025.",
+     "fontes": [
+      "https://dadosabertos.camara.leg.br/api/v2/votacoes/2562149-7/votos",
+      "https://dadosabertos.camara.leg.br/api/v2/votacoes/2358548-89/votos"
+     ]
+    },
+    "G14": {
+     "v": 5,
+     "conf": "voto",
+     "fonte": "https://dadosabertos.camara.leg.br/api/v2/votacoes/2233802-424/votos",
+     "nota": "Votou Sim nos dois turnos da PEC 221/2019 (40h semanais e 2 dias de folga, fim da escala 6x1) em 27/05/2026.",
+     "fontes": [
+      "https://dadosabertos.camara.leg.br/api/v2/votacoes/2233802-424/votos",
+      "https://dadosabertos.camara.leg.br/api/v2/votacoes/2233802-438/votos"
+     ]
+    }
+   },
+   "votos": {
+    "2233802-424": "Sim",
+    "2233802-438": "Sim",
+    "2270800-135": "Não",
+    "2270800-160": "Não",
+    "2310837-8": "Sim",
+    "2358548-89": "Não",
+    "2562149-7": "Não",
+    "257161-454": "Não",
+    "345311-270": "Não"
+   }
+  },
+  "130002535300": {
+   "nomeUrna": "DANDARA",
+   "cargo": "Deputado Federal",
+   "partido": "PT",
+   "idCamara": 220629,
+   "nomeCamara": "Dandara",
+   "pareamento": "nome civil exato",
+   "posicoes": {
+    "DF03": {
+     "v": 1,
+     "conf": "voto",
+     "fonte": "https://dadosabertos.camara.leg.br/api/v2/votacoes/345311-270/votos",
+     "nota": "Votou Não no substitutivo do PL 490/2007 (marco temporal de terras indígenas) em 30/05/2023."
+    },
+    "G10": {
+     "v": 4,
+     "conf": "voto",
+     "fonte": "https://dadosabertos.camara.leg.br/api/v2/votacoes/2310837-8/votos",
+     "nota": "Votou Sim na urgência do PL 2630/2020 (regulação de plataformas digitais) em 25/04/2023."
+    },
+    "G04": {
+     "v": 2,
+     "conf": "voto",
+     "fonte": "https://dadosabertos.camara.leg.br/api/v2/votacoes/2357898-11/votos",
+     "nota": "Votou Não na urgência do PDL 3/2023 (sustar o decreto de 2023 que restringiu armas) em 06/12/2023."
+    },
+    "G11": {
+     "v": 4,
+     "conf": "voto",
+     "fonte": "https://dadosabertos.camara.leg.br/api/v2/votacoes/2439779-55/votos",
+     "nota": "Votou Sim no PL 1958/2021 (cotas raciais em concursos públicos) em 19/11/2024."
+    },
+    "DF04": {
+     "v": 1,
+     "conf": "voto",
+     "fonte": "https://dadosabertos.camara.leg.br/api/v2/votacoes/257161-454/votos",
+     "nota": "Votou Não nas emendas do Senado ao PL 2159/2021 (licenciamento ambiental) em 17/07/2025."
+    },
+    "G07": {
+     "v": 4,
+     "conf": "voto",
+     "fonte": "https://dadosabertos.camara.leg.br/api/v2/votacoes/257161-454/votos",
+     "nota": "Votou Não nas emendas do Senado ao PL 2159/2021 (licenciamento ambiental) em 17/07/2025."
+    },
+    "DF02": {
+     "v": 1,
+     "conf": "voto",
+     "fonte": "https://dadosabertos.camara.leg.br/api/v2/votacoes/2270800-135/votos",
+     "nota": "Votou Não no 1º turno da PEC 3/2021 (licença do Congresso para processar parlamentares) em 16/09/2025; sem voto registrado no 2º turno."
+    },
+    "G08": {
+     "v": 2,
+     "conf": "voto",
+     "fonte": "https://dadosabertos.camara.leg.br/api/v2/votacoes/2562149-7/votos",
+     "nota": "Votou Não na urgência do PL 2162/2023 (anistia do 8 de janeiro) em 17/09/2025 e Não no substitutivo que reduz as penas em 10/12/2025.",
+     "fontes": [
+      "https://dadosabertos.camara.leg.br/api/v2/votacoes/2562149-7/votos",
+      "https://dadosabertos.camara.leg.br/api/v2/votacoes/2358548-89/votos"
+     ]
+    },
+    "G14": {
+     "v": 5,
+     "conf": "voto",
+     "fonte": "https://dadosabertos.camara.leg.br/api/v2/votacoes/2233802-424/votos",
+     "nota": "Votou Sim nos dois turnos da PEC 221/2019 (40h semanais e 2 dias de folga, fim da escala 6x1) em 27/05/2026.",
+     "fontes": [
+      "https://dadosabertos.camara.leg.br/api/v2/votacoes/2233802-424/votos",
+      "https://dadosabertos.camara.leg.br/api/v2/votacoes/2233802-438/votos"
+     ]
+    }
+   },
+   "votos": {
+    "2233802-424": "Sim",
+    "2233802-438": "Sim",
+    "2270800-135": "Não",
+    "2310837-8": "Sim",
+    "2357898-11": "Não",
+    "2358548-89": "Não",
+    "2439779-55": "Sim",
+    "2562149-7": "Não",
+    "257161-454": "Não",
+    "345311-270": "Não"
+   }
+  },
+  "130002542004": {
+   "nomeUrna": "DELEGADA IONE",
+   "cargo": "Deputado Federal",
+   "partido": "PL",
+   "idCamara": 220625,
+   "nomeCamara": "Delegada Ione",
+   "pareamento": "nome civil exato",
+   "posicoes": {
+    "DF03": {
+     "v": 5,
+     "conf": "voto",
+     "fonte": "https://dadosabertos.camara.leg.br/api/v2/votacoes/345311-270/votos",
+     "nota": "Votou Sim no substitutivo do PL 490/2007 (marco temporal de terras indígenas) em 30/05/2023."
+    },
+    "G10": {
+     "v": 2,
+     "conf": "voto",
+     "fonte": "https://dadosabertos.camara.leg.br/api/v2/votacoes/2310837-8/votos",
+     "nota": "Votou Não na urgência do PL 2630/2020 (regulação de plataformas digitais) em 25/04/2023."
+    },
+    "G04": {
+     "v": 4,
+     "conf": "voto",
+     "fonte": "https://dadosabertos.camara.leg.br/api/v2/votacoes/2357898-11/votos",
+     "nota": "Votou Sim na urgência do PDL 3/2023 (sustar o decreto de 2023 que restringiu armas) em 06/12/2023."
+    },
+    "DF04": {
+     "v": 1,
+     "conf": "voto",
+     "fonte": "https://dadosabertos.camara.leg.br/api/v2/votacoes/257161-454/votos",
+     "nota": "Votou Não nas emendas do Senado ao PL 2159/2021 (licenciamento ambiental) em 17/07/2025."
+    },
+    "G07": {
+     "v": 4,
+     "conf": "voto",
+     "fonte": "https://dadosabertos.camara.leg.br/api/v2/votacoes/257161-454/votos",
+     "nota": "Votou Não nas emendas do Senado ao PL 2159/2021 (licenciamento ambiental) em 17/07/2025."
+    },
+    "DF02": {
+     "v": 5,
+     "conf": "voto",
+     "fonte": "https://dadosabertos.camara.leg.br/api/v2/votacoes/2270800-135/votos",
+     "nota": "Votou Sim nos dois turnos da PEC 3/2021 (licença do Congresso para processar parlamentares) em 16/09/2025.",
+     "fontes": [
+      "https://dadosabertos.camara.leg.br/api/v2/votacoes/2270800-135/votos",
+      "https://dadosabertos.camara.leg.br/api/v2/votacoes/2270800-160/votos"
+     ]
+    },
+    "G08": {
+     "v": 4,
+     "conf": "voto",
+     "fonte": "https://dadosabertos.camara.leg.br/api/v2/votacoes/2562149-7/votos",
+     "nota": "Votou Sim na urgência do PL 2162/2023 (anistia do 8 de janeiro) em 17/09/2025 e Sim no substitutivo que reduz as penas em 10/12/2025.",
+     "fontes": [
+      "https://dadosabertos.camara.leg.br/api/v2/votacoes/2562149-7/votos",
+      "https://dadosabertos.camara.leg.br/api/v2/votacoes/2358548-89/votos"
+     ]
+    },
+    "G14": {
+     "v": 5,
+     "conf": "voto",
+     "fonte": "https://dadosabertos.camara.leg.br/api/v2/votacoes/2233802-424/votos",
+     "nota": "Votou Sim nos dois turnos da PEC 221/2019 (40h semanais e 2 dias de folga, fim da escala 6x1) em 27/05/2026.",
+     "fontes": [
+      "https://dadosabertos.camara.leg.br/api/v2/votacoes/2233802-424/votos",
+      "https://dadosabertos.camara.leg.br/api/v2/votacoes/2233802-438/votos"
+     ]
+    }
+   },
+   "votos": {
+    "2233802-424": "Sim",
+    "2233802-438": "Sim",
+    "2270800-135": "Sim",
+    "2270800-160": "Sim",
+    "2310837-8": "Não",
+    "2357898-11": "Sim",
+    "2358548-89": "Sim",
+    "2562149-7": "Sim",
+    "257161-454": "Não",
+    "345311-270": "Sim"
+   }
+  },
+  "130002542730": {
+   "nomeUrna": "DELEGADO MARCELO FREITAS",
+   "cargo": "Deputado Federal",
+   "partido": "UNIÃO",
+   "idCamara": 204512,
+   "nomeCamara": "Delegado Marcelo Freitas",
+   "pareamento": "nome civil exato",
+   "posicoes": {
+    "DF03": {
+     "v": 5,
+     "conf": "voto",
+     "fonte": "https://dadosabertos.camara.leg.br/api/v2/votacoes/345311-270/votos",
+     "nota": "Votou Sim no substitutivo do PL 490/2007 (marco temporal de terras indígenas) em 30/05/2023."
+    },
+    "G10": {
+     "v": 2,
+     "conf": "voto",
+     "fonte": "https://dadosabertos.camara.leg.br/api/v2/votacoes/2310837-8/votos",
+     "nota": "Votou Não na urgência do PL 2630/2020 (regulação de plataformas digitais) em 25/04/2023."
+    },
+    "G04": {
+     "v": 4,
+     "conf": "voto",
+     "fonte": "https://dadosabertos.camara.leg.br/api/v2/votacoes/2357898-11/votos",
+     "nota": "Votou Sim na urgência do PDL 3/2023 (sustar o decreto de 2023 que restringiu armas) em 06/12/2023."
+    },
+    "G11": {
+     "v": 4,
+     "conf": "voto",
+     "fonte": "https://dadosabertos.camara.leg.br/api/v2/votacoes/2439779-55/votos",
+     "nota": "Votou Sim no PL 1958/2021 (cotas raciais em concursos públicos) em 19/11/2024."
+    },
+    "DF04": {
+     "v": 5,
+     "conf": "voto",
+     "fonte": "https://dadosabertos.camara.leg.br/api/v2/votacoes/257161-454/votos",
+     "nota": "Votou Sim nas emendas do Senado ao PL 2159/2021 (licenciamento ambiental) em 17/07/2025."
+    },
+    "G07": {
+     "v": 2,
+     "conf": "voto",
+     "fonte": "https://dadosabertos.camara.leg.br/api/v2/votacoes/257161-454/votos",
+     "nota": "Votou Sim nas emendas do Senado ao PL 2159/2021 (licenciamento ambiental) em 17/07/2025."
+    },
+    "DF02": {
+     "v": 5,
+     "conf": "voto",
+     "fonte": "https://dadosabertos.camara.leg.br/api/v2/votacoes/2270800-135/votos",
+     "nota": "Votou Sim nos dois turnos da PEC 3/2021 (licença do Congresso para processar parlamentares) em 16/09/2025.",
+     "fontes": [
+      "https://dadosabertos.camara.leg.br/api/v2/votacoes/2270800-135/votos",
+      "https://dadosabertos.camara.leg.br/api/v2/votacoes/2270800-160/votos"
+     ]
+    },
+    "G08": {
+     "v": 4,
+     "conf": "voto",
+     "fonte": "https://dadosabertos.camara.leg.br/api/v2/votacoes/2562149-7/votos",
+     "nota": "Votou Sim na urgência do PL 2162/2023 (anistia do 8 de janeiro) em 17/09/2025 e Sim no substitutivo que reduz as penas em 10/12/2025.",
+     "fontes": [
+      "https://dadosabertos.camara.leg.br/api/v2/votacoes/2562149-7/votos",
+      "https://dadosabertos.camara.leg.br/api/v2/votacoes/2358548-89/votos"
+     ]
+    },
+    "G14": {
+     "v": 5,
+     "conf": "voto",
+     "fonte": "https://dadosabertos.camara.leg.br/api/v2/votacoes/2233802-424/votos",
+     "nota": "Votou Sim nos dois turnos da PEC 221/2019 (40h semanais e 2 dias de folga, fim da escala 6x1) em 27/05/2026.",
+     "fontes": [
+      "https://dadosabertos.camara.leg.br/api/v2/votacoes/2233802-424/votos",
+      "https://dadosabertos.camara.leg.br/api/v2/votacoes/2233802-438/votos"
+     ]
+    }
+   },
+   "votos": {
+    "2233802-424": "Sim",
+    "2233802-438": "Sim",
+    "2270800-135": "Sim",
+    "2270800-160": "Sim",
+    "2310837-8": "Não",
+    "2357898-11": "Sim",
+    "2358548-89": "Sim",
+    "2439779-55": "Sim",
+    "2562149-7": "Sim",
+    "257161-454": "Sim",
+    "345311-270": "Sim"
+   }
+  },
+  "130002545559": {
+   "nomeUrna": "DIEGO ANDRADE",
+   "cargo": "Deputado Federal",
+   "partido": "PSD",
+   "idCamara": 160588,
+   "nomeCamara": "Diego Andrade",
+   "pareamento": "nome civil exato",
+   "posicoes": {
+    "G10": {
+     "v": 2,
+     "conf": "voto",
+     "fonte": "https://dadosabertos.camara.leg.br/api/v2/votacoes/2310837-8/votos",
+     "nota": "Votou Não na urgência do PL 2630/2020 (regulação de plataformas digitais) em 25/04/2023."
+    },
+    "G11": {
+     "v": 4,
+     "conf": "voto",
+     "fonte": "https://dadosabertos.camara.leg.br/api/v2/votacoes/2439779-55/votos",
+     "nota": "Votou Sim no PL 1958/2021 (cotas raciais em concursos públicos) em 19/11/2024."
+    },
+    "DF02": {
+     "v": 5,
+     "conf": "voto",
+     "fonte": "https://dadosabertos.camara.leg.br/api/v2/votacoes/2270800-135/votos",
+     "nota": "Votou Sim nos dois turnos da PEC 3/2021 (licença do Congresso para processar parlamentares) em 16/09/2025.",
+     "fontes": [
+      "https://dadosabertos.camara.leg.br/api/v2/votacoes/2270800-135/votos",
+      "https://dadosabertos.camara.leg.br/api/v2/votacoes/2270800-160/votos"
+     ]
+    },
+    "G08": {
+     "v": 4,
+     "conf": "voto",
+     "fonte": "https://dadosabertos.camara.leg.br/api/v2/votacoes/2562149-7/votos",
+     "nota": "Votou Sim na urgência do PL 2162/2023 (anistia do 8 de janeiro) em 17/09/2025 e Sim no substitutivo que reduz as penas em 10/12/2025.",
+     "fontes": [
+      "https://dadosabertos.camara.leg.br/api/v2/votacoes/2562149-7/votos",
+      "https://dadosabertos.camara.leg.br/api/v2/votacoes/2358548-89/votos"
+     ]
+    },
+    "G14": {
+     "v": 5,
+     "conf": "voto",
+     "fonte": "https://dadosabertos.camara.leg.br/api/v2/votacoes/2233802-424/votos",
+     "nota": "Votou Sim no 1º turno da PEC 221/2019 (40h semanais e 2 dias de folga, fim da escala 6x1) em 27/05/2026; sem voto registrado no 2º turno."
+    }
+   },
+   "votos": {
+    "2233802-424": "Sim",
+    "2270800-135": "Sim",
+    "2270800-160": "Sim",
+    "2310837-8": "Não",
+    "2358548-89": "Sim",
+    "2439779-55": "Sim",
+    "2562149-7": "Sim"
+   }
+  },
+  "130002542743": {
+   "nomeUrna": "DIMAS FABIANO",
+   "cargo": "Deputado Federal",
+   "partido": "PP",
+   "idCamara": 160599,
+   "nomeCamara": "Dimas Fabiano",
+   "pareamento": "nome civil exato",
+   "posicoes": {
+    "DF03": {
+     "v": 5,
+     "conf": "voto",
+     "fonte": "https://dadosabertos.camara.leg.br/api/v2/votacoes/345311-270/votos",
+     "nota": "Votou Sim no substitutivo do PL 490/2007 (marco temporal de terras indígenas) em 30/05/2023."
+    },
+    "G10": {
+     "v": 2,
+     "conf": "voto",
+     "fonte": "https://dadosabertos.camara.leg.br/api/v2/votacoes/2310837-8/votos",
+     "nota": "Votou Não na urgência do PL 2630/2020 (regulação de plataformas digitais) em 25/04/2023."
+    },
+    "G04": {
+     "v": 4,
+     "conf": "voto",
+     "fonte": "https://dadosabertos.camara.leg.br/api/v2/votacoes/2357898-11/votos",
+     "nota": "Votou Sim na urgência do PDL 3/2023 (sustar o decreto de 2023 que restringiu armas) em 06/12/2023."
+    },
+    "G11": {
+     "v": 4,
+     "conf": "voto",
+     "fonte": "https://dadosabertos.camara.leg.br/api/v2/votacoes/2439779-55/votos",
+     "nota": "Votou Sim no PL 1958/2021 (cotas raciais em concursos públicos) em 19/11/2024."
+    },
+    "DF04": {
+     "v": 5,
+     "conf": "voto",
+     "fonte": "https://dadosabertos.camara.leg.br/api/v2/votacoes/257161-454/votos",
+     "nota": "Votou Sim nas emendas do Senado ao PL 2159/2021 (licenciamento ambiental) em 17/07/2025."
+    },
+    "G07": {
+     "v": 2,
+     "conf": "voto",
+     "fonte": "https://dadosabertos.camara.leg.br/api/v2/votacoes/257161-454/votos",
+     "nota": "Votou Sim nas emendas do Senado ao PL 2159/2021 (licenciamento ambiental) em 17/07/2025."
+    },
+    "DF02": {
+     "v": 5,
+     "conf": "voto",
+     "fonte": "https://dadosabertos.camara.leg.br/api/v2/votacoes/2270800-135/votos",
+     "nota": "Votou Sim nos dois turnos da PEC 3/2021 (licença do Congresso para processar parlamentares) em 16/09/2025.",
+     "fontes": [
+      "https://dadosabertos.camara.leg.br/api/v2/votacoes/2270800-135/votos",
+      "https://dadosabertos.camara.leg.br/api/v2/votacoes/2270800-160/votos"
+     ]
+    },
+    "G08": {
+     "v": 4,
+     "conf": "voto",
+     "fonte": "https://dadosabertos.camara.leg.br/api/v2/votacoes/2562149-7/votos",
+     "nota": "Votou Sim na urgência do PL 2162/2023 (anistia do 8 de janeiro) em 17/09/2025 e Sim no substitutivo que reduz as penas em 10/12/2025.",
+     "fontes": [
+      "https://dadosabertos.camara.leg.br/api/v2/votacoes/2562149-7/votos",
+      "https://dadosabertos.camara.leg.br/api/v2/votacoes/2358548-89/votos"
+     ]
+    },
+    "G14": {
+     "v": 5,
+     "conf": "voto",
+     "fonte": "https://dadosabertos.camara.leg.br/api/v2/votacoes/2233802-424/votos",
+     "nota": "Votou Sim nos dois turnos da PEC 221/2019 (40h semanais e 2 dias de folga, fim da escala 6x1) em 27/05/2026.",
+     "fontes": [
+      "https://dadosabertos.camara.leg.br/api/v2/votacoes/2233802-424/votos",
+      "https://dadosabertos.camara.leg.br/api/v2/votacoes/2233802-438/votos"
+     ]
+    }
+   },
+   "votos": {
+    "2233802-424": "Sim",
+    "2233802-438": "Sim",
+    "2270800-135": "Sim",
+    "2270800-160": "Sim",
+    "2310837-8": "Não",
+    "2357898-11": "Sim",
+    "2358548-89": "Sim",
+    "2439779-55": "Sim",
+    "2562149-7": "Sim",
+    "257161-454": "Sim",
+    "345311-270": "Sim"
+   }
+  },
+  "130002551786": {
+   "nomeUrna": "DOMINGOS SÁVIO",
+   "cargo": "Senador",
+   "partido": "PL",
+   "idCamara": 160758,
+   "nomeCamara": "Domingos Sávio",
+   "pareamento": "nome civil exato",
+   "posicoes": {
+    "G04": {
+     "v": 4,
+     "conf": "voto",
+     "fonte": "https://dadosabertos.camara.leg.br/api/v2/votacoes/2357898-11/votos",
+     "nota": "Votou Sim na urgência do PDL 3/2023 (sustar o decreto de 2023 que restringiu armas) em 06/12/2023."
+    },
+    "G11": {
+     "v": 2,
+     "conf": "voto",
+     "fonte": "https://dadosabertos.camara.leg.br/api/v2/votacoes/2439779-55/votos",
+     "nota": "Votou Não no PL 1958/2021 (cotas raciais em concursos públicos) em 19/11/2024."
+    },
+    "G07": {
+     "v": 2,
+     "conf": "voto",
+     "fonte": "https://dadosabertos.camara.leg.br/api/v2/votacoes/257161-454/votos",
+     "nota": "Votou Sim nas emendas do Senado ao PL 2159/2021 (licenciamento ambiental) em 17/07/2025."
+    },
+    "G08": {
+     "v": 4,
+     "conf": "voto",
+     "fonte": "https://dadosabertos.camara.leg.br/api/v2/votacoes/2562149-7/votos",
+     "nota": "Votou Sim na urgência do PL 2162/2023 (anistia do 8 de janeiro) em 17/09/2025 e Sim no substitutivo que reduz as penas em 10/12/2025.",
+     "fontes": [
+      "https://dadosabertos.camara.leg.br/api/v2/votacoes/2562149-7/votos",
+      "https://dadosabertos.camara.leg.br/api/v2/votacoes/2358548-89/votos"
+     ]
+    },
+    "G14": {
+     "v": 5,
+     "conf": "voto",
+     "fonte": "https://dadosabertos.camara.leg.br/api/v2/votacoes/2233802-424/votos",
+     "nota": "Votou Sim nos dois turnos da PEC 221/2019 (40h semanais e 2 dias de folga, fim da escala 6x1) em 27/05/2026.",
+     "fontes": [
+      "https://dadosabertos.camara.leg.br/api/v2/votacoes/2233802-424/votos",
+      "https://dadosabertos.camara.leg.br/api/v2/votacoes/2233802-438/votos"
+     ]
+    }
+   },
+   "posicoesNaoAplicaveisAoCargo": {
+    "DF03": {
+     "v": 5,
+     "conf": "voto",
+     "fonte": "https://dadosabertos.camara.leg.br/api/v2/votacoes/345311-270/votos",
+     "nota": "Votou Sim no substitutivo do PL 490/2007 (marco temporal de terras indígenas) em 30/05/2023."
+    },
+    "DF04": {
+     "v": 5,
+     "conf": "voto",
+     "fonte": "https://dadosabertos.camara.leg.br/api/v2/votacoes/257161-454/votos",
+     "nota": "Votou Sim nas emendas do Senado ao PL 2159/2021 (licenciamento ambiental) em 17/07/2025."
+    },
+    "DF02": {
+     "v": 5,
+     "conf": "voto",
+     "fonte": "https://dadosabertos.camara.leg.br/api/v2/votacoes/2270800-135/votos",
+     "nota": "Votou Sim nos dois turnos da PEC 3/2021 (licença do Congresso para processar parlamentares) em 16/09/2025.",
+     "fontes": [
+      "https://dadosabertos.camara.leg.br/api/v2/votacoes/2270800-135/votos",
+      "https://dadosabertos.camara.leg.br/api/v2/votacoes/2270800-160/votos"
+     ]
+    }
+   },
+   "votos": {
+    "2233802-424": "Sim",
+    "2233802-438": "Sim",
+    "2270800-135": "Sim",
+    "2270800-160": "Sim",
+    "2357898-11": "Sim",
+    "2358548-89": "Sim",
+    "2439779-55": "Não",
+    "2562149-7": "Sim",
+    "257161-454": "Sim",
+    "345311-270": "Sim"
+   }
+  },
+  "130002542036": {
+   "nomeUrna": "DR. FREDERICO",
+   "cargo": "Deputado Federal",
+   "partido": "PL",
+   "idCamara": 204518,
+   "nomeCamara": "Dr. Frederico",
+   "pareamento": "nome civil exato",
+   "posicoes": {
+    "DF03": {
+     "v": 5,
+     "conf": "voto",
+     "fonte": "https://dadosabertos.camara.leg.br/api/v2/votacoes/345311-270/votos",
+     "nota": "Votou Sim no substitutivo do PL 490/2007 (marco temporal de terras indígenas) em 30/05/2023."
+    },
+    "G10": {
+     "v": 2,
+     "conf": "voto",
+     "fonte": "https://dadosabertos.camara.leg.br/api/v2/votacoes/2310837-8/votos",
+     "nota": "Votou Não na urgência do PL 2630/2020 (regulação de plataformas digitais) em 25/04/2023."
+    },
+    "G04": {
+     "v": 4,
+     "conf": "voto",
+     "fonte": "https://dadosabertos.camara.leg.br/api/v2/votacoes/2357898-11/votos",
+     "nota": "Votou Sim na urgência do PDL 3/2023 (sustar o decreto de 2023 que restringiu armas) em 06/12/2023."
+    },
+    "DF04": {
+     "v": 5,
+     "conf": "voto",
+     "fonte": "https://dadosabertos.camara.leg.br/api/v2/votacoes/257161-454/votos",
+     "nota": "Votou Sim nas emendas do Senado ao PL 2159/2021 (licenciamento ambiental) em 17/07/2025."
+    },
+    "G07": {
+     "v": 2,
+     "conf": "voto",
+     "fonte": "https://dadosabertos.camara.leg.br/api/v2/votacoes/257161-454/votos",
+     "nota": "Votou Sim nas emendas do Senado ao PL 2159/2021 (licenciamento ambiental) em 17/07/2025."
+    },
+    "DF02": {
+     "v": 5,
+     "conf": "voto",
+     "fonte": "https://dadosabertos.camara.leg.br/api/v2/votacoes/2270800-135/votos",
+     "nota": "Votou Sim nos dois turnos da PEC 3/2021 (licença do Congresso para processar parlamentares) em 16/09/2025.",
+     "fontes": [
+      "https://dadosabertos.camara.leg.br/api/v2/votacoes/2270800-135/votos",
+      "https://dadosabertos.camara.leg.br/api/v2/votacoes/2270800-160/votos"
+     ]
+    },
+    "G08": {
+     "v": 4,
+     "conf": "voto",
+     "fonte": "https://dadosabertos.camara.leg.br/api/v2/votacoes/2562149-7/votos",
+     "nota": "Votou Sim na urgência do PL 2162/2023 (anistia do 8 de janeiro) em 17/09/2025 e Sim no substitutivo que reduz as penas em 10/12/2025.",
+     "fontes": [
+      "https://dadosabertos.camara.leg.br/api/v2/votacoes/2562149-7/votos",
+      "https://dadosabertos.camara.leg.br/api/v2/votacoes/2358548-89/votos"
+     ]
+    },
+    "G14": {
+     "v": 5,
+     "conf": "voto",
+     "fonte": "https://dadosabertos.camara.leg.br/api/v2/votacoes/2233802-424/votos",
+     "nota": "Votou Sim nos dois turnos da PEC 221/2019 (40h semanais e 2 dias de folga, fim da escala 6x1) em 27/05/2026.",
+     "fontes": [
+      "https://dadosabertos.camara.leg.br/api/v2/votacoes/2233802-424/votos",
+      "https://dadosabertos.camara.leg.br/api/v2/votacoes/2233802-438/votos"
+     ]
+    }
+   },
+   "votos": {
+    "2233802-424": "Sim",
+    "2233802-438": "Sim",
+    "2270800-135": "Sim",
+    "2270800-160": "Sim",
+    "2310837-8": "Não",
+    "2357898-11": "Sim",
+    "2358548-89": "Sim",
+    "2562149-7": "Sim",
+    "257161-454": "Sim",
+    "345311-270": "Sim"
+   }
+  },
+  "130002539728": {
+   "nomeUrna": "DUDA SALABERT",
+   "cargo": "Deputado Federal",
+   "partido": "PSOL",
+   "idCamara": 220623,
+   "nomeCamara": "Duda Salabert",
+   "pareamento": "aproximado",
+   "posicoes": {
+    "DF03": {
+     "v": 1,
+     "conf": "voto",
+     "fonte": "https://dadosabertos.camara.leg.br/api/v2/votacoes/345311-270/votos",
+     "nota": "Votou Não no substitutivo do PL 490/2007 (marco temporal de terras indígenas) em 30/05/2023."
+    },
+    "DF04": {
+     "v": 1,
+     "conf": "voto",
+     "fonte": "https://dadosabertos.camara.leg.br/api/v2/votacoes/257161-454/votos",
+     "nota": "Votou Não nas emendas do Senado ao PL 2159/2021 (licenciamento ambiental) em 17/07/2025."
+    },
+    "G07": {
+     "v": 4,
+     "conf": "voto",
+     "fonte": "https://dadosabertos.camara.leg.br/api/v2/votacoes/257161-454/votos",
+     "nota": "Votou Não nas emendas do Senado ao PL 2159/2021 (licenciamento ambiental) em 17/07/2025."
+    },
+    "DF02": {
+     "v": 1,
+     "conf": "voto",
+     "fonte": "https://dadosabertos.camara.leg.br/api/v2/votacoes/2270800-135/votos",
+     "nota": "Votou Não nos dois turnos da PEC 3/2021 (licença do Congresso para processar parlamentares) em 16/09/2025.",
+     "fontes": [
+      "https://dadosabertos.camara.leg.br/api/v2/votacoes/2270800-135/votos",
+      "https://dadosabertos.camara.leg.br/api/v2/votacoes/2270800-160/votos"
+     ]
+    },
+    "G08": {
+     "v": 2,
+     "conf": "voto",
+     "fonte": "https://dadosabertos.camara.leg.br/api/v2/votacoes/2562149-7/votos",
+     "nota": "Votou Não na urgência do PL 2162/2023 (anistia do 8 de janeiro) em 17/09/2025 e Não no substitutivo que reduz as penas em 10/12/2025.",
+     "fontes": [
+      "https://dadosabertos.camara.leg.br/api/v2/votacoes/2562149-7/votos",
+      "https://dadosabertos.camara.leg.br/api/v2/votacoes/2358548-89/votos"
+     ]
+    },
+    "G14": {
+     "v": 5,
+     "conf": "voto",
+     "fonte": "https://dadosabertos.camara.leg.br/api/v2/votacoes/2233802-424/votos",
+     "nota": "Votou Sim nos dois turnos da PEC 221/2019 (40h semanais e 2 dias de folga, fim da escala 6x1) em 27/05/2026.",
+     "fontes": [
+      "https://dadosabertos.camara.leg.br/api/v2/votacoes/2233802-424/votos",
+      "https://dadosabertos.camara.leg.br/api/v2/votacoes/2233802-438/votos"
+     ]
+    }
+   },
+   "votos": {
+    "2233802-424": "Sim",
+    "2233802-438": "Sim",
+    "2270800-135": "Não",
+    "2270800-160": "Não",
+    "2358548-89": "Não",
+    "2562149-7": "Não",
+    "257161-454": "Não",
+    "345311-270": "Não"
+   }
+  },
+  "130002542017": {
+   "nomeUrna": "EMIDINHO MADEIRA",
+   "cargo": "Deputado Federal",
+   "partido": "PL",
+   "idCamara": 161550,
+   "nomeCamara": "Emidinho Madeira",
+   "pareamento": "nome civil exato",
+   "posicoes": {
+    "DF03": {
+     "v": 5,
+     "conf": "voto",
+     "fonte": "https://dadosabertos.camara.leg.br/api/v2/votacoes/345311-270/votos",
+     "nota": "Votou Sim no substitutivo do PL 490/2007 (marco temporal de terras indígenas) em 30/05/2023."
+    },
+    "G10": {
+     "v": 2,
+     "conf": "voto",
+     "fonte": "https://dadosabertos.camara.leg.br/api/v2/votacoes/2310837-8/votos",
+     "nota": "Votou Não na urgência do PL 2630/2020 (regulação de plataformas digitais) em 25/04/2023."
+    },
+    "G04": {
+     "v": 4,
+     "conf": "voto",
+     "fonte": "https://dadosabertos.camara.leg.br/api/v2/votacoes/2357898-11/votos",
+     "nota": "Votou Sim na urgência do PDL 3/2023 (sustar o decreto de 2023 que restringiu armas) em 06/12/2023."
+    },
+    "DF04": {
+     "v": 5,
+     "conf": "voto",
+     "fonte": "https://dadosabertos.camara.leg.br/api/v2/votacoes/257161-454/votos",
+     "nota": "Votou Sim nas emendas do Senado ao PL 2159/2021 (licenciamento ambiental) em 17/07/2025."
+    },
+    "G07": {
+     "v": 2,
+     "conf": "voto",
+     "fonte": "https://dadosabertos.camara.leg.br/api/v2/votacoes/257161-454/votos",
+     "nota": "Votou Sim nas emendas do Senado ao PL 2159/2021 (licenciamento ambiental) em 17/07/2025."
+    },
+    "DF02": {
+     "v": 5,
+     "conf": "voto",
+     "fonte": "https://dadosabertos.camara.leg.br/api/v2/votacoes/2270800-135/votos",
+     "nota": "Votou Sim no 1º turno da PEC 3/2021 (licença do Congresso para processar parlamentares) em 16/09/2025; sem voto registrado no 2º turno."
+    },
+    "G08": {
+     "v": 4,
+     "conf": "voto",
+     "fonte": "https://dadosabertos.camara.leg.br/api/v2/votacoes/2562149-7/votos",
+     "nota": "Votou Sim na urgência do PL 2162/2023 (anistia do 8 de janeiro) em 17/09/2025 e Sim no substitutivo que reduz as penas em 10/12/2025.",
+     "fontes": [
+      "https://dadosabertos.camara.leg.br/api/v2/votacoes/2562149-7/votos",
+      "https://dadosabertos.camara.leg.br/api/v2/votacoes/2358548-89/votos"
+     ]
+    },
+    "G14": {
+     "v": 5,
+     "conf": "voto",
+     "fonte": "https://dadosabertos.camara.leg.br/api/v2/votacoes/2233802-424/votos",
+     "nota": "Votou Sim nos dois turnos da PEC 221/2019 (40h semanais e 2 dias de folga, fim da escala 6x1) em 27/05/2026.",
+     "fontes": [
+      "https://dadosabertos.camara.leg.br/api/v2/votacoes/2233802-424/votos",
+      "https://dadosabertos.camara.leg.br/api/v2/votacoes/2233802-438/votos"
+     ]
+    }
+   },
+   "votos": {
+    "2233802-424": "Sim",
+    "2233802-438": "Sim",
+    "2270800-135": "Sim",
+    "2310837-8": "Não",
+    "2357898-11": "Sim",
+    "2358548-89": "Sim",
+    "2562149-7": "Sim",
+    "257161-454": "Sim",
+    "345311-270": "Sim"
+   }
+  },
+  "130002542007": {
+   "nomeUrna": "EROS BIONDINI",
+   "cargo": "Deputado Federal",
+   "partido": "PL",
+   "idCamara": 160640,
+   "nomeCamara": "Eros Biondini",
+   "pareamento": "nome civil exato",
+   "posicoes": {
+    "DF03": {
+     "v": 5,
+     "conf": "voto",
+     "fonte": "https://dadosabertos.camara.leg.br/api/v2/votacoes/345311-270/votos",
+     "nota": "Votou Sim no substitutivo do PL 490/2007 (marco temporal de terras indígenas) em 30/05/2023."
+    },
+    "G10": {
+     "v": 2,
+     "conf": "voto",
+     "fonte": "https://dadosabertos.camara.leg.br/api/v2/votacoes/2310837-8/votos",
+     "nota": "Votou Não na urgência do PL 2630/2020 (regulação de plataformas digitais) em 25/04/2023."
+    },
+    "G04": {
+     "v": 4,
+     "conf": "voto",
+     "fonte": "https://dadosabertos.camara.leg.br/api/v2/votacoes/2357898-11/votos",
+     "nota": "Votou Sim na urgência do PDL 3/2023 (sustar o decreto de 2023 que restringiu armas) em 06/12/2023."
+    },
+    "G11": {
+     "v": 2,
+     "conf": "voto",
+     "fonte": "https://dadosabertos.camara.leg.br/api/v2/votacoes/2439779-55/votos",
+     "nota": "Votou Não no PL 1958/2021 (cotas raciais em concursos públicos) em 19/11/2024."
+    },
+    "DF04": {
+     "v": 5,
+     "conf": "voto",
+     "fonte": "https://dadosabertos.camara.leg.br/api/v2/votacoes/257161-454/votos",
+     "nota": "Votou Sim nas emendas do Senado ao PL 2159/2021 (licenciamento ambiental) em 17/07/2025."
+    },
+    "G07": {
+     "v": 2,
+     "conf": "voto",
+     "fonte": "https://dadosabertos.camara.leg.br/api/v2/votacoes/257161-454/votos",
+     "nota": "Votou Sim nas emendas do Senado ao PL 2159/2021 (licenciamento ambiental) em 17/07/2025."
+    },
+    "DF02": {
+     "v": 5,
+     "conf": "voto",
+     "fonte": "https://dadosabertos.camara.leg.br/api/v2/votacoes/2270800-135/votos",
+     "nota": "Votou Sim nos dois turnos da PEC 3/2021 (licença do Congresso para processar parlamentares) em 16/09/2025.",
+     "fontes": [
+      "https://dadosabertos.camara.leg.br/api/v2/votacoes/2270800-135/votos",
+      "https://dadosabertos.camara.leg.br/api/v2/votacoes/2270800-160/votos"
+     ]
+    },
+    "G08": {
+     "v": 4,
+     "conf": "voto",
+     "fonte": "https://dadosabertos.camara.leg.br/api/v2/votacoes/2562149-7/votos",
+     "nota": "Votou Sim na urgência do PL 2162/2023 (anistia do 8 de janeiro) em 17/09/2025 e Sim no substitutivo que reduz as penas em 10/12/2025.",
+     "fontes": [
+      "https://dadosabertos.camara.leg.br/api/v2/votacoes/2562149-7/votos",
+      "https://dadosabertos.camara.leg.br/api/v2/votacoes/2358548-89/votos"
+     ]
+    },
+    "G14": {
+     "v": 5,
+     "conf": "voto",
+     "fonte": "https://dadosabertos.camara.leg.br/api/v2/votacoes/2233802-424/votos",
+     "nota": "Votou Sim nos dois turnos da PEC 221/2019 (40h semanais e 2 dias de folga, fim da escala 6x1) em 27/05/2026.",
+     "fontes": [
+      "https://dadosabertos.camara.leg.br/api/v2/votacoes/2233802-424/votos",
+      "https://dadosabertos.camara.leg.br/api/v2/votacoes/2233802-438/votos"
+     ]
+    }
+   },
+   "votos": {
+    "2233802-424": "Sim",
+    "2233802-438": "Sim",
+    "2270800-135": "Sim",
+    "2270800-160": "Sim",
+    "2310837-8": "Não",
+    "2357898-11": "Sim",
+    "2358548-89": "Sim",
+    "2439779-55": "Não",
+    "2562149-7": "Sim",
+    "257161-454": "Sim",
+    "345311-270": "Sim"
+   }
+  },
+  "130002537206": {
+   "nomeUrna": "EUCLYDES PETTERSEN",
+   "cargo": "Deputado Federal",
+   "partido": "REPUBLICANOS",
+   "idCamara": 204482,
+   "nomeCamara": "Euclydes Pettersen",
+   "pareamento": "nome civil exato",
+   "posicoes": {
+    "DF03": {
+     "v": 5,
+     "conf": "voto",
+     "fonte": "https://dadosabertos.camara.leg.br/api/v2/votacoes/345311-270/votos",
+     "nota": "Votou Sim no substitutivo do PL 490/2007 (marco temporal de terras indígenas) em 30/05/2023."
+    },
+    "G04": {
+     "v": 4,
+     "conf": "voto",
+     "fonte": "https://dadosabertos.camara.leg.br/api/v2/votacoes/2357898-11/votos",
+     "nota": "Votou Sim na urgência do PDL 3/2023 (sustar o decreto de 2023 que restringiu armas) em 06/12/2023."
+    },
+    "G11": {
+     "v": 4,
+     "conf": "voto",
+     "fonte": "https://dadosabertos.camara.leg.br/api/v2/votacoes/2439779-55/votos",
+     "nota": "Votou Sim no PL 1958/2021 (cotas raciais em concursos públicos) em 19/11/2024."
+    },
+    "DF04": {
+     "v": 5,
+     "conf": "voto",
+     "fonte": "https://dadosabertos.camara.leg.br/api/v2/votacoes/257161-454/votos",
+     "nota": "Votou Sim nas emendas do Senado ao PL 2159/2021 (licenciamento ambiental) em 17/07/2025."
+    },
+    "G07": {
+     "v": 2,
+     "conf": "voto",
+     "fonte": "https://dadosabertos.camara.leg.br/api/v2/votacoes/257161-454/votos",
+     "nota": "Votou Sim nas emendas do Senado ao PL 2159/2021 (licenciamento ambiental) em 17/07/2025."
+    },
+    "DF02": {
+     "v": 5,
+     "conf": "voto",
+     "fonte": "https://dadosabertos.camara.leg.br/api/v2/votacoes/2270800-135/votos",
+     "nota": "Votou Sim nos dois turnos da PEC 3/2021 (licença do Congresso para processar parlamentares) em 16/09/2025.",
+     "fontes": [
+      "https://dadosabertos.camara.leg.br/api/v2/votacoes/2270800-135/votos",
+      "https://dadosabertos.camara.leg.br/api/v2/votacoes/2270800-160/votos"
+     ]
+    },
+    "G08": {
+     "v": 4,
+     "conf": "voto",
+     "fonte": "https://dadosabertos.camara.leg.br/api/v2/votacoes/2562149-7/votos",
+     "nota": "Votou Sim na urgência do PL 2162/2023 (anistia do 8 de janeiro) em 17/09/2025 e Sim no substitutivo que reduz as penas em 10/12/2025.",
+     "fontes": [
+      "https://dadosabertos.camara.leg.br/api/v2/votacoes/2562149-7/votos",
+      "https://dadosabertos.camara.leg.br/api/v2/votacoes/2358548-89/votos"
+     ]
+    }
+   },
+   "votos": {
+    "2270800-135": "Sim",
+    "2270800-160": "Sim",
+    "2357898-11": "Sim",
+    "2358548-89": "Sim",
+    "2439779-55": "Sim",
+    "2562149-7": "Sim",
+    "257161-454": "Sim",
+    "345311-270": "Sim"
+   }
+  },
+  "130002542006": {
+   "nomeUrna": "FABIANO CAZECA",
+   "cargo": "Deputado Federal",
+   "partido": "PL",
+   "idCamara": 234388,
+   "nomeCamara": "Fabiano Cazeca",
+   "pareamento": "nome civil exato",
+   "posicoes": {
+    "G08": {
+     "v": 4,
+     "conf": "voto",
+     "fonte": "https://dadosabertos.camara.leg.br/api/v2/votacoes/2358548-89/votos",
+     "nota": "Votou Sim no substitutivo do PL 2162/2023 que reduz penas do 8 de janeiro em 10/12/2025."
+    }
+   },
+   "votos": {
+    "2358548-89": "Sim"
+   }
+  },
+  "130002533240": {
+   "nomeUrna": "FRED COSTA",
+   "cargo": "Deputado Federal",
+   "partido": "PRD",
+   "idCamara": 204494,
+   "nomeCamara": "Fred Costa",
+   "pareamento": "nome civil exato",
+   "posicoes": {
+    "DF03": {
+     "v": 1,
+     "conf": "voto",
+     "fonte": "https://dadosabertos.camara.leg.br/api/v2/votacoes/345311-270/votos",
+     "nota": "Votou Não no substitutivo do PL 490/2007 (marco temporal de terras indígenas) em 30/05/2023."
+    },
+    "G10": {
+     "v": 4,
+     "conf": "voto",
+     "fonte": "https://dadosabertos.camara.leg.br/api/v2/votacoes/2310837-8/votos",
+     "nota": "Votou Sim na urgência do PL 2630/2020 (regulação de plataformas digitais) em 25/04/2023."
+    },
+    "DF02": {
+     "v": 5,
+     "conf": "voto",
+     "fonte": "https://dadosabertos.camara.leg.br/api/v2/votacoes/2270800-135/votos",
+     "nota": "Votou Sim nos dois turnos da PEC 3/2021 (licença do Congresso para processar parlamentares) em 16/09/2025.",
+     "fontes": [
+      "https://dadosabertos.camara.leg.br/api/v2/votacoes/2270800-135/votos",
+      "https://dadosabertos.camara.leg.br/api/v2/votacoes/2270800-160/votos"
+     ]
+    },
+    "G08": {
+     "v": 4,
+     "conf": "voto",
+     "fonte": "https://dadosabertos.camara.leg.br/api/v2/votacoes/2562149-7/votos",
+     "nota": "Votou Sim na urgência do PL 2162/2023 (anistia do 8 de janeiro) em 17/09/2025 e Sim no substitutivo que reduz as penas em 10/12/2025.",
+     "fontes": [
+      "https://dadosabertos.camara.leg.br/api/v2/votacoes/2562149-7/votos",
+      "https://dadosabertos.camara.leg.br/api/v2/votacoes/2358548-89/votos"
+     ]
+    },
+    "G14": {
+     "v": 5,
+     "conf": "voto",
+     "fonte": "https://dadosabertos.camara.leg.br/api/v2/votacoes/2233802-424/votos",
+     "nota": "Votou Sim nos dois turnos da PEC 221/2019 (40h semanais e 2 dias de folga, fim da escala 6x1) em 27/05/2026.",
+     "fontes": [
+      "https://dadosabertos.camara.leg.br/api/v2/votacoes/2233802-424/votos",
+      "https://dadosabertos.camara.leg.br/api/v2/votacoes/2233802-438/votos"
+     ]
+    }
+   },
+   "votos": {
+    "2233802-424": "Sim",
+    "2233802-438": "Sim",
+    "2270800-135": "Sim",
+    "2270800-160": "Sim",
+    "2310837-8": "Sim",
+    "2357898-11": "Abstenção",
+    "2358548-89": "Sim",
+    "2562149-7": "Sim",
+    "345311-270": "Não"
+   }
+  },
+  "130002537223": {
+   "nomeUrna": "GILBERTO ABRAMO",
+   "cargo": "Deputado Federal",
+   "partido": "REPUBLICANOS",
+   "idCamara": 204491,
+   "nomeCamara": "Gilberto Abramo",
+   "pareamento": "nome civil exato",
+   "posicoes": {
+    "DF03": {
+     "v": 5,
+     "conf": "voto",
+     "fonte": "https://dadosabertos.camara.leg.br/api/v2/votacoes/345311-270/votos",
+     "nota": "Votou Sim no substitutivo do PL 490/2007 (marco temporal de terras indígenas) em 30/05/2023."
+    },
+    "G10": {
+     "v": 4,
+     "conf": "voto",
+     "fonte": "https://dadosabertos.camara.leg.br/api/v2/votacoes/2310837-8/votos",
+     "nota": "Votou Sim na urgência do PL 2630/2020 (regulação de plataformas digitais) em 25/04/2023."
+    },
+    "G04": {
+     "v": 4,
+     "conf": "voto",
+     "fonte": "https://dadosabertos.camara.leg.br/api/v2/votacoes/2357898-11/votos",
+     "nota": "Votou Sim na urgência do PDL 3/2023 (sustar o decreto de 2023 que restringiu armas) em 06/12/2023."
+    },
+    "G11": {
+     "v": 4,
+     "conf": "voto",
+     "fonte": "https://dadosabertos.camara.leg.br/api/v2/votacoes/2439779-55/votos",
+     "nota": "Votou Sim no PL 1958/2021 (cotas raciais em concursos públicos) em 19/11/2024."
+    },
+    "DF04": {
+     "v": 5,
+     "conf": "voto",
+     "fonte": "https://dadosabertos.camara.leg.br/api/v2/votacoes/257161-454/votos",
+     "nota": "Votou Sim nas emendas do Senado ao PL 2159/2021 (licenciamento ambiental) em 17/07/2025."
+    },
+    "G07": {
+     "v": 2,
+     "conf": "voto",
+     "fonte": "https://dadosabertos.camara.leg.br/api/v2/votacoes/257161-454/votos",
+     "nota": "Votou Sim nas emendas do Senado ao PL 2159/2021 (licenciamento ambiental) em 17/07/2025."
+    },
+    "DF02": {
+     "v": 5,
+     "conf": "voto",
+     "fonte": "https://dadosabertos.camara.leg.br/api/v2/votacoes/2270800-135/votos",
+     "nota": "Votou Sim nos dois turnos da PEC 3/2021 (licença do Congresso para processar parlamentares) em 16/09/2025.",
+     "fontes": [
+      "https://dadosabertos.camara.leg.br/api/v2/votacoes/2270800-135/votos",
+      "https://dadosabertos.camara.leg.br/api/v2/votacoes/2270800-160/votos"
+     ]
+    },
+    "G08": {
+     "v": 4,
+     "conf": "voto",
+     "fonte": "https://dadosabertos.camara.leg.br/api/v2/votacoes/2562149-7/votos",
+     "nota": "Votou Sim na urgência do PL 2162/2023 (anistia do 8 de janeiro) em 17/09/2025."
+    },
+    "G14": {
+     "v": 5,
+     "conf": "voto",
+     "fonte": "https://dadosabertos.camara.leg.br/api/v2/votacoes/2233802-424/votos",
+     "nota": "Votou Sim nos dois turnos da PEC 221/2019 (40h semanais e 2 dias de folga, fim da escala 6x1) em 27/05/2026.",
+     "fontes": [
+      "https://dadosabertos.camara.leg.br/api/v2/votacoes/2233802-424/votos",
+      "https://dadosabertos.camara.leg.br/api/v2/votacoes/2233802-438/votos"
+     ]
+    }
+   },
+   "votos": {
+    "2233802-424": "Sim",
+    "2233802-438": "Sim",
+    "2270800-135": "Sim",
+    "2270800-160": "Sim",
+    "2310837-8": "Sim",
+    "2357898-11": "Sim",
+    "2439779-55": "Sim",
+    "2562149-7": "Sim",
+    "257161-454": "Sim",
+    "345311-270": "Sim"
+   }
+  },
+  "130002535314": {
+   "nomeUrna": "GILMAR MACHADO",
+   "cargo": "Deputado Federal",
+   "partido": "PT",
+   "idCamara": 74581,
+   "nomeCamara": "Gilmar Machado",
+   "pareamento": "nome civil exato",
+   "posicoes": {},
+   "votos": {}
+  },
+  "130002542012": {
+   "nomeUrna": "GLAUCIA SANTIAGO",
+   "cargo": "Deputado Federal",
+   "partido": "PL",
+   "idCamara": 229333,
+   "nomeCamara": "Gláucia Santiago",
+   "pareamento": "nome civil exato",
+   "posicoes": {},
+   "votos": {}
+  },
+  "130002542019": {
+   "nomeUrna": "GREYCE ELIAS",
+   "cargo": "Deputado Federal",
+   "partido": "PL",
+   "idCamara": 198197,
+   "nomeCamara": "Greyce Elias",
+   "pareamento": "nome civil exato",
+   "posicoes": {
+    "DF03": {
+     "v": 5,
+     "conf": "voto",
+     "fonte": "https://dadosabertos.camara.leg.br/api/v2/votacoes/345311-270/votos",
+     "nota": "Votou Sim no substitutivo do PL 490/2007 (marco temporal de terras indígenas) em 30/05/2023."
+    },
+    "G10": {
+     "v": 2,
+     "conf": "voto",
+     "fonte": "https://dadosabertos.camara.leg.br/api/v2/votacoes/2310837-8/votos",
+     "nota": "Votou Não na urgência do PL 2630/2020 (regulação de plataformas digitais) em 25/04/2023."
+    },
+    "G04": {
+     "v": 4,
+     "conf": "voto",
+     "fonte": "https://dadosabertos.camara.leg.br/api/v2/votacoes/2357898-11/votos",
+     "nota": "Votou Sim na urgência do PDL 3/2023 (sustar o decreto de 2023 que restringiu armas) em 06/12/2023."
+    },
+    "G11": {
+     "v": 2,
+     "conf": "voto",
+     "fonte": "https://dadosabertos.camara.leg.br/api/v2/votacoes/2439779-55/votos",
+     "nota": "Votou Não no PL 1958/2021 (cotas raciais em concursos públicos) em 19/11/2024."
+    },
+    "DF04": {
+     "v": 5,
+     "conf": "voto",
+     "fonte": "https://dadosabertos.camara.leg.br/api/v2/votacoes/257161-454/votos",
+     "nota": "Votou Sim nas emendas do Senado ao PL 2159/2021 (licenciamento ambiental) em 17/07/2025."
+    },
+    "G07": {
+     "v": 2,
+     "conf": "voto",
+     "fonte": "https://dadosabertos.camara.leg.br/api/v2/votacoes/257161-454/votos",
+     "nota": "Votou Sim nas emendas do Senado ao PL 2159/2021 (licenciamento ambiental) em 17/07/2025."
+    },
+    "DF02": {
+     "v": 5,
+     "conf": "voto",
+     "fonte": "https://dadosabertos.camara.leg.br/api/v2/votacoes/2270800-135/votos",
+     "nota": "Votou Sim nos dois turnos da PEC 3/2021 (licença do Congresso para processar parlamentares) em 16/09/2025.",
+     "fontes": [
+      "https://dadosabertos.camara.leg.br/api/v2/votacoes/2270800-135/votos",
+      "https://dadosabertos.camara.leg.br/api/v2/votacoes/2270800-160/votos"
+     ]
+    },
+    "G08": {
+     "v": 4,
+     "conf": "voto",
+     "fonte": "https://dadosabertos.camara.leg.br/api/v2/votacoes/2562149-7/votos",
+     "nota": "Votou Sim na urgência do PL 2162/2023 (anistia do 8 de janeiro) em 17/09/2025 e Sim no substitutivo que reduz as penas em 10/12/2025.",
+     "fontes": [
+      "https://dadosabertos.camara.leg.br/api/v2/votacoes/2562149-7/votos",
+      "https://dadosabertos.camara.leg.br/api/v2/votacoes/2358548-89/votos"
+     ]
+    },
+    "G14": {
+     "v": 5,
+     "conf": "voto",
+     "fonte": "https://dadosabertos.camara.leg.br/api/v2/votacoes/2233802-424/votos",
+     "nota": "Votou Sim nos dois turnos da PEC 221/2019 (40h semanais e 2 dias de folga, fim da escala 6x1) em 27/05/2026.",
+     "fontes": [
+      "https://dadosabertos.camara.leg.br/api/v2/votacoes/2233802-424/votos",
+      "https://dadosabertos.camara.leg.br/api/v2/votacoes/2233802-438/votos"
+     ]
+    }
+   },
+   "votos": {
+    "2233802-424": "Sim",
+    "2233802-438": "Sim",
+    "2270800-135": "Sim",
+    "2270800-160": "Sim",
+    "2310837-8": "Não",
+    "2357898-11": "Sim",
+    "2358548-89": "Sim",
+    "2439779-55": "Não",
+    "2562149-7": "Sim",
+    "257161-454": "Sim",
+    "345311-270": "Sim"
+   }
+  },
+  "130002542716": {
+   "nomeUrna": "IGOR TIMO",
+   "cargo": "Deputado Federal",
+   "partido": "UNIÃO",
+   "idCamara": 204508,
+   "nomeCamara": "Igor Timo",
+   "pareamento": "nome civil exato",
+   "posicoes": {
+    "DF03": {
+     "v": 5,
+     "conf": "voto",
+     "fonte": "https://dadosabertos.camara.leg.br/api/v2/votacoes/345311-270/votos",
+     "nota": "Votou Sim no substitutivo do PL 490/2007 (marco temporal de terras indígenas) em 30/05/2023."
+    },
+    "G10": {
+     "v": 2,
+     "conf": "voto",
+     "fonte": "https://dadosabertos.camara.leg.br/api/v2/votacoes/2310837-8/votos",
+     "nota": "Votou Não na urgência do PL 2630/2020 (regulação de plataformas digitais) em 25/04/2023."
+    },
+    "G04": {
+     "v": 4,
+     "conf": "voto",
+     "fonte": "https://dadosabertos.camara.leg.br/api/v2/votacoes/2357898-11/votos",
+     "nota": "Votou Sim na urgência do PDL 3/2023 (sustar o decreto de 2023 que restringiu armas) em 06/12/2023."
+    },
+    "DF02": {
+     "v": 5,
+     "conf": "voto",
+     "fonte": "https://dadosabertos.camara.leg.br/api/v2/votacoes/2270800-160/votos",
+     "nota": "Votou Sim no 2º turno da PEC 3/2021 (licença do Congresso para processar parlamentares) em 16/09/2025; sem voto registrado no 1º turno."
+    },
+    "G08": {
+     "v": 3,
+     "conf": "voto",
+     "fonte": "https://dadosabertos.camara.leg.br/api/v2/votacoes/2562149-7/votos",
+     "nota": "Votou Sim na urgência do PL 2162/2023 (anistia do 8 de janeiro) em 17/09/2025 e Não no substitutivo que reduz as penas em 10/12/2025.",
+     "fontes": [
+      "https://dadosabertos.camara.leg.br/api/v2/votacoes/2562149-7/votos",
+      "https://dadosabertos.camara.leg.br/api/v2/votacoes/2358548-89/votos"
+     ]
+    },
+    "G14": {
+     "v": 5,
+     "conf": "voto",
+     "fonte": "https://dadosabertos.camara.leg.br/api/v2/votacoes/2233802-424/votos",
+     "nota": "Votou Sim nos dois turnos da PEC 221/2019 (40h semanais e 2 dias de folga, fim da escala 6x1) em 27/05/2026.",
+     "fontes": [
+      "https://dadosabertos.camara.leg.br/api/v2/votacoes/2233802-424/votos",
+      "https://dadosabertos.camara.leg.br/api/v2/votacoes/2233802-438/votos"
+     ]
+    }
+   },
+   "votos": {
+    "2233802-424": "Sim",
+    "2233802-438": "Sim",
+    "2270800-160": "Sim",
+    "2310837-8": "Não",
+    "2357898-11": "Sim",
+    "2358548-89": "Não",
+    "2562149-7": "Sim",
+    "345311-270": "Sim"
+   }
+  },
+  "130002542008": {
+   "nomeUrna": "JUNIO AMARAL",
+   "cargo": "Deputado Federal",
+   "partido": "PL",
+   "idCamara": 204520,
+   "nomeCamara": "Junio Amaral",
+   "pareamento": "nome civil exato",
+   "posicoes": {
+    "G10": {
+     "v": 2,
+     "conf": "voto",
+     "fonte": "https://dadosabertos.camara.leg.br/api/v2/votacoes/2310837-8/votos",
+     "nota": "Votou Não na urgência do PL 2630/2020 (regulação de plataformas digitais) em 25/04/2023."
+    },
+    "G04": {
+     "v": 4,
+     "conf": "voto",
+     "fonte": "https://dadosabertos.camara.leg.br/api/v2/votacoes/2357898-11/votos",
+     "nota": "Votou Sim na urgência do PDL 3/2023 (sustar o decreto de 2023 que restringiu armas) em 06/12/2023."
+    },
+    "DF04": {
+     "v": 5,
+     "conf": "voto",
+     "fonte": "https://dadosabertos.camara.leg.br/api/v2/votacoes/257161-454/votos",
+     "nota": "Votou Sim nas emendas do Senado ao PL 2159/2021 (licenciamento ambiental) em 17/07/2025."
+    },
+    "G07": {
+     "v": 2,
+     "conf": "voto",
+     "fonte": "https://dadosabertos.camara.leg.br/api/v2/votacoes/257161-454/votos",
+     "nota": "Votou Sim nas emendas do Senado ao PL 2159/2021 (licenciamento ambiental) em 17/07/2025."
+    },
+    "DF02": {
+     "v": 5,
+     "conf": "voto",
+     "fonte": "https://dadosabertos.camara.leg.br/api/v2/votacoes/2270800-135/votos",
+     "nota": "Votou Sim nos dois turnos da PEC 3/2021 (licença do Congresso para processar parlamentares) em 16/09/2025.",
+     "fontes": [
+      "https://dadosabertos.camara.leg.br/api/v2/votacoes/2270800-135/votos",
+      "https://dadosabertos.camara.leg.br/api/v2/votacoes/2270800-160/votos"
+     ]
+    },
+    "G08": {
+     "v": 4,
+     "conf": "voto",
+     "fonte": "https://dadosabertos.camara.leg.br/api/v2/votacoes/2562149-7/votos",
+     "nota": "Votou Sim na urgência do PL 2162/2023 (anistia do 8 de janeiro) em 17/09/2025 e Sim no substitutivo que reduz as penas em 10/12/2025.",
+     "fontes": [
+      "https://dadosabertos.camara.leg.br/api/v2/votacoes/2562149-7/votos",
+      "https://dadosabertos.camara.leg.br/api/v2/votacoes/2358548-89/votos"
+     ]
+    },
+    "G14": {
+     "v": 5,
+     "conf": "voto",
+     "fonte": "https://dadosabertos.camara.leg.br/api/v2/votacoes/2233802-424/votos",
+     "nota": "Votou Sim nos dois turnos da PEC 221/2019 (40h semanais e 2 dias de folga, fim da escala 6x1) em 27/05/2026.",
+     "fontes": [
+      "https://dadosabertos.camara.leg.br/api/v2/votacoes/2233802-424/votos",
+      "https://dadosabertos.camara.leg.br/api/v2/votacoes/2233802-438/votos"
+     ]
+    }
+   },
+   "votos": {
+    "2233802-424": "Sim",
+    "2233802-438": "Sim",
+    "2270800-135": "Sim",
+    "2270800-160": "Sim",
+    "2310837-8": "Não",
+    "2357898-11": "Sim",
+    "2358548-89": "Sim",
+    "2562149-7": "Sim",
+    "257161-454": "Sim"
+   }
+  },
+  "130002543710": {
+   "nomeUrna": "KATIA DIAS",
+   "cargo": "Deputado Federal",
+   "partido": "PSB",
+   "idCamara": 208297,
+   "nomeCamara": "Katia Dias",
+   "pareamento": "nome civil exato",
+   "posicoes": {},
+   "votos": {}
+  },
+  "130002542003": {
+   "nomeUrna": "LAFAYETTE ANDRADA",
+   "cargo": "Deputado Federal",
+   "partido": "PL",
+   "idCamara": 98057,
+   "nomeCamara": "Lafayette de Andrada",
+   "pareamento": "nome civil exato",
+   "posicoes": {
+    "DF03": {
+     "v": 5,
+     "conf": "voto",
+     "fonte": "https://dadosabertos.camara.leg.br/api/v2/votacoes/345311-270/votos",
+     "nota": "Votou Sim no substitutivo do PL 490/2007 (marco temporal de terras indígenas) em 30/05/2023."
+    },
+    "G10": {
+     "v": 4,
+     "conf": "voto",
+     "fonte": "https://dadosabertos.camara.leg.br/api/v2/votacoes/2310837-8/votos",
+     "nota": "Votou Sim na urgência do PL 2630/2020 (regulação de plataformas digitais) em 25/04/2023."
+    },
+    "G04": {
+     "v": 4,
+     "conf": "voto",
+     "fonte": "https://dadosabertos.camara.leg.br/api/v2/votacoes/2357898-11/votos",
+     "nota": "Votou Sim na urgência do PDL 3/2023 (sustar o decreto de 2023 que restringiu armas) em 06/12/2023."
+    },
+    "DF02": {
+     "v": 5,
+     "conf": "voto",
+     "fonte": "https://dadosabertos.camara.leg.br/api/v2/votacoes/2270800-135/votos",
+     "nota": "Votou Sim nos dois turnos da PEC 3/2021 (licença do Congresso para processar parlamentares) em 16/09/2025.",
+     "fontes": [
+      "https://dadosabertos.camara.leg.br/api/v2/votacoes/2270800-135/votos",
+      "https://dadosabertos.camara.leg.br/api/v2/votacoes/2270800-160/votos"
+     ]
+    },
+    "G08": {
+     "v": 4,
+     "conf": "voto",
+     "fonte": "https://dadosabertos.camara.leg.br/api/v2/votacoes/2562149-7/votos",
+     "nota": "Votou Sim na urgência do PL 2162/2023 (anistia do 8 de janeiro) em 17/09/2025 e Sim no substitutivo que reduz as penas em 10/12/2025.",
+     "fontes": [
+      "https://dadosabertos.camara.leg.br/api/v2/votacoes/2562149-7/votos",
+      "https://dadosabertos.camara.leg.br/api/v2/votacoes/2358548-89/votos"
+     ]
+    },
+    "G14": {
+     "v": 5,
+     "conf": "voto",
+     "fonte": "https://dadosabertos.camara.leg.br/api/v2/votacoes/2233802-424/votos",
+     "nota": "Votou Sim nos dois turnos da PEC 221/2019 (40h semanais e 2 dias de folga, fim da escala 6x1) em 27/05/2026.",
+     "fontes": [
+      "https://dadosabertos.camara.leg.br/api/v2/votacoes/2233802-424/votos",
+      "https://dadosabertos.camara.leg.br/api/v2/votacoes/2233802-438/votos"
+     ]
+    }
+   },
+   "votos": {
+    "2233802-424": "Sim",
+    "2233802-438": "Sim",
+    "2270800-135": "Sim",
+    "2270800-160": "Sim",
+    "2310837-8": "Sim",
+    "2357898-11": "Sim",
+    "2358548-89": "Sim",
+    "2562149-7": "Sim",
+    "345311-270": "Sim"
+   }
+  },
+  "130002535313": {
+   "nomeUrna": "LEONARDO MONTEIRO",
+   "cargo": "Deputado Federal",
+   "partido": "PT",
+   "idCamara": 74156,
+   "nomeCamara": "Leonardo Monteiro",
+   "pareamento": "nome civil exato",
+   "posicoes": {
+    "DF03": {
+     "v": 1,
+     "conf": "voto",
+     "fonte": "https://dadosabertos.camara.leg.br/api/v2/votacoes/345311-270/votos",
+     "nota": "Votou Não no substitutivo do PL 490/2007 (marco temporal de terras indígenas) em 30/05/2023."
+    },
+    "G10": {
+     "v": 4,
+     "conf": "voto",
+     "fonte": "https://dadosabertos.camara.leg.br/api/v2/votacoes/2310837-8/votos",
+     "nota": "Votou Sim na urgência do PL 2630/2020 (regulação de plataformas digitais) em 25/04/2023."
+    },
+    "G04": {
+     "v": 2,
+     "conf": "voto",
+     "fonte": "https://dadosabertos.camara.leg.br/api/v2/votacoes/2357898-11/votos",
+     "nota": "Votou Não na urgência do PDL 3/2023 (sustar o decreto de 2023 que restringiu armas) em 06/12/2023."
+    },
+    "G11": {
+     "v": 4,
+     "conf": "voto",
+     "fonte": "https://dadosabertos.camara.leg.br/api/v2/votacoes/2439779-55/votos",
+     "nota": "Votou Sim no PL 1958/2021 (cotas raciais em concursos públicos) em 19/11/2024."
+    },
+    "DF02": {
+     "v": 3,
+     "conf": "voto",
+     "fonte": "https://dadosabertos.camara.leg.br/api/v2/votacoes/2270800-135/votos",
+     "nota": "Votou Sim no 1º turno e Não no 2º turno da PEC 3/2021 (licença do Congresso para processar parlamentares) em 16/09/2025.",
+     "fontes": [
+      "https://dadosabertos.camara.leg.br/api/v2/votacoes/2270800-135/votos",
+      "https://dadosabertos.camara.leg.br/api/v2/votacoes/2270800-160/votos"
+     ]
+    },
+    "G08": {
+     "v": 2,
+     "conf": "voto",
+     "fonte": "https://dadosabertos.camara.leg.br/api/v2/votacoes/2562149-7/votos",
+     "nota": "Votou Não na urgência do PL 2162/2023 (anistia do 8 de janeiro) em 17/09/2025 e Não no substitutivo que reduz as penas em 10/12/2025.",
+     "fontes": [
+      "https://dadosabertos.camara.leg.br/api/v2/votacoes/2562149-7/votos",
+      "https://dadosabertos.camara.leg.br/api/v2/votacoes/2358548-89/votos"
+     ]
+    },
+    "G14": {
+     "v": 5,
+     "conf": "voto",
+     "fonte": "https://dadosabertos.camara.leg.br/api/v2/votacoes/2233802-424/votos",
+     "nota": "Votou Sim nos dois turnos da PEC 221/2019 (40h semanais e 2 dias de folga, fim da escala 6x1) em 27/05/2026.",
+     "fontes": [
+      "https://dadosabertos.camara.leg.br/api/v2/votacoes/2233802-424/votos",
+      "https://dadosabertos.camara.leg.br/api/v2/votacoes/2233802-438/votos"
+     ]
+    }
+   },
+   "votos": {
+    "2233802-424": "Sim",
+    "2233802-438": "Sim",
+    "2270800-135": "Sim",
+    "2270800-160": "Não",
+    "2310837-8": "Sim",
+    "2357898-11": "Não",
+    "2358548-89": "Não",
+    "2439779-55": "Sim",
+    "2562149-7": "Não",
+    "345311-270": "Não"
+   }
+  },
+  "130002542015": {
+   "nomeUrna": "LINCOLN PORTELA",
+   "cargo": "Deputado Federal",
+   "partido": "PL",
+   "idCamara": 74585,
+   "nomeCamara": "Lincoln Portela",
+   "pareamento": "nome civil exato",
+   "posicoes": {
+    "DF03": {
+     "v": 5,
+     "conf": "voto",
+     "fonte": "https://dadosabertos.camara.leg.br/api/v2/votacoes/345311-270/votos",
+     "nota": "Votou Sim no substitutivo do PL 490/2007 (marco temporal de terras indígenas) em 30/05/2023."
+    },
+    "G10": {
+     "v": 2,
+     "conf": "voto",
+     "fonte": "https://dadosabertos.camara.leg.br/api/v2/votacoes/2310837-8/votos",
+     "nota": "Votou Não na urgência do PL 2630/2020 (regulação de plataformas digitais) em 25/04/2023."
+    },
+    "G04": {
+     "v": 4,
+     "conf": "voto",
+     "fonte": "https://dadosabertos.camara.leg.br/api/v2/votacoes/2357898-11/votos",
+     "nota": "Votou Sim na urgência do PDL 3/2023 (sustar o decreto de 2023 que restringiu armas) em 06/12/2023."
+    },
+    "G11": {
+     "v": 2,
+     "conf": "voto",
+     "fonte": "https://dadosabertos.camara.leg.br/api/v2/votacoes/2439779-55/votos",
+     "nota": "Votou Não no PL 1958/2021 (cotas raciais em concursos públicos) em 19/11/2024."
+    },
+    "DF04": {
+     "v": 5,
+     "conf": "voto",
+     "fonte": "https://dadosabertos.camara.leg.br/api/v2/votacoes/257161-454/votos",
+     "nota": "Votou Sim nas emendas do Senado ao PL 2159/2021 (licenciamento ambiental) em 17/07/2025."
+    },
+    "G07": {
+     "v": 2,
+     "conf": "voto",
+     "fonte": "https://dadosabertos.camara.leg.br/api/v2/votacoes/257161-454/votos",
+     "nota": "Votou Sim nas emendas do Senado ao PL 2159/2021 (licenciamento ambiental) em 17/07/2025."
+    },
+    "DF02": {
+     "v": 5,
+     "conf": "voto",
+     "fonte": "https://dadosabertos.camara.leg.br/api/v2/votacoes/2270800-135/votos",
+     "nota": "Votou Sim nos dois turnos da PEC 3/2021 (licença do Congresso para processar parlamentares) em 16/09/2025.",
+     "fontes": [
+      "https://dadosabertos.camara.leg.br/api/v2/votacoes/2270800-135/votos",
+      "https://dadosabertos.camara.leg.br/api/v2/votacoes/2270800-160/votos"
+     ]
+    },
+    "G08": {
+     "v": 4,
+     "conf": "voto",
+     "fonte": "https://dadosabertos.camara.leg.br/api/v2/votacoes/2562149-7/votos",
+     "nota": "Votou Sim na urgência do PL 2162/2023 (anistia do 8 de janeiro) em 17/09/2025 e Sim no substitutivo que reduz as penas em 10/12/2025.",
+     "fontes": [
+      "https://dadosabertos.camara.leg.br/api/v2/votacoes/2562149-7/votos",
+      "https://dadosabertos.camara.leg.br/api/v2/votacoes/2358548-89/votos"
+     ]
+    },
+    "G14": {
+     "v": 5,
+     "conf": "voto",
+     "fonte": "https://dadosabertos.camara.leg.br/api/v2/votacoes/2233802-424/votos",
+     "nota": "Votou Sim nos dois turnos da PEC 221/2019 (40h semanais e 2 dias de folga, fim da escala 6x1) em 27/05/2026.",
+     "fontes": [
+      "https://dadosabertos.camara.leg.br/api/v2/votacoes/2233802-424/votos",
+      "https://dadosabertos.camara.leg.br/api/v2/votacoes/2233802-438/votos"
+     ]
+    }
+   },
+   "votos": {
+    "2233802-424": "Sim",
+    "2233802-438": "Sim",
+    "2270800-135": "Sim",
+    "2270800-160": "Sim",
+    "2310837-8": "Não",
+    "2357898-11": "Sim",
+    "2358548-89": "Sim",
+    "2439779-55": "Não",
+    "2562149-7": "Sim",
+    "257161-454": "Sim",
+    "345311-270": "Sim"
+   }
+  },
+  "130002543112": {
+   "nomeUrna": "LUIS TIBÉ",
+   "cargo": "Deputado Federal",
+   "partido": "AVANTE",
+   "idCamara": 160510,
+   "nomeCamara": "Luis Tibé",
+   "pareamento": "nome civil exato",
+   "posicoes": {
+    "DF03": {
+     "v": 1,
+     "conf": "voto",
+     "fonte": "https://dadosabertos.camara.leg.br/api/v2/votacoes/345311-270/votos",
+     "nota": "Votou Não no substitutivo do PL 490/2007 (marco temporal de terras indígenas) em 30/05/2023."
+    },
+    "G04": {
+     "v": 2,
+     "conf": "voto",
+     "fonte": "https://dadosabertos.camara.leg.br/api/v2/votacoes/2357898-11/votos",
+     "nota": "Votou Não na urgência do PDL 3/2023 (sustar o decreto de 2023 que restringiu armas) em 06/12/2023."
+    },
+    "DF02": {
+     "v": 5,
+     "conf": "voto",
+     "fonte": "https://dadosabertos.camara.leg.br/api/v2/votacoes/2270800-135/votos",
+     "nota": "Votou Sim nos dois turnos da PEC 3/2021 (licença do Congresso para processar parlamentares) em 16/09/2025.",
+     "fontes": [
+      "https://dadosabertos.camara.leg.br/api/v2/votacoes/2270800-135/votos",
+      "https://dadosabertos.camara.leg.br/api/v2/votacoes/2270800-160/votos"
+     ]
+    },
+    "G08": {
+     "v": 4,
+     "conf": "voto",
+     "fonte": "https://dadosabertos.camara.leg.br/api/v2/votacoes/2562149-7/votos",
+     "nota": "Votou Sim na urgência do PL 2162/2023 (anistia do 8 de janeiro) em 17/09/2025 e Sim no substitutivo que reduz as penas em 10/12/2025.",
+     "fontes": [
+      "https://dadosabertos.camara.leg.br/api/v2/votacoes/2562149-7/votos",
+      "https://dadosabertos.camara.leg.br/api/v2/votacoes/2358548-89/votos"
+     ]
+    }
+   },
+   "votos": {
+    "2270800-135": "Sim",
+    "2270800-160": "Sim",
+    "2357898-11": "Não",
+    "2358548-89": "Sim",
+    "2562149-7": "Sim",
+    "345311-270": "Não"
+   }
+  },
+  "130002542742": {
+   "nomeUrna": "LUIZ FERNANDO",
+   "cargo": "Deputado Federal",
+   "partido": "UNIÃO",
+   "idCamara": 141487,
+   "nomeCamara": "Luiz Fernando Faria",
+   "pareamento": "nome civil exato",
+   "posicoes": {
+    "DF03": {
+     "v": 5,
+     "conf": "voto",
+     "fonte": "https://dadosabertos.camara.leg.br/api/v2/votacoes/345311-270/votos",
+     "nota": "Votou Sim no substitutivo do PL 490/2007 (marco temporal de terras indígenas) em 30/05/2023."
+    },
+    "G10": {
+     "v": 4,
+     "conf": "voto",
+     "fonte": "https://dadosabertos.camara.leg.br/api/v2/votacoes/2310837-8/votos",
+     "nota": "Votou Sim na urgência do PL 2630/2020 (regulação de plataformas digitais) em 25/04/2023."
+    },
+    "G04": {
+     "v": 4,
+     "conf": "voto",
+     "fonte": "https://dadosabertos.camara.leg.br/api/v2/votacoes/2357898-11/votos",
+     "nota": "Votou Sim na urgência do PDL 3/2023 (sustar o decreto de 2023 que restringiu armas) em 06/12/2023."
+    },
+    "G11": {
+     "v": 4,
+     "conf": "voto",
+     "fonte": "https://dadosabertos.camara.leg.br/api/v2/votacoes/2439779-55/votos",
+     "nota": "Votou Sim no PL 1958/2021 (cotas raciais em concursos públicos) em 19/11/2024."
+    },
+    "DF02": {
+     "v": 5,
+     "conf": "voto",
+     "fonte": "https://dadosabertos.camara.leg.br/api/v2/votacoes/2270800-135/votos",
+     "nota": "Votou Sim nos dois turnos da PEC 3/2021 (licença do Congresso para processar parlamentares) em 16/09/2025.",
+     "fontes": [
+      "https://dadosabertos.camara.leg.br/api/v2/votacoes/2270800-135/votos",
+      "https://dadosabertos.camara.leg.br/api/v2/votacoes/2270800-160/votos"
+     ]
+    },
+    "G08": {
+     "v": 2,
+     "conf": "voto",
+     "fonte": "https://dadosabertos.camara.leg.br/api/v2/votacoes/2562149-7/votos",
+     "nota": "Votou Não na urgência do PL 2162/2023 (anistia do 8 de janeiro) em 17/09/2025."
+    },
+    "G14": {
+     "v": 5,
+     "conf": "voto",
+     "fonte": "https://dadosabertos.camara.leg.br/api/v2/votacoes/2233802-424/votos",
+     "nota": "Votou Sim nos dois turnos da PEC 221/2019 (40h semanais e 2 dias de folga, fim da escala 6x1) em 27/05/2026.",
+     "fontes": [
+      "https://dadosabertos.camara.leg.br/api/v2/votacoes/2233802-424/votos",
+      "https://dadosabertos.camara.leg.br/api/v2/votacoes/2233802-438/votos"
+     ]
+    }
+   },
+   "votos": {
+    "2233802-424": "Sim",
+    "2233802-438": "Sim",
+    "2270800-135": "Sim",
+    "2270800-160": "Sim",
+    "2310837-8": "Sim",
+    "2357898-11": "Sim",
+    "2439779-55": "Sim",
+    "2562149-7": "Não",
+    "345311-270": "Sim"
+   }
+  },
+  "130002542016": {
+   "nomeUrna": "MARCELO ÁLVARO ANTÔNIO",
+   "cargo": "Deputado Federal",
+   "partido": "PL",
+   "idCamara": 179000,
+   "nomeCamara": "Marcelo Álvaro Antônio",
+   "pareamento": "nome civil exato",
+   "posicoes": {
+    "DF03": {
+     "v": 5,
+     "conf": "voto",
+     "fonte": "https://dadosabertos.camara.leg.br/api/v2/votacoes/345311-270/votos",
+     "nota": "Votou Sim no substitutivo do PL 490/2007 (marco temporal de terras indígenas) em 30/05/2023."
+    },
+    "G10": {
+     "v": 2,
+     "conf": "voto",
+     "fonte": "https://dadosabertos.camara.leg.br/api/v2/votacoes/2310837-8/votos",
+     "nota": "Votou Não na urgência do PL 2630/2020 (regulação de plataformas digitais) em 25/04/2023."
+    },
+    "G04": {
+     "v": 4,
+     "conf": "voto",
+     "fonte": "https://dadosabertos.camara.leg.br/api/v2/votacoes/2357898-11/votos",
+     "nota": "Votou Sim na urgência do PDL 3/2023 (sustar o decreto de 2023 que restringiu armas) em 06/12/2023."
+    },
+    "G11": {
+     "v": 2,
+     "conf": "voto",
+     "fonte": "https://dadosabertos.camara.leg.br/api/v2/votacoes/2439779-55/votos",
+     "nota": "Votou Não no PL 1958/2021 (cotas raciais em concursos públicos) em 19/11/2024."
+    },
+    "DF04": {
+     "v": 5,
+     "conf": "voto",
+     "fonte": "https://dadosabertos.camara.leg.br/api/v2/votacoes/257161-454/votos",
+     "nota": "Votou Sim nas emendas do Senado ao PL 2159/2021 (licenciamento ambiental) em 17/07/2025."
+    },
+    "G07": {
+     "v": 2,
+     "conf": "voto",
+     "fonte": "https://dadosabertos.camara.leg.br/api/v2/votacoes/257161-454/votos",
+     "nota": "Votou Sim nas emendas do Senado ao PL 2159/2021 (licenciamento ambiental) em 17/07/2025."
+    },
+    "DF02": {
+     "v": 5,
+     "conf": "voto",
+     "fonte": "https://dadosabertos.camara.leg.br/api/v2/votacoes/2270800-135/votos",
+     "nota": "Votou Sim nos dois turnos da PEC 3/2021 (licença do Congresso para processar parlamentares) em 16/09/2025.",
+     "fontes": [
+      "https://dadosabertos.camara.leg.br/api/v2/votacoes/2270800-135/votos",
+      "https://dadosabertos.camara.leg.br/api/v2/votacoes/2270800-160/votos"
+     ]
+    },
+    "G08": {
+     "v": 4,
+     "conf": "voto",
+     "fonte": "https://dadosabertos.camara.leg.br/api/v2/votacoes/2562149-7/votos",
+     "nota": "Votou Sim na urgência do PL 2162/2023 (anistia do 8 de janeiro) em 17/09/2025 e Sim no substitutivo que reduz as penas em 10/12/2025.",
+     "fontes": [
+      "https://dadosabertos.camara.leg.br/api/v2/votacoes/2562149-7/votos",
+      "https://dadosabertos.camara.leg.br/api/v2/votacoes/2358548-89/votos"
+     ]
+    },
+    "G14": {
+     "v": 5,
+     "conf": "voto",
+     "fonte": "https://dadosabertos.camara.leg.br/api/v2/votacoes/2233802-424/votos",
+     "nota": "Votou Sim nos dois turnos da PEC 221/2019 (40h semanais e 2 dias de folga, fim da escala 6x1) em 27/05/2026.",
+     "fontes": [
+      "https://dadosabertos.camara.leg.br/api/v2/votacoes/2233802-424/votos",
+      "https://dadosabertos.camara.leg.br/api/v2/votacoes/2233802-438/votos"
+     ]
+    }
+   },
+   "votos": {
+    "2233802-424": "Sim",
+    "2233802-438": "Sim",
+    "2270800-135": "Sim",
+    "2270800-160": "Sim",
+    "2310837-8": "Não",
+    "2357898-11": "Sim",
+    "2358548-89": "Sim",
+    "2439779-55": "Não",
+    "2562149-7": "Sim",
+    "257161-454": "Sim",
+    "345311-270": "Sim"
+   }
+  },
+  "130002541996": {
+   "nomeUrna": "MAURÍCIO DO VÔLEI",
+   "cargo": "Deputado Federal",
+   "partido": "PL",
+   "idCamara": 220628,
+   "nomeCamara": "Mauricio do Vôlei",
+   "pareamento": "nome civil exato",
+   "posicoes": {
+    "DF03": {
+     "v": 5,
+     "conf": "voto",
+     "fonte": "https://dadosabertos.camara.leg.br/api/v2/votacoes/345311-270/votos",
+     "nota": "Votou Sim no substitutivo do PL 490/2007 (marco temporal de terras indígenas) em 30/05/2023."
+    },
+    "G10": {
+     "v": 2,
+     "conf": "voto",
+     "fonte": "https://dadosabertos.camara.leg.br/api/v2/votacoes/2310837-8/votos",
+     "nota": "Votou Não na urgência do PL 2630/2020 (regulação de plataformas digitais) em 25/04/2023."
+    },
+    "G04": {
+     "v": 4,
+     "conf": "voto",
+     "fonte": "https://dadosabertos.camara.leg.br/api/v2/votacoes/2357898-11/votos",
+     "nota": "Votou Sim na urgência do PDL 3/2023 (sustar o decreto de 2023 que restringiu armas) em 06/12/2023."
+    },
+    "G11": {
+     "v": 2,
+     "conf": "voto",
+     "fonte": "https://dadosabertos.camara.leg.br/api/v2/votacoes/2439779-55/votos",
+     "nota": "Votou Não no PL 1958/2021 (cotas raciais em concursos públicos) em 19/11/2024."
+    },
+    "DF04": {
+     "v": 5,
+     "conf": "voto",
+     "fonte": "https://dadosabertos.camara.leg.br/api/v2/votacoes/257161-454/votos",
+     "nota": "Votou Sim nas emendas do Senado ao PL 2159/2021 (licenciamento ambiental) em 17/07/2025."
+    },
+    "G07": {
+     "v": 2,
+     "conf": "voto",
+     "fonte": "https://dadosabertos.camara.leg.br/api/v2/votacoes/257161-454/votos",
+     "nota": "Votou Sim nas emendas do Senado ao PL 2159/2021 (licenciamento ambiental) em 17/07/2025."
+    },
+    "DF02": {
+     "v": 5,
+     "conf": "voto",
+     "fonte": "https://dadosabertos.camara.leg.br/api/v2/votacoes/2270800-135/votos",
+     "nota": "Votou Sim nos dois turnos da PEC 3/2021 (licença do Congresso para processar parlamentares) em 16/09/2025.",
+     "fontes": [
+      "https://dadosabertos.camara.leg.br/api/v2/votacoes/2270800-135/votos",
+      "https://dadosabertos.camara.leg.br/api/v2/votacoes/2270800-160/votos"
+     ]
+    },
+    "G08": {
+     "v": 4,
+     "conf": "voto",
+     "fonte": "https://dadosabertos.camara.leg.br/api/v2/votacoes/2562149-7/votos",
+     "nota": "Votou Sim na urgência do PL 2162/2023 (anistia do 8 de janeiro) em 17/09/2025 e Sim no substitutivo que reduz as penas em 10/12/2025.",
+     "fontes": [
+      "https://dadosabertos.camara.leg.br/api/v2/votacoes/2562149-7/votos",
+      "https://dadosabertos.camara.leg.br/api/v2/votacoes/2358548-89/votos"
+     ]
+    },
+    "G14": {
+     "v": 5,
+     "conf": "voto",
+     "fonte": "https://dadosabertos.camara.leg.br/api/v2/votacoes/2233802-424/votos",
+     "nota": "Votou Sim nos dois turnos da PEC 221/2019 (40h semanais e 2 dias de folga, fim da escala 6x1) em 27/05/2026.",
+     "fontes": [
+      "https://dadosabertos.camara.leg.br/api/v2/votacoes/2233802-424/votos",
+      "https://dadosabertos.camara.leg.br/api/v2/votacoes/2233802-438/votos"
+     ]
+    }
+   },
+   "votos": {
+    "2233802-424": "Sim",
+    "2233802-438": "Sim",
+    "2270800-135": "Sim",
+    "2270800-160": "Sim",
+    "2310837-8": "Não",
+    "2357898-11": "Sim",
+    "2358548-89": "Sim",
+    "2439779-55": "Não",
+    "2562149-7": "Sim",
+    "257161-454": "Sim",
+    "345311-270": "Sim"
+   }
+  },
+  "130002535286": {
+   "nomeUrna": "MIGUEL ÂNGELO",
+   "cargo": "Deputado Federal",
+   "partido": "PT",
+   "idCamara": 171786,
+   "nomeCamara": "Miguel Ângelo",
+   "pareamento": "nome civil exato",
+   "posicoes": {
+    "DF03": {
+     "v": 1,
+     "conf": "voto",
+     "fonte": "https://dadosabertos.camara.leg.br/api/v2/votacoes/345311-270/votos",
+     "nota": "Votou Não no substitutivo do PL 490/2007 (marco temporal de terras indígenas) em 30/05/2023."
+    },
+    "G10": {
+     "v": 4,
+     "conf": "voto",
+     "fonte": "https://dadosabertos.camara.leg.br/api/v2/votacoes/2310837-8/votos",
+     "nota": "Votou Sim na urgência do PL 2630/2020 (regulação de plataformas digitais) em 25/04/2023."
+    },
+    "G04": {
+     "v": 2,
+     "conf": "voto",
+     "fonte": "https://dadosabertos.camara.leg.br/api/v2/votacoes/2357898-11/votos",
+     "nota": "Votou Não na urgência do PDL 3/2023 (sustar o decreto de 2023 que restringiu armas) em 06/12/2023."
+    },
+    "G11": {
+     "v": 4,
+     "conf": "voto",
+     "fonte": "https://dadosabertos.camara.leg.br/api/v2/votacoes/2439779-55/votos",
+     "nota": "Votou Sim no PL 1958/2021 (cotas raciais em concursos públicos) em 19/11/2024."
+    },
+    "DF02": {
+     "v": 1,
+     "conf": "voto",
+     "fonte": "https://dadosabertos.camara.leg.br/api/v2/votacoes/2270800-160/votos",
+     "nota": "Votou Não no 2º turno da PEC 3/2021 (licença do Congresso para processar parlamentares) em 16/09/2025; sem voto registrado no 1º turno."
+    },
+    "G08": {
+     "v": 2,
+     "conf": "voto",
+     "fonte": "https://dadosabertos.camara.leg.br/api/v2/votacoes/2562149-7/votos",
+     "nota": "Votou Não na urgência do PL 2162/2023 (anistia do 8 de janeiro) em 17/09/2025 e Não no substitutivo que reduz as penas em 10/12/2025.",
+     "fontes": [
+      "https://dadosabertos.camara.leg.br/api/v2/votacoes/2562149-7/votos",
+      "https://dadosabertos.camara.leg.br/api/v2/votacoes/2358548-89/votos"
+     ]
+    },
+    "G14": {
+     "v": 5,
+     "conf": "voto",
+     "fonte": "https://dadosabertos.camara.leg.br/api/v2/votacoes/2233802-424/votos",
+     "nota": "Votou Sim nos dois turnos da PEC 221/2019 (40h semanais e 2 dias de folga, fim da escala 6x1) em 27/05/2026.",
+     "fontes": [
+      "https://dadosabertos.camara.leg.br/api/v2/votacoes/2233802-424/votos",
+      "https://dadosabertos.camara.leg.br/api/v2/votacoes/2233802-438/votos"
+     ]
+    }
+   },
+   "votos": {
+    "2233802-424": "Sim",
+    "2233802-438": "Sim",
+    "2270800-160": "Não",
+    "2310837-8": "Sim",
+    "2357898-11": "Não",
+    "2358548-89": "Não",
+    "2439779-55": "Sim",
+    "2562149-7": "Não",
+    "345311-270": "Não"
+   }
+  },
+  "130002538287": {
+   "nomeUrna": "MÁRIO HERINGER",
+   "cargo": "Deputado Federal",
+   "partido": "PDT",
+   "idCamara": 74158,
+   "nomeCamara": "Mário Heringer",
+   "pareamento": "nome civil exato",
+   "posicoes": {
+    "DF03": {
+     "v": 1,
+     "conf": "voto",
+     "fonte": "https://dadosabertos.camara.leg.br/api/v2/votacoes/345311-270/votos",
+     "nota": "Votou Não no substitutivo do PL 490/2007 (marco temporal de terras indígenas) em 30/05/2023."
+    },
+    "G10": {
+     "v": 4,
+     "conf": "voto",
+     "fonte": "https://dadosabertos.camara.leg.br/api/v2/votacoes/2310837-8/votos",
+     "nota": "Votou Sim na urgência do PL 2630/2020 (regulação de plataformas digitais) em 25/04/2023."
+    },
+    "G04": {
+     "v": 2,
+     "conf": "voto",
+     "fonte": "https://dadosabertos.camara.leg.br/api/v2/votacoes/2357898-11/votos",
+     "nota": "Votou Não na urgência do PDL 3/2023 (sustar o decreto de 2023 que restringiu armas) em 06/12/2023."
+    },
+    "DF02": {
+     "v": 5,
+     "conf": "voto",
+     "fonte": "https://dadosabertos.camara.leg.br/api/v2/votacoes/2270800-135/votos",
+     "nota": "Votou Sim nos dois turnos da PEC 3/2021 (licença do Congresso para processar parlamentares) em 16/09/2025.",
+     "fontes": [
+      "https://dadosabertos.camara.leg.br/api/v2/votacoes/2270800-135/votos",
+      "https://dadosabertos.camara.leg.br/api/v2/votacoes/2270800-160/votos"
+     ]
+    },
+    "G08": {
+     "v": 2,
+     "conf": "voto",
+     "fonte": "https://dadosabertos.camara.leg.br/api/v2/votacoes/2562149-7/votos",
+     "nota": "Votou Não na urgência do PL 2162/2023 (anistia do 8 de janeiro) em 17/09/2025 e Não no substitutivo que reduz as penas em 10/12/2025.",
+     "fontes": [
+      "https://dadosabertos.camara.leg.br/api/v2/votacoes/2562149-7/votos",
+      "https://dadosabertos.camara.leg.br/api/v2/votacoes/2358548-89/votos"
+     ]
+    },
+    "G14": {
+     "v": 5,
+     "conf": "voto",
+     "fonte": "https://dadosabertos.camara.leg.br/api/v2/votacoes/2233802-424/votos",
+     "nota": "Votou Sim nos dois turnos da PEC 221/2019 (40h semanais e 2 dias de folga, fim da escala 6x1) em 27/05/2026.",
+     "fontes": [
+      "https://dadosabertos.camara.leg.br/api/v2/votacoes/2233802-424/votos",
+      "https://dadosabertos.camara.leg.br/api/v2/votacoes/2233802-438/votos"
+     ]
+    }
+   },
+   "votos": {
+    "2233802-424": "Sim",
+    "2233802-438": "Sim",
+    "2270800-135": "Sim",
+    "2270800-160": "Sim",
+    "2310837-8": "Sim",
+    "2357898-11": "Não",
+    "2358548-89": "Não",
+    "2562149-7": "Não",
+    "345311-270": "Não"
+   }
+  },
+  "130002548795": {
+   "nomeUrna": "NELY AQUINO",
+   "cargo": "Deputado Federal",
+   "partido": "PODE",
+   "idCamara": 220622,
+   "nomeCamara": "Nely Aquino",
+   "pareamento": "nome civil exato",
+   "posicoes": {
+    "DF03": {
+     "v": 5,
+     "conf": "voto",
+     "fonte": "https://dadosabertos.camara.leg.br/api/v2/votacoes/345311-270/votos",
+     "nota": "Votou Sim no substitutivo do PL 490/2007 (marco temporal de terras indígenas) em 30/05/2023."
+    },
+    "G10": {
+     "v": 2,
+     "conf": "voto",
+     "fonte": "https://dadosabertos.camara.leg.br/api/v2/votacoes/2310837-8/votos",
+     "nota": "Votou Não na urgência do PL 2630/2020 (regulação de plataformas digitais) em 25/04/2023."
+    },
+    "G11": {
+     "v": 4,
+     "conf": "voto",
+     "fonte": "https://dadosabertos.camara.leg.br/api/v2/votacoes/2439779-55/votos",
+     "nota": "Votou Sim no PL 1958/2021 (cotas raciais em concursos públicos) em 19/11/2024."
+    },
+    "DF04": {
+     "v": 5,
+     "conf": "voto",
+     "fonte": "https://dadosabertos.camara.leg.br/api/v2/votacoes/257161-454/votos",
+     "nota": "Votou Sim nas emendas do Senado ao PL 2159/2021 (licenciamento ambiental) em 17/07/2025."
+    },
+    "G07": {
+     "v": 2,
+     "conf": "voto",
+     "fonte": "https://dadosabertos.camara.leg.br/api/v2/votacoes/257161-454/votos",
+     "nota": "Votou Sim nas emendas do Senado ao PL 2159/2021 (licenciamento ambiental) em 17/07/2025."
+    },
+    "DF02": {
+     "v": 5,
+     "conf": "voto",
+     "fonte": "https://dadosabertos.camara.leg.br/api/v2/votacoes/2270800-135/votos",
+     "nota": "Votou Sim nos dois turnos da PEC 3/2021 (licença do Congresso para processar parlamentares) em 16/09/2025.",
+     "fontes": [
+      "https://dadosabertos.camara.leg.br/api/v2/votacoes/2270800-135/votos",
+      "https://dadosabertos.camara.leg.br/api/v2/votacoes/2270800-160/votos"
+     ]
+    },
+    "G08": {
+     "v": 4,
+     "conf": "voto",
+     "fonte": "https://dadosabertos.camara.leg.br/api/v2/votacoes/2562149-7/votos",
+     "nota": "Votou Sim na urgência do PL 2162/2023 (anistia do 8 de janeiro) em 17/09/2025."
+    },
+    "G14": {
+     "v": 5,
+     "conf": "voto",
+     "fonte": "https://dadosabertos.camara.leg.br/api/v2/votacoes/2233802-424/votos",
+     "nota": "Votou Sim nos dois turnos da PEC 221/2019 (40h semanais e 2 dias de folga, fim da escala 6x1) em 27/05/2026.",
+     "fontes": [
+      "https://dadosabertos.camara.leg.br/api/v2/votacoes/2233802-424/votos",
+      "https://dadosabertos.camara.leg.br/api/v2/votacoes/2233802-438/votos"
+     ]
+    }
+   },
+   "votos": {
+    "2233802-424": "Sim",
+    "2233802-438": "Sim",
+    "2270800-135": "Sim",
+    "2270800-160": "Sim",
+    "2310837-8": "Não",
+    "2357898-11": "Abstenção",
+    "2439779-55": "Sim",
+    "2562149-7": "Sim",
+    "257161-454": "Sim",
+    "345311-270": "Sim"
+   }
+  },
+  "130002547896": {
+   "nomeUrna": "NEWTON CARDOSO JR",
+   "cargo": "Deputado Federal",
+   "partido": "MDB",
+   "idCamara": 178896,
+   "nomeCamara": "Newton Cardoso Jr",
+   "pareamento": "nome civil exato",
+   "posicoes": {
+    "DF03": {
+     "v": 5,
+     "conf": "voto",
+     "fonte": "https://dadosabertos.camara.leg.br/api/v2/votacoes/345311-270/votos",
+     "nota": "Votou Sim no substitutivo do PL 490/2007 (marco temporal de terras indígenas) em 30/05/2023."
+    },
+    "DF02": {
+     "v": 5,
+     "conf": "voto",
+     "fonte": "https://dadosabertos.camara.leg.br/api/v2/votacoes/2270800-135/votos",
+     "nota": "Votou Sim nos dois turnos da PEC 3/2021 (licença do Congresso para processar parlamentares) em 16/09/2025.",
+     "fontes": [
+      "https://dadosabertos.camara.leg.br/api/v2/votacoes/2270800-135/votos",
+      "https://dadosabertos.camara.leg.br/api/v2/votacoes/2270800-160/votos"
+     ]
+    },
+    "G08": {
+     "v": 4,
+     "conf": "voto",
+     "fonte": "https://dadosabertos.camara.leg.br/api/v2/votacoes/2562149-7/votos",
+     "nota": "Votou Sim na urgência do PL 2162/2023 (anistia do 8 de janeiro) em 17/09/2025."
+    }
+   },
+   "votos": {
+    "2270800-135": "Sim",
+    "2270800-160": "Sim",
+    "2562149-7": "Sim",
+    "345311-270": "Sim"
+   }
+  },
+  "130002542026": {
+   "nomeUrna": "NIKOLAS FERREIRA",
+   "cargo": "Deputado Federal",
+   "partido": "PL",
+   "idCamara": 209787,
+   "nomeCamara": "Nikolas Ferreira",
+   "pareamento": "nome civil exato",
+   "posicoes": {
+    "G10": {
+     "v": 2,
+     "conf": "voto",
+     "fonte": "https://dadosabertos.camara.leg.br/api/v2/votacoes/2310837-8/votos",
+     "nota": "Votou Não na urgência do PL 2630/2020 (regulação de plataformas digitais) em 25/04/2023."
+    },
+    "G04": {
+     "v": 4,
+     "conf": "voto",
+     "fonte": "https://dadosabertos.camara.leg.br/api/v2/votacoes/2357898-11/votos",
+     "nota": "Votou Sim na urgência do PDL 3/2023 (sustar o decreto de 2023 que restringiu armas) em 06/12/2023."
+    },
+    "G11": {
+     "v": 2,
+     "conf": "voto",
+     "fonte": "https://dadosabertos.camara.leg.br/api/v2/votacoes/2439779-55/votos",
+     "nota": "Votou Não no PL 1958/2021 (cotas raciais em concursos públicos) em 19/11/2024."
+    },
+    "DF04": {
+     "v": 5,
+     "conf": "voto",
+     "fonte": "https://dadosabertos.camara.leg.br/api/v2/votacoes/257161-454/votos",
+     "nota": "Votou Sim nas emendas do Senado ao PL 2159/2021 (licenciamento ambiental) em 17/07/2025."
+    },
+    "G07": {
+     "v": 2,
+     "conf": "voto",
+     "fonte": "https://dadosabertos.camara.leg.br/api/v2/votacoes/257161-454/votos",
+     "nota": "Votou Sim nas emendas do Senado ao PL 2159/2021 (licenciamento ambiental) em 17/07/2025."
+    },
+    "DF02": {
+     "v": 5,
+     "conf": "voto",
+     "fonte": "https://dadosabertos.camara.leg.br/api/v2/votacoes/2270800-135/votos",
+     "nota": "Votou Sim nos dois turnos da PEC 3/2021 (licença do Congresso para processar parlamentares) em 16/09/2025.",
+     "fontes": [
+      "https://dadosabertos.camara.leg.br/api/v2/votacoes/2270800-135/votos",
+      "https://dadosabertos.camara.leg.br/api/v2/votacoes/2270800-160/votos"
+     ]
+    },
+    "G08": {
+     "v": 4,
+     "conf": "voto",
+     "fonte": "https://dadosabertos.camara.leg.br/api/v2/votacoes/2562149-7/votos",
+     "nota": "Votou Sim na urgência do PL 2162/2023 (anistia do 8 de janeiro) em 17/09/2025 e Sim no substitutivo que reduz as penas em 10/12/2025.",
+     "fontes": [
+      "https://dadosabertos.camara.leg.br/api/v2/votacoes/2562149-7/votos",
+      "https://dadosabertos.camara.leg.br/api/v2/votacoes/2358548-89/votos"
+     ]
+    },
+    "G14": {
+     "v": 5,
+     "conf": "voto",
+     "fonte": "https://dadosabertos.camara.leg.br/api/v2/votacoes/2233802-424/votos",
+     "nota": "Votou Sim nos dois turnos da PEC 221/2019 (40h semanais e 2 dias de folga, fim da escala 6x1) em 27/05/2026.",
+     "fontes": [
+      "https://dadosabertos.camara.leg.br/api/v2/votacoes/2233802-424/votos",
+      "https://dadosabertos.camara.leg.br/api/v2/votacoes/2233802-438/votos"
+     ]
+    }
+   },
+   "votos": {
+    "2233802-424": "Sim",
+    "2233802-438": "Sim",
+    "2270800-135": "Sim",
+    "2270800-160": "Sim",
+    "2310837-8": "Não",
+    "2357898-11": "Sim",
+    "2358548-89": "Sim",
+    "2439779-55": "Não",
+    "2562149-7": "Sim",
+    "257161-454": "Sim"
+   }
+  },
+  "130002535303": {
+   "nomeUrna": "PADRE JOÃO",
+   "cargo": "Deputado Federal",
+   "partido": "PT",
+   "idCamara": 160556,
+   "nomeCamara": "Padre João",
+   "pareamento": "nome civil exato",
+   "posicoes": {
+    "DF03": {
+     "v": 1,
+     "conf": "voto",
+     "fonte": "https://dadosabertos.camara.leg.br/api/v2/votacoes/345311-270/votos",
+     "nota": "Votou Não no substitutivo do PL 490/2007 (marco temporal de terras indígenas) em 30/05/2023."
+    },
+    "G10": {
+     "v": 4,
+     "conf": "voto",
+     "fonte": "https://dadosabertos.camara.leg.br/api/v2/votacoes/2310837-8/votos",
+     "nota": "Votou Sim na urgência do PL 2630/2020 (regulação de plataformas digitais) em 25/04/2023."
+    },
+    "G04": {
+     "v": 2,
+     "conf": "voto",
+     "fonte": "https://dadosabertos.camara.leg.br/api/v2/votacoes/2357898-11/votos",
+     "nota": "Votou Não na urgência do PDL 3/2023 (sustar o decreto de 2023 que restringiu armas) em 06/12/2023."
+    },
+    "G11": {
+     "v": 4,
+     "conf": "voto",
+     "fonte": "https://dadosabertos.camara.leg.br/api/v2/votacoes/2439779-55/votos",
+     "nota": "Votou Sim no PL 1958/2021 (cotas raciais em concursos públicos) em 19/11/2024."
+    },
+    "DF04": {
+     "v": 1,
+     "conf": "voto",
+     "fonte": "https://dadosabertos.camara.leg.br/api/v2/votacoes/257161-454/votos",
+     "nota": "Votou Não nas emendas do Senado ao PL 2159/2021 (licenciamento ambiental) em 17/07/2025."
+    },
+    "G07": {
+     "v": 4,
+     "conf": "voto",
+     "fonte": "https://dadosabertos.camara.leg.br/api/v2/votacoes/257161-454/votos",
+     "nota": "Votou Não nas emendas do Senado ao PL 2159/2021 (licenciamento ambiental) em 17/07/2025."
+    },
+    "DF02": {
+     "v": 1,
+     "conf": "voto",
+     "fonte": "https://dadosabertos.camara.leg.br/api/v2/votacoes/2270800-135/votos",
+     "nota": "Votou Não nos dois turnos da PEC 3/2021 (licença do Congresso para processar parlamentares) em 16/09/2025.",
+     "fontes": [
+      "https://dadosabertos.camara.leg.br/api/v2/votacoes/2270800-135/votos",
+      "https://dadosabertos.camara.leg.br/api/v2/votacoes/2270800-160/votos"
+     ]
+    },
+    "G08": {
+     "v": 2,
+     "conf": "voto",
+     "fonte": "https://dadosabertos.camara.leg.br/api/v2/votacoes/2562149-7/votos",
+     "nota": "Votou Não na urgência do PL 2162/2023 (anistia do 8 de janeiro) em 17/09/2025 e Não no substitutivo que reduz as penas em 10/12/2025.",
+     "fontes": [
+      "https://dadosabertos.camara.leg.br/api/v2/votacoes/2562149-7/votos",
+      "https://dadosabertos.camara.leg.br/api/v2/votacoes/2358548-89/votos"
+     ]
+    },
+    "G14": {
+     "v": 5,
+     "conf": "voto",
+     "fonte": "https://dadosabertos.camara.leg.br/api/v2/votacoes/2233802-424/votos",
+     "nota": "Votou Sim nos dois turnos da PEC 221/2019 (40h semanais e 2 dias de folga, fim da escala 6x1) em 27/05/2026.",
+     "fontes": [
+      "https://dadosabertos.camara.leg.br/api/v2/votacoes/2233802-424/votos",
+      "https://dadosabertos.camara.leg.br/api/v2/votacoes/2233802-438/votos"
+     ]
+    }
+   },
+   "votos": {
+    "2233802-424": "Sim",
+    "2233802-438": "Sim",
+    "2270800-135": "Não",
+    "2270800-160": "Não",
+    "2310837-8": "Sim",
+    "2357898-11": "Não",
+    "2358548-89": "Não",
+    "2439779-55": "Sim",
+    "2562149-7": "Não",
+    "257161-454": "Não",
+    "345311-270": "Não"
+   }
+  },
+  "130002550464": {
+   "nomeUrna": "PATRUS ANANIAS",
+   "cargo": "Governador",
+   "partido": "PT",
+   "idCamara": 74160,
+   "nomeCamara": "Patrus Ananias",
+   "pareamento": "aproximado",
+   "posicoes": {
+    "G10": {
+     "v": 4,
+     "conf": "voto",
+     "fonte": "https://dadosabertos.camara.leg.br/api/v2/votacoes/2310837-8/votos",
+     "nota": "Votou Sim na urgência do PL 2630/2020 (regulação de plataformas digitais) em 25/04/2023."
+    },
+    "G04": {
+     "v": 2,
+     "conf": "voto",
+     "fonte": "https://dadosabertos.camara.leg.br/api/v2/votacoes/2357898-11/votos",
+     "nota": "Votou Não na urgência do PDL 3/2023 (sustar o decreto de 2023 que restringiu armas) em 06/12/2023."
+    },
+    "G11": {
+     "v": 4,
+     "conf": "voto",
+     "fonte": "https://dadosabertos.camara.leg.br/api/v2/votacoes/2439779-55/votos",
+     "nota": "Votou Sim no PL 1958/2021 (cotas raciais em concursos públicos) em 19/11/2024."
+    },
+    "G07": {
+     "v": 4,
+     "conf": "voto",
+     "fonte": "https://dadosabertos.camara.leg.br/api/v2/votacoes/257161-454/votos",
+     "nota": "Votou Não nas emendas do Senado ao PL 2159/2021 (licenciamento ambiental) em 17/07/2025."
+    },
+    "G08": {
+     "v": 2,
+     "conf": "voto",
+     "fonte": "https://dadosabertos.camara.leg.br/api/v2/votacoes/2562149-7/votos",
+     "nota": "Votou Não na urgência do PL 2162/2023 (anistia do 8 de janeiro) em 17/09/2025 e Não no substitutivo que reduz as penas em 10/12/2025.",
+     "fontes": [
+      "https://dadosabertos.camara.leg.br/api/v2/votacoes/2562149-7/votos",
+      "https://dadosabertos.camara.leg.br/api/v2/votacoes/2358548-89/votos"
+     ]
+    },
+    "G14": {
+     "v": 5,
+     "conf": "voto",
+     "fonte": "https://dadosabertos.camara.leg.br/api/v2/votacoes/2233802-424/votos",
+     "nota": "Votou Sim nos dois turnos da PEC 221/2019 (40h semanais e 2 dias de folga, fim da escala 6x1) em 27/05/2026.",
+     "fontes": [
+      "https://dadosabertos.camara.leg.br/api/v2/votacoes/2233802-424/votos",
+      "https://dadosabertos.camara.leg.br/api/v2/votacoes/2233802-438/votos"
+     ]
+    }
+   },
+   "posicoesNaoAplicaveisAoCargo": {
+    "DF04": {
+     "v": 1,
+     "conf": "voto",
+     "fonte": "https://dadosabertos.camara.leg.br/api/v2/votacoes/257161-454/votos",
+     "nota": "Votou Não nas emendas do Senado ao PL 2159/2021 (licenciamento ambiental) em 17/07/2025."
+    },
+    "DF02": {
+     "v": 1,
+     "conf": "voto",
+     "fonte": "https://dadosabertos.camara.leg.br/api/v2/votacoes/2270800-135/votos",
+     "nota": "Votou Não nos dois turnos da PEC 3/2021 (licença do Congresso para processar parlamentares) em 16/09/2025.",
+     "fontes": [
+      "https://dadosabertos.camara.leg.br/api/v2/votacoes/2270800-135/votos",
+      "https://dadosabertos.camara.leg.br/api/v2/votacoes/2270800-160/votos"
+     ]
+    }
+   },
+   "votos": {
+    "2233802-424": "Sim",
+    "2233802-438": "Sim",
+    "2270800-135": "Não",
+    "2270800-160": "Não",
+    "2310837-8": "Sim",
+    "2357898-11": "Não",
+    "2358548-89": "Não",
+    "2439779-55": "Sim",
+    "2562149-7": "Não",
+    "257161-454": "Não"
+   }
+  },
+  "130002539842": {
+   "nomeUrna": "PAULO ABI-ACKEL",
+   "cargo": "Deputado Federal",
+   "partido": "PSDB",
+   "idCamara": 141516,
+   "nomeCamara": "Paulo Abi-Ackel",
+   "pareamento": "nome civil exato",
+   "posicoes": {
+    "G10": {
+     "v": 4,
+     "conf": "voto",
+     "fonte": "https://dadosabertos.camara.leg.br/api/v2/votacoes/2310837-8/votos",
+     "nota": "Votou Sim na urgência do PL 2630/2020 (regulação de plataformas digitais) em 25/04/2023."
+    },
+    "G04": {
+     "v": 4,
+     "conf": "voto",
+     "fonte": "https://dadosabertos.camara.leg.br/api/v2/votacoes/2357898-11/votos",
+     "nota": "Votou Sim na urgência do PDL 3/2023 (sustar o decreto de 2023 que restringiu armas) em 06/12/2023."
+    },
+    "DF02": {
+     "v": 5,
+     "conf": "voto",
+     "fonte": "https://dadosabertos.camara.leg.br/api/v2/votacoes/2270800-135/votos",
+     "nota": "Votou Sim nos dois turnos da PEC 3/2021 (licença do Congresso para processar parlamentares) em 16/09/2025.",
+     "fontes": [
+      "https://dadosabertos.camara.leg.br/api/v2/votacoes/2270800-135/votos",
+      "https://dadosabertos.camara.leg.br/api/v2/votacoes/2270800-160/votos"
+     ]
+    },
+    "G08": {
+     "v": 4,
+     "conf": "voto",
+     "fonte": "https://dadosabertos.camara.leg.br/api/v2/votacoes/2562149-7/votos",
+     "nota": "Votou Sim na urgência do PL 2162/2023 (anistia do 8 de janeiro) em 17/09/2025 e Sim no substitutivo que reduz as penas em 10/12/2025.",
+     "fontes": [
+      "https://dadosabertos.camara.leg.br/api/v2/votacoes/2562149-7/votos",
+      "https://dadosabertos.camara.leg.br/api/v2/votacoes/2358548-89/votos"
+     ]
+    },
+    "G14": {
+     "v": 5,
+     "conf": "voto",
+     "fonte": "https://dadosabertos.camara.leg.br/api/v2/votacoes/2233802-424/votos",
+     "nota": "Votou Sim nos dois turnos da PEC 221/2019 (40h semanais e 2 dias de folga, fim da escala 6x1) em 27/05/2026.",
+     "fontes": [
+      "https://dadosabertos.camara.leg.br/api/v2/votacoes/2233802-424/votos",
+      "https://dadosabertos.camara.leg.br/api/v2/votacoes/2233802-438/votos"
+     ]
+    }
+   },
+   "votos": {
+    "2233802-424": "Sim",
+    "2233802-438": "Sim",
+    "2270800-135": "Sim",
+    "2270800-160": "Sim",
+    "2310837-8": "Sim",
+    "2357898-11": "Sim",
+    "2358548-89": "Sim",
+    "2562149-7": "Sim"
+   }
+  },
+  "130002535293": {
+   "nomeUrna": "PAULO GUEDES",
+   "cargo": "Deputado Federal",
+   "partido": "PT",
+   "idCamara": 204492,
+   "nomeCamara": "Paulo Guedes",
+   "pareamento": "nome civil exato",
+   "posicoes": {
+    "DF03": {
+     "v": 1,
+     "conf": "voto",
+     "fonte": "https://dadosabertos.camara.leg.br/api/v2/votacoes/345311-270/votos",
+     "nota": "Votou Não no substitutivo do PL 490/2007 (marco temporal de terras indígenas) em 30/05/2023."
+    },
+    "G10": {
+     "v": 4,
+     "conf": "voto",
+     "fonte": "https://dadosabertos.camara.leg.br/api/v2/votacoes/2310837-8/votos",
+     "nota": "Votou Sim na urgência do PL 2630/2020 (regulação de plataformas digitais) em 25/04/2023."
+    },
+    "G04": {
+     "v": 2,
+     "conf": "voto",
+     "fonte": "https://dadosabertos.camara.leg.br/api/v2/votacoes/2357898-11/votos",
+     "nota": "Votou Não na urgência do PDL 3/2023 (sustar o decreto de 2023 que restringiu armas) em 06/12/2023."
+    },
+    "G11": {
+     "v": 4,
+     "conf": "voto",
+     "fonte": "https://dadosabertos.camara.leg.br/api/v2/votacoes/2439779-55/votos",
+     "nota": "Votou Sim no PL 1958/2021 (cotas raciais em concursos públicos) em 19/11/2024."
+    },
+    "DF04": {
+     "v": 1,
+     "conf": "voto",
+     "fonte": "https://dadosabertos.camara.leg.br/api/v2/votacoes/257161-454/votos",
+     "nota": "Votou Não nas emendas do Senado ao PL 2159/2021 (licenciamento ambiental) em 17/07/2025."
+    },
+    "G07": {
+     "v": 4,
+     "conf": "voto",
+     "fonte": "https://dadosabertos.camara.leg.br/api/v2/votacoes/257161-454/votos",
+     "nota": "Votou Não nas emendas do Senado ao PL 2159/2021 (licenciamento ambiental) em 17/07/2025."
+    },
+    "DF02": {
+     "v": 5,
+     "conf": "voto",
+     "fonte": "https://dadosabertos.camara.leg.br/api/v2/votacoes/2270800-135/votos",
+     "nota": "Votou Sim nos dois turnos da PEC 3/2021 (licença do Congresso para processar parlamentares) em 16/09/2025.",
+     "fontes": [
+      "https://dadosabertos.camara.leg.br/api/v2/votacoes/2270800-135/votos",
+      "https://dadosabertos.camara.leg.br/api/v2/votacoes/2270800-160/votos"
+     ]
+    },
+    "G08": {
+     "v": 2,
+     "conf": "voto",
+     "fonte": "https://dadosabertos.camara.leg.br/api/v2/votacoes/2562149-7/votos",
+     "nota": "Votou Não na urgência do PL 2162/2023 (anistia do 8 de janeiro) em 17/09/2025 e Não no substitutivo que reduz as penas em 10/12/2025.",
+     "fontes": [
+      "https://dadosabertos.camara.leg.br/api/v2/votacoes/2562149-7/votos",
+      "https://dadosabertos.camara.leg.br/api/v2/votacoes/2358548-89/votos"
+     ]
+    },
+    "G14": {
+     "v": 5,
+     "conf": "voto",
+     "fonte": "https://dadosabertos.camara.leg.br/api/v2/votacoes/2233802-424/votos",
+     "nota": "Votou Sim nos dois turnos da PEC 221/2019 (40h semanais e 2 dias de folga, fim da escala 6x1) em 27/05/2026.",
+     "fontes": [
+      "https://dadosabertos.camara.leg.br/api/v2/votacoes/2233802-424/votos",
+      "https://dadosabertos.camara.leg.br/api/v2/votacoes/2233802-438/votos"
+     ]
+    }
+   },
+   "votos": {
+    "2233802-424": "Sim",
+    "2233802-438": "Sim",
+    "2270800-135": "Sim",
+    "2270800-160": "Sim",
+    "2310837-8": "Sim",
+    "2357898-11": "Não",
+    "2358548-89": "Não",
+    "2439779-55": "Sim",
+    "2562149-7": "Não",
+    "257161-454": "Não",
+    "345311-270": "Não"
+   }
+  },
+  "130002542700": {
+   "nomeUrna": "PEDRO AIHARA",
+   "cargo": "Deputado Federal",
+   "partido": "PP",
+   "idCamara": 220630,
+   "nomeCamara": "Pedro Aihara",
+   "pareamento": "nome civil exato",
+   "posicoes": {
+    "DF03": {
+     "v": 1,
+     "conf": "voto",
+     "fonte": "https://dadosabertos.camara.leg.br/api/v2/votacoes/345311-270/votos",
+     "nota": "Votou Não no substitutivo do PL 490/2007 (marco temporal de terras indígenas) em 30/05/2023."
+    },
+    "G10": {
+     "v": 2,
+     "conf": "voto",
+     "fonte": "https://dadosabertos.camara.leg.br/api/v2/votacoes/2310837-8/votos",
+     "nota": "Votou Não na urgência do PL 2630/2020 (regulação de plataformas digitais) em 25/04/2023."
+    },
+    "G04": {
+     "v": 4,
+     "conf": "voto",
+     "fonte": "https://dadosabertos.camara.leg.br/api/v2/votacoes/2357898-11/votos",
+     "nota": "Votou Sim na urgência do PDL 3/2023 (sustar o decreto de 2023 que restringiu armas) em 06/12/2023."
+    },
+    "G11": {
+     "v": 4,
+     "conf": "voto",
+     "fonte": "https://dadosabertos.camara.leg.br/api/v2/votacoes/2439779-55/votos",
+     "nota": "Votou Sim no PL 1958/2021 (cotas raciais em concursos públicos) em 19/11/2024."
+    },
+    "DF04": {
+     "v": 1,
+     "conf": "voto",
+     "fonte": "https://dadosabertos.camara.leg.br/api/v2/votacoes/257161-454/votos",
+     "nota": "Votou Não nas emendas do Senado ao PL 2159/2021 (licenciamento ambiental) em 17/07/2025."
+    },
+    "G07": {
+     "v": 4,
+     "conf": "voto",
+     "fonte": "https://dadosabertos.camara.leg.br/api/v2/votacoes/257161-454/votos",
+     "nota": "Votou Não nas emendas do Senado ao PL 2159/2021 (licenciamento ambiental) em 17/07/2025."
+    },
+    "DF02": {
+     "v": 5,
+     "conf": "voto",
+     "fonte": "https://dadosabertos.camara.leg.br/api/v2/votacoes/2270800-135/votos",
+     "nota": "Votou Sim nos dois turnos da PEC 3/2021 (licença do Congresso para processar parlamentares) em 16/09/2025.",
+     "fontes": [
+      "https://dadosabertos.camara.leg.br/api/v2/votacoes/2270800-135/votos",
+      "https://dadosabertos.camara.leg.br/api/v2/votacoes/2270800-160/votos"
+     ]
+    },
+    "G08": {
+     "v": 4,
+     "conf": "voto",
+     "fonte": "https://dadosabertos.camara.leg.br/api/v2/votacoes/2562149-7/votos",
+     "nota": "Votou Sim na urgência do PL 2162/2023 (anistia do 8 de janeiro) em 17/09/2025."
+    },
+    "G14": {
+     "v": 5,
+     "conf": "voto",
+     "fonte": "https://dadosabertos.camara.leg.br/api/v2/votacoes/2233802-424/votos",
+     "nota": "Votou Sim nos dois turnos da PEC 221/2019 (40h semanais e 2 dias de folga, fim da escala 6x1) em 27/05/2026.",
+     "fontes": [
+      "https://dadosabertos.camara.leg.br/api/v2/votacoes/2233802-424/votos",
+      "https://dadosabertos.camara.leg.br/api/v2/votacoes/2233802-438/votos"
+     ]
+    }
+   },
+   "votos": {
+    "2233802-424": "Sim",
+    "2233802-438": "Sim",
+    "2270800-135": "Sim",
+    "2270800-160": "Sim",
+    "2310837-8": "Não",
+    "2357898-11": "Sim",
+    "2439779-55": "Sim",
+    "2562149-7": "Sim",
+    "257161-454": "Não",
+    "345311-270": "Não"
+   }
+  },
+  "130002542701": {
+   "nomeUrna": "PINHEIRINHO",
+   "cargo": "Deputado Federal",
+   "partido": "PP",
+   "idCamara": 204524,
+   "nomeCamara": "Pinheirinho",
+   "pareamento": "nome civil exato",
+   "posicoes": {
+    "DF03": {
+     "v": 5,
+     "conf": "voto",
+     "fonte": "https://dadosabertos.camara.leg.br/api/v2/votacoes/345311-270/votos",
+     "nota": "Votou Sim no substitutivo do PL 490/2007 (marco temporal de terras indígenas) em 30/05/2023."
+    },
+    "G10": {
+     "v": 2,
+     "conf": "voto",
+     "fonte": "https://dadosabertos.camara.leg.br/api/v2/votacoes/2310837-8/votos",
+     "nota": "Votou Não na urgência do PL 2630/2020 (regulação de plataformas digitais) em 25/04/2023."
+    },
+    "G04": {
+     "v": 4,
+     "conf": "voto",
+     "fonte": "https://dadosabertos.camara.leg.br/api/v2/votacoes/2357898-11/votos",
+     "nota": "Votou Sim na urgência do PDL 3/2023 (sustar o decreto de 2023 que restringiu armas) em 06/12/2023."
+    },
+    "DF04": {
+     "v": 5,
+     "conf": "voto",
+     "fonte": "https://dadosabertos.camara.leg.br/api/v2/votacoes/257161-454/votos",
+     "nota": "Votou Sim nas emendas do Senado ao PL 2159/2021 (licenciamento ambiental) em 17/07/2025."
+    },
+    "G07": {
+     "v": 2,
+     "conf": "voto",
+     "fonte": "https://dadosabertos.camara.leg.br/api/v2/votacoes/257161-454/votos",
+     "nota": "Votou Sim nas emendas do Senado ao PL 2159/2021 (licenciamento ambiental) em 17/07/2025."
+    },
+    "DF02": {
+     "v": 5,
+     "conf": "voto",
+     "fonte": "https://dadosabertos.camara.leg.br/api/v2/votacoes/2270800-135/votos",
+     "nota": "Votou Sim nos dois turnos da PEC 3/2021 (licença do Congresso para processar parlamentares) em 16/09/2025.",
+     "fontes": [
+      "https://dadosabertos.camara.leg.br/api/v2/votacoes/2270800-135/votos",
+      "https://dadosabertos.camara.leg.br/api/v2/votacoes/2270800-160/votos"
+     ]
+    },
+    "G08": {
+     "v": 4,
+     "conf": "voto",
+     "fonte": "https://dadosabertos.camara.leg.br/api/v2/votacoes/2562149-7/votos",
+     "nota": "Votou Sim na urgência do PL 2162/2023 (anistia do 8 de janeiro) em 17/09/2025 e Sim no substitutivo que reduz as penas em 10/12/2025.",
+     "fontes": [
+      "https://dadosabertos.camara.leg.br/api/v2/votacoes/2562149-7/votos",
+      "https://dadosabertos.camara.leg.br/api/v2/votacoes/2358548-89/votos"
+     ]
+    },
+    "G14": {
+     "v": 5,
+     "conf": "voto",
+     "fonte": "https://dadosabertos.camara.leg.br/api/v2/votacoes/2233802-424/votos",
+     "nota": "Votou Sim nos dois turnos da PEC 221/2019 (40h semanais e 2 dias de folga, fim da escala 6x1) em 27/05/2026.",
+     "fontes": [
+      "https://dadosabertos.camara.leg.br/api/v2/votacoes/2233802-424/votos",
+      "https://dadosabertos.camara.leg.br/api/v2/votacoes/2233802-438/votos"
+     ]
+    }
+   },
+   "votos": {
+    "2233802-424": "Sim",
+    "2233802-438": "Sim",
+    "2270800-135": "Sim",
+    "2270800-160": "Sim",
+    "2310837-8": "Não",
+    "2357898-11": "Sim",
+    "2358548-89": "Sim",
+    "2562149-7": "Sim",
+    "257161-454": "Sim",
+    "345311-270": "Sim"
+   }
+  },
+  "130002542738": {
+   "nomeUrna": "RAFAEL SIMÕES",
+   "cargo": "Deputado Federal",
+   "partido": "UNIÃO",
+   "idCamara": 220626,
+   "nomeCamara": "Rafael Simoes",
+   "pareamento": "nome civil exato",
+   "posicoes": {
+    "DF03": {
+     "v": 5,
+     "conf": "voto",
+     "fonte": "https://dadosabertos.camara.leg.br/api/v2/votacoes/345311-270/votos",
+     "nota": "Votou Sim no substitutivo do PL 490/2007 (marco temporal de terras indígenas) em 30/05/2023."
+    },
+    "G10": {
+     "v": 2,
+     "conf": "voto",
+     "fonte": "https://dadosabertos.camara.leg.br/api/v2/votacoes/2310837-8/votos",
+     "nota": "Votou Não na urgência do PL 2630/2020 (regulação de plataformas digitais) em 25/04/2023."
+    },
+    "G04": {
+     "v": 4,
+     "conf": "voto",
+     "fonte": "https://dadosabertos.camara.leg.br/api/v2/votacoes/2357898-11/votos",
+     "nota": "Votou Sim na urgência do PDL 3/2023 (sustar o decreto de 2023 que restringiu armas) em 06/12/2023."
+    },
+    "G11": {
+     "v": 4,
+     "conf": "voto",
+     "fonte": "https://dadosabertos.camara.leg.br/api/v2/votacoes/2439779-55/votos",
+     "nota": "Votou Sim no PL 1958/2021 (cotas raciais em concursos públicos) em 19/11/2024."
+    },
+    "DF04": {
+     "v": 5,
+     "conf": "voto",
+     "fonte": "https://dadosabertos.camara.leg.br/api/v2/votacoes/257161-454/votos",
+     "nota": "Votou Sim nas emendas do Senado ao PL 2159/2021 (licenciamento ambiental) em 17/07/2025."
+    },
+    "G07": {
+     "v": 2,
+     "conf": "voto",
+     "fonte": "https://dadosabertos.camara.leg.br/api/v2/votacoes/257161-454/votos",
+     "nota": "Votou Sim nas emendas do Senado ao PL 2159/2021 (licenciamento ambiental) em 17/07/2025."
+    },
+    "DF02": {
+     "v": 5,
+     "conf": "voto",
+     "fonte": "https://dadosabertos.camara.leg.br/api/v2/votacoes/2270800-135/votos",
+     "nota": "Votou Sim nos dois turnos da PEC 3/2021 (licença do Congresso para processar parlamentares) em 16/09/2025.",
+     "fontes": [
+      "https://dadosabertos.camara.leg.br/api/v2/votacoes/2270800-135/votos",
+      "https://dadosabertos.camara.leg.br/api/v2/votacoes/2270800-160/votos"
+     ]
+    },
+    "G08": {
+     "v": 4,
+     "conf": "voto",
+     "fonte": "https://dadosabertos.camara.leg.br/api/v2/votacoes/2562149-7/votos",
+     "nota": "Votou Sim na urgência do PL 2162/2023 (anistia do 8 de janeiro) em 17/09/2025 e Sim no substitutivo que reduz as penas em 10/12/2025.",
+     "fontes": [
+      "https://dadosabertos.camara.leg.br/api/v2/votacoes/2562149-7/votos",
+      "https://dadosabertos.camara.leg.br/api/v2/votacoes/2358548-89/votos"
+     ]
+    },
+    "G14": {
+     "v": 5,
+     "conf": "voto",
+     "fonte": "https://dadosabertos.camara.leg.br/api/v2/votacoes/2233802-424/votos",
+     "nota": "Votou Sim nos dois turnos da PEC 221/2019 (40h semanais e 2 dias de folga, fim da escala 6x1) em 27/05/2026.",
+     "fontes": [
+      "https://dadosabertos.camara.leg.br/api/v2/votacoes/2233802-424/votos",
+      "https://dadosabertos.camara.leg.br/api/v2/votacoes/2233802-438/votos"
+     ]
+    }
+   },
+   "votos": {
+    "2233802-424": "Sim",
+    "2233802-438": "Sim",
+    "2270800-135": "Sim",
+    "2270800-160": "Sim",
+    "2310837-8": "Não",
+    "2357898-11": "Sim",
+    "2358548-89": "Sim",
+    "2439779-55": "Sim",
+    "2562149-7": "Sim",
+    "257161-454": "Sim",
+    "345311-270": "Sim"
+   }
+  },
+  "130002535317": {
+   "nomeUrna": "REGINALDO LOPES",
+   "cargo": "Deputado Federal",
+   "partido": "PT",
+   "idCamara": 74161,
+   "nomeCamara": "Reginaldo Lopes",
+   "pareamento": "nome civil exato",
+   "posicoes": {
+    "DF03": {
+     "v": 1,
+     "conf": "voto",
+     "fonte": "https://dadosabertos.camara.leg.br/api/v2/votacoes/345311-270/votos",
+     "nota": "Votou Não no substitutivo do PL 490/2007 (marco temporal de terras indígenas) em 30/05/2023."
+    },
+    "G10": {
+     "v": 4,
+     "conf": "voto",
+     "fonte": "https://dadosabertos.camara.leg.br/api/v2/votacoes/2310837-8/votos",
+     "nota": "Votou Sim na urgência do PL 2630/2020 (regulação de plataformas digitais) em 25/04/2023."
+    },
+    "G04": {
+     "v": 2,
+     "conf": "voto",
+     "fonte": "https://dadosabertos.camara.leg.br/api/v2/votacoes/2357898-11/votos",
+     "nota": "Votou Não na urgência do PDL 3/2023 (sustar o decreto de 2023 que restringiu armas) em 06/12/2023."
+    },
+    "G11": {
+     "v": 4,
+     "conf": "voto",
+     "fonte": "https://dadosabertos.camara.leg.br/api/v2/votacoes/2439779-55/votos",
+     "nota": "Votou Sim no PL 1958/2021 (cotas raciais em concursos públicos) em 19/11/2024."
+    },
+    "DF04": {
+     "v": 1,
+     "conf": "voto",
+     "fonte": "https://dadosabertos.camara.leg.br/api/v2/votacoes/257161-454/votos",
+     "nota": "Votou Não nas emendas do Senado ao PL 2159/2021 (licenciamento ambiental) em 17/07/2025."
+    },
+    "G07": {
+     "v": 4,
+     "conf": "voto",
+     "fonte": "https://dadosabertos.camara.leg.br/api/v2/votacoes/257161-454/votos",
+     "nota": "Votou Não nas emendas do Senado ao PL 2159/2021 (licenciamento ambiental) em 17/07/2025."
+    },
+    "DF02": {
+     "v": 1,
+     "conf": "voto",
+     "fonte": "https://dadosabertos.camara.leg.br/api/v2/votacoes/2270800-135/votos",
+     "nota": "Votou Não nos dois turnos da PEC 3/2021 (licença do Congresso para processar parlamentares) em 16/09/2025.",
+     "fontes": [
+      "https://dadosabertos.camara.leg.br/api/v2/votacoes/2270800-135/votos",
+      "https://dadosabertos.camara.leg.br/api/v2/votacoes/2270800-160/votos"
+     ]
+    },
+    "G08": {
+     "v": 2,
+     "conf": "voto",
+     "fonte": "https://dadosabertos.camara.leg.br/api/v2/votacoes/2562149-7/votos",
+     "nota": "Votou Não na urgência do PL 2162/2023 (anistia do 8 de janeiro) em 17/09/2025 e Não no substitutivo que reduz as penas em 10/12/2025.",
+     "fontes": [
+      "https://dadosabertos.camara.leg.br/api/v2/votacoes/2562149-7/votos",
+      "https://dadosabertos.camara.leg.br/api/v2/votacoes/2358548-89/votos"
+     ]
+    },
+    "G14": {
+     "v": 5,
+     "conf": "voto",
+     "fonte": "https://dadosabertos.camara.leg.br/api/v2/votacoes/2233802-424/votos",
+     "nota": "Votou Sim nos dois turnos da PEC 221/2019 (40h semanais e 2 dias de folga, fim da escala 6x1) em 27/05/2026.",
+     "fontes": [
+      "https://dadosabertos.camara.leg.br/api/v2/votacoes/2233802-424/votos",
+      "https://dadosabertos.camara.leg.br/api/v2/votacoes/2233802-438/votos"
+     ]
+    }
+   },
+   "votos": {
+    "2233802-424": "Sim",
+    "2233802-438": "Sim",
+    "2270800-135": "Não",
+    "2270800-160": "Não",
+    "2310837-8": "Sim",
+    "2357898-11": "Não",
+    "2358548-89": "Não",
+    "2439779-55": "Sim",
+    "2562149-7": "Não",
+    "257161-454": "Não",
+    "345311-270": "Não"
+   }
+  },
+  "130002542715": {
+   "nomeUrna": "RODRIGO DE CASTRO",
+   "cargo": "Deputado Federal",
+   "partido": "UNIÃO",
+   "idCamara": 141531,
+   "nomeCamara": "Rodrigo de Castro",
+   "pareamento": "nome civil exato",
+   "posicoes": {
+    "G10": {
+     "v": 4,
+     "conf": "voto",
+     "fonte": "https://dadosabertos.camara.leg.br/api/v2/votacoes/2310837-8/votos",
+     "nota": "Votou Sim na urgência do PL 2630/2020 (regulação de plataformas digitais) em 25/04/2023."
+    },
+    "G04": {
+     "v": 2,
+     "conf": "voto",
+     "fonte": "https://dadosabertos.camara.leg.br/api/v2/votacoes/2357898-11/votos",
+     "nota": "Votou Não na urgência do PDL 3/2023 (sustar o decreto de 2023 que restringiu armas) em 06/12/2023."
+    },
+    "G11": {
+     "v": 4,
+     "conf": "voto",
+     "fonte": "https://dadosabertos.camara.leg.br/api/v2/votacoes/2439779-55/votos",
+     "nota": "Votou Sim no PL 1958/2021 (cotas raciais em concursos públicos) em 19/11/2024."
+    },
+    "DF02": {
+     "v": 5,
+     "conf": "voto",
+     "fonte": "https://dadosabertos.camara.leg.br/api/v2/votacoes/2270800-135/votos",
+     "nota": "Votou Sim nos dois turnos da PEC 3/2021 (licença do Congresso para processar parlamentares) em 16/09/2025.",
+     "fontes": [
+      "https://dadosabertos.camara.leg.br/api/v2/votacoes/2270800-135/votos",
+      "https://dadosabertos.camara.leg.br/api/v2/votacoes/2270800-160/votos"
+     ]
+    },
+    "G08": {
+     "v": 4,
+     "conf": "voto",
+     "fonte": "https://dadosabertos.camara.leg.br/api/v2/votacoes/2562149-7/votos",
+     "nota": "Votou Sim na urgência do PL 2162/2023 (anistia do 8 de janeiro) em 17/09/2025 e Sim no substitutivo que reduz as penas em 10/12/2025.",
+     "fontes": [
+      "https://dadosabertos.camara.leg.br/api/v2/votacoes/2562149-7/votos",
+      "https://dadosabertos.camara.leg.br/api/v2/votacoes/2358548-89/votos"
+     ]
+    },
+    "G14": {
+     "v": 5,
+     "conf": "voto",
+     "fonte": "https://dadosabertos.camara.leg.br/api/v2/votacoes/2233802-424/votos",
+     "nota": "Votou Sim nos dois turnos da PEC 221/2019 (40h semanais e 2 dias de folga, fim da escala 6x1) em 27/05/2026.",
+     "fontes": [
+      "https://dadosabertos.camara.leg.br/api/v2/votacoes/2233802-424/votos",
+      "https://dadosabertos.camara.leg.br/api/v2/votacoes/2233802-438/votos"
+     ]
+    }
+   },
+   "votos": {
+    "2233802-424": "Sim",
+    "2233802-438": "Sim",
+    "2270800-135": "Sim",
+    "2270800-160": "Sim",
+    "2310837-8": "Sim",
+    "2357898-11": "Não",
+    "2358548-89": "Sim",
+    "2439779-55": "Sim",
+    "2562149-7": "Sim"
+   }
+  },
+  "130002535279": {
+   "nomeUrna": "ROGÉRIO CORREIA",
+   "cargo": "Deputado Federal",
+   "partido": "PT",
+   "idCamara": 204480,
+   "nomeCamara": "Rogério Correia",
+   "pareamento": "nome civil exato",
+   "posicoes": {
+    "DF03": {
+     "v": 1,
+     "conf": "voto",
+     "fonte": "https://dadosabertos.camara.leg.br/api/v2/votacoes/345311-270/votos",
+     "nota": "Votou Não no substitutivo do PL 490/2007 (marco temporal de terras indígenas) em 30/05/2023."
+    },
+    "G10": {
+     "v": 4,
+     "conf": "voto",
+     "fonte": "https://dadosabertos.camara.leg.br/api/v2/votacoes/2310837-8/votos",
+     "nota": "Votou Sim na urgência do PL 2630/2020 (regulação de plataformas digitais) em 25/04/2023."
+    },
+    "G04": {
+     "v": 2,
+     "conf": "voto",
+     "fonte": "https://dadosabertos.camara.leg.br/api/v2/votacoes/2357898-11/votos",
+     "nota": "Votou Não na urgência do PDL 3/2023 (sustar o decreto de 2023 que restringiu armas) em 06/12/2023."
+    },
+    "G11": {
+     "v": 4,
+     "conf": "voto",
+     "fonte": "https://dadosabertos.camara.leg.br/api/v2/votacoes/2439779-55/votos",
+     "nota": "Votou Sim no PL 1958/2021 (cotas raciais em concursos públicos) em 19/11/2024."
+    },
+    "DF04": {
+     "v": 1,
+     "conf": "voto",
+     "fonte": "https://dadosabertos.camara.leg.br/api/v2/votacoes/257161-454/votos",
+     "nota": "Votou Não nas emendas do Senado ao PL 2159/2021 (licenciamento ambiental) em 17/07/2025."
+    },
+    "G07": {
+     "v": 4,
+     "conf": "voto",
+     "fonte": "https://dadosabertos.camara.leg.br/api/v2/votacoes/257161-454/votos",
+     "nota": "Votou Não nas emendas do Senado ao PL 2159/2021 (licenciamento ambiental) em 17/07/2025."
+    },
+    "DF02": {
+     "v": 1,
+     "conf": "voto",
+     "fonte": "https://dadosabertos.camara.leg.br/api/v2/votacoes/2270800-135/votos",
+     "nota": "Votou Não nos dois turnos da PEC 3/2021 (licença do Congresso para processar parlamentares) em 16/09/2025.",
+     "fontes": [
+      "https://dadosabertos.camara.leg.br/api/v2/votacoes/2270800-135/votos",
+      "https://dadosabertos.camara.leg.br/api/v2/votacoes/2270800-160/votos"
+     ]
+    },
+    "G08": {
+     "v": 2,
+     "conf": "voto",
+     "fonte": "https://dadosabertos.camara.leg.br/api/v2/votacoes/2562149-7/votos",
+     "nota": "Votou Não na urgência do PL 2162/2023 (anistia do 8 de janeiro) em 17/09/2025 e Não no substitutivo que reduz as penas em 10/12/2025.",
+     "fontes": [
+      "https://dadosabertos.camara.leg.br/api/v2/votacoes/2562149-7/votos",
+      "https://dadosabertos.camara.leg.br/api/v2/votacoes/2358548-89/votos"
+     ]
+    },
+    "G14": {
+     "v": 5,
+     "conf": "voto",
+     "fonte": "https://dadosabertos.camara.leg.br/api/v2/votacoes/2233802-424/votos",
+     "nota": "Votou Sim nos dois turnos da PEC 221/2019 (40h semanais e 2 dias de folga, fim da escala 6x1) em 27/05/2026.",
+     "fontes": [
+      "https://dadosabertos.camara.leg.br/api/v2/votacoes/2233802-424/votos",
+      "https://dadosabertos.camara.leg.br/api/v2/votacoes/2233802-438/votos"
+     ]
+    }
+   },
+   "votos": {
+    "2233802-424": "Sim",
+    "2233802-438": "Sim",
+    "2270800-135": "Não",
+    "2270800-160": "Não",
+    "2310837-8": "Sim",
+    "2357898-11": "Não",
+    "2358548-89": "Não",
+    "2439779-55": "Sim",
+    "2562149-7": "Não",
+    "257161-454": "Não",
+    "345311-270": "Não"
+   }
+  },
+  "130002542027": {
+   "nomeUrna": "ROSANGELA REIS",
+   "cargo": "Deputado Federal",
+   "partido": "PL",
+   "idCamara": 220620,
+   "nomeCamara": "Rosângela Reis",
+   "pareamento": "nome civil exato",
+   "posicoes": {
+    "DF03": {
+     "v": 5,
+     "conf": "voto",
+     "fonte": "https://dadosabertos.camara.leg.br/api/v2/votacoes/345311-270/votos",
+     "nota": "Votou Sim no substitutivo do PL 490/2007 (marco temporal de terras indígenas) em 30/05/2023."
+    },
+    "G10": {
+     "v": 2,
+     "conf": "voto",
+     "fonte": "https://dadosabertos.camara.leg.br/api/v2/votacoes/2310837-8/votos",
+     "nota": "Votou Não na urgência do PL 2630/2020 (regulação de plataformas digitais) em 25/04/2023."
+    },
+    "G04": {
+     "v": 4,
+     "conf": "voto",
+     "fonte": "https://dadosabertos.camara.leg.br/api/v2/votacoes/2357898-11/votos",
+     "nota": "Votou Sim na urgência do PDL 3/2023 (sustar o decreto de 2023 que restringiu armas) em 06/12/2023."
+    },
+    "G11": {
+     "v": 4,
+     "conf": "voto",
+     "fonte": "https://dadosabertos.camara.leg.br/api/v2/votacoes/2439779-55/votos",
+     "nota": "Votou Sim no PL 1958/2021 (cotas raciais em concursos públicos) em 19/11/2024."
+    },
+    "DF04": {
+     "v": 5,
+     "conf": "voto",
+     "fonte": "https://dadosabertos.camara.leg.br/api/v2/votacoes/257161-454/votos",
+     "nota": "Votou Sim nas emendas do Senado ao PL 2159/2021 (licenciamento ambiental) em 17/07/2025."
+    },
+    "G07": {
+     "v": 2,
+     "conf": "voto",
+     "fonte": "https://dadosabertos.camara.leg.br/api/v2/votacoes/257161-454/votos",
+     "nota": "Votou Sim nas emendas do Senado ao PL 2159/2021 (licenciamento ambiental) em 17/07/2025."
+    },
+    "DF02": {
+     "v": 5,
+     "conf": "voto",
+     "fonte": "https://dadosabertos.camara.leg.br/api/v2/votacoes/2270800-135/votos",
+     "nota": "Votou Sim nos dois turnos da PEC 3/2021 (licença do Congresso para processar parlamentares) em 16/09/2025.",
+     "fontes": [
+      "https://dadosabertos.camara.leg.br/api/v2/votacoes/2270800-135/votos",
+      "https://dadosabertos.camara.leg.br/api/v2/votacoes/2270800-160/votos"
+     ]
+    },
+    "G08": {
+     "v": 4,
+     "conf": "voto",
+     "fonte": "https://dadosabertos.camara.leg.br/api/v2/votacoes/2562149-7/votos",
+     "nota": "Votou Sim na urgência do PL 2162/2023 (anistia do 8 de janeiro) em 17/09/2025 e Sim no substitutivo que reduz as penas em 10/12/2025.",
+     "fontes": [
+      "https://dadosabertos.camara.leg.br/api/v2/votacoes/2562149-7/votos",
+      "https://dadosabertos.camara.leg.br/api/v2/votacoes/2358548-89/votos"
+     ]
+    },
+    "G14": {
+     "v": 5,
+     "conf": "voto",
+     "fonte": "https://dadosabertos.camara.leg.br/api/v2/votacoes/2233802-424/votos",
+     "nota": "Votou Sim nos dois turnos da PEC 221/2019 (40h semanais e 2 dias de folga, fim da escala 6x1) em 27/05/2026.",
+     "fontes": [
+      "https://dadosabertos.camara.leg.br/api/v2/votacoes/2233802-424/votos",
+      "https://dadosabertos.camara.leg.br/api/v2/votacoes/2233802-438/votos"
+     ]
+    }
+   },
+   "votos": {
+    "2233802-424": "Sim",
+    "2233802-438": "Sim",
+    "2270800-135": "Sim",
+    "2270800-160": "Sim",
+    "2310837-8": "Não",
+    "2357898-11": "Sim",
+    "2358548-89": "Sim",
+    "2439779-55": "Sim",
+    "2562149-7": "Sim",
+    "257161-454": "Sim",
+    "345311-270": "Sim"
+   }
+  },
+  "130002542695": {
+   "nomeUrna": "SAMUEL VIANA",
+   "cargo": "Deputado Federal",
+   "partido": "UNIÃO",
+   "idCamara": 220631,
+   "nomeCamara": "Samuel Viana",
+   "pareamento": "nome civil exato",
+   "posicoes": {
+    "DF03": {
+     "v": 5,
+     "conf": "voto",
+     "fonte": "https://dadosabertos.camara.leg.br/api/v2/votacoes/345311-270/votos",
+     "nota": "Votou Sim no substitutivo do PL 490/2007 (marco temporal de terras indígenas) em 30/05/2023."
+    },
+    "G10": {
+     "v": 4,
+     "conf": "voto",
+     "fonte": "https://dadosabertos.camara.leg.br/api/v2/votacoes/2310837-8/votos",
+     "nota": "Votou Sim na urgência do PL 2630/2020 (regulação de plataformas digitais) em 25/04/2023."
+    },
+    "G11": {
+     "v": 4,
+     "conf": "voto",
+     "fonte": "https://dadosabertos.camara.leg.br/api/v2/votacoes/2439779-55/votos",
+     "nota": "Votou Sim no PL 1958/2021 (cotas raciais em concursos públicos) em 19/11/2024."
+    },
+    "DF04": {
+     "v": 5,
+     "conf": "voto",
+     "fonte": "https://dadosabertos.camara.leg.br/api/v2/votacoes/257161-454/votos",
+     "nota": "Votou Sim nas emendas do Senado ao PL 2159/2021 (licenciamento ambiental) em 17/07/2025."
+    },
+    "G07": {
+     "v": 2,
+     "conf": "voto",
+     "fonte": "https://dadosabertos.camara.leg.br/api/v2/votacoes/257161-454/votos",
+     "nota": "Votou Sim nas emendas do Senado ao PL 2159/2021 (licenciamento ambiental) em 17/07/2025."
+    },
+    "DF02": {
+     "v": 5,
+     "conf": "voto",
+     "fonte": "https://dadosabertos.camara.leg.br/api/v2/votacoes/2270800-135/votos",
+     "nota": "Votou Sim nos dois turnos da PEC 3/2021 (licença do Congresso para processar parlamentares) em 16/09/2025.",
+     "fontes": [
+      "https://dadosabertos.camara.leg.br/api/v2/votacoes/2270800-135/votos",
+      "https://dadosabertos.camara.leg.br/api/v2/votacoes/2270800-160/votos"
+     ]
+    },
+    "G08": {
+     "v": 4,
+     "conf": "voto",
+     "fonte": "https://dadosabertos.camara.leg.br/api/v2/votacoes/2562149-7/votos",
+     "nota": "Votou Sim na urgência do PL 2162/2023 (anistia do 8 de janeiro) em 17/09/2025 e Sim no substitutivo que reduz as penas em 10/12/2025.",
+     "fontes": [
+      "https://dadosabertos.camara.leg.br/api/v2/votacoes/2562149-7/votos",
+      "https://dadosabertos.camara.leg.br/api/v2/votacoes/2358548-89/votos"
+     ]
+    },
+    "G14": {
+     "v": 5,
+     "conf": "voto",
+     "fonte": "https://dadosabertos.camara.leg.br/api/v2/votacoes/2233802-424/votos",
+     "nota": "Votou Sim nos dois turnos da PEC 221/2019 (40h semanais e 2 dias de folga, fim da escala 6x1) em 27/05/2026.",
+     "fontes": [
+      "https://dadosabertos.camara.leg.br/api/v2/votacoes/2233802-424/votos",
+      "https://dadosabertos.camara.leg.br/api/v2/votacoes/2233802-438/votos"
+     ]
+    }
+   },
+   "votos": {
+    "2233802-424": "Sim",
+    "2233802-438": "Sim",
+    "2270800-135": "Sim",
+    "2270800-160": "Sim",
+    "2310837-8": "Sim",
+    "2358548-89": "Sim",
+    "2439779-55": "Sim",
+    "2562149-7": "Sim",
+    "257161-454": "Sim",
+    "345311-270": "Sim"
+   }
+  },
+  "130002533244": {
+   "nomeUrna": "SÉRGIO SANTOS RODRIGUES",
+   "cargo": "Deputado Federal",
+   "partido": "PRD",
+   "idCamara": 77003,
+   "nomeCamara": "Sergio Santos Rodrigues",
+   "pareamento": "nome civil exato",
+   "posicoes": {
+    "G08": {
+     "v": 4,
+     "conf": "voto",
+     "fonte": "https://dadosabertos.camara.leg.br/api/v2/votacoes/2358548-89/votos",
+     "nota": "Votou Sim no substitutivo do PL 2162/2023 que reduz penas do 8 de janeiro em 10/12/2025."
+    }
+   },
+   "votos": {
+    "2358548-89": "Sim"
+   }
+  },
+  "130002545565": {
+   "nomeUrna": "STEFANO AGUIAR",
+   "cargo": "Deputado Federal",
+   "partido": "PSD",
+   "idCamara": 92776,
+   "nomeCamara": "Stefano Aguiar",
+   "pareamento": "nome civil exato",
+   "posicoes": {
+    "G10": {
+     "v": 2,
+     "conf": "voto",
+     "fonte": "https://dadosabertos.camara.leg.br/api/v2/votacoes/2310837-8/votos",
+     "nota": "Votou Não na urgência do PL 2630/2020 (regulação de plataformas digitais) em 25/04/2023."
+    },
+    "G11": {
+     "v": 2,
+     "conf": "voto",
+     "fonte": "https://dadosabertos.camara.leg.br/api/v2/votacoes/2439779-55/votos",
+     "nota": "Votou Não no PL 1958/2021 (cotas raciais em concursos públicos) em 19/11/2024."
+    },
+    "DF02": {
+     "v": 5,
+     "conf": "voto",
+     "fonte": "https://dadosabertos.camara.leg.br/api/v2/votacoes/2270800-135/votos",
+     "nota": "Votou Sim no 1º turno da PEC 3/2021 (licença do Congresso para processar parlamentares) em 16/09/2025; sem voto registrado no 2º turno."
+    },
+    "G08": {
+     "v": 4,
+     "conf": "voto",
+     "fonte": "https://dadosabertos.camara.leg.br/api/v2/votacoes/2562149-7/votos",
+     "nota": "Votou Sim na urgência do PL 2162/2023 (anistia do 8 de janeiro) em 17/09/2025 e Sim no substitutivo que reduz as penas em 10/12/2025.",
+     "fontes": [
+      "https://dadosabertos.camara.leg.br/api/v2/votacoes/2562149-7/votos",
+      "https://dadosabertos.camara.leg.br/api/v2/votacoes/2358548-89/votos"
+     ]
+    },
+    "G14": {
+     "v": 5,
+     "conf": "voto",
+     "fonte": "https://dadosabertos.camara.leg.br/api/v2/votacoes/2233802-424/votos",
+     "nota": "Votou Sim nos dois turnos da PEC 221/2019 (40h semanais e 2 dias de folga, fim da escala 6x1) em 27/05/2026.",
+     "fontes": [
+      "https://dadosabertos.camara.leg.br/api/v2/votacoes/2233802-424/votos",
+      "https://dadosabertos.camara.leg.br/api/v2/votacoes/2233802-438/votos"
+     ]
+    }
+   },
+   "votos": {
+    "2233802-424": "Sim",
+    "2233802-438": "Sim",
+    "2270800-135": "Sim",
+    "2310837-8": "Não",
+    "2358548-89": "Sim",
+    "2439779-55": "Não",
+    "2562149-7": "Sim",
+    "345311-270": "Abstenção"
+   }
+  },
+  "130002547929": {
+   "nomeUrna": "ULISSES GUIMARÃES",
+   "cargo": "Deputado Federal",
+   "partido": "MDB",
+   "idCamara": 223398,
+   "nomeCamara": "Ulisses Guimarães",
+   "pareamento": "nome civil exato",
+   "posicoes": {},
+   "votos": {}
+  },
+  "130002545577": {
+   "nomeUrna": "WELITON PRADO",
+   "cargo": "Deputado Federal",
+   "partido": "PSD",
+   "idCamara": 160518,
+   "nomeCamara": "Weliton Prado",
+   "pareamento": "nome civil exato",
+   "posicoes": {
+    "DF03": {
+     "v": 1,
+     "conf": "voto",
+     "fonte": "https://dadosabertos.camara.leg.br/api/v2/votacoes/345311-270/votos",
+     "nota": "Votou Não no substitutivo do PL 490/2007 (marco temporal de terras indígenas) em 30/05/2023."
+    },
+    "G10": {
+     "v": 2,
+     "conf": "voto",
+     "fonte": "https://dadosabertos.camara.leg.br/api/v2/votacoes/2310837-8/votos",
+     "nota": "Votou Não na urgência do PL 2630/2020 (regulação de plataformas digitais) em 25/04/2023."
+    },
+    "G04": {
+     "v": 2,
+     "conf": "voto",
+     "fonte": "https://dadosabertos.camara.leg.br/api/v2/votacoes/2357898-11/votos",
+     "nota": "Votou Não na urgência do PDL 3/2023 (sustar o decreto de 2023 que restringiu armas) em 06/12/2023."
+    },
+    "G11": {
+     "v": 4,
+     "conf": "voto",
+     "fonte": "https://dadosabertos.camara.leg.br/api/v2/votacoes/2439779-55/votos",
+     "nota": "Votou Sim no PL 1958/2021 (cotas raciais em concursos públicos) em 19/11/2024."
+    },
+    "DF02": {
+     "v": 1,
+     "conf": "voto",
+     "fonte": "https://dadosabertos.camara.leg.br/api/v2/votacoes/2270800-160/votos",
+     "nota": "Votou Não no 2º turno da PEC 3/2021 (licença do Congresso para processar parlamentares) em 16/09/2025; sem voto registrado no 1º turno."
+    },
+    "G08": {
+     "v": 4,
+     "conf": "voto",
+     "fonte": "https://dadosabertos.camara.leg.br/api/v2/votacoes/2562149-7/votos",
+     "nota": "Votou Sim na urgência do PL 2162/2023 (anistia do 8 de janeiro) em 17/09/2025 e Sim no substitutivo que reduz as penas em 10/12/2025.",
+     "fontes": [
+      "https://dadosabertos.camara.leg.br/api/v2/votacoes/2562149-7/votos",
+      "https://dadosabertos.camara.leg.br/api/v2/votacoes/2358548-89/votos"
+     ]
+    },
+    "G14": {
+     "v": 5,
+     "conf": "voto",
+     "fonte": "https://dadosabertos.camara.leg.br/api/v2/votacoes/2233802-424/votos",
+     "nota": "Votou Sim nos dois turnos da PEC 221/2019 (40h semanais e 2 dias de folga, fim da escala 6x1) em 27/05/2026.",
+     "fontes": [
+      "https://dadosabertos.camara.leg.br/api/v2/votacoes/2233802-424/votos",
+      "https://dadosabertos.camara.leg.br/api/v2/votacoes/2233802-438/votos"
+     ]
+    }
+   },
+   "votos": {
+    "2233802-424": "Sim",
+    "2233802-438": "Sim",
+    "2270800-160": "Não",
+    "2310837-8": "Não",
+    "2357898-11": "Não",
+    "2358548-89": "Sim",
+    "2439779-55": "Sim",
+    "2562149-7": "Sim",
+    "345311-270": "Não"
+   }
+  },
+  "130002542724": {
+   "nomeUrna": "ZÉ SILVA",
+   "cargo": "Deputado Federal",
+   "partido": "UNIÃO",
+   "idCamara": 160632,
+   "nomeCamara": "Zé Silva",
+   "pareamento": "nome civil exato",
+   "posicoes": {
+    "DF03": {
+     "v": 5,
+     "conf": "voto",
+     "fonte": "https://dadosabertos.camara.leg.br/api/v2/votacoes/345311-270/votos",
+     "nota": "Votou Sim no substitutivo do PL 490/2007 (marco temporal de terras indígenas) em 30/05/2023."
+    },
+    "G10": {
+     "v": 2,
+     "conf": "voto",
+     "fonte": "https://dadosabertos.camara.leg.br/api/v2/votacoes/2310837-8/votos",
+     "nota": "Votou Não na urgência do PL 2630/2020 (regulação de plataformas digitais) em 25/04/2023."
+    },
+    "G08": {
+     "v": 4,
+     "conf": "voto",
+     "fonte": "https://dadosabertos.camara.leg.br/api/v2/votacoes/2562149-7/votos",
+     "nota": "Votou Sim na urgência do PL 2162/2023 (anistia do 8 de janeiro) em 17/09/2025 e Sim no substitutivo que reduz as penas em 10/12/2025.",
+     "fontes": [
+      "https://dadosabertos.camara.leg.br/api/v2/votacoes/2562149-7/votos",
+      "https://dadosabertos.camara.leg.br/api/v2/votacoes/2358548-89/votos"
+     ]
+    },
+    "G14": {
+     "v": 5,
+     "conf": "voto",
+     "fonte": "https://dadosabertos.camara.leg.br/api/v2/votacoes/2233802-424/votos",
+     "nota": "Votou Sim nos dois turnos da PEC 221/2019 (40h semanais e 2 dias de folga, fim da escala 6x1) em 27/05/2026.",
+     "fontes": [
+      "https://dadosabertos.camara.leg.br/api/v2/votacoes/2233802-424/votos",
+      "https://dadosabertos.camara.leg.br/api/v2/votacoes/2233802-438/votos"
+     ]
+    }
+   },
+   "votos": {
+    "2233802-424": "Sim",
+    "2233802-438": "Sim",
+    "2310837-8": "Não",
+    "2358548-89": "Sim",
+    "2562149-7": "Sim",
+    "345311-270": "Sim"
+   }
+  },
+  "130002542031": {
+   "nomeUrna": "ZÉ VITOR",
+   "cargo": "Deputado Federal",
+   "partido": "PL",
+   "idCamara": 204517,
+   "nomeCamara": "Zé Vitor",
+   "pareamento": "nome civil exato",
+   "posicoes": {
+    "G10": {
+     "v": 2,
+     "conf": "voto",
+     "fonte": "https://dadosabertos.camara.leg.br/api/v2/votacoes/2310837-8/votos",
+     "nota": "Votou Não na urgência do PL 2630/2020 (regulação de plataformas digitais) em 25/04/2023."
+    },
+    "G04": {
+     "v": 4,
+     "conf": "voto",
+     "fonte": "https://dadosabertos.camara.leg.br/api/v2/votacoes/2357898-11/votos",
+     "nota": "Votou Sim na urgência do PDL 3/2023 (sustar o decreto de 2023 que restringiu armas) em 06/12/2023."
+    },
+    "DF04": {
+     "v": 5,
+     "conf": "voto",
+     "fonte": "https://dadosabertos.camara.leg.br/api/v2/votacoes/257161-454/votos",
+     "nota": "Votou Sim nas emendas do Senado ao PL 2159/2021 (licenciamento ambiental) em 17/07/2025."
+    },
+    "G07": {
+     "v": 2,
+     "conf": "voto",
+     "fonte": "https://dadosabertos.camara.leg.br/api/v2/votacoes/257161-454/votos",
+     "nota": "Votou Sim nas emendas do Senado ao PL 2159/2021 (licenciamento ambiental) em 17/07/2025."
+    },
+    "DF02": {
+     "v": 5,
+     "conf": "voto",
+     "fonte": "https://dadosabertos.camara.leg.br/api/v2/votacoes/2270800-135/votos",
+     "nota": "Votou Sim nos dois turnos da PEC 3/2021 (licença do Congresso para processar parlamentares) em 16/09/2025.",
+     "fontes": [
+      "https://dadosabertos.camara.leg.br/api/v2/votacoes/2270800-135/votos",
+      "https://dadosabertos.camara.leg.br/api/v2/votacoes/2270800-160/votos"
+     ]
+    },
+    "G08": {
+     "v": 4,
+     "conf": "voto",
+     "fonte": "https://dadosabertos.camara.leg.br/api/v2/votacoes/2562149-7/votos",
+     "nota": "Votou Sim na urgência do PL 2162/2023 (anistia do 8 de janeiro) em 17/09/2025 e Sim no substitutivo que reduz as penas em 10/12/2025.",
+     "fontes": [
+      "https://dadosabertos.camara.leg.br/api/v2/votacoes/2562149-7/votos",
+      "https://dadosabertos.camara.leg.br/api/v2/votacoes/2358548-89/votos"
+     ]
+    },
+    "G14": {
+     "v": 5,
+     "conf": "voto",
+     "fonte": "https://dadosabertos.camara.leg.br/api/v2/votacoes/2233802-424/votos",
+     "nota": "Votou Sim nos dois turnos da PEC 221/2019 (40h semanais e 2 dias de folga, fim da escala 6x1) em 27/05/2026.",
+     "fontes": [
+      "https://dadosabertos.camara.leg.br/api/v2/votacoes/2233802-424/votos",
+      "https://dadosabertos.camara.leg.br/api/v2/votacoes/2233802-438/votos"
+     ]
+    }
+   },
+   "votos": {
+    "2233802-424": "Sim",
+    "2233802-438": "Sim",
+    "2270800-135": "Sim",
+    "2270800-160": "Sim",
+    "2310837-8": "Não",
+    "2357898-11": "Sim",
+    "2358548-89": "Sim",
+    "2562149-7": "Sim",
+    "257161-454": "Sim"
+   }
+  }
+ },
+ "orientacoes": {
+  "AVANTE": {
+   "DF04": {
+    "v": 1,
+    "fonte": "https://dadosabertos.camara.leg.br/api/v2/votacoes/257161-454/orientacoes",
+    "nota": "Orientação Não (bloco Avante/Solidariedade/PRD) nas emendas do Senado ao PL 2159/2021 (licenciamento ambiental) em 17/07/2025."
+   },
+   "G07": {
+    "v": 4,
+    "fonte": "https://dadosabertos.camara.leg.br/api/v2/votacoes/257161-454/orientacoes",
+    "nota": "Orientação Não (bloco Avante/Solidariedade/PRD) nas emendas do Senado ao PL 2159/2021 (licenciamento ambiental) em 17/07/2025."
+   },
+   "DF02": {
+    "v": 5,
+    "fonte": "https://dadosabertos.camara.leg.br/api/v2/votacoes/2270800-135/orientacoes",
+    "nota": "Orientação Sim (bloco Avante/Solidariedade/PRD) no 1º turno da PEC 3/2021 (licença do Congresso para processar parlamentares) em 16/09/2025."
+   },
+   "G08": {
+    "v": 4,
+    "fonte": "https://dadosabertos.camara.leg.br/api/v2/votacoes/2562149-7/orientacoes",
+    "nota": "Orientação (bloco Avante/Solidariedade/PRD): Sim na urgência (17/09/2025) e Sim no substitutivo (10/12/2025) do PL 2162/2023 (anistia do 8 de janeiro).",
+    "fontes": [
+     "https://dadosabertos.camara.leg.br/api/v2/votacoes/2562149-7/orientacoes",
+     "https://dadosabertos.camara.leg.br/api/v2/votacoes/2358548-89/orientacoes"
+    ]
+   },
+   "G14": {
+    "v": 5,
+    "fonte": "https://dadosabertos.camara.leg.br/api/v2/votacoes/2233802-424/orientacoes",
+    "nota": "Orientação Sim nos dois turnos da PEC 221/2019 (40h semanais e 2 dias de folga, fim da escala 6x1) em 27/05/2026.",
+    "fontes": [
+     "https://dadosabertos.camara.leg.br/api/v2/votacoes/2233802-424/orientacoes",
+     "https://dadosabertos.camara.leg.br/api/v2/votacoes/2233802-438/orientacoes"
+    ]
+   }
+  },
+  "CIDADANIA": {
+   "DF03": {
+    "v": 5,
+    "fonte": "https://dadosabertos.camara.leg.br/api/v2/votacoes/345311-270/orientacoes",
+    "nota": "Orientação Sim (bloco União/PP/PSDB-Cidadania) no substitutivo do PL 490/2007 (marco temporal de terras indígenas) em 30/05/2023."
+   },
+   "G10": {
+    "v": 4,
+    "fonte": "https://dadosabertos.camara.leg.br/api/v2/votacoes/2310837-8/orientacoes",
+    "nota": "Orientação Sim (bloco União/PP/PSDB-Cidadania) na urgência do PL 2630/2020 (regulação de plataformas digitais) em 25/04/2023."
+   },
+   "G11": {
+    "v": 4,
+    "fonte": "https://dadosabertos.camara.leg.br/api/v2/votacoes/2439779-55/orientacoes",
+    "nota": "Orientação Sim (bloco União/PP/PSDB-Cidadania) no PL 1958/2021 (cotas raciais em concursos públicos) em 19/11/2024."
+   }
+  },
+  "MDB": {
+   "G10": {
+    "v": 4,
+    "fonte": "https://dadosabertos.camara.leg.br/api/v2/votacoes/2310837-8/orientacoes",
+    "nota": "Orientação Sim (bloco MDB/PSD/Republicanos/Podemos/PSC) na urgência do PL 2630/2020 (regulação de plataformas digitais) em 25/04/2023."
+   },
+   "G11": {
+    "v": 4,
+    "fonte": "https://dadosabertos.camara.leg.br/api/v2/votacoes/2439779-55/orientacoes",
+    "nota": "Orientação Sim (bloco MDB/PSD/Republicanos/Podemos) no PL 1958/2021 (cotas raciais em concursos públicos) em 19/11/2024."
+   }
+  },
+  "MISSÃO": {
+   "G14": {
+    "v": 1,
+    "fonte": "https://dadosabertos.camara.leg.br/api/v2/votacoes/2233802-424/orientacoes",
+    "nota": "Orientação Não no 1º turno da PEC 221/2019 (40h semanais e 2 dias de folga, fim da escala 6x1) em 27/05/2026."
+   }
+  },
+  "NOVO": {
+   "DF03": {
+    "v": 5,
+    "fonte": "https://dadosabertos.camara.leg.br/api/v2/votacoes/345311-270/orientacoes",
+    "nota": "Orientação Sim no substitutivo do PL 490/2007 (marco temporal de terras indígenas) em 30/05/2023."
+   },
+   "G10": {
+    "v": 2,
+    "fonte": "https://dadosabertos.camara.leg.br/api/v2/votacoes/2310837-8/orientacoes",
+    "nota": "Orientação Não na urgência do PL 2630/2020 (regulação de plataformas digitais) em 25/04/2023."
+   },
+   "G04": {
+    "v": 4,
+    "fonte": "https://dadosabertos.camara.leg.br/api/v2/votacoes/2357898-11/orientacoes",
+    "nota": "Orientação Sim na urgência do PDL 3/2023 (sustar o decreto de 2023 que restringiu armas) em 06/12/2023."
+   },
+   "G11": {
+    "v": 2,
+    "fonte": "https://dadosabertos.camara.leg.br/api/v2/votacoes/2439779-55/orientacoes",
+    "nota": "Orientação Não no PL 1958/2021 (cotas raciais em concursos públicos) em 19/11/2024."
+   },
+   "DF04": {
+    "v": 5,
+    "fonte": "https://dadosabertos.camara.leg.br/api/v2/votacoes/257161-454/orientacoes",
+    "nota": "Orientação Sim nas emendas do Senado ao PL 2159/2021 (licenciamento ambiental) em 17/07/2025."
+   },
+   "G07": {
+    "v": 2,
+    "fonte": "https://dadosabertos.camara.leg.br/api/v2/votacoes/257161-454/orientacoes",
+    "nota": "Orientação Sim nas emendas do Senado ao PL 2159/2021 (licenciamento ambiental) em 17/07/2025."
+   },
+   "DF02": {
+    "v": 1,
+    "fonte": "https://dadosabertos.camara.leg.br/api/v2/votacoes/2270800-135/orientacoes",
+    "nota": "Orientação Não nos dois turnos da PEC 3/2021 (licença do Congresso para processar parlamentares) em 16/09/2025.",
+    "fontes": [
+     "https://dadosabertos.camara.leg.br/api/v2/votacoes/2270800-135/orientacoes",
+     "https://dadosabertos.camara.leg.br/api/v2/votacoes/2270800-160/orientacoes"
+    ]
+   },
+   "G08": {
+    "v": 4,
+    "fonte": "https://dadosabertos.camara.leg.br/api/v2/votacoes/2562149-7/orientacoes",
+    "nota": "Orientação: Sim na urgência (17/09/2025) e Sim no substitutivo (10/12/2025) do PL 2162/2023 (anistia do 8 de janeiro).",
+    "fontes": [
+     "https://dadosabertos.camara.leg.br/api/v2/votacoes/2562149-7/orientacoes",
+     "https://dadosabertos.camara.leg.br/api/v2/votacoes/2358548-89/orientacoes"
+    ]
+   },
+   "G14": {
+    "v": 1,
+    "fonte": "https://dadosabertos.camara.leg.br/api/v2/votacoes/2233802-424/orientacoes",
+    "nota": "Orientação Não nos dois turnos da PEC 221/2019 (40h semanais e 2 dias de folga, fim da escala 6x1) em 27/05/2026.",
+    "fontes": [
+     "https://dadosabertos.camara.leg.br/api/v2/votacoes/2233802-424/orientacoes",
+     "https://dadosabertos.camara.leg.br/api/v2/votacoes/2233802-438/orientacoes"
+    ]
+   }
+  },
+  "PCDOB": {
+   "DF03": {
+    "v": 1,
+    "fonte": "https://dadosabertos.camara.leg.br/api/v2/votacoes/345311-270/orientacoes",
+    "nota": "Orientação Não (federação PT-PCdoB-PV) no substitutivo do PL 490/2007 (marco temporal de terras indígenas) em 30/05/2023."
+   },
+   "G10": {
+    "v": 4,
+    "fonte": "https://dadosabertos.camara.leg.br/api/v2/votacoes/2310837-8/orientacoes",
+    "nota": "Orientação Sim (federação PT-PCdoB-PV) na urgência do PL 2630/2020 (regulação de plataformas digitais) em 25/04/2023."
+   },
+   "G04": {
+    "v": 2,
+    "fonte": "https://dadosabertos.camara.leg.br/api/v2/votacoes/2357898-11/orientacoes",
+    "nota": "Orientação Não (federação PT-PCdoB-PV) na urgência do PDL 3/2023 (sustar o decreto de 2023 que restringiu armas) em 06/12/2023."
+   },
+   "G11": {
+    "v": 4,
+    "fonte": "https://dadosabertos.camara.leg.br/api/v2/votacoes/2439779-55/orientacoes",
+    "nota": "Orientação Sim (federação PT-PCdoB-PV) no PL 1958/2021 (cotas raciais em concursos públicos) em 19/11/2024."
+   },
+   "DF02": {
+    "v": 1,
+    "fonte": "https://dadosabertos.camara.leg.br/api/v2/votacoes/2270800-135/orientacoes",
+    "nota": "Orientação Não (federação PT-PCdoB-PV) nos dois turnos da PEC 3/2021 (licença do Congresso para processar parlamentares) em 16/09/2025.",
+    "fontes": [
+     "https://dadosabertos.camara.leg.br/api/v2/votacoes/2270800-135/orientacoes",
+     "https://dadosabertos.camara.leg.br/api/v2/votacoes/2270800-160/orientacoes"
+    ]
+   },
+   "G08": {
+    "v": 2,
+    "fonte": "https://dadosabertos.camara.leg.br/api/v2/votacoes/2562149-7/orientacoes",
+    "nota": "Orientação (federação PT-PCdoB-PV): Não na urgência (17/09/2025) e Não no substitutivo (10/12/2025) do PL 2162/2023 (anistia do 8 de janeiro).",
+    "fontes": [
+     "https://dadosabertos.camara.leg.br/api/v2/votacoes/2562149-7/orientacoes",
+     "https://dadosabertos.camara.leg.br/api/v2/votacoes/2358548-89/orientacoes"
+    ]
+   },
+   "G14": {
+    "v": 5,
+    "fonte": "https://dadosabertos.camara.leg.br/api/v2/votacoes/2233802-424/orientacoes",
+    "nota": "Orientação Sim (federação PT-PCdoB-PV) nos dois turnos da PEC 221/2019 (40h semanais e 2 dias de folga, fim da escala 6x1) em 27/05/2026.",
+    "fontes": [
+     "https://dadosabertos.camara.leg.br/api/v2/votacoes/2233802-424/orientacoes",
+     "https://dadosabertos.camara.leg.br/api/v2/votacoes/2233802-438/orientacoes"
+    ]
+   }
+  },
+  "PDT": {
+   "G08": {
+    "v": 2,
+    "fonte": "https://dadosabertos.camara.leg.br/api/v2/votacoes/2562149-7/orientacoes",
+    "nota": "Orientação: Não na urgência (17/09/2025) e Não no substitutivo (10/12/2025) do PL 2162/2023 (anistia do 8 de janeiro).",
+    "fontes": [
+     "https://dadosabertos.camara.leg.br/api/v2/votacoes/2562149-7/orientacoes",
+     "https://dadosabertos.camara.leg.br/api/v2/votacoes/2358548-89/orientacoes"
+    ]
+   },
+   "G14": {
+    "v": 5,
+    "fonte": "https://dadosabertos.camara.leg.br/api/v2/votacoes/2233802-424/orientacoes",
+    "nota": "Orientação Sim nos dois turnos da PEC 221/2019 (40h semanais e 2 dias de folga, fim da escala 6x1) em 27/05/2026.",
+    "fontes": [
+     "https://dadosabertos.camara.leg.br/api/v2/votacoes/2233802-424/orientacoes",
+     "https://dadosabertos.camara.leg.br/api/v2/votacoes/2233802-438/orientacoes"
+    ]
+   }
+  },
+  "PL": {
+   "DF03": {
+    "v": 5,
+    "fonte": "https://dadosabertos.camara.leg.br/api/v2/votacoes/345311-270/orientacoes",
+    "nota": "Orientação Sim no substitutivo do PL 490/2007 (marco temporal de terras indígenas) em 30/05/2023."
+   },
+   "G10": {
+    "v": 2,
+    "fonte": "https://dadosabertos.camara.leg.br/api/v2/votacoes/2310837-8/orientacoes",
+    "nota": "Orientação Não na urgência do PL 2630/2020 (regulação de plataformas digitais) em 25/04/2023."
+   },
+   "G04": {
+    "v": 4,
+    "fonte": "https://dadosabertos.camara.leg.br/api/v2/votacoes/2357898-11/orientacoes",
+    "nota": "Orientação Sim na urgência do PDL 3/2023 (sustar o decreto de 2023 que restringiu armas) em 06/12/2023."
+   },
+   "G11": {
+    "v": 2,
+    "fonte": "https://dadosabertos.camara.leg.br/api/v2/votacoes/2439779-55/orientacoes",
+    "nota": "Orientação Não no PL 1958/2021 (cotas raciais em concursos públicos) em 19/11/2024."
+   },
+   "DF02": {
+    "v": 5,
+    "fonte": "https://dadosabertos.camara.leg.br/api/v2/votacoes/2270800-135/orientacoes",
+    "nota": "Orientação Sim (bloco PL/União/PP/PSD) nos dois turnos da PEC 3/2021 (licença do Congresso para processar parlamentares) em 16/09/2025.",
+    "fontes": [
+     "https://dadosabertos.camara.leg.br/api/v2/votacoes/2270800-135/orientacoes",
+     "https://dadosabertos.camara.leg.br/api/v2/votacoes/2270800-160/orientacoes"
+    ]
+   },
+   "G08": {
+    "v": 4,
+    "fonte": "https://dadosabertos.camara.leg.br/api/v2/votacoes/2358548-89/orientacoes",
+    "nota": "Orientação Sim no substitutivo do PL 2162/2023 que reduz penas do 8 de janeiro em 10/12/2025."
+   },
+   "G14": {
+    "v": 5,
+    "fonte": "https://dadosabertos.camara.leg.br/api/v2/votacoes/2233802-424/orientacoes",
+    "nota": "Orientação Sim nos dois turnos da PEC 221/2019 (40h semanais e 2 dias de folga, fim da escala 6x1) em 27/05/2026.",
+    "fontes": [
+     "https://dadosabertos.camara.leg.br/api/v2/votacoes/2233802-424/orientacoes",
+     "https://dadosabertos.camara.leg.br/api/v2/votacoes/2233802-438/orientacoes"
+    ]
+   }
+  },
+  "PODE": {
+   "G10": {
+    "v": 4,
+    "fonte": "https://dadosabertos.camara.leg.br/api/v2/votacoes/2310837-8/orientacoes",
+    "nota": "Orientação Sim (bloco MDB/PSD/Republicanos/Podemos/PSC) na urgência do PL 2630/2020 (regulação de plataformas digitais) em 25/04/2023."
+   },
+   "G11": {
+    "v": 4,
+    "fonte": "https://dadosabertos.camara.leg.br/api/v2/votacoes/2439779-55/orientacoes",
+    "nota": "Orientação Sim (bloco MDB/PSD/Republicanos/Podemos) no PL 1958/2021 (cotas raciais em concursos públicos) em 19/11/2024."
+   }
+  },
+  "PP": {
+   "DF03": {
+    "v": 5,
+    "fonte": "https://dadosabertos.camara.leg.br/api/v2/votacoes/345311-270/orientacoes",
+    "nota": "Orientação Sim (bloco União/PP/PSDB-Cidadania) no substitutivo do PL 490/2007 (marco temporal de terras indígenas) em 30/05/2023."
+   },
+   "G10": {
+    "v": 4,
+    "fonte": "https://dadosabertos.camara.leg.br/api/v2/votacoes/2310837-8/orientacoes",
+    "nota": "Orientação Sim (bloco União/PP/PSDB-Cidadania) na urgência do PL 2630/2020 (regulação de plataformas digitais) em 25/04/2023."
+   },
+   "G11": {
+    "v": 4,
+    "fonte": "https://dadosabertos.camara.leg.br/api/v2/votacoes/2439779-55/orientacoes",
+    "nota": "Orientação Sim (bloco União/PP/PSDB-Cidadania) no PL 1958/2021 (cotas raciais em concursos públicos) em 19/11/2024."
+   },
+   "DF02": {
+    "v": 5,
+    "fonte": "https://dadosabertos.camara.leg.br/api/v2/votacoes/2270800-135/orientacoes",
+    "nota": "Orientação Sim (bloco PL/União/PP/PSD) nos dois turnos da PEC 3/2021 (licença do Congresso para processar parlamentares) em 16/09/2025.",
+    "fontes": [
+     "https://dadosabertos.camara.leg.br/api/v2/votacoes/2270800-135/orientacoes",
+     "https://dadosabertos.camara.leg.br/api/v2/votacoes/2270800-160/orientacoes"
+    ]
+   },
+   "G08": {
+    "v": 4,
+    "fonte": "https://dadosabertos.camara.leg.br/api/v2/votacoes/2358548-89/orientacoes",
+    "nota": "Orientação Sim (bloco União/PP/PSD) no substitutivo do PL 2162/2023 que reduz penas do 8 de janeiro em 10/12/2025."
+   },
+   "G14": {
+    "v": 5,
+    "fonte": "https://dadosabertos.camara.leg.br/api/v2/votacoes/2233802-424/orientacoes",
+    "nota": "Orientação Sim (bloco União/PP/PSD) nos dois turnos da PEC 221/2019 (40h semanais e 2 dias de folga, fim da escala 6x1) em 27/05/2026.",
+    "fontes": [
+     "https://dadosabertos.camara.leg.br/api/v2/votacoes/2233802-424/orientacoes",
+     "https://dadosabertos.camara.leg.br/api/v2/votacoes/2233802-438/orientacoes"
+    ]
+   }
+  },
+  "PRD": {
+   "DF04": {
+    "v": 1,
+    "fonte": "https://dadosabertos.camara.leg.br/api/v2/votacoes/257161-454/orientacoes",
+    "nota": "Orientação Não (bloco Avante/Solidariedade/PRD) nas emendas do Senado ao PL 2159/2021 (licenciamento ambiental) em 17/07/2025."
+   },
+   "G07": {
+    "v": 4,
+    "fonte": "https://dadosabertos.camara.leg.br/api/v2/votacoes/257161-454/orientacoes",
+    "nota": "Orientação Não (bloco Avante/Solidariedade/PRD) nas emendas do Senado ao PL 2159/2021 (licenciamento ambiental) em 17/07/2025."
+   },
+   "DF02": {
+    "v": 5,
+    "fonte": "https://dadosabertos.camara.leg.br/api/v2/votacoes/2270800-135/orientacoes",
+    "nota": "Orientação Sim (bloco Avante/Solidariedade/PRD) no 1º turno da PEC 3/2021 (licença do Congresso para processar parlamentares) em 16/09/2025."
+   },
+   "G08": {
+    "v": 4,
+    "fonte": "https://dadosabertos.camara.leg.br/api/v2/votacoes/2562149-7/orientacoes",
+    "nota": "Orientação (bloco Avante/Solidariedade/PRD): Sim na urgência (17/09/2025) e Sim no substitutivo (10/12/2025) do PL 2162/2023 (anistia do 8 de janeiro).",
+    "fontes": [
+     "https://dadosabertos.camara.leg.br/api/v2/votacoes/2562149-7/orientacoes",
+     "https://dadosabertos.camara.leg.br/api/v2/votacoes/2358548-89/orientacoes"
+    ]
+   }
+  },
+  "PSB": {
+   "G08": {
+    "v": 2,
+    "fonte": "https://dadosabertos.camara.leg.br/api/v2/votacoes/2562149-7/orientacoes",
+    "nota": "Orientação: Não na urgência (17/09/2025) e Não no substitutivo (10/12/2025) do PL 2162/2023 (anistia do 8 de janeiro).",
+    "fontes": [
+     "https://dadosabertos.camara.leg.br/api/v2/votacoes/2562149-7/orientacoes",
+     "https://dadosabertos.camara.leg.br/api/v2/votacoes/2358548-89/orientacoes"
+    ]
+   },
+   "G14": {
+    "v": 5,
+    "fonte": "https://dadosabertos.camara.leg.br/api/v2/votacoes/2233802-424/orientacoes",
+    "nota": "Orientação Sim nos dois turnos da PEC 221/2019 (40h semanais e 2 dias de folga, fim da escala 6x1) em 27/05/2026.",
+    "fontes": [
+     "https://dadosabertos.camara.leg.br/api/v2/votacoes/2233802-424/orientacoes",
+     "https://dadosabertos.camara.leg.br/api/v2/votacoes/2233802-438/orientacoes"
+    ]
+   }
+  },
+  "PSC": {
+   "G10": {
+    "v": 4,
+    "fonte": "https://dadosabertos.camara.leg.br/api/v2/votacoes/2310837-8/orientacoes",
+    "nota": "Orientação Sim (bloco MDB/PSD/Republicanos/Podemos/PSC) na urgência do PL 2630/2020 (regulação de plataformas digitais) em 25/04/2023."
+   }
+  },
+  "PSD": {
+   "G10": {
+    "v": 4,
+    "fonte": "https://dadosabertos.camara.leg.br/api/v2/votacoes/2310837-8/orientacoes",
+    "nota": "Orientação Sim (bloco MDB/PSD/Republicanos/Podemos/PSC) na urgência do PL 2630/2020 (regulação de plataformas digitais) em 25/04/2023."
+   },
+   "G11": {
+    "v": 4,
+    "fonte": "https://dadosabertos.camara.leg.br/api/v2/votacoes/2439779-55/orientacoes",
+    "nota": "Orientação Sim (bloco MDB/PSD/Republicanos/Podemos) no PL 1958/2021 (cotas raciais em concursos públicos) em 19/11/2024."
+   },
+   "DF02": {
+    "v": 5,
+    "fonte": "https://dadosabertos.camara.leg.br/api/v2/votacoes/2270800-135/orientacoes",
+    "nota": "Orientação Sim (bloco PL/União/PP/PSD) nos dois turnos da PEC 3/2021 (licença do Congresso para processar parlamentares) em 16/09/2025.",
+    "fontes": [
+     "https://dadosabertos.camara.leg.br/api/v2/votacoes/2270800-135/orientacoes",
+     "https://dadosabertos.camara.leg.br/api/v2/votacoes/2270800-160/orientacoes"
+    ]
+   },
+   "G08": {
+    "v": 4,
+    "fonte": "https://dadosabertos.camara.leg.br/api/v2/votacoes/2358548-89/orientacoes",
+    "nota": "Orientação Sim (bloco União/PP/PSD) no substitutivo do PL 2162/2023 que reduz penas do 8 de janeiro em 10/12/2025."
+   },
+   "G14": {
+    "v": 5,
+    "fonte": "https://dadosabertos.camara.leg.br/api/v2/votacoes/2233802-424/orientacoes",
+    "nota": "Orientação Sim (bloco União/PP/PSD) nos dois turnos da PEC 221/2019 (40h semanais e 2 dias de folga, fim da escala 6x1) em 27/05/2026.",
+    "fontes": [
+     "https://dadosabertos.camara.leg.br/api/v2/votacoes/2233802-424/orientacoes",
+     "https://dadosabertos.camara.leg.br/api/v2/votacoes/2233802-438/orientacoes"
+    ]
+   }
+  },
+  "PSDB": {
+   "DF03": {
+    "v": 5,
+    "fonte": "https://dadosabertos.camara.leg.br/api/v2/votacoes/345311-270/orientacoes",
+    "nota": "Orientação Sim (bloco União/PP/PSDB-Cidadania) no substitutivo do PL 490/2007 (marco temporal de terras indígenas) em 30/05/2023."
+   },
+   "G10": {
+    "v": 4,
+    "fonte": "https://dadosabertos.camara.leg.br/api/v2/votacoes/2310837-8/orientacoes",
+    "nota": "Orientação Sim (bloco União/PP/PSDB-Cidadania) na urgência do PL 2630/2020 (regulação de plataformas digitais) em 25/04/2023."
+   },
+   "G11": {
+    "v": 4,
+    "fonte": "https://dadosabertos.camara.leg.br/api/v2/votacoes/2439779-55/orientacoes",
+    "nota": "Orientação Sim (bloco União/PP/PSDB-Cidadania) no PL 1958/2021 (cotas raciais em concursos públicos) em 19/11/2024."
+   }
+  },
+  "PSOL": {
+   "DF03": {
+    "v": 1,
+    "fonte": "https://dadosabertos.camara.leg.br/api/v2/votacoes/345311-270/orientacoes",
+    "nota": "Orientação Não (federação PSOL-Rede) no substitutivo do PL 490/2007 (marco temporal de terras indígenas) em 30/05/2023."
+   },
+   "G10": {
+    "v": 4,
+    "fonte": "https://dadosabertos.camara.leg.br/api/v2/votacoes/2310837-8/orientacoes",
+    "nota": "Orientação Sim (federação PSOL-Rede) na urgência do PL 2630/2020 (regulação de plataformas digitais) em 25/04/2023."
+   },
+   "G04": {
+    "v": 2,
+    "fonte": "https://dadosabertos.camara.leg.br/api/v2/votacoes/2357898-11/orientacoes",
+    "nota": "Orientação Não (federação PSOL-Rede) na urgência do PDL 3/2023 (sustar o decreto de 2023 que restringiu armas) em 06/12/2023."
+   },
+   "G11": {
+    "v": 4,
+    "fonte": "https://dadosabertos.camara.leg.br/api/v2/votacoes/2439779-55/orientacoes",
+    "nota": "Orientação Sim (federação PSOL-Rede) no PL 1958/2021 (cotas raciais em concursos públicos) em 19/11/2024."
+   },
+   "DF04": {
+    "v": 1,
+    "fonte": "https://dadosabertos.camara.leg.br/api/v2/votacoes/257161-454/orientacoes",
+    "nota": "Orientação Não (federação PSOL-Rede) nas emendas do Senado ao PL 2159/2021 (licenciamento ambiental) em 17/07/2025."
+   },
+   "G07": {
+    "v": 4,
+    "fonte": "https://dadosabertos.camara.leg.br/api/v2/votacoes/257161-454/orientacoes",
+    "nota": "Orientação Não (federação PSOL-Rede) nas emendas do Senado ao PL 2159/2021 (licenciamento ambiental) em 17/07/2025."
+   },
+   "DF02": {
+    "v": 1,
+    "fonte": "https://dadosabertos.camara.leg.br/api/v2/votacoes/2270800-135/orientacoes",
+    "nota": "Orientação Não (federação PSOL-Rede) nos dois turnos da PEC 3/2021 (licença do Congresso para processar parlamentares) em 16/09/2025.",
+    "fontes": [
+     "https://dadosabertos.camara.leg.br/api/v2/votacoes/2270800-135/orientacoes",
+     "https://dadosabertos.camara.leg.br/api/v2/votacoes/2270800-160/orientacoes"
+    ]
+   },
+   "G08": {
+    "v": 2,
+    "fonte": "https://dadosabertos.camara.leg.br/api/v2/votacoes/2562149-7/orientacoes",
+    "nota": "Orientação (federação PSOL-Rede): Não na urgência (17/09/2025) e Não no substitutivo (10/12/2025) do PL 2162/2023 (anistia do 8 de janeiro).",
+    "fontes": [
+     "https://dadosabertos.camara.leg.br/api/v2/votacoes/2562149-7/orientacoes",
+     "https://dadosabertos.camara.leg.br/api/v2/votacoes/2358548-89/orientacoes"
+    ]
+   },
+   "G14": {
+    "v": 5,
+    "fonte": "https://dadosabertos.camara.leg.br/api/v2/votacoes/2233802-424/orientacoes",
+    "nota": "Orientação Sim (federação PSOL-Rede) nos dois turnos da PEC 221/2019 (40h semanais e 2 dias de folga, fim da escala 6x1) em 27/05/2026.",
+    "fontes": [
+     "https://dadosabertos.camara.leg.br/api/v2/votacoes/2233802-424/orientacoes",
+     "https://dadosabertos.camara.leg.br/api/v2/votacoes/2233802-438/orientacoes"
+    ]
+   }
+  },
+  "PT": {
+   "DF03": {
+    "v": 1,
+    "fonte": "https://dadosabertos.camara.leg.br/api/v2/votacoes/345311-270/orientacoes",
+    "nota": "Orientação Não (federação PT-PCdoB-PV) no substitutivo do PL 490/2007 (marco temporal de terras indígenas) em 30/05/2023."
+   },
+   "G10": {
+    "v": 4,
+    "fonte": "https://dadosabertos.camara.leg.br/api/v2/votacoes/2310837-8/orientacoes",
+    "nota": "Orientação Sim (federação PT-PCdoB-PV) na urgência do PL 2630/2020 (regulação de plataformas digitais) em 25/04/2023."
+   },
+   "G04": {
+    "v": 2,
+    "fonte": "https://dadosabertos.camara.leg.br/api/v2/votacoes/2357898-11/orientacoes",
+    "nota": "Orientação Não (federação PT-PCdoB-PV) na urgência do PDL 3/2023 (sustar o decreto de 2023 que restringiu armas) em 06/12/2023."
+   },
+   "G11": {
+    "v": 4,
+    "fonte": "https://dadosabertos.camara.leg.br/api/v2/votacoes/2439779-55/orientacoes",
+    "nota": "Orientação Sim (federação PT-PCdoB-PV) no PL 1958/2021 (cotas raciais em concursos públicos) em 19/11/2024."
+   },
+   "DF02": {
+    "v": 1,
+    "fonte": "https://dadosabertos.camara.leg.br/api/v2/votacoes/2270800-135/orientacoes",
+    "nota": "Orientação Não (federação PT-PCdoB-PV) nos dois turnos da PEC 3/2021 (licença do Congresso para processar parlamentares) em 16/09/2025.",
+    "fontes": [
+     "https://dadosabertos.camara.leg.br/api/v2/votacoes/2270800-135/orientacoes",
+     "https://dadosabertos.camara.leg.br/api/v2/votacoes/2270800-160/orientacoes"
+    ]
+   },
+   "G08": {
+    "v": 2,
+    "fonte": "https://dadosabertos.camara.leg.br/api/v2/votacoes/2562149-7/orientacoes",
+    "nota": "Orientação (federação PT-PCdoB-PV): Não na urgência (17/09/2025) e Não no substitutivo (10/12/2025) do PL 2162/2023 (anistia do 8 de janeiro).",
+    "fontes": [
+     "https://dadosabertos.camara.leg.br/api/v2/votacoes/2562149-7/orientacoes",
+     "https://dadosabertos.camara.leg.br/api/v2/votacoes/2358548-89/orientacoes"
+    ]
+   },
+   "G14": {
+    "v": 5,
+    "fonte": "https://dadosabertos.camara.leg.br/api/v2/votacoes/2233802-424/orientacoes",
+    "nota": "Orientação Sim (federação PT-PCdoB-PV) nos dois turnos da PEC 221/2019 (40h semanais e 2 dias de folga, fim da escala 6x1) em 27/05/2026.",
+    "fontes": [
+     "https://dadosabertos.camara.leg.br/api/v2/votacoes/2233802-424/orientacoes",
+     "https://dadosabertos.camara.leg.br/api/v2/votacoes/2233802-438/orientacoes"
+    ]
+   }
+  },
+  "PV": {
+   "DF03": {
+    "v": 1,
+    "fonte": "https://dadosabertos.camara.leg.br/api/v2/votacoes/345311-270/orientacoes",
+    "nota": "Orientação Não (federação PT-PCdoB-PV) no substitutivo do PL 490/2007 (marco temporal de terras indígenas) em 30/05/2023."
+   },
+   "G10": {
+    "v": 4,
+    "fonte": "https://dadosabertos.camara.leg.br/api/v2/votacoes/2310837-8/orientacoes",
+    "nota": "Orientação Sim (federação PT-PCdoB-PV) na urgência do PL 2630/2020 (regulação de plataformas digitais) em 25/04/2023."
+   },
+   "G04": {
+    "v": 2,
+    "fonte": "https://dadosabertos.camara.leg.br/api/v2/votacoes/2357898-11/orientacoes",
+    "nota": "Orientação Não (federação PT-PCdoB-PV) na urgência do PDL 3/2023 (sustar o decreto de 2023 que restringiu armas) em 06/12/2023."
+   },
+   "G11": {
+    "v": 4,
+    "fonte": "https://dadosabertos.camara.leg.br/api/v2/votacoes/2439779-55/orientacoes",
+    "nota": "Orientação Sim (federação PT-PCdoB-PV) no PL 1958/2021 (cotas raciais em concursos públicos) em 19/11/2024."
+   },
+   "DF02": {
+    "v": 1,
+    "fonte": "https://dadosabertos.camara.leg.br/api/v2/votacoes/2270800-135/orientacoes",
+    "nota": "Orientação Não (federação PT-PCdoB-PV) nos dois turnos da PEC 3/2021 (licença do Congresso para processar parlamentares) em 16/09/2025.",
+    "fontes": [
+     "https://dadosabertos.camara.leg.br/api/v2/votacoes/2270800-135/orientacoes",
+     "https://dadosabertos.camara.leg.br/api/v2/votacoes/2270800-160/orientacoes"
+    ]
+   },
+   "G08": {
+    "v": 2,
+    "fonte": "https://dadosabertos.camara.leg.br/api/v2/votacoes/2562149-7/orientacoes",
+    "nota": "Orientação (federação PT-PCdoB-PV): Não na urgência (17/09/2025) e Não no substitutivo (10/12/2025) do PL 2162/2023 (anistia do 8 de janeiro).",
+    "fontes": [
+     "https://dadosabertos.camara.leg.br/api/v2/votacoes/2562149-7/orientacoes",
+     "https://dadosabertos.camara.leg.br/api/v2/votacoes/2358548-89/orientacoes"
+    ]
+   },
+   "G14": {
+    "v": 5,
+    "fonte": "https://dadosabertos.camara.leg.br/api/v2/votacoes/2233802-424/orientacoes",
+    "nota": "Orientação Sim (federação PT-PCdoB-PV) nos dois turnos da PEC 221/2019 (40h semanais e 2 dias de folga, fim da escala 6x1) em 27/05/2026.",
+    "fontes": [
+     "https://dadosabertos.camara.leg.br/api/v2/votacoes/2233802-424/orientacoes",
+     "https://dadosabertos.camara.leg.br/api/v2/votacoes/2233802-438/orientacoes"
+    ]
+   }
+  },
+  "REDE": {
+   "DF03": {
+    "v": 1,
+    "fonte": "https://dadosabertos.camara.leg.br/api/v2/votacoes/345311-270/orientacoes",
+    "nota": "Orientação Não (federação PSOL-Rede) no substitutivo do PL 490/2007 (marco temporal de terras indígenas) em 30/05/2023."
+   },
+   "G10": {
+    "v": 4,
+    "fonte": "https://dadosabertos.camara.leg.br/api/v2/votacoes/2310837-8/orientacoes",
+    "nota": "Orientação Sim (federação PSOL-Rede) na urgência do PL 2630/2020 (regulação de plataformas digitais) em 25/04/2023."
+   },
+   "G04": {
+    "v": 2,
+    "fonte": "https://dadosabertos.camara.leg.br/api/v2/votacoes/2357898-11/orientacoes",
+    "nota": "Orientação Não (federação PSOL-Rede) na urgência do PDL 3/2023 (sustar o decreto de 2023 que restringiu armas) em 06/12/2023."
+   },
+   "G11": {
+    "v": 4,
+    "fonte": "https://dadosabertos.camara.leg.br/api/v2/votacoes/2439779-55/orientacoes",
+    "nota": "Orientação Sim (federação PSOL-Rede) no PL 1958/2021 (cotas raciais em concursos públicos) em 19/11/2024."
+   },
+   "DF04": {
+    "v": 1,
+    "fonte": "https://dadosabertos.camara.leg.br/api/v2/votacoes/257161-454/orientacoes",
+    "nota": "Orientação Não (federação PSOL-Rede) nas emendas do Senado ao PL 2159/2021 (licenciamento ambiental) em 17/07/2025."
+   },
+   "G07": {
+    "v": 4,
+    "fonte": "https://dadosabertos.camara.leg.br/api/v2/votacoes/257161-454/orientacoes",
+    "nota": "Orientação Não (federação PSOL-Rede) nas emendas do Senado ao PL 2159/2021 (licenciamento ambiental) em 17/07/2025."
+   },
+   "DF02": {
+    "v": 1,
+    "fonte": "https://dadosabertos.camara.leg.br/api/v2/votacoes/2270800-135/orientacoes",
+    "nota": "Orientação Não (federação PSOL-Rede) nos dois turnos da PEC 3/2021 (licença do Congresso para processar parlamentares) em 16/09/2025.",
+    "fontes": [
+     "https://dadosabertos.camara.leg.br/api/v2/votacoes/2270800-135/orientacoes",
+     "https://dadosabertos.camara.leg.br/api/v2/votacoes/2270800-160/orientacoes"
+    ]
+   },
+   "G08": {
+    "v": 2,
+    "fonte": "https://dadosabertos.camara.leg.br/api/v2/votacoes/2562149-7/orientacoes",
+    "nota": "Orientação (federação PSOL-Rede): Não na urgência (17/09/2025) e Não no substitutivo (10/12/2025) do PL 2162/2023 (anistia do 8 de janeiro).",
+    "fontes": [
+     "https://dadosabertos.camara.leg.br/api/v2/votacoes/2562149-7/orientacoes",
+     "https://dadosabertos.camara.leg.br/api/v2/votacoes/2358548-89/orientacoes"
+    ]
+   },
+   "G14": {
+    "v": 5,
+    "fonte": "https://dadosabertos.camara.leg.br/api/v2/votacoes/2233802-424/orientacoes",
+    "nota": "Orientação Sim (federação PSOL-Rede) nos dois turnos da PEC 221/2019 (40h semanais e 2 dias de folga, fim da escala 6x1) em 27/05/2026.",
+    "fontes": [
+     "https://dadosabertos.camara.leg.br/api/v2/votacoes/2233802-424/orientacoes",
+     "https://dadosabertos.camara.leg.br/api/v2/votacoes/2233802-438/orientacoes"
+    ]
+   }
+  },
+  "REPUBLICANOS": {
+   "G10": {
+    "v": 4,
+    "fonte": "https://dadosabertos.camara.leg.br/api/v2/votacoes/2310837-8/orientacoes",
+    "nota": "Orientação Sim (bloco MDB/PSD/Republicanos/Podemos/PSC) na urgência do PL 2630/2020 (regulação de plataformas digitais) em 25/04/2023."
+   },
+   "G11": {
+    "v": 4,
+    "fonte": "https://dadosabertos.camara.leg.br/api/v2/votacoes/2439779-55/orientacoes",
+    "nota": "Orientação Sim (bloco MDB/PSD/Republicanos/Podemos) no PL 1958/2021 (cotas raciais em concursos públicos) em 19/11/2024."
+   }
+  },
+  "SOLIDARIEDADE": {
+   "DF04": {
+    "v": 1,
+    "fonte": "https://dadosabertos.camara.leg.br/api/v2/votacoes/257161-454/orientacoes",
+    "nota": "Orientação Não (bloco Avante/Solidariedade/PRD) nas emendas do Senado ao PL 2159/2021 (licenciamento ambiental) em 17/07/2025."
+   },
+   "G07": {
+    "v": 4,
+    "fonte": "https://dadosabertos.camara.leg.br/api/v2/votacoes/257161-454/orientacoes",
+    "nota": "Orientação Não (bloco Avante/Solidariedade/PRD) nas emendas do Senado ao PL 2159/2021 (licenciamento ambiental) em 17/07/2025."
+   },
+   "DF02": {
+    "v": 5,
+    "fonte": "https://dadosabertos.camara.leg.br/api/v2/votacoes/2270800-135/orientacoes",
+    "nota": "Orientação Sim (bloco Avante/Solidariedade/PRD) no 1º turno da PEC 3/2021 (licença do Congresso para processar parlamentares) em 16/09/2025."
+   },
+   "G08": {
+    "v": 4,
+    "fonte": "https://dadosabertos.camara.leg.br/api/v2/votacoes/2562149-7/orientacoes",
+    "nota": "Orientação (bloco Avante/Solidariedade/PRD): Sim na urgência (17/09/2025) e Sim no substitutivo (10/12/2025) do PL 2162/2023 (anistia do 8 de janeiro).",
+    "fontes": [
+     "https://dadosabertos.camara.leg.br/api/v2/votacoes/2562149-7/orientacoes",
+     "https://dadosabertos.camara.leg.br/api/v2/votacoes/2358548-89/orientacoes"
+    ]
+   },
+   "G14": {
+    "v": 5,
+    "fonte": "https://dadosabertos.camara.leg.br/api/v2/votacoes/2233802-424/orientacoes",
+    "nota": "Orientação Sim nos dois turnos da PEC 221/2019 (40h semanais e 2 dias de folga, fim da escala 6x1) em 27/05/2026.",
+    "fontes": [
+     "https://dadosabertos.camara.leg.br/api/v2/votacoes/2233802-424/orientacoes",
+     "https://dadosabertos.camara.leg.br/api/v2/votacoes/2233802-438/orientacoes"
+    ]
+   }
+  },
+  "UNIÃO": {
+   "DF03": {
+    "v": 5,
+    "fonte": "https://dadosabertos.camara.leg.br/api/v2/votacoes/345311-270/orientacoes",
+    "nota": "Orientação Sim (bloco União/PP/PSDB-Cidadania) no substitutivo do PL 490/2007 (marco temporal de terras indígenas) em 30/05/2023."
+   },
+   "G10": {
+    "v": 4,
+    "fonte": "https://dadosabertos.camara.leg.br/api/v2/votacoes/2310837-8/orientacoes",
+    "nota": "Orientação Sim (bloco União/PP/PSDB-Cidadania) na urgência do PL 2630/2020 (regulação de plataformas digitais) em 25/04/2023."
+   },
+   "G11": {
+    "v": 4,
+    "fonte": "https://dadosabertos.camara.leg.br/api/v2/votacoes/2439779-55/orientacoes",
+    "nota": "Orientação Sim (bloco União/PP/PSDB-Cidadania) no PL 1958/2021 (cotas raciais em concursos públicos) em 19/11/2024."
+   },
+   "DF02": {
+    "v": 5,
+    "fonte": "https://dadosabertos.camara.leg.br/api/v2/votacoes/2270800-135/orientacoes",
+    "nota": "Orientação Sim (bloco PL/União/PP/PSD) nos dois turnos da PEC 3/2021 (licença do Congresso para processar parlamentares) em 16/09/2025.",
+    "fontes": [
+     "https://dadosabertos.camara.leg.br/api/v2/votacoes/2270800-135/orientacoes",
+     "https://dadosabertos.camara.leg.br/api/v2/votacoes/2270800-160/orientacoes"
+    ]
+   },
+   "G08": {
+    "v": 4,
+    "fonte": "https://dadosabertos.camara.leg.br/api/v2/votacoes/2358548-89/orientacoes",
+    "nota": "Orientação Sim (bloco União/PP/PSD) no substitutivo do PL 2162/2023 que reduz penas do 8 de janeiro em 10/12/2025."
+   },
+   "G14": {
+    "v": 5,
+    "fonte": "https://dadosabertos.camara.leg.br/api/v2/votacoes/2233802-424/orientacoes",
+    "nota": "Orientação Sim (bloco União/PP/PSD) nos dois turnos da PEC 221/2019 (40h semanais e 2 dias de folga, fim da escala 6x1) em 27/05/2026.",
+    "fontes": [
+     "https://dadosabertos.camara.leg.br/api/v2/votacoes/2233802-424/orientacoes",
+     "https://dadosabertos.camara.leg.br/api/v2/votacoes/2233802-438/orientacoes"
+    ]
+   }
+  }
+ },
+ "naoPareados": [
+  "Duarte Gonçalves Jr (nome civil DUARTE EUSTÁQUIO GONÇALVES JUNIOR, idCamara 227800); candidato(a) em 2026 no arquivo bruto do TSE (id 130002543714, Deputado Federal, PSB), fora de selected.json",
+  "Délio Pinheiro (nome civil DELIO PINHEIRO NETO, idCamara 228272); candidato(a) em 2026 no arquivo bruto do TSE (id 130002543676, Deputado Estadual, PSB), fora de selected.json",
+  "Felipe Saliba (nome civil FELIPE MAURÍCIO SALIBA DE SOUZA, idCamara 227370); não encontrado entre os candidatos de 2026 no arquivo bruto do TSE",
+  "Glaycon Franco (nome civil GLYCON MOREIRA FRANCO, idCamara 236284); candidato(a) em 2026 no arquivo bruto do TSE (id 130002540596, Deputado Estadual, PSDB), fora de selected.json",
+  "Hercílio Coelho Diniz (nome civil HERCÍLIO ARAÚJO DINIZ FILHO, idCamara 204539); não encontrado entre os candidatos de 2026 no arquivo bruto do TSE",
+  "Ilacir Bicalho (nome civil ILACIR BICALHO DE BARROS, idCamara 235620); candidato(a) em 2026 no arquivo bruto do TSE (id 130002539896, Deputado Estadual, REPUBLICANOS), fora de selected.json",
+  "Misael Varella (nome civil MISAEL ARTUR FERREIRA VARELLA, idCamara 178895); não encontrado entre os candidatos de 2026 no arquivo bruto do TSE",
+  "Odair Cunha (nome civil ODAIR JOSÉ DA CUNHA, idCamara 74159); não encontrado entre os candidatos de 2026 no arquivo bruto do TSE",
+  "Vavá (nome civil HEBER GOMES NEIVA, idCamara 235712); não encontrado entre os candidatos de 2026 no arquivo bruto do TSE"
+ ],
+ "pareamentosAproximados": [
+  {
+   "idCamara": 220623,
+   "nomeCamara": "Duda Salabert",
+   "idTSE": 130002539728,
+   "motivo": "Nome civil na Câmara 'DUDA SALABERT ROSA' e no TSE 'DUDA SALABERT'; mesmo partido (PSOL); candidata marcada como incumbente e eleita deputada federal por MG em 2022."
+  },
+  {
+   "idCamara": 74160,
+   "nomeCamara": "Patrus Ananias",
+   "idTSE": 130002550464,
+   "motivo": "Nome civil na Câmara 'PATRUS ANANIAS DE SOUZA' e no TSE 'PATRUS ANANIAS DE SOUSA' (Z/S); mesmo partido (PT); TSE registra eleição a deputado federal por MG em 2022."
+  }
+ ],
+ "candidatosForaDoSelected": {
+  "130002543714": {
+   "nomeUrna": "DUARTE JÚNIOR",
+   "cargo": "Deputado Federal",
+   "partido": "PSB",
+   "idCamara": 227800,
+   "nomeCamara": "Duarte Gonçalves Jr",
+   "posicoes": {},
+   "votos": {}
+  },
+  "130002543676": {
+   "nomeUrna": "DÉLIO PINHEIRO",
+   "cargo": "Deputado Estadual",
+   "partido": "PSB",
+   "idCamara": 228272,
+   "nomeCamara": "Délio Pinheiro",
+   "posicoes": {},
+   "votos": {}
+  },
+  "130002540596": {
+   "nomeUrna": "GLAYCON FRANCO",
+   "cargo": "Deputado Estadual",
+   "partido": "PSDB",
+   "idCamara": 236284,
+   "nomeCamara": "Glaycon Franco",
+   "posicoes": {
+    "G14": {
+     "v": 5,
+     "conf": "voto",
+     "fonte": "https://dadosabertos.camara.leg.br/api/v2/votacoes/2233802-424/votos",
+     "nota": "Votou Sim nos dois turnos da PEC 221/2019 (40h semanais e 2 dias de folga, fim da escala 6x1) em 27/05/2026.",
+     "fontes": [
+      "https://dadosabertos.camara.leg.br/api/v2/votacoes/2233802-424/votos",
+      "https://dadosabertos.camara.leg.br/api/v2/votacoes/2233802-438/votos"
+     ]
+    }
+   },
+   "votos": {
+    "2233802-424": "Sim",
+    "2233802-438": "Sim"
+   }
+  },
+  "130002539896": {
+   "nomeUrna": "ILACIR BICALHO",
+   "cargo": "Deputado Estadual",
+   "partido": "REPUBLICANOS",
+   "idCamara": 235620,
+   "nomeCamara": "Ilacir Bicalho",
+   "posicoes": {
+    "G14": {
+     "v": 5,
+     "conf": "voto",
+     "fonte": "https://dadosabertos.camara.leg.br/api/v2/votacoes/2233802-424/votos",
+     "nota": "Votou Sim nos dois turnos da PEC 221/2019 (40h semanais e 2 dias de folga, fim da escala 6x1) em 27/05/2026.",
+     "fontes": [
+      "https://dadosabertos.camara.leg.br/api/v2/votacoes/2233802-424/votos",
+      "https://dadosabertos.camara.leg.br/api/v2/votacoes/2233802-438/votos"
+     ]
+    }
+   },
+   "votos": {
+    "2233802-424": "Sim",
+    "2233802-438": "Sim"
+   }
+  }
+ },
+ "orientacoesObs": "Orientação de bloco atribuída apenas aos partidos que aparecem no rótulo (truncado) do bloco na API; orientação própria do partido prevalece sobre a do bloco. 'Liberado', obstrução ou vazio não geram valor. Governo, Maioria, Minoria e Oposição foram omitidos por não serem partidos.",
+ "lacunas": {
+  "DF06": "Saidinha (PL 2253/2022): votação na Câmara em 20/03/2024 foi simbólica; derrubada do veto (28/05/2024) foi em sessão do Congresso, ausente da API da Câmara.",
+  "DF01": "PLP 175/2024 (emendas parlamentares) teve votos nominais, mas o sentido do Não é ambíguo (críticos de ambos os lados); não mapeado.",
+  "DF05": "Sem votação nominal da Câmara sobre o tamanho do fundo eleitoral (definido na LDO/LOA em sessões do Congresso).",
+  "G05": "PL 1904/2024: urgência aprovada em votação simbólica (12/06/2024); sem voto nominal.",
+  "G06": "PEC 45/2023 (drogas) não chegou ao Plenário da Câmara até set/2026.",
+  "G12": "Sem votação nominal sobre maioridade penal na 57ª legislatura (PEC 18/2025 de segurança pública não trata do tema diretamente).",
+  "G09": "Sem votação nominal diretamente sobre limites do STF (PEC 8/2021 não chegou ao Plenário da Câmara).",
+  "DF03_veto": "Derrubada do veto ao marco temporal (dez/2023) e do veto ao licenciamento (nov/2025) ocorreram em sessões do Congresso, fora da API da Câmara.",
+  "G04_outros": "PL 4149/2004 (jun/2025) só aumenta pena de disparo com arma de uso restrito; não mapeado por não tratar de compra/porte."
+ }
+}

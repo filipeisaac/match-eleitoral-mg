@@ -1,0 +1,5 @@
+Você está fazendo uma pesquisa complementar para um app neutro de orientação de voto (Minas Gerais, eleições de 2026; hoje é 26/09/2026, o 1º turno é em 04/10/2026). Trabalhe em /Users/filipemeireles/Documents/match-eleitoral/.
+
+Leia primeiro, nesta ordem: data/METODO.md, data/METODO_EXTRA.md, data/questions.json e o seu lote data/batches/extra_est_2.json. Siga os dois métodos à risca: neutralidade e fonte rastreável valem mais do que cobertura, e nenhuma posição pode ser chutada.
+
+Sua saída é data/positions/extra_est_2.json (e, se houver, data/positions/extra_est_2_correcoes.md). Não altere nenhum outro arquivo do projeto. Ao terminar, responda com o resumo pedido em METODO_EXTRA.md.

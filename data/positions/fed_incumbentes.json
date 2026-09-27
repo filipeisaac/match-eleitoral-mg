@@ -1,0 +1,1972 @@
+[
+  {
+    "id": 130002542743,
+    "nomeUrna": "DIMAS FABIANO",
+    "resumo": "Deputado federal desde 2011, foi vereador em Varginha e deputado estadual (2003-2011). Busca o quinto mandato na Câmara pelo PP.",
+    "bandeiras": [
+      "Recursos para municípios mineiros"
+    ],
+    "posicoes": {
+      "G01": {
+        "v": 4,
+        "conf": "voto",
+        "fonte": "https://dadosabertos.camara.leg.br/api/v2/votacoes/2088351-324/votos",
+        "nota": "Votou sim à PEC 241/2016 (teto de gastos) no 2º turno, em 25/10/2016."
+      },
+      "G03": {
+        "v": 3,
+        "conf": "voto",
+        "fonte": "https://dadosabertos.camara.leg.br/api/v2/votacoes/2270894-103/votos",
+        "nota": "Votou sim à privatização dos Correios (PL 591/2021, 05/08/2021) e não à da Eletrobras (MP 1031/2021, 19/05/2021)."
+      },
+      "G09": {
+        "v": 4,
+        "conf": "declaracao",
+        "fonte": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2391567",
+        "nota": "Coautor da PEC 50/2023, que permite ao Congresso sustar decisões do STF que extrapolem sua função (um de 175 signatários)."
+      },
+      "DF01": {
+        "v": 2,
+        "conf": "declaracao",
+        "fonte": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2362646",
+        "nota": "Coautor da PEC 26/2023, que estende a transferência especial (\"emenda Pix\") às emendas de bancada."
+      }
+    }
+  },
+  {
+    "id": 130002542015,
+    "nomeUrna": "LINCOLN PORTELA",
+    "resumo": "Pastor evangélico e radialista, é deputado federal desde 1999, em sete mandatos seguidos. Disputa o oitavo mandato pelo PL.",
+    "bandeiras": [
+      "Valores cristãos e liberdade religiosa",
+      "Segurança pública",
+      "Direitos da pessoa idosa"
+    ],
+    "posicoes": {
+      "G01": {
+        "v": 2,
+        "conf": "voto",
+        "fonte": "https://dadosabertos.camara.leg.br/api/v2/votacoes/2088351-324/votos",
+        "nota": "Votou não à PEC 241/2016 (teto de gastos) no 2º turno, em 25/10/2016."
+      },
+      "G03": {
+        "v": 4,
+        "conf": "voto",
+        "fonte": "https://dadosabertos.camara.leg.br/api/v2/votacoes/2270894-103/votos",
+        "nota": "Votou sim à privatização dos Correios (PL 591/2021, 05/08/2021) e da Eletrobras (MP 1031/2021, 19/05/2021)."
+      },
+      "G05": {
+        "v": 1,
+        "conf": "declaracao",
+        "fonte": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=565882",
+        "nota": "Coautor do PL 5069/2013, que pune quem induz ao aborto, e da PEC 29/2024 (vida desde a concepção); membro da frente contra o aborto."
+      },
+      "G09": {
+        "v": 4,
+        "conf": "declaracao",
+        "fonte": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2391567",
+        "nota": "Coautor da PEC 50/2023, que permite ao Congresso sustar decisões do STF que extrapolem sua função (um de 175 signatários)."
+      },
+      "G12": {
+        "v": 4,
+        "conf": "declaracao",
+        "fonte": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2623604",
+        "nota": "Coautor das PECs 8/2026 e 9/2026, que reduzem a maioridade penal em crimes graves (signatário entre mais de 170)."
+      },
+      "G13": {
+        "v": 4,
+        "conf": "declaracao",
+        "fonte": "https://www.lincolnportela2233.com.br",
+        "nota": "Site de campanha 2026 o apresenta como defensor \"dos valores cristãos inegociáveis\" e chama o mandato de \"ministério parlamentar\"."
+      },
+      "DF05": {
+        "v": 4,
+        "conf": "declaracao",
+        "fonte": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2250879",
+        "nota": "Autor do PL 2291/2020, que destinava recursos dos fundos partidário e eleitoral ao combate à Covid-19."
+      }
+    }
+  },
+  {
+    "id": 130002542031,
+    "nomeUrna": "ZÉ VITOR",
+    "resumo": "Engenheiro de Araguari, é deputado federal desde 2019 (eleito pelo PMN em 2018 e pelo PL em 2022). Busca a reeleição pelo PL.",
+    "bandeiras": [
+      "Agropecuária e produtor rural",
+      "Contas públicas e carga tributária"
+    ],
+    "posicoes": {
+      "G01": {
+        "v": 4,
+        "conf": "declaracao",
+        "fonte": "https://dadosabertos.camara.leg.br/api/v2/deputados/204517/discursos?dataInicio=2024-12-12&dataFim=2024-12-12",
+        "nota": "Em 12/12/2024 chamou o corte de gastos de limitado, por cobrir pouco do rombo e penalizar os mais pobres; em 2026 criticou a alta da carga tributária."
+      },
+      "G03": {
+        "v": 3,
+        "conf": "voto",
+        "fonte": "https://dadosabertos.camara.leg.br/api/v2/votacoes/2270894-103/votos",
+        "nota": "Votou não à privatização dos Correios (PL 591/2021, 05/08/2021) e sim à da Eletrobras (MP 1031/2021, 19/05/2021)."
+      },
+      "G04": {
+        "v": 5,
+        "conf": "declaracao",
+        "fonte": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2348336",
+        "nota": "Coautor (1 de 4) do PDL 39/2023 e signatário dos PDLs 3/2023 e 189/2023, que sustam decretos que restringiram o acesso a armas."
+      },
+      "G05": {
+        "v": 2,
+        "conf": "declaracao",
+        "fonte": "https://dadosabertos.camara.leg.br/api/v2/deputados/204517/discursos?dataInicio=2023-09-14&dataFim=2023-09-14",
+        "nota": "Em discurso de 14/09/2023 criticou a ADPF 442 (descriminalização do aborto) e defendeu manter as regras atuais; membro da frente contra o aborto."
+      },
+      "G06": {
+        "v": 2,
+        "conf": "declaracao",
+        "fonte": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2377463",
+        "nota": "Coautor da PEC 34/2023, que veda a descriminalização do tráfico e a legalização de novas drogas recreativas (um de 175)."
+      },
+      "G09": {
+        "v": 4,
+        "conf": "declaracao",
+        "fonte": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2391567",
+        "nota": "Coautor das PECs 50/2023 (Congresso pode sustar decisões do STF) e 48/2024; em 2023 criticou o STF por julgar o aborto alegando omissão do Congresso."
+      },
+      "G12": {
+        "v": 4,
+        "conf": "declaracao",
+        "fonte": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2623400",
+        "nota": "Coautor das PECs 8/2026 e 9/2026, que reduzem a maioridade penal em crimes graves (signatário entre mais de 170)."
+      },
+      "DF01": {
+        "v": 2,
+        "conf": "declaracao",
+        "fonte": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2502463",
+        "nota": "Autor do PLP 105/2025, que permite usar emendas de bancada e de comissão em despesas com pessoal; coautor da PEC 26/2023 (emenda Pix de bancada)."
+      }
+    }
+  },
+  {
+    "id": 130002542700,
+    "nomeUrna": "PEDRO AIHARA",
+    "resumo": "Bombeiro militar de MG por 11 anos, foi porta-voz dos bombeiros em Brumadinho (2019). Deputado federal desde 2023, eleito pelo Patriota; busca a reeleição pelo PP.",
+    "bandeiras": [
+      "Prevenção de desastres e defesa civil",
+      "Segurança pública",
+      "Valorização de bombeiros e policiais"
+    ],
+    "posicoes": {
+      "G01": {
+        "v": 2,
+        "conf": "declaracao",
+        "fonte": "https://dadosabertos.camara.leg.br/api/v2/deputados/220630/discursos?dataInicio=2024-12-10&dataFim=2024-12-10",
+        "nota": "Em 10/12/2024 criticou o regime de recuperação fiscal de MG por impor cortes profundos em serviços públicos essenciais."
+      },
+      "G03": {
+        "v": 2,
+        "conf": "declaracao",
+        "fonte": "https://dadosabertos.camara.leg.br/api/v2/deputados/220630/discursos?dataInicio=2024-12-10&dataFim=2024-12-10",
+        "nota": "Em 10/12/2024 apoiou o Propag como alternativa ao regime de recuperação fiscal, criticando as privatizações obrigatórias impostas a MG."
+      },
+      "G06": {
+        "v": 1,
+        "conf": "declaracao",
+        "fonte": "https://dadosabertos.camara.leg.br/api/v2/deputados/220630/discursos?dataInicio=2023-08-02&dataFim=2023-08-02",
+        "nota": "Em 02/08/2023 discursou contra a descriminalização do porte de drogas em julgamento no STF; coautor da PEC 34/2023."
+      },
+      "G09": {
+        "v": 4,
+        "conf": "declaracao",
+        "fonte": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2478427",
+        "nota": "Coautor da PEC 48/2024, que prevê perda do cargo para ministro do STF que desrespeitar a imunidade parlamentar (um de 187)."
+      },
+      "G11": {
+        "v": 4,
+        "conf": "declaracao",
+        "fonte": "https://dadosabertos.camara.leg.br/api/v2/deputados/220630/discursos?dataInicio=2023-08-09&dataFim=2023-08-09",
+        "nota": "Em 09/08/2023 saudou a aprovação da renovação da Lei de Cotas na Câmara e cumprimentou a relatora."
+      },
+      "G12": {
+        "v": 4,
+        "conf": "declaracao",
+        "fonte": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2623400",
+        "nota": "Coautor da PEC 8/2026 (redução da maioridade em crimes hediondos) e autor do PL 1234/2026, que amplia internação de adolescentes."
+      },
+      "G14": {
+        "v": 3,
+        "conf": "declaracao",
+        "fonte": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2485341",
+        "nota": "Assinou a PEC 8/2025 (fim da escala 6x1) e também a PEC 40/2025, que cria opção de jornada flexível por hora."
+      },
+      "DF05": {
+        "v": 4,
+        "conf": "declaracao",
+        "fonte": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2431352",
+        "nota": "Autor do PL 1601/2024, que destina recursos do fundo eleitoral (FEFC) a medidas de emergência em calamidades."
+      }
+    }
+  },
+  {
+    "id": 130002542003,
+    "nomeUrna": "LAFAYETTE ANDRADA",
+    "resumo": "Advogado e professor, foi vereador em Lavras e Juiz de Fora, deputado estadual (2007-2019) e secretário de Defesa Social de MG. Deputado federal desde 2019; busca a reeleição pelo PL.",
+    "bandeiras": [
+      "Segurança pública",
+      "Combate à publicidade de apostas online"
+    ],
+    "posicoes": {
+      "G03": {
+        "v": 4,
+        "conf": "voto",
+        "fonte": "https://dadosabertos.camara.leg.br/api/v2/votacoes/2270894-103/votos",
+        "nota": "Votou sim à privatização dos Correios (PL 591/2021) em 05/08/2021."
+      },
+      "G05": {
+        "v": 2,
+        "conf": "declaracao",
+        "fonte": "https://dadosabertos.camara.leg.br/api/v2/frentes/54333/membros",
+        "nota": "Membro da Frente Parlamentar Mista contra o Aborto e em Defesa da Vida (legislatura 2023-2027)."
+      },
+      "G06": {
+        "v": 2,
+        "conf": "declaracao",
+        "fonte": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2377463",
+        "nota": "Coautor da PEC 34/2023, que veda a descriminalização do tráfico e a legalização de novas drogas recreativas (um de 175)."
+      },
+      "G09": {
+        "v": 4,
+        "conf": "declaracao",
+        "fonte": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2448732",
+        "nota": "Coautor das PECs 50/2023 e 28/2024, que permitem ao Congresso sustar decisões do STF, e da PEC 48/2024."
+      },
+      "G12": {
+        "v": 4,
+        "conf": "declaracao",
+        "fonte": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2623604",
+        "nota": "Coautor das PECs 8/2026 e 9/2026 (redução da maioridade penal) e autor do PL 1658/2019, que endurece medidas do ECA."
+      },
+      "DF01": {
+        "v": 2,
+        "conf": "declaracao",
+        "fonte": "https://dadosabertos.camara.leg.br/api/v2/deputados/98057/discursos?dataInicio=2024-09-10&dataFim=2024-09-10",
+        "nota": "Em 10/09/2024 defendeu que emendas parlamentares cheguem diretamente aos hospitais; coautor da PEC 26/2023 (emenda Pix de bancada)."
+      }
+    }
+  },
+  {
+    "id": 130002542738,
+    "nomeUrna": "RAFAEL SIMÕES",
+    "resumo": "Advogado, foi prefeito de Pouso Alegre (2017-2022). Deputado federal desde 2023, busca a reeleição pelo União Brasil.",
+    "bandeiras": [
+      "Produtores de leite e agricultura",
+      "Rodovias do Sul de Minas",
+      "Apoio aos municípios"
+    ],
+    "posicoes": {
+      "G01": {
+        "v": 4,
+        "conf": "declaracao",
+        "fonte": "https://dadosabertos.camara.leg.br/api/v2/deputados/220626/discursos?dataInicio=2025-10-01&dataFim=2025-10-01",
+        "nota": "Em 01/10/2025 defendeu reduzir impostos para atrair investimentos e criticou a taxação de bilionários como fonte de compensação."
+      },
+      "G03": {
+        "v": 2,
+        "conf": "declaracao",
+        "fonte": "https://dadosabertos.camara.leg.br/api/v2/deputados/220626/discursos?dataInicio=2025-09-17&dataFim=2025-09-17",
+        "nota": "Em 17/09/2025 criticou a privatização de rodovias estaduais pelo governo de MG e as tarifas de pedágio."
+      },
+      "G05": {
+        "v": 2,
+        "conf": "declaracao",
+        "fonte": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2448752",
+        "nota": "Coautor da PEC 29/2024, que garante na Constituição a inviolabilidade da vida desde a concepção (um de 182 signatários)."
+      },
+      "G09": {
+        "v": 5,
+        "conf": "declaracao",
+        "fonte": "https://dadosabertos.camara.leg.br/api/v2/deputados/220626/discursos?dataInicio=2026-02-24&dataFim=2026-02-24",
+        "nota": "Em 24/02/2026 criticou o STF pelas condenações por tentativa de golpe e a condução de investigações; coautor da PEC 50/2023."
+      },
+      "G14": {
+        "v": 4,
+        "conf": "declaracao",
+        "fonte": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2485341",
+        "nota": "Assinou a PEC 8/2025, que reduz a jornada e acaba com a escala 6x1 (um dos 226 signatários)."
+      },
+      "DF01": {
+        "v": 2,
+        "conf": "declaracao",
+        "fonte": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2432085",
+        "nota": "Autor do PLP 81/2024, que fixa prazo para pagar emendas a entidades do SUS; cobrou em 2025 o pagamento de emendas."
+      }
+    }
+  },
+  {
+    "id": 130002542701,
+    "nomeUrna": "PINHEIRINHO",
+    "resumo": "Empresário, foi prefeito de Ibirité (2013-2016), eleito aos 21 anos. Deputado federal desde 2019, busca a reeleição pelo PP.",
+    "bandeiras": [
+      "Saúde pública (SUS)"
+    ],
+    "posicoes": {
+      "G03": {
+        "v": 4,
+        "conf": "voto",
+        "fonte": "https://dadosabertos.camara.leg.br/api/v2/votacoes/2270894-103/votos",
+        "nota": "Votou sim à privatização dos Correios (PL 591/2021, 05/08/2021) e da Eletrobras (MP 1031/2021, 19/05/2021)."
+      },
+      "G05": {
+        "v": 2,
+        "conf": "declaracao",
+        "fonte": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2448752",
+        "nota": "Coautor da PEC 29/2024 (vida desde a concepção) e membro da Frente Parlamentar Mista contra o Aborto."
+      },
+      "G06": {
+        "v": 2,
+        "conf": "declaracao",
+        "fonte": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2377463",
+        "nota": "Coautor da PEC 34/2023, que veda a descriminalização do tráfico e a legalização de novas drogas recreativas (um de 175)."
+      }
+    }
+  },
+  {
+    "id": 130002535300,
+    "nomeUrna": "DANDARA",
+    "resumo": "Professora, foi vereadora em Uberlândia e candidata a prefeita da cidade em 2024. Deputada federal desde 2023, busca a reeleição pelo PT.",
+    "bandeiras": [
+      "Fim da escala 6x1",
+      "Taxação dos super-ricos e das bets",
+      "Combate à violência contra a mulher"
+    ],
+    "posicoes": {
+      "G01": {
+        "v": 2,
+        "conf": "declaracao",
+        "fonte": "https://dandarapt.com.br/",
+        "nota": "Site de pré-campanha defende a taxação dos super-ricos e das bets para garantir justiça social; apoiou em 2025 a isenção de IR compensada por esse tributo."
+      },
+      "G02": {
+        "v": 4,
+        "conf": "declaracao",
+        "fonte": "https://dadosabertos.camara.leg.br/api/v2/deputados/220629/discursos?dataInicio=2023-05-30&dataFim=2023-05-30",
+        "nota": "Em 30/05/2023 defendeu a aprovação da MP que recriou e ampliou o Bolsa Família; em 2023 e 2024 discursou em defesa do programa."
+      },
+      "G03": {
+        "v": 1,
+        "conf": "declaracao",
+        "fonte": "https://dadosabertos.camara.leg.br/api/v2/deputados/220629/discursos?dataInicio=2023-09-12&dataFim=2023-09-12",
+        "nota": "Em 12/09/2023 prometeu enfrentar a agenda de privatização do governo de MG; coautora do PL 1754/2026, que cria estatal de minerais críticos."
+      },
+      "G04": {
+        "v": 2,
+        "conf": "declaracao",
+        "fonte": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2482491",
+        "nota": "Coautora do PLP 9/2025, que cria imposto federal sobre a propriedade de arma de fogo."
+      },
+      "G09": {
+        "v": 2,
+        "conf": "declaracao",
+        "fonte": "https://dadosabertos.camara.leg.br/api/v2/deputados/220629/discursos?dataInicio=2025-03-26&dataFim=2025-03-26",
+        "nota": "Em 26/03/2025 celebrou a decisão do STF que tornou Jair Bolsonaro réu, tratando-a como defesa da democracia."
+      },
+      "G11": {
+        "v": 5,
+        "conf": "declaracao",
+        "fonte": "https://dadosabertos.camara.leg.br/api/v2/deputados/220629/discursos?dataInicio=2024-11-13&dataFim=2024-11-13",
+        "nota": "Relatou a renovação da Lei de Cotas (2023) e em 13/11/2024 defendeu as cotas em concursos públicos como ação afirmativa."
+      },
+      "G12": {
+        "v": 1,
+        "conf": "declaracao",
+        "fonte": "https://dadosabertos.camara.leg.br/api/v2/deputados/220629/discursos?dataInicio=2026-06-09&dataFim=2026-06-09",
+        "nota": "Em 09/06/2026 registrou repúdio à PEC da redução da maioridade penal, que chamou de \"grande falácia\"."
+      },
+      "G14": {
+        "v": 5,
+        "conf": "declaracao",
+        "fonte": "https://dadosabertos.camara.leg.br/api/v2/deputados/220629/discursos?dataInicio=2026-05-26&dataFim=2026-05-26",
+        "nota": "Coautora da PEC 8/2025; em 26/05/2026 defendeu o fim da escala 6x1 sem redução salarial e com transição curta."
+      }
+    }
+  },
+  {
+    "id": 130002542714,
+    "nomeUrna": "ANA PAULA LEÃO",
+    "resumo": "Agropecuarista, foi secretária municipal em Uberlândia e é ex-primeira-dama da cidade. Deputada federal desde 2023, busca a reeleição pelo PP.",
+    "bandeiras": [
+      "Saúde da mulher e prevenção do câncer",
+      "Agropecuária e zona rural"
+    ],
+    "posicoes": {
+      "G05": {
+        "v": 2,
+        "conf": "declaracao",
+        "fonte": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2448752",
+        "nota": "Coautora da PEC 29/2024, que garante na Constituição a inviolabilidade da vida desde a concepção (um de 182 signatários)."
+      },
+      "G09": {
+        "v": 4,
+        "conf": "declaracao",
+        "fonte": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2391567",
+        "nota": "Coautora das PECs 50/2023 e 28/2024, que permitem ao Congresso sustar decisões do STF, e da PEC 48/2024."
+      },
+      "G12": {
+        "v": 4,
+        "conf": "declaracao",
+        "fonte": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2623400",
+        "nota": "Coautora da PEC 8/2026, que reduz a maioridade penal em crimes hediondos (uma de 171 signatários)."
+      }
+    }
+  },
+  {
+    "id": 130002542724,
+    "nomeUrna": "ZÉ SILVA",
+    "resumo": "Agrônomo, presidiu a Emater-MG e foi secretário estadual de Agricultura e de Trabalho. Deputado federal desde 2011, busca novo mandato pelo União Brasil.",
+    "bandeiras": [
+      "Agricultura familiar e produtor rural",
+      "Extensão rural",
+      "Cadeia do leite e do queijo"
+    ],
+    "posicoes": {
+      "G01": {
+        "v": 4,
+        "conf": "voto",
+        "fonte": "https://dadosabertos.camara.leg.br/api/v2/votacoes/2088351-324/votos",
+        "nota": "Votou sim à PEC 241/2016 (teto de gastos) no 2º turno, em 25/10/2016."
+      },
+      "G02": {
+        "v": 4,
+        "conf": "declaracao",
+        "fonte": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2335818",
+        "nota": "Autor do PL 2634/2022, que reforça benefícios de primeira infância do Auxílio Brasil e atualiza as linhas de renda de acesso."
+      },
+      "G03": {
+        "v": 4,
+        "conf": "voto",
+        "fonte": "https://dadosabertos.camara.leg.br/api/v2/votacoes/2270894-103/votos",
+        "nota": "Votou sim à privatização dos Correios (PL 591/2021, 05/08/2021) e da Eletrobras (MP 1031/2021, 19/05/2021)."
+      },
+      "DF01": {
+        "v": 2,
+        "conf": "declaracao",
+        "fonte": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2362646",
+        "nota": "Coautor da PEC 26/2023, que estende a transferência especial (\"emenda Pix\") às emendas de bancada."
+      }
+    }
+  },
+  {
+    "id": 130002542730,
+    "nomeUrna": "DELEGADO MARCELO FREITAS",
+    "resumo": "Delegado da Polícia Federal e professor de Direito, natural de Montes Claros. Deputado federal desde 2019 (eleito pelo PSL); busca a reeleição pelo União Brasil.",
+    "bandeiras": [
+      "Segurança pública",
+      "Combate ao crime organizado",
+      "Desenvolvimento de Minas Gerais"
+    ],
+    "posicoes": {
+      "G01": {
+        "v": 4,
+        "conf": "declaracao",
+        "fonte": "https://dadosabertos.camara.leg.br/api/v2/deputados/204512/discursos?dataInicio=2025-08-12&dataFim=2025-08-12",
+        "nota": "Em 12/08/2025 chamou o governo de perdulário por gastar mais do que arrecada e elevar a carga tributária; em 2023 defendeu reduzir impostos."
+      },
+      "G02": {
+        "v": 1,
+        "conf": "declaracao",
+        "fonte": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2514470",
+        "nota": "Autor do PL 2427/2025, que fixa prazo máximo para receber o Bolsa Família; em 05/05/2025 criticou benefícios a quem pode trabalhar."
+      },
+      "G03": {
+        "v": 5,
+        "conf": "voto",
+        "fonte": "https://dadosabertos.camara.leg.br/api/v2/votacoes/2270894-103/votos",
+        "nota": "Votou sim à privatização dos Correios e da Eletrobras (2021); em 16/05/2023 criticou a proposta de reestatizar a Eletrobras."
+      },
+      "G04": {
+        "v": 4,
+        "conf": "declaracao",
+        "fonte": "https://dadosabertos.camara.leg.br/api/v2/deputados/204512/discursos?dataInicio=2023-05-16&dataFim=2023-05-16",
+        "nota": "Em 16/05/2023 criticou o \"desarmamento da população\" pelo governo federal; autor do PL 1857/2019, que amplia cursos de tiro a civis."
+      },
+      "G05": {
+        "v": 1,
+        "conf": "declaracao",
+        "fonte": "https://dadosabertos.camara.leg.br/api/v2/deputados/204512/discursos?dataInicio=2023-09-27&dataFim=2023-09-27",
+        "nota": "Em 27/09/2023 defendeu manter a proibição do aborto e pediu urgência ao Estatuto do Nascituro; coautor da PEC 29/2024."
+      },
+      "G06": {
+        "v": 1,
+        "conf": "declaracao",
+        "fonte": "https://dadosabertos.camara.leg.br/api/v2/deputados/204512/discursos?dataInicio=2025-08-13&dataFim=2025-08-13",
+        "nota": "Em 13/08/2025 chamou de \"péssima\" a descriminalização das drogas; em 2023 criticou o julgamento do STF sobre porte para consumo."
+      },
+      "G09": {
+        "v": 5,
+        "conf": "declaracao",
+        "fonte": "https://dadosabertos.camara.leg.br/api/v2/deputados/204512/discursos?dataInicio=2025-12-03&dataFim=2025-12-03",
+        "nota": "Em 03/12/2025 afirmou viver-se uma \"ditadura do Poder Judiciário\" e acusou o STF de interferir em outros Poderes; coautor da PEC 50/2023."
+      },
+      "G12": {
+        "v": 5,
+        "conf": "declaracao",
+        "fonte": "https://dadosabertos.camara.leg.br/api/v2/deputados/204512/discursos?dataInicio=2023-03-29&dataFim=2023-03-29",
+        "nota": "Em 29/03/2023 defendeu mudar o art. 228 da Constituição para rever a maioridade penal; coautor da PEC 8/2026."
+      },
+      "DF01": {
+        "v": 2,
+        "conf": "declaracao",
+        "fonte": "https://dadosabertos.camara.leg.br/api/v2/deputados/204512/discursos?dataInicio=2025-10-07&dataFim=2025-10-07",
+        "nota": "Em 07/10/2025 defendeu a legitimidade das emendas parlamentares e criticou o que chamou de tentativa de criminalizá-las."
+      }
+    }
+  },
+  {
+    "id": 130002539715,
+    "nomeUrna": "ANDRÉ JANONES",
+    "resumo": "Advogado de Ituiutaba, é deputado federal desde 2019, eleito duas vezes pelo Avante. Busca a reeleição pela Rede, na federação PSOL-Rede.",
+    "bandeiras": [
+      "Bolsa Família e programas sociais",
+      "Fim da escala 6x1",
+      "Acesso a remédios e saúde"
+    ],
+    "posicoes": {
+      "G02": {
+        "v": 5,
+        "conf": "declaracao",
+        "fonte": "https://deputadojanones.com.br/",
+        "nota": "Site de campanha 2026 diz que vai \"brigar para aumentar\" o Bolsa Família; em 22/04/2026 defendeu o programa contra críticas do governador de MG."
+      },
+      "G03": {
+        "v": 2,
+        "conf": "voto",
+        "fonte": "https://dadosabertos.camara.leg.br/api/v2/votacoes/2270894-103/votos",
+        "nota": "Votou não à privatização dos Correios (PL 591/2021, 05/08/2021) e da Eletrobras (MP 1031/2021, 19/05/2021)."
+      },
+      "G14": {
+        "v": 5,
+        "conf": "declaracao",
+        "fonte": "https://dadosabertos.camara.leg.br/api/v2/deputados/204515/discursos?dataInicio=2026-04-29&dataFim=2026-04-29",
+        "nota": "Coautor da PEC 8/2025; em abril de 2026 cobrou a votação da PEC do fim da escala 6x1 e a cita como bandeira de campanha."
+      },
+      "DF05": {
+        "v": 4,
+        "conf": "declaracao",
+        "fonte": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2239373",
+        "nota": "Autor do PL 664/2020, que destinava o fundo eleitoral (FEFC) ao combate à Covid-19, e do PL 2288/2019 (sobras dos fundos para a saúde)."
+      }
+    }
+  },
+  {
+    "id": 130002542742,
+    "nomeUrna": "LUIZ FERNANDO",
+    "resumo": "Empresário e engenheiro, foi deputado estadual (1997-2007) e deputado federal (2007-2019), voltando à Câmara em 2023. Busca a reeleição pelo União Brasil.",
+    "bandeiras": [],
+    "posicoes": {
+      "G01": {
+        "v": 4,
+        "conf": "voto",
+        "fonte": "https://dadosabertos.camara.leg.br/api/v2/votacoes/2088351-324/votos",
+        "nota": "Votou sim à PEC 241/2016 (teto de gastos) no 2º turno, em 25/10/2016."
+      }
+    }
+  },
+  {
+    "id": 130002542715,
+    "nomeUrna": "RODRIGO DE CASTRO",
+    "resumo": "Deputado federal desde 2007, preside o União Brasil em Minas e é 1º vice-presidente da CCJ da Câmara em 2026. Busca novo mandato pelo União Brasil.",
+    "bandeiras": [
+      "Apoio aos municípios mineiros",
+      "Saúde e infraestrutura",
+      "Responsabilização penal de menores em crimes graves"
+    ],
+    "posicoes": {
+      "G01": {
+        "v": 4,
+        "conf": "voto",
+        "fonte": "https://dadosabertos.camara.leg.br/api/v2/votacoes/2088351-324/votos",
+        "nota": "Votou sim à PEC 241/2016 (teto de gastos) no 2º turno, em 25/10/2016."
+      },
+      "G03": {
+        "v": 4,
+        "conf": "voto",
+        "fonte": "https://dadosabertos.camara.leg.br/api/v2/votacoes/2270789-73/votos",
+        "nota": "Votou sim à privatização da Eletrobras (MP 1031/2021) em 19/05/2021."
+      },
+      "G05": {
+        "v": 2,
+        "conf": "declaracao",
+        "fonte": "https://dadosabertos.camara.leg.br/api/v2/frentes/54333/membros",
+        "nota": "Membro da Frente Parlamentar Mista contra o Aborto e em Defesa da Vida (legislatura 2023-2027)."
+      },
+      "G09": {
+        "v": 5,
+        "conf": "declaracao",
+        "fonte": "https://dadosabertos.camara.leg.br/api/v2/deputados/141531/discursos?dataInicio=2026-07-08&dataFim=2026-07-08",
+        "nota": "Em 08/07/2026 disse que o STF \"invade competências que não são suas\" e legisla por decisões monocráticas; fala semelhante em 06/05/2025."
+      },
+      "G12": {
+        "v": 5,
+        "conf": "declaracao",
+        "fonte": "https://rodrigodecastro.com.br/noticias/rodrigo-de-castro-defende-responsabilizacao-de-menores-por-crimes-graves-apos-aprovacao-da-pec-da-maioridade-penal-na-ccj",
+        "nota": "Site de campanha (12/06/2026) o apresenta como defensor da PEC 32/2015, que reduz a maioridade penal para 16 anos."
+      },
+      "DF01": {
+        "v": 2,
+        "conf": "declaracao",
+        "fonte": "https://rodrigodecastro.com.br/quem-e-rodrigo",
+        "nota": "Site de campanha destaca a destinação de emendas aos municípios como eixo do mandato; coautor da PEC 26/2023 (emenda Pix de bancada)."
+      }
+    }
+  },
+  {
+    "id": 130002542019,
+    "nomeUrna": "GREYCE ELIAS",
+    "resumo": "Advogada, empresária e produtora rural, foi vereadora em Patrocínio. Deputada federal desde 2019 (eleita pelo Avante); busca a reeleição pelo PL.",
+    "bandeiras": [
+      "Defesa das mulheres e da família",
+      "Agronegócio",
+      "Apoio aos municípios"
+    ],
+    "posicoes": {
+      "G03": {
+        "v": 4,
+        "conf": "voto",
+        "fonte": "https://dadosabertos.camara.leg.br/api/v2/votacoes/2270894-103/votos",
+        "nota": "Votou sim à privatização dos Correios (PL 591/2021, 05/08/2021) e da Eletrobras (MP 1031/2021, 19/05/2021)."
+      },
+      "G04": {
+        "v": 4,
+        "conf": "declaracao",
+        "fonte": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2345680",
+        "nota": "Coautora do PDL 3/2023, que susta o decreto de 2023 que restringiu registro e compra de armas (uma de 71 signatários)."
+      },
+      "G05": {
+        "v": 1,
+        "conf": "declaracao",
+        "fonte": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2434493",
+        "nota": "Coautora do PL 1904/2024 (aborto após 22 semanas equiparado a homicídio) e da PEC 29/2024; em 08/10/2024 defendeu a vida desde a concepção."
+      },
+      "G09": {
+        "v": 4,
+        "conf": "declaracao",
+        "fonte": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2448732",
+        "nota": "Coautora das PECs 50/2023 e 28/2024, que permitem ao Congresso sustar decisões do STF, e da PEC 48/2024."
+      },
+      "G12": {
+        "v": 4,
+        "conf": "declaracao",
+        "fonte": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2623604",
+        "nota": "Coautora das PECs 8/2026 e 9/2026, que reduzem a maioridade penal em crimes graves (signatária entre mais de 170)."
+      }
+    }
+  },
+  {
+    "id": 130002547896,
+    "nomeUrna": "NEWTON CARDOSO JR",
+    "resumo": "Administrador, filho do ex-governador Newton Cardoso, é deputado federal desde 2015 e preside o MDB de Minas. Busca o quarto mandato pelo MDB.",
+    "bandeiras": [
+      "Municipalismo",
+      "Redução de juros e impostos",
+      "Agronegócio"
+    ],
+    "posicoes": {
+      "G01": {
+        "v": 4,
+        "conf": "voto",
+        "fonte": "https://dadosabertos.camara.leg.br/api/v2/votacoes/2088351-324/votos",
+        "nota": "Votou sim à PEC 241/2016 (teto de gastos) no 2º turno, em 25/10/2016; site de campanha diz que defende a redução de impostos."
+      },
+      "G03": {
+        "v": 3,
+        "conf": "voto",
+        "fonte": "https://dadosabertos.camara.leg.br/api/v2/votacoes/2270894-103/votos",
+        "nota": "Votou não à privatização dos Correios (PL 591/2021, 05/08/2021) e sim à da Eletrobras (MP 1031/2021, 19/05/2021)."
+      },
+      "G09": {
+        "v": 4,
+        "conf": "declaracao",
+        "fonte": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2478427",
+        "nota": "Coautor da PEC 48/2024, que prevê perda do cargo para ministro do STF que desrespeitar a imunidade parlamentar (um de 187)."
+      }
+    }
+  },
+  {
+    "id": 130002542716,
+    "nomeUrna": "IGOR TIMO",
+    "resumo": "Empresário do setor de segurança privada, natural de Virgem da Lapa (Vale do Jequitinhonha). Deputado federal desde 2019 (eleito pelo Podemos); busca a reeleição pelo União Brasil.",
+    "bandeiras": [
+      "Saúde",
+      "Recursos para municípios mineiros"
+    ],
+    "posicoes": {
+      "G03": {
+        "v": 3,
+        "conf": "voto",
+        "fonte": "https://dadosabertos.camara.leg.br/api/v2/votacoes/2270894-103/votos",
+        "nota": "Votou não à privatização dos Correios (PL 591/2021, 05/08/2021) e sim à da Eletrobras (MP 1031/2021, 19/05/2021)."
+      },
+      "G09": {
+        "v": 4,
+        "conf": "declaracao",
+        "fonte": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2478427",
+        "nota": "Coautor da PEC 48/2024, que prevê perda do cargo para ministro do STF que desrespeitar a imunidade parlamentar (um de 187)."
+      }
+    }
+  },
+  {
+    "id": 130002545577,
+    "nomeUrna": "WELITON PRADO",
+    "resumo": "Ex-vereador em Uberlândia e ex-deputado estadual (2003-2011), é deputado federal desde 2011, eleito pelo PT e depois pelo PROS. Busca novo mandato pelo PSD.",
+    "bandeiras": [
+      "Combate ao câncer",
+      "Direitos das pessoas com deficiência",
+      "Saúde pública"
+    ],
+    "posicoes": {
+      "G01": {
+        "v": 2,
+        "conf": "voto",
+        "fonte": "https://dadosabertos.camara.leg.br/api/v2/votacoes/2088351-324/votos",
+        "nota": "Votou não à PEC 241/2016 (teto de gastos) no 2º turno, em 25/10/2016."
+      },
+      "G03": {
+        "v": 2,
+        "conf": "voto",
+        "fonte": "https://dadosabertos.camara.leg.br/api/v2/votacoes/2270894-103/votos",
+        "nota": "Votou não à privatização dos Correios (PL 591/2021, 05/08/2021) e da Eletrobras (MP 1031/2021, 19/05/2021)."
+      },
+      "G14": {
+        "v": 4,
+        "conf": "declaracao",
+        "fonte": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2485341",
+        "nota": "Assinou a PEC 8/2025, que reduz a jornada e acaba com a escala 6x1 (um dos 226 signatários)."
+      }
+    }
+  },
+  {
+    "id": 130002542695,
+    "nomeUrna": "SAMUEL VIANA",
+    "resumo": "Advogado, é deputado federal desde 2023, eleito pelo PL. Busca a reeleição pelo União Brasil.",
+    "bandeiras": [
+      "Recursos e infraestrutura para municípios",
+      "Proteção social a idosos e pessoas com deficiência",
+      "Esporte e juventude"
+    ],
+    "posicoes": {
+      "G09": {
+        "v": 4,
+        "conf": "declaracao",
+        "fonte": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2391567",
+        "nota": "Coautor da PEC 50/2023, que permite ao Congresso sustar decisões do STF que extrapolem sua função (um de 175 signatários)."
+      },
+      "DF01": {
+        "v": 2,
+        "conf": "declaracao",
+        "fonte": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2362646",
+        "nota": "Coautor da PEC 26/2023, que estende a transferência especial (\"emenda Pix\") às emendas de bancada."
+      }
+    }
+  },
+  {
+    "id": 130002533240,
+    "nomeUrna": "FRED COSTA",
+    "resumo": "Advogado, foi vereador em Belo Horizonte e deputado estadual (2011-2019); autor da Lei Sansão (2020), que endureceu penas por maus-tratos a cães e gatos. Deputado federal desde 2019; busca a reeleição pelo PRD.",
+    "bandeiras": [
+      "Proteção e direitos dos animais",
+      "Saúde de pessoas com doenças raras"
+    ],
+    "posicoes": {
+      "G02": {
+        "v": 4,
+        "conf": "declaracao",
+        "fonte": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2230008",
+        "nota": "Coautor do PL 6072/2019, que reformula e reajusta anualmente os benefícios do Bolsa Família, e da PEC 200/2019 (renda garantida aos mais pobres)."
+      },
+      "G03": {
+        "v": 4,
+        "conf": "voto",
+        "fonte": "https://dadosabertos.camara.leg.br/api/v2/votacoes/2270894-103/votos",
+        "nota": "Votou sim à privatização dos Correios (PL 591/2021, 05/08/2021) e da Eletrobras (MP 1031/2021, 19/05/2021)."
+      },
+      "G06": {
+        "v": 2,
+        "conf": "declaracao",
+        "fonte": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2377463",
+        "nota": "Coautor da PEC 34/2023, que veda a descriminalização do tráfico e a legalização de novas drogas recreativas (um de 175)."
+      }
+    }
+  },
+  {
+    "id": 130002535276,
+    "nomeUrna": "ANA PIMENTEL",
+    "resumo": "Médica sanitarista e professora da UFSJ, foi secretária de Saúde de Juiz de Fora. Deputada federal desde 2023, busca a reeleição pelo PT.",
+    "bandeiras": [
+      "Saúde pública",
+      "Direitos das mulheres",
+      "Educação e institutos federais"
+    ],
+    "posicoes": {
+      "G01": {
+        "v": 2,
+        "conf": "declaracao",
+        "fonte": "https://dadosabertos.camara.leg.br/api/v2/deputados/220632/discursos?dataInicio=2023-11-07&dataFim=2023-11-07",
+        "nota": "Em 07/11/2023 criticou o regime de recuperação fiscal proposto pelo governo de MG por congelar salários de servidores e barrar concursos."
+      },
+      "G03": {
+        "v": 1,
+        "conf": "declaracao",
+        "fonte": "https://dadosabertos.camara.leg.br/api/v2/deputados/220632/discursos?dataInicio=2023-05-18&dataFim=2023-05-18",
+        "nota": "Em 2023 discursou contra a privatização da Funed (MG) e contra a \"PEC do plasma\"; coautora do PL 1754/2026, que cria estatal de minerais."
+      },
+      "G09": {
+        "v": 2,
+        "conf": "declaracao",
+        "fonte": "https://dadosabertos.camara.leg.br/api/v2/deputados/220632/discursos?dataInicio=2024-04-09&dataFim=2024-04-09",
+        "nota": "Em 09/04/2024 criticou ataques de Elon Musk ao STF e em 26/03/2025 tratou o julgamento de Bolsonaro no STF como defesa da democracia."
+      },
+      "G14": {
+        "v": 5,
+        "conf": "declaracao",
+        "fonte": "https://dadosabertos.camara.leg.br/api/v2/deputados/220632/discursos?dataInicio=2026-05-26&dataFim=2026-05-26",
+        "nota": "Coautora da PEC 8/2025 e do PL 3197/2025; em 26/05/2026 defendeu a redução da jornada sem redução salarial e o fim da escala 6x1."
+      }
+    }
+  },
+  {
+    "id": 130002542036,
+    "nomeUrna": "DR. FREDERICO",
+    "resumo": "Médico oncologista e ex-bombeiro militar, com atuação em São João del-Rei. Deputado federal desde 2019 (eleito pelo Patriota); busca a reeleição pelo PL.",
+    "bandeiras": [
+      "Tratamento do câncer na rede pública",
+      "Saúde pública",
+      "Segurança pública"
+    ],
+    "posicoes": {
+      "G03": {
+        "v": 4,
+        "conf": "voto",
+        "fonte": "https://dadosabertos.camara.leg.br/api/v2/votacoes/2270894-103/votos",
+        "nota": "Votou sim à privatização dos Correios (PL 591/2021, 05/08/2021) e da Eletrobras (MP 1031/2021, 19/05/2021)."
+      },
+      "G05": {
+        "v": 1,
+        "conf": "declaracao",
+        "fonte": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2434493",
+        "nota": "Coautor do PL 1904/2024 (aborto após 22 semanas equiparado a homicídio) e da PEC 29/2024; discursou contra o aborto em 2024 e 2025."
+      },
+      "G06": {
+        "v": 1,
+        "conf": "declaracao",
+        "fonte": "https://dadosabertos.camara.leg.br/api/v2/deputados/204518/discursos?dataInicio=2024-07-03&dataFim=2024-07-03",
+        "nota": "Em 03/07/2024 criticou a liberação do porte de maconha pelo STF como legalização de drogas; coautor da PEC 34/2023."
+      },
+      "G09": {
+        "v": 5,
+        "conf": "declaracao",
+        "fonte": "https://dadosabertos.camara.leg.br/api/v2/deputados/204518/discursos?dataInicio=2024-07-03&dataFim=2024-07-03",
+        "nota": "Em 03/07/2024 acusou \"togados do STF\" de tentar usurpar competências; coautor das PECs 50/2023, 28/2024 e 48/2024."
+      },
+      "G12": {
+        "v": 4,
+        "conf": "declaracao",
+        "fonte": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2623400",
+        "nota": "Coautor das PECs 8/2026 e 9/2026, que reduzem a maioridade penal em crimes graves (signatário entre mais de 170)."
+      },
+      "DF01": {
+        "v": 2,
+        "conf": "declaracao",
+        "fonte": "https://dadosabertos.camara.leg.br/api/v2/deputados/204518/discursos?dataInicio=2023-10-25&dataFim=2023-10-25",
+        "nota": "Em 25/10/2023 defendeu emendas impositivas para a saúde; coautor da PEC 44/2024, que vincula parte das emendas ao esporte."
+      }
+    }
+  },
+  {
+    "id": 130002539842,
+    "nomeUrna": "PAULO ABI-ACKEL",
+    "resumo": "Advogado e ex-juiz de tribunal regional eleitoral, é deputado federal desde 2007. Busca novo mandato pelo PSDB, na federação PSDB-Cidadania.",
+    "bandeiras": [
+      "Segurança pública e processo penal"
+    ],
+    "posicoes": {
+      "G01": {
+        "v": 4,
+        "conf": "voto",
+        "fonte": "https://dadosabertos.camara.leg.br/api/v2/votacoes/2088351-324/votos",
+        "nota": "Votou sim à PEC 241/2016 (teto de gastos) no 2º turno, em 25/10/2016."
+      },
+      "G03": {
+        "v": 3,
+        "conf": "voto",
+        "fonte": "https://dadosabertos.camara.leg.br/api/v2/votacoes/2270894-103/votos",
+        "nota": "Votou sim à privatização dos Correios (PL 591/2021, 05/08/2021) e não à da Eletrobras (MP 1031/2021, 19/05/2021)."
+      }
+    }
+  },
+  {
+    "id": 130002542027,
+    "nomeUrna": "ROSANGELA REIS",
+    "resumo": "Professora, foi vereadora em Ipatinga e deputada estadual por quatro mandatos (2007-2023). Deputada federal desde 2023, busca a reeleição pelo PL.",
+    "bandeiras": [
+      "Vale do Aço e siderurgia",
+      "Atendimento a pessoas com autismo",
+      "Recursos para municípios"
+    ],
+    "posicoes": {
+      "G05": {
+        "v": 2,
+        "conf": "declaracao",
+        "fonte": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2497080",
+        "nota": "Coautora do PLP 90/2025, que dá ao Ministério Público a defesa dos direitos do nascituro; membro da frente contra o aborto."
+      },
+      "G09": {
+        "v": 4,
+        "conf": "declaracao",
+        "fonte": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2448732",
+        "nota": "Coautora das PECs 50/2023 e 28/2024, que permitem ao Congresso sustar decisões do STF, e do PL 3798/2025 (vedações a magistrados)."
+      },
+      "G12": {
+        "v": 4,
+        "conf": "declaracao",
+        "fonte": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2623604",
+        "nota": "Coautora das PECs 8/2026 e 9/2026, que reduzem a maioridade penal em crimes graves (signatária entre mais de 170)."
+      },
+      "G14": {
+        "v": 4,
+        "conf": "declaracao",
+        "fonte": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2485341",
+        "nota": "Assinou a PEC 8/2025, que reduz a jornada e acaba com a escala 6x1 (uma dos 226 signatários)."
+      },
+      "DF01": {
+        "v": 2,
+        "conf": "declaracao",
+        "fonte": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2362646",
+        "nota": "Coautora da PEC 26/2023, que estende a transferência especial (\"emenda Pix\") às emendas de bancada."
+      }
+    }
+  },
+  {
+    "id": 130002542007,
+    "nomeUrna": "EROS BIONDINI",
+    "resumo": "Cantor católico e comunicador, foi deputado estadual e secretário de Esportes de MG; presidiu a Frente Parlamentar Católica. Deputado federal desde 2011, busca novo mandato pelo PL.",
+    "bandeiras": [
+      "Defesa da vida e da família",
+      "Combate às drogas",
+      "Segurança pública"
+    ],
+    "posicoes": {
+      "G01": {
+        "v": 4,
+        "conf": "voto",
+        "fonte": "https://dadosabertos.camara.leg.br/api/v2/votacoes/2088351-324/votos",
+        "nota": "Votou sim à PEC 241/2016 (teto de gastos) no 2º turno, em 25/10/2016."
+      },
+      "G03": {
+        "v": 4,
+        "conf": "voto",
+        "fonte": "https://dadosabertos.camara.leg.br/api/v2/votacoes/2270894-103/votos",
+        "nota": "Votou sim à privatização dos Correios (PL 591/2021, 05/08/2021) e da Eletrobras (MP 1031/2021, 19/05/2021)."
+      },
+      "G05": {
+        "v": 1,
+        "conf": "declaracao",
+        "fonte": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2188140",
+        "nota": "Autor do PL 11105/2018 (Estatuto do Nascituro), coautor do PL 1904/2024 e da PEC 29/2024; discursou contra a ADPF 442 em 2023."
+      },
+      "G06": {
+        "v": 1,
+        "conf": "declaracao",
+        "fonte": "https://dadosabertos.camara.leg.br/api/v2/deputados/160640/discursos?dataInicio=2024-03-13&dataFim=2024-03-13",
+        "nota": "Em 13/03/2024 elogiou a PEC do Senado que criminaliza o porte de drogas em qualquer quantidade; coautor da PEC 34/2023."
+      },
+      "G09": {
+        "v": 5,
+        "conf": "declaracao",
+        "fonte": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2079700",
+        "nota": "Coautor do PL 4754/2016 (crime de responsabilidade de ministro do STF que usurpar o Legislativo) e das PECs 50/2023 e 48/2024."
+      },
+      "G12": {
+        "v": 4,
+        "conf": "declaracao",
+        "fonte": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2623604",
+        "nota": "Coautor das PECs 8/2026 e 9/2026, que reduzem a maioridade penal em crimes graves (signatário entre mais de 170)."
+      },
+      "G13": {
+        "v": 4,
+        "conf": "declaracao",
+        "fonte": "https://dadosabertos.camara.leg.br/api/v2/deputados/160640/discursos?dataInicio=2025-10-23&dataFim=2025-10-23",
+        "nota": "Em 23/10/2025 defendeu criar a bancada cristã na Câmara e citou livro de Santo Agostinho como manual de conduta do cristão na vida pública."
+      }
+    }
+  },
+  {
+    "id": 130002542016,
+    "nomeUrna": "MARCELO ÁLVARO ANTÔNIO",
+    "resumo": "Empresário, foi vereador em Belo Horizonte e ministro do Turismo (2019-2020). Deputado federal desde 2015, busca novo mandato pelo PL.",
+    "bandeiras": [
+      "Proteção de crianças e adolescentes",
+      "Endurecimento penal"
+    ],
+    "posicoes": {
+      "G01": {
+        "v": 4,
+        "conf": "voto",
+        "fonte": "https://dadosabertos.camara.leg.br/api/v2/votacoes/2088351-324/votos",
+        "nota": "Votou sim à PEC 241/2016 (teto de gastos) no 2º turno, em 25/10/2016."
+      },
+      "G03": {
+        "v": 4,
+        "conf": "voto",
+        "fonte": "https://dadosabertos.camara.leg.br/api/v2/votacoes/2270894-103/votos",
+        "nota": "Votou sim à privatização dos Correios (PL 591/2021, 05/08/2021) e da Eletrobras (MP 1031/2021, 19/05/2021)."
+      },
+      "G05": {
+        "v": 2,
+        "conf": "declaracao",
+        "fonte": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2448752",
+        "nota": "Coautor da PEC 29/2024 (vida desde a concepção) e membro da Frente Parlamentar Mista contra o Aborto."
+      },
+      "G06": {
+        "v": 2,
+        "conf": "declaracao",
+        "fonte": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2377463",
+        "nota": "Coautor da PEC 34/2023, que veda a descriminalização do tráfico e a legalização de novas drogas recreativas (um de 175)."
+      },
+      "G09": {
+        "v": 4,
+        "conf": "declaracao",
+        "fonte": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2391567",
+        "nota": "Coautor das PECs 50/2023 (Congresso pode sustar decisões do STF) e 48/2024 (punição a ministro que violar imunidade)."
+      },
+      "G12": {
+        "v": 4,
+        "conf": "declaracao",
+        "fonte": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2623604",
+        "nota": "Coautor das PECs 8/2026 e 9/2026, que reduzem a maioridade penal em crimes graves (signatário entre mais de 170)."
+      }
+    }
+  },
+  {
+    "id": 130002541996,
+    "nomeUrna": "MAURÍCIO DO VÔLEI",
+    "resumo": "Ex-jogador de vôlei com passagem pela seleção brasileira, é deputado federal desde 2023. Busca a reeleição pelo PL.",
+    "bandeiras": [
+      "Esporte e incentivo a atletas",
+      "Defesa da família",
+      "Acesso a armas"
+    ],
+    "posicoes": {
+      "G01": {
+        "v": 4,
+        "conf": "declaracao",
+        "fonte": "https://dadosabertos.camara.leg.br/api/v2/deputados/220628/discursos?dataInicio=2024-07-10&dataFim=2024-07-10",
+        "nota": "Em 10/07/2024 criticou a reforma tributária como meio de o governo arrecadar mais para cobrir gastos que considera excessivos."
+      },
+      "G04": {
+        "v": 5,
+        "conf": "declaracao",
+        "fonte": "https://dadosabertos.camara.leg.br/api/v2/deputados/220628/discursos?dataInicio=2023-02-09&dataFim=2023-02-09",
+        "nota": "Em 09/02/2023 criticou o recadastramento de armas; coautor dos PDLs 3/2023 e 189/2023, que sustam decretos restritivos."
+      },
+      "G05": {
+        "v": 1,
+        "conf": "declaracao",
+        "fonte": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2442393",
+        "nota": "Coautor do PL 2499/2024 e da PEC 29/2024 (vida desde a concepção); em 09/02/2023 citou ser contra o aborto como missão do mandato."
+      },
+      "G06": {
+        "v": 2,
+        "conf": "declaracao",
+        "fonte": "https://dadosabertos.camara.leg.br/api/v2/deputados/220628/discursos?dataInicio=2023-08-02&dataFim=2023-08-02",
+        "nota": "Em 02/08/2023 discursou contra a legalização das drogas; coautor da PEC 34/2023."
+      },
+      "G09": {
+        "v": 5,
+        "conf": "declaracao",
+        "fonte": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2448732",
+        "nota": "Coautor das PECs 50/2023, 28/2024 e 48/2024; em 2023 e 2025 criticou decisões do STF e do ministro Alexandre de Moraes."
+      },
+      "G12": {
+        "v": 4,
+        "conf": "declaracao",
+        "fonte": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2623604",
+        "nota": "Coautor das PECs 8/2026 e 9/2026, que reduzem a maioridade penal em crimes graves (signatário entre mais de 170)."
+      },
+      "DF01": {
+        "v": 2,
+        "conf": "declaracao",
+        "fonte": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2488717",
+        "nota": "Coautor do PDL 135/2025, que susta desconto de 4,5% sobre repasses de emendas ao esporte, e da PEC 26/2023 (emenda Pix de bancada)."
+      }
+    }
+  },
+  {
+    "id": 130002535317,
+    "nomeUrna": "REGINALDO LOPES",
+    "resumo": "Economista, é deputado federal desde 2003; foi líder da bancada do PT na Câmara e é autor da PEC 221/2019, que reduz a jornada de trabalho. Busca novo mandato pelo PT.",
+    "bandeiras": [
+      "Fim da escala 6x1",
+      "Reforma tributária",
+      "Renda básica e programas sociais"
+    ],
+    "posicoes": {
+      "G01": {
+        "v": 1,
+        "conf": "voto",
+        "fonte": "https://dadosabertos.camara.leg.br/api/v2/votacoes/2088351-324/votos",
+        "nota": "Votou não à PEC 241/2016 (teto de gastos) em 25/10/2016 e é autor da PEC 370/2017, que extinguia o teto."
+      },
+      "G02": {
+        "v": 5,
+        "conf": "declaracao",
+        "fonte": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2216869",
+        "nota": "Autor dos PLs 4671/2019 e 4856/2019, que criam renda básica universal; coautor do PL 2315/2022 (Bolsa Família mínimo de R$ 600)."
+      },
+      "G03": {
+        "v": 1,
+        "conf": "voto",
+        "fonte": "https://dadosabertos.camara.leg.br/api/v2/votacoes/2270894-103/votos",
+        "nota": "Votou não à privatização dos Correios e da Eletrobras (2021); autor do PDL 213/2022 contra a inclusão da Petrobras no PPI."
+      },
+      "G04": {
+        "v": 1,
+        "conf": "declaracao",
+        "fonte": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2200644",
+        "nota": "Autor do PDL 234/2019, que sustava decreto que ampliou acesso a armas, e do PL 10913/2018 (chip de identificação em armas)."
+      },
+      "G11": {
+        "v": 5,
+        "conf": "declaracao",
+        "fonte": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=1299613",
+        "nota": "Autor do PL 1714/2015 (cotas em concursos) e do PDL 293/2020 (cotas na pós-graduação); coautor do PL 5384/2020 (Lei de Cotas)."
+      },
+      "G14": {
+        "v": 5,
+        "conf": "declaracao",
+        "fonte": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2233802",
+        "nota": "Autor da PEC 221/2019, que reduz a jornada semanal e acaba com a escala 6x1, aprovada na Câmara em 2026; coautor da PEC 8/2025."
+      },
+      "DF01": {
+        "v": 3,
+        "conf": "declaracao",
+        "fonte": "https://dadosabertos.camara.leg.br/api/v2/deputados/74161/discursos?dataInicio=2024-11-05&dataFim=2024-11-05",
+        "nota": "Coautor do PL 4131/2021 (transparência das emendas Pix); em 05/11/2024 apoiou novas regras (PLP 175/2024) e defendeu emendas de bancada."
+      }
+    }
+  },
+  {
+    "id": 130002542017,
+    "nomeUrna": "EMIDINHO MADEIRA",
+    "resumo": "Agropecuarista, foi deputado estadual (2015-2019). Deputado federal desde 2019, eleito pelo PSB e reeleito pelo PL em 2022; busca novo mandato pelo PL.",
+    "bandeiras": [
+      "Saúde e cirurgias eletivas no Sul de Minas",
+      "Segurança no campo",
+      "Cafeicultura e produtor rural"
+    ],
+    "posicoes": {
+      "G03": {
+        "v": 3,
+        "conf": "voto",
+        "fonte": "https://dadosabertos.camara.leg.br/api/v2/votacoes/2270894-103/votos",
+        "nota": "Votou sim à privatização dos Correios (PL 591/2021, 05/08/2021) e não à da Eletrobras (MP 1031/2021, 19/05/2021)."
+      },
+      "G05": {
+        "v": 2,
+        "conf": "declaracao",
+        "fonte": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2419066",
+        "nota": "Coautor do PDL 24/2024, que susta nota técnica do Ministério da Saúde sobre aborto legal; membro da frente contra o aborto."
+      },
+      "G06": {
+        "v": 2,
+        "conf": "declaracao",
+        "fonte": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2377463",
+        "nota": "Coautor da PEC 34/2023, que veda a descriminalização do tráfico e a legalização de novas drogas recreativas (um de 175)."
+      },
+      "G09": {
+        "v": 4,
+        "conf": "declaracao",
+        "fonte": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2391567",
+        "nota": "Coautor da PEC 50/2023, que permite ao Congresso sustar decisões do STF que extrapolem sua função (um de 175 signatários)."
+      },
+      "G12": {
+        "v": 4,
+        "conf": "declaracao",
+        "fonte": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2623400",
+        "nota": "Coautor das PECs 8/2026 e 9/2026, que reduzem a maioridade penal em crimes graves (signatário entre mais de 170)."
+      },
+      "DF01": {
+        "v": 2,
+        "conf": "declaracao",
+        "fonte": "https://dadosabertos.camara.leg.br/api/v2/deputados/161550/discursos?dataInicio=2024-11-13&dataFim=2024-11-13",
+        "nota": "Destaca em discursos (2023 a 2025) o uso de emendas em cirurgias eletivas; coautor da PEC 26/2023 (emenda Pix de bancada)."
+      }
+    }
+  },
+  {
+    "id": 130002542004,
+    "nomeUrna": "DELEGADA IONE",
+    "resumo": "Delegada da Polícia Civil, foi candidata a prefeita de Juiz de Fora em 2020 e 2024. Deputada federal desde 2023 (eleita pelo Avante); busca a reeleição pelo PL.",
+    "bandeiras": [
+      "Segurança pública",
+      "Proteção de crianças e adolescentes",
+      "Combate à violência contra a mulher"
+    ],
+    "posicoes": {
+      "G01": {
+        "v": 2,
+        "conf": "declaracao",
+        "fonte": "https://dadosabertos.camara.leg.br/api/v2/deputados/220625/discursos?dataInicio=2024-12-17&dataFim=2024-12-17",
+        "nota": "Em 17/12/2024 se opôs ao PL 4614/2024 do ajuste fiscal por restringir o BPC de idosos e pessoas com deficiência."
+      },
+      "G05": {
+        "v": 2,
+        "conf": "declaracao",
+        "fonte": "https://dadosabertos.camara.leg.br/api/v2/frentes/54333/membros",
+        "nota": "Membro da Frente Parlamentar Mista contra o Aborto e em Defesa da Vida (legislatura 2023-2027)."
+      },
+      "G06": {
+        "v": 2,
+        "conf": "declaracao",
+        "fonte": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2377463",
+        "nota": "Coautora da PEC 34/2023, que veda a descriminalização do tráfico e a legalização de novas drogas recreativas (uma de 175)."
+      },
+      "G09": {
+        "v": 4,
+        "conf": "declaracao",
+        "fonte": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2391567",
+        "nota": "Coautora da PEC 50/2023, que permite ao Congresso sustar decisões do STF que extrapolem sua função (uma de 175 signatários)."
+      },
+      "G12": {
+        "v": 4,
+        "conf": "declaracao",
+        "fonte": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2623604",
+        "nota": "Coautora das PECs 8/2026 e 9/2026, que reduzem a maioridade penal em crimes graves (signatária entre mais de 170)."
+      },
+      "DF01": {
+        "v": 2,
+        "conf": "declaracao",
+        "fonte": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2362646",
+        "nota": "Coautora da PEC 26/2023, que estende a transferência especial (\"emenda Pix\") às emendas de bancada."
+      }
+    }
+  },
+  {
+    "id": 130002545559,
+    "nomeUrna": "DIEGO ANDRADE",
+    "resumo": "Administrador e ex-diretor da Copasa, é deputado federal desde 2011; foi líder do PSD e da Maioria na Câmara. Busca novo mandato pelo PSD.",
+    "bandeiras": [
+      "Saúde e tratamento do câncer",
+      "Segurança pública",
+      "Agronegócio e cafeicultura"
+    ],
+    "posicoes": {
+      "G01": {
+        "v": 4,
+        "conf": "voto",
+        "fonte": "https://dadosabertos.camara.leg.br/api/v2/votacoes/2088351-324/votos",
+        "nota": "Votou sim à PEC 241/2016 (teto de gastos) no 2º turno, em 25/10/2016."
+      },
+      "G03": {
+        "v": 4,
+        "conf": "voto",
+        "fonte": "https://dadosabertos.camara.leg.br/api/v2/votacoes/2270894-103/votos",
+        "nota": "Votou sim à privatização dos Correios (PL 591/2021, 05/08/2021) e da Eletrobras (MP 1031/2021, 19/05/2021)."
+      },
+      "G09": {
+        "v": 4,
+        "conf": "declaracao",
+        "fonte": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2448732",
+        "nota": "Coautor da PEC 28/2024, que limita liminares individuais e permite ao Congresso sustar decisões do STF (um de 172)."
+      },
+      "DF01": {
+        "v": 2,
+        "conf": "declaracao",
+        "fonte": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2362646",
+        "nota": "Coautor da PEC 26/2023, que estende a transferência especial (\"emenda Pix\") às emendas de bancada."
+      }
+    }
+  },
+  {
+    "id": 130002537202,
+    "nomeUrna": "BRUNO FARIAS",
+    "resumo": "Enfermeiro, natural de Teófilo Otoni, é deputado federal desde 2023 (eleito pelo Avante), com atuação ligada à enfermagem. Busca a reeleição pelo Republicanos.",
+    "bandeiras": [
+      "Piso salarial e jornada de 30 horas da enfermagem",
+      "Saúde pública",
+      "Vales do Jequitinhonha e Mucuri"
+    ],
+    "posicoes": {
+      "G05": {
+        "v": 2,
+        "conf": "declaracao",
+        "fonte": "https://dadosabertos.camara.leg.br/api/v2/frentes/54333/membros",
+        "nota": "Membro da Frente Parlamentar Mista contra o Aborto e em Defesa da Vida (legislatura 2023-2027)."
+      },
+      "G14": {
+        "v": 5,
+        "conf": "declaracao",
+        "fonte": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2485341",
+        "nota": "Assinou a PEC 8/2025 (fim da escala 6x1); autor do PL 745/2024 e defensor em discursos da jornada de 30 horas na enfermagem."
+      }
+    }
+  },
+  {
+    "id": 130002539741,
+    "nomeUrna": "CÉLIA XAKRIABÁ",
+    "resumo": "Professora e liderança do povo Xakriabá, foi a primeira pessoa indígena eleita deputada federal por Minas, em 2022. Busca a reeleição pelo PSOL, na federação PSOL-Rede.",
+    "bandeiras": [
+      "Direitos dos povos indígenas",
+      "Proteção ambiental e clima",
+      "Educação indígena"
+    ],
+    "posicoes": {
+      "G01": {
+        "v": 1,
+        "conf": "declaracao",
+        "fonte": "https://dadosabertos.camara.leg.br/api/v2/deputados/206018/discursos?dataInicio=2024-12-19&dataFim=2024-12-19",
+        "nota": "Em 19/12/2024 criticou a pressão por corte de gastos; coautora do PLP 15/2025, que retira a merenda escolar (PNAE) do limite de gastos."
+      },
+      "G03": {
+        "v": 2,
+        "conf": "declaracao",
+        "fonte": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2583250",
+        "nota": "Coautora do PDL 942/2025, que susta a inclusão de hidrovias federais no Programa Nacional de Desestatização."
+      },
+      "G06": {
+        "v": 4,
+        "conf": "declaracao",
+        "fonte": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2443900",
+        "nota": "Coautora (1 de 8) do PL 2622/2024, que concede anistia a condenados por porte de até 40 g de maconha para uso próprio."
+      },
+      "G09": {
+        "v": 2,
+        "conf": "declaracao",
+        "fonte": "https://dadosabertos.camara.leg.br/api/v2/deputados/206018/discursos?dataInicio=2023-09-27&dataFim=2023-09-27",
+        "nota": "Em 27/09/2023 criticou os ataques de deputados ao STF pela decisão contra o marco temporal, que chamou de histórica."
+      },
+      "G11": {
+        "v": 5,
+        "conf": "declaracao",
+        "fonte": "https://dadosabertos.camara.leg.br/api/v2/deputados/206018/discursos?dataInicio=2023-06-20&dataFim=2023-06-20",
+        "nota": "Em 20/06/2023 celebrou a reserva de vagas para indígenas em concursos do Judiciário; autora do PL 4934/2026 (cota indígena na aprendizagem)."
+      },
+      "G14": {
+        "v": 4,
+        "conf": "declaracao",
+        "fonte": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2485341",
+        "nota": "Coautora da PEC 8/2025, que reduz a jornada e acaba com a escala 6x1 (10ª signatária)."
+      }
+    }
+  },
+  {
+    "id": 130002537223,
+    "nomeUrna": "GILBERTO ABRAMO",
+    "resumo": "Comunicador, foi deputado estadual por quatro mandatos (2003-2019) e é deputado federal desde 2019; foi líder do Republicanos na Câmara. Busca novo mandato pelo Republicanos.",
+    "bandeiras": [
+      "Defesa da vida e da família",
+      "Saúde e educação",
+      "Infraestrutura"
+    ],
+    "posicoes": {
+      "G03": {
+        "v": 4,
+        "conf": "voto",
+        "fonte": "https://dadosabertos.camara.leg.br/api/v2/votacoes/2270894-103/votos",
+        "nota": "Votou sim à privatização dos Correios (PL 591/2021, 05/08/2021) e da Eletrobras (MP 1031/2021, 19/05/2021)."
+      },
+      "G05": {
+        "v": 2,
+        "conf": "declaracao",
+        "fonte": "https://dadosabertos.camara.leg.br/api/v2/frentes/54333/membros",
+        "nota": "Membro da Frente Parlamentar Mista contra o Aborto e em Defesa da Vida (legislatura 2023-2027)."
+      },
+      "G09": {
+        "v": 4,
+        "conf": "declaracao",
+        "fonte": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2448732",
+        "nota": "Coautor da PEC 28/2024, que limita liminares individuais e permite ao Congresso sustar decisões do STF (um de 172)."
+      },
+      "G13": {
+        "v": 4,
+        "conf": "declaracao",
+        "fonte": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2199465",
+        "nota": "Autor do PL 2544/2019, que proíbe sátira e menosprezo a dogmas e crenças da religião cristã."
+      },
+      "DF01": {
+        "v": 2,
+        "conf": "declaracao",
+        "fonte": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2362646",
+        "nota": "Coautor (5º signatário) da PEC 26/2023, que estende a transferência especial (\"emenda Pix\") às emendas de bancada."
+      }
+    }
+  },
+  {
+    "id": 130002538287,
+    "nomeUrna": "MÁRIO HERINGER",
+    "resumo": "Médico, natural de Manhumirim, é deputado federal desde 2003. Busca novo mandato pelo PDT.",
+    "bandeiras": [
+      "Saúde e saúde mental",
+      "Direitos das mulheres",
+      "Proteção da água frente à mineração"
+    ],
+    "posicoes": {
+      "G01": {
+        "v": 4,
+        "conf": "voto",
+        "fonte": "https://dadosabertos.camara.leg.br/api/v2/votacoes/2088351-324/votos",
+        "nota": "Votou sim à PEC 241/2016 (teto de gastos) no 2º turno, em 25/10/2016."
+      },
+      "G03": {
+        "v": 2,
+        "conf": "voto",
+        "fonte": "https://dadosabertos.camara.leg.br/api/v2/votacoes/2270894-103/votos",
+        "nota": "Votou não à privatização dos Correios (PL 591/2021, 05/08/2021) e da Eletrobras (MP 1031/2021, 19/05/2021)."
+      },
+      "G04": {
+        "v": 1,
+        "conf": "declaracao",
+        "fonte": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2203514",
+        "nota": "Autor do PDL 266/2019, que sustava decreto que ampliou o acesso a armas, e do PL 5910/2023, que agrava o porte de arma em escolas."
+      },
+      "G11": {
+        "v": 5,
+        "conf": "declaracao",
+        "fonte": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2255779",
+        "nota": "Autor do PDL 298/2020, contra o fim das cotas na pós-graduação, e do PL 2309/2025, que cria banco de heteroidentificação para cotas."
+      },
+      "G14": {
+        "v": 5,
+        "conf": "declaracao",
+        "fonte": "https://dadosabertos.camara.leg.br/api/v2/deputados/74158/discursos?dataInicio=2026-05-26&dataFim=2026-05-26",
+        "nota": "Em 26/05/2026 defendeu o fim da escala 6x1 sem redução salarial e criticou a transição gradual prevista."
+      }
+    }
+  },
+  {
+    "id": 130002539728,
+    "nomeUrna": "DUDA SALABERT",
+    "resumo": "Professora de literatura e ambientalista, foi vereadora de Belo Horizonte e candidata a prefeita em 2024. Deputada federal desde 2023 (eleita pelo PDT), busca a reeleição pelo PSOL.",
+    "bandeiras": [
+      "Educação pública",
+      "Meio ambiente e segurança hídrica",
+      "Direitos humanos"
+    ],
+    "posicoes": {
+      "G01": {
+        "v": 2,
+        "conf": "declaracao",
+        "fonte": "https://dadosabertos.camara.leg.br/api/v2/deputados/220623/discursos?dataInicio=2025-07-09&dataFim=2025-07-09",
+        "nota": "Em 09/07/2025 defendeu a taxação dos super-ricos e rebateu críticas a ela; em 01/10/2025 apoiou a isenção de IR até R$ 5 mil."
+      },
+      "G03": {
+        "v": 1,
+        "conf": "declaracao",
+        "fonte": "https://dadosabertos.camara.leg.br/api/v2/deputados/220623/discursos?dataInicio=2025-08-27&dataFim=2025-08-27",
+        "nota": "Em 27/08/2025 criticou a privatização do metrô de Recife e a do metrô de BH; coautora do PDL 942/2025 contra desestatização de hidrovias."
+      },
+      "G04": {
+        "v": 2,
+        "conf": "declaracao",
+        "fonte": "https://dadosabertos.camara.leg.br/api/v2/deputados/220623/discursos?dataInicio=2024-12-11&dataFim=2024-12-11",
+        "nota": "Em 11/12/2024 registrou posição contrária ao PL 9433/2017, que flexibiliza o Estatuto do Desarmamento."
+      },
+      "G14": {
+        "v": 5,
+        "conf": "declaracao",
+        "fonte": "https://dadosabertos.camara.leg.br/api/v2/deputados/220623/discursos?dataInicio=2026-05-06&dataFim=2026-05-06",
+        "nota": "Coautora da PEC 8/2025; em 06/05/2026 disse estar \"na luta para aprovar o fim da escala 6 por 1\" e pediu reforço na fiscalização."
+      }
+    }
+  },
+  {
+    "id": 130002548795,
+    "nomeUrna": "NELY AQUINO",
+    "resumo": "Foi vereadora de Belo Horizonte (2017-2022) e presidiu a Câmara Municipal da capital. Deputada federal desde 2023, busca a reeleição pelo Podemos.",
+    "bandeiras": [
+      "Saúde da mulher",
+      "Direitos das pessoas com autismo e deficiência",
+      "Proteção de meninas e crianças"
+    ],
+    "posicoes": {
+      "G09": {
+        "v": 4,
+        "conf": "declaracao",
+        "fonte": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2391567",
+        "nota": "Coautora da PEC 50/2023, que permite ao Congresso sustar decisões do STF que extrapolem sua função (uma de 175 signatários)."
+      },
+      "DF01": {
+        "v": 2,
+        "conf": "declaracao",
+        "fonte": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2362646",
+        "nota": "Coautora da PEC 26/2023, que estende a transferência especial (\"emenda Pix\") às emendas de bancada."
+      }
+    }
+  },
+  {
+    "id": 130002535293,
+    "nomeUrna": "PAULO GUEDES",
+    "resumo": "Professor, foi vereador em Manga, deputado estadual (2007-2019) e candidato a prefeito de Montes Claros em 2024. Deputado federal desde 2019, busca novo mandato pelo PT.",
+    "bandeiras": [
+      "Desenvolvimento do Norte de Minas",
+      "Rodovias federais em Minas",
+      "Soberania econômica"
+    ],
+    "posicoes": {
+      "G02": {
+        "v": 4,
+        "conf": "declaracao",
+        "fonte": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2259412",
+        "nota": "Coautor do PL 4086/2020, que amplia as condições de acesso ao Bolsa Família."
+      },
+      "G03": {
+        "v": 1,
+        "conf": "voto",
+        "fonte": "https://dadosabertos.camara.leg.br/api/v2/votacoes/2270894-103/votos",
+        "nota": "Votou não à privatização dos Correios e da Eletrobras (2021); coautor de PDLs contra desestatização de Serpro, Dataprev e Petrobras."
+      },
+      "G09": {
+        "v": 2,
+        "conf": "declaracao",
+        "fonte": "https://dadosabertos.camara.leg.br/api/v2/deputados/204492/discursos?dataInicio=2025-03-26&dataFim=2025-03-26",
+        "nota": "Em 26/03/2025 defendeu as ações do STF contra os envolvidos nos atos de 8 de janeiro."
+      },
+      "G11": {
+        "v": 4,
+        "conf": "declaracao",
+        "fonte": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2266069",
+        "nota": "Coautor do PL 5384/2020, que torna permanente a Lei de Cotas, e do PL 3422/2021, que prorroga sua vigência."
+      },
+      "G14": {
+        "v": 4,
+        "conf": "declaracao",
+        "fonte": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2485341",
+        "nota": "Coautor da PEC 8/2025 (fim da escala 6x1) e do PL 3197/2025, que reduz a duração semanal do trabalho."
+      }
+    }
+  },
+  {
+    "id": 130002535286,
+    "nomeUrna": "MIGUEL ÂNGELO",
+    "resumo": "Advogado, é deputado federal desde 2023, eleito pelo PT. Busca a reeleição pelo PT.",
+    "bandeiras": [
+      "Moratória da exploração de terras raras",
+      "Transparência no uso de recursos públicos"
+    ],
+    "posicoes": {
+      "G03": {
+        "v": 2,
+        "conf": "declaracao",
+        "fonte": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2616663",
+        "nota": "Coautor do PL 1853/2026, que autoriza estatal federal na distribuição de combustíveis, e do PL 1754/2026 (estatal de minerais críticos)."
+      },
+      "G14": {
+        "v": 4,
+        "conf": "declaracao",
+        "fonte": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2485341",
+        "nota": "Coautor da PEC 8/2025 (fim da escala 6x1) e do PL 3197/2025, que reduz a duração semanal do trabalho."
+      }
+    }
+  },
+  {
+    "id": 130002535313,
+    "nomeUrna": "LEONARDO MONTEIRO",
+    "resumo": "Técnico e advogado de Governador Valadares, é deputado federal desde 2003; foi candidato a prefeito da cidade em 2020 e 2024. Busca novo mandato pelo PT.",
+    "bandeiras": [
+      "Inclusão do Vale do Rio Doce na Sudene",
+      "Defesa dos Correios",
+      "Desenvolvimento regional"
+    ],
+    "posicoes": {
+      "G01": {
+        "v": 2,
+        "conf": "voto",
+        "fonte": "https://dadosabertos.camara.leg.br/api/v2/votacoes/2088351-324/votos",
+        "nota": "Votou não à PEC 241/2016 (teto de gastos) no 2º turno, em 25/10/2016."
+      },
+      "G02": {
+        "v": 4,
+        "conf": "declaracao",
+        "fonte": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2334172",
+        "nota": "Coautor do PL 2315/2022 (benefício mínimo de R$ 600 no Bolsa Família) e do PL 4086/2020, que amplia o acesso ao programa."
+      },
+      "G03": {
+        "v": 1,
+        "conf": "voto",
+        "fonte": "https://dadosabertos.camara.leg.br/api/v2/votacoes/2270894-103/votos",
+        "nota": "Votou não à privatização dos Correios e da Eletrobras (2021); coordena a Frente em Defesa dos Correios e é coautor do PDL 163/2021."
+      },
+      "G04": {
+        "v": 1,
+        "conf": "declaracao",
+        "fonte": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2348785",
+        "nota": "Coautor (1 de 5) do PL 517/2023, que restringe o porte de armas, e dos PDLs 20 a 23/2021 contra decretos que flexibilizaram armas."
+      },
+      "G11": {
+        "v": 4,
+        "conf": "declaracao",
+        "fonte": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2266069",
+        "nota": "Coautor do PL 5384/2020, que torna permanente a Lei de Cotas, e do PL 3422/2021, que prorroga sua vigência."
+      },
+      "G14": {
+        "v": 4,
+        "conf": "declaracao",
+        "fonte": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2485341",
+        "nota": "Coautor da PEC 8/2025 (fim da escala 6x1) e do PL 3197/2025, que reduz a duração semanal do trabalho."
+      },
+      "DF01": {
+        "v": 2,
+        "conf": "declaracao",
+        "fonte": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2362646",
+        "nota": "Coautor da PEC 26/2023, que estende a transferência especial (\"emenda Pix\") às emendas de bancada."
+      }
+    }
+  },
+  {
+    "id": 130002535279,
+    "nomeUrna": "ROGÉRIO CORREIA",
+    "resumo": "Professor, foi vereador em Belo Horizonte e deputado estadual, e candidato a prefeito de BH em 2024. Deputado federal desde 2019, busca novo mandato pelo PT.",
+    "bandeiras": [
+      "Educação pública",
+      "Fim da escala 6x1",
+      "Justiça tributária"
+    ],
+    "posicoes": {
+      "G01": {
+        "v": 2,
+        "conf": "declaracao",
+        "fonte": "https://dadosabertos.camara.leg.br/api/v2/deputados/204480/discursos?dataInicio=2025-12-16&dataFim=2025-12-16",
+        "nota": "Em 16/12/2025 defendeu cortar renúncias fiscais para ampliar gastos em saúde, educação e moradia; em 2025 apoiou taxar super-ricos."
+      },
+      "G02": {
+        "v": 4,
+        "conf": "declaracao",
+        "fonte": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2334172",
+        "nota": "Coautor do PL 2315/2022 (benefício mínimo de R$ 600 no Bolsa Família) e do PL 4086/2020, que amplia o acesso ao programa."
+      },
+      "G03": {
+        "v": 1,
+        "conf": "voto",
+        "fonte": "https://dadosabertos.camara.leg.br/api/v2/votacoes/2270894-103/votos",
+        "nota": "Votou não à privatização dos Correios e da Eletrobras (2021); autor de PDLs contra desestatização da CBTU e da Ceasa-MG."
+      },
+      "G04": {
+        "v": 1,
+        "conf": "declaracao",
+        "fonte": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2482491",
+        "nota": "Coautor (2º signatário) do PLP 9/2025, que tributa a posse de armas, e dos PDLs 20 a 23/2021 contra decretos de flexibilização."
+      },
+      "G09": {
+        "v": 2,
+        "conf": "declaracao",
+        "fonte": "https://dadosabertos.camara.leg.br/api/v2/deputados/204480/discursos?dataInicio=2025-12-03&dataFim=2025-12-03",
+        "nota": "Em 03/12/2025 elogiou a \"firmeza do Supremo Tribunal Federal em defender a democracia\"."
+      },
+      "G11": {
+        "v": 5,
+        "conf": "declaracao",
+        "fonte": "https://dadosabertos.camara.leg.br/api/v2/deputados/204480/discursos?dataInicio=2025-02-26&dataFim=2025-02-26",
+        "nota": "Em 26/02/2025 celebrou a política de cotas raciais nas universidades; coautor dos PLs 5384/2020 e 3422/2021 (Lei de Cotas)."
+      },
+      "G14": {
+        "v": 5,
+        "conf": "declaracao",
+        "fonte": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2531337",
+        "nota": "Coautor (2º signatário) do PL 3197/2025, que reduz a jornada semanal, e da PEC 8/2025; discursou pelo fim da escala 6x1 em 2026."
+      }
+    }
+  },
+  {
+    "id": 130002535303,
+    "nomeUrna": "PADRE JOÃO",
+    "resumo": "Padre católico, foi deputado estadual (2003-2011) e é deputado federal desde 2011. Busca novo mandato pelo PT.",
+    "bandeiras": [
+      "Agricultura familiar e segurança alimentar",
+      "Direitos humanos",
+      "Atingidos por barragens e meio ambiente"
+    ],
+    "posicoes": {
+      "G01": {
+        "v": 2,
+        "conf": "voto",
+        "fonte": "https://dadosabertos.camara.leg.br/api/v2/votacoes/2088351-324/votos",
+        "nota": "Votou não à PEC 241/2016 (teto de gastos) no 2º turno, em 25/10/2016."
+      },
+      "G02": {
+        "v": 4,
+        "conf": "declaracao",
+        "fonte": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2334172",
+        "nota": "Coautor do PL 2315/2022 (benefício mínimo de R$ 600 no Bolsa Família) e do PL 4086/2020, que amplia o acesso ao programa."
+      },
+      "G03": {
+        "v": 1,
+        "conf": "voto",
+        "fonte": "https://dadosabertos.camara.leg.br/api/v2/votacoes/2270894-103/votos",
+        "nota": "Votou não à privatização dos Correios e da Eletrobras (2021); autor do PDL 167/2021 contra a inclusão dos Correios na desestatização."
+      },
+      "G04": {
+        "v": 1,
+        "conf": "declaracao",
+        "fonte": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2200871",
+        "nota": "Coautor (2 de 4) do PDL 245/2019, contra decreto que ampliou acesso a armas, dos PDLs 20 a 23/2021 e do PLP 9/2025 (imposto sobre armas)."
+      },
+      "G09": {
+        "v": 2,
+        "conf": "declaracao",
+        "fonte": "https://dadosabertos.camara.leg.br/api/v2/deputados/160556/discursos?dataInicio=2026-05-12&dataFim=2026-05-12",
+        "nota": "Em 12/05/2026 defendeu a suspensão da lei da dosimetria pelo ministro Alexandre de Moraes e disse que o STF impediu um retrocesso."
+      },
+      "G11": {
+        "v": 4,
+        "conf": "declaracao",
+        "fonte": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2266069",
+        "nota": "Coautor do PL 5384/2020, que torna permanente a Lei de Cotas, e do PL 3438/2020 (ações afirmativas na pós-graduação)."
+      },
+      "G14": {
+        "v": 5,
+        "conf": "declaracao",
+        "fonte": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2509006",
+        "nota": "Autor do PL 2319/2025, que favorece em licitações empresas que reduzem a jornada; coautor da PEC 8/2025 e do PL 3197/2025."
+      }
+    }
+  },
+  {
+    "id": 130002542008,
+    "nomeUrna": "JUNIO AMARAL",
+    "resumo": "Policial militar reformado, conhecido como Cabo Junio Amaral, é deputado federal desde 2019 (eleito pelo PSL) e foi candidato a prefeito de Contagem em 2024. Busca a reeleição pelo PL.",
+    "bandeiras": [
+      "Segurança pública e valorização policial",
+      "Defesa da vida desde a concepção",
+      "Combate às drogas"
+    ],
+    "posicoes": {
+      "G03": {
+        "v": 5,
+        "conf": "voto",
+        "fonte": "https://dadosabertos.camara.leg.br/api/v2/votacoes/2270894-103/votos",
+        "nota": "Votou sim à privatização dos Correios e da Eletrobras (2021); autor de PDLs contra a retirada de empresas do programa de desestatização."
+      },
+      "G04": {
+        "v": 5,
+        "conf": "declaracao",
+        "fonte": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2348336",
+        "nota": "Coautor (3 de 4) do PDL 39/2023 e dos PDLs 3/2023 e 189/2023, que sustam decretos de 2023 que restringiram o acesso a armas."
+      },
+      "G05": {
+        "v": 1,
+        "conf": "declaracao",
+        "fonte": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2286331",
+        "nota": "Autor do PL 2125/2021, que aumenta as penas do crime de aborto; coautor do PL 1904/2024 (aborto após 22 semanas como homicídio)."
+      },
+      "G06": {
+        "v": 1,
+        "conf": "declaracao",
+        "fonte": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2198729",
+        "nota": "Autor do PL 2413/2019, que prevê pena de prisão para usuário de drogas; coautor da PEC 34/2023."
+      },
+      "G09": {
+        "v": 5,
+        "conf": "declaracao",
+        "fonte": "https://dadosabertos.camara.leg.br/api/v2/deputados/204520/discursos?dataInicio=2023-09-20&dataFim=2023-09-20",
+        "nota": "Em 20/09/2023 criticou a \"constante usurpação de competência do Congresso\" pelo STF; autor do PL 2319/2020, que veda decisões monocráticas."
+      },
+      "G12": {
+        "v": 5,
+        "conf": "declaracao",
+        "fonte": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2623604",
+        "nota": "Coautor (4º signatário) da PEC 9/2026, que reduz a maioridade penal, e da PEC 8/2026; autor do PL 3779/2020, que endurece o ECA."
+      },
+      "DF01": {
+        "v": 2,
+        "conf": "declaracao",
+        "fonte": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2362646",
+        "nota": "Coautor da PEC 26/2023, que estende a transferência especial (\"emenda Pix\") às emendas de bancada."
+      },
+      "DF05": {
+        "v": 5,
+        "conf": "declaracao",
+        "fonte": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2227038",
+        "nota": "Autor do PL 5684/2019, que extingue o fundo partidário e o fundo eleitoral (FEFC) e prevê financiamento só privado."
+      }
+    }
+  },
+  {
+    "id": 130002537206,
+    "nomeUrna": "EUCLYDES PETTERSEN",
+    "resumo": "Agropecuarista, foi vereador em Governador Valadares e superintendente de saúde de MG. Deputado federal desde 2019 (eleito pelo PSC); busca a reeleição pelo Republicanos.",
+    "bandeiras": [
+      "Isenção de IPVA para veículos antigos",
+      "Direitos de pessoas com autismo",
+      "Segurança nas escolas e proteção de crianças"
+    ],
+    "posicoes": {
+      "G03": {
+        "v": 4,
+        "conf": "voto",
+        "fonte": "https://dadosabertos.camara.leg.br/api/v2/votacoes/2270894-103/votos",
+        "nota": "Votou sim à privatização dos Correios (PL 591/2021, 05/08/2021) e da Eletrobras (MP 1031/2021, 19/05/2021)."
+      },
+      "G14": {
+        "v": 4,
+        "conf": "declaracao",
+        "fonte": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2485341",
+        "nota": "Assinou a PEC 8/2025, que reduz a jornada e acaba com a escala 6x1 (um dos 226 signatários)."
+      },
+      "DF01": {
+        "v": 2,
+        "conf": "declaracao",
+        "fonte": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2362646",
+        "nota": "Coautor da PEC 26/2023, que estende a transferência especial (\"emenda Pix\") às emendas de bancada."
+      }
+    }
+  },
+  {
+    "id": 130002543112,
+    "nomeUrna": "LUIS TIBÉ",
+    "resumo": "Empresário e presidente nacional do Avante, foi vereador em Belo Horizonte. Deputado federal desde 2011, busca novo mandato pelo Avante.",
+    "bandeiras": [],
+    "posicoes": {
+      "G01": {
+        "v": 4,
+        "conf": "voto",
+        "fonte": "https://dadosabertos.camara.leg.br/api/v2/votacoes/2088351-324/votos",
+        "nota": "Votou sim à PEC 241/2016 (teto de gastos) no 2º turno, em 25/10/2016."
+      },
+      "G02": {
+        "v": 4,
+        "conf": "declaracao",
+        "fonte": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2230008",
+        "nota": "Coautor do PL 6072/2019, que reformula e reajusta anualmente os benefícios do Bolsa Família, e da PEC 200/2019 (renda garantida aos mais pobres)."
+      },
+      "G03": {
+        "v": 4,
+        "conf": "voto",
+        "fonte": "https://dadosabertos.camara.leg.br/api/v2/votacoes/2270789-73/votos",
+        "nota": "Votou sim à privatização da Eletrobras (MP 1031/2021) em 19/05/2021."
+      },
+      "DF01": {
+        "v": 2,
+        "conf": "declaracao",
+        "fonte": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2191570",
+        "nota": "Coautor (2 de 3) do PLP 18/2019, que institui execução obrigatória das emendas individuais de vereadores (orçamento impositivo)."
+      }
+    }
+  },
+  {
+    "id": 130002545565,
+    "nomeUrna": "STEFANO AGUIAR",
+    "resumo": "Administrador e empresário, exerceu mandato de deputado federal como suplente (2012-2013) e foi eleito em 2014, 2018 e 2022. Busca novo mandato pelo PSD.",
+    "bandeiras": [
+      "Proibição de corantes e aditivos em alimentos infantis",
+      "Família e paternidade"
+    ],
+    "posicoes": {
+      "G01": {
+        "v": 4,
+        "conf": "voto",
+        "fonte": "https://dadosabertos.camara.leg.br/api/v2/votacoes/2088351-324/votos",
+        "nota": "Votou sim à PEC 241/2016 (teto de gastos) no 2º turno, em 25/10/2016."
+      },
+      "G03": {
+        "v": 4,
+        "conf": "voto",
+        "fonte": "https://dadosabertos.camara.leg.br/api/v2/votacoes/2270894-103/votos",
+        "nota": "Votou sim à privatização dos Correios (PL 591/2021, 05/08/2021) e da Eletrobras (MP 1031/2021, 19/05/2021)."
+      },
+      "G04": {
+        "v": 4,
+        "conf": "declaracao",
+        "fonte": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2345680",
+        "nota": "Coautor do PDL 3/2023, que susta o decreto de 2023 que restringiu registro e compra de armas (um de 71 signatários)."
+      },
+      "G05": {
+        "v": 2,
+        "conf": "declaracao",
+        "fonte": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2448752",
+        "nota": "Coautor da PEC 29/2024, que garante na Constituição a inviolabilidade da vida desde a concepção (um de 182 signatários)."
+      },
+      "G06": {
+        "v": 2,
+        "conf": "declaracao",
+        "fonte": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2377463",
+        "nota": "Coautor da PEC 34/2023, que veda a descriminalização do tráfico e a legalização de novas drogas recreativas (um de 175)."
+      },
+      "G09": {
+        "v": 4,
+        "conf": "declaracao",
+        "fonte": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2079700",
+        "nota": "Coautor do PL 4754/2016 (crime de responsabilidade de ministro do STF que usurpar o Legislativo) e da PEC 28/2024."
+      },
+      "G14": {
+        "v": 3,
+        "conf": "declaracao",
+        "fonte": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2485341",
+        "nota": "Assinou a PEC 8/2025 (fim da escala 6x1) e também a PEC 40/2025, que cria opção de jornada flexível por hora."
+      }
+    }
+  },
+  {
+    "id": 130002542026,
+    "nomeUrna": "NIKOLAS FERREIRA",
+    "resumo": "Ex-vereador de Belo Horizonte, foi o deputado federal mais votado do país em 2022 e presidiu a Comissão de Educação da Câmara em 2024. Busca a reeleição pelo PL.",
+    "bandeiras": [
+      "Defesa da família",
+      "Liberdade",
+      "Livre mercado"
+    ],
+    "posicoes": {
+      "G01": {
+        "v": 4,
+        "conf": "declaracao",
+        "fonte": "https://dadosabertos.camara.leg.br/api/v2/deputados/209787/discursos?dataInicio=2025-09-17&dataFim=2025-09-17",
+        "nota": "Em 17/09/2025 criticou a \"gastança recorde\" do governo e a alta arrecadação de impostos; site de campanha cita o livre mercado como convicção."
+      },
+      "G02": {
+        "v": 2,
+        "conf": "declaracao",
+        "fonte": "https://dadosabertos.camara.leg.br/api/v2/deputados/209787/discursos?dataInicio=2025-09-17&dataFim=2025-09-17",
+        "nota": "Em 17/09/2025 disse que benefícios como luz e gás gratuitos tornam os mais pobres \"escravos eleitorais\"."
+      },
+      "G04": {
+        "v": 5,
+        "conf": "declaracao",
+        "fonte": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2348386",
+        "nota": "Autor do PL 456/2023, para facilitar a compra, o registro e a posse de armas; coautor dos PDLs 3/2023 e 189/2023."
+      },
+      "G05": {
+        "v": 1,
+        "conf": "declaracao",
+        "fonte": "https://dadosabertos.camara.leg.br/api/v2/deputados/209787/discursos?dataInicio=2023-09-12&dataFim=2023-09-12",
+        "nota": "Em 2023 discursou contra a descriminalização do aborto em julgamento no STF; coautor do PL 1904/2024 e da PEC 29/2024."
+      },
+      "G06": {
+        "v": 1,
+        "conf": "declaracao",
+        "fonte": "https://dadosabertos.camara.leg.br/api/v2/deputados/209787/discursos?dataInicio=2023-08-22&dataFim=2023-08-22",
+        "nota": "Em 22/08/2023 criticou o julgamento do STF sobre porte de maconha para uso pessoal; coautor da PEC 34/2023."
+      },
+      "G09": {
+        "v": 5,
+        "conf": "declaracao",
+        "fonte": "https://dadosabertos.camara.leg.br/api/v2/deputados/209787/discursos?dataInicio=2023-10-03&dataFim=2023-10-03",
+        "nota": "Em 03/10/2023 acusou o STF de usurpar competências e legislar; pediu impeachment de Alexandre de Moraes em 2024; coautor da PEC 50/2023."
+      },
+      "G12": {
+        "v": 5,
+        "conf": "declaracao",
+        "fonte": "https://dadosabertos.camara.leg.br/api/v2/deputados/209787/discursos?dataInicio=2026-07-14&dataFim=2026-07-14",
+        "nota": "Em 14/07/2026 criticou a oposição da esquerda à redução da maioridade penal; coautor das PECs 8/2026 e 9/2026."
+      },
+      "G14": {
+        "v": 2,
+        "conf": "declaracao",
+        "fonte": "https://dadosabertos.camara.leg.br/api/v2/deputados/209787/discursos?dataInicio=2026-05-27&dataFim=2026-05-27",
+        "nota": "Em 27/05/2026 criticou a PEC 221/2019 (redução da jornada/fim da 6x1), defendendo priorizar produtividade; coautor da PEC 40/2025."
+      },
+      "DF05": {
+        "v": 4,
+        "conf": "declaracao",
+        "fonte": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2430967",
+        "nota": "Coautor (4º de 20) do PL 1551/2024, que destinava 50% do fundo eleitoral (FEFC) às enchentes do Rio Grande do Sul."
+      }
+    }
+  }
+]
