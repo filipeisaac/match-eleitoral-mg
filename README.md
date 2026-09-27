@@ -85,3 +85,7 @@ bun scripts/build-data.ts && railway up --service match-eleitoral --detach
 - **Planos de governo registrados no TSE, debates, entrevistas e imprensa:** cada posição traz o link da sua fonte.
 
 Ferramenta independente, sem ligação com partidos ou candidatos.
+
+## Licença
+
+[MIT](LICENSE). Pode reutilizar e adaptar, inclusive para outros estados. Se adaptar, mantenha o mesmo cuidado com neutralidade e fontes.
