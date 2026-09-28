@@ -1,5 +1,6 @@
 import { calcularMatch, codificar, decodificar, ranquear, type Posicao, type Resposta, type Resultado } from "./match";
 import { icone } from "./icones";
+import { gerarImagemCola } from "./cola-imagem";
 
 // ---------- Tipos dos dados ----------
 interface Detalhes { situacao?: string; aFavor?: string[]; contra?: string[]; fontes?: string[] }
@@ -693,13 +694,13 @@ function telaBiblioteca() {
 
 // ---------- Cola ----------
 function telaCola() {
-  const linhas: { cargo: string; cand?: Candidato }[] = [];
+  const linhas: { cargo: string; cod: number; cand?: Candidato }[] = [];
   for (const c of ordemUrna) {
     const ids = cola[c] ?? [];
     if (c === 5) {
-      linhas.push({ cargo: "Senador (1º voto)", cand: D.candidatos.find((x) => x.id === ids[0]) });
-      linhas.push({ cargo: "Senador (2º voto)", cand: D.candidatos.find((x) => x.id === ids[1]) });
-    } else linhas.push({ cargo: cargoNome[c], cand: D.candidatos.find((x) => x.id === ids[0]) });
+      linhas.push({ cargo: "Senador (1º voto)", cod: c, cand: D.candidatos.find((x) => x.id === ids[0]) });
+      linhas.push({ cargo: "Senador (2º voto)", cod: c, cand: D.candidatos.find((x) => x.id === ids[1]) });
+    } else linhas.push({ cargo: cargoNome[c], cod: c, cand: D.candidatos.find((x) => x.id === ids[0]) });
   }
   const texto = [`Minha cola - Eleições 2026 (${D.uf}), 1º turno em 4/10`, ...linhas.map((l) => `${l.cargo}: ${l.cand ? `${l.cand.numero} - ${nomeBonito(l.cand.nomeUrna)} (${l.cand.partido})` : "(a decidir)"}`)].join("\n");
   render(
@@ -716,12 +717,52 @@ function telaCola() {
     h("p", { class: "callout", text: "O celular não pode entrar na cabine de votação. Anote os números num papel e leve com você." }),
     h("div", { class: "barra-inf" }, h("div", { class: "in" },
       h("button", { class: "key key-branco", onclick: () => ir("#/resultado") }, "Voltar aos matches"),
-      h("button", { class: "key key-confirma", onclick: async () => {
+      h("button", { class: "key key-branco", onclick: async () => {
         try { await navigator.clipboard.writeText(texto); toast("Cola copiada"); } catch { prompt("Copie o texto:", texto); }
       } }, "Copiar texto"),
+      h("button", { class: "key key-confirma", onclick: (e: Event) => baixarCola(e.currentTarget as HTMLButtonElement, linhas) }, "Baixar imagem"),
     )),
   );
   window.scrollTo(0, 0);
+}
+
+/** Quantos dígitos tem o número de cada cargo na urna. */
+const DIGITOS: Record<number, number> = { 1: 2, 3: 2, 5: 3, 6: 4, 7: 5 };
+
+async function baixarCola(botao: HTMLButtonElement, linhas: { cargo: string; cod: number; cand?: Candidato }[]) {
+  const rotulo = botao.textContent;
+  botao.disabled = true;
+  botao.textContent = "Gerando…";
+  try {
+    const blob = await gerarImagemCola(
+      linhas.map((l) => ({
+        cargo: l.cargo,
+        digitos: DIGITOS[l.cod],
+        cand: l.cand && { nome: nomeBonito(l.cand.nomeUrna), partido: l.cand.partido, numero: l.cand.numero, foto: l.cand.foto },
+      })),
+      D.estado,
+      location.host,
+    );
+    const nome = `minha-cola-eleicoes-2026-${D.uf.toLowerCase()}.png`;
+    const arquivo = new File([blob], nome, { type: "image/png" });
+    // No celular, a folha de compartilhamento tem "Salvar imagem", que vai direto para a galeria.
+    const celular = matchMedia("(pointer: coarse)").matches;
+    if (celular && navigator.canShare?.({ files: [arquivo] })) {
+      try { await navigator.share({ files: [arquivo], title: "Minha cola" }); return; } catch { /* cancelado: cai no download */ }
+    }
+    const url = URL.createObjectURL(blob);
+    const a = h("a", { href: url, download: nome });
+    document.body.append(a);
+    a.click();
+    a.remove();
+    setTimeout(() => URL.revokeObjectURL(url), 10000);
+    toast("Imagem da cola baixada");
+  } catch {
+    toast("Não foi possível gerar a imagem. Tente de novo.");
+  } finally {
+    botao.disabled = false;
+    botao.textContent = rotulo;
+  }
 }
 
 // ---------- Metodologia ----------
