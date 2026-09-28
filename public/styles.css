@@ -253,3 +253,7 @@ footer.rodape { font-size: 13px; color: var(--muted); border-top: 1px solid var(
 /* Ícones nos links de redes */
 .redes a { display: inline-flex; align-items: center; gap: 6px; }
 .redes .icone { flex: none; }
+
+/* Reiniciar */
+.reinicio { display: flex; flex-direction: column; gap: 10px; border: 1px dashed var(--line); border-radius: 12px; padding: 18px 20px; }
+.reinicio h2 { font-size: 20px; }

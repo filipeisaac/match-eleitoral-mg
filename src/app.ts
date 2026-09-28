@@ -94,8 +94,8 @@ function h<K extends keyof HTMLElementTagNameMap>(tag: K, attrs: Record<string, 
   return el;
 }
 const main = () => document.getElementById("main")!;
-function render(...nodes: Node[]) {
-  main().replaceChildren(...nodes);
+function render(...nodes: (Node | false | null | undefined)[]) {
+  main().replaceChildren(...nodes.filter((n): n is Node => !!n));
 }
 function toast(msg: string) {
   const t = document.getElementById("toast")!;
@@ -166,15 +166,14 @@ function telaInicio() {
     h("div", { class: "stack" },
       respondidas > 0 && idx < passos.length
         ? h("div", { class: "row" },
-            h("button", { class: "key key-confirma", onclick: () => ir("#/perguntas") }, `Continuar (${respondidas} de ${total})`),
-            h("button", { class: "key key-corrige", onclick: recomecar }, "Recomeçar"))
+            h("button", { class: "key key-confirma", onclick: () => ir("#/perguntas") }, `Continuar (${respondidas} de ${total})`))
         : respondidas > 0
           ? h("div", { class: "row" },
-              h("button", { class: "key key-confirma", onclick: () => ir("#/revisao") }, "Revisar e ver matches"),
-              h("button", { class: "key key-corrige", onclick: recomecar }, "Recomeçar"))
+              h("button", { class: "key key-confirma", onclick: () => ir("#/revisao") }, "Revisar e ver matches"))
           : h("button", { class: "key key-confirma", onclick: () => { idx = 0; ir("#/perguntas"); } }, "Começar"),
       h("p", { class: "muted small", text: `São ${total} perguntas, uns 8 minutos. Qualquer uma pode ser pulada.` }),
     ),
+    respondidas > 0 && blocoReinicio(),
     h("p", { class: "nota-privacidade small" },
       "Nada do que você responde sai do seu aparelho: o cálculo é feito no seu navegador. Isto não é pesquisa eleitoral nem enquete, e nenhuma resposta é guardada ou somada."),
     rodape(data),
@@ -195,10 +194,39 @@ function rodape(data?: string) {
   );
 }
 
-function recomecar() {
-  respostas = {}; importantes = []; idx = 0; cola = {}; compartilhado = false;
-  guardar();
-  ir("#/perguntas");
+/** Apaga tudo o que o app guardou neste aparelho e volta à escolha de estado. */
+function reiniciarTudo() {
+  respostas = {}; importantes = []; idx = 0; cola = {}; compartilhado = false; UF = null;
+  D = undefined as unknown as Dados;
+  expandidos.clear();
+  try {
+    for (const k of ["me-respostas", "me-importantes", "me-idx", "me-cola", "me-uf"]) localStorage.removeItem(k);
+    sessionStorage.removeItem("me-semente");
+  } catch {}
+  toast("Tudo apagado. Você pode começar de novo.");
+  ir("#/");
+}
+
+/** Botão de reiniciar com uma etapa de confirmação na própria página. */
+function blocoReinicio() {
+  const caixa = h("section", { class: "reinicio" });
+  const inicial = () => caixa.replaceChildren(
+    h("h2", { text: "Quer começar de novo?" }),
+    h("p", { class: "muted small", text: "Apaga suas respostas, os temas marcados, a sua cola e o estado escolhido. Útil também se outra pessoa for usar este aparelho." }),
+    h("button", { class: "key key-corrige", onclick: confirmar }, "Reiniciar"),
+  );
+  const confirmar = () => {
+    caixa.replaceChildren(
+      h("h2", { text: "Apagar tudo e reiniciar?" }),
+      h("p", { class: "small", text: "Suas respostas, os temas marcados, a sua cola e o estado escolhido serão apagados deste aparelho. Não dá para desfazer." }),
+      h("div", { class: "row" },
+        h("button", { class: "key key-branco", onclick: inicial }, "Cancelar"),
+        h("button", { class: "key key-corrige", onclick: reiniciarTudo }, "Sim, apagar e reiniciar")),
+    );
+    (caixa.querySelector(".key-branco") as HTMLButtonElement | null)?.focus();
+  };
+  inicial();
+  return caixa;
 }
 
 function blocoDetalhes(d?: Detalhes) {
@@ -519,6 +547,7 @@ function telaResultado(rolarTopo = true) {
       h("p", { class: "muted", text: "Na biblioteca estão todos os dados que levantamos de cada candidato, separados por cargo, com busca por nome e filtro por partido." }),
       h("button", { class: "key key-ink", onclick: () => ir("#/candidatos") }, "Abrir a biblioteca de candidatos"),
     ),
+    !compartilhado && blocoReinicio(),
     rodape(),
     h("div", { class: "barra-inf" }, h("div", { class: "in" },
       !compartilhado && h("button", { class: "key key-confirma", onclick: () => ir("#/cola") }, `Minha cola (${nCola})`),
