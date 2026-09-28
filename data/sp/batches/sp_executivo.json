@@ -1,0 +1,1325 @@
+[
+ {
+  "id": 250002550913,
+  "cargoCod": 3,
+  "cargo": "Governador",
+  "nomeUrna": "CARLOS MACHADO",
+  "nomeCompleto": "CARLOS ALBERTO MACHADO",
+  "numero": 21,
+  "partido": "PCB",
+  "coligacao": "PCB",
+  "situacao": "Deferido",
+  "ocupacao": "Professor de Ensino Médio",
+  "incumbente": false,
+  "arrecadado": null,
+  "anteriores": [
+   {
+    "ano": 2024,
+    "cargo": "Vice-prefeito",
+    "local": "FRANCA",
+    "partido": "PCB",
+    "resultado": "Não eleito"
+   }
+  ],
+  "sites": [
+   "HTTPS://WWW.INSTAGRAM.COM/CAMARADA_CARLOS_MACHADO/",
+   "HTTPS://WWW.FACEBOOK.COM/CAMARADA.CARLOS.MACHADO"
+  ],
+  "posicoesExistentes": {},
+  "perguntasFaltando": [
+   "G01",
+   "G02",
+   "G03",
+   "G04",
+   "G05",
+   "G06",
+   "G07",
+   "G08",
+   "G09",
+   "G10",
+   "G11",
+   "G12",
+   "G13",
+   "G14",
+   "SPGV01",
+   "SPGV02",
+   "SPGV03",
+   "SPGV04",
+   "SPGV05",
+   "SPGV06"
+  ]
+ },
+ {
+  "id": 250002549705,
+  "cargoCod": 3,
+  "cargo": "Governador",
+  "nomeUrna": "FERNANDO HADDAD",
+  "nomeCompleto": "FERNANDO HADDAD",
+  "numero": 13,
+  "partido": "PT",
+  "coligacao": "DESPERTA SÃO PAULO",
+  "situacao": "Deferido",
+  "ocupacao": "Professor de Ensino Superior",
+  "incumbente": false,
+  "arrecadado": null,
+  "anteriores": [
+   {
+    "ano": 2022,
+    "cargo": "Governador",
+    "local": "SÃO PAULO",
+    "partido": "PT",
+    "resultado": "2º turno"
+   },
+   {
+    "ano": 2018,
+    "cargo": "Presidente",
+    "local": "BRASIL",
+    "partido": "PT",
+    "resultado": "Não eleito"
+   },
+   {
+    "ano": 2018,
+    "cargo": "Vice-presidente",
+    "local": "BRASIL",
+    "partido": "PT",
+    "resultado": "Concorrendo"
+   },
+   {
+    "ano": 2016,
+    "cargo": "Prefeito",
+    "local": "SÃO PAULO",
+    "partido": "PT",
+    "resultado": "Não eleito"
+   }
+  ],
+  "sites": [
+   "HTTPS://WWW.YOUTUBE.COM/@FERNANDOHADDADOFICIAL",
+   "HTTPS://X.COM/HADDAD_FERNANDO",
+   "HTTPS://WWW.KWAI.COM/@HADDADFERNANDO",
+   "HTTPS://WWW.INSTAGRAM.COM/FERNANDOHADDADOFICIAL/",
+   "HTTPS://HADDADELULA.COM/",
+   "HTTPS://HADDADOFICIAL.COM.BR",
+   "HTTPS://WWW.THREADS.COM/@FERNANDOHADDADOFICIAL",
+   "HTTPS://WEB.FACEBOOK.COM/FERNANDOHADDAD",
+   "HTTPS://WWW.TIKTOK.COM/@HADDADFERNANDO"
+  ],
+  "posicoesExistentes": {},
+  "perguntasFaltando": [
+   "G01",
+   "G02",
+   "G03",
+   "G04",
+   "G05",
+   "G06",
+   "G07",
+   "G08",
+   "G09",
+   "G10",
+   "G11",
+   "G12",
+   "G13",
+   "G14",
+   "SPGV01",
+   "SPGV02",
+   "SPGV03",
+   "SPGV04",
+   "SPGV05",
+   "SPGV06"
+  ]
+ },
+ {
+  "id": 250002553062,
+  "cargoCod": 3,
+  "cargo": "Governador",
+  "nomeUrna": "IZADORA DIAS",
+  "nomeCompleto": "IZADORA CRISTINA DIAS DA SILVA",
+  "numero": 29,
+  "partido": "PCO",
+  "coligacao": "PCO",
+  "situacao": "Indeferido em prazo recursal ou com recurso",
+  "ocupacao": "Estudante, Bolsista, Estagiário e Assemelhados",
+  "incumbente": false,
+  "arrecadado": null,
+  "anteriores": [
+   {
+    "ano": 2022,
+    "cargo": "Deputado Federal",
+    "local": "SÃO PAULO",
+    "partido": "PCO",
+    "resultado": "Não eleito"
+   },
+   {
+    "ano": 2020,
+    "cargo": "Vereador",
+    "local": "BARRA BONITA",
+    "partido": "PCO",
+    "resultado": "Não eleito"
+   }
+  ],
+  "sites": [
+   "https://www.tiktok.com/@izadoradias29",
+   "https://x.com/izadoradias29",
+   "HTTPS://CANDIDATOS.PCO.ORG.BR",
+   "https://www.facebook.com/izzadoradias?_rdc=1&_rdr",
+   "https://www.instagram.com/izadoradias.pco/"
+  ],
+  "posicoesExistentes": {},
+  "perguntasFaltando": [
+   "G01",
+   "G02",
+   "G03",
+   "G04",
+   "G05",
+   "G06",
+   "G07",
+   "G08",
+   "G09",
+   "G10",
+   "G11",
+   "G12",
+   "G13",
+   "G14",
+   "SPGV01",
+   "SPGV02",
+   "SPGV03",
+   "SPGV04",
+   "SPGV05",
+   "SPGV06"
+  ]
+ },
+ {
+  "id": 250002541303,
+  "cargoCod": 3,
+  "cargo": "Governador",
+  "nomeUrna": "TARCÍSIO",
+  "nomeCompleto": "TARCISIO GOMES DE FREITAS",
+  "numero": 10,
+  "partido": "REPUBLICANOS",
+  "coligacao": "CORAGEM PARA SEGUIR AVANÇANDO",
+  "situacao": "Deferido",
+  "ocupacao": "Governador",
+  "incumbente": false,
+  "arrecadado": null,
+  "anteriores": [
+   {
+    "ano": 2022,
+    "cargo": "Governador",
+    "local": "SÃO PAULO",
+    "partido": "REPUBLICANOS",
+    "resultado": "Eleito"
+   }
+  ],
+  "sites": [
+   "HTTPS://WWW.YOUTUBE.COM/@TARÇANEWS",
+   "https://WWW.VOTETARCISIO10.COM.BR",
+   "HTTPS://WWW.YOUTUBE.COM/@TARCISIOGDF",
+   "HTTPS://WWW.KWAI.COM/@TARCISIOGDF.OFICIAL",
+   "HTTPS://TARCISIOSP.COM.BR",
+   "HTTPS://X.COM/TARCISIOGDF",
+   "HTTPS://WWW.INSTAGRAM.COM/TARCISIOGDF/",
+   "HTTPS://WWW.FACEBOOK.COM/TARCISIOGDF/",
+   "HTTPS://WWW.TIKTOK.COM/@TARCISIOGDF/",
+   "https://WWW.TARCANEWS.COM.BR",
+   "HTTPS://WWW.THREADS.COM/@TARCISIOGDF"
+  ],
+  "posicoesExistentes": {},
+  "perguntasFaltando": [
+   "G01",
+   "G02",
+   "G03",
+   "G04",
+   "G05",
+   "G06",
+   "G07",
+   "G08",
+   "G09",
+   "G10",
+   "G11",
+   "G12",
+   "G13",
+   "G14",
+   "SPGV01",
+   "SPGV02",
+   "SPGV03",
+   "SPGV04",
+   "SPGV05",
+   "SPGV06"
+  ]
+ },
+ {
+  "id": 250002536915,
+  "cargoCod": 3,
+  "cargo": "Governador",
+  "nomeUrna": "VERA LÚCIA",
+  "nomeCompleto": "VERA LÚCIA PEREIRA DA SILVA SALGADO",
+  "numero": 16,
+  "partido": "PSTU",
+  "coligacao": "PSTU",
+  "situacao": "Deferido",
+  "ocupacao": "Sociólogo",
+  "incumbente": false,
+  "arrecadado": null,
+  "anteriores": [
+   {
+    "ano": 2022,
+    "cargo": "Presidente",
+    "local": "BRASIL",
+    "partido": "PSTU",
+    "resultado": "Não eleito"
+   },
+   {
+    "ano": 2020,
+    "cargo": "Prefeito",
+    "local": "SÃO PAULO",
+    "partido": "PSTU",
+    "resultado": "Não eleito"
+   },
+   {
+    "ano": 2018,
+    "cargo": "Presidente",
+    "local": "BRASIL",
+    "partido": "PSTU",
+    "resultado": "Não eleito"
+   },
+   {
+    "ano": 2016,
+    "cargo": "Prefeito",
+    "local": "ARACAJU",
+    "partido": "PSTU",
+    "resultado": "Não eleito"
+   }
+  ],
+  "sites": [
+   "HTTPS://WWW.INSTAGRAM.COM/VERA_PSTU/",
+   "HTTPS://WWW.YOUTUBE.COM/@VERAPSTU"
+  ],
+  "posicoesExistentes": {},
+  "perguntasFaltando": [
+   "G01",
+   "G02",
+   "G03",
+   "G04",
+   "G05",
+   "G06",
+   "G07",
+   "G08",
+   "G09",
+   "G10",
+   "G11",
+   "G12",
+   "G13",
+   "G14",
+   "SPGV01",
+   "SPGV02",
+   "SPGV03",
+   "SPGV04",
+   "SPGV05",
+   "SPGV06"
+  ]
+ },
+ {
+  "id": 250002544912,
+  "cargoCod": 3,
+  "cargo": "Governador",
+  "nomeUrna": "VIVIAN MENDES",
+  "nomeCompleto": "VIVIAN MENDES DA SILVA",
+  "numero": 80,
+  "partido": "UP",
+  "coligacao": "UP",
+  "situacao": "Deferido",
+  "ocupacao": "Relações-Públicas",
+  "incumbente": false,
+  "arrecadado": null,
+  "anteriores": [
+   {
+    "ano": 2022,
+    "cargo": "Senador",
+    "local": "SÃO PAULO",
+    "partido": "UP",
+    "resultado": "Não eleito"
+   }
+  ],
+  "sites": [
+   "https://@VIVIANMENDES.OFICIAL"
+  ],
+  "posicoesExistentes": {},
+  "perguntasFaltando": [
+   "G01",
+   "G02",
+   "G03",
+   "G04",
+   "G05",
+   "G06",
+   "G07",
+   "G08",
+   "G09",
+   "G10",
+   "G11",
+   "G12",
+   "G13",
+   "G14",
+   "SPGV01",
+   "SPGV02",
+   "SPGV03",
+   "SPGV04",
+   "SPGV05",
+   "SPGV06"
+  ]
+ },
+ {
+  "id": 250002541308,
+  "cargoCod": 5,
+  "cargo": "Senador",
+  "nomeUrna": "ANDRÉ DO PRADO",
+  "nomeCompleto": "ANDRE LUIS DO PRADO",
+  "numero": 222,
+  "partido": "PL",
+  "coligacao": "CORAGEM PARA SEGUIR AVANÇANDO",
+  "situacao": "Deferido",
+  "ocupacao": "Deputado",
+  "incumbente": false,
+  "arrecadado": null,
+  "anteriores": [
+   {
+    "ano": 2022,
+    "cargo": "Deputado Estadual",
+    "local": "SÃO PAULO",
+    "partido": "PL",
+    "resultado": "Eleito por QP"
+   },
+   {
+    "ano": 2018,
+    "cargo": "Deputado Estadual",
+    "local": "SÃO PAULO",
+    "partido": "PR",
+    "resultado": "Eleito por QP"
+   },
+   {
+    "ano": 2014,
+    "cargo": "Deputado Estadual",
+    "local": "SÃO PAULO",
+    "partido": "PR",
+    "resultado": "Eleito por QP"
+   },
+   {
+    "ano": 2010,
+    "cargo": "Deputado Estadual",
+    "local": "SÃO PAULO",
+    "partido": "PR",
+    "resultado": "Eleito"
+   }
+  ],
+  "sites": [
+   "HTTPS://X.COM/_ANDREDOPRADO",
+   "https://x.com/andredopradosp",
+   "HTTPS://WWW.TIKTOK.COM/@ANDREDOPRADO_",
+   "HTTPS://WWW.FACEBOOK.COM/DEP.ANDREDOPRADO",
+   "HTTPS://WWW.INSTAGRAM.COM/ANDREDOPRADOSP/",
+   "https://k.kwai.com/u/@andredopradosp/CQMyLvGu",
+   "https://www.tiktok.com/@andredopradosp"
+  ],
+  "posicoesExistentes": {},
+  "perguntasFaltando": [
+   "G01",
+   "G02",
+   "G03",
+   "G04",
+   "G05",
+   "G06",
+   "G07",
+   "G08",
+   "G09",
+   "G10",
+   "G11",
+   "G12",
+   "G13",
+   "G14",
+   "S01",
+   "S02",
+   "S03",
+   "S04",
+   "S05"
+  ]
+ },
+ {
+  "id": 250002541362,
+  "cargoCod": 5,
+  "cargo": "Senador",
+  "nomeUrna": "DRA ELIANA FERREIRA",
+  "nomeCompleto": "ELIANA LUCIA FERREIRA",
+  "numero": 161,
+  "partido": "PSTU",
+  "coligacao": "PSTU",
+  "situacao": "Deferido",
+  "ocupacao": "Advogado",
+  "incumbente": false,
+  "arrecadado": null,
+  "anteriores": [
+   {
+    "ano": 2024,
+    "cargo": "Vereador",
+    "local": "SÃO BERNARDO DO CAMPO",
+    "partido": "PSTU",
+    "resultado": "Não eleito"
+   },
+   {
+    "ano": 2022,
+    "cargo": "1º Suplente",
+    "local": "SÃO PAULO",
+    "partido": "PSTU",
+    "resultado": "Não eleito"
+   },
+   {
+    "ano": 2020,
+    "cargo": "Vereador",
+    "local": "SÃO BERNARDO DO CAMPO",
+    "partido": "PSTU",
+    "resultado": "Não eleito"
+   },
+   {
+    "ano": 2018,
+    "cargo": "Senador",
+    "local": "SÃO PAULO",
+    "partido": "PSTU",
+    "resultado": "Não eleito"
+   }
+  ],
+  "sites": [
+   "HTTPS://WWW.INSTAGRAM.COM/DRA.ELIANAFERREIRA.PSTU/",
+   "HTTPS://WWW.FACEBOOK.COM/DRA.ELIANA.PSTU"
+  ],
+  "posicoesExistentes": {},
+  "perguntasFaltando": [
+   "G01",
+   "G02",
+   "G03",
+   "G04",
+   "G05",
+   "G06",
+   "G07",
+   "G08",
+   "G09",
+   "G10",
+   "G11",
+   "G12",
+   "G13",
+   "G14",
+   "S01",
+   "S02",
+   "S03",
+   "S04",
+   "S05"
+  ]
+ },
+ {
+  "id": 250002552955,
+  "cargoCod": 5,
+  "cargo": "Senador",
+  "nomeUrna": "EDNELSON CESARETTI",
+  "nomeCompleto": "EDNELSON CESARETTI",
+  "numero": 290,
+  "partido": "PCO",
+  "coligacao": "PCO",
+  "situacao": "Indeferido em prazo recursal ou com recurso",
+  "ocupacao": "Professor de Ensino Médio",
+  "incumbente": false,
+  "arrecadado": null,
+  "anteriores": [
+   {
+    "ano": 2006,
+    "cargo": "Deputado Federal",
+    "local": "SÃO PAULO",
+    "partido": "PCO",
+    "resultado": "Não eleito"
+   },
+   {
+    "ano": 2004,
+    "cargo": "Vereador",
+    "local": "SÃO PAULO",
+    "partido": "PCO",
+    "resultado": "Não eleito"
+   }
+  ],
+  "sites": [
+   "HTTPS://CANDIDATOS.PCO.ORG.BR"
+  ],
+  "posicoesExistentes": {},
+  "perguntasFaltando": [
+   "G01",
+   "G02",
+   "G03",
+   "G04",
+   "G05",
+   "G06",
+   "G07",
+   "G08",
+   "G09",
+   "G10",
+   "G11",
+   "G12",
+   "G13",
+   "G14",
+   "S01",
+   "S02",
+   "S03",
+   "S04",
+   "S05"
+  ]
+ },
+ {
+  "id": 250002544673,
+  "cargoCod": 5,
+  "cargo": "Senador",
+  "nomeUrna": "GERALDO RUFINO",
+  "nomeCompleto": "GERALDO ARISTIDES RUFINO",
+  "numero": 200,
+  "partido": "PODE",
+  "coligacao": "PODE",
+  "situacao": "Deferido",
+  "ocupacao": "Empresário",
+  "incumbente": false,
+  "arrecadado": null,
+  "anteriores": [
+   {
+    "ano": 2018,
+    "cargo": "Deputado Federal",
+    "local": "SÃO PAULO",
+    "partido": "PODE",
+    "resultado": "Suplente"
+   }
+  ],
+  "sites": [
+   "https://www.instagram.com/geraldoarufino/",
+   "HTTPS://WWW.TIKTOK.COM/@GERALDOARUFINO",
+   "HTTPS://BR.LINKEDIN.COM/IN/GERALDORUFINO",
+   "HTTPS://WWW.FACEBOOK.COM/GERALDORUFINOOFICIAL/?LOCALE=PT_BR",
+   "https://WWW.YOUTUBE.COM/@GERALDORUFINO"
+  ],
+  "posicoesExistentes": {},
+  "perguntasFaltando": [
+   "G01",
+   "G02",
+   "G03",
+   "G04",
+   "G05",
+   "G06",
+   "G07",
+   "G08",
+   "G09",
+   "G10",
+   "G11",
+   "G12",
+   "G13",
+   "G14",
+   "S01",
+   "S02",
+   "S03",
+   "S04",
+   "S05"
+  ]
+ },
+ {
+  "id": 250002541312,
+  "cargoCod": 5,
+  "cargo": "Senador",
+  "nomeUrna": "GUILHERME DERRITE",
+  "nomeCompleto": "GUILHERME MURARO DERRITE",
+  "numero": 111,
+  "partido": "PP",
+  "coligacao": "CORAGEM PARA SEGUIR AVANÇANDO",
+  "situacao": "Deferido",
+  "ocupacao": "Deputado",
+  "incumbente": false,
+  "arrecadado": null,
+  "anteriores": [
+   {
+    "ano": 2022,
+    "cargo": "Deputado Federal",
+    "local": "SÃO PAULO",
+    "partido": "PL",
+    "resultado": "Eleito por QP"
+   },
+   {
+    "ano": 2018,
+    "cargo": "Deputado Federal",
+    "local": "SÃO PAULO",
+    "partido": "PP",
+    "resultado": "Eleito por QP"
+   }
+  ],
+  "sites": [
+   "HTTPS://WWW.FACEBOOK.COM/GUILHERMEDERRITE",
+   "HTTPS://X.COM/DERRITESP",
+   "HTTPS://WWW.INSTAGRAM.COM/GUILHERMEDERRITE",
+   "HTTPS://WWW.TIKTOK.COM/TAG/DERRITE"
+  ],
+  "posicoesExistentes": {
+   "G08": {
+    "v": 4,
+    "conf": "voto",
+    "nota": "Votou Sim em PL 2162/2023 (10/12/2025)."
+   },
+   "G03": {
+    "v": 4,
+    "conf": "voto",
+    "nota": "Votou Sim em PL 591/2021 (privatização dos Correios) (05/08/2021); Sim em MP 1031/2021 (privatização da Eletrobras) (19/05/2021)."
+   }
+  },
+  "perguntasFaltando": [
+   "G01",
+   "G02",
+   "G04",
+   "G05",
+   "G06",
+   "G07",
+   "G09",
+   "G10",
+   "G11",
+   "G12",
+   "G13",
+   "G14",
+   "S01",
+   "S02",
+   "S03",
+   "S04",
+   "S05"
+  ]
+ },
+ {
+  "id": 250002554075,
+  "cargoCod": 5,
+  "cargo": "Senador",
+  "nomeUrna": "GUTO SCHIAVETTO",
+  "nomeCompleto": "RICARDO AUGUSTO MANGUE SCHIAVETTO",
+  "numero": 144,
+  "partido": "MISSÃO",
+  "coligacao": "MISSÃO",
+  "situacao": "Deferido",
+  "ocupacao": "Comerciante",
+  "incumbente": false,
+  "arrecadado": null,
+  "anteriores": [
+   {
+    "ano": 2024,
+    "cargo": "Vereador",
+    "local": "LIMEIRA",
+    "partido": "PP",
+    "resultado": "Suplente"
+   },
+   {
+    "ano": 2020,
+    "cargo": "Vereador",
+    "local": "LIMEIRA",
+    "partido": "PV",
+    "resultado": "Suplente"
+   },
+   {
+    "ano": 2016,
+    "cargo": "Vereador",
+    "local": "LIMEIRA",
+    "partido": "REDE",
+    "resultado": "Não eleito"
+   }
+  ],
+  "sites": [
+   "https://www.gutoschiavetto.com.br/",
+   "https://www.instagram.com/gutoschiavetto/"
+  ],
+  "posicoesExistentes": {},
+  "perguntasFaltando": [
+   "G01",
+   "G02",
+   "G03",
+   "G04",
+   "G05",
+   "G06",
+   "G07",
+   "G08",
+   "G09",
+   "G10",
+   "G11",
+   "G12",
+   "G13",
+   "G14",
+   "S01",
+   "S02",
+   "S03",
+   "S04",
+   "S05"
+  ]
+ },
+ {
+  "id": 250002544516,
+  "cargoCod": 5,
+  "cargo": "Senador",
+  "nomeUrna": "MAÍRA DE SOUZA",
+  "nomeCompleto": "MAÍRA DIAS DE SOUZA",
+  "numero": 808,
+  "partido": "UP",
+  "coligacao": "UP",
+  "situacao": "Deferido",
+  "ocupacao": "Professor de Ensino Fundamental",
+  "incumbente": false,
+  "arrecadado": null,
+  "anteriores": [],
+  "sites": [
+   "https://@MAIRADESOUZA.UP"
+  ],
+  "posicoesExistentes": {},
+  "perguntasFaltando": [
+   "G01",
+   "G02",
+   "G03",
+   "G04",
+   "G05",
+   "G06",
+   "G07",
+   "G08",
+   "G09",
+   "G10",
+   "G11",
+   "G12",
+   "G13",
+   "G14",
+   "S01",
+   "S02",
+   "S03",
+   "S04",
+   "S05"
+  ]
+ },
+ {
+  "id": 250002544514,
+  "cargoCod": 5,
+  "cargo": "Senador",
+  "nomeUrna": "MARCIO ALVES",
+  "nomeCompleto": "MARCIO ALVES DOS SANTOS",
+  "numero": 800,
+  "partido": "UP",
+  "coligacao": "UP",
+  "situacao": "Deferido",
+  "ocupacao": "Eletricista e Assemelhados",
+  "incumbente": false,
+  "arrecadado": null,
+  "anteriores": [
+   {
+    "ano": 2022,
+    "cargo": "2º Suplente",
+    "local": "SÃO PAULO",
+    "partido": "UP",
+    "resultado": "Não eleito"
+   }
+  ],
+  "sites": [
+   "https://@MARCIOALVES.UP"
+  ],
+  "posicoesExistentes": {},
+  "perguntasFaltando": [
+   "G01",
+   "G02",
+   "G03",
+   "G04",
+   "G05",
+   "G06",
+   "G07",
+   "G08",
+   "G09",
+   "G10",
+   "G11",
+   "G12",
+   "G13",
+   "G14",
+   "S01",
+   "S02",
+   "S03",
+   "S04",
+   "S05"
+  ]
+ },
+ {
+  "id": 250002551501,
+  "cargoCod": 5,
+  "cargo": "Senador",
+  "nomeUrna": "MARINA SILVA",
+  "nomeCompleto": "MARIA OSMARINA MARINA DA SILVA VAZ DE LIMA",
+  "numero": 180,
+  "partido": "REDE",
+  "coligacao": "DESPERTA SÃO PAULO",
+  "situacao": "Deferido",
+  "ocupacao": "Deputado",
+  "incumbente": false,
+  "arrecadado": null,
+  "anteriores": [
+   {
+    "ano": 2022,
+    "cargo": "Deputado Federal",
+    "local": "SÃO PAULO",
+    "partido": "REDE",
+    "resultado": "Eleito por QP"
+   },
+   {
+    "ano": 2018,
+    "cargo": "Presidente",
+    "local": "BRASIL",
+    "partido": "REDE",
+    "resultado": "Não eleito"
+   },
+   {
+    "ano": 2014,
+    "cargo": "Vice-presidente",
+    "local": "BRASIL",
+    "partido": "PSB",
+    "resultado": "Concorrendo"
+   },
+   {
+    "ano": 2014,
+    "cargo": "Presidente",
+    "local": "BRASIL",
+    "partido": "PSB",
+    "resultado": "Não eleito"
+   }
+  ],
+  "sites": [
+   "https://marinasilva180.com.br/",
+   "HTTPS://WWW.YOUTUBE.COM/@MSILVAONLINE",
+   "HTTPS://X.COM/MARINASILVA",
+   "HTTPS://WWW.THREADS.COM/@MARINASILVAOFICIAL",
+   "HTTPS://WWW.INSTAGRAM.COM/MARINASILVAOFICIAL/",
+   "HTTPS://WWW.FACEBOOK.COM/MARINASILVA.OFICIAL/",
+   "HTTPS://WWW.TIKTOK.COM/@_MARINA.SILVA",
+   "https://www.whatsapp.com/channel/0029Vb8oLQY7j6g6CP0wVJ2L",
+   "https://www.kwai.com/@marinasilva_",
+   "HTTPS://MARINASILVA.ORG.BR/"
+  ],
+  "posicoesExistentes": {
+   "G14": {
+    "v": 5,
+    "conf": "voto",
+    "nota": "Votou Sim em PEC 221/2019 (27/05/2026); Sim em PEC 221/2019 (27/05/2026)."
+   }
+  },
+  "perguntasFaltando": [
+   "G01",
+   "G02",
+   "G03",
+   "G04",
+   "G05",
+   "G06",
+   "G07",
+   "G08",
+   "G09",
+   "G10",
+   "G11",
+   "G12",
+   "G13",
+   "S01",
+   "S02",
+   "S03",
+   "S04",
+   "S05"
+  ]
+ },
+ {
+  "id": 250002552153,
+  "cargoCod": 5,
+  "cargo": "Senador",
+  "nomeUrna": "PETTER MAAHS",
+  "nomeCompleto": "PETTER MAAHS DA SILVA",
+  "numero": 211,
+  "partido": "PCB",
+  "coligacao": "PCB",
+  "situacao": "Deferido",
+  "ocupacao": "Servidor Público Municipal",
+  "incumbente": false,
+  "arrecadado": null,
+  "anteriores": [],
+  "sites": [
+   "HTTPS://WWW.FACEBOOK.COM/PROFILE.PHP?ID=61579060252850&LOCALE=PT_BR",
+   "HTTPS://WWW.INSTAGRAM.COM/PETTER.MAAHS/"
+  ],
+  "posicoesExistentes": {},
+  "perguntasFaltando": [
+   "G01",
+   "G02",
+   "G03",
+   "G04",
+   "G05",
+   "G06",
+   "G07",
+   "G08",
+   "G09",
+   "G10",
+   "G11",
+   "G12",
+   "G13",
+   "G14",
+   "S01",
+   "S02",
+   "S03",
+   "S04",
+   "S05"
+  ]
+ },
+ {
+  "id": 250002532794,
+  "cargoCod": 5,
+  "cargo": "Senador",
+  "nomeUrna": "SALLES",
+  "nomeCompleto": "RICARDO DE AQUINO SALLES",
+  "numero": 300,
+  "partido": "NOVO",
+  "coligacao": "NOVO",
+  "situacao": "Deferido",
+  "ocupacao": "Advogado",
+  "incumbente": false,
+  "arrecadado": null,
+  "anteriores": [
+   {
+    "ano": 2022,
+    "cargo": "Deputado Federal",
+    "local": "SÃO PAULO",
+    "partido": "PL",
+    "resultado": "Eleito por QP"
+   },
+   {
+    "ano": 2018,
+    "cargo": "Deputado Federal",
+    "local": "SÃO PAULO",
+    "partido": "NOVO",
+    "resultado": "Suplente"
+   },
+   {
+    "ano": 2012,
+    "cargo": "Vereador",
+    "local": "SÃO PAULO",
+    "partido": "PSDB",
+    "resultado": "Concorrendo"
+   },
+   {
+    "ano": 2010,
+    "cargo": "Deputado Estadual",
+    "local": "SÃO PAULO",
+    "partido": "DEM",
+    "resultado": "Suplente"
+   }
+  ],
+  "sites": [
+   "https://www.youtube.com/@conservatalk",
+   "HTTPS://WWW.TWITTER.COM/@RSALLESMMA",
+   "https://www.tiktok.com/@ricardo.sallesmma",
+   "HTTPS://WWW.FACEBOOK.COM/@RICARDOSALLESMMA",
+   "HTTPS://WWW.RICARDOSALLES.COM.BR",
+   "HTTPS://WWW.INSTAGRAM.COM/RICARDOSALLESMMA"
+  ],
+  "posicoesExistentes": {
+   "G10": {
+    "v": 2,
+    "conf": "voto",
+    "nota": "Votou Não em PL 2630/2020 (25/04/2023)."
+   },
+   "G04": {
+    "v": 4,
+    "conf": "voto",
+    "nota": "Votou Sim em PDL 3/2023 (06/12/2023)."
+   },
+   "G11": {
+    "v": 2,
+    "conf": "voto",
+    "nota": "Votou Não em PL 1958/2021 (19/11/2024)."
+   },
+   "G08": {
+    "v": 4,
+    "conf": "voto",
+    "nota": "Votou Sim em PL 2162/2023 (17/09/2025); Sim em PL 2162/2023 (10/12/2025)."
+   },
+   "G14": {
+    "v": 1,
+    "conf": "voto",
+    "nota": "Votou Não em PEC 221/2019 (27/05/2026); Não em PEC 221/2019 (27/05/2026)."
+   }
+  },
+  "perguntasFaltando": [
+   "G01",
+   "G02",
+   "G03",
+   "G05",
+   "G06",
+   "G07",
+   "G09",
+   "G12",
+   "G13",
+   "S01",
+   "S02",
+   "S03",
+   "S04",
+   "S05"
+  ]
+ },
+ {
+  "id": 250002551502,
+  "cargoCod": 5,
+  "cargo": "Senador",
+  "nomeUrna": "SIMONE TEBET",
+  "nomeCompleto": "SIMONE NASSAR TEBET ROCHA",
+  "numero": 400,
+  "partido": "PSB",
+  "coligacao": "DESPERTA SÃO PAULO",
+  "situacao": "Deferido",
+  "ocupacao": "Advogado",
+  "incumbente": false,
+  "arrecadado": null,
+  "anteriores": [
+   {
+    "ano": 2022,
+    "cargo": "Presidente",
+    "local": "BRASIL",
+    "partido": "MDB",
+    "resultado": "Não eleito"
+   },
+   {
+    "ano": 2014,
+    "cargo": "Senador",
+    "local": "MATO GROSSO DO SUL",
+    "partido": "PMDB",
+    "resultado": "Eleito"
+   },
+   {
+    "ano": 2010,
+    "cargo": "Vice-Governador",
+    "local": "MATO GROSSO DO SUL",
+    "partido": "PMDB",
+    "resultado": "Concorrendo"
+   },
+   {
+    "ano": 2008,
+    "cargo": "Prefeito",
+    "local": "TRÊS LAGOAS",
+    "partido": "PMDB",
+    "resultado": "Eleito"
+   }
+  ],
+  "sites": [
+   "https://www.youtube.com/SimoneTebet",
+   "https://WHATSAPP.COM/CHANNEL/0029VB8ZLGBIXNLWMP0WJU2B",
+   "HTTPS://WWW.FLICKR.COM/PHOTOS/SIMONETEBETBR/",
+   "HTTPS://SOUNDCLOUD.COM/SIMONE-TEBET-25534643",
+   "HTTPS://WWW.INSTAGRAM.COM/SIMONETEBET/",
+   "HTTPS://WWW.KWAI.COM/@SIMONETEBET",
+   "HTTPS://SIMONE400.COM.BR/",
+   "HTTPS://SIMONETEBET.COM.BR/",
+   "HTTPS://X.COM/SIMONETEBETBR",
+   "HTTPS://LINKTR.EE/SIMONETEBET",
+   "HTTPS://WWW.TIKTOK.COM/@SIMONETEBET.400",
+   "HTTPS://WWW.THREADS.COM/@SIMONETEBET",
+   "HTTPS://WWW.FACEBOOK.COM/SIMONETEBET/",
+   "HTTPS://WWW.TIKTOK.COM/@SIMONETEBETBR"
+  ],
+  "posicoesExistentes": {},
+  "perguntasFaltando": [
+   "G01",
+   "G02",
+   "G03",
+   "G04",
+   "G05",
+   "G06",
+   "G07",
+   "G08",
+   "G09",
+   "G10",
+   "G11",
+   "G12",
+   "G13",
+   "G14",
+   "S01",
+   "S02",
+   "S03",
+   "S04",
+   "S05"
+  ]
+ },
+ {
+  "id": 250002552369,
+  "cargoCod": 5,
+  "cargo": "Senador",
+  "nomeUrna": "SONINHA FRANCINE",
+  "nomeCompleto": "SONIA FRANCINE GASPAR MARMO",
+  "numero": 232,
+  "partido": "CIDADANIA",
+  "coligacao": "FEDERAÇÃO PSDB CIDADANIA(45-PSDB/23-CIDADANIA)",
+  "situacao": "Deferido",
+  "ocupacao": "Publicitário",
+  "incumbente": false,
+  "arrecadado": null,
+  "anteriores": [
+   {
+    "ano": 2020,
+    "cargo": "Vereador",
+    "local": "SÃO PAULO",
+    "partido": "CIDADANIA",
+    "resultado": "Não eleito"
+   },
+   {
+    "ano": 2016,
+    "cargo": "Vereador",
+    "local": "SÃO PAULO",
+    "partido": "PPS",
+    "resultado": "Eleito por QP"
+   },
+   {
+    "ano": 2014,
+    "cargo": "Deputado Federal",
+    "local": "SÃO PAULO",
+    "partido": "PPS",
+    "resultado": "Suplente"
+   },
+   {
+    "ano": 2012,
+    "cargo": "Prefeito",
+    "local": "SÃO PAULO",
+    "partido": "PPS",
+    "resultado": "Não eleito"
+   }
+  ],
+  "sites": [
+   "HTTPS://WWW.FACEBOOK.COM/SONINHAFRANCINE/?LOCALE=PT_BR",
+   "HTTPS://X.COM/SONINHAFRANCINE",
+   "HTTPS://WWW.INSTAGRAM.COM/SONINHAFRANCINE_OFICIAL/"
+  ],
+  "posicoesExistentes": {},
+  "perguntasFaltando": [
+   "G01",
+   "G02",
+   "G03",
+   "G04",
+   "G05",
+   "G06",
+   "G07",
+   "G08",
+   "G09",
+   "G10",
+   "G11",
+   "G12",
+   "G13",
+   "G14",
+   "S01",
+   "S02",
+   "S03",
+   "S04",
+   "S05"
+  ]
+ },
+ {
+  "id": 250002541365,
+  "cargoCod": 5,
+  "cargo": "Senador",
+  "nomeUrna": "WELLER GONÇALVES",
+  "nomeCompleto": "WELLER PEREIRA GONÇALVES",
+  "numero": 160,
+  "partido": "PSTU",
+  "coligacao": "PSTU",
+  "situacao": "Deferido",
+  "ocupacao": "Trabalhador Metalúrgico e Siderúrgico",
+  "incumbente": false,
+  "arrecadado": null,
+  "anteriores": [
+   {
+    "ano": 2024,
+    "cargo": "Vereador",
+    "local": "SÃO JOSÉ DOS CAMPOS",
+    "partido": "PSTU",
+    "resultado": "Não eleito"
+   },
+   {
+    "ano": 2022,
+    "cargo": "Deputado Federal",
+    "local": "SÃO PAULO",
+    "partido": "PSTU",
+    "resultado": "Não eleito"
+   }
+  ],
+  "sites": [
+   "HTTPS://X.COM/WELLERSIND",
+   "HTTPS://WWW.TIKTOK.COM/@WELLERGONCALVES",
+   "HTTPS://WWW.INSTAGRAM.COM/WELLER_GONCALVES",
+   "https://wellergoncalves.com.br",
+   "HTTPS://WWW.THREADS.COM/@WELLER_GONCALVES",
+   "HTTPS://WWW.FACEBOOK.COM/WELLERMETALURGICO",
+   "HTTPS://YOUTUBE.COM/@CANALDOWELLER"
+  ],
+  "posicoesExistentes": {},
+  "perguntasFaltando": [
+   "G01",
+   "G02",
+   "G03",
+   "G04",
+   "G05",
+   "G06",
+   "G07",
+   "G08",
+   "G09",
+   "G10",
+   "G11",
+   "G12",
+   "G13",
+   "G14",
+   "S01",
+   "S02",
+   "S03",
+   "S04",
+   "S05"
+  ]
+ },
+ {
+  "id": 250002553252,
+  "cargoCod": 5,
+  "cargo": "Senador",
+  "nomeUrna": "WILLIAM TEIXEIRA",
+  "nomeCompleto": "WILLIAM TEIXEIRA DE OLIVEIRA",
+  "numero": 360,
+  "partido": "AGIR",
+  "coligacao": "AGIR",
+  "situacao": "Deferido",
+  "ocupacao": "Relações-Públicas",
+  "incumbente": false,
+  "arrecadado": null,
+  "anteriores": [
+   {
+    "ano": 2012,
+    "cargo": "Vereador",
+    "local": "SANTANA DE PARNAÍBA",
+    "partido": "PT",
+    "resultado": "Não eleito"
+   },
+   {
+    "ano": 2010,
+    "cargo": "Deputado Estadual",
+    "local": "SÃO PAULO",
+    "partido": "PCB",
+    "resultado": "Registro negado antes da eleição"
+   }
+  ],
+  "sites": [],
+  "posicoesExistentes": {},
+  "perguntasFaltando": [
+   "G01",
+   "G02",
+   "G03",
+   "G04",
+   "G05",
+   "G06",
+   "G07",
+   "G08",
+   "G09",
+   "G10",
+   "G11",
+   "G12",
+   "G13",
+   "G14",
+   "S01",
+   "S02",
+   "S03",
+   "S04",
+   "S05"
+  ]
+ }
+]

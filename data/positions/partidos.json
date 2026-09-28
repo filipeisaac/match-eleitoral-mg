@@ -56,12 +56,6 @@
    "fonte": "https://dadosabertos.camara.leg.br/api/v2/votacoes/2562149-7/votos",
    "nota": "Bancada na Câmara votou 6 sim, 0 não na urgência da anistia ao 8/1 (PL 2162/2023) em 17/09/2025."
   },
-  "G14": {
-   "v": 4,
-   "conf": "partido",
-   "fonte": "https://dadosabertos.camara.leg.br/api/v2/votacoes/2233802-424/orientacoes",
-   "nota": "Orientou sim; bancada na Câmara votou 5 sim, 0 não na PEC 221/2019 (40h semanais e fim da escala 6x1) em 27/05/2026."
-  },
   "P04": {
    "v": 4,
    "conf": "partido",
@@ -121,12 +115,6 @@
    "conf": "partido",
    "fonte": "https://dadosabertos.camara.leg.br/api/v2/votacoes/257161-483/votos",
    "nota": "Bancada na Câmara votou 21 sim, 1 não no PL 2159/2021, que flexibiliza o licenciamento ambiental em 17/07/2025."
-  },
-  "G14": {
-   "v": 4,
-   "conf": "partido",
-   "fonte": "https://dadosabertos.camara.leg.br/api/v2/votacoes/2233802-424/votos",
-   "nota": "Bancada na Câmara votou 32 sim, 2 não na PEC 221/2019 (40h semanais e fim da escala 6x1) em 27/05/2026."
   },
   "P04": {
    "v": 4,
@@ -207,12 +195,6 @@
    "conf": "partido",
    "fonte": "https://planodegoverno2026.com.br/planos/renan-santos-f1272756.pdf#page=31",
    "nota": "Plano de 2026 propõe substituir o sistema de cotas por bolsas de mérito."
-  },
-  "G14": {
-   "v": 2,
-   "conf": "partido",
-   "fonte": "https://dadosabertos.camara.leg.br/api/v2/votacoes/2233802-424/orientacoes",
-   "nota": "Orientou não; bancada na Câmara votou 0 sim, 1 não na PEC 221/2019 (40h semanais e fim da escala 6x1) em 27/05/2026."
   },
   "P01": {
    "v": 5,
@@ -299,12 +281,6 @@
    "conf": "partido",
    "fonte": "https://planodegoverno2026.com.br/planos/zema-de28e2e5.pdf#page=6",
    "nota": "Plano de 2026 propõe 'reduzir a maioridade penal para 16 anos ou menos'."
-  },
-  "G14": {
-   "v": 2,
-   "conf": "partido",
-   "fonte": "https://dadosabertos.camara.leg.br/api/v2/votacoes/2233802-424/orientacoes",
-   "nota": "Orientou não; bancada na Câmara votou 0 sim, 4 não na PEC 221/2019 (40h semanais e fim da escala 6x1) em 27/05/2026."
   },
   "P01": {
    "v": 5,
@@ -586,12 +562,6 @@
    "fonte": "https://pcdob.org.br/programa/",
    "nota": "Programa do partido defende 'Estado democrático, laico'."
   },
-  "G14": {
-   "v": 5,
-   "conf": "partido",
-   "fonte": "https://pcdob.org.br/programa/",
-   "nota": "Programa defende a redução constitucional da jornada sem redução salarial; bancada votou 11 a 0 pela PEC 221/2019."
-  },
   "P01": {
    "v": 2,
    "conf": "partido",
@@ -776,12 +746,6 @@
    "fonte": "https://dadosabertos.camara.leg.br/api/v2/votacoes/2462049-9/votos",
    "nota": "Bancada na Câmara votou 16 sim, 0 não na urgência do PL 1958/2021 (cotas em concursos) em 13/11/2024."
   },
-  "G14": {
-   "v": 4,
-   "conf": "partido",
-   "fonte": "https://dadosabertos.camara.leg.br/api/v2/votacoes/2233802-424/orientacoes",
-   "nota": "Orientou sim; bancada na Câmara votou 8 sim, 0 não na PEC 221/2019 (40h semanais e fim da escala 6x1) em 27/05/2026."
-  },
   "P04": {
    "v": 2,
    "conf": "partido",
@@ -898,12 +862,6 @@
    "fonte": "https://planodegoverno2026.com.br/planos/flavio-bolsonaro-0a34723b.pdf#page=74",
    "nota": "Plano de 2026 lista a fé entre os 'valores que não negociamos' e que orientam o governo."
   },
-  "G14": {
-   "v": 4,
-   "conf": "partido",
-   "fonte": "https://dadosabertos.camara.leg.br/api/v2/votacoes/2233802-424/orientacoes",
-   "nota": "Orientou sim; bancada na Câmara votou 83 sim, 11 não na PEC 221/2019 (40h semanais e fim da escala 6x1) em 27/05/2026."
-  },
   "P01": {
    "v": 4,
    "conf": "partido",
@@ -1014,12 +972,6 @@
    "fonte": "https://dadosabertos.camara.leg.br/api/v2/votacoes/2462049-9/votos",
    "nota": "Bancada na Câmara votou 8 sim, 2 não na urgência do PL 1958/2021 (cotas em concursos) em 13/11/2024."
   },
-  "G14": {
-   "v": 4,
-   "conf": "partido",
-   "fonte": "https://dadosabertos.camara.leg.br/api/v2/votacoes/2233802-424/votos",
-   "nota": "Bancada na Câmara votou 27 sim, 0 não na PEC 221/2019 (40h semanais e fim da escala 6x1) em 27/05/2026."
-  },
   "P04": {
    "v": 4,
    "conf": "partido",
@@ -1093,12 +1045,6 @@
    "conf": "partido",
    "fonte": "https://dadosabertos.camara.leg.br/api/v2/votacoes/1228863-102/orientacoes",
    "nota": "Orientou sim; bancada na Câmara votou 6 sim, 0 não na CCJ, PEC 32/2015 (maioridade penal aos 16), em 10/06/2026."
-  },
-  "G14": {
-   "v": 4,
-   "conf": "partido",
-   "fonte": "https://dadosabertos.camara.leg.br/api/v2/votacoes/2233802-424/votos",
-   "nota": "Bancada na Câmara votou 42 sim, 1 não na PEC 221/2019 (40h semanais e fim da escala 6x1) em 27/05/2026."
   },
   "P04": {
    "v": 4,
@@ -1262,12 +1208,6 @@
    "fonte": "https://www.autorreformapsb.com.br/wp-content/uploads/2022/07/Manifesto_e_Programa_do_PSB.pdf#page=136",
    "nota": "Programa do PSB defende 'um partido laico'."
   },
-  "G14": {
-   "v": 5,
-   "conf": "partido",
-   "fonte": "https://www.autorreformapsb.com.br/wp-content/uploads/2022/07/Manifesto_e_Programa_do_PSB.pdf#page=80",
-   "nota": "Programa defende reduzir a jornada sem reduzir salários; bancada votou 17 a 0 pela PEC 221/2019 (27/05/2026)."
-  },
   "P03": {
    "v": 2,
    "conf": "partido",
@@ -1330,12 +1270,6 @@
    "fonte": "https://dadosabertos.camara.leg.br/api/v2/votacoes/257161-483/votos",
    "nota": "Bancada na Câmara votou 23 sim, 2 não no PL 2159/2021, que flexibiliza o licenciamento ambiental em 17/07/2025."
   },
-  "G14": {
-   "v": 4,
-   "conf": "partido",
-   "fonte": "https://dadosabertos.camara.leg.br/api/v2/votacoes/2233802-424/votos",
-   "nota": "Bancada na Câmara votou 47 sim, 1 não na PEC 221/2019 (40h semanais e fim da escala 6x1) em 27/05/2026."
-  },
   "P04": {
    "v": 4,
    "conf": "partido",
@@ -1385,12 +1319,6 @@
    "conf": "partido",
    "fonte": "https://dadosabertos.camara.leg.br/api/v2/votacoes/2562149-7/votos",
    "nota": "Bancada na Câmara votou 10 sim, 2 não na urgência da anistia ao 8/1 (PL 2162/2023) em 17/09/2025."
-  },
-  "G14": {
-   "v": 4,
-   "conf": "partido",
-   "fonte": "https://dadosabertos.camara.leg.br/api/v2/votacoes/2233802-424/votos",
-   "nota": "Bancada na Câmara votou 17 sim, 0 não na PEC 221/2019 (40h semanais e fim da escala 6x1) em 27/05/2026."
   },
   "P04": {
    "v": 4,
@@ -1513,12 +1441,6 @@
    "conf": "partido",
    "fonte": "https://psol50.org.br/partido/programa/",
    "nota": "Programa do partido defende educação pública 'laica'."
-  },
-  "G14": {
-   "v": 5,
-   "conf": "partido",
-   "fonte": "https://psol50.org.br/partido/programa/",
-   "nota": "Programa defende redução da jornada sem redução de salário; bancada votou 12 a 0 pela PEC 221/2019 (27/05/2026)."
   },
   "P01": {
    "v": 1,
@@ -1776,12 +1698,6 @@
    "fonte": "https://dadosabertos.camara.leg.br/api/v2/votacoes/1228863-102/orientacoes",
    "nota": "Orientou não; bancada na Câmara votou 0 sim, 6 não na CCJ, PEC 32/2015 (maioridade penal aos 16), em 10/06/2026."
   },
-  "G14": {
-   "v": 5,
-   "conf": "partido",
-   "fonte": "https://planodegoverno2026.com.br/planos/lula-e48f1c29.pdf#page=75",
-   "nota": "Plano de 2026 promete assegurar no Senado o fim da escala 6x1 e jornada de 40h; bancada votou 65 a 0 pela PEC 221/2019 (27/05/2026)."
-  },
   "P01": {
    "v": 2,
    "conf": "partido",
@@ -1916,12 +1832,6 @@
    "fonte": "https://dadosabertos.camara.leg.br/api/v2/votacoes/1228863-102/orientacoes",
    "nota": "Orientou não; bancada na Câmara votou 0 sim, 1 não na CCJ, PEC 32/2015 (maioridade penal aos 16), em 10/06/2026."
   },
-  "G14": {
-   "v": 4,
-   "conf": "partido",
-   "fonte": "https://dadosabertos.camara.leg.br/api/v2/votacoes/2233802-424/orientacoes",
-   "nota": "Orientou sim; bancada na Câmara votou 6 sim, 0 não na PEC 221/2019 (40h semanais e fim da escala 6x1) em 27/05/2026."
-  },
   "GV03": {
    "v": 4,
    "conf": "partido",
@@ -1983,12 +1893,6 @@
    "conf": "partido",
    "fonte": "https://dadosabertos.camara.leg.br/api/v2/votacoes/1228863-102/orientacoes",
    "nota": "Orientou não; bancada na Câmara votou 0 sim, 1 não na CCJ, PEC 32/2015 (maioridade penal aos 16), em 10/06/2026."
-  },
-  "G14": {
-   "v": 4,
-   "conf": "partido",
-   "fonte": "https://dadosabertos.camara.leg.br/api/v2/votacoes/2233802-424/orientacoes",
-   "nota": "Orientou sim; bancada na Câmara votou 4 sim, 0 não na PEC 221/2019 (40h semanais e fim da escala 6x1) em 27/05/2026."
   },
   "P04": {
    "v": 2,
@@ -2094,12 +1998,6 @@
    "fonte": "https://dadosabertos.camara.leg.br/api/v2/votacoes/1228863-102/votos",
    "nota": "Bancada na Câmara votou 5 sim, 0 não na CCJ, PEC 32/2015 (maioridade penal aos 16), em 10/06/2026."
   },
-  "G14": {
-   "v": 4,
-   "conf": "partido",
-   "fonte": "https://dadosabertos.camara.leg.br/api/v2/votacoes/2233802-424/votos",
-   "nota": "Bancada na Câmara votou 41 sim, 0 não na PEC 221/2019 (40h semanais e fim da escala 6x1) em 27/05/2026."
-  },
   "P04": {
    "v": 4,
    "conf": "partido",
@@ -2162,12 +2060,6 @@
    "fonte": "https://dadosabertos.camara.leg.br/api/v2/votacoes/2462049-9/votos",
    "nota": "Bancada na Câmara votou 3 sim, 0 não na urgência do PL 1958/2021 (cotas em concursos) em 13/11/2024."
   },
-  "G14": {
-   "v": 4,
-   "conf": "partido",
-   "fonte": "https://dadosabertos.camara.leg.br/api/v2/votacoes/2233802-424/orientacoes",
-   "nota": "Orientou sim; bancada na Câmara votou 6 sim, 0 não na PEC 221/2019 (40h semanais e fim da escala 6x1) em 27/05/2026."
-  },
   "P04": {
    "v": 4,
    "conf": "partido",
@@ -2217,12 +2109,6 @@
    "conf": "partido",
    "fonte": "https://dadosabertos.camara.leg.br/api/v2/votacoes/1228863-102/orientacoes",
    "nota": "Orientou sim; bancada na Câmara votou 9 sim, 0 não na CCJ, PEC 32/2015 (maioridade penal aos 16), em 10/06/2026."
-  },
-  "G14": {
-   "v": 4,
-   "conf": "partido",
-   "fonte": "https://dadosabertos.camara.leg.br/api/v2/votacoes/2233802-424/votos",
-   "nota": "Bancada na Câmara votou 46 sim, 2 não na PEC 221/2019 (40h semanais e fim da escala 6x1) em 27/05/2026."
   },
   "GV06": {
    "v": 4,

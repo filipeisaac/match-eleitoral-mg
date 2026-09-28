@@ -1,0 +1,606 @@
+{
+  "CIDADANIA": {
+    "G03": {
+      "v": 4,
+      "conf": "partido",
+      "fonte": "https://dadosabertos.camara.leg.br/api/v2/votacoes/2270894-103/orientacoes",
+      "nota": "Orientou sim; bancada na Câmara votou 6 sim, 1 não na privatização dos Correios (PL 591/2021) em 05/08/2021; Eletrobras: 6 a 1 (19/05/2021)."
+    },
+    "P04": {
+      "v": 4,
+      "conf": "partido",
+      "fonte": "https://dadosabertos.camara.leg.br/api/v2/votacoes/2265124-70/orientacoes",
+      "nota": "Orientou sim; bancada na Câmara votou 7 sim, 0 não no PLP 19/2019 (autonomia do Banco Central) em 10/02/2021."
+    },
+    "G10": {
+      "v": 2,
+      "conf": "partido",
+      "fonte": "https://dadosabertos.camara.leg.br/api/v2/votacoes/2310837-8/votos",
+      "nota": "Bancada na Câmara votou 0 sim, 3 não na urgência do PL 2630/2020 (responsabiliza plataformas) em 25/04/2023."
+    },
+    "SPGV01": {
+      "v": 4,
+      "conf": "partido",
+      "fonte": "https://www.al.sp.gov.br/repositorio/ementario/votacoes/c21cc158-03ca-4a9f-bff1-e38fc3f29e06.pdf",
+      "nota": "Bancada na Alesp votou 3 sim, 0 não na privatização da Sabesp (PL 1.501/2023) em 06/12/2023; o partido não tem mais deputados na Alesp."
+    },
+    "SPGV04": {
+      "v": 4,
+      "conf": "partido",
+      "fonte": "https://www.al.sp.gov.br/repositorio/ementario/votacoes/63843831-5b35-4af2-9a21-213d19a7840c.pdf",
+      "nota": "Bancada na Alesp votou 2 sim, 0 não, 1 em obstrução no programa Escola Cívico-Militar (PLC 9/2024) em 21/05/2024."
+    },
+    "SPDE01": {
+      "v": 2,
+      "conf": "partido",
+      "fonte": "https://www.al.sp.gov.br/repositorio/ementario/votacoes/9eee1206-2298-495c-a0a0-48733890f968.pdf",
+      "nota": "Federação PSDB/Cidadania na Alesp votou 10 sim, 0 não, 2 em obstrução no encerramento da discussão da venda da Sabesp (05/12/2023)."
+    },
+    "P01": {
+      "v": 4,
+      "conf": "partido",
+      "fonte": "https://web.archive.org/web/20250114193603/https://cidadania23.org.br/historia/programa/",
+      "nota": "Programa (2019) diz que o equilíbrio fiscal é \"pressuposto\" do Estado e que a responsabilidade fiscal é \"imperativa\"."
+    }
+  },
+  "REPUBLICANOS": {
+    "SPGV01": {
+      "v": 4,
+      "conf": "partido",
+      "fonte": "https://static.ndmais.com.br/eleicoes/2026/planos-de-governo/SP/2026SP250002541303_01.pdf#page=65",
+      "nota": "Plano de Tarcísio prevê alienação de ativos e novos leilões do PPI; bancada na Alesp votou 8 a 0 pela venda da Sabesp. Descarta privatizar o Metrô."
+    },
+    "SPGV03": {
+      "v": 4,
+      "conf": "partido",
+      "fonte": "https://agenciabrasil.ebc.com.br/direitos-humanos/noticia/2024-03/pode-ir-na-onu-que-nao-nem-ai-diz-tarcisio-sobre-abuso-da-pm",
+      "nota": "Tarcísio defendeu a Operação Verão diante de denúncias de abuso ('não tô nem aí') em 08/03/2024; plano de 2026 fala em operações integradas."
+    },
+    "SPGV04": {
+      "v": 5,
+      "conf": "partido",
+      "fonte": "https://static.ndmais.com.br/eleicoes/2026/planos-de-governo/SP/2026SP250002541303_01.pdf#page=25",
+      "nota": "Plano de Tarcísio diz 'Ampliaremos as Escolas Cívico-Militares'; bancada na Alesp votou 6 sim, 0 não na lei do programa (21/05/2024)."
+    },
+    "SPDE01": {
+      "v": 2,
+      "conf": "partido",
+      "fonte": "https://www.al.sp.gov.br/repositorio/ementario/votacoes/9eee1206-2298-495c-a0a0-48733890f968.pdf",
+      "nota": "Bancada na Alesp votou 8 sim, 0 não no encerramento da discussão da venda da Sabesp (05/12/2023); a oposição pedia plebiscito."
+    }
+  },
+  "PL": {
+    "SPGV01": {
+      "v": 4,
+      "conf": "partido",
+      "fonte": "https://www.al.sp.gov.br/repositorio/ementario/votacoes/c21cc158-03ca-4a9f-bff1-e38fc3f29e06.pdf",
+      "nota": "Bancada na Alesp votou 16 sim, 1 não na privatização da Sabesp (PL 1.501/2023) em 06/12/2023."
+    },
+    "SPGV04": {
+      "v": 4,
+      "conf": "partido",
+      "fonte": "https://www.al.sp.gov.br/repositorio/ementario/votacoes/63843831-5b35-4af2-9a21-213d19a7840c.pdf",
+      "nota": "Bancada na Alesp votou 17 sim, 0 não no programa Escola Cívico-Militar (PLC 9/2024) em 21/05/2024."
+    },
+    "SPDE01": {
+      "v": 2,
+      "conf": "partido",
+      "fonte": "https://www.al.sp.gov.br/repositorio/ementario/votacoes/9eee1206-2298-495c-a0a0-48733890f968.pdf",
+      "nota": "Bancada na Alesp votou 16 sim, 0 não no encerramento da discussão da venda da Sabesp (05/12/2023); a oposição pedia plebiscito."
+    },
+    "SPGV03": {
+      "v": 4,
+      "conf": "partido",
+      "fonte": "https://agenciabrasil.ebc.com.br/direitos-humanos/noticia/2024-03/pode-ir-na-onu-que-nao-nem-ai-diz-tarcisio-sobre-abuso-da-pm",
+      "nota": "Tarcísio (Republicanos), candidato da coligação do partido em SP, defendeu a Operação Verão diante de denúncias de abuso (08/03/2024)."
+    }
+  },
+  "UNIÃO": {
+    "SPGV01": {
+      "v": 4,
+      "conf": "partido",
+      "fonte": "https://www.al.sp.gov.br/repositorio/ementario/votacoes/c21cc158-03ca-4a9f-bff1-e38fc3f29e06.pdf",
+      "nota": "Bancada na Alesp votou 7 sim, 0 não na privatização da Sabesp (PL 1.501/2023) em 06/12/2023."
+    },
+    "SPGV04": {
+      "v": 4,
+      "conf": "partido",
+      "fonte": "https://www.al.sp.gov.br/repositorio/ementario/votacoes/63843831-5b35-4af2-9a21-213d19a7840c.pdf",
+      "nota": "Bancada na Alesp votou 7 sim, 0 não no programa Escola Cívico-Militar (PLC 9/2024) em 21/05/2024."
+    },
+    "SPDE01": {
+      "v": 2,
+      "conf": "partido",
+      "fonte": "https://www.al.sp.gov.br/repositorio/ementario/votacoes/9eee1206-2298-495c-a0a0-48733890f968.pdf",
+      "nota": "Bancada na Alesp votou 5 sim, 0 não, 3 em obstrução no encerramento da discussão da venda da Sabesp (05/12/2023); a oposição pedia plebiscito."
+    },
+    "SPGV03": {
+      "v": 4,
+      "conf": "partido",
+      "fonte": "https://agenciabrasil.ebc.com.br/direitos-humanos/noticia/2024-03/pode-ir-na-onu-que-nao-nem-ai-diz-tarcisio-sobre-abuso-da-pm",
+      "nota": "Tarcísio (Republicanos), candidato da coligação do partido em SP, defendeu a Operação Verão diante de denúncias de abuso (08/03/2024)."
+    }
+  },
+  "PSD": {
+    "SPGV01": {
+      "v": 4,
+      "conf": "partido",
+      "fonte": "https://www.al.sp.gov.br/repositorio/ementario/votacoes/c21cc158-03ca-4a9f-bff1-e38fc3f29e06.pdf",
+      "nota": "Bancada na Alesp votou 5 sim, 0 não na privatização da Sabesp (PL 1.501/2023) em 06/12/2023."
+    },
+    "SPGV04": {
+      "v": 4,
+      "conf": "partido",
+      "fonte": "https://www.al.sp.gov.br/repositorio/ementario/votacoes/63843831-5b35-4af2-9a21-213d19a7840c.pdf",
+      "nota": "Bancada na Alesp votou 4 sim, 0 não, 1 em obstrução no programa Escola Cívico-Militar (PLC 9/2024) em 21/05/2024."
+    },
+    "SPDE01": {
+      "v": 2,
+      "conf": "partido",
+      "fonte": "https://www.al.sp.gov.br/repositorio/ementario/votacoes/9eee1206-2298-495c-a0a0-48733890f968.pdf",
+      "nota": "Bancada na Alesp votou 5 sim, 0 não no encerramento da discussão da venda da Sabesp (05/12/2023); a oposição pedia plebiscito."
+    },
+    "SPGV03": {
+      "v": 4,
+      "conf": "partido",
+      "fonte": "https://agenciabrasil.ebc.com.br/direitos-humanos/noticia/2024-03/pode-ir-na-onu-que-nao-nem-ai-diz-tarcisio-sobre-abuso-da-pm",
+      "nota": "Tarcísio (Republicanos), candidato da coligação do partido em SP, defendeu a Operação Verão diante de denúncias de abuso (08/03/2024)."
+    }
+  },
+  "MDB": {
+    "SPGV01": {
+      "v": 4,
+      "conf": "partido",
+      "fonte": "https://www.al.sp.gov.br/repositorio/ementario/votacoes/c21cc158-03ca-4a9f-bff1-e38fc3f29e06.pdf",
+      "nota": "Bancada na Alesp votou 4 sim, 0 não na privatização da Sabesp (PL 1.501/2023) em 06/12/2023."
+    },
+    "SPGV04": {
+      "v": 4,
+      "conf": "partido",
+      "fonte": "https://www.al.sp.gov.br/repositorio/ementario/votacoes/63843831-5b35-4af2-9a21-213d19a7840c.pdf",
+      "nota": "Bancada na Alesp votou 4 sim, 0 não no programa Escola Cívico-Militar (PLC 9/2024) em 21/05/2024."
+    },
+    "SPDE01": {
+      "v": 2,
+      "conf": "partido",
+      "fonte": "https://www.al.sp.gov.br/repositorio/ementario/votacoes/9eee1206-2298-495c-a0a0-48733890f968.pdf",
+      "nota": "Bancada na Alesp votou 4 sim, 0 não no encerramento da discussão da venda da Sabesp (05/12/2023); a oposição pedia plebiscito."
+    },
+    "SPGV03": {
+      "v": 4,
+      "conf": "partido",
+      "fonte": "https://agenciabrasil.ebc.com.br/direitos-humanos/noticia/2024-03/pode-ir-na-onu-que-nao-nem-ai-diz-tarcisio-sobre-abuso-da-pm",
+      "nota": "Tarcísio (Republicanos), candidato da coligação do partido em SP, defendeu a Operação Verão diante de denúncias de abuso (08/03/2024)."
+    },
+    "SPGV06": {
+      "v": 4,
+      "conf": "partido",
+      "fonte": "https://www.cnnbrasil.com.br/politica/internacao-compulsoria-de-dependentes-une-nunes-e-boulos-mas-e-rejeitada-pelo-psol/",
+      "nota": "Ricardo Nunes (MDB), prefeito de São Paulo, defendeu a internação compulsória de dependentes químicos: \"a internação contribui para o tratamento\" (23/11/2023)."
+    }
+  },
+  "PP": {
+    "SPGV01": {
+      "v": 4,
+      "conf": "partido",
+      "fonte": "https://www.al.sp.gov.br/repositorio/ementario/votacoes/c21cc158-03ca-4a9f-bff1-e38fc3f29e06.pdf",
+      "nota": "Bancada na Alesp votou 3 sim, 0 não na privatização da Sabesp (PL 1.501/2023) em 06/12/2023."
+    },
+    "SPGV04": {
+      "v": 4,
+      "conf": "partido",
+      "fonte": "https://www.al.sp.gov.br/repositorio/ementario/votacoes/63843831-5b35-4af2-9a21-213d19a7840c.pdf",
+      "nota": "Bancada na Alesp votou 3 sim, 0 não no programa Escola Cívico-Militar (PLC 9/2024) em 21/05/2024."
+    },
+    "SPDE01": {
+      "v": 2,
+      "conf": "partido",
+      "fonte": "https://www.al.sp.gov.br/repositorio/ementario/votacoes/9eee1206-2298-495c-a0a0-48733890f968.pdf",
+      "nota": "Bancada na Alesp votou 3 sim, 0 não no encerramento da discussão da venda da Sabesp (05/12/2023); a oposição pedia plebiscito."
+    },
+    "SPGV03": {
+      "v": 4,
+      "conf": "partido",
+      "fonte": "https://agenciabrasil.ebc.com.br/direitos-humanos/noticia/2024-03/pode-ir-na-onu-que-nao-nem-ai-diz-tarcisio-sobre-abuso-da-pm",
+      "nota": "Tarcísio, candidato da coligação do partido, defendeu a Operação Verão (08/03/2024); as operações foram conduzidas por Derrite (PP), então secretário."
+    }
+  },
+  "PODE": {
+    "SPGV01": {
+      "v": 4,
+      "conf": "partido",
+      "fonte": "https://www.al.sp.gov.br/repositorio/ementario/votacoes/c21cc158-03ca-4a9f-bff1-e38fc3f29e06.pdf",
+      "nota": "Bancada na Alesp votou 4 sim, 0 não na privatização da Sabesp (PL 1.501/2023) em 06/12/2023."
+    },
+    "SPGV04": {
+      "v": 4,
+      "conf": "partido",
+      "fonte": "https://www.al.sp.gov.br/repositorio/ementario/votacoes/63843831-5b35-4af2-9a21-213d19a7840c.pdf",
+      "nota": "Bancada na Alesp votou 4 sim, 0 não no programa Escola Cívico-Militar (PLC 9/2024) em 21/05/2024."
+    },
+    "SPDE01": {
+      "v": 2,
+      "conf": "partido",
+      "fonte": "https://www.al.sp.gov.br/repositorio/ementario/votacoes/9eee1206-2298-495c-a0a0-48733890f968.pdf",
+      "nota": "Bancada na Alesp votou 4 sim, 0 não no encerramento da discussão da venda da Sabesp (05/12/2023); a oposição pedia plebiscito."
+    }
+  },
+  "NOVO": {
+    "SPGV01": {
+      "v": 4,
+      "conf": "partido",
+      "fonte": "https://www.al.sp.gov.br/repositorio/ementario/votacoes/c21cc158-03ca-4a9f-bff1-e38fc3f29e06.pdf",
+      "nota": "Único deputado do partido na Alesp votou sim à privatização da Sabesp (06/12/2023) e à concessão das balsas (15/04/2025)."
+    },
+    "SPDE01": {
+      "v": 2,
+      "conf": "partido",
+      "fonte": "https://www.al.sp.gov.br/repositorio/ementario/votacoes/9eee1206-2298-495c-a0a0-48733890f968.pdf",
+      "nota": "Bancada na Alesp votou 1 sim, 0 não no encerramento da discussão da venda da Sabesp (05/12/2023); a oposição pedia plebiscito. Único deputado do partido."
+    }
+  },
+  "PSDB": {
+    "SPGV01": {
+      "v": 4,
+      "conf": "partido",
+      "fonte": "https://www.al.sp.gov.br/repositorio/ementario/votacoes/c21cc158-03ca-4a9f-bff1-e38fc3f29e06.pdf",
+      "nota": "Bancada na Alesp votou 9 sim, 0 não na privatização da Sabesp (PL 1.501/2023) em 06/12/2023; o relator era do PSDB."
+    },
+    "SPGV04": {
+      "v": 4,
+      "conf": "partido",
+      "fonte": "https://www.al.sp.gov.br/repositorio/ementario/votacoes/63843831-5b35-4af2-9a21-213d19a7840c.pdf",
+      "nota": "Bancada na Alesp votou 6 sim, 0 não, 3 em obstrução no programa Escola Cívico-Militar (PLC 9/2024) em 21/05/2024."
+    },
+    "SPDE01": {
+      "v": 2,
+      "conf": "partido",
+      "fonte": "https://www.al.sp.gov.br/repositorio/ementario/votacoes/9eee1206-2298-495c-a0a0-48733890f968.pdf",
+      "nota": "Federação PSDB/Cidadania na Alesp votou 10 sim, 0 não, 2 em obstrução no encerramento da discussão da venda da Sabesp (05/12/2023)."
+    }
+  },
+  "SOLIDARIEDADE": {
+    "SPGV01": {
+      "v": 4,
+      "conf": "partido",
+      "fonte": "https://www.al.sp.gov.br/repositorio/ementario/votacoes/c21cc158-03ca-4a9f-bff1-e38fc3f29e06.pdf",
+      "nota": "Bancada na Alesp votou 1 sim, 0 não na privatização da Sabesp (PL 1.501/2023) em 06/12/2023. Partido integra a coligação de Tarcísio."
+    },
+    "SPGV04": {
+      "v": 4,
+      "conf": "partido",
+      "fonte": "https://static.ndmais.com.br/eleicoes/2026/planos-de-governo/SP/2026SP250002541303_01.pdf#page=25",
+      "nota": "Plano de Tarcísio (Republicanos), candidato da coligação do partido em SP, promete ampliar as escolas cívico-militares."
+    },
+    "SPDE01": {
+      "v": 2,
+      "conf": "partido",
+      "fonte": "https://www.al.sp.gov.br/repositorio/ementario/votacoes/9eee1206-2298-495c-a0a0-48733890f968.pdf",
+      "nota": "Bancada na Alesp votou 1 sim, 0 não no encerramento da discussão da venda da Sabesp (05/12/2023); a oposição pedia plebiscito."
+    },
+    "SPGV03": {
+      "v": 4,
+      "conf": "partido",
+      "fonte": "https://agenciabrasil.ebc.com.br/direitos-humanos/noticia/2024-03/pode-ir-na-onu-que-nao-nem-ai-diz-tarcisio-sobre-abuso-da-pm",
+      "nota": "Tarcísio (Republicanos), candidato da coligação do partido em SP, defendeu a Operação Verão diante de denúncias de abuso (08/03/2024)."
+    }
+  },
+  "PRD": {
+    "SPGV01": {
+      "v": 4,
+      "conf": "partido",
+      "fonte": "https://static.ndmais.com.br/eleicoes/2026/planos-de-governo/SP/2026SP250002541303_01.pdf#page=65",
+      "nota": "Plano de Tarcísio (Republicanos), candidato da coligação do partido em SP, prevê alienação de ativos e segue com concessões (PPI)."
+    },
+    "SPGV04": {
+      "v": 4,
+      "conf": "partido",
+      "fonte": "https://static.ndmais.com.br/eleicoes/2026/planos-de-governo/SP/2026SP250002541303_01.pdf#page=25",
+      "nota": "Plano de Tarcísio (Republicanos), candidato da coligação do partido em SP, promete ampliar as escolas cívico-militares."
+    },
+    "SPGV03": {
+      "v": 4,
+      "conf": "partido",
+      "fonte": "https://agenciabrasil.ebc.com.br/direitos-humanos/noticia/2024-03/pode-ir-na-onu-que-nao-nem-ai-diz-tarcisio-sobre-abuso-da-pm",
+      "nota": "Tarcísio (Republicanos), candidato da coligação do partido em SP, defendeu a Operação Verão diante de denúncias de abuso (08/03/2024)."
+    }
+  },
+  "PT": {
+    "SPGV01": {
+      "v": 2,
+      "conf": "partido",
+      "fonte": "https://static.ndmais.com.br/eleicoes/2026/planos-de-governo/SP/2026SP250002549705_01.pdf#page=14",
+      "nota": "Plano de Haddad promete fiscalizar concessões e ele diz que não privatizará o Metrô; bancada votou 0 a 11 na concessão das balsas (2025)."
+    },
+    "SPGV02": {
+      "v": 5,
+      "conf": "partido",
+      "fonte": "https://static.ndmais.com.br/eleicoes/2026/planos-de-governo/SP/2026SP250002549705_01.pdf#page=7",
+      "nota": "Plano de Haddad diz que as câmeras corporais terão gravação contínua durante todo o serviço, sem depender do acionamento do agente."
+    },
+    "SPGV04": {
+      "v": 1,
+      "conf": "partido",
+      "fonte": "https://www.metropoles.com/sao-paulo/nao-deu-certo-lugar-nenhum-haddad-sobre-escolas-civico-militares",
+      "nota": "Haddad diz que o modelo 'não deu certo' e promete não ampliá-lo; bancada PT/PCdoB na Alesp votou 0 sim, 15 não na lei (21/05/2024)."
+    },
+    "SPDE01": {
+      "v": 4,
+      "conf": "partido",
+      "fonte": "https://www.al.sp.gov.br/repositorio/ementario/votacoes/9eee1206-2298-495c-a0a0-48733890f968.pdf",
+      "nota": "Federação PT/PCdoB na Alesp votou 0 sim, 14 não, 5 em obstrução no encerramento da discussão da venda da Sabesp (05/12/2023); pedia plebiscito."
+    }
+  },
+  "PCDOB": {
+    "SPGV01": {
+      "v": 2,
+      "conf": "partido",
+      "fonte": "https://www.al.sp.gov.br/repositorio/ementario/votacoes/bc6ddf46-fb02-4f7b-9e19-605d64c0092e.pdf",
+      "nota": "Federação PT/PCdoB na Alesp votou 0 sim, 11 não na concessão das travessias por balsa (PL 164/2025) em 15/04/2025."
+    },
+    "SPGV02": {
+      "v": 4,
+      "conf": "partido",
+      "fonte": "https://static.ndmais.com.br/eleicoes/2026/planos-de-governo/SP/2026SP250002549705_01.pdf#page=7",
+      "nota": "Plano de Haddad (PT), candidato da coligação do partido em SP, prevê câmeras com gravação contínua sem acionamento pelo agente."
+    },
+    "SPGV04": {
+      "v": 2,
+      "conf": "partido",
+      "fonte": "https://www.al.sp.gov.br/repositorio/ementario/votacoes/63843831-5b35-4af2-9a21-213d19a7840c.pdf",
+      "nota": "Bancada na Alesp votou 0 sim, 15 não (federação PT/PCdoB) no programa Escola Cívico-Militar (PLC 9/2024) em 21/05/2024."
+    },
+    "SPDE01": {
+      "v": 4,
+      "conf": "partido",
+      "fonte": "https://www.al.sp.gov.br/repositorio/ementario/votacoes/9eee1206-2298-495c-a0a0-48733890f968.pdf",
+      "nota": "Federação PT/PCdoB na Alesp votou 0 sim, 14 não, 5 em obstrução no encerramento da discussão da venda da Sabesp (05/12/2023); pedia plebiscito."
+    }
+  },
+  "PSOL": {
+    "SPGV01": {
+      "v": 2,
+      "conf": "partido",
+      "fonte": "https://www.al.sp.gov.br/repositorio/ementario/votacoes/bc6ddf46-fb02-4f7b-9e19-605d64c0092e.pdf",
+      "nota": "Bancada na Alesp votou 0 sim, 4 não na concessão das travessias por balsa (PL 164/2025) em 15/04/2025."
+    },
+    "SPGV02": {
+      "v": 4,
+      "conf": "partido",
+      "fonte": "https://static.ndmais.com.br/eleicoes/2026/planos-de-governo/SP/2026SP250002549705_01.pdf#page=7",
+      "nota": "Plano de Haddad (PT), candidato da coligação do partido em SP, prevê câmeras com gravação contínua sem acionamento pelo agente."
+    },
+    "SPGV04": {
+      "v": 2,
+      "conf": "partido",
+      "fonte": "https://www.al.sp.gov.br/repositorio/ementario/votacoes/63843831-5b35-4af2-9a21-213d19a7840c.pdf",
+      "nota": "Bancada na Alesp votou 0 sim, 5 não (federação PSOL/Rede) no programa Escola Cívico-Militar (PLC 9/2024) em 21/05/2024."
+    },
+    "SPDE01": {
+      "v": 4,
+      "conf": "partido",
+      "fonte": "https://www.al.sp.gov.br/repositorio/ementario/votacoes/9eee1206-2298-495c-a0a0-48733890f968.pdf",
+      "nota": "Federação PSOL/Rede na Alesp votou 0 sim, 5 não no encerramento da discussão da venda da Sabesp (05/12/2023); a oposição pedia plebiscito."
+    },
+    "SPGV03": {
+      "v": 2,
+      "conf": "partido",
+      "fonte": "https://agenciabrasil.ebc.com.br/direitos-humanos/noticia/2024-02/moradores-da-baixada-santista-denunciam-execucoes-na-operacao-escudo",
+      "nota": "A deputada Mônica Seixas (PSOL) disse que a Operação Escudo autorizava execuções sem devido processo legal (Agência Brasil, 11/02/2024)."
+    },
+    "SPGV06": {
+      "v": 2,
+      "conf": "partido",
+      "fonte": "https://www.cnnbrasil.com.br/politica/internacao-compulsoria-de-dependentes-une-nunes-e-boulos-mas-e-rejeitada-pelo-psol/",
+      "nota": "Ivan Valente (PSOL-SP), da direção do partido, chamou a internação compulsória de \"demagógica, autoritária e ineficiente\" (CNN, 23/11/2023)."
+    },
+    "SPDE04": {
+      "v": 4,
+      "conf": "partido",
+      "fonte": "https://diariodotransporte.com.br/2026/01/14/tarifa-zero-nos-onibus-intermunicipais-metropolitanos-de-sao-paulo-para-todos-os-passageiros-em-quatro-anos-projeto-sera-votado-em-2026-na-alesp-2/",
+      "nota": "Projeto da Bancada Feminista do PSOL na Alesp (out/2025) prevê tarifa zero em todos os ônibus metropolitanos em quatro anos."
+    }
+  },
+  "REDE": {
+    "SPGV02": {
+      "v": 4,
+      "conf": "partido",
+      "fonte": "https://static.ndmais.com.br/eleicoes/2026/planos-de-governo/SP/2026SP250002549705_01.pdf#page=7",
+      "nota": "Plano de Haddad (PT), candidato da coligação do partido em SP, prevê câmeras com gravação contínua sem acionamento pelo agente."
+    },
+    "SPGV04": {
+      "v": 2,
+      "conf": "partido",
+      "fonte": "https://www.al.sp.gov.br/repositorio/ementario/votacoes/63843831-5b35-4af2-9a21-213d19a7840c.pdf",
+      "nota": "Bancada na Alesp votou 0 sim, 5 não (federação PSOL/Rede) no programa Escola Cívico-Militar (PLC 9/2024) em 21/05/2024."
+    }
+  },
+  "PV": {
+    "SPGV01": {
+      "v": 2,
+      "conf": "partido",
+      "fonte": "https://static.ndmais.com.br/eleicoes/2026/planos-de-governo/SP/2026SP250002549705_01.pdf#page=14",
+      "nota": "Plano de Haddad (PT), candidato da coligação do partido, promete fiscalizar concessões; ele diz que não privatizará o Metrô."
+    },
+    "SPGV02": {
+      "v": 4,
+      "conf": "partido",
+      "fonte": "https://static.ndmais.com.br/eleicoes/2026/planos-de-governo/SP/2026SP250002549705_01.pdf#page=7",
+      "nota": "Plano de Haddad (PT), candidato da coligação do partido em SP, prevê câmeras com gravação contínua sem acionamento pelo agente."
+    },
+    "SPGV04": {
+      "v": 2,
+      "conf": "partido",
+      "fonte": "https://www.metropoles.com/sao-paulo/nao-deu-certo-lugar-nenhum-haddad-sobre-escolas-civico-militares",
+      "nota": "Haddad (PT), candidato da coligação do partido em SP, diz que o modelo cívico-militar 'não deu certo' e promete não ampliá-lo."
+    }
+  },
+  "PSB": {
+    "SPGV02": {
+      "v": 4,
+      "conf": "partido",
+      "fonte": "https://static.ndmais.com.br/eleicoes/2026/planos-de-governo/SP/2026SP250002549705_01.pdf#page=7",
+      "nota": "Plano de Haddad (PT), candidato da coligação do partido em SP, prevê câmeras com gravação contínua sem acionamento pelo agente."
+    }
+  },
+  "MISSÃO": {
+    "SPGV01": {
+      "v": 4,
+      "conf": "partido",
+      "fonte": "https://www.al.sp.gov.br/repositorio/ementario/votacoes/c21cc158-03ca-4a9f-bff1-e38fc3f29e06.pdf",
+      "nota": "Guto Zacarias, único deputado do MBL/Missão na Alesp, votou sim à venda da Sabesp (2023) e à concessão das balsas (2025); programa aceita concessões."
+    },
+    "SPGV04": {
+      "v": 4,
+      "conf": "partido",
+      "fonte": "https://www.al.sp.gov.br/repositorio/ementario/votacoes/63843831-5b35-4af2-9a21-213d19a7840c.pdf",
+      "nota": "Guto Zacarias (MBL/Missão) votou sim ao programa cívico-militar na Alesp (21/05/2024); programa nacional de 2026 adota o modelo em escolas críticas."
+    },
+    "SPGV06": {
+      "v": 4,
+      "conf": "partido",
+      "fonte": "https://www.metropoles.com/sao-paulo/internacao-forcada-e-cerco-a-ongs-o-pacote-anticrack-da-base-de-tarcisio",
+      "nota": "Pacote anticrack de Guto Zacarias (MBL/Missão), deputado na Alesp, propõe internar compulsoriamente dependentes químicos (Metrópoles, 13/06/2023)."
+    },
+    "SPDE01": {
+      "v": 2,
+      "conf": "partido",
+      "fonte": "https://www.al.sp.gov.br/repositorio/ementario/votacoes/9eee1206-2298-495c-a0a0-48733890f968.pdf",
+      "nota": "Guto Zacarias, único deputado do MBL/Missão na Alesp (então no União), votou sim ao encerramento da discussão da venda da Sabesp (05/12/2023)."
+    }
+  },
+  "PCB": {
+    "SPGV01": {
+      "v": 1,
+      "conf": "partido",
+      "fonte": "https://static.ndmais.com.br/eleicoes/2026/planos-de-governo/SP/2026SP250002550913_01.pdf#page=60",
+      "nota": "Plano de Carlos Machado (PCB), chamado Reestatiza São Paulo, faz da reestatização da Sabesp, do Metrô e da CPTM um pilar do programa."
+    },
+    "SPGV03": {
+      "v": 2,
+      "conf": "partido",
+      "fonte": "https://static.ndmais.com.br/eleicoes/2026/planos-de-governo/SP/2026SP250002550913_01.pdf#page=126",
+      "nota": "Plano do candidato do PCB diz que a letalidade policial e as operações militarizadas não reduziram a criminalidade."
+    },
+    "SPGV04": {
+      "v": 1,
+      "conf": "partido",
+      "fonte": "https://static.ndmais.com.br/eleicoes/2026/planos-de-governo/SP/2026SP250002550913_01.pdf#page=111",
+      "nota": "Plano do candidato do PCB tem como meta reduzir as escolas cívico-militares de 100 para 0."
+    },
+    "SPGV05": {
+      "v": 2,
+      "conf": "partido",
+      "fonte": "https://static.ndmais.com.br/eleicoes/2026/planos-de-governo/SP/2026SP250002550913_01.pdf#page=36",
+      "nota": "Plano do candidato do PCB propõe rever R$ 70,6 bi em renúncias fiscais e manter isenções só para cesta básica, remédios e agricultura familiar."
+    },
+    "SPGV06": {
+      "v": 2,
+      "conf": "partido",
+      "fonte": "https://static.ndmais.com.br/eleicoes/2026/planos-de-governo/SP/2026SP250002550913_01.pdf#page=82",
+      "nota": "Plano do candidato do PCB segue a luta antimanicomial e propõe substituir modelos baseados no isolamento por cuidado em liberdade (CAPS)."
+    },
+    "SPDE02": {
+      "v": 5,
+      "conf": "partido",
+      "fonte": "https://static.ndmais.com.br/eleicoes/2026/planos-de-governo/SP/2026SP250002550913_01.pdf#page=97",
+      "nota": "Plano do candidato do PCB quer equiparar o salário inicial dos professores ao maior do país até 2030, com custo de R$ 17 bi por ano."
+    },
+    "SPDE04": {
+      "v": 5,
+      "conf": "partido",
+      "fonte": "https://static.ndmais.com.br/eleicoes/2026/planos-de-governo/SP/2026SP250002550913_01.pdf#page=152",
+      "nota": "Plano do candidato do PCB propõe ampliar a participação do estado no custeio até chegar à tarifa zero no transporte coletivo."
+    }
+  },
+  "PSTU": {
+    "SPGV01": {
+      "v": 1,
+      "conf": "partido",
+      "fonte": "https://static.ndmais.com.br/eleicoes/2026/planos-de-governo/SP/2026SP250002536915_01.pdf#page=29",
+      "nota": "Programa de Vera Lúcia (PSTU) propõe reestatizar imediatamente o Metrô, a CPTM e os demais serviços essenciais, suspendendo privatizações."
+    },
+    "SPGV02": {
+      "v": 4,
+      "conf": "partido",
+      "fonte": "https://static.ndmais.com.br/eleicoes/2026/planos-de-governo/SP/2026SP250002536915_01.pdf#page=36",
+      "nota": "Programa do candidato do PSTU propõe uso obrigatório de câmeras corporais em todas as forças de segurança, com fiscalização independente."
+    },
+    "SPGV03": {
+      "v": 2,
+      "conf": "partido",
+      "fonte": "https://static.ndmais.com.br/eleicoes/2026/planos-de-governo/SP/2026SP250002536915_01.pdf#page=23",
+      "nota": "Programa do candidato do PSTU critica as \"operações sanguinárias de ocupação militar\" nas periferias sob Derrite."
+    },
+    "SPGV04": {
+      "v": 1,
+      "conf": "partido",
+      "fonte": "https://static.ndmais.com.br/eleicoes/2026/planos-de-governo/SP/2026SP250002536915_01.pdf#page=34",
+      "nota": "Programa do candidato do PSTU propõe a revogação imediata da militarização e das escolas cívico-militares."
+    },
+    "SPGV05": {
+      "v": 3,
+      "conf": "partido",
+      "fonte": "https://static.ndmais.com.br/eleicoes/2026/planos-de-governo/SP/2026SP250002536915_01.pdf#page=32",
+      "nota": "Programa do candidato do PSTU quer reduzir impostos indiretos sobre alimentos, gás e energia e compensar tributando grandes empresas."
+    },
+    "SPGV06": {
+      "v": 2,
+      "conf": "partido",
+      "fonte": "https://static.ndmais.com.br/eleicoes/2026/planos-de-governo/SP/2026SP250002536915_01.pdf#page=33",
+      "nota": "Programa do candidato do PSTU propõe o fim dos repasses às comunidades terapêuticas e investimento nos CAPS."
+    },
+    "SPDE02": {
+      "v": 4,
+      "conf": "partido",
+      "fonte": "https://static.ndmais.com.br/eleicoes/2026/planos-de-governo/SP/2026SP250002536915_01.pdf#page=34",
+      "nota": "Programa do candidato do PSTU defende melhores salários e plano de carreira para os profissionais da educação."
+    },
+    "SPDE04": {
+      "v": 5,
+      "conf": "partido",
+      "fonte": "https://static.ndmais.com.br/eleicoes/2026/planos-de-governo/SP/2026SP250002536915_01.pdf#page=35",
+      "nota": "Programa do candidato do PSTU propõe tarifa zero universal no transporte público paulista, com sistema estatal unificado."
+    }
+  },
+  "PCO": {
+    "SPGV01": {
+      "v": 1,
+      "conf": "partido",
+      "fonte": "https://static.ndmais.com.br/eleicoes/2026/planos-de-governo/SP/2026SP250002553062_01.pdf#page=3",
+      "nota": "Programa do PCO (2026) propõe cancelar privatizações e reestatizar todas as empresas entregues ao capital estrangeiro."
+    },
+    "SPGV03": {
+      "v": 2,
+      "conf": "partido",
+      "fonte": "https://static.ndmais.com.br/eleicoes/2026/planos-de-governo/SP/2026SP250002553062_01.pdf#page=5",
+      "nota": "Programa do PCO chama a ação policial de \"guerra contra o povo pobre\" e propõe dissolver a PM."
+    },
+    "SPGV05": {
+      "v": 3,
+      "conf": "partido",
+      "fonte": "https://static.ndmais.com.br/eleicoes/2026/planos-de-governo/SP/2026SP250002553062_01.pdf#page=6",
+      "nota": "Programa do PCO propõe o fim dos impostos sobre consumo e salários, com imposto só sobre lucros e grandes fortunas."
+    }
+  },
+  "UP": {
+    "SPGV01": {
+      "v": 1,
+      "conf": "partido",
+      "fonte": "https://www.cnnbrasil.com.br/eleicoes/quem-e-vivian-mendes-candidata-ao-governo-de-sao-paulo/",
+      "nota": "Vivian Mendes, candidata da UP ao governo de SP, diz que uma prioridade será reestatizar os serviços concedidos, a começar pela Sabesp."
+    },
+    "SPGV03": {
+      "v": 2,
+      "conf": "partido",
+      "fonte": "https://divulgacandcontas.tse.jus.br/divulga/rest/arquivo/doc/250017039197",
+      "nota": "Programa de Vivian Mendes (UP) no TSE critica operações policiais com muitas mortes apresentadas pelo governo como sinal de eficiência."
+    },
+    "SPGV04": {
+      "v": 1,
+      "conf": "partido",
+      "fonte": "https://www.acidadeon.com/campinas/politica/vivian-mendes-candidata-ao-governo-de-sp-defende-policia-comunitaria-popular",
+      "nota": "Vivian Mendes (UP) disse à EPTV (07/09/2026) que quer acabar com a militarização da educação; o programa promete pôr fim a ela."
+    }
+  }
+}

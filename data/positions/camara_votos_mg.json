@@ -1,0 +1,3602 @@
+{
+ "metodo": "Mesmas votações-chave de MG mais Correios, Eletrobras, teto de gastos e maioridade penal. Sim/Não viram valor conforme valorSim/valorNao; duas votações na mesma pergunta: média arredondada.",
+ "votacoes": [
+  {
+   "idVotacao": "345311-270",
+   "proposicao": "PL 490/2007",
+   "data": "2023-05-30",
+   "descricao": "Aprovação do substitutivo do PL 490/2007, que fixa o marco temporal (ocupação em 5/10/1988) para demarcação de terras indígenas.",
+   "placar": "283 x 155",
+   "pergunta": "DF03",
+   "valorSim": 5,
+   "valorNao": 1,
+   "url": "https://dadosabertos.camara.leg.br/api/v2/votacoes/345311-270/votos",
+   "urlProposicao": "https://www.camara.leg.br/propostas-legislativas/345311"
+  },
+  {
+   "idVotacao": "2310837-8",
+   "proposicao": "PL 2630/2020",
+   "data": "2023-04-25",
+   "descricao": "Requerimento de urgência para o PL 2630/2020 (regulação e responsabilidade de plataformas digitais). Voto de urgência: correspondência parcial.",
+   "placar": "238 x 192",
+   "pergunta": "G10",
+   "valorSim": 4,
+   "valorNao": 2,
+   "url": "https://dadosabertos.camara.leg.br/api/v2/votacoes/2310837-8/votos",
+   "urlProposicao": "https://www.camara.leg.br/propostas-legislativas/2256735"
+  },
+  {
+   "idVotacao": "2357898-11",
+   "proposicao": "PDL 3/2023",
+   "data": "2023-12-06",
+   "descricao": "Requerimento de urgência para o PDL 3/2023, que susta o Decreto 11.366/2023 (restrição a registro e compra de armas). Rejeitado: 254 votos, abaixo dos 257 exigidos.",
+   "placar": "254 x 156",
+   "pergunta": "G04",
+   "valorSim": 4,
+   "valorNao": 2,
+   "url": "https://dadosabertos.camara.leg.br/api/v2/votacoes/2357898-11/votos",
+   "urlProposicao": "https://www.camara.leg.br/propostas-legislativas/2357898"
+  },
+  {
+   "idVotacao": "2439779-55",
+   "proposicao": "PL 1958/2021",
+   "data": "2024-11-19",
+   "descricao": "Aprovação do substitutivo do PL 1958/2021, que renova a reserva de vagas em concursos federais para pessoas pretas, pardas, indígenas e quilombolas (30%). Cobre só concursos.",
+   "placar": "241 x 94",
+   "pergunta": "G11",
+   "valorSim": 4,
+   "valorNao": 2,
+   "url": "https://dadosabertos.camara.leg.br/api/v2/votacoes/2439779-55/votos",
+   "urlProposicao": "https://www.camara.leg.br/propostas-legislativas/2439779"
+  },
+  {
+   "idVotacao": "257161-454",
+   "proposicao": "PL 2159/2021",
+   "data": "2025-07-17",
+   "descricao": "Aprovação das emendas do Senado ao PL 2159/2021 (Lei Geral do Licenciamento Ambiental), votação principal da etapa final na Câmara.",
+   "placar": "267 x 116",
+   "pergunta": "DF04",
+   "valorSim": 5,
+   "valorNao": 1,
+   "url": "https://dadosabertos.camara.leg.br/api/v2/votacoes/257161-454/votos",
+   "urlProposicao": "https://www.camara.leg.br/propostas-legislativas/257161"
+  },
+  {
+   "idVotacao": "257161-454",
+   "proposicao": "PL 2159/2021",
+   "data": "2025-07-17",
+   "descricao": "Mesma votação do PL 2159/2021 (licenciamento ambiental). Correspondência parcial com G07: Sim indica prioridade à simplificação de empreendimentos.",
+   "placar": "267 x 116",
+   "pergunta": "G07",
+   "valorSim": 2,
+   "valorNao": 4,
+   "url": "https://dadosabertos.camara.leg.br/api/v2/votacoes/257161-454/votos",
+   "urlProposicao": "https://www.camara.leg.br/propostas-legislativas/257161"
+  },
+  {
+   "idVotacao": "2270800-135",
+   "proposicao": "PEC 3/2021",
+   "data": "2025-09-16",
+   "descricao": "PEC 3/2021, 1º turno: parlamentares só podem ser processados criminalmente com licença prévia da sua Casa (chamada PEC da Blindagem).",
+   "placar": "353 x 134",
+   "pergunta": "DF02",
+   "valorSim": 5,
+   "valorNao": 1,
+   "url": "https://dadosabertos.camara.leg.br/api/v2/votacoes/2270800-135/votos",
+   "urlProposicao": "https://www.camara.leg.br/propostas-legislativas/2270800"
+  },
+  {
+   "idVotacao": "2270800-160",
+   "proposicao": "PEC 3/2021",
+   "data": "2025-09-16",
+   "descricao": "PEC 3/2021, 2º turno (mesmo conteúdo do 1º turno).",
+   "placar": "344 x 133",
+   "pergunta": "DF02",
+   "valorSim": 5,
+   "valorNao": 1,
+   "url": "https://dadosabertos.camara.leg.br/api/v2/votacoes/2270800-160/votos",
+   "urlProposicao": "https://www.camara.leg.br/propostas-legislativas/2270800"
+  },
+  {
+   "idVotacao": "2562149-7",
+   "proposicao": "PL 2162/2023",
+   "data": "2025-09-17",
+   "descricao": "Requerimento de urgência para o PL 2162/2023 (anistia a participantes de atos políticos, incluindo o 8 de janeiro). Voto de urgência: correspondência parcial.",
+   "placar": "311 x 163",
+   "pergunta": "G08",
+   "valorSim": 4,
+   "valorNao": 2,
+   "url": "https://dadosabertos.camara.leg.br/api/v2/votacoes/2562149-7/votos",
+   "urlProposicao": "https://www.camara.leg.br/propostas-legislativas/2358548"
+  },
+  {
+   "idVotacao": "2358548-89",
+   "proposicao": "PL 2162/2023, substitutivo da dosimetria (reduz penas, sem anistia)",
+   "data": "2025-12-10",
+   "descricao": "Substitutivo do PL 2162/2023 que reduz penas de crimes contra o Estado Democrático de Direito (aplicável ao 8 de janeiro), sem anistia. Correspondência parcial.",
+   "placar": "291 x 148",
+   "pergunta": "G08",
+   "valorSim": 3,
+   "valorNao": 2,
+   "url": "https://dadosabertos.camara.leg.br/api/v2/votacoes/2358548-89/votos",
+   "urlProposicao": "https://www.camara.leg.br/propostas-legislativas/2358548"
+  },
+  {
+   "idVotacao": "2270894-103",
+   "proposicao": "PL 591/2021 (privatização dos Correios)",
+   "data": "2021-08-05",
+   "pergunta": "G03",
+   "valorSim": 4,
+   "valorNao": 2
+  },
+  {
+   "idVotacao": "2270789-73",
+   "proposicao": "MP 1031/2021 (privatização da Eletrobras)",
+   "data": "2021-05-19",
+   "pergunta": "G03",
+   "valorSim": 4,
+   "valorNao": 2
+  },
+  {
+   "idVotacao": "2088351-324",
+   "proposicao": "PEC 241/2016 (teto de gastos), 2º turno",
+   "data": "2016-10-25",
+   "pergunta": "G01",
+   "valorSim": 4,
+   "valorNao": 2
+  },
+  {
+   "idVotacao": "14493-536",
+   "proposicao": "PEC 171/1993 (maioridade penal para crimes graves), 2º turno",
+   "data": "2015-08-19",
+   "pergunta": "G12",
+   "valorSim": 4,
+   "valorNao": 2
+  },
+  {
+   "idVotacao": "2482078-57",
+   "proposicao": "PDL 3/2025 (sustou resolução do Conanda sobre aborto legal)",
+   "data": "2025-11-05",
+   "pergunta": "G05",
+   "valorSim": 2,
+   "valorNao": null
+  },
+  {
+   "idVotacao": "596844-116",
+   "proposicao": "PL 583/2011 (fim da saída temporária de presos)",
+   "data": "2022-08-03",
+   "pergunta": "DF06",
+   "valorSim": 5,
+   "valorNao": 1
+  },
+  {
+   "idVotacao": "2153100-59",
+   "proposicao": "PL 8703/2017, destaque sobre o artigo que criou o fundo eleitoral (Sim manteve)",
+   "data": "2017-10-04",
+   "pergunta": "DF05",
+   "valorSim": 2,
+   "valorNao": 4
+  },
+  {
+   "idVotacao": "2428236-50",
+   "proposicao": "PEC 45/2023 na CCJ (criminaliza porte de qualquer quantidade de droga)",
+   "data": "2024-06-12",
+   "pergunta": "G06",
+   "valorSim": 2,
+   "valorNao": 4
+  },
+  {
+   "idVotacao": "1228863-102",
+   "proposicao": "PEC 32/2015 na CCJ (maioridade penal aos 16 anos)",
+   "data": "2026-06-10",
+   "pergunta": "G12",
+   "valorSim": 4,
+   "valorNao": 2
+  },
+  {
+   "idVotacao": "2410488-45",
+   "proposicao": "PEC 8/2021 na CCJ (limita decisões monocráticas do STF)",
+   "data": "2024-10-09",
+   "pergunta": "G09",
+   "valorSim": 4,
+   "valorNao": 2
+  }
+ ],
+ "candidatos": {
+  "130002542003": {
+   "nomeUrna": "LAFAYETTE ANDRADA",
+   "cargo": "Deputado Federal",
+   "idCamara": 98057,
+   "posicoes": {
+    "DF03": {
+     "v": 5,
+     "conf": "voto",
+     "fonte": "https://dadosabertos.camara.leg.br/api/v2/votacoes/345311-270/votos",
+     "nota": "Votou Sim em PL 490/2007 (30/05/2023)."
+    },
+    "G10": {
+     "v": 4,
+     "conf": "voto",
+     "fonte": "https://dadosabertos.camara.leg.br/api/v2/votacoes/2310837-8/votos",
+     "nota": "Votou Sim em PL 2630/2020 (25/04/2023)."
+    },
+    "G04": {
+     "v": 4,
+     "conf": "voto",
+     "fonte": "https://dadosabertos.camara.leg.br/api/v2/votacoes/2357898-11/votos",
+     "nota": "Votou Sim em PDL 3/2023 (06/12/2023)."
+    },
+    "DF02": {
+     "v": 5,
+     "conf": "voto",
+     "fonte": "https://dadosabertos.camara.leg.br/api/v2/votacoes/2270800-135/votos",
+     "nota": "Votou Sim em PEC 3/2021 (16/09/2025); Sim em PEC 3/2021 (16/09/2025)."
+    },
+    "G08": {
+     "v": 4,
+     "conf": "voto",
+     "fonte": "https://dadosabertos.camara.leg.br/api/v2/votacoes/2562149-7/votos",
+     "nota": "Votou Sim em PL 2162/2023 (17/09/2025); Sim em PL 2162/2023, substitutivo da dosimetria (reduz penas, sem anistia) (10/12/2025)."
+    },
+    "G03": {
+     "v": 4,
+     "conf": "voto",
+     "fonte": "https://dadosabertos.camara.leg.br/api/v2/votacoes/2270894-103/votos",
+     "nota": "Votou Sim em PL 591/2021 (privatização dos Correios) (05/08/2021)."
+    },
+    "G05": {
+     "v": 2,
+     "conf": "voto",
+     "fonte": "https://dadosabertos.camara.leg.br/api/v2/votacoes/2482078-57/votos",
+     "nota": "Votou Sim em PDL 3/2025 (sustou resolução do Conanda sobre aborto legal) (05/11/2025)."
+    },
+    "DF06": {
+     "v": 5,
+     "conf": "voto",
+     "fonte": "https://dadosabertos.camara.leg.br/api/v2/votacoes/596844-116/votos",
+     "nota": "Votou Sim em PL 583/2011 (fim da saída temporária de presos) (03/08/2022)."
+    },
+    "G06": {
+     "v": 2,
+     "conf": "voto",
+     "fonte": "https://dadosabertos.camara.leg.br/api/v2/votacoes/2428236-50/votos",
+     "nota": "Votou Sim em PEC 45/2023 na CCJ (criminaliza porte de qualquer quantidade de droga) (12/06/2024)."
+    },
+    "G09": {
+     "v": 4,
+     "conf": "voto",
+     "fonte": "https://dadosabertos.camara.leg.br/api/v2/votacoes/2410488-45/votos",
+     "nota": "Votou Sim em PEC 8/2021 na CCJ (limita decisões monocráticas do STF) (09/10/2024)."
+    }
+   }
+  },
+  "130002535317": {
+   "nomeUrna": "REGINALDO LOPES",
+   "cargo": "Deputado Federal",
+   "idCamara": 74161,
+   "posicoes": {
+    "DF03": {
+     "v": 1,
+     "conf": "voto",
+     "fonte": "https://dadosabertos.camara.leg.br/api/v2/votacoes/345311-270/votos",
+     "nota": "Votou Não em PL 490/2007 (30/05/2023)."
+    },
+    "G10": {
+     "v": 4,
+     "conf": "voto",
+     "fonte": "https://dadosabertos.camara.leg.br/api/v2/votacoes/2310837-8/votos",
+     "nota": "Votou Sim em PL 2630/2020 (25/04/2023)."
+    },
+    "G04": {
+     "v": 2,
+     "conf": "voto",
+     "fonte": "https://dadosabertos.camara.leg.br/api/v2/votacoes/2357898-11/votos",
+     "nota": "Votou Não em PDL 3/2023 (06/12/2023)."
+    },
+    "G11": {
+     "v": 4,
+     "conf": "voto",
+     "fonte": "https://dadosabertos.camara.leg.br/api/v2/votacoes/2439779-55/votos",
+     "nota": "Votou Sim em PL 1958/2021 (19/11/2024)."
+    },
+    "DF04": {
+     "v": 1,
+     "conf": "voto",
+     "fonte": "https://dadosabertos.camara.leg.br/api/v2/votacoes/257161-454/votos",
+     "nota": "Votou Não em PL 2159/2021 (17/07/2025)."
+    },
+    "G07": {
+     "v": 4,
+     "conf": "voto",
+     "fonte": "https://dadosabertos.camara.leg.br/api/v2/votacoes/257161-454/votos",
+     "nota": "Votou Não em PL 2159/2021 (17/07/2025)."
+    },
+    "DF02": {
+     "v": 1,
+     "conf": "voto",
+     "fonte": "https://dadosabertos.camara.leg.br/api/v2/votacoes/2270800-135/votos",
+     "nota": "Votou Não em PEC 3/2021 (16/09/2025); Não em PEC 3/2021 (16/09/2025)."
+    },
+    "G08": {
+     "v": 2,
+     "conf": "voto",
+     "fonte": "https://dadosabertos.camara.leg.br/api/v2/votacoes/2562149-7/votos",
+     "nota": "Votou Não em PL 2162/2023 (17/09/2025); Não em PL 2162/2023, substitutivo da dosimetria (reduz penas, sem anistia) (10/12/2025)."
+    },
+    "G03": {
+     "v": 2,
+     "conf": "voto",
+     "fonte": "https://dadosabertos.camara.leg.br/api/v2/votacoes/2270894-103/votos",
+     "nota": "Votou Não em PL 591/2021 (privatização dos Correios) (05/08/2021); Não em MP 1031/2021 (privatização da Eletrobras) (19/05/2021)."
+    },
+    "G01": {
+     "v": 2,
+     "conf": "voto",
+     "fonte": "https://dadosabertos.camara.leg.br/api/v2/votacoes/2088351-324/votos",
+     "nota": "Votou Não em PEC 241/2016 (teto de gastos), 2º turno (25/10/2016)."
+    },
+    "G12": {
+     "v": 2,
+     "conf": "voto",
+     "fonte": "https://dadosabertos.camara.leg.br/api/v2/votacoes/14493-536/votos",
+     "nota": "Votou Não em PEC 171/1993 (maioridade penal para crimes graves), 2º turno (19/08/2015)."
+    },
+    "DF05": {
+     "v": 2,
+     "conf": "voto",
+     "fonte": "https://dadosabertos.camara.leg.br/api/v2/votacoes/2153100-59/votos",
+     "nota": "Votou Sim em PL 8703/2017, destaque sobre o artigo que criou o fundo eleitoral (Sim manteve) (04/10/2017)."
+    }
+   }
+  },
+  "130002548795": {
+   "nomeUrna": "NELY AQUINO",
+   "cargo": "Deputado Federal",
+   "idCamara": 220622,
+   "posicoes": {
+    "DF03": {
+     "v": 5,
+     "conf": "voto",
+     "fonte": "https://dadosabertos.camara.leg.br/api/v2/votacoes/345311-270/votos",
+     "nota": "Votou Sim em PL 490/2007 (30/05/2023)."
+    },
+    "G10": {
+     "v": 2,
+     "conf": "voto",
+     "fonte": "https://dadosabertos.camara.leg.br/api/v2/votacoes/2310837-8/votos",
+     "nota": "Votou Não em PL 2630/2020 (25/04/2023)."
+    },
+    "G11": {
+     "v": 4,
+     "conf": "voto",
+     "fonte": "https://dadosabertos.camara.leg.br/api/v2/votacoes/2439779-55/votos",
+     "nota": "Votou Sim em PL 1958/2021 (19/11/2024)."
+    },
+    "DF04": {
+     "v": 5,
+     "conf": "voto",
+     "fonte": "https://dadosabertos.camara.leg.br/api/v2/votacoes/257161-454/votos",
+     "nota": "Votou Sim em PL 2159/2021 (17/07/2025)."
+    },
+    "G07": {
+     "v": 2,
+     "conf": "voto",
+     "fonte": "https://dadosabertos.camara.leg.br/api/v2/votacoes/257161-454/votos",
+     "nota": "Votou Sim em PL 2159/2021 (17/07/2025)."
+    },
+    "DF02": {
+     "v": 5,
+     "conf": "voto",
+     "fonte": "https://dadosabertos.camara.leg.br/api/v2/votacoes/2270800-135/votos",
+     "nota": "Votou Sim em PEC 3/2021 (16/09/2025); Sim em PEC 3/2021 (16/09/2025)."
+    },
+    "G08": {
+     "v": 4,
+     "conf": "voto",
+     "fonte": "https://dadosabertos.camara.leg.br/api/v2/votacoes/2562149-7/votos",
+     "nota": "Votou Sim em PL 2162/2023 (17/09/2025)."
+    },
+    "G05": {
+     "v": 2,
+     "conf": "voto",
+     "fonte": "https://dadosabertos.camara.leg.br/api/v2/votacoes/2482078-57/votos",
+     "nota": "Votou Sim em PDL 3/2025 (sustou resolução do Conanda sobre aborto legal) (05/11/2025)."
+    }
+   }
+  },
+  "130002542700": {
+   "nomeUrna": "PEDRO AIHARA",
+   "cargo": "Deputado Federal",
+   "idCamara": 220630,
+   "posicoes": {
+    "DF03": {
+     "v": 1,
+     "conf": "voto",
+     "fonte": "https://dadosabertos.camara.leg.br/api/v2/votacoes/345311-270/votos",
+     "nota": "Votou Não em PL 490/2007 (30/05/2023)."
+    },
+    "G10": {
+     "v": 2,
+     "conf": "voto",
+     "fonte": "https://dadosabertos.camara.leg.br/api/v2/votacoes/2310837-8/votos",
+     "nota": "Votou Não em PL 2630/2020 (25/04/2023)."
+    },
+    "G04": {
+     "v": 4,
+     "conf": "voto",
+     "fonte": "https://dadosabertos.camara.leg.br/api/v2/votacoes/2357898-11/votos",
+     "nota": "Votou Sim em PDL 3/2023 (06/12/2023)."
+    },
+    "G11": {
+     "v": 4,
+     "conf": "voto",
+     "fonte": "https://dadosabertos.camara.leg.br/api/v2/votacoes/2439779-55/votos",
+     "nota": "Votou Sim em PL 1958/2021 (19/11/2024)."
+    },
+    "DF04": {
+     "v": 1,
+     "conf": "voto",
+     "fonte": "https://dadosabertos.camara.leg.br/api/v2/votacoes/257161-454/votos",
+     "nota": "Votou Não em PL 2159/2021 (17/07/2025)."
+    },
+    "G07": {
+     "v": 4,
+     "conf": "voto",
+     "fonte": "https://dadosabertos.camara.leg.br/api/v2/votacoes/257161-454/votos",
+     "nota": "Votou Não em PL 2159/2021 (17/07/2025)."
+    },
+    "DF02": {
+     "v": 5,
+     "conf": "voto",
+     "fonte": "https://dadosabertos.camara.leg.br/api/v2/votacoes/2270800-135/votos",
+     "nota": "Votou Sim em PEC 3/2021 (16/09/2025); Sim em PEC 3/2021 (16/09/2025)."
+    },
+    "G08": {
+     "v": 4,
+     "conf": "voto",
+     "fonte": "https://dadosabertos.camara.leg.br/api/v2/votacoes/2562149-7/votos",
+     "nota": "Votou Sim em PL 2162/2023 (17/09/2025)."
+    }
+   }
+  },
+  "130002537202": {
+   "nomeUrna": "BRUNO FARIAS",
+   "cargo": "Deputado Federal",
+   "idCamara": 210989,
+   "posicoes": {
+    "DF03": {
+     "v": 5,
+     "conf": "voto",
+     "fonte": "https://dadosabertos.camara.leg.br/api/v2/votacoes/345311-270/votos",
+     "nota": "Votou Sim em PL 490/2007 (30/05/2023)."
+    },
+    "G10": {
+     "v": 4,
+     "conf": "voto",
+     "fonte": "https://dadosabertos.camara.leg.br/api/v2/votacoes/2310837-8/votos",
+     "nota": "Votou Sim em PL 2630/2020 (25/04/2023)."
+    },
+    "G04": {
+     "v": 2,
+     "conf": "voto",
+     "fonte": "https://dadosabertos.camara.leg.br/api/v2/votacoes/2357898-11/votos",
+     "nota": "Votou Não em PDL 3/2023 (06/12/2023)."
+    },
+    "DF04": {
+     "v": 5,
+     "conf": "voto",
+     "fonte": "https://dadosabertos.camara.leg.br/api/v2/votacoes/257161-454/votos",
+     "nota": "Votou Sim em PL 2159/2021 (17/07/2025)."
+    },
+    "G07": {
+     "v": 2,
+     "conf": "voto",
+     "fonte": "https://dadosabertos.camara.leg.br/api/v2/votacoes/257161-454/votos",
+     "nota": "Votou Sim em PL 2159/2021 (17/07/2025)."
+    },
+    "DF02": {
+     "v": 5,
+     "conf": "voto",
+     "fonte": "https://dadosabertos.camara.leg.br/api/v2/votacoes/2270800-135/votos",
+     "nota": "Votou Sim em PEC 3/2021 (16/09/2025); Sim em PEC 3/2021 (16/09/2025)."
+    },
+    "G08": {
+     "v": 4,
+     "conf": "voto",
+     "fonte": "https://dadosabertos.camara.leg.br/api/v2/votacoes/2562149-7/votos",
+     "nota": "Votou Sim em PL 2162/2023 (17/09/2025); Sim em PL 2162/2023, substitutivo da dosimetria (reduz penas, sem anistia) (10/12/2025)."
+    },
+    "G05": {
+     "v": 2,
+     "conf": "voto",
+     "fonte": "https://dadosabertos.camara.leg.br/api/v2/votacoes/2482078-57/votos",
+     "nota": "Votou Sim em PDL 3/2025 (sustou resolução do Conanda sobre aborto legal) (05/11/2025)."
+    }
+   }
+  },
+  "130002537206": {
+   "nomeUrna": "EUCLYDES PETTERSEN",
+   "cargo": "Deputado Federal",
+   "idCamara": 204482,
+   "posicoes": {
+    "DF03": {
+     "v": 5,
+     "conf": "voto",
+     "fonte": "https://dadosabertos.camara.leg.br/api/v2/votacoes/345311-270/votos",
+     "nota": "Votou Sim em PL 490/2007 (30/05/2023)."
+    },
+    "G04": {
+     "v": 4,
+     "conf": "voto",
+     "fonte": "https://dadosabertos.camara.leg.br/api/v2/votacoes/2357898-11/votos",
+     "nota": "Votou Sim em PDL 3/2023 (06/12/2023)."
+    },
+    "G11": {
+     "v": 4,
+     "conf": "voto",
+     "fonte": "https://dadosabertos.camara.leg.br/api/v2/votacoes/2439779-55/votos",
+     "nota": "Votou Sim em PL 1958/2021 (19/11/2024)."
+    },
+    "DF04": {
+     "v": 5,
+     "conf": "voto",
+     "fonte": "https://dadosabertos.camara.leg.br/api/v2/votacoes/257161-454/votos",
+     "nota": "Votou Sim em PL 2159/2021 (17/07/2025)."
+    },
+    "G07": {
+     "v": 2,
+     "conf": "voto",
+     "fonte": "https://dadosabertos.camara.leg.br/api/v2/votacoes/257161-454/votos",
+     "nota": "Votou Sim em PL 2159/2021 (17/07/2025)."
+    },
+    "DF02": {
+     "v": 5,
+     "conf": "voto",
+     "fonte": "https://dadosabertos.camara.leg.br/api/v2/votacoes/2270800-135/votos",
+     "nota": "Votou Sim em PEC 3/2021 (16/09/2025); Sim em PEC 3/2021 (16/09/2025)."
+    },
+    "G08": {
+     "v": 4,
+     "conf": "voto",
+     "fonte": "https://dadosabertos.camara.leg.br/api/v2/votacoes/2562149-7/votos",
+     "nota": "Votou Sim em PL 2162/2023 (17/09/2025); Sim em PL 2162/2023, substitutivo da dosimetria (reduz penas, sem anistia) (10/12/2025)."
+    },
+    "G03": {
+     "v": 4,
+     "conf": "voto",
+     "fonte": "https://dadosabertos.camara.leg.br/api/v2/votacoes/2270894-103/votos",
+     "nota": "Votou Sim em PL 591/2021 (privatização dos Correios) (05/08/2021); Sim em MP 1031/2021 (privatização da Eletrobras) (19/05/2021)."
+    },
+    "G05": {
+     "v": 2,
+     "conf": "voto",
+     "fonte": "https://dadosabertos.camara.leg.br/api/v2/votacoes/2482078-57/votos",
+     "nota": "Votou Sim em PDL 3/2025 (sustou resolução do Conanda sobre aborto legal) (05/11/2025)."
+    },
+    "DF06": {
+     "v": 5,
+     "conf": "voto",
+     "fonte": "https://dadosabertos.camara.leg.br/api/v2/votacoes/596844-116/votos",
+     "nota": "Votou Sim em PL 583/2011 (fim da saída temporária de presos) (03/08/2022)."
+    }
+   }
+  },
+  "130002542036": {
+   "nomeUrna": "DR. FREDERICO",
+   "cargo": "Deputado Federal",
+   "idCamara": 204518,
+   "posicoes": {
+    "DF03": {
+     "v": 5,
+     "conf": "voto",
+     "fonte": "https://dadosabertos.camara.leg.br/api/v2/votacoes/345311-270/votos",
+     "nota": "Votou Sim em PL 490/2007 (30/05/2023)."
+    },
+    "G10": {
+     "v": 2,
+     "conf": "voto",
+     "fonte": "https://dadosabertos.camara.leg.br/api/v2/votacoes/2310837-8/votos",
+     "nota": "Votou Não em PL 2630/2020 (25/04/2023)."
+    },
+    "G04": {
+     "v": 4,
+     "conf": "voto",
+     "fonte": "https://dadosabertos.camara.leg.br/api/v2/votacoes/2357898-11/votos",
+     "nota": "Votou Sim em PDL 3/2023 (06/12/2023)."
+    },
+    "DF04": {
+     "v": 5,
+     "conf": "voto",
+     "fonte": "https://dadosabertos.camara.leg.br/api/v2/votacoes/257161-454/votos",
+     "nota": "Votou Sim em PL 2159/2021 (17/07/2025)."
+    },
+    "G07": {
+     "v": 2,
+     "conf": "voto",
+     "fonte": "https://dadosabertos.camara.leg.br/api/v2/votacoes/257161-454/votos",
+     "nota": "Votou Sim em PL 2159/2021 (17/07/2025)."
+    },
+    "DF02": {
+     "v": 5,
+     "conf": "voto",
+     "fonte": "https://dadosabertos.camara.leg.br/api/v2/votacoes/2270800-135/votos",
+     "nota": "Votou Sim em PEC 3/2021 (16/09/2025); Sim em PEC 3/2021 (16/09/2025)."
+    },
+    "G08": {
+     "v": 4,
+     "conf": "voto",
+     "fonte": "https://dadosabertos.camara.leg.br/api/v2/votacoes/2562149-7/votos",
+     "nota": "Votou Sim em PL 2162/2023 (17/09/2025); Sim em PL 2162/2023, substitutivo da dosimetria (reduz penas, sem anistia) (10/12/2025)."
+    },
+    "G03": {
+     "v": 4,
+     "conf": "voto",
+     "fonte": "https://dadosabertos.camara.leg.br/api/v2/votacoes/2270894-103/votos",
+     "nota": "Votou Sim em PL 591/2021 (privatização dos Correios) (05/08/2021); Sim em MP 1031/2021 (privatização da Eletrobras) (19/05/2021)."
+    },
+    "G05": {
+     "v": 2,
+     "conf": "voto",
+     "fonte": "https://dadosabertos.camara.leg.br/api/v2/votacoes/2482078-57/votos",
+     "nota": "Votou Sim em PDL 3/2025 (sustou resolução do Conanda sobre aborto legal) (05/11/2025)."
+    },
+    "DF06": {
+     "v": 5,
+     "conf": "voto",
+     "fonte": "https://dadosabertos.camara.leg.br/api/v2/votacoes/596844-116/votos",
+     "nota": "Votou Sim em PL 583/2011 (fim da saída temporária de presos) (03/08/2022)."
+    }
+   }
+  },
+  "130002543112": {
+   "nomeUrna": "LUIS TIBÉ",
+   "cargo": "Deputado Federal",
+   "idCamara": 160510,
+   "posicoes": {
+    "DF03": {
+     "v": 1,
+     "conf": "voto",
+     "fonte": "https://dadosabertos.camara.leg.br/api/v2/votacoes/345311-270/votos",
+     "nota": "Votou Não em PL 490/2007 (30/05/2023)."
+    },
+    "G04": {
+     "v": 2,
+     "conf": "voto",
+     "fonte": "https://dadosabertos.camara.leg.br/api/v2/votacoes/2357898-11/votos",
+     "nota": "Votou Não em PDL 3/2023 (06/12/2023)."
+    },
+    "DF02": {
+     "v": 5,
+     "conf": "voto",
+     "fonte": "https://dadosabertos.camara.leg.br/api/v2/votacoes/2270800-135/votos",
+     "nota": "Votou Sim em PEC 3/2021 (16/09/2025); Sim em PEC 3/2021 (16/09/2025)."
+    },
+    "G08": {
+     "v": 4,
+     "conf": "voto",
+     "fonte": "https://dadosabertos.camara.leg.br/api/v2/votacoes/2562149-7/votos",
+     "nota": "Votou Sim em PL 2162/2023 (17/09/2025); Sim em PL 2162/2023, substitutivo da dosimetria (reduz penas, sem anistia) (10/12/2025)."
+    },
+    "G03": {
+     "v": 4,
+     "conf": "voto",
+     "fonte": "https://dadosabertos.camara.leg.br/api/v2/votacoes/2270789-73/votos",
+     "nota": "Votou Sim em MP 1031/2021 (privatização da Eletrobras) (19/05/2021)."
+    },
+    "G01": {
+     "v": 4,
+     "conf": "voto",
+     "fonte": "https://dadosabertos.camara.leg.br/api/v2/votacoes/2088351-324/votos",
+     "nota": "Votou Sim em PEC 241/2016 (teto de gastos), 2º turno (25/10/2016)."
+    },
+    "G12": {
+     "v": 4,
+     "conf": "voto",
+     "fonte": "https://dadosabertos.camara.leg.br/api/v2/votacoes/14493-536/votos",
+     "nota": "Votou Sim em PEC 171/1993 (maioridade penal para crimes graves), 2º turno (19/08/2015)."
+    },
+    "DF06": {
+     "v": 5,
+     "conf": "voto",
+     "fonte": "https://dadosabertos.camara.leg.br/api/v2/votacoes/596844-116/votos",
+     "nota": "Votou Sim em PL 583/2011 (fim da saída temporária de presos) (03/08/2022)."
+    },
+    "DF05": {
+     "v": 2,
+     "conf": "voto",
+     "fonte": "https://dadosabertos.camara.leg.br/api/v2/votacoes/2153100-59/votos",
+     "nota": "Votou Sim em PL 8703/2017, destaque sobre o artigo que criou o fundo eleitoral (Sim manteve) (04/10/2017)."
+    }
+   }
+  },
+  "130002542017": {
+   "nomeUrna": "EMIDINHO MADEIRA",
+   "cargo": "Deputado Federal",
+   "idCamara": 161550,
+   "posicoes": {
+    "DF03": {
+     "v": 5,
+     "conf": "voto",
+     "fonte": "https://dadosabertos.camara.leg.br/api/v2/votacoes/345311-270/votos",
+     "nota": "Votou Sim em PL 490/2007 (30/05/2023)."
+    },
+    "G10": {
+     "v": 2,
+     "conf": "voto",
+     "fonte": "https://dadosabertos.camara.leg.br/api/v2/votacoes/2310837-8/votos",
+     "nota": "Votou Não em PL 2630/2020 (25/04/2023)."
+    },
+    "G04": {
+     "v": 4,
+     "conf": "voto",
+     "fonte": "https://dadosabertos.camara.leg.br/api/v2/votacoes/2357898-11/votos",
+     "nota": "Votou Sim em PDL 3/2023 (06/12/2023)."
+    },
+    "DF04": {
+     "v": 5,
+     "conf": "voto",
+     "fonte": "https://dadosabertos.camara.leg.br/api/v2/votacoes/257161-454/votos",
+     "nota": "Votou Sim em PL 2159/2021 (17/07/2025)."
+    },
+    "G07": {
+     "v": 2,
+     "conf": "voto",
+     "fonte": "https://dadosabertos.camara.leg.br/api/v2/votacoes/257161-454/votos",
+     "nota": "Votou Sim em PL 2159/2021 (17/07/2025)."
+    },
+    "DF02": {
+     "v": 5,
+     "conf": "voto",
+     "fonte": "https://dadosabertos.camara.leg.br/api/v2/votacoes/2270800-135/votos",
+     "nota": "Votou Sim em PEC 3/2021 (16/09/2025)."
+    },
+    "G08": {
+     "v": 4,
+     "conf": "voto",
+     "fonte": "https://dadosabertos.camara.leg.br/api/v2/votacoes/2562149-7/votos",
+     "nota": "Votou Sim em PL 2162/2023 (17/09/2025); Sim em PL 2162/2023, substitutivo da dosimetria (reduz penas, sem anistia) (10/12/2025)."
+    },
+    "G03": {
+     "v": 3,
+     "conf": "voto",
+     "fonte": "https://dadosabertos.camara.leg.br/api/v2/votacoes/2270894-103/votos",
+     "nota": "Votou Sim em PL 591/2021 (privatização dos Correios) (05/08/2021); Não em MP 1031/2021 (privatização da Eletrobras) (19/05/2021)."
+    },
+    "G05": {
+     "v": 2,
+     "conf": "voto",
+     "fonte": "https://dadosabertos.camara.leg.br/api/v2/votacoes/2482078-57/votos",
+     "nota": "Votou Sim em PDL 3/2025 (sustou resolução do Conanda sobre aborto legal) (05/11/2025)."
+    }
+   }
+  },
+  "130002533240": {
+   "nomeUrna": "FRED COSTA",
+   "cargo": "Deputado Federal",
+   "idCamara": 204494,
+   "posicoes": {
+    "DF03": {
+     "v": 1,
+     "conf": "voto",
+     "fonte": "https://dadosabertos.camara.leg.br/api/v2/votacoes/345311-270/votos",
+     "nota": "Votou Não em PL 490/2007 (30/05/2023)."
+    },
+    "G10": {
+     "v": 4,
+     "conf": "voto",
+     "fonte": "https://dadosabertos.camara.leg.br/api/v2/votacoes/2310837-8/votos",
+     "nota": "Votou Sim em PL 2630/2020 (25/04/2023)."
+    },
+    "DF02": {
+     "v": 5,
+     "conf": "voto",
+     "fonte": "https://dadosabertos.camara.leg.br/api/v2/votacoes/2270800-135/votos",
+     "nota": "Votou Sim em PEC 3/2021 (16/09/2025); Sim em PEC 3/2021 (16/09/2025)."
+    },
+    "G08": {
+     "v": 4,
+     "conf": "voto",
+     "fonte": "https://dadosabertos.camara.leg.br/api/v2/votacoes/2562149-7/votos",
+     "nota": "Votou Sim em PL 2162/2023 (17/09/2025); Sim em PL 2162/2023, substitutivo da dosimetria (reduz penas, sem anistia) (10/12/2025)."
+    },
+    "G03": {
+     "v": 4,
+     "conf": "voto",
+     "fonte": "https://dadosabertos.camara.leg.br/api/v2/votacoes/2270894-103/votos",
+     "nota": "Votou Sim em PL 591/2021 (privatização dos Correios) (05/08/2021); Sim em MP 1031/2021 (privatização da Eletrobras) (19/05/2021)."
+    }
+   }
+  },
+  "130002535300": {
+   "nomeUrna": "DANDARA",
+   "cargo": "Deputado Federal",
+   "idCamara": 220629,
+   "posicoes": {
+    "DF03": {
+     "v": 1,
+     "conf": "voto",
+     "fonte": "https://dadosabertos.camara.leg.br/api/v2/votacoes/345311-270/votos",
+     "nota": "Votou Não em PL 490/2007 (30/05/2023)."
+    },
+    "G10": {
+     "v": 4,
+     "conf": "voto",
+     "fonte": "https://dadosabertos.camara.leg.br/api/v2/votacoes/2310837-8/votos",
+     "nota": "Votou Sim em PL 2630/2020 (25/04/2023)."
+    },
+    "G04": {
+     "v": 2,
+     "conf": "voto",
+     "fonte": "https://dadosabertos.camara.leg.br/api/v2/votacoes/2357898-11/votos",
+     "nota": "Votou Não em PDL 3/2023 (06/12/2023)."
+    },
+    "G11": {
+     "v": 4,
+     "conf": "voto",
+     "fonte": "https://dadosabertos.camara.leg.br/api/v2/votacoes/2439779-55/votos",
+     "nota": "Votou Sim em PL 1958/2021 (19/11/2024)."
+    },
+    "DF04": {
+     "v": 1,
+     "conf": "voto",
+     "fonte": "https://dadosabertos.camara.leg.br/api/v2/votacoes/257161-454/votos",
+     "nota": "Votou Não em PL 2159/2021 (17/07/2025)."
+    },
+    "G07": {
+     "v": 4,
+     "conf": "voto",
+     "fonte": "https://dadosabertos.camara.leg.br/api/v2/votacoes/257161-454/votos",
+     "nota": "Votou Não em PL 2159/2021 (17/07/2025)."
+    },
+    "DF02": {
+     "v": 1,
+     "conf": "voto",
+     "fonte": "https://dadosabertos.camara.leg.br/api/v2/votacoes/2270800-135/votos",
+     "nota": "Votou Não em PEC 3/2021 (16/09/2025)."
+    },
+    "G08": {
+     "v": 2,
+     "conf": "voto",
+     "fonte": "https://dadosabertos.camara.leg.br/api/v2/votacoes/2562149-7/votos",
+     "nota": "Votou Não em PL 2162/2023 (17/09/2025); Não em PL 2162/2023, substitutivo da dosimetria (reduz penas, sem anistia) (10/12/2025)."
+    }
+   }
+  },
+  "130002542027": {
+   "nomeUrna": "ROSANGELA REIS",
+   "cargo": "Deputado Federal",
+   "idCamara": 220620,
+   "posicoes": {
+    "DF03": {
+     "v": 5,
+     "conf": "voto",
+     "fonte": "https://dadosabertos.camara.leg.br/api/v2/votacoes/345311-270/votos",
+     "nota": "Votou Sim em PL 490/2007 (30/05/2023)."
+    },
+    "G10": {
+     "v": 2,
+     "conf": "voto",
+     "fonte": "https://dadosabertos.camara.leg.br/api/v2/votacoes/2310837-8/votos",
+     "nota": "Votou Não em PL 2630/2020 (25/04/2023)."
+    },
+    "G04": {
+     "v": 4,
+     "conf": "voto",
+     "fonte": "https://dadosabertos.camara.leg.br/api/v2/votacoes/2357898-11/votos",
+     "nota": "Votou Sim em PDL 3/2023 (06/12/2023)."
+    },
+    "G11": {
+     "v": 4,
+     "conf": "voto",
+     "fonte": "https://dadosabertos.camara.leg.br/api/v2/votacoes/2439779-55/votos",
+     "nota": "Votou Sim em PL 1958/2021 (19/11/2024)."
+    },
+    "DF04": {
+     "v": 5,
+     "conf": "voto",
+     "fonte": "https://dadosabertos.camara.leg.br/api/v2/votacoes/257161-454/votos",
+     "nota": "Votou Sim em PL 2159/2021 (17/07/2025)."
+    },
+    "G07": {
+     "v": 2,
+     "conf": "voto",
+     "fonte": "https://dadosabertos.camara.leg.br/api/v2/votacoes/257161-454/votos",
+     "nota": "Votou Sim em PL 2159/2021 (17/07/2025)."
+    },
+    "DF02": {
+     "v": 5,
+     "conf": "voto",
+     "fonte": "https://dadosabertos.camara.leg.br/api/v2/votacoes/2270800-135/votos",
+     "nota": "Votou Sim em PEC 3/2021 (16/09/2025); Sim em PEC 3/2021 (16/09/2025)."
+    },
+    "G08": {
+     "v": 4,
+     "conf": "voto",
+     "fonte": "https://dadosabertos.camara.leg.br/api/v2/votacoes/2562149-7/votos",
+     "nota": "Votou Sim em PL 2162/2023 (17/09/2025); Sim em PL 2162/2023, substitutivo da dosimetria (reduz penas, sem anistia) (10/12/2025)."
+    },
+    "G05": {
+     "v": 2,
+     "conf": "voto",
+     "fonte": "https://dadosabertos.camara.leg.br/api/v2/votacoes/2482078-57/votos",
+     "nota": "Votou Sim em PDL 3/2025 (sustou resolução do Conanda sobre aborto legal) (05/11/2025)."
+    }
+   }
+  },
+  "130002542738": {
+   "nomeUrna": "RAFAEL SIMÕES",
+   "cargo": "Deputado Federal",
+   "idCamara": 220626,
+   "posicoes": {
+    "DF03": {
+     "v": 5,
+     "conf": "voto",
+     "fonte": "https://dadosabertos.camara.leg.br/api/v2/votacoes/345311-270/votos",
+     "nota": "Votou Sim em PL 490/2007 (30/05/2023)."
+    },
+    "G10": {
+     "v": 2,
+     "conf": "voto",
+     "fonte": "https://dadosabertos.camara.leg.br/api/v2/votacoes/2310837-8/votos",
+     "nota": "Votou Não em PL 2630/2020 (25/04/2023)."
+    },
+    "G04": {
+     "v": 4,
+     "conf": "voto",
+     "fonte": "https://dadosabertos.camara.leg.br/api/v2/votacoes/2357898-11/votos",
+     "nota": "Votou Sim em PDL 3/2023 (06/12/2023)."
+    },
+    "G11": {
+     "v": 4,
+     "conf": "voto",
+     "fonte": "https://dadosabertos.camara.leg.br/api/v2/votacoes/2439779-55/votos",
+     "nota": "Votou Sim em PL 1958/2021 (19/11/2024)."
+    },
+    "DF04": {
+     "v": 5,
+     "conf": "voto",
+     "fonte": "https://dadosabertos.camara.leg.br/api/v2/votacoes/257161-454/votos",
+     "nota": "Votou Sim em PL 2159/2021 (17/07/2025)."
+    },
+    "G07": {
+     "v": 2,
+     "conf": "voto",
+     "fonte": "https://dadosabertos.camara.leg.br/api/v2/votacoes/257161-454/votos",
+     "nota": "Votou Sim em PL 2159/2021 (17/07/2025)."
+    },
+    "DF02": {
+     "v": 5,
+     "conf": "voto",
+     "fonte": "https://dadosabertos.camara.leg.br/api/v2/votacoes/2270800-135/votos",
+     "nota": "Votou Sim em PEC 3/2021 (16/09/2025); Sim em PEC 3/2021 (16/09/2025)."
+    },
+    "G08": {
+     "v": 4,
+     "conf": "voto",
+     "fonte": "https://dadosabertos.camara.leg.br/api/v2/votacoes/2562149-7/votos",
+     "nota": "Votou Sim em PL 2162/2023 (17/09/2025); Sim em PL 2162/2023, substitutivo da dosimetria (reduz penas, sem anistia) (10/12/2025)."
+    }
+   }
+  },
+  "130002545565": {
+   "nomeUrna": "STEFANO AGUIAR",
+   "cargo": "Deputado Federal",
+   "idCamara": 92776,
+   "posicoes": {
+    "G10": {
+     "v": 2,
+     "conf": "voto",
+     "fonte": "https://dadosabertos.camara.leg.br/api/v2/votacoes/2310837-8/votos",
+     "nota": "Votou Não em PL 2630/2020 (25/04/2023)."
+    },
+    "G11": {
+     "v": 2,
+     "conf": "voto",
+     "fonte": "https://dadosabertos.camara.leg.br/api/v2/votacoes/2439779-55/votos",
+     "nota": "Votou Não em PL 1958/2021 (19/11/2024)."
+    },
+    "DF02": {
+     "v": 5,
+     "conf": "voto",
+     "fonte": "https://dadosabertos.camara.leg.br/api/v2/votacoes/2270800-135/votos",
+     "nota": "Votou Sim em PEC 3/2021 (16/09/2025)."
+    },
+    "G08": {
+     "v": 4,
+     "conf": "voto",
+     "fonte": "https://dadosabertos.camara.leg.br/api/v2/votacoes/2562149-7/votos",
+     "nota": "Votou Sim em PL 2162/2023 (17/09/2025); Sim em PL 2162/2023, substitutivo da dosimetria (reduz penas, sem anistia) (10/12/2025)."
+    },
+    "G03": {
+     "v": 4,
+     "conf": "voto",
+     "fonte": "https://dadosabertos.camara.leg.br/api/v2/votacoes/2270894-103/votos",
+     "nota": "Votou Sim em PL 591/2021 (privatização dos Correios) (05/08/2021); Sim em MP 1031/2021 (privatização da Eletrobras) (19/05/2021)."
+    },
+    "G01": {
+     "v": 4,
+     "conf": "voto",
+     "fonte": "https://dadosabertos.camara.leg.br/api/v2/votacoes/2088351-324/votos",
+     "nota": "Votou Sim em PEC 241/2016 (teto de gastos), 2º turno (25/10/2016)."
+    },
+    "G05": {
+     "v": 2,
+     "conf": "voto",
+     "fonte": "https://dadosabertos.camara.leg.br/api/v2/votacoes/2482078-57/votos",
+     "nota": "Votou Sim em PDL 3/2025 (sustou resolução do Conanda sobre aborto legal) (05/11/2025)."
+    },
+    "DF06": {
+     "v": 5,
+     "conf": "voto",
+     "fonte": "https://dadosabertos.camara.leg.br/api/v2/votacoes/596844-116/votos",
+     "nota": "Votou Sim em PL 583/2011 (fim da saída temporária de presos) (03/08/2022)."
+    },
+    "DF05": {
+     "v": 4,
+     "conf": "voto",
+     "fonte": "https://dadosabertos.camara.leg.br/api/v2/votacoes/2153100-59/votos",
+     "nota": "Votou Não em PL 8703/2017, destaque sobre o artigo que criou o fundo eleitoral (Sim manteve) (04/10/2017)."
+    }
+   }
+  },
+  "130002542004": {
+   "nomeUrna": "DELEGADA IONE",
+   "cargo": "Deputado Federal",
+   "idCamara": 220625,
+   "posicoes": {
+    "DF03": {
+     "v": 5,
+     "conf": "voto",
+     "fonte": "https://dadosabertos.camara.leg.br/api/v2/votacoes/345311-270/votos",
+     "nota": "Votou Sim em PL 490/2007 (30/05/2023)."
+    },
+    "G10": {
+     "v": 2,
+     "conf": "voto",
+     "fonte": "https://dadosabertos.camara.leg.br/api/v2/votacoes/2310837-8/votos",
+     "nota": "Votou Não em PL 2630/2020 (25/04/2023)."
+    },
+    "G04": {
+     "v": 4,
+     "conf": "voto",
+     "fonte": "https://dadosabertos.camara.leg.br/api/v2/votacoes/2357898-11/votos",
+     "nota": "Votou Sim em PDL 3/2023 (06/12/2023)."
+    },
+    "DF04": {
+     "v": 1,
+     "conf": "voto",
+     "fonte": "https://dadosabertos.camara.leg.br/api/v2/votacoes/257161-454/votos",
+     "nota": "Votou Não em PL 2159/2021 (17/07/2025)."
+    },
+    "G07": {
+     "v": 4,
+     "conf": "voto",
+     "fonte": "https://dadosabertos.camara.leg.br/api/v2/votacoes/257161-454/votos",
+     "nota": "Votou Não em PL 2159/2021 (17/07/2025)."
+    },
+    "DF02": {
+     "v": 5,
+     "conf": "voto",
+     "fonte": "https://dadosabertos.camara.leg.br/api/v2/votacoes/2270800-135/votos",
+     "nota": "Votou Sim em PEC 3/2021 (16/09/2025); Sim em PEC 3/2021 (16/09/2025)."
+    },
+    "G08": {
+     "v": 4,
+     "conf": "voto",
+     "fonte": "https://dadosabertos.camara.leg.br/api/v2/votacoes/2562149-7/votos",
+     "nota": "Votou Sim em PL 2162/2023 (17/09/2025); Sim em PL 2162/2023, substitutivo da dosimetria (reduz penas, sem anistia) (10/12/2025)."
+    },
+    "G05": {
+     "v": 2,
+     "conf": "voto",
+     "fonte": "https://dadosabertos.camara.leg.br/api/v2/votacoes/2482078-57/votos",
+     "nota": "Votou Sim em PDL 3/2025 (sustou resolução do Conanda sobre aborto legal) (05/11/2025)."
+    }
+   }
+  },
+  "130002535313": {
+   "nomeUrna": "LEONARDO MONTEIRO",
+   "cargo": "Deputado Federal",
+   "idCamara": 74156,
+   "posicoes": {
+    "DF03": {
+     "v": 1,
+     "conf": "voto",
+     "fonte": "https://dadosabertos.camara.leg.br/api/v2/votacoes/345311-270/votos",
+     "nota": "Votou Não em PL 490/2007 (30/05/2023)."
+    },
+    "G10": {
+     "v": 4,
+     "conf": "voto",
+     "fonte": "https://dadosabertos.camara.leg.br/api/v2/votacoes/2310837-8/votos",
+     "nota": "Votou Sim em PL 2630/2020 (25/04/2023)."
+    },
+    "G04": {
+     "v": 2,
+     "conf": "voto",
+     "fonte": "https://dadosabertos.camara.leg.br/api/v2/votacoes/2357898-11/votos",
+     "nota": "Votou Não em PDL 3/2023 (06/12/2023)."
+    },
+    "G11": {
+     "v": 4,
+     "conf": "voto",
+     "fonte": "https://dadosabertos.camara.leg.br/api/v2/votacoes/2439779-55/votos",
+     "nota": "Votou Sim em PL 1958/2021 (19/11/2024)."
+    },
+    "DF02": {
+     "v": 3,
+     "conf": "voto",
+     "fonte": "https://dadosabertos.camara.leg.br/api/v2/votacoes/2270800-135/votos",
+     "nota": "Votou Sim em PEC 3/2021 (16/09/2025); Não em PEC 3/2021 (16/09/2025)."
+    },
+    "G08": {
+     "v": 2,
+     "conf": "voto",
+     "fonte": "https://dadosabertos.camara.leg.br/api/v2/votacoes/2562149-7/votos",
+     "nota": "Votou Não em PL 2162/2023 (17/09/2025); Não em PL 2162/2023, substitutivo da dosimetria (reduz penas, sem anistia) (10/12/2025)."
+    },
+    "G03": {
+     "v": 2,
+     "conf": "voto",
+     "fonte": "https://dadosabertos.camara.leg.br/api/v2/votacoes/2270894-103/votos",
+     "nota": "Votou Não em PL 591/2021 (privatização dos Correios) (05/08/2021); Não em MP 1031/2021 (privatização da Eletrobras) (19/05/2021)."
+    },
+    "G01": {
+     "v": 2,
+     "conf": "voto",
+     "fonte": "https://dadosabertos.camara.leg.br/api/v2/votacoes/2088351-324/votos",
+     "nota": "Votou Não em PEC 241/2016 (teto de gastos), 2º turno (25/10/2016)."
+    },
+    "G12": {
+     "v": 2,
+     "conf": "voto",
+     "fonte": "https://dadosabertos.camara.leg.br/api/v2/votacoes/14493-536/votos",
+     "nota": "Votou Não em PEC 171/1993 (maioridade penal para crimes graves), 2º turno (19/08/2015)."
+    },
+    "DF06": {
+     "v": 1,
+     "conf": "voto",
+     "fonte": "https://dadosabertos.camara.leg.br/api/v2/votacoes/596844-116/votos",
+     "nota": "Votou Não em PL 583/2011 (fim da saída temporária de presos) (03/08/2022)."
+    },
+    "DF05": {
+     "v": 2,
+     "conf": "voto",
+     "fonte": "https://dadosabertos.camara.leg.br/api/v2/votacoes/2153100-59/votos",
+     "nota": "Votou Sim em PL 8703/2017, destaque sobre o artigo que criou o fundo eleitoral (Sim manteve) (04/10/2017)."
+    }
+   }
+  },
+  "130002542716": {
+   "nomeUrna": "IGOR TIMO",
+   "cargo": "Deputado Federal",
+   "idCamara": 204508,
+   "posicoes": {
+    "DF03": {
+     "v": 5,
+     "conf": "voto",
+     "fonte": "https://dadosabertos.camara.leg.br/api/v2/votacoes/345311-270/votos",
+     "nota": "Votou Sim em PL 490/2007 (30/05/2023)."
+    },
+    "G10": {
+     "v": 2,
+     "conf": "voto",
+     "fonte": "https://dadosabertos.camara.leg.br/api/v2/votacoes/2310837-8/votos",
+     "nota": "Votou Não em PL 2630/2020 (25/04/2023)."
+    },
+    "G04": {
+     "v": 4,
+     "conf": "voto",
+     "fonte": "https://dadosabertos.camara.leg.br/api/v2/votacoes/2357898-11/votos",
+     "nota": "Votou Sim em PDL 3/2023 (06/12/2023)."
+    },
+    "DF02": {
+     "v": 5,
+     "conf": "voto",
+     "fonte": "https://dadosabertos.camara.leg.br/api/v2/votacoes/2270800-160/votos",
+     "nota": "Votou Sim em PEC 3/2021 (16/09/2025)."
+    },
+    "G08": {
+     "v": 3,
+     "conf": "voto",
+     "fonte": "https://dadosabertos.camara.leg.br/api/v2/votacoes/2562149-7/votos",
+     "nota": "Votou Sim em PL 2162/2023 (17/09/2025); Não em PL 2162/2023, substitutivo da dosimetria (reduz penas, sem anistia) (10/12/2025)."
+    },
+    "G03": {
+     "v": 3,
+     "conf": "voto",
+     "fonte": "https://dadosabertos.camara.leg.br/api/v2/votacoes/2270894-103/votos",
+     "nota": "Votou Não em PL 591/2021 (privatização dos Correios) (05/08/2021); Sim em MP 1031/2021 (privatização da Eletrobras) (19/05/2021)."
+    },
+    "G05": {
+     "v": 2,
+     "conf": "voto",
+     "fonte": "https://dadosabertos.camara.leg.br/api/v2/votacoes/2482078-57/votos",
+     "nota": "Votou Sim em PDL 3/2025 (sustou resolução do Conanda sobre aborto legal) (05/11/2025)."
+    },
+    "DF06": {
+     "v": 5,
+     "conf": "voto",
+     "fonte": "https://dadosabertos.camara.leg.br/api/v2/votacoes/596844-116/votos",
+     "nota": "Votou Sim em PL 583/2011 (fim da saída temporária de presos) (03/08/2022)."
+    }
+   }
+  },
+  "130002535286": {
+   "nomeUrna": "MIGUEL ÂNGELO",
+   "cargo": "Deputado Federal",
+   "idCamara": 171786,
+   "posicoes": {
+    "DF03": {
+     "v": 1,
+     "conf": "voto",
+     "fonte": "https://dadosabertos.camara.leg.br/api/v2/votacoes/345311-270/votos",
+     "nota": "Votou Não em PL 490/2007 (30/05/2023)."
+    },
+    "G10": {
+     "v": 4,
+     "conf": "voto",
+     "fonte": "https://dadosabertos.camara.leg.br/api/v2/votacoes/2310837-8/votos",
+     "nota": "Votou Sim em PL 2630/2020 (25/04/2023)."
+    },
+    "G04": {
+     "v": 2,
+     "conf": "voto",
+     "fonte": "https://dadosabertos.camara.leg.br/api/v2/votacoes/2357898-11/votos",
+     "nota": "Votou Não em PDL 3/2023 (06/12/2023)."
+    },
+    "G11": {
+     "v": 4,
+     "conf": "voto",
+     "fonte": "https://dadosabertos.camara.leg.br/api/v2/votacoes/2439779-55/votos",
+     "nota": "Votou Sim em PL 1958/2021 (19/11/2024)."
+    },
+    "DF02": {
+     "v": 1,
+     "conf": "voto",
+     "fonte": "https://dadosabertos.camara.leg.br/api/v2/votacoes/2270800-160/votos",
+     "nota": "Votou Não em PEC 3/2021 (16/09/2025)."
+    },
+    "G08": {
+     "v": 2,
+     "conf": "voto",
+     "fonte": "https://dadosabertos.camara.leg.br/api/v2/votacoes/2562149-7/votos",
+     "nota": "Votou Não em PL 2162/2023 (17/09/2025); Não em PL 2162/2023, substitutivo da dosimetria (reduz penas, sem anistia) (10/12/2025)."
+    }
+   }
+  },
+  "130002542695": {
+   "nomeUrna": "SAMUEL VIANA",
+   "cargo": "Deputado Federal",
+   "idCamara": 220631,
+   "posicoes": {
+    "DF03": {
+     "v": 5,
+     "conf": "voto",
+     "fonte": "https://dadosabertos.camara.leg.br/api/v2/votacoes/345311-270/votos",
+     "nota": "Votou Sim em PL 490/2007 (30/05/2023)."
+    },
+    "G10": {
+     "v": 4,
+     "conf": "voto",
+     "fonte": "https://dadosabertos.camara.leg.br/api/v2/votacoes/2310837-8/votos",
+     "nota": "Votou Sim em PL 2630/2020 (25/04/2023)."
+    },
+    "G11": {
+     "v": 4,
+     "conf": "voto",
+     "fonte": "https://dadosabertos.camara.leg.br/api/v2/votacoes/2439779-55/votos",
+     "nota": "Votou Sim em PL 1958/2021 (19/11/2024)."
+    },
+    "DF04": {
+     "v": 5,
+     "conf": "voto",
+     "fonte": "https://dadosabertos.camara.leg.br/api/v2/votacoes/257161-454/votos",
+     "nota": "Votou Sim em PL 2159/2021 (17/07/2025)."
+    },
+    "G07": {
+     "v": 2,
+     "conf": "voto",
+     "fonte": "https://dadosabertos.camara.leg.br/api/v2/votacoes/257161-454/votos",
+     "nota": "Votou Sim em PL 2159/2021 (17/07/2025)."
+    },
+    "DF02": {
+     "v": 5,
+     "conf": "voto",
+     "fonte": "https://dadosabertos.camara.leg.br/api/v2/votacoes/2270800-135/votos",
+     "nota": "Votou Sim em PEC 3/2021 (16/09/2025); Sim em PEC 3/2021 (16/09/2025)."
+    },
+    "G08": {
+     "v": 4,
+     "conf": "voto",
+     "fonte": "https://dadosabertos.camara.leg.br/api/v2/votacoes/2562149-7/votos",
+     "nota": "Votou Sim em PL 2162/2023 (17/09/2025); Sim em PL 2162/2023, substitutivo da dosimetria (reduz penas, sem anistia) (10/12/2025)."
+    },
+    "G05": {
+     "v": 2,
+     "conf": "voto",
+     "fonte": "https://dadosabertos.camara.leg.br/api/v2/votacoes/2482078-57/votos",
+     "nota": "Votou Sim em PDL 3/2025 (sustou resolução do Conanda sobre aborto legal) (05/11/2025)."
+    }
+   }
+  },
+  "130002551786": {
+   "nomeUrna": "DOMINGOS SÁVIO",
+   "cargo": "Senador",
+   "idCamara": 160758,
+   "posicoes": {
+    "DF03": {
+     "v": 5,
+     "conf": "voto",
+     "fonte": "https://dadosabertos.camara.leg.br/api/v2/votacoes/345311-270/votos",
+     "nota": "Votou Sim em PL 490/2007 (30/05/2023)."
+    },
+    "G04": {
+     "v": 4,
+     "conf": "voto",
+     "fonte": "https://dadosabertos.camara.leg.br/api/v2/votacoes/2357898-11/votos",
+     "nota": "Votou Sim em PDL 3/2023 (06/12/2023)."
+    },
+    "G11": {
+     "v": 2,
+     "conf": "voto",
+     "fonte": "https://dadosabertos.camara.leg.br/api/v2/votacoes/2439779-55/votos",
+     "nota": "Votou Não em PL 1958/2021 (19/11/2024)."
+    },
+    "DF04": {
+     "v": 5,
+     "conf": "voto",
+     "fonte": "https://dadosabertos.camara.leg.br/api/v2/votacoes/257161-454/votos",
+     "nota": "Votou Sim em PL 2159/2021 (17/07/2025)."
+    },
+    "G07": {
+     "v": 2,
+     "conf": "voto",
+     "fonte": "https://dadosabertos.camara.leg.br/api/v2/votacoes/257161-454/votos",
+     "nota": "Votou Sim em PL 2159/2021 (17/07/2025)."
+    },
+    "DF02": {
+     "v": 5,
+     "conf": "voto",
+     "fonte": "https://dadosabertos.camara.leg.br/api/v2/votacoes/2270800-135/votos",
+     "nota": "Votou Sim em PEC 3/2021 (16/09/2025); Sim em PEC 3/2021 (16/09/2025)."
+    },
+    "G08": {
+     "v": 4,
+     "conf": "voto",
+     "fonte": "https://dadosabertos.camara.leg.br/api/v2/votacoes/2562149-7/votos",
+     "nota": "Votou Sim em PL 2162/2023 (17/09/2025); Sim em PL 2162/2023, substitutivo da dosimetria (reduz penas, sem anistia) (10/12/2025)."
+    },
+    "G03": {
+     "v": 4,
+     "conf": "voto",
+     "fonte": "https://dadosabertos.camara.leg.br/api/v2/votacoes/2270894-103/votos",
+     "nota": "Votou Sim em PL 591/2021 (privatização dos Correios) (05/08/2021); Sim em MP 1031/2021 (privatização da Eletrobras) (19/05/2021)."
+    },
+    "G01": {
+     "v": 4,
+     "conf": "voto",
+     "fonte": "https://dadosabertos.camara.leg.br/api/v2/votacoes/2088351-324/votos",
+     "nota": "Votou Sim em PEC 241/2016 (teto de gastos), 2º turno (25/10/2016)."
+    },
+    "G12": {
+     "v": 4,
+     "conf": "voto",
+     "fonte": "https://dadosabertos.camara.leg.br/api/v2/votacoes/14493-536/votos",
+     "nota": "Votou Sim em PEC 171/1993 (maioridade penal para crimes graves), 2º turno (19/08/2015)."
+    },
+    "G05": {
+     "v": 2,
+     "conf": "voto",
+     "fonte": "https://dadosabertos.camara.leg.br/api/v2/votacoes/2482078-57/votos",
+     "nota": "Votou Sim em PDL 3/2025 (sustou resolução do Conanda sobre aborto legal) (05/11/2025)."
+    },
+    "DF06": {
+     "v": 5,
+     "conf": "voto",
+     "fonte": "https://dadosabertos.camara.leg.br/api/v2/votacoes/596844-116/votos",
+     "nota": "Votou Sim em PL 583/2011 (fim da saída temporária de presos) (03/08/2022)."
+    },
+    "DF05": {
+     "v": 4,
+     "conf": "voto",
+     "fonte": "https://dadosabertos.camara.leg.br/api/v2/votacoes/2153100-59/votos",
+     "nota": "Votou Não em PL 8703/2017, destaque sobre o artigo que criou o fundo eleitoral (Sim manteve) (04/10/2017)."
+    }
+   }
+  },
+  "130002542742": {
+   "nomeUrna": "LUIZ FERNANDO",
+   "cargo": "Deputado Federal",
+   "idCamara": 141487,
+   "posicoes": {
+    "DF03": {
+     "v": 5,
+     "conf": "voto",
+     "fonte": "https://dadosabertos.camara.leg.br/api/v2/votacoes/345311-270/votos",
+     "nota": "Votou Sim em PL 490/2007 (30/05/2023)."
+    },
+    "G10": {
+     "v": 4,
+     "conf": "voto",
+     "fonte": "https://dadosabertos.camara.leg.br/api/v2/votacoes/2310837-8/votos",
+     "nota": "Votou Sim em PL 2630/2020 (25/04/2023)."
+    },
+    "G04": {
+     "v": 4,
+     "conf": "voto",
+     "fonte": "https://dadosabertos.camara.leg.br/api/v2/votacoes/2357898-11/votos",
+     "nota": "Votou Sim em PDL 3/2023 (06/12/2023)."
+    },
+    "G11": {
+     "v": 4,
+     "conf": "voto",
+     "fonte": "https://dadosabertos.camara.leg.br/api/v2/votacoes/2439779-55/votos",
+     "nota": "Votou Sim em PL 1958/2021 (19/11/2024)."
+    },
+    "DF02": {
+     "v": 5,
+     "conf": "voto",
+     "fonte": "https://dadosabertos.camara.leg.br/api/v2/votacoes/2270800-135/votos",
+     "nota": "Votou Sim em PEC 3/2021 (16/09/2025); Sim em PEC 3/2021 (16/09/2025)."
+    },
+    "G08": {
+     "v": 2,
+     "conf": "voto",
+     "fonte": "https://dadosabertos.camara.leg.br/api/v2/votacoes/2562149-7/votos",
+     "nota": "Votou Não em PL 2162/2023 (17/09/2025)."
+    },
+    "G01": {
+     "v": 4,
+     "conf": "voto",
+     "fonte": "https://dadosabertos.camara.leg.br/api/v2/votacoes/2088351-324/votos",
+     "nota": "Votou Sim em PEC 241/2016 (teto de gastos), 2º turno (25/10/2016)."
+    },
+    "G12": {
+     "v": 4,
+     "conf": "voto",
+     "fonte": "https://dadosabertos.camara.leg.br/api/v2/votacoes/14493-536/votos",
+     "nota": "Votou Sim em PEC 171/1993 (maioridade penal para crimes graves), 2º turno (19/08/2015)."
+    },
+    "G05": {
+     "v": 2,
+     "conf": "voto",
+     "fonte": "https://dadosabertos.camara.leg.br/api/v2/votacoes/2482078-57/votos",
+     "nota": "Votou Sim em PDL 3/2025 (sustou resolução do Conanda sobre aborto legal) (05/11/2025)."
+    },
+    "DF05": {
+     "v": 2,
+     "conf": "voto",
+     "fonte": "https://dadosabertos.camara.leg.br/api/v2/votacoes/2153100-59/votos",
+     "nota": "Votou Sim em PL 8703/2017, destaque sobre o artigo que criou o fundo eleitoral (Sim manteve) (04/10/2017)."
+    }
+   }
+  },
+  "130002538287": {
+   "nomeUrna": "MÁRIO HERINGER",
+   "cargo": "Deputado Federal",
+   "idCamara": 74158,
+   "posicoes": {
+    "DF03": {
+     "v": 1,
+     "conf": "voto",
+     "fonte": "https://dadosabertos.camara.leg.br/api/v2/votacoes/345311-270/votos",
+     "nota": "Votou Não em PL 490/2007 (30/05/2023)."
+    },
+    "G10": {
+     "v": 4,
+     "conf": "voto",
+     "fonte": "https://dadosabertos.camara.leg.br/api/v2/votacoes/2310837-8/votos",
+     "nota": "Votou Sim em PL 2630/2020 (25/04/2023)."
+    },
+    "G04": {
+     "v": 2,
+     "conf": "voto",
+     "fonte": "https://dadosabertos.camara.leg.br/api/v2/votacoes/2357898-11/votos",
+     "nota": "Votou Não em PDL 3/2023 (06/12/2023)."
+    },
+    "DF02": {
+     "v": 5,
+     "conf": "voto",
+     "fonte": "https://dadosabertos.camara.leg.br/api/v2/votacoes/2270800-135/votos",
+     "nota": "Votou Sim em PEC 3/2021 (16/09/2025); Sim em PEC 3/2021 (16/09/2025)."
+    },
+    "G08": {
+     "v": 2,
+     "conf": "voto",
+     "fonte": "https://dadosabertos.camara.leg.br/api/v2/votacoes/2562149-7/votos",
+     "nota": "Votou Não em PL 2162/2023 (17/09/2025); Não em PL 2162/2023, substitutivo da dosimetria (reduz penas, sem anistia) (10/12/2025)."
+    },
+    "G03": {
+     "v": 2,
+     "conf": "voto",
+     "fonte": "https://dadosabertos.camara.leg.br/api/v2/votacoes/2270894-103/votos",
+     "nota": "Votou Não em PL 591/2021 (privatização dos Correios) (05/08/2021); Não em MP 1031/2021 (privatização da Eletrobras) (19/05/2021)."
+    },
+    "G01": {
+     "v": 4,
+     "conf": "voto",
+     "fonte": "https://dadosabertos.camara.leg.br/api/v2/votacoes/2088351-324/votos",
+     "nota": "Votou Sim em PEC 241/2016 (teto de gastos), 2º turno (25/10/2016)."
+    },
+    "G12": {
+     "v": 2,
+     "conf": "voto",
+     "fonte": "https://dadosabertos.camara.leg.br/api/v2/votacoes/14493-536/votos",
+     "nota": "Votou Não em PEC 171/1993 (maioridade penal para crimes graves), 2º turno (19/08/2015)."
+    },
+    "DF06": {
+     "v": 1,
+     "conf": "voto",
+     "fonte": "https://dadosabertos.camara.leg.br/api/v2/votacoes/596844-116/votos",
+     "nota": "Votou Não em PL 583/2011 (fim da saída temporária de presos) (03/08/2022)."
+    },
+    "DF05": {
+     "v": 2,
+     "conf": "voto",
+     "fonte": "https://dadosabertos.camara.leg.br/api/v2/votacoes/2153100-59/votos",
+     "nota": "Votou Sim em PL 8703/2017, destaque sobre o artigo que criou o fundo eleitoral (Sim manteve) (04/10/2017)."
+    }
+   }
+  },
+  "130002542007": {
+   "nomeUrna": "EROS BIONDINI",
+   "cargo": "Deputado Federal",
+   "idCamara": 160640,
+   "posicoes": {
+    "DF03": {
+     "v": 5,
+     "conf": "voto",
+     "fonte": "https://dadosabertos.camara.leg.br/api/v2/votacoes/345311-270/votos",
+     "nota": "Votou Sim em PL 490/2007 (30/05/2023)."
+    },
+    "G10": {
+     "v": 2,
+     "conf": "voto",
+     "fonte": "https://dadosabertos.camara.leg.br/api/v2/votacoes/2310837-8/votos",
+     "nota": "Votou Não em PL 2630/2020 (25/04/2023)."
+    },
+    "G04": {
+     "v": 4,
+     "conf": "voto",
+     "fonte": "https://dadosabertos.camara.leg.br/api/v2/votacoes/2357898-11/votos",
+     "nota": "Votou Sim em PDL 3/2023 (06/12/2023)."
+    },
+    "G11": {
+     "v": 2,
+     "conf": "voto",
+     "fonte": "https://dadosabertos.camara.leg.br/api/v2/votacoes/2439779-55/votos",
+     "nota": "Votou Não em PL 1958/2021 (19/11/2024)."
+    },
+    "DF04": {
+     "v": 5,
+     "conf": "voto",
+     "fonte": "https://dadosabertos.camara.leg.br/api/v2/votacoes/257161-454/votos",
+     "nota": "Votou Sim em PL 2159/2021 (17/07/2025)."
+    },
+    "G07": {
+     "v": 2,
+     "conf": "voto",
+     "fonte": "https://dadosabertos.camara.leg.br/api/v2/votacoes/257161-454/votos",
+     "nota": "Votou Sim em PL 2159/2021 (17/07/2025)."
+    },
+    "DF02": {
+     "v": 5,
+     "conf": "voto",
+     "fonte": "https://dadosabertos.camara.leg.br/api/v2/votacoes/2270800-135/votos",
+     "nota": "Votou Sim em PEC 3/2021 (16/09/2025); Sim em PEC 3/2021 (16/09/2025)."
+    },
+    "G08": {
+     "v": 4,
+     "conf": "voto",
+     "fonte": "https://dadosabertos.camara.leg.br/api/v2/votacoes/2562149-7/votos",
+     "nota": "Votou Sim em PL 2162/2023 (17/09/2025); Sim em PL 2162/2023, substitutivo da dosimetria (reduz penas, sem anistia) (10/12/2025)."
+    },
+    "G03": {
+     "v": 4,
+     "conf": "voto",
+     "fonte": "https://dadosabertos.camara.leg.br/api/v2/votacoes/2270894-103/votos",
+     "nota": "Votou Sim em PL 591/2021 (privatização dos Correios) (05/08/2021); Sim em MP 1031/2021 (privatização da Eletrobras) (19/05/2021)."
+    },
+    "G01": {
+     "v": 4,
+     "conf": "voto",
+     "fonte": "https://dadosabertos.camara.leg.br/api/v2/votacoes/2088351-324/votos",
+     "nota": "Votou Sim em PEC 241/2016 (teto de gastos), 2º turno (25/10/2016)."
+    },
+    "G12": {
+     "v": 4,
+     "conf": "voto",
+     "fonte": "https://dadosabertos.camara.leg.br/api/v2/votacoes/14493-536/votos",
+     "nota": "Votou Sim em PEC 171/1993 (maioridade penal para crimes graves), 2º turno (19/08/2015)."
+    },
+    "G05": {
+     "v": 2,
+     "conf": "voto",
+     "fonte": "https://dadosabertos.camara.leg.br/api/v2/votacoes/2482078-57/votos",
+     "nota": "Votou Sim em PDL 3/2025 (sustou resolução do Conanda sobre aborto legal) (05/11/2025)."
+    },
+    "DF06": {
+     "v": 5,
+     "conf": "voto",
+     "fonte": "https://dadosabertos.camara.leg.br/api/v2/votacoes/596844-116/votos",
+     "nota": "Votou Sim em PL 583/2011 (fim da saída temporária de presos) (03/08/2022)."
+    },
+    "DF05": {
+     "v": 4,
+     "conf": "voto",
+     "fonte": "https://dadosabertos.camara.leg.br/api/v2/votacoes/2153100-59/votos",
+     "nota": "Votou Não em PL 8703/2017, destaque sobre o artigo que criou o fundo eleitoral (Sim manteve) (04/10/2017)."
+    }
+   }
+  },
+  "130002539728": {
+   "nomeUrna": "DUDA SALABERT",
+   "cargo": "Deputado Federal",
+   "idCamara": 220623,
+   "posicoes": {
+    "DF03": {
+     "v": 1,
+     "conf": "voto",
+     "fonte": "https://dadosabertos.camara.leg.br/api/v2/votacoes/345311-270/votos",
+     "nota": "Votou Não em PL 490/2007 (30/05/2023)."
+    },
+    "DF04": {
+     "v": 1,
+     "conf": "voto",
+     "fonte": "https://dadosabertos.camara.leg.br/api/v2/votacoes/257161-454/votos",
+     "nota": "Votou Não em PL 2159/2021 (17/07/2025)."
+    },
+    "G07": {
+     "v": 4,
+     "conf": "voto",
+     "fonte": "https://dadosabertos.camara.leg.br/api/v2/votacoes/257161-454/votos",
+     "nota": "Votou Não em PL 2159/2021 (17/07/2025)."
+    },
+    "DF02": {
+     "v": 1,
+     "conf": "voto",
+     "fonte": "https://dadosabertos.camara.leg.br/api/v2/votacoes/2270800-135/votos",
+     "nota": "Votou Não em PEC 3/2021 (16/09/2025); Não em PEC 3/2021 (16/09/2025)."
+    },
+    "G08": {
+     "v": 2,
+     "conf": "voto",
+     "fonte": "https://dadosabertos.camara.leg.br/api/v2/votacoes/2562149-7/votos",
+     "nota": "Votou Não em PL 2162/2023 (17/09/2025); Não em PL 2162/2023, substitutivo da dosimetria (reduz penas, sem anistia) (10/12/2025)."
+    }
+   }
+  },
+  "130002542724": {
+   "nomeUrna": "ZÉ SILVA",
+   "cargo": "Deputado Federal",
+   "idCamara": 160632,
+   "posicoes": {
+    "DF03": {
+     "v": 5,
+     "conf": "voto",
+     "fonte": "https://dadosabertos.camara.leg.br/api/v2/votacoes/345311-270/votos",
+     "nota": "Votou Sim em PL 490/2007 (30/05/2023)."
+    },
+    "G10": {
+     "v": 2,
+     "conf": "voto",
+     "fonte": "https://dadosabertos.camara.leg.br/api/v2/votacoes/2310837-8/votos",
+     "nota": "Votou Não em PL 2630/2020 (25/04/2023)."
+    },
+    "G08": {
+     "v": 4,
+     "conf": "voto",
+     "fonte": "https://dadosabertos.camara.leg.br/api/v2/votacoes/2562149-7/votos",
+     "nota": "Votou Sim em PL 2162/2023 (17/09/2025); Sim em PL 2162/2023, substitutivo da dosimetria (reduz penas, sem anistia) (10/12/2025)."
+    },
+    "G03": {
+     "v": 4,
+     "conf": "voto",
+     "fonte": "https://dadosabertos.camara.leg.br/api/v2/votacoes/2270894-103/votos",
+     "nota": "Votou Sim em PL 591/2021 (privatização dos Correios) (05/08/2021); Sim em MP 1031/2021 (privatização da Eletrobras) (19/05/2021)."
+    },
+    "G01": {
+     "v": 4,
+     "conf": "voto",
+     "fonte": "https://dadosabertos.camara.leg.br/api/v2/votacoes/2088351-324/votos",
+     "nota": "Votou Sim em PEC 241/2016 (teto de gastos), 2º turno (25/10/2016)."
+    },
+    "G12": {
+     "v": 4,
+     "conf": "voto",
+     "fonte": "https://dadosabertos.camara.leg.br/api/v2/votacoes/14493-536/votos",
+     "nota": "Votou Sim em PEC 171/1993 (maioridade penal para crimes graves), 2º turno (19/08/2015)."
+    },
+    "G05": {
+     "v": 2,
+     "conf": "voto",
+     "fonte": "https://dadosabertos.camara.leg.br/api/v2/votacoes/2482078-57/votos",
+     "nota": "Votou Sim em PDL 3/2025 (sustou resolução do Conanda sobre aborto legal) (05/11/2025)."
+    },
+    "DF06": {
+     "v": 5,
+     "conf": "voto",
+     "fonte": "https://dadosabertos.camara.leg.br/api/v2/votacoes/596844-116/votos",
+     "nota": "Votou Sim em PL 583/2011 (fim da saída temporária de presos) (03/08/2022)."
+    },
+    "DF05": {
+     "v": 2,
+     "conf": "voto",
+     "fonte": "https://dadosabertos.camara.leg.br/api/v2/votacoes/2153100-59/votos",
+     "nota": "Votou Sim em PL 8703/2017, destaque sobre o artigo que criou o fundo eleitoral (Sim manteve) (04/10/2017)."
+    }
+   }
+  },
+  "130002542019": {
+   "nomeUrna": "GREYCE ELIAS",
+   "cargo": "Deputado Federal",
+   "idCamara": 198197,
+   "posicoes": {
+    "DF03": {
+     "v": 5,
+     "conf": "voto",
+     "fonte": "https://dadosabertos.camara.leg.br/api/v2/votacoes/345311-270/votos",
+     "nota": "Votou Sim em PL 490/2007 (30/05/2023)."
+    },
+    "G10": {
+     "v": 2,
+     "conf": "voto",
+     "fonte": "https://dadosabertos.camara.leg.br/api/v2/votacoes/2310837-8/votos",
+     "nota": "Votou Não em PL 2630/2020 (25/04/2023)."
+    },
+    "G04": {
+     "v": 4,
+     "conf": "voto",
+     "fonte": "https://dadosabertos.camara.leg.br/api/v2/votacoes/2357898-11/votos",
+     "nota": "Votou Sim em PDL 3/2023 (06/12/2023)."
+    },
+    "G11": {
+     "v": 2,
+     "conf": "voto",
+     "fonte": "https://dadosabertos.camara.leg.br/api/v2/votacoes/2439779-55/votos",
+     "nota": "Votou Não em PL 1958/2021 (19/11/2024)."
+    },
+    "DF04": {
+     "v": 5,
+     "conf": "voto",
+     "fonte": "https://dadosabertos.camara.leg.br/api/v2/votacoes/257161-454/votos",
+     "nota": "Votou Sim em PL 2159/2021 (17/07/2025)."
+    },
+    "G07": {
+     "v": 2,
+     "conf": "voto",
+     "fonte": "https://dadosabertos.camara.leg.br/api/v2/votacoes/257161-454/votos",
+     "nota": "Votou Sim em PL 2159/2021 (17/07/2025)."
+    },
+    "DF02": {
+     "v": 5,
+     "conf": "voto",
+     "fonte": "https://dadosabertos.camara.leg.br/api/v2/votacoes/2270800-135/votos",
+     "nota": "Votou Sim em PEC 3/2021 (16/09/2025); Sim em PEC 3/2021 (16/09/2025)."
+    },
+    "G08": {
+     "v": 4,
+     "conf": "voto",
+     "fonte": "https://dadosabertos.camara.leg.br/api/v2/votacoes/2562149-7/votos",
+     "nota": "Votou Sim em PL 2162/2023 (17/09/2025); Sim em PL 2162/2023, substitutivo da dosimetria (reduz penas, sem anistia) (10/12/2025)."
+    },
+    "G03": {
+     "v": 4,
+     "conf": "voto",
+     "fonte": "https://dadosabertos.camara.leg.br/api/v2/votacoes/2270894-103/votos",
+     "nota": "Votou Sim em PL 591/2021 (privatização dos Correios) (05/08/2021); Sim em MP 1031/2021 (privatização da Eletrobras) (19/05/2021)."
+    },
+    "G05": {
+     "v": 2,
+     "conf": "voto",
+     "fonte": "https://dadosabertos.camara.leg.br/api/v2/votacoes/2482078-57/votos",
+     "nota": "Votou Sim em PDL 3/2025 (sustou resolução do Conanda sobre aborto legal) (05/11/2025)."
+    },
+    "DF06": {
+     "v": 5,
+     "conf": "voto",
+     "fonte": "https://dadosabertos.camara.leg.br/api/v2/votacoes/596844-116/votos",
+     "nota": "Votou Sim em PL 583/2011 (fim da saída temporária de presos) (03/08/2022)."
+    }
+   }
+  },
+  "130002545577": {
+   "nomeUrna": "WELITON PRADO",
+   "cargo": "Deputado Federal",
+   "idCamara": 160518,
+   "posicoes": {
+    "DF03": {
+     "v": 1,
+     "conf": "voto",
+     "fonte": "https://dadosabertos.camara.leg.br/api/v2/votacoes/345311-270/votos",
+     "nota": "Votou Não em PL 490/2007 (30/05/2023)."
+    },
+    "G10": {
+     "v": 2,
+     "conf": "voto",
+     "fonte": "https://dadosabertos.camara.leg.br/api/v2/votacoes/2310837-8/votos",
+     "nota": "Votou Não em PL 2630/2020 (25/04/2023)."
+    },
+    "G04": {
+     "v": 2,
+     "conf": "voto",
+     "fonte": "https://dadosabertos.camara.leg.br/api/v2/votacoes/2357898-11/votos",
+     "nota": "Votou Não em PDL 3/2023 (06/12/2023)."
+    },
+    "G11": {
+     "v": 4,
+     "conf": "voto",
+     "fonte": "https://dadosabertos.camara.leg.br/api/v2/votacoes/2439779-55/votos",
+     "nota": "Votou Sim em PL 1958/2021 (19/11/2024)."
+    },
+    "DF02": {
+     "v": 1,
+     "conf": "voto",
+     "fonte": "https://dadosabertos.camara.leg.br/api/v2/votacoes/2270800-160/votos",
+     "nota": "Votou Não em PEC 3/2021 (16/09/2025)."
+    },
+    "G08": {
+     "v": 4,
+     "conf": "voto",
+     "fonte": "https://dadosabertos.camara.leg.br/api/v2/votacoes/2562149-7/votos",
+     "nota": "Votou Sim em PL 2162/2023 (17/09/2025); Sim em PL 2162/2023, substitutivo da dosimetria (reduz penas, sem anistia) (10/12/2025)."
+    },
+    "G03": {
+     "v": 2,
+     "conf": "voto",
+     "fonte": "https://dadosabertos.camara.leg.br/api/v2/votacoes/2270894-103/votos",
+     "nota": "Votou Não em PL 591/2021 (privatização dos Correios) (05/08/2021); Não em MP 1031/2021 (privatização da Eletrobras) (19/05/2021)."
+    },
+    "G01": {
+     "v": 2,
+     "conf": "voto",
+     "fonte": "https://dadosabertos.camara.leg.br/api/v2/votacoes/2088351-324/votos",
+     "nota": "Votou Não em PEC 241/2016 (teto de gastos), 2º turno (25/10/2016)."
+    },
+    "G12": {
+     "v": 4,
+     "conf": "voto",
+     "fonte": "https://dadosabertos.camara.leg.br/api/v2/votacoes/14493-536/votos",
+     "nota": "Votou Sim em PEC 171/1993 (maioridade penal para crimes graves), 2º turno (19/08/2015)."
+    },
+    "DF06": {
+     "v": 5,
+     "conf": "voto",
+     "fonte": "https://dadosabertos.camara.leg.br/api/v2/votacoes/596844-116/votos",
+     "nota": "Votou Sim em PL 583/2011 (fim da saída temporária de presos) (03/08/2022)."
+    },
+    "DF05": {
+     "v": 4,
+     "conf": "voto",
+     "fonte": "https://dadosabertos.camara.leg.br/api/v2/votacoes/2153100-59/votos",
+     "nota": "Votou Não em PL 8703/2017, destaque sobre o artigo que criou o fundo eleitoral (Sim manteve) (04/10/2017)."
+    }
+   }
+  },
+  "130002537223": {
+   "nomeUrna": "GILBERTO ABRAMO",
+   "cargo": "Deputado Federal",
+   "idCamara": 204491,
+   "posicoes": {
+    "DF03": {
+     "v": 5,
+     "conf": "voto",
+     "fonte": "https://dadosabertos.camara.leg.br/api/v2/votacoes/345311-270/votos",
+     "nota": "Votou Sim em PL 490/2007 (30/05/2023)."
+    },
+    "G10": {
+     "v": 4,
+     "conf": "voto",
+     "fonte": "https://dadosabertos.camara.leg.br/api/v2/votacoes/2310837-8/votos",
+     "nota": "Votou Sim em PL 2630/2020 (25/04/2023)."
+    },
+    "G04": {
+     "v": 4,
+     "conf": "voto",
+     "fonte": "https://dadosabertos.camara.leg.br/api/v2/votacoes/2357898-11/votos",
+     "nota": "Votou Sim em PDL 3/2023 (06/12/2023)."
+    },
+    "G11": {
+     "v": 4,
+     "conf": "voto",
+     "fonte": "https://dadosabertos.camara.leg.br/api/v2/votacoes/2439779-55/votos",
+     "nota": "Votou Sim em PL 1958/2021 (19/11/2024)."
+    },
+    "DF04": {
+     "v": 5,
+     "conf": "voto",
+     "fonte": "https://dadosabertos.camara.leg.br/api/v2/votacoes/257161-454/votos",
+     "nota": "Votou Sim em PL 2159/2021 (17/07/2025)."
+    },
+    "G07": {
+     "v": 2,
+     "conf": "voto",
+     "fonte": "https://dadosabertos.camara.leg.br/api/v2/votacoes/257161-454/votos",
+     "nota": "Votou Sim em PL 2159/2021 (17/07/2025)."
+    },
+    "DF02": {
+     "v": 5,
+     "conf": "voto",
+     "fonte": "https://dadosabertos.camara.leg.br/api/v2/votacoes/2270800-135/votos",
+     "nota": "Votou Sim em PEC 3/2021 (16/09/2025); Sim em PEC 3/2021 (16/09/2025)."
+    },
+    "G08": {
+     "v": 4,
+     "conf": "voto",
+     "fonte": "https://dadosabertos.camara.leg.br/api/v2/votacoes/2562149-7/votos",
+     "nota": "Votou Sim em PL 2162/2023 (17/09/2025)."
+    },
+    "G03": {
+     "v": 4,
+     "conf": "voto",
+     "fonte": "https://dadosabertos.camara.leg.br/api/v2/votacoes/2270894-103/votos",
+     "nota": "Votou Sim em PL 591/2021 (privatização dos Correios) (05/08/2021); Sim em MP 1031/2021 (privatização da Eletrobras) (19/05/2021)."
+    },
+    "DF06": {
+     "v": 5,
+     "conf": "voto",
+     "fonte": "https://dadosabertos.camara.leg.br/api/v2/votacoes/596844-116/votos",
+     "nota": "Votou Sim em PL 583/2011 (fim da saída temporária de presos) (03/08/2022)."
+    }
+   }
+  },
+  "130002539741": {
+   "nomeUrna": "CÉLIA XAKRIABÁ",
+   "cargo": "Deputado Federal",
+   "idCamara": 206018,
+   "posicoes": {
+    "DF03": {
+     "v": 1,
+     "conf": "voto",
+     "fonte": "https://dadosabertos.camara.leg.br/api/v2/votacoes/345311-270/votos",
+     "nota": "Votou Não em PL 490/2007 (30/05/2023)."
+    },
+    "G10": {
+     "v": 4,
+     "conf": "voto",
+     "fonte": "https://dadosabertos.camara.leg.br/api/v2/votacoes/2310837-8/votos",
+     "nota": "Votou Sim em PL 2630/2020 (25/04/2023)."
+    },
+    "DF04": {
+     "v": 1,
+     "conf": "voto",
+     "fonte": "https://dadosabertos.camara.leg.br/api/v2/votacoes/257161-454/votos",
+     "nota": "Votou Não em PL 2159/2021 (17/07/2025)."
+    },
+    "G07": {
+     "v": 4,
+     "conf": "voto",
+     "fonte": "https://dadosabertos.camara.leg.br/api/v2/votacoes/257161-454/votos",
+     "nota": "Votou Não em PL 2159/2021 (17/07/2025)."
+    },
+    "DF02": {
+     "v": 1,
+     "conf": "voto",
+     "fonte": "https://dadosabertos.camara.leg.br/api/v2/votacoes/2270800-135/votos",
+     "nota": "Votou Não em PEC 3/2021 (16/09/2025); Não em PEC 3/2021 (16/09/2025)."
+    },
+    "G08": {
+     "v": 2,
+     "conf": "voto",
+     "fonte": "https://dadosabertos.camara.leg.br/api/v2/votacoes/2562149-7/votos",
+     "nota": "Votou Não em PL 2162/2023 (17/09/2025); Não em PL 2162/2023, substitutivo da dosimetria (reduz penas, sem anistia) (10/12/2025)."
+    },
+    "G06": {
+     "v": 4,
+     "conf": "voto",
+     "fonte": "https://dadosabertos.camara.leg.br/api/v2/votacoes/2428236-50/votos",
+     "nota": "Votou Não em PEC 45/2023 na CCJ (criminaliza porte de qualquer quantidade de droga) (12/06/2024)."
+    },
+    "G09": {
+     "v": 2,
+     "conf": "voto",
+     "fonte": "https://dadosabertos.camara.leg.br/api/v2/votacoes/2410488-45/votos",
+     "nota": "Votou Não em PEC 8/2021 na CCJ (limita decisões monocráticas do STF) (09/10/2024)."
+    }
+   }
+  },
+  "130002542743": {
+   "nomeUrna": "DIMAS FABIANO",
+   "cargo": "Deputado Federal",
+   "idCamara": 160599,
+   "posicoes": {
+    "DF03": {
+     "v": 5,
+     "conf": "voto",
+     "fonte": "https://dadosabertos.camara.leg.br/api/v2/votacoes/345311-270/votos",
+     "nota": "Votou Sim em PL 490/2007 (30/05/2023)."
+    },
+    "G10": {
+     "v": 2,
+     "conf": "voto",
+     "fonte": "https://dadosabertos.camara.leg.br/api/v2/votacoes/2310837-8/votos",
+     "nota": "Votou Não em PL 2630/2020 (25/04/2023)."
+    },
+    "G04": {
+     "v": 4,
+     "conf": "voto",
+     "fonte": "https://dadosabertos.camara.leg.br/api/v2/votacoes/2357898-11/votos",
+     "nota": "Votou Sim em PDL 3/2023 (06/12/2023)."
+    },
+    "G11": {
+     "v": 4,
+     "conf": "voto",
+     "fonte": "https://dadosabertos.camara.leg.br/api/v2/votacoes/2439779-55/votos",
+     "nota": "Votou Sim em PL 1958/2021 (19/11/2024)."
+    },
+    "DF04": {
+     "v": 5,
+     "conf": "voto",
+     "fonte": "https://dadosabertos.camara.leg.br/api/v2/votacoes/257161-454/votos",
+     "nota": "Votou Sim em PL 2159/2021 (17/07/2025)."
+    },
+    "G07": {
+     "v": 2,
+     "conf": "voto",
+     "fonte": "https://dadosabertos.camara.leg.br/api/v2/votacoes/257161-454/votos",
+     "nota": "Votou Sim em PL 2159/2021 (17/07/2025)."
+    },
+    "DF02": {
+     "v": 5,
+     "conf": "voto",
+     "fonte": "https://dadosabertos.camara.leg.br/api/v2/votacoes/2270800-135/votos",
+     "nota": "Votou Sim em PEC 3/2021 (16/09/2025); Sim em PEC 3/2021 (16/09/2025)."
+    },
+    "G08": {
+     "v": 4,
+     "conf": "voto",
+     "fonte": "https://dadosabertos.camara.leg.br/api/v2/votacoes/2562149-7/votos",
+     "nota": "Votou Sim em PL 2162/2023 (17/09/2025); Sim em PL 2162/2023, substitutivo da dosimetria (reduz penas, sem anistia) (10/12/2025)."
+    },
+    "G03": {
+     "v": 3,
+     "conf": "voto",
+     "fonte": "https://dadosabertos.camara.leg.br/api/v2/votacoes/2270894-103/votos",
+     "nota": "Votou Sim em PL 591/2021 (privatização dos Correios) (05/08/2021); Não em MP 1031/2021 (privatização da Eletrobras) (19/05/2021)."
+    },
+    "G01": {
+     "v": 4,
+     "conf": "voto",
+     "fonte": "https://dadosabertos.camara.leg.br/api/v2/votacoes/2088351-324/votos",
+     "nota": "Votou Sim em PEC 241/2016 (teto de gastos), 2º turno (25/10/2016)."
+    },
+    "G12": {
+     "v": 4,
+     "conf": "voto",
+     "fonte": "https://dadosabertos.camara.leg.br/api/v2/votacoes/14493-536/votos",
+     "nota": "Votou Sim em PEC 171/1993 (maioridade penal para crimes graves), 2º turno (19/08/2015)."
+    },
+    "G05": {
+     "v": 2,
+     "conf": "voto",
+     "fonte": "https://dadosabertos.camara.leg.br/api/v2/votacoes/2482078-57/votos",
+     "nota": "Votou Sim em PDL 3/2025 (sustou resolução do Conanda sobre aborto legal) (05/11/2025)."
+    },
+    "DF06": {
+     "v": 5,
+     "conf": "voto",
+     "fonte": "https://dadosabertos.camara.leg.br/api/v2/votacoes/596844-116/votos",
+     "nota": "Votou Sim em PL 583/2011 (fim da saída temporária de presos) (03/08/2022)."
+    },
+    "DF05": {
+     "v": 2,
+     "conf": "voto",
+     "fonte": "https://dadosabertos.camara.leg.br/api/v2/votacoes/2153100-59/votos",
+     "nota": "Votou Sim em PL 8703/2017, destaque sobre o artigo que criou o fundo eleitoral (Sim manteve) (04/10/2017)."
+    }
+   }
+  },
+  "130002539715": {
+   "nomeUrna": "ANDRÉ JANONES",
+   "cargo": "Deputado Federal",
+   "idCamara": 204515,
+   "posicoes": {
+    "DF03": {
+     "v": 1,
+     "conf": "voto",
+     "fonte": "https://dadosabertos.camara.leg.br/api/v2/votacoes/345311-270/votos",
+     "nota": "Votou Não em PL 490/2007 (30/05/2023)."
+    },
+    "G10": {
+     "v": 4,
+     "conf": "voto",
+     "fonte": "https://dadosabertos.camara.leg.br/api/v2/votacoes/2310837-8/votos",
+     "nota": "Votou Sim em PL 2630/2020 (25/04/2023)."
+    },
+    "G11": {
+     "v": 4,
+     "conf": "voto",
+     "fonte": "https://dadosabertos.camara.leg.br/api/v2/votacoes/2439779-55/votos",
+     "nota": "Votou Sim em PL 1958/2021 (19/11/2024)."
+    },
+    "G08": {
+     "v": 2,
+     "conf": "voto",
+     "fonte": "https://dadosabertos.camara.leg.br/api/v2/votacoes/2358548-89/votos",
+     "nota": "Votou Não em PL 2162/2023, substitutivo da dosimetria (reduz penas, sem anistia) (10/12/2025)."
+    },
+    "G03": {
+     "v": 2,
+     "conf": "voto",
+     "fonte": "https://dadosabertos.camara.leg.br/api/v2/votacoes/2270894-103/votos",
+     "nota": "Votou Não em PL 591/2021 (privatização dos Correios) (05/08/2021); Não em MP 1031/2021 (privatização da Eletrobras) (19/05/2021)."
+    },
+    "G05": {
+     "v": 2,
+     "conf": "voto",
+     "fonte": "https://dadosabertos.camara.leg.br/api/v2/votacoes/2482078-57/votos",
+     "nota": "Votou Sim em PDL 3/2025 (sustou resolução do Conanda sobre aborto legal) (05/11/2025)."
+    },
+    "DF06": {
+     "v": 5,
+     "conf": "voto",
+     "fonte": "https://dadosabertos.camara.leg.br/api/v2/votacoes/596844-116/votos",
+     "nota": "Votou Sim em PL 583/2011 (fim da saída temporária de presos) (03/08/2022)."
+    }
+   }
+  },
+  "130002542015": {
+   "nomeUrna": "LINCOLN PORTELA",
+   "cargo": "Deputado Federal",
+   "idCamara": 74585,
+   "posicoes": {
+    "DF03": {
+     "v": 5,
+     "conf": "voto",
+     "fonte": "https://dadosabertos.camara.leg.br/api/v2/votacoes/345311-270/votos",
+     "nota": "Votou Sim em PL 490/2007 (30/05/2023)."
+    },
+    "G10": {
+     "v": 2,
+     "conf": "voto",
+     "fonte": "https://dadosabertos.camara.leg.br/api/v2/votacoes/2310837-8/votos",
+     "nota": "Votou Não em PL 2630/2020 (25/04/2023)."
+    },
+    "G04": {
+     "v": 4,
+     "conf": "voto",
+     "fonte": "https://dadosabertos.camara.leg.br/api/v2/votacoes/2357898-11/votos",
+     "nota": "Votou Sim em PDL 3/2023 (06/12/2023)."
+    },
+    "G11": {
+     "v": 2,
+     "conf": "voto",
+     "fonte": "https://dadosabertos.camara.leg.br/api/v2/votacoes/2439779-55/votos",
+     "nota": "Votou Não em PL 1958/2021 (19/11/2024)."
+    },
+    "DF04": {
+     "v": 5,
+     "conf": "voto",
+     "fonte": "https://dadosabertos.camara.leg.br/api/v2/votacoes/257161-454/votos",
+     "nota": "Votou Sim em PL 2159/2021 (17/07/2025)."
+    },
+    "G07": {
+     "v": 2,
+     "conf": "voto",
+     "fonte": "https://dadosabertos.camara.leg.br/api/v2/votacoes/257161-454/votos",
+     "nota": "Votou Sim em PL 2159/2021 (17/07/2025)."
+    },
+    "DF02": {
+     "v": 5,
+     "conf": "voto",
+     "fonte": "https://dadosabertos.camara.leg.br/api/v2/votacoes/2270800-135/votos",
+     "nota": "Votou Sim em PEC 3/2021 (16/09/2025); Sim em PEC 3/2021 (16/09/2025)."
+    },
+    "G08": {
+     "v": 4,
+     "conf": "voto",
+     "fonte": "https://dadosabertos.camara.leg.br/api/v2/votacoes/2562149-7/votos",
+     "nota": "Votou Sim em PL 2162/2023 (17/09/2025); Sim em PL 2162/2023, substitutivo da dosimetria (reduz penas, sem anistia) (10/12/2025)."
+    },
+    "G03": {
+     "v": 4,
+     "conf": "voto",
+     "fonte": "https://dadosabertos.camara.leg.br/api/v2/votacoes/2270894-103/votos",
+     "nota": "Votou Sim em PL 591/2021 (privatização dos Correios) (05/08/2021); Sim em MP 1031/2021 (privatização da Eletrobras) (19/05/2021)."
+    },
+    "G01": {
+     "v": 2,
+     "conf": "voto",
+     "fonte": "https://dadosabertos.camara.leg.br/api/v2/votacoes/2088351-324/votos",
+     "nota": "Votou Não em PEC 241/2016 (teto de gastos), 2º turno (25/10/2016)."
+    },
+    "G12": {
+     "v": 4,
+     "conf": "voto",
+     "fonte": "https://dadosabertos.camara.leg.br/api/v2/votacoes/14493-536/votos",
+     "nota": "Votou Sim em PEC 171/1993 (maioridade penal para crimes graves), 2º turno (19/08/2015)."
+    },
+    "G05": {
+     "v": 2,
+     "conf": "voto",
+     "fonte": "https://dadosabertos.camara.leg.br/api/v2/votacoes/2482078-57/votos",
+     "nota": "Votou Sim em PDL 3/2025 (sustou resolução do Conanda sobre aborto legal) (05/11/2025)."
+    },
+    "DF06": {
+     "v": 5,
+     "conf": "voto",
+     "fonte": "https://dadosabertos.camara.leg.br/api/v2/votacoes/596844-116/votos",
+     "nota": "Votou Sim em PL 583/2011 (fim da saída temporária de presos) (03/08/2022)."
+    },
+    "DF05": {
+     "v": 4,
+     "conf": "voto",
+     "fonte": "https://dadosabertos.camara.leg.br/api/v2/votacoes/2153100-59/votos",
+     "nota": "Votou Não em PL 8703/2017, destaque sobre o artigo que criou o fundo eleitoral (Sim manteve) (04/10/2017)."
+    }
+   }
+  },
+  "130002535303": {
+   "nomeUrna": "PADRE JOÃO",
+   "cargo": "Deputado Federal",
+   "idCamara": 160556,
+   "posicoes": {
+    "DF03": {
+     "v": 1,
+     "conf": "voto",
+     "fonte": "https://dadosabertos.camara.leg.br/api/v2/votacoes/345311-270/votos",
+     "nota": "Votou Não em PL 490/2007 (30/05/2023)."
+    },
+    "G10": {
+     "v": 4,
+     "conf": "voto",
+     "fonte": "https://dadosabertos.camara.leg.br/api/v2/votacoes/2310837-8/votos",
+     "nota": "Votou Sim em PL 2630/2020 (25/04/2023)."
+    },
+    "G04": {
+     "v": 2,
+     "conf": "voto",
+     "fonte": "https://dadosabertos.camara.leg.br/api/v2/votacoes/2357898-11/votos",
+     "nota": "Votou Não em PDL 3/2023 (06/12/2023)."
+    },
+    "G11": {
+     "v": 4,
+     "conf": "voto",
+     "fonte": "https://dadosabertos.camara.leg.br/api/v2/votacoes/2439779-55/votos",
+     "nota": "Votou Sim em PL 1958/2021 (19/11/2024)."
+    },
+    "DF04": {
+     "v": 1,
+     "conf": "voto",
+     "fonte": "https://dadosabertos.camara.leg.br/api/v2/votacoes/257161-454/votos",
+     "nota": "Votou Não em PL 2159/2021 (17/07/2025)."
+    },
+    "G07": {
+     "v": 4,
+     "conf": "voto",
+     "fonte": "https://dadosabertos.camara.leg.br/api/v2/votacoes/257161-454/votos",
+     "nota": "Votou Não em PL 2159/2021 (17/07/2025)."
+    },
+    "DF02": {
+     "v": 1,
+     "conf": "voto",
+     "fonte": "https://dadosabertos.camara.leg.br/api/v2/votacoes/2270800-135/votos",
+     "nota": "Votou Não em PEC 3/2021 (16/09/2025); Não em PEC 3/2021 (16/09/2025)."
+    },
+    "G08": {
+     "v": 2,
+     "conf": "voto",
+     "fonte": "https://dadosabertos.camara.leg.br/api/v2/votacoes/2562149-7/votos",
+     "nota": "Votou Não em PL 2162/2023 (17/09/2025); Não em PL 2162/2023, substitutivo da dosimetria (reduz penas, sem anistia) (10/12/2025)."
+    },
+    "G03": {
+     "v": 2,
+     "conf": "voto",
+     "fonte": "https://dadosabertos.camara.leg.br/api/v2/votacoes/2270894-103/votos",
+     "nota": "Votou Não em PL 591/2021 (privatização dos Correios) (05/08/2021); Não em MP 1031/2021 (privatização da Eletrobras) (19/05/2021)."
+    },
+    "G01": {
+     "v": 2,
+     "conf": "voto",
+     "fonte": "https://dadosabertos.camara.leg.br/api/v2/votacoes/2088351-324/votos",
+     "nota": "Votou Não em PEC 241/2016 (teto de gastos), 2º turno (25/10/2016)."
+    },
+    "G12": {
+     "v": 2,
+     "conf": "voto",
+     "fonte": "https://dadosabertos.camara.leg.br/api/v2/votacoes/14493-536/votos",
+     "nota": "Votou Não em PEC 171/1993 (maioridade penal para crimes graves), 2º turno (19/08/2015)."
+    },
+    "DF06": {
+     "v": 1,
+     "conf": "voto",
+     "fonte": "https://dadosabertos.camara.leg.br/api/v2/votacoes/596844-116/votos",
+     "nota": "Votou Não em PL 583/2011 (fim da saída temporária de presos) (03/08/2022)."
+    },
+    "DF05": {
+     "v": 2,
+     "conf": "voto",
+     "fonte": "https://dadosabertos.camara.leg.br/api/v2/votacoes/2153100-59/votos",
+     "nota": "Votou Sim em PL 8703/2017, destaque sobre o artigo que criou o fundo eleitoral (Sim manteve) (04/10/2017)."
+    }
+   }
+  },
+  "130002542714": {
+   "nomeUrna": "ANA PAULA LEÃO",
+   "cargo": "Deputado Federal",
+   "idCamara": 107970,
+   "posicoes": {
+    "DF03": {
+     "v": 5,
+     "conf": "voto",
+     "fonte": "https://dadosabertos.camara.leg.br/api/v2/votacoes/345311-270/votos",
+     "nota": "Votou Sim em PL 490/2007 (30/05/2023)."
+    },
+    "G10": {
+     "v": 2,
+     "conf": "voto",
+     "fonte": "https://dadosabertos.camara.leg.br/api/v2/votacoes/2310837-8/votos",
+     "nota": "Votou Não em PL 2630/2020 (25/04/2023)."
+    },
+    "G04": {
+     "v": 4,
+     "conf": "voto",
+     "fonte": "https://dadosabertos.camara.leg.br/api/v2/votacoes/2357898-11/votos",
+     "nota": "Votou Sim em PDL 3/2023 (06/12/2023)."
+    },
+    "DF04": {
+     "v": 5,
+     "conf": "voto",
+     "fonte": "https://dadosabertos.camara.leg.br/api/v2/votacoes/257161-454/votos",
+     "nota": "Votou Sim em PL 2159/2021 (17/07/2025)."
+    },
+    "G07": {
+     "v": 2,
+     "conf": "voto",
+     "fonte": "https://dadosabertos.camara.leg.br/api/v2/votacoes/257161-454/votos",
+     "nota": "Votou Sim em PL 2159/2021 (17/07/2025)."
+    },
+    "DF02": {
+     "v": 5,
+     "conf": "voto",
+     "fonte": "https://dadosabertos.camara.leg.br/api/v2/votacoes/2270800-135/votos",
+     "nota": "Votou Sim em PEC 3/2021 (16/09/2025); Sim em PEC 3/2021 (16/09/2025)."
+    },
+    "G08": {
+     "v": 4,
+     "conf": "voto",
+     "fonte": "https://dadosabertos.camara.leg.br/api/v2/votacoes/2562149-7/votos",
+     "nota": "Votou Sim em PL 2162/2023 (17/09/2025); Sim em PL 2162/2023, substitutivo da dosimetria (reduz penas, sem anistia) (10/12/2025)."
+    },
+    "G05": {
+     "v": 2,
+     "conf": "voto",
+     "fonte": "https://dadosabertos.camara.leg.br/api/v2/votacoes/2482078-57/votos",
+     "nota": "Votou Sim em PDL 3/2025 (sustou resolução do Conanda sobre aborto legal) (05/11/2025)."
+    }
+   }
+  },
+  "130002542701": {
+   "nomeUrna": "PINHEIRINHO",
+   "cargo": "Deputado Federal",
+   "idCamara": 204524,
+   "posicoes": {
+    "DF03": {
+     "v": 5,
+     "conf": "voto",
+     "fonte": "https://dadosabertos.camara.leg.br/api/v2/votacoes/345311-270/votos",
+     "nota": "Votou Sim em PL 490/2007 (30/05/2023)."
+    },
+    "G10": {
+     "v": 2,
+     "conf": "voto",
+     "fonte": "https://dadosabertos.camara.leg.br/api/v2/votacoes/2310837-8/votos",
+     "nota": "Votou Não em PL 2630/2020 (25/04/2023)."
+    },
+    "G04": {
+     "v": 4,
+     "conf": "voto",
+     "fonte": "https://dadosabertos.camara.leg.br/api/v2/votacoes/2357898-11/votos",
+     "nota": "Votou Sim em PDL 3/2023 (06/12/2023)."
+    },
+    "DF04": {
+     "v": 5,
+     "conf": "voto",
+     "fonte": "https://dadosabertos.camara.leg.br/api/v2/votacoes/257161-454/votos",
+     "nota": "Votou Sim em PL 2159/2021 (17/07/2025)."
+    },
+    "G07": {
+     "v": 2,
+     "conf": "voto",
+     "fonte": "https://dadosabertos.camara.leg.br/api/v2/votacoes/257161-454/votos",
+     "nota": "Votou Sim em PL 2159/2021 (17/07/2025)."
+    },
+    "DF02": {
+     "v": 5,
+     "conf": "voto",
+     "fonte": "https://dadosabertos.camara.leg.br/api/v2/votacoes/2270800-135/votos",
+     "nota": "Votou Sim em PEC 3/2021 (16/09/2025); Sim em PEC 3/2021 (16/09/2025)."
+    },
+    "G08": {
+     "v": 4,
+     "conf": "voto",
+     "fonte": "https://dadosabertos.camara.leg.br/api/v2/votacoes/2562149-7/votos",
+     "nota": "Votou Sim em PL 2162/2023 (17/09/2025); Sim em PL 2162/2023, substitutivo da dosimetria (reduz penas, sem anistia) (10/12/2025)."
+    },
+    "G03": {
+     "v": 4,
+     "conf": "voto",
+     "fonte": "https://dadosabertos.camara.leg.br/api/v2/votacoes/2270894-103/votos",
+     "nota": "Votou Sim em PL 591/2021 (privatização dos Correios) (05/08/2021); Sim em MP 1031/2021 (privatização da Eletrobras) (19/05/2021)."
+    },
+    "G05": {
+     "v": 2,
+     "conf": "voto",
+     "fonte": "https://dadosabertos.camara.leg.br/api/v2/votacoes/2482078-57/votos",
+     "nota": "Votou Sim em PDL 3/2025 (sustou resolução do Conanda sobre aborto legal) (05/11/2025)."
+    }
+   }
+  },
+  "130002541996": {
+   "nomeUrna": "MAURÍCIO DO VÔLEI",
+   "cargo": "Deputado Federal",
+   "idCamara": 220628,
+   "posicoes": {
+    "DF03": {
+     "v": 5,
+     "conf": "voto",
+     "fonte": "https://dadosabertos.camara.leg.br/api/v2/votacoes/345311-270/votos",
+     "nota": "Votou Sim em PL 490/2007 (30/05/2023)."
+    },
+    "G10": {
+     "v": 2,
+     "conf": "voto",
+     "fonte": "https://dadosabertos.camara.leg.br/api/v2/votacoes/2310837-8/votos",
+     "nota": "Votou Não em PL 2630/2020 (25/04/2023)."
+    },
+    "G04": {
+     "v": 4,
+     "conf": "voto",
+     "fonte": "https://dadosabertos.camara.leg.br/api/v2/votacoes/2357898-11/votos",
+     "nota": "Votou Sim em PDL 3/2023 (06/12/2023)."
+    },
+    "G11": {
+     "v": 2,
+     "conf": "voto",
+     "fonte": "https://dadosabertos.camara.leg.br/api/v2/votacoes/2439779-55/votos",
+     "nota": "Votou Não em PL 1958/2021 (19/11/2024)."
+    },
+    "DF04": {
+     "v": 5,
+     "conf": "voto",
+     "fonte": "https://dadosabertos.camara.leg.br/api/v2/votacoes/257161-454/votos",
+     "nota": "Votou Sim em PL 2159/2021 (17/07/2025)."
+    },
+    "G07": {
+     "v": 2,
+     "conf": "voto",
+     "fonte": "https://dadosabertos.camara.leg.br/api/v2/votacoes/257161-454/votos",
+     "nota": "Votou Sim em PL 2159/2021 (17/07/2025)."
+    },
+    "DF02": {
+     "v": 5,
+     "conf": "voto",
+     "fonte": "https://dadosabertos.camara.leg.br/api/v2/votacoes/2270800-135/votos",
+     "nota": "Votou Sim em PEC 3/2021 (16/09/2025); Sim em PEC 3/2021 (16/09/2025)."
+    },
+    "G08": {
+     "v": 4,
+     "conf": "voto",
+     "fonte": "https://dadosabertos.camara.leg.br/api/v2/votacoes/2562149-7/votos",
+     "nota": "Votou Sim em PL 2162/2023 (17/09/2025); Sim em PL 2162/2023, substitutivo da dosimetria (reduz penas, sem anistia) (10/12/2025)."
+    },
+    "G05": {
+     "v": 2,
+     "conf": "voto",
+     "fonte": "https://dadosabertos.camara.leg.br/api/v2/votacoes/2482078-57/votos",
+     "nota": "Votou Sim em PDL 3/2025 (sustou resolução do Conanda sobre aborto legal) (05/11/2025)."
+    }
+   }
+  },
+  "130002542016": {
+   "nomeUrna": "MARCELO ÁLVARO ANTÔNIO",
+   "cargo": "Deputado Federal",
+   "idCamara": 179000,
+   "posicoes": {
+    "DF03": {
+     "v": 5,
+     "conf": "voto",
+     "fonte": "https://dadosabertos.camara.leg.br/api/v2/votacoes/345311-270/votos",
+     "nota": "Votou Sim em PL 490/2007 (30/05/2023)."
+    },
+    "G10": {
+     "v": 2,
+     "conf": "voto",
+     "fonte": "https://dadosabertos.camara.leg.br/api/v2/votacoes/2310837-8/votos",
+     "nota": "Votou Não em PL 2630/2020 (25/04/2023)."
+    },
+    "G04": {
+     "v": 4,
+     "conf": "voto",
+     "fonte": "https://dadosabertos.camara.leg.br/api/v2/votacoes/2357898-11/votos",
+     "nota": "Votou Sim em PDL 3/2023 (06/12/2023)."
+    },
+    "G11": {
+     "v": 2,
+     "conf": "voto",
+     "fonte": "https://dadosabertos.camara.leg.br/api/v2/votacoes/2439779-55/votos",
+     "nota": "Votou Não em PL 1958/2021 (19/11/2024)."
+    },
+    "DF04": {
+     "v": 5,
+     "conf": "voto",
+     "fonte": "https://dadosabertos.camara.leg.br/api/v2/votacoes/257161-454/votos",
+     "nota": "Votou Sim em PL 2159/2021 (17/07/2025)."
+    },
+    "G07": {
+     "v": 2,
+     "conf": "voto",
+     "fonte": "https://dadosabertos.camara.leg.br/api/v2/votacoes/257161-454/votos",
+     "nota": "Votou Sim em PL 2159/2021 (17/07/2025)."
+    },
+    "DF02": {
+     "v": 5,
+     "conf": "voto",
+     "fonte": "https://dadosabertos.camara.leg.br/api/v2/votacoes/2270800-135/votos",
+     "nota": "Votou Sim em PEC 3/2021 (16/09/2025); Sim em PEC 3/2021 (16/09/2025)."
+    },
+    "G08": {
+     "v": 4,
+     "conf": "voto",
+     "fonte": "https://dadosabertos.camara.leg.br/api/v2/votacoes/2562149-7/votos",
+     "nota": "Votou Sim em PL 2162/2023 (17/09/2025); Sim em PL 2162/2023, substitutivo da dosimetria (reduz penas, sem anistia) (10/12/2025)."
+    },
+    "G03": {
+     "v": 4,
+     "conf": "voto",
+     "fonte": "https://dadosabertos.camara.leg.br/api/v2/votacoes/2270894-103/votos",
+     "nota": "Votou Sim em PL 591/2021 (privatização dos Correios) (05/08/2021); Sim em MP 1031/2021 (privatização da Eletrobras) (19/05/2021)."
+    },
+    "G01": {
+     "v": 4,
+     "conf": "voto",
+     "fonte": "https://dadosabertos.camara.leg.br/api/v2/votacoes/2088351-324/votos",
+     "nota": "Votou Sim em PEC 241/2016 (teto de gastos), 2º turno (25/10/2016)."
+    },
+    "G12": {
+     "v": 4,
+     "conf": "voto",
+     "fonte": "https://dadosabertos.camara.leg.br/api/v2/votacoes/14493-536/votos",
+     "nota": "Votou Sim em PEC 171/1993 (maioridade penal para crimes graves), 2º turno (19/08/2015)."
+    },
+    "G05": {
+     "v": 2,
+     "conf": "voto",
+     "fonte": "https://dadosabertos.camara.leg.br/api/v2/votacoes/2482078-57/votos",
+     "nota": "Votou Sim em PDL 3/2025 (sustou resolução do Conanda sobre aborto legal) (05/11/2025)."
+    },
+    "DF05": {
+     "v": 4,
+     "conf": "voto",
+     "fonte": "https://dadosabertos.camara.leg.br/api/v2/votacoes/2153100-59/votos",
+     "nota": "Votou Não em PL 8703/2017, destaque sobre o artigo que criou o fundo eleitoral (Sim manteve) (04/10/2017)."
+    }
+   }
+  },
+  "130002547896": {
+   "nomeUrna": "NEWTON CARDOSO JR",
+   "cargo": "Deputado Federal",
+   "idCamara": 178896,
+   "posicoes": {
+    "DF03": {
+     "v": 5,
+     "conf": "voto",
+     "fonte": "https://dadosabertos.camara.leg.br/api/v2/votacoes/345311-270/votos",
+     "nota": "Votou Sim em PL 490/2007 (30/05/2023)."
+    },
+    "DF02": {
+     "v": 5,
+     "conf": "voto",
+     "fonte": "https://dadosabertos.camara.leg.br/api/v2/votacoes/2270800-135/votos",
+     "nota": "Votou Sim em PEC 3/2021 (16/09/2025); Sim em PEC 3/2021 (16/09/2025)."
+    },
+    "G08": {
+     "v": 4,
+     "conf": "voto",
+     "fonte": "https://dadosabertos.camara.leg.br/api/v2/votacoes/2562149-7/votos",
+     "nota": "Votou Sim em PL 2162/2023 (17/09/2025)."
+    },
+    "G03": {
+     "v": 3,
+     "conf": "voto",
+     "fonte": "https://dadosabertos.camara.leg.br/api/v2/votacoes/2270894-103/votos",
+     "nota": "Votou Não em PL 591/2021 (privatização dos Correios) (05/08/2021); Sim em MP 1031/2021 (privatização da Eletrobras) (19/05/2021)."
+    },
+    "G01": {
+     "v": 4,
+     "conf": "voto",
+     "fonte": "https://dadosabertos.camara.leg.br/api/v2/votacoes/2088351-324/votos",
+     "nota": "Votou Sim em PEC 241/2016 (teto de gastos), 2º turno (25/10/2016)."
+    },
+    "G12": {
+     "v": 4,
+     "conf": "voto",
+     "fonte": "https://dadosabertos.camara.leg.br/api/v2/votacoes/14493-536/votos",
+     "nota": "Votou Sim em PEC 171/1993 (maioridade penal para crimes graves), 2º turno (19/08/2015)."
+    },
+    "G05": {
+     "v": 2,
+     "conf": "voto",
+     "fonte": "https://dadosabertos.camara.leg.br/api/v2/votacoes/2482078-57/votos",
+     "nota": "Votou Sim em PDL 3/2025 (sustou resolução do Conanda sobre aborto legal) (05/11/2025)."
+    }
+   }
+  },
+  "130002535276": {
+   "nomeUrna": "ANA PIMENTEL",
+   "cargo": "Deputado Federal",
+   "idCamara": 220632,
+   "posicoes": {
+    "DF03": {
+     "v": 1,
+     "conf": "voto",
+     "fonte": "https://dadosabertos.camara.leg.br/api/v2/votacoes/345311-270/votos",
+     "nota": "Votou Não em PL 490/2007 (30/05/2023)."
+    },
+    "G10": {
+     "v": 4,
+     "conf": "voto",
+     "fonte": "https://dadosabertos.camara.leg.br/api/v2/votacoes/2310837-8/votos",
+     "nota": "Votou Sim em PL 2630/2020 (25/04/2023)."
+    },
+    "G11": {
+     "v": 4,
+     "conf": "voto",
+     "fonte": "https://dadosabertos.camara.leg.br/api/v2/votacoes/2439779-55/votos",
+     "nota": "Votou Sim em PL 1958/2021 (19/11/2024)."
+    },
+    "DF04": {
+     "v": 1,
+     "conf": "voto",
+     "fonte": "https://dadosabertos.camara.leg.br/api/v2/votacoes/257161-454/votos",
+     "nota": "Votou Não em PL 2159/2021 (17/07/2025)."
+    },
+    "G07": {
+     "v": 4,
+     "conf": "voto",
+     "fonte": "https://dadosabertos.camara.leg.br/api/v2/votacoes/257161-454/votos",
+     "nota": "Votou Não em PL 2159/2021 (17/07/2025)."
+    },
+    "DF02": {
+     "v": 1,
+     "conf": "voto",
+     "fonte": "https://dadosabertos.camara.leg.br/api/v2/votacoes/2270800-135/votos",
+     "nota": "Votou Não em PEC 3/2021 (16/09/2025); Não em PEC 3/2021 (16/09/2025)."
+    },
+    "G08": {
+     "v": 2,
+     "conf": "voto",
+     "fonte": "https://dadosabertos.camara.leg.br/api/v2/votacoes/2562149-7/votos",
+     "nota": "Votou Não em PL 2162/2023 (17/09/2025); Não em PL 2162/2023, substitutivo da dosimetria (reduz penas, sem anistia) (10/12/2025)."
+    }
+   }
+  },
+  "130002542730": {
+   "nomeUrna": "DELEGADO MARCELO FREITAS",
+   "cargo": "Deputado Federal",
+   "idCamara": 204512,
+   "posicoes": {
+    "DF03": {
+     "v": 5,
+     "conf": "voto",
+     "fonte": "https://dadosabertos.camara.leg.br/api/v2/votacoes/345311-270/votos",
+     "nota": "Votou Sim em PL 490/2007 (30/05/2023)."
+    },
+    "G10": {
+     "v": 2,
+     "conf": "voto",
+     "fonte": "https://dadosabertos.camara.leg.br/api/v2/votacoes/2310837-8/votos",
+     "nota": "Votou Não em PL 2630/2020 (25/04/2023)."
+    },
+    "G04": {
+     "v": 4,
+     "conf": "voto",
+     "fonte": "https://dadosabertos.camara.leg.br/api/v2/votacoes/2357898-11/votos",
+     "nota": "Votou Sim em PDL 3/2023 (06/12/2023)."
+    },
+    "G11": {
+     "v": 4,
+     "conf": "voto",
+     "fonte": "https://dadosabertos.camara.leg.br/api/v2/votacoes/2439779-55/votos",
+     "nota": "Votou Sim em PL 1958/2021 (19/11/2024)."
+    },
+    "DF04": {
+     "v": 5,
+     "conf": "voto",
+     "fonte": "https://dadosabertos.camara.leg.br/api/v2/votacoes/257161-454/votos",
+     "nota": "Votou Sim em PL 2159/2021 (17/07/2025)."
+    },
+    "G07": {
+     "v": 2,
+     "conf": "voto",
+     "fonte": "https://dadosabertos.camara.leg.br/api/v2/votacoes/257161-454/votos",
+     "nota": "Votou Sim em PL 2159/2021 (17/07/2025)."
+    },
+    "DF02": {
+     "v": 5,
+     "conf": "voto",
+     "fonte": "https://dadosabertos.camara.leg.br/api/v2/votacoes/2270800-135/votos",
+     "nota": "Votou Sim em PEC 3/2021 (16/09/2025); Sim em PEC 3/2021 (16/09/2025)."
+    },
+    "G08": {
+     "v": 4,
+     "conf": "voto",
+     "fonte": "https://dadosabertos.camara.leg.br/api/v2/votacoes/2562149-7/votos",
+     "nota": "Votou Sim em PL 2162/2023 (17/09/2025); Sim em PL 2162/2023, substitutivo da dosimetria (reduz penas, sem anistia) (10/12/2025)."
+    },
+    "G03": {
+     "v": 4,
+     "conf": "voto",
+     "fonte": "https://dadosabertos.camara.leg.br/api/v2/votacoes/2270894-103/votos",
+     "nota": "Votou Sim em PL 591/2021 (privatização dos Correios) (05/08/2021); Sim em MP 1031/2021 (privatização da Eletrobras) (19/05/2021)."
+    },
+    "G05": {
+     "v": 2,
+     "conf": "voto",
+     "fonte": "https://dadosabertos.camara.leg.br/api/v2/votacoes/2482078-57/votos",
+     "nota": "Votou Sim em PDL 3/2025 (sustou resolução do Conanda sobre aborto legal) (05/11/2025)."
+    },
+    "DF06": {
+     "v": 5,
+     "conf": "voto",
+     "fonte": "https://dadosabertos.camara.leg.br/api/v2/votacoes/596844-116/votos",
+     "nota": "Votou Sim em PL 583/2011 (fim da saída temporária de presos) (03/08/2022)."
+    },
+    "G06": {
+     "v": 2,
+     "conf": "voto",
+     "fonte": "https://dadosabertos.camara.leg.br/api/v2/votacoes/2428236-50/votos",
+     "nota": "Votou Sim em PEC 45/2023 na CCJ (criminaliza porte de qualquer quantidade de droga) (12/06/2024)."
+    },
+    "G09": {
+     "v": 4,
+     "conf": "voto",
+     "fonte": "https://dadosabertos.camara.leg.br/api/v2/votacoes/2410488-45/votos",
+     "nota": "Votou Sim em PEC 8/2021 na CCJ (limita decisões monocráticas do STF) (09/10/2024)."
+    }
+   }
+  },
+  "130002535279": {
+   "nomeUrna": "ROGÉRIO CORREIA",
+   "cargo": "Deputado Federal",
+   "idCamara": 204480,
+   "posicoes": {
+    "DF03": {
+     "v": 1,
+     "conf": "voto",
+     "fonte": "https://dadosabertos.camara.leg.br/api/v2/votacoes/345311-270/votos",
+     "nota": "Votou Não em PL 490/2007 (30/05/2023)."
+    },
+    "G10": {
+     "v": 4,
+     "conf": "voto",
+     "fonte": "https://dadosabertos.camara.leg.br/api/v2/votacoes/2310837-8/votos",
+     "nota": "Votou Sim em PL 2630/2020 (25/04/2023)."
+    },
+    "G04": {
+     "v": 2,
+     "conf": "voto",
+     "fonte": "https://dadosabertos.camara.leg.br/api/v2/votacoes/2357898-11/votos",
+     "nota": "Votou Não em PDL 3/2023 (06/12/2023)."
+    },
+    "G11": {
+     "v": 4,
+     "conf": "voto",
+     "fonte": "https://dadosabertos.camara.leg.br/api/v2/votacoes/2439779-55/votos",
+     "nota": "Votou Sim em PL 1958/2021 (19/11/2024)."
+    },
+    "DF04": {
+     "v": 1,
+     "conf": "voto",
+     "fonte": "https://dadosabertos.camara.leg.br/api/v2/votacoes/257161-454/votos",
+     "nota": "Votou Não em PL 2159/2021 (17/07/2025)."
+    },
+    "G07": {
+     "v": 4,
+     "conf": "voto",
+     "fonte": "https://dadosabertos.camara.leg.br/api/v2/votacoes/257161-454/votos",
+     "nota": "Votou Não em PL 2159/2021 (17/07/2025)."
+    },
+    "DF02": {
+     "v": 1,
+     "conf": "voto",
+     "fonte": "https://dadosabertos.camara.leg.br/api/v2/votacoes/2270800-135/votos",
+     "nota": "Votou Não em PEC 3/2021 (16/09/2025); Não em PEC 3/2021 (16/09/2025)."
+    },
+    "G08": {
+     "v": 2,
+     "conf": "voto",
+     "fonte": "https://dadosabertos.camara.leg.br/api/v2/votacoes/2562149-7/votos",
+     "nota": "Votou Não em PL 2162/2023 (17/09/2025); Não em PL 2162/2023, substitutivo da dosimetria (reduz penas, sem anistia) (10/12/2025)."
+    },
+    "G03": {
+     "v": 2,
+     "conf": "voto",
+     "fonte": "https://dadosabertos.camara.leg.br/api/v2/votacoes/2270894-103/votos",
+     "nota": "Votou Não em PL 591/2021 (privatização dos Correios) (05/08/2021); Não em MP 1031/2021 (privatização da Eletrobras) (19/05/2021)."
+    },
+    "DF06": {
+     "v": 1,
+     "conf": "voto",
+     "fonte": "https://dadosabertos.camara.leg.br/api/v2/votacoes/596844-116/votos",
+     "nota": "Votou Não em PL 583/2011 (fim da saída temporária de presos) (03/08/2022)."
+    }
+   }
+  },
+  "130002535293": {
+   "nomeUrna": "PAULO GUEDES",
+   "cargo": "Deputado Federal",
+   "idCamara": 204492,
+   "posicoes": {
+    "DF03": {
+     "v": 1,
+     "conf": "voto",
+     "fonte": "https://dadosabertos.camara.leg.br/api/v2/votacoes/345311-270/votos",
+     "nota": "Votou Não em PL 490/2007 (30/05/2023)."
+    },
+    "G10": {
+     "v": 4,
+     "conf": "voto",
+     "fonte": "https://dadosabertos.camara.leg.br/api/v2/votacoes/2310837-8/votos",
+     "nota": "Votou Sim em PL 2630/2020 (25/04/2023)."
+    },
+    "G04": {
+     "v": 2,
+     "conf": "voto",
+     "fonte": "https://dadosabertos.camara.leg.br/api/v2/votacoes/2357898-11/votos",
+     "nota": "Votou Não em PDL 3/2023 (06/12/2023)."
+    },
+    "G11": {
+     "v": 4,
+     "conf": "voto",
+     "fonte": "https://dadosabertos.camara.leg.br/api/v2/votacoes/2439779-55/votos",
+     "nota": "Votou Sim em PL 1958/2021 (19/11/2024)."
+    },
+    "DF04": {
+     "v": 1,
+     "conf": "voto",
+     "fonte": "https://dadosabertos.camara.leg.br/api/v2/votacoes/257161-454/votos",
+     "nota": "Votou Não em PL 2159/2021 (17/07/2025)."
+    },
+    "G07": {
+     "v": 4,
+     "conf": "voto",
+     "fonte": "https://dadosabertos.camara.leg.br/api/v2/votacoes/257161-454/votos",
+     "nota": "Votou Não em PL 2159/2021 (17/07/2025)."
+    },
+    "DF02": {
+     "v": 5,
+     "conf": "voto",
+     "fonte": "https://dadosabertos.camara.leg.br/api/v2/votacoes/2270800-135/votos",
+     "nota": "Votou Sim em PEC 3/2021 (16/09/2025); Sim em PEC 3/2021 (16/09/2025)."
+    },
+    "G08": {
+     "v": 2,
+     "conf": "voto",
+     "fonte": "https://dadosabertos.camara.leg.br/api/v2/votacoes/2562149-7/votos",
+     "nota": "Votou Não em PL 2162/2023 (17/09/2025); Não em PL 2162/2023, substitutivo da dosimetria (reduz penas, sem anistia) (10/12/2025)."
+    },
+    "G03": {
+     "v": 2,
+     "conf": "voto",
+     "fonte": "https://dadosabertos.camara.leg.br/api/v2/votacoes/2270894-103/votos",
+     "nota": "Votou Não em PL 591/2021 (privatização dos Correios) (05/08/2021); Não em MP 1031/2021 (privatização da Eletrobras) (19/05/2021)."
+    },
+    "DF06": {
+     "v": 1,
+     "conf": "voto",
+     "fonte": "https://dadosabertos.camara.leg.br/api/v2/votacoes/596844-116/votos",
+     "nota": "Votou Não em PL 583/2011 (fim da saída temporária de presos) (03/08/2022)."
+    }
+   }
+  },
+  "130002554332": {
+   "nomeUrna": "AÉCIO NEVES",
+   "cargo": "Senador",
+   "idCamara": 74646,
+   "posicoes": {
+    "G10": {
+     "v": 4,
+     "conf": "voto",
+     "fonte": "https://dadosabertos.camara.leg.br/api/v2/votacoes/2310837-8/votos",
+     "nota": "Votou Sim em PL 2630/2020 (25/04/2023)."
+    },
+    "DF02": {
+     "v": 1,
+     "conf": "voto",
+     "fonte": "https://dadosabertos.camara.leg.br/api/v2/votacoes/2270800-135/votos",
+     "nota": "Votou Não em PEC 3/2021 (16/09/2025); Não em PEC 3/2021 (16/09/2025)."
+    },
+    "G08": {
+     "v": 3,
+     "conf": "voto",
+     "fonte": "https://dadosabertos.camara.leg.br/api/v2/votacoes/2358548-89/votos",
+     "nota": "Votou Sim em PL 2162/2023, substitutivo da dosimetria (reduz penas, sem anistia) (10/12/2025)."
+    },
+    "G03": {
+     "v": 4,
+     "conf": "voto",
+     "fonte": "https://dadosabertos.camara.leg.br/api/v2/votacoes/2270894-103/votos",
+     "nota": "Votou Sim em PL 591/2021 (privatização dos Correios) (05/08/2021); Sim em MP 1031/2021 (privatização da Eletrobras) (19/05/2021)."
+    },
+    "G05": {
+     "v": 2,
+     "conf": "voto",
+     "fonte": "https://dadosabertos.camara.leg.br/api/v2/votacoes/2482078-57/votos",
+     "nota": "Votou Sim em PDL 3/2025 (sustou resolução do Conanda sobre aborto legal) (05/11/2025)."
+    },
+    "DF06": {
+     "v": 5,
+     "conf": "voto",
+     "fonte": "https://dadosabertos.camara.leg.br/api/v2/votacoes/596844-116/votos",
+     "nota": "Votou Sim em PL 583/2011 (fim da saída temporária de presos) (03/08/2022)."
+    }
+   }
+  },
+  "130002539842": {
+   "nomeUrna": "PAULO ABI-ACKEL",
+   "cargo": "Deputado Federal",
+   "idCamara": 141516,
+   "posicoes": {
+    "G10": {
+     "v": 4,
+     "conf": "voto",
+     "fonte": "https://dadosabertos.camara.leg.br/api/v2/votacoes/2310837-8/votos",
+     "nota": "Votou Sim em PL 2630/2020 (25/04/2023)."
+    },
+    "G04": {
+     "v": 4,
+     "conf": "voto",
+     "fonte": "https://dadosabertos.camara.leg.br/api/v2/votacoes/2357898-11/votos",
+     "nota": "Votou Sim em PDL 3/2023 (06/12/2023)."
+    },
+    "DF02": {
+     "v": 5,
+     "conf": "voto",
+     "fonte": "https://dadosabertos.camara.leg.br/api/v2/votacoes/2270800-135/votos",
+     "nota": "Votou Sim em PEC 3/2021 (16/09/2025); Sim em PEC 3/2021 (16/09/2025)."
+    },
+    "G08": {
+     "v": 4,
+     "conf": "voto",
+     "fonte": "https://dadosabertos.camara.leg.br/api/v2/votacoes/2562149-7/votos",
+     "nota": "Votou Sim em PL 2162/2023 (17/09/2025); Sim em PL 2162/2023, substitutivo da dosimetria (reduz penas, sem anistia) (10/12/2025)."
+    },
+    "G03": {
+     "v": 3,
+     "conf": "voto",
+     "fonte": "https://dadosabertos.camara.leg.br/api/v2/votacoes/2270894-103/votos",
+     "nota": "Votou Sim em PL 591/2021 (privatização dos Correios) (05/08/2021); Não em MP 1031/2021 (privatização da Eletrobras) (19/05/2021)."
+    },
+    "G01": {
+     "v": 4,
+     "conf": "voto",
+     "fonte": "https://dadosabertos.camara.leg.br/api/v2/votacoes/2088351-324/votos",
+     "nota": "Votou Sim em PEC 241/2016 (teto de gastos), 2º turno (25/10/2016)."
+    },
+    "G12": {
+     "v": 4,
+     "conf": "voto",
+     "fonte": "https://dadosabertos.camara.leg.br/api/v2/votacoes/14493-536/votos",
+     "nota": "Votou Sim em PEC 171/1993 (maioridade penal para crimes graves), 2º turno (19/08/2015)."
+    },
+    "G05": {
+     "v": 2,
+     "conf": "voto",
+     "fonte": "https://dadosabertos.camara.leg.br/api/v2/votacoes/2482078-57/votos",
+     "nota": "Votou Sim em PDL 3/2025 (sustou resolução do Conanda sobre aborto legal) (05/11/2025)."
+    },
+    "DF06": {
+     "v": 5,
+     "conf": "voto",
+     "fonte": "https://dadosabertos.camara.leg.br/api/v2/votacoes/596844-116/votos",
+     "nota": "Votou Sim em PL 583/2011 (fim da saída temporária de presos) (03/08/2022)."
+    },
+    "DF05": {
+     "v": 2,
+     "conf": "voto",
+     "fonte": "https://dadosabertos.camara.leg.br/api/v2/votacoes/2153100-59/votos",
+     "nota": "Votou Sim em PL 8703/2017, destaque sobre o artigo que criou o fundo eleitoral (Sim manteve) (04/10/2017)."
+    },
+    "G06": {
+     "v": 4,
+     "conf": "voto",
+     "fonte": "https://dadosabertos.camara.leg.br/api/v2/votacoes/2428236-50/votos",
+     "nota": "Votou Não em PEC 45/2023 na CCJ (criminaliza porte de qualquer quantidade de droga) (12/06/2024)."
+    }
+   }
+  },
+  "130002545559": {
+   "nomeUrna": "DIEGO ANDRADE",
+   "cargo": "Deputado Federal",
+   "idCamara": 160588,
+   "posicoes": {
+    "G10": {
+     "v": 2,
+     "conf": "voto",
+     "fonte": "https://dadosabertos.camara.leg.br/api/v2/votacoes/2310837-8/votos",
+     "nota": "Votou Não em PL 2630/2020 (25/04/2023)."
+    },
+    "G11": {
+     "v": 4,
+     "conf": "voto",
+     "fonte": "https://dadosabertos.camara.leg.br/api/v2/votacoes/2439779-55/votos",
+     "nota": "Votou Sim em PL 1958/2021 (19/11/2024)."
+    },
+    "DF02": {
+     "v": 5,
+     "conf": "voto",
+     "fonte": "https://dadosabertos.camara.leg.br/api/v2/votacoes/2270800-135/votos",
+     "nota": "Votou Sim em PEC 3/2021 (16/09/2025); Sim em PEC 3/2021 (16/09/2025)."
+    },
+    "G08": {
+     "v": 4,
+     "conf": "voto",
+     "fonte": "https://dadosabertos.camara.leg.br/api/v2/votacoes/2562149-7/votos",
+     "nota": "Votou Sim em PL 2162/2023 (17/09/2025); Sim em PL 2162/2023, substitutivo da dosimetria (reduz penas, sem anistia) (10/12/2025)."
+    },
+    "G03": {
+     "v": 4,
+     "conf": "voto",
+     "fonte": "https://dadosabertos.camara.leg.br/api/v2/votacoes/2270894-103/votos",
+     "nota": "Votou Sim em PL 591/2021 (privatização dos Correios) (05/08/2021); Sim em MP 1031/2021 (privatização da Eletrobras) (19/05/2021)."
+    },
+    "G01": {
+     "v": 4,
+     "conf": "voto",
+     "fonte": "https://dadosabertos.camara.leg.br/api/v2/votacoes/2088351-324/votos",
+     "nota": "Votou Sim em PEC 241/2016 (teto de gastos), 2º turno (25/10/2016)."
+    },
+    "G12": {
+     "v": 4,
+     "conf": "voto",
+     "fonte": "https://dadosabertos.camara.leg.br/api/v2/votacoes/14493-536/votos",
+     "nota": "Votou Sim em PEC 171/1993 (maioridade penal para crimes graves), 2º turno (19/08/2015)."
+    },
+    "G05": {
+     "v": 2,
+     "conf": "voto",
+     "fonte": "https://dadosabertos.camara.leg.br/api/v2/votacoes/2482078-57/votos",
+     "nota": "Votou Sim em PDL 3/2025 (sustou resolução do Conanda sobre aborto legal) (05/11/2025)."
+    },
+    "DF05": {
+     "v": 2,
+     "conf": "voto",
+     "fonte": "https://dadosabertos.camara.leg.br/api/v2/votacoes/2153100-59/votos",
+     "nota": "Votou Sim em PL 8703/2017, destaque sobre o artigo que criou o fundo eleitoral (Sim manteve) (04/10/2017)."
+    }
+   }
+  },
+  "130002550464": {
+   "nomeUrna": "PATRUS ANANIAS",
+   "cargo": "Governador",
+   "idCamara": 74160,
+   "posicoes": {
+    "G10": {
+     "v": 4,
+     "conf": "voto",
+     "fonte": "https://dadosabertos.camara.leg.br/api/v2/votacoes/2310837-8/votos",
+     "nota": "Votou Sim em PL 2630/2020 (25/04/2023)."
+    },
+    "G04": {
+     "v": 2,
+     "conf": "voto",
+     "fonte": "https://dadosabertos.camara.leg.br/api/v2/votacoes/2357898-11/votos",
+     "nota": "Votou Não em PDL 3/2023 (06/12/2023)."
+    },
+    "G11": {
+     "v": 4,
+     "conf": "voto",
+     "fonte": "https://dadosabertos.camara.leg.br/api/v2/votacoes/2439779-55/votos",
+     "nota": "Votou Sim em PL 1958/2021 (19/11/2024)."
+    },
+    "DF04": {
+     "v": 1,
+     "conf": "voto",
+     "fonte": "https://dadosabertos.camara.leg.br/api/v2/votacoes/257161-454/votos",
+     "nota": "Votou Não em PL 2159/2021 (17/07/2025)."
+    },
+    "G07": {
+     "v": 4,
+     "conf": "voto",
+     "fonte": "https://dadosabertos.camara.leg.br/api/v2/votacoes/257161-454/votos",
+     "nota": "Votou Não em PL 2159/2021 (17/07/2025)."
+    },
+    "DF02": {
+     "v": 1,
+     "conf": "voto",
+     "fonte": "https://dadosabertos.camara.leg.br/api/v2/votacoes/2270800-135/votos",
+     "nota": "Votou Não em PEC 3/2021 (16/09/2025); Não em PEC 3/2021 (16/09/2025)."
+    },
+    "G08": {
+     "v": 2,
+     "conf": "voto",
+     "fonte": "https://dadosabertos.camara.leg.br/api/v2/votacoes/2562149-7/votos",
+     "nota": "Votou Não em PL 2162/2023 (17/09/2025); Não em PL 2162/2023, substitutivo da dosimetria (reduz penas, sem anistia) (10/12/2025)."
+    },
+    "G03": {
+     "v": 2,
+     "conf": "voto",
+     "fonte": "https://dadosabertos.camara.leg.br/api/v2/votacoes/2270894-103/votos",
+     "nota": "Votou Não em PL 591/2021 (privatização dos Correios) (05/08/2021); Não em MP 1031/2021 (privatização da Eletrobras) (19/05/2021)."
+    },
+    "G01": {
+     "v": 2,
+     "conf": "voto",
+     "fonte": "https://dadosabertos.camara.leg.br/api/v2/votacoes/2088351-324/votos",
+     "nota": "Votou Não em PEC 241/2016 (teto de gastos), 2º turno (25/10/2016)."
+    },
+    "DF06": {
+     "v": 1,
+     "conf": "voto",
+     "fonte": "https://dadosabertos.camara.leg.br/api/v2/votacoes/596844-116/votos",
+     "nota": "Votou Não em PL 583/2011 (fim da saída temporária de presos) (03/08/2022)."
+    },
+    "DF05": {
+     "v": 2,
+     "conf": "voto",
+     "fonte": "https://dadosabertos.camara.leg.br/api/v2/votacoes/2153100-59/votos",
+     "nota": "Votou Sim em PL 8703/2017, destaque sobre o artigo que criou o fundo eleitoral (Sim manteve) (04/10/2017)."
+    },
+    "G12": {
+     "v": 2,
+     "conf": "voto",
+     "fonte": "https://dadosabertos.camara.leg.br/api/v2/votacoes/1228863-102/votos",
+     "nota": "Votou Não em PEC 32/2015 na CCJ (maioridade penal aos 16 anos) (10/06/2026)."
+    },
+    "G09": {
+     "v": 2,
+     "conf": "voto",
+     "fonte": "https://dadosabertos.camara.leg.br/api/v2/votacoes/2410488-45/votos",
+     "nota": "Votou Não em PEC 8/2021 na CCJ (limita decisões monocráticas do STF) (09/10/2024)."
+    }
+   }
+  },
+  "130002542026": {
+   "nomeUrna": "NIKOLAS FERREIRA",
+   "cargo": "Deputado Federal",
+   "idCamara": 209787,
+   "posicoes": {
+    "G10": {
+     "v": 2,
+     "conf": "voto",
+     "fonte": "https://dadosabertos.camara.leg.br/api/v2/votacoes/2310837-8/votos",
+     "nota": "Votou Não em PL 2630/2020 (25/04/2023)."
+    },
+    "G04": {
+     "v": 4,
+     "conf": "voto",
+     "fonte": "https://dadosabertos.camara.leg.br/api/v2/votacoes/2357898-11/votos",
+     "nota": "Votou Sim em PDL 3/2023 (06/12/2023)."
+    },
+    "G11": {
+     "v": 2,
+     "conf": "voto",
+     "fonte": "https://dadosabertos.camara.leg.br/api/v2/votacoes/2439779-55/votos",
+     "nota": "Votou Não em PL 1958/2021 (19/11/2024)."
+    },
+    "DF04": {
+     "v": 5,
+     "conf": "voto",
+     "fonte": "https://dadosabertos.camara.leg.br/api/v2/votacoes/257161-454/votos",
+     "nota": "Votou Sim em PL 2159/2021 (17/07/2025)."
+    },
+    "G07": {
+     "v": 2,
+     "conf": "voto",
+     "fonte": "https://dadosabertos.camara.leg.br/api/v2/votacoes/257161-454/votos",
+     "nota": "Votou Sim em PL 2159/2021 (17/07/2025)."
+    },
+    "DF02": {
+     "v": 5,
+     "conf": "voto",
+     "fonte": "https://dadosabertos.camara.leg.br/api/v2/votacoes/2270800-135/votos",
+     "nota": "Votou Sim em PEC 3/2021 (16/09/2025); Sim em PEC 3/2021 (16/09/2025)."
+    },
+    "G08": {
+     "v": 4,
+     "conf": "voto",
+     "fonte": "https://dadosabertos.camara.leg.br/api/v2/votacoes/2562149-7/votos",
+     "nota": "Votou Sim em PL 2162/2023 (17/09/2025); Sim em PL 2162/2023, substitutivo da dosimetria (reduz penas, sem anistia) (10/12/2025)."
+    },
+    "G05": {
+     "v": 2,
+     "conf": "voto",
+     "fonte": "https://dadosabertos.camara.leg.br/api/v2/votacoes/2482078-57/votos",
+     "nota": "Votou Sim em PDL 3/2025 (sustou resolução do Conanda sobre aborto legal) (05/11/2025)."
+    },
+    "G12": {
+     "v": 4,
+     "conf": "voto",
+     "fonte": "https://dadosabertos.camara.leg.br/api/v2/votacoes/1228863-102/votos",
+     "nota": "Votou Sim em PEC 32/2015 na CCJ (maioridade penal aos 16 anos) (10/06/2026)."
+    }
+   }
+  },
+  "130002542715": {
+   "nomeUrna": "RODRIGO DE CASTRO",
+   "cargo": "Deputado Federal",
+   "idCamara": 141531,
+   "posicoes": {
+    "G10": {
+     "v": 4,
+     "conf": "voto",
+     "fonte": "https://dadosabertos.camara.leg.br/api/v2/votacoes/2310837-8/votos",
+     "nota": "Votou Sim em PL 2630/2020 (25/04/2023)."
+    },
+    "G04": {
+     "v": 2,
+     "conf": "voto",
+     "fonte": "https://dadosabertos.camara.leg.br/api/v2/votacoes/2357898-11/votos",
+     "nota": "Votou Não em PDL 3/2023 (06/12/2023)."
+    },
+    "G11": {
+     "v": 4,
+     "conf": "voto",
+     "fonte": "https://dadosabertos.camara.leg.br/api/v2/votacoes/2439779-55/votos",
+     "nota": "Votou Sim em PL 1958/2021 (19/11/2024)."
+    },
+    "DF02": {
+     "v": 5,
+     "conf": "voto",
+     "fonte": "https://dadosabertos.camara.leg.br/api/v2/votacoes/2270800-135/votos",
+     "nota": "Votou Sim em PEC 3/2021 (16/09/2025); Sim em PEC 3/2021 (16/09/2025)."
+    },
+    "G08": {
+     "v": 4,
+     "conf": "voto",
+     "fonte": "https://dadosabertos.camara.leg.br/api/v2/votacoes/2562149-7/votos",
+     "nota": "Votou Sim em PL 2162/2023 (17/09/2025); Sim em PL 2162/2023, substitutivo da dosimetria (reduz penas, sem anistia) (10/12/2025)."
+    },
+    "G03": {
+     "v": 4,
+     "conf": "voto",
+     "fonte": "https://dadosabertos.camara.leg.br/api/v2/votacoes/2270789-73/votos",
+     "nota": "Votou Sim em MP 1031/2021 (privatização da Eletrobras) (19/05/2021)."
+    },
+    "G01": {
+     "v": 4,
+     "conf": "voto",
+     "fonte": "https://dadosabertos.camara.leg.br/api/v2/votacoes/2088351-324/votos",
+     "nota": "Votou Sim em PEC 241/2016 (teto de gastos), 2º turno (25/10/2016)."
+    },
+    "G12": {
+     "v": 4,
+     "conf": "voto",
+     "fonte": "https://dadosabertos.camara.leg.br/api/v2/votacoes/14493-536/votos",
+     "nota": "Votou Sim em PEC 171/1993 (maioridade penal para crimes graves), 2º turno (19/08/2015); Sim em PEC 32/2015 na CCJ (maioridade penal aos 16 anos) (10/06/2026)."
+    },
+    "G05": {
+     "v": 2,
+     "conf": "voto",
+     "fonte": "https://dadosabertos.camara.leg.br/api/v2/votacoes/2482078-57/votos",
+     "nota": "Votou Sim em PDL 3/2025 (sustou resolução do Conanda sobre aborto legal) (05/11/2025)."
+    },
+    "DF06": {
+     "v": 5,
+     "conf": "voto",
+     "fonte": "https://dadosabertos.camara.leg.br/api/v2/votacoes/596844-116/votos",
+     "nota": "Votou Sim em PL 583/2011 (fim da saída temporária de presos) (03/08/2022)."
+    },
+    "DF05": {
+     "v": 2,
+     "conf": "voto",
+     "fonte": "https://dadosabertos.camara.leg.br/api/v2/votacoes/2153100-59/votos",
+     "nota": "Votou Sim em PL 8703/2017, destaque sobre o artigo que criou o fundo eleitoral (Sim manteve) (04/10/2017)."
+    }
+   }
+  },
+  "130002542008": {
+   "nomeUrna": "JUNIO AMARAL",
+   "cargo": "Deputado Federal",
+   "idCamara": 204520,
+   "posicoes": {
+    "G10": {
+     "v": 2,
+     "conf": "voto",
+     "fonte": "https://dadosabertos.camara.leg.br/api/v2/votacoes/2310837-8/votos",
+     "nota": "Votou Não em PL 2630/2020 (25/04/2023)."
+    },
+    "G04": {
+     "v": 4,
+     "conf": "voto",
+     "fonte": "https://dadosabertos.camara.leg.br/api/v2/votacoes/2357898-11/votos",
+     "nota": "Votou Sim em PDL 3/2023 (06/12/2023)."
+    },
+    "DF04": {
+     "v": 5,
+     "conf": "voto",
+     "fonte": "https://dadosabertos.camara.leg.br/api/v2/votacoes/257161-454/votos",
+     "nota": "Votou Sim em PL 2159/2021 (17/07/2025)."
+    },
+    "G07": {
+     "v": 2,
+     "conf": "voto",
+     "fonte": "https://dadosabertos.camara.leg.br/api/v2/votacoes/257161-454/votos",
+     "nota": "Votou Sim em PL 2159/2021 (17/07/2025)."
+    },
+    "DF02": {
+     "v": 5,
+     "conf": "voto",
+     "fonte": "https://dadosabertos.camara.leg.br/api/v2/votacoes/2270800-135/votos",
+     "nota": "Votou Sim em PEC 3/2021 (16/09/2025); Sim em PEC 3/2021 (16/09/2025)."
+    },
+    "G08": {
+     "v": 4,
+     "conf": "voto",
+     "fonte": "https://dadosabertos.camara.leg.br/api/v2/votacoes/2562149-7/votos",
+     "nota": "Votou Sim em PL 2162/2023 (17/09/2025); Sim em PL 2162/2023, substitutivo da dosimetria (reduz penas, sem anistia) (10/12/2025)."
+    },
+    "G03": {
+     "v": 4,
+     "conf": "voto",
+     "fonte": "https://dadosabertos.camara.leg.br/api/v2/votacoes/2270894-103/votos",
+     "nota": "Votou Sim em PL 591/2021 (privatização dos Correios) (05/08/2021); Sim em MP 1031/2021 (privatização da Eletrobras) (19/05/2021)."
+    },
+    "G05": {
+     "v": 2,
+     "conf": "voto",
+     "fonte": "https://dadosabertos.camara.leg.br/api/v2/votacoes/2482078-57/votos",
+     "nota": "Votou Sim em PDL 3/2025 (sustou resolução do Conanda sobre aborto legal) (05/11/2025)."
+    },
+    "DF06": {
+     "v": 5,
+     "conf": "voto",
+     "fonte": "https://dadosabertos.camara.leg.br/api/v2/votacoes/596844-116/votos",
+     "nota": "Votou Sim em PL 583/2011 (fim da saída temporária de presos) (03/08/2022)."
+    }
+   }
+  },
+  "130002542031": {
+   "nomeUrna": "ZÉ VITOR",
+   "cargo": "Deputado Federal",
+   "idCamara": 204517,
+   "posicoes": {
+    "G10": {
+     "v": 2,
+     "conf": "voto",
+     "fonte": "https://dadosabertos.camara.leg.br/api/v2/votacoes/2310837-8/votos",
+     "nota": "Votou Não em PL 2630/2020 (25/04/2023)."
+    },
+    "G04": {
+     "v": 4,
+     "conf": "voto",
+     "fonte": "https://dadosabertos.camara.leg.br/api/v2/votacoes/2357898-11/votos",
+     "nota": "Votou Sim em PDL 3/2023 (06/12/2023)."
+    },
+    "DF04": {
+     "v": 5,
+     "conf": "voto",
+     "fonte": "https://dadosabertos.camara.leg.br/api/v2/votacoes/257161-454/votos",
+     "nota": "Votou Sim em PL 2159/2021 (17/07/2025)."
+    },
+    "G07": {
+     "v": 2,
+     "conf": "voto",
+     "fonte": "https://dadosabertos.camara.leg.br/api/v2/votacoes/257161-454/votos",
+     "nota": "Votou Sim em PL 2159/2021 (17/07/2025)."
+    },
+    "DF02": {
+     "v": 5,
+     "conf": "voto",
+     "fonte": "https://dadosabertos.camara.leg.br/api/v2/votacoes/2270800-135/votos",
+     "nota": "Votou Sim em PEC 3/2021 (16/09/2025); Sim em PEC 3/2021 (16/09/2025)."
+    },
+    "G08": {
+     "v": 4,
+     "conf": "voto",
+     "fonte": "https://dadosabertos.camara.leg.br/api/v2/votacoes/2562149-7/votos",
+     "nota": "Votou Sim em PL 2162/2023 (17/09/2025); Sim em PL 2162/2023, substitutivo da dosimetria (reduz penas, sem anistia) (10/12/2025)."
+    },
+    "G03": {
+     "v": 3,
+     "conf": "voto",
+     "fonte": "https://dadosabertos.camara.leg.br/api/v2/votacoes/2270894-103/votos",
+     "nota": "Votou Não em PL 591/2021 (privatização dos Correios) (05/08/2021); Sim em MP 1031/2021 (privatização da Eletrobras) (19/05/2021)."
+    },
+    "G05": {
+     "v": 2,
+     "conf": "voto",
+     "fonte": "https://dadosabertos.camara.leg.br/api/v2/votacoes/2482078-57/votos",
+     "nota": "Votou Sim em PDL 3/2025 (sustou resolução do Conanda sobre aborto legal) (05/11/2025)."
+    },
+    "DF06": {
+     "v": 5,
+     "conf": "voto",
+     "fonte": "https://dadosabertos.camara.leg.br/api/v2/votacoes/596844-116/votos",
+     "nota": "Votou Sim em PL 583/2011 (fim da saída temporária de presos) (03/08/2022)."
+    }
+   }
+  },
+  "130002542006": {
+   "nomeUrna": "FABIANO CAZECA",
+   "cargo": "Deputado Federal",
+   "idCamara": 234388,
+   "posicoes": {
+    "G08": {
+     "v": 3,
+     "conf": "voto",
+     "fonte": "https://dadosabertos.camara.leg.br/api/v2/votacoes/2358548-89/votos",
+     "nota": "Votou Sim em PL 2162/2023, substitutivo da dosimetria (reduz penas, sem anistia) (10/12/2025)."
+    },
+    "G05": {
+     "v": 2,
+     "conf": "voto",
+     "fonte": "https://dadosabertos.camara.leg.br/api/v2/votacoes/2482078-57/votos",
+     "nota": "Votou Sim em PDL 3/2025 (sustou resolução do Conanda sobre aborto legal) (05/11/2025)."
+    }
+   }
+  },
+  "130002533244": {
+   "nomeUrna": "SÉRGIO SANTOS RODRIGUES",
+   "cargo": "Deputado Federal",
+   "idCamara": 77003,
+   "posicoes": {
+    "G08": {
+     "v": 3,
+     "conf": "voto",
+     "fonte": "https://dadosabertos.camara.leg.br/api/v2/votacoes/2358548-89/votos",
+     "nota": "Votou Sim em PL 2162/2023, substitutivo da dosimetria (reduz penas, sem anistia) (10/12/2025)."
+    }
+   }
+  },
+  "130002547840": {
+   "nomeUrna": "CHARLLES EVANGELISTA",
+   "cargo": "Deputado Federal",
+   "idCamara": 204490,
+   "posicoes": {
+    "G03": {
+     "v": 4,
+     "conf": "voto",
+     "fonte": "https://dadosabertos.camara.leg.br/api/v2/votacoes/2270894-103/votos",
+     "nota": "Votou Sim em PL 591/2021 (privatização dos Correios) (05/08/2021); Sim em MP 1031/2021 (privatização da Eletrobras) (19/05/2021)."
+    },
+    "DF06": {
+     "v": 5,
+     "conf": "voto",
+     "fonte": "https://dadosabertos.camara.leg.br/api/v2/votacoes/596844-116/votos",
+     "nota": "Votou Sim em PL 583/2011 (fim da saída temporária de presos) (03/08/2022)."
+    }
+   }
+  },
+  "130002548381": {
+   "nomeUrna": "MARCELO ARO",
+   "cargo": "Senador",
+   "idCamara": 146788,
+   "posicoes": {
+    "G03": {
+     "v": 4,
+     "conf": "voto",
+     "fonte": "https://dadosabertos.camara.leg.br/api/v2/votacoes/2270894-103/votos",
+     "nota": "Votou Sim em PL 591/2021 (privatização dos Correios) (05/08/2021); Sim em MP 1031/2021 (privatização da Eletrobras) (19/05/2021)."
+    },
+    "G12": {
+     "v": 4,
+     "conf": "voto",
+     "fonte": "https://dadosabertos.camara.leg.br/api/v2/votacoes/14493-536/votos",
+     "nota": "Votou Sim em PEC 171/1993 (maioridade penal para crimes graves), 2º turno (19/08/2015)."
+    },
+    "DF05": {
+     "v": 4,
+     "conf": "voto",
+     "fonte": "https://dadosabertos.camara.leg.br/api/v2/votacoes/2153100-59/votos",
+     "nota": "Votou Não em PL 8703/2017, destaque sobre o artigo que criou o fundo eleitoral (Sim manteve) (04/10/2017)."
+    }
+   }
+  },
+  "130002550557": {
+   "nomeUrna": "ÁUREA CAROLINA",
+   "cargo": "Senador",
+   "idCamara": 204509,
+   "posicoes": {
+    "G03": {
+     "v": 2,
+     "conf": "voto",
+     "fonte": "https://dadosabertos.camara.leg.br/api/v2/votacoes/2270894-103/votos",
+     "nota": "Votou Não em PL 591/2021 (privatização dos Correios) (05/08/2021)."
+    },
+    "DF06": {
+     "v": 1,
+     "conf": "voto",
+     "fonte": "https://dadosabertos.camara.leg.br/api/v2/votacoes/596844-116/votos",
+     "nota": "Votou Não em PL 583/2011 (fim da saída temporária de presos) (03/08/2022)."
+    }
+   }
+  },
+  "130002542011": {
+   "nomeUrna": "FABINHO RAMALHO",
+   "cargo": "Deputado Federal",
+   "idCamara": 141427,
+   "posicoes": {
+    "G03": {
+     "v": 4,
+     "conf": "voto",
+     "fonte": "https://dadosabertos.camara.leg.br/api/v2/votacoes/2270789-73/votos",
+     "nota": "Votou Sim em MP 1031/2021 (privatização da Eletrobras) (19/05/2021)."
+    },
+    "G01": {
+     "v": 4,
+     "conf": "voto",
+     "fonte": "https://dadosabertos.camara.leg.br/api/v2/votacoes/2088351-324/votos",
+     "nota": "Votou Sim em PEC 241/2016 (teto de gastos), 2º turno (25/10/2016)."
+    },
+    "G12": {
+     "v": 2,
+     "conf": "voto",
+     "fonte": "https://dadosabertos.camara.leg.br/api/v2/votacoes/14493-536/votos",
+     "nota": "Votou Não em PEC 171/1993 (maioridade penal para crimes graves), 2º turno (19/08/2015)."
+    }
+   }
+  },
+  "130002535290": {
+   "nomeUrna": "WADSON RIBEIRO",
+   "cargo": "Deputado Federal",
+   "idCamara": 137853,
+   "posicoes": {
+    "G12": {
+     "v": 2,
+     "conf": "voto",
+     "fonte": "https://dadosabertos.camara.leg.br/api/v2/votacoes/14493-536/votos",
+     "nota": "Votou Não em PEC 171/1993 (maioridade penal para crimes graves), 2º turno (19/08/2015)."
+    }
+   }
+  },
+  "130002543720": {
+   "nomeUrna": "RENATO ANDRADE",
+   "cargo": "Deputado Federal",
+   "idCamara": 171620,
+   "posicoes": {
+    "DF05": {
+     "v": 2,
+     "conf": "voto",
+     "fonte": "https://dadosabertos.camara.leg.br/api/v2/votacoes/2153100-59/votos",
+     "nota": "Votou Sim em PL 8703/2017, destaque sobre o artigo que criou o fundo eleitoral (Sim manteve) (04/10/2017)."
+    }
+   }
+  }
+ },
+ "naoPareados": [
+  "Adelmo Carneiro Leão (ADELMO CARNEIRO LEAO)",
+  "Ademir Camilo (ADEMIR CAMILO PRATES RODRIGUES)",
+  "Aelton Freitas (AELTON JOSÉ DE FREITAS)",
+  "Alê Silva (ALESSANDRA SILVA RIBEIRO)",
+  "Bilac Pinto (OLAVO BILAC PINTO NETO)",
+  "Bonifácio de Andrada (BONIFÁCIO JOSÉ TAMM DE ANDRADA)",
+  "Brunny (BRUNIELE FERREIRA GOMES)",
+  "Caio Narcio (CAIO NARCIO RODRIGUES DA SILVEIRA)",
+  "Carlos Melles (CARLOS DO CARMO ANDRADE MELLES)",
+  "Delegado Edson Moreira (EDSON MOREIRA DA SILVA)",
+  "Dâmina Pereira (DAMINA DE CARVALHO PEREIRA)",
+  "Eduardo Barbosa (EDUARDO LUIZ BARROS BARBOSA)",
+  "Franco Cartafina (FRANCO CARTAFINA GOMES)",
+  "Franklin (FRANKLIN ROBERTO DE LIMA SOUZA)",
+  "Gabriel Guimarães (GABRIEL GUIMARÃES DE ANDRADE)",
+  "George Hilton (GEORGE HILTON DOS SANTOS CECÍLIO)",
+  "Hercílio Coelho Diniz (HERCÍLIO ARAÚJO DINIZ FILHO)",
+  "Jaime Martins (JAIME MARTINS FILHO)",
+  "Jô Moraes (MARIA DO SOCORRO JÔ MORAES)",
+  "Júlio Delgado (JÚLIO CÉSAR DELGADO)",
+  "Laudivio Carvalho (LAUDIVIO ALVARENGA CARVALHO)",
+  "Leonardo Quintão (LEONARDO LEMOS BARROS QUINTÃO)",
+  "Lucas Gonzalez (LUCAS DE VASCONCELOS GONZALEZ)",
+  "Léo Motta (ELIEL MÁRCIO DO CARMO)",
+  "Marcos Montes (MARCOS MONTES CORDEIRO)",
+  "Marcus Pestana (MARCUS VINÍCIUS CAETANO PESTANA DA SILVA)",
+  "Margarida Salomão (MARIA MARGARIDA MARTINS SALOMÃO)",
+  "Mauro Lopes (MAURO RIBEIRO LOPES)",
+  "Misael Varella (MISAEL ARTUR FERREIRA VARELLA)",
+  "Odair Cunha (ODAIR JOSÉ DA CUNHA)",
+  "Odelmo Leão (ODELMO LEÃO CARNEIRO SOBRINHO)",
+  "Raquel Muniz (TANIA RAQUEL DE QUEIROZ MUNIZ)",
+  "Renzo Braz (RENZO DO AMARAL BRAZ)",
+  "Rodrigo Pacheco (RODRIGO OTAVIO SOARES PACHECO)",
+  "Saraiva Felipe (JOSÉ SARAIVA FELIPE)",
+  "Silas Brasileiro (SILAS BRASILEIRO)",
+  "Subtenente Gonzaga (LUIZ GONZAGA RIBEIRO)",
+  "Tenente Lúcio (SERGIO LUCIO DE ALMEIDA)",
+  "Tiago Mitraud (TIAGO LIMA MITRAUD DE CASTRO LEITE)",
+  "Toninho Pinheiro (ANTÔNIO PINHEIRO JÚNIOR)",
+  "Vilson da Fetaemg (VILSON LUIZ DA SILVA)"
+ ]
+}

@@ -1,0 +1,1052 @@
+[
+  {
+    "id": 250002548916,
+    "nomeUrna": "ANA PAULA HAUSSAUER",
+    "resumo": "Diretora da Apae de São Caetano do Sul, com mais de 25 anos em projetos de assistência social. Candidata a deputada estadual pelo Cidadania.",
+    "bandeiras": [
+      "Pessoas com deficiência e famílias atípicas",
+      "Terceiro setor",
+      "Acessibilidade"
+    ],
+    "posicoes": {}
+  },
+  {
+    "id": 250002539934,
+    "nomeUrna": "LUIZA ERUNDINA",
+    "resumo": "Deputada federal por São Paulo desde 1999, hoje pelo PSOL, e ex-prefeita da capital (1989 a 1992). Aos 91 anos, disputa vaga na Alesp.",
+    "bandeiras": [
+      "Tarifa zero no transporte",
+      "Participação popular",
+      "Direitos das mulheres e direitos humanos"
+    ],
+    "posicoes": {
+      "G05": {
+        "v": 3,
+        "conf": "declaracao",
+        "fonte": "https://agenciapatriciagalvao.org.br/mulheres-de-olho/dsr/erundina-eu-nunca-faria-um-aborto-mas-nao-posso-determinar-isso-mulheres/",
+        "nota": "Em 2014 disse que não faria aborto, mas não pode determinar isso às mulheres, e defendeu manter a lei atual e tratar o tema como saúde pública."
+      },
+      "G13": {
+        "v": 2,
+        "conf": "declaracao",
+        "fonte": "https://agenciapatriciagalvao.org.br/mulheres-de-olho/dsr/erundina-eu-nunca-faria-um-aborto-mas-nao-posso-determinar-isso-mulheres/",
+        "nota": "Em 2014, católica, disse que o debate sobre o projeto de país não pode se centrar numa questão moral ou religiosa."
+      },
+      "SPDE04": {
+        "v": 5,
+        "conf": "declaracao",
+        "fonte": "https://www.congressoemfoco.com.br/noticia/107344/erundina-propoe-sus-do-transporte-para-bancar-tarifa-zero",
+        "nota": "Autora da PEC 25/2023, que cria sistema único de mobilidade para bancar tarifa zero; tem o passe livre como bandeira da campanha à Alesp."
+      }
+    }
+  },
+  {
+    "id": 250002536375,
+    "nomeUrna": "ISAAC ANTUNES",
+    "resumo": "Vereador de Ribeirão Preto em terceiro mandato, ex-presidente da Câmara Municipal e presidente do PL na cidade. Candidato a deputado estadual pelo PL.",
+    "bandeiras": [],
+    "posicoes": {}
+  },
+  {
+    "id": 250002540897,
+    "nomeUrna": "RAFAEL SILVA JR",
+    "resumo": "Advogado de Ribeirão Preto, aposentado do Banco do Brasil e filho do ex-deputado estadual Rafael Silva. Disputa sua primeira eleição, a deputado estadual pelo PSD.",
+    "bandeiras": [
+      "Entidades filantrópicas",
+      "Hospitais e saúde",
+      "Municípios do interior"
+    ],
+    "posicoes": {}
+  },
+  {
+    "id": 250002540900,
+    "nomeUrna": "GEÓRGIA SALES",
+    "resumo": "Advogada e arte-educadora, filha da vereadora paulistana Edir Sales, com quem trabalhou em comunicação política. Disputa sua primeira eleição, a deputada estadual pelo PSD.",
+    "bandeiras": [
+      "Direito dos animais",
+      "Terceira idade",
+      "Direitos das mulheres"
+    ],
+    "posicoes": {}
+  },
+  {
+    "id": 250002548907,
+    "nomeUrna": "DEDÉ DA FOLHA",
+    "resumo": "Jornalista e advogado de Ribeirão Pires, ex-vereador da cidade e candidato a prefeito em 2012 e 2016. Candidato a deputado estadual pelo Cidadania.",
+    "bandeiras": [
+      "Acesso ao Rodoanel em Ribeirão Pires",
+      "Verbas estaduais para a saúde municipal",
+      "Fiscalização de recursos públicos"
+    ],
+    "posicoes": {}
+  },
+  {
+    "id": 250002540905,
+    "nomeUrna": "DELEGADA RAQUEL",
+    "resumo": "Delegada da Polícia Civil, ex-presidente do Sindpesp e ex-secretária de Segurança de Santos. Assumiu vaga na Alesp como suplente do PL em novembro de 2025; disputa agora pelo PSD.",
+    "bandeiras": [
+      "Delegacia da Mulher 24 horas",
+      "Patrulha Maria da Penha",
+      "Valorização da Polícia Civil"
+    ],
+    "posicoes": {
+      "G04": {
+        "v": 4,
+        "conf": "declaracao",
+        "fonte": "https://revistaoeste.com/politica/raquel-gallinati-no-brasil-bandido-e-tratado-como-malandro-e-cidadao-como-mane/",
+        "nota": "Em entrevista de dezembro de 2025, citou a dificuldade de acesso às armas como limite à liberdade e defendeu a escolha do cidadão de ter arma."
+      },
+      "SPDE05": {
+        "v": 4,
+        "conf": "declaracao",
+        "fonte": "https://www.revistaoeste.com/revista/edicao-200/raquel-gallinati-delegada-o-que-realmente-mata-pretos-e-pobres-no-brasil-e-a-corrupcao/",
+        "nota": "Disse que não há justificativa para o governo escolher não investir em segurança pública e apontou déficit de policiais e salários baixos."
+      }
+    }
+  },
+  {
+    "id": 250002540886,
+    "nomeUrna": "ALINE TORRES",
+    "resumo": "Ex-secretária municipal de Cultura de São Paulo, foi candidata a vereadora (2020 e 2024) e a deputada federal (2018). Candidata a deputada estadual pelo PSD.",
+    "bandeiras": [
+      "Cultura e valorização de artistas",
+      "Educação",
+      "Saúde"
+    ],
+    "posicoes": {}
+  },
+  {
+    "id": 250002541864,
+    "nomeUrna": "RENATA SENE",
+    "resumo": "Assistente social, foi prefeita de Francisco Morato por dois mandatos (2017 a 2024) e preside a Fundação Republicana Brasileira. Candidata a deputada estadual pelo Republicanos.",
+    "bandeiras": [
+      "Planejamento participativo",
+      "Políticas para a primeira infância",
+      "Demandas regionais"
+    ],
+    "posicoes": {}
+  },
+  {
+    "id": 250002540928,
+    "nomeUrna": "CLAU CAMARGO",
+    "resumo": "Advogada, primeira-dama de Arujá e presidente voluntária do Fundo Social do município. Disputa sua primeira eleição, a deputada estadual pelo PSD.",
+    "bandeiras": [
+      "Segurança das mulheres",
+      "Emprego e empreendedorismo",
+      "Saúde e educação no Alto Tietê"
+    ],
+    "posicoes": {}
+  },
+  {
+    "id": 250002540563,
+    "nomeUrna": "LÚCIA ROSIM",
+    "resumo": "Pastora e bispa, mãe da prefeita de Bauru, Suéllen Rosim, foi secretária municipal de Assistência Social de Bauru. Candidata a deputada estadual pelo PSD.",
+    "bandeiras": [
+      "Assistência social",
+      "Autismo (Centro TEA)",
+      "População em situação de rua"
+    ],
+    "posicoes": {}
+  },
+  {
+    "id": 250002540564,
+    "nomeUrna": "MARA GABRILLI",
+    "resumo": "Senadora por São Paulo desde 2019, ex-deputada federal e ex-vereadora paulistana. Deixou a disputa pela reeleição ao Senado para concorrer a deputada estadual pelo PSD.",
+    "bandeiras": [
+      "Inclusão de pessoas com deficiência",
+      "Acessibilidade e saúde",
+      "Proteção social e cuidado"
+    ],
+    "posicoes": {
+      "G02": {
+        "v": 4,
+        "conf": "voto",
+        "fonte": "https://legis.senado.leg.br/dadosabertos/senador/5376/votacoes?ano=2022",
+        "nota": "No Senado, votou Sim à PEC 32/2022 (PEC da Transição, recursos para o Bolsa Família de R$ 600) em 07/12/2022; placar 64 a 16."
+      },
+      "G03": {
+        "v": 2,
+        "conf": "voto",
+        "fonte": "https://legis.senado.leg.br/dadosabertos/senador/5376/votacoes?ano=2021",
+        "nota": "No Senado, votou Não à MP 1031/2021 (privatização da Eletrobras) em 17/06/2021; placar 42 a 37."
+      },
+      "G04": {
+        "v": 2,
+        "conf": "voto",
+        "fonte": "https://legis.senado.leg.br/dadosabertos/senador/5376/votacoes?ano=2019",
+        "nota": "No Senado, votou Sim ao PDL 233/2019, que sustava o decreto de 2019 que flexibilizava armas, em 18/06/2019; placar 47 a 28."
+      },
+      "G07": {
+        "v": 4,
+        "conf": "voto",
+        "fonte": "https://legis.senado.leg.br/dadosabertos/senador/5376/votacoes?ano=2025",
+        "nota": "No Senado, votou Não ao PL 2159/2021 (nova lei do licenciamento ambiental) em 21/05/2025; placar 54 a 13."
+      }
+    }
+  },
+  {
+    "id": 250002530268,
+    "nomeUrna": "GERSON PIRES",
+    "resumo": "Formado em Relações Internacionais, foi chefe de gabinete do deputado estadual Heni Ozi Cukier (2019 a 2023) e da vereadora Cris Monteiro (2023 a 2026). Candidato a deputado estadual pelo Novo.",
+    "bandeiras": [
+      "Segurança com tecnologia",
+      "Empreendedorismo e desburocratização",
+      "Educação com escolas charter e vouchers"
+    ],
+    "posicoes": {
+      "G03": {
+        "v": 4,
+        "conf": "declaracao",
+        "fonte": "https://gersonpires.com.br/",
+        "nota": "Programa de campanha propõe acelerar concessões, vender imóveis públicos ociosos, PPPs para presídios e OSs na saúde."
+      }
+    }
+  },
+  {
+    "id": 250002540883,
+    "nomeUrna": "CORONEL HELENA REIS",
+    "resumo": "Coronel da reserva da PM, foi chefe da Casa Militar (2017 a 2018) e secretária estadual de Esportes (2023 a 2026). Candidata a prefeita de Rio Preto em 2020; disputa a Alesp pelo PSD.",
+    "bandeiras": [
+      "Segurança pública",
+      "Esporte",
+      "Região de Rio Preto e Araçatuba"
+    ],
+    "posicoes": {
+      "G04": {
+        "v": 4,
+        "conf": "declaracao",
+        "fonte": "https://dlnews.com.br/noticias?id=44762/sabatina:-coronel-helena-defende-armar-populacao-por-direito-e-nao-descarta-privatizacoes-",
+        "nota": "Em sabatina de 2020, defendeu que o cidadão possa ter arma para se defender, como direito, com critérios como avaliação psicológica e capacitação."
+      }
+    }
+  },
+  {
+    "id": 250002540909,
+    "nomeUrna": "RITA PASSOS",
+    "resumo": "Pedagoga de Itu, foi deputada estadual por três mandatos (2007 a 2019) e secretária estadual de Assistência Social (2009 a 2010). Candidata a deputada estadual pelo PSD.",
+    "bandeiras": [],
+    "posicoes": {}
+  },
+  {
+    "id": 250002541857,
+    "nomeUrna": "ELY SANTOS",
+    "resumo": "Suplente que exerceu mandato de deputada federal pelo Republicanos de SP (2021 a 2022 e a partir de 2023), com atuação em direitos das mulheres, idosos e saúde. Candidata a deputada estadual.",
+    "bandeiras": [
+      "Direitos das mulheres e combate ao feminicídio",
+      "Pessoas idosas e autismo",
+      "Enfermagem e saúde"
+    ],
+    "posicoes": {
+      "G05": {
+        "v": 2,
+        "conf": "declaracao",
+        "fonte": "https://taboaoemfoco.com.br/deputada-ely-santos-e-coautora-do-projeto-de-lei-que-equipara-aborto-a-homicidio-vitima-de-estupro-pode-ter-pena-maior-que-estuprador/",
+        "nota": "Coautora do PL 1904/2024, que equipara ao homicídio o aborto após 22 semanas de gestação, inclusive em caso de estupro."
+      }
+    }
+  },
+  {
+    "id": 250002548904,
+    "nomeUrna": "MÁRIO LÚCIO DA CONCEIÇÃO",
+    "resumo": "Empresário e vereador de Guarujá em vários mandatos, preside a Câmara Municipal no biênio 2025 a 2026. Candidato a deputado estadual pelo Cidadania.",
+    "bandeiras": [],
+    "posicoes": {}
+  },
+  {
+    "id": 250002548890,
+    "nomeUrna": "MÁRCIO DA FARMÁCIA",
+    "resumo": "Farmacêutico de Diadema, ex-vereador e ex-vice-prefeito da cidade, foi deputado estadual de 2019 a 2023 e candidato a prefeito em 2024. Disputa a Alesp pelo Cidadania.",
+    "bandeiras": [
+      "Canetas para obesidade no SUS",
+      "Bom Prato Caminhoneiro",
+      "Saúde e farmácias"
+    ],
+    "posicoes": {
+      "G03": {
+        "v": 4,
+        "conf": "voto",
+        "fonte": "https://www.al.sp.gov.br/repositorio/ementario/votacoes/20201014-001001-ID_SESSAO=14325-PDF.pdf",
+        "nota": "Na Alesp, votou Sim na desestatização do PL 1/2019, na extinção da Dersa (2019) e no PL 529/2020, que extinguiu estatais."
+      }
+    }
+  },
+  {
+    "id": 250002534256,
+    "nomeUrna": "SANDRA SANTANA",
+    "resumo": "Vereadora de São Paulo em segundo mandato, hoje no MDB, preside a Comissão de Constituição e Justiça da Câmara Municipal em 2025. Candidata a deputada estadual.",
+    "bandeiras": [
+      "Cooperativismo e geração de renda",
+      "Saúde",
+      "Qualificação profissional"
+    ],
+    "posicoes": {
+      "G03": {
+        "v": 4,
+        "conf": "voto",
+        "fonte": "https://www.cnnbrasil.com.br/politica/privatizacao-da-sabesp-saiba-como-votaram-os-vereadores-de-sao-paulo/",
+        "nota": "Na Câmara Municipal de SP, votou a favor da adesão da capital à privatização da Sabesp em 02/05/2024; placar 37 a 17."
+      }
+    }
+  },
+  {
+    "id": 250002541876,
+    "nomeUrna": "MARIA CONSTANTINO",
+    "resumo": "Engenheira ambiental de Presidente Prudente, gerente de ESG do projeto do Trem Intercidades São Paulo-Campinas e presidente do Republicanos Mulher. Candidata a deputada estadual.",
+    "bandeiras": [
+      "Sustentabilidade e ESG",
+      "Mobilidade e infraestrutura",
+      "Desenvolvimento do interior"
+    ],
+    "posicoes": {}
+  },
+  {
+    "id": 250002540577,
+    "nomeUrna": "FLÁVIA LANCHA",
+    "resumo": "Empresária de Franca, foi candidata a prefeita da cidade (2016 e 2020) e a deputada federal (2022). Candidata a deputada estadual pelo PSD.",
+    "bandeiras": [
+      "Representação de Franca e do interior",
+      "Saúde regional",
+      "Segurança pública"
+    ],
+    "posicoes": {
+      "G03": {
+        "v": 4,
+        "conf": "declaracao",
+        "fonte": "https://sampi.net.br/franca/noticias/3002571/franca-tem-voz/2026/09/quero-ser-uma-voz-que-faca-a-diferenca-por-franca-diz-flavia",
+        "nota": "Em sabatina de setembro de 2026, disse ser a favor da privatização da Sabesp e que votaria por outras privatizações caso a caso."
+      },
+      "SPDE03": {
+        "v": 4,
+        "conf": "declaracao",
+        "fonte": "https://sampi.net.br/franca/noticias/3002571/franca-tem-voz/2026/09/quero-ser-uma-voz-que-faca-a-diferenca-por-franca-diz-flavia",
+        "nota": "Em sabatina de 2026, disse que o governo estadual é muito focado na capital e no entorno e que o interior precisa de mais representação."
+      }
+    }
+  },
+  {
+    "id": 250002536396,
+    "nomeUrna": "SONAIRA FERNANDES",
+    "resumo": "Vereadora de São Paulo em segundo mandato, hoje no PL, foi a primeira secretária estadual de Políticas para a Mulher (2023 a 2024) no governo Tarcísio. Candidata a deputada estadual.",
+    "bandeiras": [
+      "Políticas para mulheres e mães atípicas",
+      "Educação sem ideologia e ensino domiciliar",
+      "Agenda pró-vida e família"
+    ],
+    "posicoes": {
+      "G03": {
+        "v": 4,
+        "conf": "voto",
+        "fonte": "https://www.cnnbrasil.com.br/politica/privatizacao-da-sabesp-saiba-como-votaram-os-vereadores-de-sao-paulo/",
+        "nota": "Na Câmara Municipal de SP, votou a favor da adesão da capital à privatização da Sabesp em 02/05/2024; placar 37 a 17."
+      },
+      "G05": {
+        "v": 1,
+        "conf": "declaracao",
+        "fonte": "https://www.gazetadopovo.com.br/sao-paulo/planos-sonaira-fernandes-crista-e-pro-vida-para-a-mulher-sao-paulo/",
+        "nota": "Diz que há vida desde a concepção e que sua política é inteiramente pró-vida; é autora de projetos municipais pró-vida, como o PL 133/2025 (Disque Pró-vida)."
+      },
+      "G11": {
+        "v": 1,
+        "conf": "declaracao",
+        "fonte": "https://www.saopaulo.sp.leg.br/blog/camara-de-sp-aprova-pl-que-regulamenta-os-concursos-publicos-e-outros-73-projetos-de-vereadores/",
+        "nota": "Votou contra o PL 497/2021 na Câmara de SP por discordar das cotas raciais em concursos; disse que cotas geram preconceito e que o ingresso deve ser por mérito."
+      },
+      "G13": {
+        "v": 4,
+        "conf": "declaracao",
+        "fonte": "https://www.saopaulo.sp.leg.br/blog/conheca-a-vereadora-sonaira-fernandes/",
+        "nota": "Perfil da Câmara de SP (2025) diz que ela pauta o mandato por agenda conservadora baseada na fé cristã e na família."
+      }
+    }
+  },
+  {
+    "id": 250002539312,
+    "nomeUrna": "ABIDAN HENRIQUE",
+    "resumo": "Engenheiro civil formado pela USP e vereador de Embu das Artes em segundo mandato, cofundador do Cursinho KM 23. Aliado de Tabata Amaral, disputa a Alesp pelo PSB.",
+    "bandeiras": [
+      "Educação e formação de professores",
+      "Transporte intermunicipal",
+      "Transparência no uso do dinheiro público"
+    ],
+    "posicoes": {}
+  },
+  {
+    "id": 250002540571,
+    "nomeUrna": "GELEIA PROTETOR",
+    "resumo": "Pedagogo e empresário, vereador de Guarulhos em segundo mandato, atua na proteção animal desde a juventude. Candidato a deputado estadual pelo PSD.",
+    "bandeiras": [
+      "Proteção animal",
+      "Meio ambiente"
+    ],
+    "posicoes": {}
+  },
+  {
+    "id": 250002536409,
+    "nomeUrna": "TENENTE BAHIA",
+    "resumo": "Policial militar formado na Academia do Barro Branco, da zona norte de São Paulo. Foi candidato a deputado estadual em 2022 e a vereador em 2024, pelo PL, e disputa de novo a Alesp.",
+    "bandeiras": [
+      "Segurança e valorização policial",
+      "Combate à violência contra a mulher",
+      "Primeira infância e famílias"
+    ],
+    "posicoes": {}
+  },
+  {
+    "id": 250002536426,
+    "nomeUrna": "DR. ISAEL",
+    "resumo": "Médico, foi vereador, vice-prefeito e prefeito de Pindamonhangaba por dois mandatos (2017 a 2024). Candidato a deputado estadual pelo PL.",
+    "bandeiras": [],
+    "posicoes": {}
+  },
+  {
+    "id": 250002539250,
+    "nomeUrna": "RAMALHO DA CONSTRUÇÃO",
+    "resumo": "Presidente do Sintracon-SP, sindicato dos trabalhadores da construção civil, e ex-deputado estadual (2015 a 2019). Candidato a deputado estadual pelo PSB.",
+    "bandeiras": [
+      "Fim da escala 6x1",
+      "Direitos dos trabalhadores da construção"
+    ],
+    "posicoes": {
+      "G14": {
+        "v": 5,
+        "conf": "declaracao",
+        "fonte": "https://radiopeaobrasil.com.br/campanha-salarial-mobiliza-construcao-civil-em-sao-paulo/",
+        "nota": "Como presidente do Sintracon-SP, defende o fim da escala 6x1 e jornada de 40 horas na campanha salarial de 2026; antes apoiou a proposta de 36 horas."
+      }
+    }
+  },
+  {
+    "id": 250002540910,
+    "nomeUrna": "SILVIO OLIVEIRA",
+    "resumo": "Policial militar, foi candidato a vereador de São Paulo em 2024 pelo PSD. Candidato a deputado estadual pelo PSD.",
+    "bandeiras": [],
+    "posicoes": {}
+  },
+  {
+    "id": 250002538908,
+    "nomeUrna": "KEIT LIMA",
+    "resumo": "Vereadora de São Paulo pelo PSOL desde 2025, formada em Direito e Administração, com atuação no movimento negro e na Brasilândia. Candidata a deputada estadual.",
+    "bandeiras": [
+      "Fim das privatizações (Sabesp, CPTM, escolas)",
+      "Justiça racial e direitos das mulheres",
+      "Fim da escala 6x1"
+    ],
+    "posicoes": {
+      "G03": {
+        "v": 1,
+        "conf": "declaracao",
+        "fonte": "https://keitlima.com.br/wp-content/uploads/2026/09/Propostas-Keit-Lima.pdf",
+        "nota": "Programa de 2026 propõe retomar a gestão pública da Sabesp, do Metrô e da CPTM e acabar com privatizações na educação e na energia."
+      },
+      "G11": {
+        "v": 4,
+        "conf": "declaracao",
+        "fonte": "https://keitlima.com.br/wp-content/uploads/2026/09/Propostas-Keit-Lima.pdf",
+        "nota": "Programa de 2026 propõe ampliar ações afirmativas para a população negra na educação e cria cotas para pessoas trans em concursos municipais."
+      },
+      "G14": {
+        "v": 5,
+        "conf": "declaracao",
+        "fonte": "https://www.saopaulo.sp.leg.br/blog/comissao-de-financas-colegiado-debate-em-audiencia-os-impactos-da-escala-de-trabalho-6x1/",
+        "nota": "Coautora do PL 10/2025 na Câmara de SP pelo fim da escala 6x1, que chamou de desumana em audiência de abril de 2026; programa estadual repete a proposta."
+      },
+      "SPDE04": {
+        "v": 4,
+        "conf": "declaracao",
+        "fonte": "https://keitlima.com.br/wp-content/uploads/2026/09/Propostas-Keit-Lima.pdf",
+        "nota": "Programa de 2026 propõe implantar de forma gradual a tarifa zero no Metrô e na CPTM, priorizando populações vulneráveis."
+      }
+    }
+  },
+  {
+    "id": 250002545143,
+    "nomeUrna": "AMANDA GANEM",
+    "resumo": "Natural de Indaiatuba, mantém perfis nas redes voltados a pacientes com fibromialgia e câncer. Foi candidata a deputada federal por Minas em 2022; disputa a Alesp pelo Podemos.",
+    "bandeiras": [
+      "Pacientes com fibromialgia",
+      "Pacientes com câncer"
+    ],
+    "posicoes": {}
+  },
+  {
+    "id": 250002540575,
+    "nomeUrna": "EVERTON FERREIRA",
+    "resumo": "Vereador de Limeira em segundo mandato e presidente da Câmara Municipal, formado em Gestão com MBAs em gestão de saúde. Candidato a deputado estadual pelo PSD.",
+    "bandeiras": [
+      "Representação de Limeira e região",
+      "Saúde",
+      "Segurança e educação"
+    ],
+    "posicoes": {}
+  },
+  {
+    "id": 250002536835,
+    "nomeUrna": "ESTHER MORAES",
+    "resumo": "Advogada e vereadora de Santa Bárbara d'Oeste em segundo mandato, cofundadora de uma cooperativa de reciclagem. Candidata a deputada estadual pelo PV.",
+    "bandeiras": [
+      "Mulheres",
+      "Meio ambiente e reciclagem",
+      "Moradia e juventude"
+    ],
+    "posicoes": {}
+  },
+  {
+    "id": 250002536361,
+    "nomeUrna": "RODRIGO ASHIUCHI",
+    "resumo": "Engenheiro, foi prefeito de Suzano por dois mandatos (2017 a 2024) e presidiu o consórcio Condemat+; depois passou pela Secretaria do Verde da capital. Candidato a deputado estadual pelo PL.",
+    "bandeiras": [
+      "Municípios do Alto Tietê",
+      "Apoio ao governo Tarcísio na Alesp"
+    ],
+    "posicoes": {}
+  },
+  {
+    "id": 250002534255,
+    "nomeUrna": "GEORGE HATO",
+    "resumo": "Médico e vereador de São Paulo pelo MDB, com atuação em saúde e prevenção de doenças pelo esporte. Candidato a deputado estadual.",
+    "bandeiras": [
+      "Saúde",
+      "Esporte e prevenção",
+      "Alimentação saudável nas escolas"
+    ],
+    "posicoes": {
+      "G03": {
+        "v": 4,
+        "conf": "voto",
+        "fonte": "https://www.cnnbrasil.com.br/politica/privatizacao-da-sabesp-saiba-como-votaram-os-vereadores-de-sao-paulo/",
+        "nota": "Na Câmara Municipal de SP, votou a favor da adesão da capital à privatização da Sabesp em 02/05/2024; placar 37 a 17."
+      }
+    }
+  },
+  {
+    "id": 250002534204,
+    "nomeUrna": "PRADO",
+    "resumo": "Empresário, foi prefeito de Lençóis Paulista por dois mandatos (2017 a 2024) e secretário de Habitação de Bauru. Candidato a deputado estadual pelo MDB.",
+    "bandeiras": [],
+    "posicoes": {}
+  },
+  {
+    "id": 250002533754,
+    "nomeUrna": "FUINHA ROBSON CALABIANQUI",
+    "resumo": "Empresário e criador de conteúdo no YouTube (canal Fuinha), foi candidato a deputado federal em 2018 e 2022. Candidato a deputado estadual pelo União Brasil.",
+    "bandeiras": [],
+    "posicoes": {}
+  },
+  {
+    "id": 250002533761,
+    "nomeUrna": "ALEXANDRE LEITE",
+    "resumo": "Deputado federal por SP desde 2011 (União), licenciado desde 2025 para chefiar a Secretaria estadual de Relações Institucionais. Disputa vaga na Alesp.",
+    "bandeiras": [
+      "Fortalecimento dos municípios",
+      "Serviços públicos nas periferias"
+    ],
+    "posicoes": {
+      "G07": {
+        "v": 2,
+        "conf": "voto",
+        "fonte": "https://dadosabertos.camara.leg.br/api/v2/votacoes/17338-321/votos",
+        "nota": "Em 24/05/2011 votou Sim à Emenda 164 do Código Florestal (atividade agropecuária em APPs) e Sim ao texto-base do novo Código."
+      }
+    }
+  },
+  {
+    "id": 250002545207,
+    "nomeUrna": "FABIO FARIA DE SÁ",
+    "resumo": "Deputado estadual (Podemos) desde janeiro de 2025, quando assumiu como suplente; 3º vice-presidente da Alesp e presidente do Instituto Arnaldo Faria de Sá.",
+    "bandeiras": [
+      "Direitos dos idosos",
+      "Proteção social"
+    ],
+    "posicoes": {}
+  },
+  {
+    "id": 250002536424,
+    "nomeUrna": "MARCELO AGUIAR",
+    "resumo": "Cantor gospel, ex-vereador de SP e ex-deputado federal (2011 a 2019). Deputado estadual desde janeiro de 2025 como suplente; hoje no PL.",
+    "bandeiras": [],
+    "posicoes": {
+      "G07": {
+        "v": 2,
+        "conf": "voto",
+        "fonte": "https://dadosabertos.camara.leg.br/api/v2/votacoes/17338-321/votos",
+        "nota": "Em 24/05/2011 votou Sim à Emenda 164 do Código Florestal (atividade agropecuária em APPs) e Sim ao texto-base do novo Código."
+      }
+    }
+  },
+  {
+    "id": 250002545188,
+    "nomeUrna": "IVAN SILVA",
+    "resumo": "Vereador de São Bernardo do Campo (Podemos) no terceiro mandato, eleito em 2016, 2020 e 2024; já foi secretário de Governo da cidade. Primeira disputa pela Alesp.",
+    "bandeiras": [
+      "Segurança e desenvolvimento dos bairros",
+      "Representação de São Bernardo na Alesp"
+    ],
+    "posicoes": {}
+  },
+  {
+    "id": 250002536852,
+    "nomeUrna": "MARIA PAULA",
+    "resumo": "Advogada e vereadora de Araraquara (PT) desde 2025, no primeiro mandato, eleita em 2024. Atua em educação, direitos das mulheres e juventude.",
+    "bandeiras": [
+      "Educação",
+      "Direitos das mulheres",
+      "Juventude"
+    ],
+    "posicoes": {}
+  },
+  {
+    "id": 250002536237,
+    "nomeUrna": "CAMPOS",
+    "resumo": "Francisco José Campos Rodrigues, aposentado nascido em Fortaleza (CE). Candidato a deputado estadual pelo PT, sem candidatura anterior no histórico do lote.",
+    "bandeiras": [],
+    "posicoes": {}
+  },
+  {
+    "id": 250002540561,
+    "nomeUrna": "BRUNA PERISSINOTTO",
+    "resumo": "Advogada, primeira-dama de Rio Claro e ex-presidente do Fundo Social de Solidariedade da cidade. Primeira candidatura, pelo PSD.",
+    "bandeiras": [
+      "Proteção a mulheres vítimas de violência",
+      "Apoio a mães atípicas",
+      "Acesso a exames e especialidades na saúde"
+    ],
+    "posicoes": {}
+  },
+  {
+    "id": 250002534251,
+    "nomeUrna": "REGINA NUNES",
+    "resumo": "Primeira-dama da cidade de São Paulo, casada com o prefeito Ricardo Nunes. Primeira candidatura, pelo MDB, com foco na causa animal.",
+    "bandeiras": [
+      "Proteção animal e hospitais veterinários públicos",
+      "Pessoas com deficiência",
+      "Mulheres e crianças"
+    ],
+    "posicoes": {
+      "G12": {
+        "v": 4,
+        "conf": "declaracao",
+        "fonte": "https://www.gazetadopovo.com.br/sao-paulo/primeira-dama-cidade-sao-paulo-regina-nunes-fim-maioridade-penal-disputar-cargo-deputada/",
+        "nota": "À Gazeta do Povo (10/02/2026) defendeu reduzir a maioridade penal: 'Se cometeram um crime, têm que pagar'."
+      }
+    }
+  },
+  {
+    "id": 250002538929,
+    "nomeUrna": "MARIANA CONTI",
+    "resumo": "Socióloga e vereadora de Campinas (PSOL), a mais votada da cidade em 2020 e 2024. Integrou a Global Sumud Flotilla rumo a Gaza.",
+    "bandeiras": [
+      "Fim da escala 6x1",
+      "Reestatização da Sabesp e contra pedágios",
+      "Direitos das mulheres"
+    ],
+    "posicoes": {
+      "G14": {
+        "v": 4,
+        "conf": "declaracao",
+        "fonte": "https://marianaconti50100.com.br/",
+        "nota": "Site de campanha 2026 diz que ela defende o fim da escala 6x1."
+      },
+      "G03": {
+        "v": 2,
+        "conf": "declaracao",
+        "fonte": "https://marianaconti50100.com.br/",
+        "nota": "Site de campanha 2026 defende a reestatização da Sabesp e se opõe à privatização do HC da Unicamp."
+      }
+    }
+  },
+  {
+    "id": 250002541906,
+    "nomeUrna": "HIGOR DIEGO",
+    "resumo": "Vereador de Campinas (Republicanos), eleito em 2020 e 2024, e secretário-geral do partido na cidade. Foi suplente a deputado estadual em 2022.",
+    "bandeiras": [
+      "Segurança pública com uso de tecnologia",
+      "Educação e ensino técnico (Etecs e Fatecs)",
+      "Saúde"
+    ],
+    "posicoes": {}
+  },
+  {
+    "id": 250002536382,
+    "nomeUrna": "DELEGADO SANDRO MONTANARI",
+    "resumo": "Delegado seccional de Bragança Paulista e presidente do PL na cidade. Primeira candidatura, pelo PL, com base na Região Bragantina.",
+    "bandeiras": [
+      "Segurança pública",
+      "Proteção à mulher",
+      "Mais recursos para a Região Bragantina"
+    ],
+    "posicoes": {
+      "SPDE02": {
+        "v": 4,
+        "conf": "declaracao",
+        "fonte": "https://www.delegadosandromontanari.com.br/",
+        "nota": "Site de campanha 2026 propõe 'melhores salários, plano de carreira justo' para os profissionais da educação."
+      },
+      "SPDE03": {
+        "v": 4,
+        "conf": "declaracao",
+        "fonte": "https://www.delegadosandromontanari.com.br/",
+        "nota": "Site de campanha 2026 propõe pôr a Região Bragantina 'no centro das decisões do Estado, garantindo mais recursos' aos municípios."
+      }
+    }
+  },
+  {
+    "id": 250002540590,
+    "nomeUrna": "DELEGADA JÚLIA NUNES",
+    "resumo": "Delegada de polícia e vereadora de Itapetininga (PSD) desde 2025; preside o PSD na cidade. Primeira disputa pela Alesp.",
+    "bandeiras": [
+      "Crianças, idosos e pessoas com deficiência",
+      "Proteção animal"
+    ],
+    "posicoes": {}
+  },
+  {
+    "id": 250002539299,
+    "nomeUrna": "MARINA BRAGANTE",
+    "resumo": "Psicóloga e gestora pública, vereadora de São Paulo desde 2025, eleita pela Rede em 2024. Hoje no PSB; autora da Lei das Vagas Verdes.",
+    "bandeiras": [
+      "Adaptação das cidades à emergência climática",
+      "Primeira infância e cuidado",
+      "Políticas para mulheres"
+    ],
+    "posicoes": {}
+  },
+  {
+    "id": 250002536821,
+    "nomeUrna": "GUSTAVO PETTA",
+    "resumo": "Advogado, ex-presidente da UNE (2003 a 2007) e vereador de Campinas (PCdoB) em quatro mandatos. Exerceu mandato de deputado federal como suplente em 2014.",
+    "bandeiras": [
+      "Educação pública e universidades",
+      "Fim da escala 6x1",
+      "Tarifa zero no transporte público"
+    ],
+    "posicoes": {
+      "G14": {
+        "v": 4,
+        "conf": "declaracao",
+        "fonte": "https://gustavopetta.com.br/",
+        "nota": "Site de campanha 2026 diz que ele vai 'lutar pela educação, pelo fim da escala 6x1 e pela tarifa zero no transporte público'."
+      },
+      "SPDE04": {
+        "v": 4,
+        "conf": "declaracao",
+        "fonte": "https://gustavopetta.com.br/",
+        "nota": "Site de campanha à Alesp (2026) defende a tarifa zero no transporte público."
+      },
+      "G03": {
+        "v": 2,
+        "conf": "declaracao",
+        "fonte": "https://www.portalporque.com.br/campinas/gustavo-petta-aposta-na-experiencia-politica-e-na-defesa-da-educacao-para-voltar-a-alesp/",
+        "nota": "Em 07/07/2026 disse que água, saneamento, energia e transporte não podem ser tratados só como mercadoria; site critica a venda da Sabesp."
+      }
+    }
+  },
+  {
+    "id": 250002540891,
+    "nomeUrna": "MONICA ROSENBERG",
+    "resumo": "Advogada, cofundadora do Instituto Não Aceito Corrupção e ex-secretária de Governança Institucional da OAB-SP. Foi candidata a deputada federal pelo Novo em 2018 e 2022; hoje no PSD.",
+    "bandeiras": [
+      "Combate à corrupção",
+      "Agência estadual antimáfia",
+      "Redução da burocracia"
+    ],
+    "posicoes": {}
+  },
+  {
+    "id": 250002536344,
+    "nomeUrna": "CAPITÃO MOSART",
+    "resumo": "Militar reformado do Exército, foi assessor especial da Presidência da República de 2019 a 2022, no governo Bolsonaro. Suplente a deputado federal em 2022; candidato pelo PL.",
+    "bandeiras": [
+      "Valores cristãos e da família",
+      "Armas para o cidadão e fortalecimento das polícias",
+      "Livre mercado e menos impostos"
+    ],
+    "posicoes": {
+      "G04": {
+        "v": 4,
+        "conf": "declaracao",
+        "fonte": "https://capitaomosart.com.br/",
+        "nota": "Site de campanha 2026 tem como bandeira 'Cidadão de bem armado e protegido, criminoso na cadeia' e o direito à legítima defesa."
+      },
+      "G13": {
+        "v": 4,
+        "conf": "declaracao",
+        "fonte": "https://capitaomosart.com.br/",
+        "nota": "Site de campanha 2026 lista entre as bandeiras do mandato a 'preservação dos valores cristãos e da família'."
+      },
+      "G01": {
+        "v": 4,
+        "conf": "declaracao",
+        "fonte": "https://capitaomosart.com.br/",
+        "nota": "Site de campanha 2026 defende que 'o Estado deve sair das costas de quem produz' e a redução da carga tributária."
+      }
+    }
+  },
+  {
+    "id": 250002533806,
+    "nomeUrna": "TONINHO MITTRAS",
+    "resumo": "Antonio Carlos da Silva, empresário de Ferraz de Vasconcelos. Foi candidato a vereador na cidade em 2008; disputa a Alesp pelo União.",
+    "bandeiras": [],
+    "posicoes": {}
+  },
+  {
+    "id": 250002534155,
+    "nomeUrna": "FLÁVIA RESENDE",
+    "resumo": "Advogada de Fernandópolis, especialista em gestão pública. Foi candidata a vice-prefeita da cidade em 2024; disputa a Alesp pelo PRD.",
+    "bandeiras": [
+      "Defesa das mulheres",
+      "Desenvolvimento da região Noroeste Paulista"
+    ],
+    "posicoes": {}
+  },
+  {
+    "id": 250002539937,
+    "nomeUrna": "DÉBORA CAMILO",
+    "resumo": "Advogada popular e vereadora de Santos (PSOL) no segundo mandato, eleita em 2020 e a mais votada da cidade em 2024.",
+    "bandeiras": [
+      "Fim da escala 6x1",
+      "Tarifa zero no transporte",
+      "Luta antirracista e defesa das mulheres"
+    ],
+    "posicoes": {
+      "G14": {
+        "v": 5,
+        "conf": "declaracao",
+        "fonte": "https://debora50500.com.br/",
+        "nota": "Site de campanha 2026: 'Fim da escala 6x1 já!'. O site do mandato (deborapsol.com.br) propõe 40 horas e duas folgas para terceirizados de Santos."
+      },
+      "G03": {
+        "v": 2,
+        "conf": "declaracao",
+        "fonte": "https://debora50500.com.br/",
+        "nota": "Site de campanha 2026 se diz contra as privatizações, com o lema 'Educação pública sim! Privatização, nunca'."
+      },
+      "G11": {
+        "v": 4,
+        "conf": "declaracao",
+        "fonte": "https://debora50500.com.br/",
+        "nota": "Site de campanha 2026 traz a bandeira 'Em defesa das cotas raciais e pelo fim da violência ao povo negro'."
+      },
+      "SPDE04": {
+        "v": 4,
+        "conf": "declaracao",
+        "fonte": "https://debora50500.com.br/",
+        "nota": "Site de campanha à Alesp (2026) defende 'a urgência da tarifa zero' no transporte público."
+      }
+    }
+  },
+  {
+    "id": 250002533784,
+    "nomeUrna": "EDILENE LURA",
+    "resumo": "Professora e instrutora, foi candidata a vereadora de São Paulo em 2024 (suplente). Disputa a Alesp pelo União.",
+    "bandeiras": [],
+    "posicoes": {}
+  },
+  {
+    "id": 250002536427,
+    "nomeUrna": "GILMARA GONÇALVES",
+    "resumo": "Jornalista, foi vice-prefeita de Carapicuíba em dois mandatos (2017 a 2024) e secretária de Desenvolvimento Econômico da cidade. Candidata pelo PL.",
+    "bandeiras": [
+      "Representação feminina de Carapicuíba",
+      "Demandas da Região Oeste",
+      "Segurança pública regional"
+    ],
+    "posicoes": {}
+  },
+  {
+    "id": 250002540911,
+    "nomeUrna": "THAMMY MIRANDA",
+    "resumo": "Ator e vereador de São Paulo desde 2021, reeleito em 2024; filiado ao PSD desde 2024. Autor da lei municipal de auxílio-aluguel para mulheres vítimas de violência.",
+    "bandeiras": [
+      "Direitos das mulheres",
+      "Pessoas com deficiência e inclusão",
+      "Esporte e educação"
+    ],
+    "posicoes": {
+      "G03": {
+        "v": 4,
+        "conf": "voto",
+        "fonte": "https://www.cartacapital.com.br/carta-capital/37-a-17-confira-como-votou-cada-vereador-de-sao-paulo-sobre-a-privatizacao-da-sabesp/",
+        "nota": "Na Câmara de SP votou Sim à adesão da capital ao contrato da Sabesp privatizada (aprovada por 37 x 17 em 02/05/2024)."
+      }
+    }
+  },
+  {
+    "id": 250002536368,
+    "nomeUrna": "RENAN PAES",
+    "resumo": "Policial militar e vereador de Piracicaba (PL) desde 2025, no primeiro mandato. Disputa a Alesp pelo PL.",
+    "bandeiras": [],
+    "posicoes": {
+      "G08": {
+        "v": 5,
+        "conf": "declaracao",
+        "fonte": "https://www.camarapiracicaba.sp.gov.br/camara-aprova-mocao-de-apoio-a-anistia-aos-manifestantes-de-81-67037",
+        "nota": "Coautor da moção 66/2025 de apoio à anistia do 8/1 (03/04/2025); disse que 'o país não está andando porque ainda não foi aprovada a anistia'."
+      }
+    }
+  },
+  {
+    "id": 250002533809,
+    "nomeUrna": "DOUGLAS GARCIA",
+    "resumo": "Ex-deputado estadual de SP (2019 a 2023), eleito pelo PSL, e ex-líder do movimento Direita São Paulo. Suplente a vereador da capital em 2024; hoje no União.",
+    "bandeiras": [],
+    "posicoes": {
+      "G04": {
+        "v": 4,
+        "conf": "declaracao",
+        "fonte": "https://exame.com/brasil/o-brasil-nao-e-homofobico-diz-deputado-gay-do-psl-acusado-de-transfobia/",
+        "nota": "À Exame (05/04/2019) disse 'apoio o porte de arma' e 'legítima defesa para todos'; em 2026 a imprensa o descreve como contrário ao desarmamento."
+      },
+      "G03": {
+        "v": 3,
+        "conf": "voto",
+        "fonte": "https://www.al.sp.gov.br/repositorio/ementario/votacoes/20201014-001001-ID_SESSAO=14325-PDF.pdf",
+        "nota": "Na Alesp, votou Sim no PL 1/2019 e na extinção da Dersa (2019), e Não no PL 529/2020, que extinguiu estatais. Posição mista."
+      }
+    }
+  },
+  {
+    "id": 250002536360,
+    "nomeUrna": "MALU FERNANDES",
+    "resumo": "Vereadora de Mogi das Cruzes (PL) no segundo mandato, a mais votada do Alto Tietê em 2024. Mestre em gestão e políticas públicas pela FGV.",
+    "bandeiras": [
+      "Saúde da mulher",
+      "Combate à violência contra a mulher",
+      "Emprego e empreendedorismo"
+    ],
+    "posicoes": {}
+  },
+  {
+    "id": 250002540892,
+    "nomeUrna": "ALESSANDRO DO CPP",
+    "resumo": "Advogado e pedagogo, diretor-geral administrativo do Centro do Professorado Paulista (CPP), onde atua desde 1998. Primeira candidatura, pelo PSD.",
+    "bandeiras": [
+      "Combate à violência nas escolas e revisão do ECA",
+      "Valorização e remuneração dos professores",
+      "Redução da jornada docente sem perda salarial"
+    ],
+    "posicoes": {
+      "SPDE02": {
+        "v": 4,
+        "conf": "declaracao",
+        "fonte": "https://alessandrodocpp.com.br/",
+        "nota": "Site de campanha 2026 tem entre os compromissos a 'valorização dos professores, com melhores condições de trabalho e remuneração'."
+      }
+    }
+  },
+  {
+    "id": 250002533735,
+    "nomeUrna": "EDSON GIRIBONI",
+    "resumo": "Engenheiro de Itapetininga, deputado estadual desde 2007 com intervalos; assumiu de novo em janeiro de 2025 como suplente pelo União. Foi secretário estadual de Saneamento (2011 a 2014).",
+    "bandeiras": [
+      "Duplicação da Rodovia Raposo Tavares",
+      "Campus da Unesp na região de Itapetininga"
+    ],
+    "posicoes": {}
+  },
+  {
+    "id": 250002534135,
+    "nomeUrna": "ALAN LEAL",
+    "resumo": "Advogado especialista em direito dos animais e vereador de Sumaré no segundo mandato, eleito em 2020 e 2024. Disputa a Alesp pelo PRD.",
+    "bandeiras": [
+      "Proteção animal e combate aos maus-tratos",
+      "Esporte como transformação social"
+    ],
+    "posicoes": {}
+  },
+  {
+    "id": 250002534269,
+    "nomeUrna": "REINALDO ALGUZ",
+    "resumo": "Engenheiro, foi deputado estadual por três mandatos (2011 a 2023), então pelo PV. Suplente a deputado federal em 2022; hoje no MDB.",
+    "bandeiras": [
+      "Reativação da malha ferroviária paulista"
+    ],
+    "posicoes": {
+      "G03": {
+        "v": 4,
+        "conf": "voto",
+        "fonte": "https://www.al.sp.gov.br/repositorio/ementario/votacoes/20190515-211755-ID_SESSAO=13721-PDF.pdf",
+        "nota": "Na Alesp, votou Sim na desestatização do PL 1/2019 (15/05/2019) e no PL 529/2020, que extinguiu estatais."
+      }
+    }
+  },
+  {
+    "id": 250002534207,
+    "nomeUrna": "PR ANDRE BUENO",
+    "resumo": "Empresário e pastor da Assembleia de Deus, de Osasco. Assumiu como suplente vaga na Alesp na legislatura 2023 a 2027, então pelo PL; hoje no MDB.",
+    "bandeiras": [
+      "Combate à violência contra a mulher",
+      "Direitos de crianças e adolescentes"
+    ],
+    "posicoes": {}
+  },
+  {
+    "id": 250002536833,
+    "nomeUrna": "DUDA HIDALGO",
+    "resumo": "Advogada e vereadora de Ribeirão Preto (PT) no segundo mandato, eleita em 2020 e 2024; primeira parlamentar abertamente LGBT da Câmara da cidade. Suplente a deputada estadual em 2022.",
+    "bandeiras": [],
+    "posicoes": {}
+  },
+  {
+    "id": 250002536269,
+    "nomeUrna": "JESSY DAYANE",
+    "resumo": "Advogada nascida em Sergipe, ex-vice-presidente da UNE (2017 a 2019), ligada ao Levante Popular da Juventude e ao MST; trabalhou na Secretaria-Geral da Presidência. Primeira candidatura, pelo PT.",
+    "bandeiras": [
+      "Agroecologia e reforma agrária",
+      "Direitos das mulheres e fim do feminicídio",
+      "Moradia e direito à cidade"
+    ],
+    "posicoes": {
+      "G03": {
+        "v": 2,
+        "conf": "declaracao",
+        "fonte": "https://tvtnews.com.br/jessy-dayane-reforma-agraria-privatizacoes-tvt-news/",
+        "nota": "À TVT (23/07/2026) disse que 'as privatizações não beneficiam o povo' e criticou os serviços da Sabesp e das linhas privatizadas da CPTM."
+      }
+    }
+  },
+  {
+    "id": 250002540921,
+    "nomeUrna": "PAULA LEMOS",
+    "resumo": "Advogada, foi prefeita de Barretos (2021 a 2024) e vereadora da cidade por dois mandatos. Disputa a Alesp pelo PSD.",
+    "bandeiras": [],
+    "posicoes": {}
+  },
+  {
+    "id": 250002536377,
+    "nomeUrna": "FRANCO SARDELLI",
+    "resumo": "Advogado de Americana, filho do prefeito Chico Sardelli. Primeira candidatura, pelo PL, com foco nas cidades da região de Americana e do interior.",
+    "bandeiras": [
+      "Demandas das cidades do interior",
+      "Saúde, segurança e infraestrutura"
+    ],
+    "posicoes": {}
+  },
+  {
+    "id": 250002548912,
+    "nomeUrna": "POLICIAL RODOLFO DONETTI",
+    "resumo": "Policial militar e vereador de Santo André desde 2017, no terceiro mandato; 1º secretário da Câmara (2025 e 2026). Disputa a Alesp pelo Cidadania.",
+    "bandeiras": [
+      "Segurança pública",
+      "Valorização da família",
+      "Trabalho social"
+    ],
+    "posicoes": {}
+  },
+  {
+    "id": 250002540581,
+    "nomeUrna": "TRIPOLI",
+    "resumo": "Advogado ambientalista, foi deputado estadual (1991 a 2007), secretário estadual do Meio Ambiente (1999 a 2002) e deputado federal (2007 a 2019). Autor do Código Estadual de Proteção aos Animais; hoje no PSD.",
+    "bandeiras": [
+      "Proteção animal",
+      "Meio ambiente"
+    ],
+    "posicoes": {
+      "G07": {
+        "v": 4,
+        "conf": "voto",
+        "fonte": "https://dadosabertos.camara.leg.br/api/v2/votacoes/17338-321/votos",
+        "nota": "Em 24/05/2011 votou Não à Emenda 164 do Código Florestal (atividade agropecuária em APPs) e Não ao texto-base do novo Código."
+      }
+    }
+  }
+]

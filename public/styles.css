@@ -240,3 +240,16 @@ footer.rodape { font-size: 13px; color: var(--muted); border-top: 1px solid var(
 .sem-pos ul { margin: 6px 0 0; padding-left: 18px; }
 .vazio-bib { padding: 16px; color: var(--muted); }
 .lista-todos .linha > span:last-child { text-align: right; }
+
+/* Escolha de estado */
+.estados { display: grid; grid-template-columns: repeat(auto-fit, minmax(200px, 1fr)); gap: 12px; }
+.estado-btn { display: flex; align-items: center; gap: 14px; text-align: left; border: 1px solid var(--line); background: var(--card); border-radius: 12px; padding: 18px; cursor: pointer; min-height: 72px; }
+.estado-btn:hover { border-color: var(--ink); }
+.estado-btn.atual { border-color: var(--confirma); box-shadow: 0 0 0 2px var(--confirma) inset; }
+.estado-btn .uf { font-family: var(--mono); font-weight: 700; font-size: 22px; background: var(--key); color: var(--key-ink); border-radius: 6px; padding: 6px 10px; letter-spacing: 0.08em; }
+.estado-btn .nome { font-family: var(--display); font-weight: 700; font-size: 20px; }
+.estado-atual { display: flex; align-items: center; justify-content: space-between; gap: 10px; flex-wrap: wrap; background: var(--card); border: 1px solid var(--line); border-radius: 8px; padding: 8px 14px; }
+
+/* Ícones nos links de redes */
+.redes a { display: inline-flex; align-items: center; gap: 6px; }
+.redes .icone { flex: none; }

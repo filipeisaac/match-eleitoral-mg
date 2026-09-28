@@ -1,0 +1,204 @@
+{
+  "SPGV01": {
+    "situacao": "O controle da Sabesp passou à iniciativa privada em 23/07/2024, com a venda de 32% das ações por cerca de R$ 14,8 bilhões; o Grupo Equatorial ficou com 15% e o estado manteve uma fatia menor da empresa. As linhas 11, 12 e 13 da CPTM foram concedidas à Trivia Trens, que assumiu a operação em 21/07/2026. Após uma série de falhas, o governo e a Artesp determinaram em 23/07/2026 que a CPTM voltasse a operar essas linhas por até 90 dias, com retorno da concessionária previsto para o fim de outubro.",
+    "aFavor": [
+      "Empresas privadas têm mais liberdade para investir e contratar. Com contratos que fixam metas, como a de universalizar o saneamento até 2029, o serviço pode melhorar e chegar a mais gente.",
+      "O dinheiro das vendas e o investimento feito pelas empresas liberam o orçamento do estado para áreas que só o governo atende, como saúde, educação e segurança.",
+      "O governo passa a fiscalizar em vez de operar. Por meio das agências reguladoras, pode cobrar metas e multar a empresa que prestar serviço ruim."
+    ],
+    "contra": [
+      "Água, trens e estradas são serviços essenciais. Uma empresa privada busca lucro e pode subir tarifas ou investir menos em áreas que dão pouco retorno.",
+      "A troca de operador pode trazer falhas para quem usa o serviço todo dia, como ocorreu nas linhas 11, 12 e 13 da CPTM em julho de 2026, e desfazer um contrato longo é difícil e caro.",
+      "Estatais que dão lucro rendem dividendos ao estado todo ano. Ao vendê-las, o governo recebe uma única vez e perde parte do controle sobre prioridades e preços."
+    ],
+    "fontes": [
+      "https://www.equatorialenergia.com.br/governo-de-sao-paulo-conclui-privatizacao-da-sabesp-e-grupo-equatorial-se-torna-investidor-de-referencia/",
+      "https://www.aguaesaneamento.org.br/en/news/um-ano-de-privatizacao-da-sabesp-em-6-pontos/",
+      "https://viatrolebus.com.br/2026/07/linhas-11-12-e-13-devem-voltar-para-a-cptm/",
+      "https://www.metrocptm.com.br/volta-da-trivia-trens-as-linhas-11-12-e-13-sera-faseada-diz-governo/"
+    ]
+  },
+  "SPGV02": {
+    "situacao": "A PM paulista começou a usar câmeras corporais em 2020, com gravação contínua durante o turno. Em 2024 o governo contratou um novo modelo, em que a gravação é acionada pelo policial ou pela central. Em 09/05/2025 o STF homologou um acordo com a Defensoria Pública que prevê 15 mil câmeras, acionamento remoto e automático e religamento em até um minuto se o policial interromper a gravação. Em abril de 2026 a PM tinha 14.064 câmeras em 112 unidades.",
+    "aFavor": [
+      "Com a gravação contínua, nenhum momento do serviço fica sem registro. Isso não depende de o policial ou a central lembrarem de ligar a câmera em uma situação tensa.",
+      "Pesquisas feitas em São Paulo associaram as câmeras com gravação ininterrupta a menos mortes em ações policiais e a menos policiais feridos.",
+      "As imagens servem de prova para todos os lados: protegem o cidadão contra abusos e o policial contra acusações falsas, e ajudam a Justiça a esclarecer os casos."
+    ],
+    "contra": [
+      "Gravar todo o turno gera um volume enorme de vídeos, com alto custo de armazenamento. A gravação por acionamento permite ter mais câmeras e cobrir mais policiais com o mesmo dinheiro.",
+      "O policial passa horas em pausas, refeições e conversas reservadas. Gravar tudo expõe a privacidade dele e de pessoas que não têm relação com nenhuma ocorrência.",
+      "O modelo atual já liga a câmera à distância e automaticamente quando há ocorrência, e religa se o policial desligar. Assim, as situações relevantes continuam registradas."
+    ],
+    "fontes": [
+      "https://www.conjur.com.br/2025-mai-09/stf-homologa-acordo-que-amplia-uso-de-cameras-corporais-na-pm-de-sao-paulo/",
+      "https://www.cnnbrasil.com.br/nacional/sudeste/sp/veja-o-que-muda-apos-acordo-para-uso-de-cameras-corporais-da-pm-em-sp/",
+      "https://agenciabrasil.ebc.com.br/justica/noticia/2025-02/policia-de-sp-apresenta-novo-sistema-de-cameras-corporais-ao-stf"
+    ]
+  },
+  "SPGV03": {
+    "situacao": "A Operação Escudo (julho a setembro de 2023) e a Operação Verão (dezembro de 2023 a abril de 2024), na Baixada Santista, deixaram 84 mortos, segundo levantamentos de entidades de direitos humanos. O governo informa que elas resultaram em mais de 2 mil prisões e na apreensão de armas e drogas. A Defensoria Pública e a ONG Conectas levaram denúncias sobre as mortes à Comissão Interamericana de Direitos Humanos. No 1º trimestre de 2026, a polícia matou 28 pessoas na Baixada Santista, ante 12 no mesmo período de 2025, segundo dados da Secretaria da Segurança Pública.",
+    "aFavor": [
+      "Facções controlam áreas e rotas do tráfico, sobretudo perto do Porto de Santos. Ações grandes e concentradas conseguem prender foragidos e apreender armas e drogas em pouco tempo.",
+      "Uma resposta forte, depois de ataques a policiais, mostra que o Estado não aceita ser desafiado e pode desestimular novos crimes contra agentes públicos.",
+      "Os casos de morte são investigados pela própria polícia, pelo Ministério Público e pela Justiça. Eventuais abusos podem ser punidos sem abandonar a estratégia."
+    ],
+    "contra": [
+      "O número de mortos foi alto, e há denúncias de execuções e de alteração de cenas de crime. Isso põe em risco moradores sem ligação com o crime e afasta a população da polícia.",
+      "Operações temporárias não desmontam o crime organizado. Para isso seria preciso investigação, inteligência e ataque ao dinheiro das facções, que funcionam depois que a operação acaba.",
+      "Ações com muitas mortes geram processos, indenizações e denúncias em órgãos internacionais, e também expõem policiais a mais riscos."
+    ],
+    "fontes": [
+      "https://agenciabrasil.ebc.com.br/geral/noticia/2024-04/baixada-santista-apos-56-mortes-governo-de-sp-encerra-operacao-verao",
+      "https://www.dgabc.com.br/Noticia/4338110/operacao-na-baixada-santista-apos-morte-de-soldado-da-rota-teve-letalidade-seletiva-",
+      "https://www.brasildefato.com.br/2026/05/07/letalidade-policial-piora-em-sp-puxada-por-mortes-na-baixada-santista-com-operacao-verao/",
+      "https://conectas.org/en/noticias/operation-shield-summer-a-year-of-violence-and-lethality/"
+    ]
+  },
+  "SPGV04": {
+    "situacao": "A Lei Complementar 1.398, de maio de 2024, criou o Programa Escola Cívico-Militar na rede estadual. Nesse modelo, policiais militares da reserva atuam como monitores de disciplina e civismo, e os professores civis cuidam das aulas. Após consultas às comunidades escolares, 100 escolas em 89 municípios começaram a funcionar no modelo em 02/02/2026. A lei é questionada no STF (ADIs 7.662 e 7.675): o relator votou por mantê-la com limites, e o julgamento foi suspenso por pedido de vista em 26/05/2026.",
+    "aFavor": [
+      "Escolas com mais disciplina e regras claras têm menos casos de violência e indisciplina, o que dá mais tempo e tranquilidade para o professor ensinar.",
+      "A adesão depende de consulta à comunidade escolar. Se pais e alunos querem esse modelo, o estado deve oferecê-lo em mais escolas.",
+      "O modelo valoriza pontualidade, respeito e civismo, e parte das famílias o associa às escolas militares, que costumam ter bons resultados em avaliações."
+    ],
+    "contra": [
+      "Os bons resultados das escolas militares vêm de seleção de alunos e mais verba por estudante. Não há evidência de que só a presença de monitores militares melhore o aprendizado.",
+      "Policiais não têm formação em educação. O dinheiro pago a eles poderia ir para professores, psicólogos e estrutura das escolas, que atendem todos os alunos.",
+      "A escola pública deve ensinar a pensar com autonomia e respeitar a diversidade. Uma disciplina de inspiração militar pode restringir a expressão dos alunos e excluir quem não se adapta."
+    ],
+    "fontes": [
+      "https://www.conjur.com.br/2026-mai-26/stf-suspende-julgamento-sobre-escolas-civico-militares-de-sp/",
+      "https://apublica.org/2026/04/escola-nao-e-quartel-os-primeiros-dias-de-uma-escola-civico-militar-em-sp/",
+      "https://agenciabrasil.ebc.com.br/educacao/noticia/2024-11/governo-de-sp-adia-para-2026-implementacao-de-escolas-civico-militares"
+    ]
+  },
+  "SPGV05": {
+    "situacao": "Em 2024, São Paulo arrecadou R$ 275 bilhões em tributos, dos quais R$ 226,3 bilhões vieram do ICMS, segundo a Secretaria da Fazenda. O orçamento estadual de 2026 prevê R$ 382,3 bilhões em receitas. O IPVA de carros de passeio é de 4%, e desde 2026 motos de até 180 cilindradas de pessoas físicas estão isentas. Pela reforma tributária, o ICMS será reduzido aos poucos de 2029 a 2032 e deixará de existir em 2033, substituído pelo IBS.",
+    "aFavor": [
+      "Imposto menor barateia produtos, serviços e o custo de ter um veículo. Isso deixa mais dinheiro no bolso das famílias e ajuda empresas a investir e contratar no estado.",
+      "Com tributos mais baixos, São Paulo fica mais atraente para empresas e pode ganhar investimentos que hoje vão para outros estados, o que compensa parte da perda com mais atividade econômica.",
+      "Arrecadar menos obriga o governo a cortar desperdícios e a priorizar gastos, em vez de manter despesas que pouco beneficiam a população."
+    ],
+    "contra": [
+      "O ICMS e o IPVA pagam escolas, hospitais e polícia. Menos arrecadação pode significar menos investimento nessas áreas, que atendem sobretudo quem não pode pagar por serviços privados.",
+      "Parte do ICMS e metade do IPVA vão para as prefeituras. Um corte no imposto estadual reduz também o dinheiro das cidades para saúde, educação básica e obras.",
+      "Com a reforma tributária, o ICMS já vai acabar. Mexer agora na receita pode criar desequilíbrio nas contas durante a transição, que já traz incerteza para o estado."
+    ],
+    "fontes": [
+      "https://www.contabeis.com.br/noticias/69226/sp-bate-recorde-de-arrecadacao-com-itcmd-e-icms/",
+      "https://www.al.sp.gov.br/noticia/?16%2F12%2F2025%2Fplenario-da-alesp-aprova-orcamento-estadual-para-2026--receita-prevista-e-de-r--382-3-bilhoes-=",
+      "https://www.al.sp.gov.br/noticia/?17%2F12%2F2025%2Falesp-aprova-e-motos-de-ate-180-cilindradas-nao-pagam-mais-ipva-em-sp=",
+      "https://blog.econeteditora.com.br/ipva-sao-paulo-2026-aliquotas-regras-prazos/"
+    ]
+  },
+  "SPGV06": {
+    "situacao": "A Lei federal 13.840/2019 permite a internação involuntária de dependentes químicos a pedido da família ou de servidor da saúde ou assistência social, com autorização de um médico, por no máximo 90 dias e com aviso ao Ministério Público em até 72 horas. Na região da Cracolândia, em São Paulo, houve 168 internações involuntárias em 2023, 460 em 2024, 298 em 2025 e 66 de janeiro a março de 2026, segundo dados do estado e da prefeitura. Em 2025 a concentração de usuários na Rua dos Protestantes, que chegou a reunir até 2 mil pessoas, foi dispersada, e hoje há grupos menores espalhados pelo centro.",
+    "aFavor": [
+      "Em fases graves, o dependente pode perder a capacidade de decidir e correr risco de morte. A internação sem consentimento pode ser a única forma de protegê-lo até que volte a ter condições de escolher.",
+      "Famílias muitas vezes não têm a quem recorrer quando o parente recusa ajuda. Ampliar a oferta de vagas e o acesso ao procedimento dá a elas um caminho previsto em lei.",
+      "A lei já exige laudo médico, prazo máximo e fiscalização do Ministério Público. Com essas garantias, o recurso pode ser usado com mais frequência sem virar abuso."
+    ],
+    "contra": [
+      "Estudos mostram altas taxas de recaída depois da internação forçada. O tratamento tende a funcionar melhor quando a pessoa participa da decisão e tem acompanhamento contínuo depois.",
+      "Tirar alguém de circulação contra a vontade é uma medida extrema. Usada em larga escala, pode atingir pessoas em situação de rua por motivos sociais, e não só de saúde.",
+      "O dinheiro seria mais útil em atendimento na rua, moradia, emprego e centros de atenção psicossocial, que tratam as causas da dependência e evitam novas internações."
+    ],
+    "fontes": [
+      "https://www.planalto.gov.br/ccivil_03/_ato2019-2022/2019/lei/l13840.htm",
+      "https://www.metropoles.com/sao-paulo/internacoes-triplicaram-cracolandia",
+      "https://www.abcdoabc.com.br/hub-de-cuidados-39-mil-pessoas-cracolandia/"
+    ]
+  },
+  "SPDE01": {
+    "situacao": "A Alesp aprovou a lei que autorizou a privatização da Sabesp em 06/12/2023, por 62 votos a 1; a oposição deixou o plenário e não votou, depois de confrontos entre a polícia e manifestantes. Um projeto de resolução da oposição pedindo plebiscito (PR 48/2023) não foi votado, e sindicatos e movimentos organizaram uma consulta não oficial. A venda foi concluída em julho de 2024. Em São Paulo, vender uma estatal exige lei aprovada pela Alesp, mas não consulta à população.",
+    "aFavor": [
+      "As estatais foram construídas com dinheiro público e prestam serviços essenciais. Quem usa e paga por eles deveria ter a palavra final sobre a venda.",
+      "Uma privatização costuma ser definitiva e dura décadas. Uma decisão desse peso ganha mais legitimidade e estabilidade se for aprovada diretamente pela população.",
+      "O referendo obriga o governo a explicar a proposta ao público, com debate aberto sobre preço, tarifas e metas, antes de assinar contratos."
+    ],
+    "contra": [
+      "Os deputados foram eleitos para decidir em nome da população e podem ser cobrados na eleição seguinte. Um referendo para cada venda enfraquece esse papel.",
+      "Privatizações envolvem contratos, valores e regras técnicas difíceis de resumir em uma pergunta de sim ou não, o que abre espaço para campanhas simplificadas.",
+      "Um referendo custa caro e leva tempo. Enquanto isso, a estatal pode perder valor, e investimentos em serviços como água e transporte podem atrasar."
+    ],
+    "fontes": [
+      "https://www.brasildefato.com.br/2023/12/06/assembleia-de-sp-aprova-privatizacao-da-sabesp-com-62-votos-a-favor-e-apenas-1-contrario-em-noite-de-violencia-policial/",
+      "https://www.gazetadopovo.com.br/sao-paulo/como-votou-cada-deputado-projeto-privatizacao-sabesp/",
+      "https://votoconsciente.org.br/2023/11/30/privatizacao-da-sabesp-o-governo-a-alesp-e-o-povo/"
+    ]
+  },
+  "SPDE02": {
+    "situacao": "O piso nacional do magistério em 2026 é de R$ 5.130,63 para 40 horas semanais, com reajuste de 5,4%, 1,5 ponto acima da inflação de 2025. Em São Paulo, professores da Nova Carreira, criada em 2022, começam com cerca de R$ 5,3 mil. Para os da carreira antiga, o salário-base fica abaixo do piso, e o Decreto 70.483, de 25/03/2026, paga um abono complementar a 109,5 mil docentes, de R$ 700 em média; o abono não conta para aposentadoria nem progressão. O orçamento da Educação em 2026 é de R$ 33,3 bilhões.",
+    "aFavor": [
+      "Salário atrativo ajuda a trazer e manter bons profissionais nas salas de aula, e a qualidade do professor é um dos fatores que mais pesam no aprendizado.",
+      "Reajustes abaixo da inflação corroem o poder de compra ao longo dos anos. Aumento real recupera essa perda e valoriza uma carreira com muita desistência.",
+      "Pagar parte da remuneração em abono deixa o professor sem esse valor na aposentadoria. Aumentar o salário-base resolve isso de forma permanente."
+    ],
+    "contra": [
+      "Salário é uma despesa permanente que cresce com aposentadorias e progressões. Aumentos acima da inflação podem comprometer as contas do estado por muitos anos.",
+      "Cortar outras despesas pode tirar dinheiro de áreas que também afetam o aluno, como merenda, transporte escolar, reformas de escolas e tecnologia.",
+      "Aumentos iguais para todos não garantem melhora no ensino. Seria melhor ligar parte dos ganhos a formação, desempenho e atuação em escolas com mais dificuldades."
+    ],
+    "fontes": [
+      "https://www.gov.br/mec/pt-br/assuntos/noticias/2026/janeiro/piso-nacional-do-magisterio-e-fixado-em-r-5-1-mil",
+      "https://www.al.sp.gov.br/repositorio/legislacao/decreto/2026/decreto-70483-25.03.2026.html",
+      "https://www.pebsp.com/governo-de-sao-paulo-anuncia-reajuste-do-piso-salarial-dos-professores-por-meio-de-abono-complementar/",
+      "https://www.boqnews.com/cidades/sao-paulo-amplia-recursos-para-saude-educacao-e-seguranca-no-orcamento-de-2026/"
+    ]
+  },
+  "SPDE03": {
+    "situacao": "Segundo o Censo 2022, São Paulo tem 44,4 milhões de habitantes em 645 municípios. A Região Metropolitana reúne 20,7 milhões (cerca de 47%), e a capital tem 26% da população do estado, contra 34% em 1980. De 2010 a 2022, a capital ganhou 197,7 mil moradores, e o restante do estado, cerca de 2,9 milhões. O orçamento de 2026 é de R$ 382,3 bilhões, e parte dele é distribuída por emendas que os 94 deputados indicam para os municípios.",
+    "aFavor": [
+      "A população do interior e do litoral cresce mais rápido que a da capital, e a oferta de hospitais, estradas e universidades nessas regiões não acompanhou esse crescimento.",
+      "Muitos moradores do interior precisam viajar à capital para tratamentos e serviços especializados. Levar esses serviços para perto deles reduz custos e tempo de espera.",
+      "Investir nas outras regiões espalha empregos pelo estado e diminui a pressão sobre a Grande São Paulo, que já enfrenta trânsito, moradia cara e serviços lotados."
+    ],
+    "contra": [
+      "A Região Metropolitana concentra quase metade da população e as maiores áreas de pobreza. Tirar recursos dela afeta o maior número de pessoas que dependem do estado.",
+      "Metrô, trens e grandes hospitais de referência ficam na capital e atendem pacientes e trabalhadores de todo o estado. Reduzir essas verbas prejudica também quem vem do interior.",
+      "O dinheiro deveria seguir a necessidade, medida por indicadores como pobreza e falta de serviços, e não uma divisão fixa entre capital e interior."
+    ],
+    "fontes": [
+      "https://informa.seade.gov.br/o-que-mostram-os-primeiros-resultados-do-censo-de-2022/",
+      "https://www.observatoriodasmetropoles.net.br/censo-2022-primeiro-olhar-para-a-regiao-metropolitana-de-sao-paulo/",
+      "https://www.al.sp.gov.br/noticia/?16%2F12%2F2025%2Fplenario-da-alesp-aprova-orcamento-estadual-para-2026--receita-prevista-e-de-r--382-3-bilhoes-="
+    ]
+  },
+  "SPDE04": {
+    "situacao": "Em 06/01/2026, a tarifa do Metrô e da CPTM subiu de R$ 5,20 para R$ 5,40, alta de 3,85%, abaixo da inflação de 4,46% medida pelo IPC-Fipe. Para manter esse valor, o estado previu repassar cerca de R$ 5,1 bilhões ao sistema de trens e metrô em 2026. Os ônibus metropolitanos regulados pelo estado tiveram reajuste médio de 4%. Na capital, o ônibus municipal, que é responsabilidade da prefeitura, passou de R$ 5,00 para R$ 5,30.",
+    "aFavor": [
+      "O gasto com transporte pesa muito no orçamento de quem ganha pouco e mora longe do trabalho. Passagem mais barata aumenta a renda disponível dessas famílias.",
+      "Tarifas menores atraem mais passageiros para o transporte coletivo, o que reduz o trânsito, a poluição e os acidentes para toda a região.",
+      "O transporte público beneficia até quem não o usa, porque leva trabalhadores às empresas e clientes ao comércio. Por isso faz sentido que parte do custo seja paga com impostos."
+    ],
+    "contra": [
+      "O estado já gasta bilhões por ano com o subsídio. Ampliá-lo tira recursos de áreas como saúde, educação e da própria expansão das linhas.",
+      "O subsídio é pago com impostos de todo o estado, inclusive de moradores do interior que não usam Metrô nem CPTM.",
+      "Muitos passageiros já têm desconto ou gratuidade, como idosos, estudantes e quem recebe vale-transporte. Um subsídio geral beneficia também quem poderia pagar a tarifa cheia."
+    ],
+    "fontes": [
+      "https://www.cnnbrasil.com.br/nacional/sudeste/sp/tarifa-do-metro-e-dos-trens-em-sp-sobe-para-r-540-em-2026/",
+      "https://viatrolebus.com.br/2026/01/aumento-na-tarifa-do-metro-e-cptm-ja-esta-valendo/",
+      "https://www.metrocptm.com.br/veja-os-valores-da-tarifa-de-trem-metro-e-integracoes-para-2026/"
+    ]
+  },
+  "SPDE05": {
+    "situacao": "O orçamento de 2026 destina R$ 21,1 bilhões à Segurança Pública, ante R$ 20,3 bilhões em 2025; a Saúde tem R$ 37,9 bilhões e a Educação, R$ 33,3 bilhões. Pela Constituição, saúde e educação têm percentuais mínimos da receita de impostos, o que não ocorre com a segurança. Em 2025 o estado registrou 2.527 vítimas de homicídio, taxa de 5,46 por 100 mil habitantes, a menor desde 2001, e os roubos caíram 16,7%. No mesmo ano, 834 pessoas foram mortas por policiais, o terceiro aumento anual seguido.",
+    "aFavor": [
+      "A violência e o medo afetam a vida de todos e pesam mais nos bairros pobres. Mais recursos permitem ter mais policiais nas ruas e investigações mais rápidas.",
+      "O crime organizado tem se infiltrado na economia, como em combustíveis e no porto. Enfrentá-lo exige tecnologia, inteligência e perícia, que custam caro.",
+      "Segurança também atrai empresas, turismo e comércio. Menos crime gera empregos e arrecadação, o que no fim ajuda a financiar as outras áreas."
+    ],
+    "contra": [
+      "Os homicídios e roubos já estão nos menores níveis da série. Tirar dinheiro da saúde e da educação para a polícia pode prejudicar áreas com demandas mais urgentes.",
+      "Educação, emprego e assistência social ajudam a prevenir o crime a longo prazo. Cortar nessas áreas pode aumentar a violência no futuro.",
+      "Mais verba não garante melhor resultado. O foco deveria ser gastar melhor o orçamento atual, com metas, controle do uso da força e integração entre as polícias."
+    ],
+    "fontes": [
+      "https://www.boqnews.com/cidades/sao-paulo-amplia-recursos-para-saude-educacao-e-seguranca-no-orcamento-de-2026/",
+      "https://jornaldebrasilia.com.br/noticias/brasil/letalidade-policial-sobe-pelo-3o-ano-consecutivo-em-sp-homicidios-e-roubos-caem-em-2025/",
+      "https://www.ssp.sp.gov.br/estatistica/dados-mensais"
+    ]
+  }
+}

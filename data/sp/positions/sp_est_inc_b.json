@@ -1,0 +1,833 @@
+[
+  {
+    "id": 250002536273,
+    "nomeUrna": "PAULO FIORILO",
+    "resumo": "Professor e ex-vereador de São Paulo, deputado estadual pelo PT desde 2019. Foi líder da federação PT/PCdoB/PV na Alesp (2023 a 2025) e preside a Comissão de Relações Internacionais.",
+    "bandeiras": [],
+    "posicoes": {
+      "G02": {
+        "v": 4,
+        "conf": "declaracao",
+        "fonte": "https://www.al.sp.gov.br/propositura/?id=1000359604",
+        "nota": "Coautor do PL 50/2021, que institui Renda Básica Emergencial estadual durante a pandemia de Covid-19."
+      },
+      "G03": {
+        "v": 2,
+        "conf": "voto",
+        "fonte": "https://www.al.sp.gov.br/repositorio/ementario/votacoes/9eee1206-2298-495c-a0a0-48733890f968.pdf",
+        "nota": "Votou Não em Sabesp (2023), PL 529/2020, Dersa (2019), desestatização PL 1/2019 (privatização ou extinção de estatais)."
+      },
+      "SPDE01": {
+        "v": 5,
+        "conf": "declaracao",
+        "fonte": "https://www.al.sp.gov.br/propositura/?id=1000503788",
+        "nota": "Coautor do PL 1448/2023 (plebiscito obrigatório em privatizações); em 2023 disse que a população deveria ser consultada sobre a Sabesp."
+      }
+    }
+  },
+  {
+    "id": 250002533759,
+    "nomeUrna": "FELIPE FRANCO",
+    "resumo": "Fisiculturista, empresário e influenciador, deputado estadual pelo União Brasil desde 2023, eleito com 90,4 mil votos. Atua em pautas de esporte e saúde.",
+    "bandeiras": [
+      "Esporte como ferramenta de inclusão social",
+      "Saúde e qualidade de vida"
+    ],
+    "posicoes": {}
+  },
+  {
+    "id": 250002533750,
+    "nomeUrna": "RAFA ZIMBALDI",
+    "resumo": "Empresário de Campinas, foi vereador (2005 a 2019) e é deputado estadual desde 2019, no segundo mandato. Filiado ao União Brasil desde 2025, busca o terceiro mandato.",
+    "bandeiras": [
+      "Combate a crimes digitais contra crianças e adolescentes",
+      "Combate à violência contra a mulher",
+      "Atenção a pessoas com autismo e deficiência"
+    ],
+    "posicoes": {
+      "G03": {
+        "v": 4,
+        "conf": "voto",
+        "fonte": "https://www.al.sp.gov.br/repositorio/ementario/votacoes/9eee1206-2298-495c-a0a0-48733890f968.pdf",
+        "nota": "Votou Sim em Sabesp (2023), PL 529/2020, Dersa (2019), desestatização PL 1/2019 (privatização ou extinção de estatais)."
+      },
+      "G10": {
+        "v": 4,
+        "conf": "declaracao",
+        "fonte": "https://abcagora.com.br/2026/05/30/zimbaldi-crimes-digitais-expo-govbrasil/",
+        "nota": "Autor do PL 1.336/2025, que obriga plataformas a relatar e notificar crimes contra menores, com multa de até 2% do faturamento."
+      },
+      "G13": {
+        "v": 4,
+        "conf": "declaracao",
+        "fonte": "https://www.al.sp.gov.br/propositura/?id=1000259330",
+        "nota": "Autor do PL 232/2019, que proíbe sátira e ridicularização da religião cristã, seus dogmas e crenças no estado."
+      },
+      "SPDE01": {
+        "v": 2,
+        "conf": "voto",
+        "fonte": "https://www.al.sp.gov.br/repositorio/ementario/votacoes/9eee1206-2298-495c-a0a0-48733890f968.pdf",
+        "nota": "Votou Sim no encerramento da discussão da privatização da Sabesp (05/12/2023), sem plebiscito; votação de procedimento."
+      }
+    }
+  },
+  {
+    "id": 250002541885,
+    "nomeUrna": "EDNA MACEDO",
+    "resumo": "Deputada estadual pelo Republicanos, no quarto mandato na Alesp. Integra a Comissão de Saúde e atua em pautas de mulheres, idosos e crianças.",
+    "bandeiras": [],
+    "posicoes": {
+      "G03": {
+        "v": 4,
+        "conf": "voto",
+        "fonte": "https://www.al.sp.gov.br/repositorio/ementario/votacoes/9eee1206-2298-495c-a0a0-48733890f968.pdf",
+        "nota": "Votou Sim em Sabesp (2023), desestatização PL 1/2019 (privatização ou extinção de estatais)."
+      },
+      "SPDE01": {
+        "v": 2,
+        "conf": "voto",
+        "fonte": "https://www.al.sp.gov.br/repositorio/ementario/votacoes/9eee1206-2298-495c-a0a0-48733890f968.pdf",
+        "nota": "Votou Sim no encerramento da discussão da privatização da Sabesp (05/12/2023), sem plebiscito; votação de procedimento."
+      }
+    }
+  },
+  {
+    "id": 250002533756,
+    "nomeUrna": "DANIEL SOARES",
+    "resumo": "Advogado e ex-vereador de Guarulhos, deputado estadual desde 2019, no segundo mandato, pelo União Brasil. É filho do missionário R. R. Soares.",
+    "bandeiras": [
+      "Demandas do interior do estado",
+      "Saúde"
+    ],
+    "posicoes": {
+      "G03": {
+        "v": 4,
+        "conf": "voto",
+        "fonte": "https://www.al.sp.gov.br/repositorio/ementario/votacoes/20201014-001001-ID_SESSAO=14325-PDF.pdf",
+        "nota": "Votou Sim em PL 529/2020, Dersa (2019) (privatização ou extinção de estatais)."
+      }
+    }
+  },
+  {
+    "id": 250002533947,
+    "nomeUrna": "DR. EDUARDO NOBREGA",
+    "resumo": "Advogado e ex-vereador de Taboão da Serra, deputado estadual desde 2023, eleito com 53,6 mil votos. Filiado ao MDB, disputa a reeleição.",
+    "bandeiras": [
+      "Extensão da Linha 4-Amarela do Metrô a Taboão da Serra",
+      "Acessos ao Rodoanel em Itapecerica da Serra"
+    ],
+    "posicoes": {
+      "G03": {
+        "v": 4,
+        "conf": "voto",
+        "fonte": "https://www.al.sp.gov.br/repositorio/ementario/votacoes/9eee1206-2298-495c-a0a0-48733890f968.pdf",
+        "nota": "Votou Sim em Sabesp (2023) (privatização ou extinção de estatais)."
+      },
+      "SPDE01": {
+        "v": 2,
+        "conf": "voto",
+        "fonte": "https://www.al.sp.gov.br/repositorio/ementario/votacoes/9eee1206-2298-495c-a0a0-48733890f968.pdf",
+        "nota": "Votou Sim no encerramento da discussão da privatização da Sabesp (05/12/2023), sem plebiscito; votação de procedimento."
+      }
+    }
+  },
+  {
+    "id": 250002533776,
+    "nomeUrna": "DELEGADO OLIM",
+    "resumo": "Delegado aposentado da Polícia Civil de SP, deputado estadual pelo PP desde 2015, no terceiro mandato. Disputa o quarto mandato.",
+    "bandeiras": [
+      "Segurança pública",
+      "Combate à impunidade"
+    ],
+    "posicoes": {
+      "G03": {
+        "v": 4,
+        "conf": "voto",
+        "fonte": "https://www.al.sp.gov.br/repositorio/ementario/votacoes/9eee1206-2298-495c-a0a0-48733890f968.pdf",
+        "nota": "Votou Sim em Sabesp (2023), PL 529/2020, Dersa (2019), desestatização PL 1/2019 (privatização ou extinção de estatais)."
+      },
+      "SPDE01": {
+        "v": 2,
+        "conf": "voto",
+        "fonte": "https://www.al.sp.gov.br/repositorio/ementario/votacoes/9eee1206-2298-495c-a0a0-48733890f968.pdf",
+        "nota": "Votou Sim no encerramento da discussão da privatização da Sabesp (05/12/2023), sem plebiscito; votação de procedimento."
+      }
+    }
+  },
+  {
+    "id": 250002541847,
+    "nomeUrna": "JORGE WILSON XERIFE CONSUMIDOR",
+    "resumo": "Jornalista, apresentador e ex-diretor do Procon Guarulhos, deputado estadual pelo Republicanos no terceiro mandato. Atua em defesa do consumidor.",
+    "bandeiras": [
+      "Defesa do consumidor",
+      "Educação",
+      "Saúde"
+    ],
+    "posicoes": {
+      "G03": {
+        "v": 4,
+        "conf": "voto",
+        "fonte": "https://www.al.sp.gov.br/repositorio/ementario/votacoes/9eee1206-2298-495c-a0a0-48733890f968.pdf",
+        "nota": "Votou Sim em Sabesp (2023), PL 529/2020, Dersa (2019), desestatização PL 1/2019 (privatização ou extinção de estatais)."
+      },
+      "SPDE01": {
+        "v": 2,
+        "conf": "voto",
+        "fonte": "https://www.al.sp.gov.br/repositorio/ementario/votacoes/9eee1206-2298-495c-a0a0-48733890f968.pdf",
+        "nota": "Votou Sim no encerramento da discussão da privatização da Sabesp (05/12/2023), sem plebiscito; votação de procedimento."
+      }
+    }
+  },
+  {
+    "id": 250002534220,
+    "nomeUrna": "LÉO OLIVEIRA",
+    "resumo": "Empresário e apresentador de TV e rádio em Ribeirão Preto, ex-vereador da cidade. Deputado estadual pelo MDB, reeleito em 2022 com 82,1 mil votos.",
+    "bandeiras": [],
+    "posicoes": {
+      "G03": {
+        "v": 4,
+        "conf": "voto",
+        "fonte": "https://www.al.sp.gov.br/repositorio/ementario/votacoes/9eee1206-2298-495c-a0a0-48733890f968.pdf",
+        "nota": "Votou Sim em Sabesp (2023), PL 529/2020, Dersa (2019), desestatização PL 1/2019 (privatização ou extinção de estatais)."
+      },
+      "SPDE01": {
+        "v": 2,
+        "conf": "voto",
+        "fonte": "https://www.al.sp.gov.br/repositorio/ementario/votacoes/9eee1206-2298-495c-a0a0-48733890f968.pdf",
+        "nota": "Votou Sim no encerramento da discussão da privatização da Sabesp (05/12/2023), sem plebiscito; votação de procedimento."
+      }
+    }
+  },
+  {
+    "id": 250002536264,
+    "nomeUrna": "LECI BRANDÃO",
+    "resumo": "Cantora e compositora, deputada estadual pelo PCdoB desde 2011, no quarto mandato. Atua em pautas de igualdade racial, cultura popular e religiões de matriz africana.",
+    "bandeiras": [
+      "Igualdade racial",
+      "Cultura popular",
+      "Direitos das mulheres"
+    ],
+    "posicoes": {
+      "G03": {
+        "v": 2,
+        "conf": "voto",
+        "fonte": "https://www.al.sp.gov.br/repositorio/ementario/votacoes/20201014-001001-ID_SESSAO=14325-PDF.pdf",
+        "nota": "Votou Não em PL 529/2020, Dersa (2019), desestatização PL 1/2019 (privatização ou extinção de estatais)."
+      },
+      "G11": {
+        "v": 4,
+        "conf": "declaracao",
+        "fonte": "https://www.al.sp.gov.br/propositura/?id=1000371650",
+        "nota": "Autora da Moção 131/2021, que manifesta apoio a iniciativas em Marília por cotas para negros em concursos públicos."
+      },
+      "SPDE01": {
+        "v": 4,
+        "conf": "declaracao",
+        "fonte": "https://www.al.sp.gov.br/propositura/?id=1000503974",
+        "nota": "Coautora do PR 48/2023, que propõe plebiscito sobre a privatização de Sabesp, Metrô e CPTM."
+      }
+    }
+  },
+  {
+    "id": 250002536245,
+    "nomeUrna": "ANA PERUGINI",
+    "resumo": "Advogada e servidora do TJ-SP, ex-deputada federal, deputada estadual pelo PT no terceiro mandato. É procuradora especial da mulher na Alesp.",
+    "bandeiras": [
+      "Direitos das mulheres",
+      "Saúde pública (SUS)",
+      "Educação pública"
+    ],
+    "posicoes": {
+      "G03": {
+        "v": 2,
+        "conf": "voto",
+        "fonte": "https://www.al.sp.gov.br/repositorio/ementario/votacoes/9eee1206-2298-495c-a0a0-48733890f968.pdf",
+        "nota": "Votou Não em Sabesp (2023) (privatização ou extinção de estatais)."
+      },
+      "G07": {
+        "v": 4,
+        "conf": "declaracao",
+        "fonte": "https://www.al.sp.gov.br/propositura/?id=1000504163",
+        "nota": "Autora da Moção 211/2023 pelo fim de benefícios fiscais a agrotóxicos e coautora do PL 218/2023, que veda pulverização de agrotóxicos."
+      },
+      "SPDE01": {
+        "v": 4,
+        "conf": "voto",
+        "fonte": "https://www.al.sp.gov.br/repositorio/ementario/votacoes/9eee1206-2298-495c-a0a0-48733890f968.pdf",
+        "nota": "Votou Não no encerramento da discussão da privatização da Sabesp (05/12/2023), sem plebiscito; votação de procedimento."
+      }
+    }
+  },
+  {
+    "id": 250002534232,
+    "nomeUrna": "ITAMAR BORGES",
+    "resumo": "Ex-prefeito de Santa Fé do Sul e ex-secretário estadual de Agricultura, deputado estadual pelo MDB desde 2011. Preside a Comissão de Atividades Econômicas e disputa o quinto mandato.",
+    "bandeiras": [
+      "Desenvolvimento dos municípios do interior",
+      "Apoio ao agronegócio"
+    ],
+    "posicoes": {
+      "G03": {
+        "v": 4,
+        "conf": "voto",
+        "fonte": "https://www.al.sp.gov.br/repositorio/ementario/votacoes/9eee1206-2298-495c-a0a0-48733890f968.pdf",
+        "nota": "Votou Sim em Sabesp (2023), PL 529/2020, Dersa (2019), desestatização PL 1/2019 (privatização ou extinção de estatais)."
+      },
+      "SPDE01": {
+        "v": 2,
+        "conf": "voto",
+        "fonte": "https://www.al.sp.gov.br/repositorio/ementario/votacoes/9eee1206-2298-495c-a0a0-48733890f968.pdf",
+        "nota": "Votou Sim no encerramento da discussão da privatização da Sabesp (05/12/2023), sem plebiscito; votação de procedimento."
+      }
+    }
+  },
+  {
+    "id": 250002536861,
+    "nomeUrna": "BETH SAHAO",
+    "resumo": "Psicóloga e socióloga de Araraquara, deputada estadual pelo PT desde 2003, no sexto mandato. Atua em políticas sociais e direitos de mulheres, crianças e idosos.",
+    "bandeiras": [],
+    "posicoes": {
+      "G01": {
+        "v": 2,
+        "conf": "declaracao",
+        "fonte": "https://www.brasil247.com/blog/pec-241-o-fim-do-mundo-e-so-o-comeco/",
+        "nota": "Em artigo de 2016 criticou a PEC 241 (teto de gastos), dizendo que cortes reduziriam recursos de educação, saúde e assistência."
+      },
+      "G03": {
+        "v": 2,
+        "conf": "voto",
+        "fonte": "https://www.al.sp.gov.br/repositorio/ementario/votacoes/9eee1206-2298-495c-a0a0-48733890f968.pdf",
+        "nota": "Votou Não em Sabesp (2023), Dersa (2019), desestatização PL 1/2019 (privatização ou extinção de estatais)."
+      },
+      "G12": {
+        "v": 2,
+        "conf": "declaracao",
+        "fonte": "https://www.brasil247.com/blog/sao-paulo-quer-mais-salas-de-aulas-e-menos-celas/",
+        "nota": "Em artigo de 2015 disse pôr o mandato 'como uma trincheira' contra a PEC que reduz a maioridade penal para 16 anos."
+      },
+      "SPDE01": {
+        "v": 4,
+        "conf": "voto",
+        "fonte": "https://www.al.sp.gov.br/repositorio/ementario/votacoes/9eee1206-2298-495c-a0a0-48733890f968.pdf",
+        "nota": "Votou Não no encerramento da discussão da privatização da Sabesp (05/12/2023), sem plebiscito; votação de procedimento."
+      }
+    }
+  },
+  {
+    "id": 250002534242,
+    "nomeUrna": "CARUSO",
+    "resumo": "Advogado, deputado estadual pelo MDB desde 1999, no sétimo mandato. É secretário-geral da executiva estadual do MDB.",
+    "bandeiras": [
+      "Saúde e Santas Casas",
+      "Entidades sociais e Nota Fiscal Paulista",
+      "Proteção às mulheres"
+    ],
+    "posicoes": {
+      "G03": {
+        "v": 4,
+        "conf": "voto",
+        "fonte": "https://www.al.sp.gov.br/repositorio/ementario/votacoes/9eee1206-2298-495c-a0a0-48733890f968.pdf",
+        "nota": "Votou Sim em Sabesp (2023), PL 529/2020, Dersa (2019), desestatização PL 1/2019 (privatização ou extinção de estatais)."
+      },
+      "SPDE01": {
+        "v": 2,
+        "conf": "voto",
+        "fonte": "https://www.al.sp.gov.br/repositorio/ementario/votacoes/9eee1206-2298-495c-a0a0-48733890f968.pdf",
+        "nota": "Votou Sim no encerramento da discussão da privatização da Sabesp (05/12/2023), sem plebiscito; votação de procedimento."
+      }
+    }
+  },
+  {
+    "id": 250002548910,
+    "nomeUrna": "ANA CAROLINA SERRA",
+    "resumo": "Advogada e professora universitária de Santo André, deputada estadual desde 2023. Filiou-se ao PSDB em 2026 e preside a Comissão de Assuntos Metropolitanos e Municipais.",
+    "bandeiras": [
+      "Saúde da mulher",
+      "Recursos para o Grande ABC",
+      "Terceiro setor"
+    ],
+    "posicoes": {
+      "G03": {
+        "v": 4,
+        "conf": "voto",
+        "fonte": "https://www.al.sp.gov.br/repositorio/ementario/votacoes/9eee1206-2298-495c-a0a0-48733890f968.pdf",
+        "nota": "Votou Sim em Sabesp (2023) (privatização ou extinção de estatais)."
+      },
+      "SPDE01": {
+        "v": 2,
+        "conf": "voto",
+        "fonte": "https://www.al.sp.gov.br/repositorio/ementario/votacoes/9eee1206-2298-495c-a0a0-48733890f968.pdf",
+        "nota": "Votou Sim no encerramento da discussão da privatização da Sabesp (05/12/2023), sem plebiscito; votação de procedimento."
+      }
+    }
+  },
+  {
+    "id": 250002536846,
+    "nomeUrna": "DONATO",
+    "resumo": "Ex-vereador de São Paulo por cinco mandatos, deputado estadual pelo PT desde 2023. Faz oposição ao governo Tarcísio, com foco na privatização da Sabesp.",
+    "bandeiras": [
+      "Oposição à privatização da Sabesp",
+      "Combate à desigualdade"
+    ],
+    "posicoes": {
+      "G03": {
+        "v": 2,
+        "conf": "voto",
+        "fonte": "https://www.al.sp.gov.br/repositorio/ementario/votacoes/9eee1206-2298-495c-a0a0-48733890f968.pdf",
+        "nota": "Votou Não em Sabesp (2023) (privatização ou extinção de estatais)."
+      },
+      "SPDE01": {
+        "v": 4,
+        "conf": "voto",
+        "fonte": "https://www.al.sp.gov.br/repositorio/ementario/votacoes/9eee1206-2298-495c-a0a0-48733890f968.pdf",
+        "nota": "Votou Não no encerramento da discussão da privatização da Sabesp (05/12/2023), sem plebiscito; votação de procedimento."
+      },
+      "SPDE04": {
+        "v": 4,
+        "conf": "declaracao",
+        "fonte": "https://www.al.sp.gov.br/propositura/?id=1000603073",
+        "nota": "Autor do PL 246/2025, que garante desconto de 50% nas passagens do transporte público estadual a estudantes, professores e apoio escolar."
+      }
+    }
+  },
+  {
+    "id": 250002540580,
+    "nomeUrna": "BARROS MUNHOZ",
+    "resumo": "Ex-prefeito de Itapira e ex-presidente da Alesp (2009 a 2013), deputado estadual no sétimo mandato. Filiou-se ao PSD em 2026 e é 2º secretário da Mesa Diretora.",
+    "bandeiras": [],
+    "posicoes": {
+      "G03": {
+        "v": 4,
+        "conf": "voto",
+        "fonte": "https://www.al.sp.gov.br/repositorio/ementario/votacoes/9eee1206-2298-495c-a0a0-48733890f968.pdf",
+        "nota": "Votou Sim em Sabesp (2023), PL 529/2020, Dersa (2019), desestatização PL 1/2019 (privatização ou extinção de estatais)."
+      },
+      "SPDE01": {
+        "v": 2,
+        "conf": "voto",
+        "fonte": "https://www.al.sp.gov.br/repositorio/ementario/votacoes/9eee1206-2298-495c-a0a0-48733890f968.pdf",
+        "nota": "Votou Sim no encerramento da discussão da privatização da Sabesp (05/12/2023), sem plebiscito; votação de procedimento."
+      }
+    }
+  },
+  {
+    "id": 250002540875,
+    "nomeUrna": "MAURO BRAGATO",
+    "resumo": "Sociólogo e ex-prefeito de Presidente Prudente, deputado estadual eleito pela primeira vez em 1978, hoje no PSD. Atua em demandas de municípios do Oeste Paulista.",
+    "bandeiras": [
+      "Desenvolvimento do Oeste Paulista"
+    ],
+    "posicoes": {
+      "G03": {
+        "v": 4,
+        "conf": "voto",
+        "fonte": "https://www.al.sp.gov.br/repositorio/ementario/votacoes/9eee1206-2298-495c-a0a0-48733890f968.pdf",
+        "nota": "Votou Sim em Sabesp (2023), PL 529/2020 (privatização ou extinção de estatais)."
+      },
+      "SPDE01": {
+        "v": 2,
+        "conf": "voto",
+        "fonte": "https://www.al.sp.gov.br/repositorio/ementario/votacoes/9eee1206-2298-495c-a0a0-48733890f968.pdf",
+        "nota": "Votou Sim no encerramento da discussão da privatização da Sabesp (05/12/2023), sem plebiscito; votação de procedimento."
+      }
+    }
+  },
+  {
+    "id": 250002540887,
+    "nomeUrna": "DIRCEU DALBEN",
+    "resumo": "Deputado estadual pelo PSD, ex-prefeito de Sumaré por dois mandatos e ex-vereador. Coordena frente parlamentar de apoio ao transporte ferroviário na Alesp.",
+    "bandeiras": [
+      "Trens de passageiros e ferrovias",
+      "Orçamento regionalizado e apoio aos municípios",
+      "Autismo e inclusão"
+    ],
+    "posicoes": {
+      "G03": {
+        "v": 4,
+        "conf": "voto",
+        "fonte": "https://www.al.sp.gov.br/repositorio/ementario/votacoes/9eee1206-2298-495c-a0a0-48733890f968.pdf",
+        "nota": "Votou Sim em Sabesp (2023), PL 529/2020, Dersa (2019), desestatização PL 1/2019 (privatização ou extinção de estatais)."
+      },
+      "SPDE01": {
+        "v": 2,
+        "conf": "voto",
+        "fonte": "https://www.al.sp.gov.br/repositorio/ementario/votacoes/9eee1206-2298-495c-a0a0-48733890f968.pdf",
+        "nota": "Votou Sim no encerramento da discussão da privatização da Sabesp (05/12/2023), sem plebiscito; votação de procedimento."
+      }
+    }
+  },
+  {
+    "id": 250002533758,
+    "nomeUrna": "RAFAEL SARAIVA",
+    "resumo": "Deputado estadual pelo União Brasil desde 2023, eleito com 98 mil votos. Atua na causa animal e na defesa de pessoas com autismo.",
+    "bandeiras": [],
+    "posicoes": {
+      "G03": {
+        "v": 4,
+        "conf": "voto",
+        "fonte": "https://www.al.sp.gov.br/repositorio/ementario/votacoes/9eee1206-2298-495c-a0a0-48733890f968.pdf",
+        "nota": "Votou Sim em Sabesp (2023) (privatização ou extinção de estatais)."
+      },
+      "SPDE01": {
+        "v": 2,
+        "conf": "voto",
+        "fonte": "https://www.al.sp.gov.br/repositorio/ementario/votacoes/9eee1206-2298-495c-a0a0-48733890f968.pdf",
+        "nota": "Votou Sim no encerramento da discussão da privatização da Sabesp (05/12/2023), sem plebiscito; votação de procedimento."
+      }
+    }
+  },
+  {
+    "id": 250002536831,
+    "nomeUrna": "EMÍDIO",
+    "resumo": "Deputado estadual pelo PT, ex-prefeito de Osasco por dois mandatos e ex-vereador. Coordenou a frente parlamentar contra a privatização da Sabesp.",
+    "bandeiras": [],
+    "posicoes": {
+      "G03": {
+        "v": 2,
+        "conf": "voto",
+        "fonte": "https://www.al.sp.gov.br/repositorio/ementario/votacoes/9eee1206-2298-495c-a0a0-48733890f968.pdf",
+        "nota": "Votou Não em Sabesp (2023), PL 529/2020, desestatização PL 1/2019 (privatização ou extinção de estatais)."
+      },
+      "SPDE01": {
+        "v": 4,
+        "conf": "voto",
+        "fonte": "https://www.al.sp.gov.br/repositorio/ementario/votacoes/9eee1206-2298-495c-a0a0-48733890f968.pdf",
+        "nota": "Votou Não no encerramento da discussão da privatização da Sabesp (05/12/2023), sem plebiscito; votação de procedimento."
+      }
+    }
+  },
+  {
+    "id": 250002540903,
+    "nomeUrna": "MÁRCIO NAKASHIMA",
+    "resumo": "Deputado estadual em segundo mandato, filiado ao PSD desde 2026. Coordena frentes parlamentares de combate à violência contra a mulher.",
+    "bandeiras": [
+      "Combate à violência contra a mulher",
+      "Pessoas desaparecidas",
+      "Segurança pública"
+    ],
+    "posicoes": {
+      "G03": {
+        "v": 2,
+        "conf": "voto",
+        "fonte": "https://www.al.sp.gov.br/repositorio/ementario/votacoes/20201014-001001-ID_SESSAO=14325-PDF.pdf",
+        "nota": "Votou Não em PL 529/2020, desestatização PL 1/2019 (privatização ou extinção de estatais)."
+      }
+    }
+  },
+  {
+    "id": 250002536270,
+    "nomeUrna": "LUIZ FERNANDO",
+    "resumo": "Deputado estadual pelo PT em terceiro mandato, ex-vereador em Casa Branca e ex-dirigente do São Bernardo FC. Preside a Comissão de Infraestrutura da Alesp.",
+    "bandeiras": [
+      "Educação pública",
+      "Competitividade da indústria paulista",
+      "Reconstrução de políticas públicas no estado"
+    ],
+    "posicoes": {
+      "G03": {
+        "v": 2,
+        "conf": "voto",
+        "fonte": "https://www.al.sp.gov.br/repositorio/ementario/votacoes/20201014-001001-ID_SESSAO=14325-PDF.pdf",
+        "nota": "Votou Não em PL 529/2020, Dersa (2019) (privatização ou extinção de estatais)."
+      }
+    }
+  },
+  {
+    "id": 250002539294,
+    "nomeUrna": "CAIO FRANÇA",
+    "resumo": "Deputado estadual pelo PSB desde 2015, em terceiro mandato, e presidente estadual do partido. Advogado, com base eleitoral na Baixada Santista.",
+    "bandeiras": [
+      "Cannabis medicinal na rede pública",
+      "Baixada Santista",
+      "Adoção e proteção social"
+    ],
+    "posicoes": {
+      "G03": {
+        "v": 2,
+        "conf": "declaracao",
+        "fonte": "https://caiofrancasp.com.br/",
+        "nota": "Site oficial se opõe à privatização da Sabesp; em 2019 votou Sim na extinção da Dersa e em 2020 Não no PL 529/2020."
+      }
+    }
+  },
+  {
+    "id": 250002545221,
+    "nomeUrna": "VITÃO DO CACHORRÃO",
+    "resumo": "Deputado estadual desde 2023, ex-vereador de Sorocaba e comerciante do ramo de cachorro-quente. Concorre pelo Podemos em 2026.",
+    "bandeiras": [],
+    "posicoes": {
+      "G03": {
+        "v": 4,
+        "conf": "voto",
+        "fonte": "https://www.al.sp.gov.br/repositorio/ementario/votacoes/9eee1206-2298-495c-a0a0-48733890f968.pdf",
+        "nota": "Votou Sim em Sabesp (2023) (privatização ou extinção de estatais)."
+      },
+      "SPDE01": {
+        "v": 2,
+        "conf": "voto",
+        "fonte": "https://www.al.sp.gov.br/repositorio/ementario/votacoes/9eee1206-2298-495c-a0a0-48733890f968.pdf",
+        "nota": "Votou Sim no encerramento da discussão da privatização da Sabesp (05/12/2023), sem plebiscito; votação de procedimento."
+      }
+    }
+  },
+  {
+    "id": 250002533757,
+    "nomeUrna": "TELHADINHA - CAPITÃO TELHADA",
+    "resumo": "Deputado estadual pelo PP desde 2023, capitão da PM e filho do Coronel Telhada. Foi vice-líder do governo Tarcísio na Alesp.",
+    "bandeiras": [
+      "Combate à criminalidade e à impunidade",
+      "Valorização dos agentes de segurança",
+      "Segurança nas escolas"
+    ],
+    "posicoes": {
+      "G03": {
+        "v": 4,
+        "conf": "voto",
+        "fonte": "https://www.al.sp.gov.br/repositorio/ementario/votacoes/9eee1206-2298-495c-a0a0-48733890f968.pdf",
+        "nota": "Votou Sim em Sabesp (2023) (privatização ou extinção de estatais)."
+      },
+      "SPDE01": {
+        "v": 2,
+        "conf": "voto",
+        "fonte": "https://www.al.sp.gov.br/repositorio/ementario/votacoes/9eee1206-2298-495c-a0a0-48733890f968.pdf",
+        "nota": "Votou Sim no encerramento da discussão da privatização da Sabesp (05/12/2023), sem plebiscito; votação de procedimento."
+      }
+    }
+  },
+  {
+    "id": 250002541851,
+    "nomeUrna": "PAULO CORREA JR",
+    "resumo": "Deputado estadual em terceiro mandato, de Santos, líder do Republicanos na Alesp. Presidiu a CPI da Epidemia de Crack e a Comissão de Turismo.",
+    "bandeiras": [
+      "Saúde e inclusão (autismo)",
+      "Segurança na Baixada Santista",
+      "Turismo"
+    ],
+    "posicoes": {
+      "G03": {
+        "v": 4,
+        "conf": "voto",
+        "fonte": "https://www.al.sp.gov.br/repositorio/ementario/votacoes/9eee1206-2298-495c-a0a0-48733890f968.pdf",
+        "nota": "Votou Sim em Sabesp (2023), PL 529/2020, Dersa (2019), desestatização PL 1/2019 (privatização ou extinção de estatais)."
+      },
+      "SPDE01": {
+        "v": 2,
+        "conf": "voto",
+        "fonte": "https://www.al.sp.gov.br/repositorio/ementario/votacoes/9eee1206-2298-495c-a0a0-48733890f968.pdf",
+        "nota": "Votou Sim no encerramento da discussão da privatização da Sabesp (05/12/2023), sem plebiscito; votação de procedimento."
+      }
+    }
+  },
+  {
+    "id": 250002536836,
+    "nomeUrna": "RÔMULO",
+    "resumo": "Deputado estadual pelo PT em primeiro mandato, sociólogo e ex-vereador de Mauá por dois mandatos. Autor da lei estadual de prevenção aos danos de apostas online.",
+    "bandeiras": [
+      "Defesa dos serviços públicos",
+      "Combate ao transtorno do jogo e às apostas",
+      "Saneamento"
+    ],
+    "posicoes": {
+      "G03": {
+        "v": 2,
+        "conf": "voto",
+        "fonte": "https://www.al.sp.gov.br/repositorio/ementario/votacoes/9eee1206-2298-495c-a0a0-48733890f968.pdf",
+        "nota": "Votou Não em Sabesp (2023) (privatização ou extinção de estatais)."
+      },
+      "SPDE01": {
+        "v": 4,
+        "conf": "voto",
+        "fonte": "https://www.al.sp.gov.br/repositorio/ementario/votacoes/9eee1206-2298-495c-a0a0-48733890f968.pdf",
+        "nota": "Votou Não no encerramento da discussão da privatização da Sabesp (05/12/2023), sem plebiscito; votação de procedimento."
+      }
+    }
+  },
+  {
+    "id": 250002536239,
+    "nomeUrna": "JORGE DO CARMO",
+    "resumo": "Deputado estadual pelo PT, advogado, líder da bancada do partido na Alesp. Vice-presidente da Comissão de Habitação, Desenvolvimento e Reforma Urbana.",
+    "bandeiras": [],
+    "posicoes": {
+      "G03": {
+        "v": 2,
+        "conf": "voto",
+        "fonte": "https://www.al.sp.gov.br/repositorio/ementario/votacoes/20201014-001001-ID_SESSAO=14325-PDF.pdf",
+        "nota": "Votou Não em PL 529/2020, Dersa (2019), desestatização PL 1/2019 (privatização ou extinção de estatais)."
+      }
+    }
+  },
+  {
+    "id": 250002541873,
+    "nomeUrna": "SEBASTIÃO SANTOS",
+    "resumo": "Deputado estadual pelo Republicanos em quarto mandato, pastor evangélico e ex-vereador de Mirassol, com base no noroeste paulista.",
+    "bandeiras": [
+      "Esporte e turismo",
+      "Atenção ao idoso",
+      "Agricultura familiar"
+    ],
+    "posicoes": {
+      "G03": {
+        "v": 4,
+        "conf": "voto",
+        "fonte": "https://www.al.sp.gov.br/repositorio/ementario/votacoes/9eee1206-2298-495c-a0a0-48733890f968.pdf",
+        "nota": "Votou Sim em Sabesp (2023), PL 529/2020, Dersa (2019), desestatização PL 1/2019 (privatização ou extinção de estatais)."
+      },
+      "SPDE01": {
+        "v": 2,
+        "conf": "voto",
+        "fonte": "https://www.al.sp.gov.br/repositorio/ementario/votacoes/9eee1206-2298-495c-a0a0-48733890f968.pdf",
+        "nota": "Votou Sim no encerramento da discussão da privatização da Sabesp (05/12/2023), sem plebiscito; votação de procedimento."
+      }
+    }
+  },
+  {
+    "id": 250002541846,
+    "nomeUrna": "RUI ALVES",
+    "resumo": "Deputado estadual pelo Republicanos eleito em 2022 e pastor. Foi secretário municipal de Turismo de São Paulo de 2024 a abril de 2026, quando voltou à Alesp.",
+    "bandeiras": [],
+    "posicoes": {
+      "G03": {
+        "v": 4,
+        "conf": "voto",
+        "fonte": "https://www.al.sp.gov.br/repositorio/ementario/votacoes/9eee1206-2298-495c-a0a0-48733890f968.pdf",
+        "nota": "Votou Sim em Sabesp (2023) (privatização ou extinção de estatais)."
+      },
+      "SPDE01": {
+        "v": 2,
+        "conf": "voto",
+        "fonte": "https://www.al.sp.gov.br/repositorio/ementario/votacoes/9eee1206-2298-495c-a0a0-48733890f968.pdf",
+        "nota": "Votou Sim no encerramento da discussão da privatização da Sabesp (05/12/2023), sem plebiscito; votação de procedimento."
+      }
+    }
+  },
+  {
+    "id": 250002536826,
+    "nomeUrna": "MAURICI",
+    "resumo": "Deputado estadual pelo PT desde 2020 e primeiro-secretário da Alesp desde 2025. Ex-prefeito de Franco da Rocha e ex-presidente da Ceagesp.",
+    "bandeiras": [
+      "Cultura e educação",
+      "Meio ambiente e mudanças climáticas",
+      "Oposição a privatizações"
+    ],
+    "posicoes": {
+      "G03": {
+        "v": 2,
+        "conf": "voto",
+        "fonte": "https://www.al.sp.gov.br/repositorio/ementario/votacoes/9eee1206-2298-495c-a0a0-48733890f968.pdf",
+        "nota": "Votou Não em Sabesp (2023), PL 529/2020 (privatização ou extinção de estatais)."
+      },
+      "SPDE01": {
+        "v": 4,
+        "conf": "voto",
+        "fonte": "https://www.al.sp.gov.br/repositorio/ementario/votacoes/9eee1206-2298-495c-a0a0-48733890f968.pdf",
+        "nota": "Votou Não no encerramento da discussão da privatização da Sabesp (05/12/2023), sem plebiscito; votação de procedimento."
+      }
+    }
+  },
+  {
+    "id": 250002541902,
+    "nomeUrna": "GILMACI SANTOS",
+    "resumo": "Deputado estadual pelo Republicanos em quarto mandato e pastor evangélico. Coautor da lei que classifica a atividade religiosa como essencial em SP.",
+    "bandeiras": [],
+    "posicoes": {
+      "G03": {
+        "v": 4,
+        "conf": "voto",
+        "fonte": "https://www.al.sp.gov.br/repositorio/ementario/votacoes/9eee1206-2298-495c-a0a0-48733890f968.pdf",
+        "nota": "Votou Sim em Sabesp (2023), PL 529/2020, Dersa (2019), desestatização PL 1/2019 (privatização ou extinção de estatais)."
+      },
+      "SPDE01": {
+        "v": 2,
+        "conf": "voto",
+        "fonte": "https://www.al.sp.gov.br/repositorio/ementario/votacoes/9eee1206-2298-495c-a0a0-48733890f968.pdf",
+        "nota": "Votou Sim no encerramento da discussão da privatização da Sabesp (05/12/2023), sem plebiscito; votação de procedimento."
+      }
+    }
+  },
+  {
+    "id": 250002536851,
+    "nomeUrna": "EDUARDO SUPLICY",
+    "resumo": "Deputado estadual pelo PT desde 2023, ex-senador por 24 anos, ex-vereador e ex-secretário municipal de Direitos Humanos de SP. Autor da lei federal da renda básica de cidadania.",
+    "bandeiras": [
+      "Renda básica de cidadania",
+      "Cannabis medicinal e redução de danos",
+      "Água e energia como direitos, contra privatizações"
+    ],
+    "posicoes": {
+      "G02": {
+        "v": 5,
+        "conf": "declaracao",
+        "fonte": "https://pt.org.br/bolsa-familia-um-passo-em-direcao-a-renda-basica-universal-por-eduardo-suplicy/",
+        "nota": "Defende o Bolsa Família como passo para uma renda básica universal, com expansão gradual até todos os brasileiros."
+      },
+      "G03": {
+        "v": 2,
+        "conf": "voto",
+        "fonte": "https://www.al.sp.gov.br/repositorio/ementario/votacoes/9eee1206-2298-495c-a0a0-48733890f968.pdf",
+        "nota": "Votou Não em Sabesp (2023) (privatização ou extinção de estatais)."
+      },
+      "G12": {
+        "v": 2,
+        "conf": "declaracao",
+        "fonte": "https://www.meon.com.br/noticias/sou-contra-a-reducao-da-maioridade-penal-diz-suplicy",
+        "nota": "Em 2014, como candidato ao Senado, disse ser contra a redução da maioridade penal."
+      },
+      "SPDE01": {
+        "v": 4,
+        "conf": "voto",
+        "fonte": "https://www.al.sp.gov.br/repositorio/ementario/votacoes/9eee1206-2298-495c-a0a0-48733890f968.pdf",
+        "nota": "Votou Não no encerramento da discussão da privatização da Sabesp (05/12/2023), sem plebiscito; votação de procedimento."
+      }
+    }
+  },
+  {
+    "id": 250002536268,
+    "nomeUrna": "ENIO TATTO",
+    "resumo": "Deputado estadual pelo PT desde 2003, contador, com base na zona sul da capital. Iniciou as audiências públicas regionais do orçamento estadual na Alesp.",
+    "bandeiras": [],
+    "posicoes": {
+      "G03": {
+        "v": 2,
+        "conf": "voto",
+        "fonte": "https://www.al.sp.gov.br/repositorio/ementario/votacoes/9eee1206-2298-495c-a0a0-48733890f968.pdf",
+        "nota": "Votou Não em Sabesp (2023), PL 529/2020, Dersa (2019), desestatização PL 1/2019 (privatização ou extinção de estatais)."
+      },
+      "SPDE01": {
+        "v": 4,
+        "conf": "voto",
+        "fonte": "https://www.al.sp.gov.br/repositorio/ementario/votacoes/9eee1206-2298-495c-a0a0-48733890f968.pdf",
+        "nota": "Votou Não no encerramento da discussão da privatização da Sabesp (05/12/2023), sem plebiscito; votação de procedimento."
+      }
+    }
+  },
+  {
+    "id": 250002536240,
+    "nomeUrna": "BARBA",
+    "resumo": "Deputado estadual pelo PT, metalúrgico do ABC e sindicalista, com base em São Bernardo do Campo.",
+    "bandeiras": [
+      "Direitos trabalhistas",
+      "Fim da escala 6x1",
+      "Oposição a privatizações"
+    ],
+    "posicoes": {
+      "G03": {
+        "v": 1,
+        "conf": "declaracao",
+        "fonte": "https://www.cartacapital.com.br/entrevistas/faremos-oposicao-a-qualquer-nivel-de-privatizacao-diz-teonilio-barba-do-pt-em-sao-paulo/",
+        "nota": "Em 2023 disse fazer oposição 'em qualquer nível de privatização'; votou Não em Sabesp (2023), Dersa e PL 1/2019."
+      },
+      "G14": {
+        "v": 5,
+        "conf": "declaracao",
+        "fonte": "https://tvtnews.com.br/1-de-maio-e-dia-de-festa-e-luta-dos-trabalhadores/",
+        "nota": "Em artigo de 1º/05/2026 defendeu o fim da escala 6x1 e a redução da jornada sem redução de salário."
+      },
+      "SPDE01": {
+        "v": 4,
+        "conf": "voto",
+        "fonte": "https://www.al.sp.gov.br/repositorio/ementario/votacoes/9eee1206-2298-495c-a0a0-48733890f968.pdf",
+        "nota": "Votou Não no encerramento da discussão da privatização da Sabesp (05/12/2023), sem plebiscito; votação de procedimento."
+      }
+    }
+  }
+]

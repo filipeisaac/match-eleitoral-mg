@@ -1,0 +1,1016 @@
+[
+ {
+  "id": 250002539947,
+  "nomeUrna": "CARLOS GIANNAZI",
+  "resumo": "Professor, deputado estadual pelo PSOL desde 2007 (5º mandato) e líder da bancada do partido na Alesp; atua em educação pública e direitos dos servidores. Candidato à reeleição.",
+  "bandeiras": [
+   "Educação pública",
+   "Servidores públicos e aposentados",
+   "Concursos públicos"
+  ],
+  "posicoes": {
+   "G03": {
+    "v": 2,
+    "conf": "voto",
+    "fonte": "https://www.al.sp.gov.br/repositorio/ementario/votacoes/9eee1206-2298-495c-a0a0-48733890f968.pdf",
+    "nota": "Votou Não ao encerramento da discussão da privatização da Sabesp (PL 1501/2023) na Alesp em 05/12/2023; votação de procedimento."
+   },
+   "SPDE01": {
+    "v": 4,
+    "conf": "voto",
+    "fonte": "https://www.al.sp.gov.br/repositorio/ementario/votacoes/9eee1206-2298-495c-a0a0-48733890f968.pdf",
+    "nota": "Votou Não ao encerramento da discussão da privatização da Sabesp em 05/12/2023; a oposição defendia plebiscito. Votação de procedimento."
+   },
+   "G14": {
+    "v": 5,
+    "conf": "declaracao",
+    "fonte": "https://www.instagram.com/carlosgiannazioficial/p/DCP10xUvLST/",
+    "nota": "Em post, afirmou que a escala 6x1 'é desumana'; é autor do PL 16/2025, que acaba com a 6x1 para terceirizados do estado (04/02/2025)."
+   },
+   "SPDE02": {
+    "v": 4,
+    "conf": "declaracao",
+    "fonte": "https://www.al.sp.gov.br/noticia/?id=478183",
+    "nota": "Em sessão da Alesp de 12/06/2024, defendeu reajuste acima do piso para professores da rede estadual."
+   },
+   "G04": {
+    "v": 2,
+    "conf": "declaracao",
+    "fonte": "https://www.al.sp.gov.br/propositura/?id=1000485437",
+    "nota": "Autor do PL 211/2023 (29/03/2023), que proíbe clubes e escolas de tiro perto de escolas."
+   },
+   "G02": {
+    "v": 4,
+    "conf": "declaracao",
+    "fonte": "https://www.al.sp.gov.br/propositura/?id=1000321442",
+    "nota": "Autor do PL 151/2020 (25/03/2020), que cria o Programa de Renda Básica Emergencial de São Paulo."
+   },
+   "G07": {
+    "v": 4,
+    "conf": "declaracao",
+    "fonte": "https://www.al.sp.gov.br/propositura/?id=1000485422",
+    "nota": "Autor, com Ana Perugini, do PL 218/2023 (29/03/2023), que proíbe a pulverização de agrotóxicos na agricultura."
+   },
+   "G11": {
+    "v": 4,
+    "conf": "declaracao",
+    "fonte": "https://www.al.sp.gov.br/propositura/?id=1000485372",
+    "nota": "Autor do PL 180/2023 (29/03/2023), que prevê reserva de vagas para negros e indígenas em obras públicas contratadas pelo estado."
+   }
+  }
+ },
+ {
+  "id": 250002541870,
+  "nomeUrna": "BRUNA FURLAN",
+  "resumo": "Advogada de Barueri, deputada estadual desde 2023 após três mandatos de deputada federal; preside a Comissão de Saúde da Alesp. Candidata à reeleição pelo Republicanos.",
+  "bandeiras": [
+   "Saúde: prevenção e humanização do atendimento",
+   "Fatec voltada à saúde em Barueri",
+   "Recursos para Barueri e região"
+  ],
+  "posicoes": {
+   "SPDE01": {
+    "v": 2,
+    "conf": "voto",
+    "fonte": "https://www.al.sp.gov.br/repositorio/ementario/votacoes/9eee1206-2298-495c-a0a0-48733890f968.pdf",
+    "nota": "Votou Sim ao encerramento da discussão da privatização da Sabesp, aprovada sem consulta popular, em 05/12/2023; votação de procedimento."
+   }
+  }
+ },
+ {
+  "id": 250002536367,
+  "nomeUrna": "ALEX MADUREIRA",
+  "resumo": "Deputado estadual desde 2019, em 2º mandato, eleito por Piracicaba; foi relator do Orçamento estadual de 2026 e candidato a prefeito de Piracicaba em 2024. Candidato à reeleição pelo PL.",
+  "bandeiras": [
+   "Obras e recursos para a região de Piracicaba",
+   "Saúde e tratamento oncológico (OncoSãoPaulo)",
+   "Proteção animal e inclusão de pessoas com deficiência"
+  ],
+  "posicoes": {
+   "G03": {
+    "v": 4,
+    "conf": "voto",
+    "fonte": "https://www.al.sp.gov.br/repositorio/ementario/votacoes/9eee1206-2298-495c-a0a0-48733890f968.pdf",
+    "nota": "Votou Sim ao encerramento da discussão da privatização da Sabesp (PL 1501/2023) na Alesp em 05/12/2023; votação de procedimento."
+   },
+   "SPDE01": {
+    "v": 2,
+    "conf": "voto",
+    "fonte": "https://www.al.sp.gov.br/repositorio/ementario/votacoes/9eee1206-2298-495c-a0a0-48733890f968.pdf",
+    "nota": "Votou Sim ao encerramento da discussão da privatização da Sabesp, aprovada sem consulta popular, em 05/12/2023; votação de procedimento."
+   },
+   "SPDE05": {
+    "v": 4,
+    "conf": "declaracao",
+    "fonte": "https://ndmais.com.br/economia/orcamento-de-sao-paulo-aprovado-2026/",
+    "nota": "Como relator do Orçamento de 2026 (dez/2025), remanejou R$ 150 milhões adicionais para as polícias, com ênfase na Polícia Civil."
+   }
+  }
+ },
+ {
+  "id": 250002536380,
+  "nomeUrna": "FABIANA BOLSONARO",
+  "resumo": "Advogada, deputada estadual pelo PL desde 2023 e ex-vice-prefeita de Barrinha (2021 a 2023); apresenta-se como conservadora e cristã. Candidata à reeleição.",
+  "bandeiras": [
+   "Família e valores cristãos",
+   "Oposição ao aborto",
+   "Combate às drogas"
+  ],
+  "posicoes": {
+   "G03": {
+    "v": 4,
+    "conf": "voto",
+    "fonte": "https://www.al.sp.gov.br/repositorio/ementario/votacoes/9eee1206-2298-495c-a0a0-48733890f968.pdf",
+    "nota": "Votou Sim ao encerramento da discussão da privatização da Sabesp (PL 1501/2023) na Alesp em 05/12/2023; votação de procedimento."
+   },
+   "SPDE01": {
+    "v": 2,
+    "conf": "voto",
+    "fonte": "https://www.al.sp.gov.br/repositorio/ementario/votacoes/9eee1206-2298-495c-a0a0-48733890f968.pdf",
+    "nota": "Votou Sim ao encerramento da discussão da privatização da Sabesp, aprovada sem consulta popular, em 05/12/2023; votação de procedimento."
+   },
+   "G08": {
+    "v": 4,
+    "conf": "declaracao",
+    "fonte": "https://www.al.sp.gov.br/propositura/?id=1000607526",
+    "nota": "Autora da Moção 149/2025 (12/05/2025), que pede à Câmara a aprovação urgente do PL 2858/2022, de anistia a participantes de atos pós-eleição."
+   },
+   "G05": {
+    "v": 2,
+    "conf": "declaracao",
+    "fonte": "https://www.al.sp.gov.br/propositura/?id=1000685557",
+    "nota": "Coautora da Moção 119/2026 (13/04/2026), de apoio a habeas corpus contra decisão do STF que suspendeu norma do CFM restritiva ao aborto."
+   },
+   "G13": {
+    "v": 4,
+    "conf": "declaracao",
+    "fonte": "https://www.al.sp.gov.br/propositura/?id=1000607453",
+    "nota": "Autora do PL 438/2025 (12/05/2025), que institui o Programa de Valorização da Família e dos Princípios Cristãos."
+   }
+  }
+ },
+ {
+  "id": 250002533798,
+  "nomeUrna": "SOLANGE FREITAS",
+  "resumo": "Jornalista, radialista e professora, deputada estadual pelo União Brasil desde 2023, com base na Baixada Santista; ex-candidata a prefeita de São Vicente (2020). Candidata à reeleição.",
+  "bandeiras": [
+   "Inclusão de pessoas com autismo e deficiência",
+   "Saúde da mulher e prevenção ao câncer",
+   "Direitos das mulheres"
+  ],
+  "posicoes": {
+   "G03": {
+    "v": 4,
+    "conf": "voto",
+    "fonte": "https://www.al.sp.gov.br/repositorio/ementario/votacoes/9eee1206-2298-495c-a0a0-48733890f968.pdf",
+    "nota": "Votou Sim ao encerramento da discussão da privatização da Sabesp (PL 1501/2023) na Alesp em 05/12/2023; votação de procedimento."
+   },
+   "SPDE01": {
+    "v": 2,
+    "conf": "voto",
+    "fonte": "https://www.al.sp.gov.br/repositorio/ementario/votacoes/9eee1206-2298-495c-a0a0-48733890f968.pdf",
+    "nota": "Votou Sim ao encerramento da discussão da privatização da Sabesp, aprovada sem consulta popular, em 05/12/2023; votação de procedimento."
+   }
+  }
+ },
+ {
+  "id": 250002536404,
+  "nomeUrna": "LETICIA AGUIAR",
+  "resumo": "Deputada estadual desde 2019, em 2º mandato, de São José dos Campos; vice-líder do PL na Alesp, partido ao qual se filiou após passar por PSL e PP. Candidata à reeleição.",
+  "bandeiras": [
+   "Segurança pública",
+   "Defesa da vida e proteção de mulheres e crianças",
+   "Saúde e educação"
+  ],
+  "posicoes": {
+   "G03": {
+    "v": 4,
+    "conf": "voto",
+    "fonte": "https://www.al.sp.gov.br/repositorio/ementario/votacoes/9eee1206-2298-495c-a0a0-48733890f968.pdf",
+    "nota": "Votou Sim ao encerramento da discussão da privatização da Sabesp (PL 1501/2023) na Alesp em 05/12/2023; votação de procedimento."
+   },
+   "SPDE01": {
+    "v": 2,
+    "conf": "voto",
+    "fonte": "https://www.al.sp.gov.br/repositorio/ementario/votacoes/9eee1206-2298-495c-a0a0-48733890f968.pdf",
+    "nota": "Votou Sim ao encerramento da discussão da privatização da Sabesp, aprovada sem consulta popular, em 05/12/2023; votação de procedimento."
+   },
+   "G05": {
+    "v": 1,
+    "conf": "declaracao",
+    "fonte": "https://www.al.sp.gov.br/propositura/?id=1000607498",
+    "nota": "Autora da Moção 150/2025 (12/05/2025), que repudia a defesa pública da legalização do aborto; também autora do PL 98/2023 (proteção ao nascituro)."
+   },
+   "G04": {
+    "v": 4,
+    "conf": "declaracao",
+    "fonte": "https://www.al.sp.gov.br/propositura/?id=1000331795",
+    "nota": "Autora da Moção 135/2020 (07/08/2020), que pede votação do PL 1597/2019, que estende o porte de arma a vigilantes de segurança privada."
+   }
+  }
+ },
+ {
+  "id": 250002536410,
+  "nomeUrna": "LUCAS BOVE",
+  "resumo": "Empresário da construção civil, deputado estadual pelo PL desde 2023 (1º mandato); foi vice-líder do PL e vice-presidente da Comissão de Educação da Alesp. Candidato à reeleição.",
+  "bandeiras": [
+   "Educação e segurança nas escolas",
+   "Combate ao crime",
+   "Agronegócio"
+  ],
+  "posicoes": {
+   "G03": {
+    "v": 4,
+    "conf": "voto",
+    "fonte": "https://www.al.sp.gov.br/repositorio/ementario/votacoes/9eee1206-2298-495c-a0a0-48733890f968.pdf",
+    "nota": "Votou Sim ao encerramento da discussão da privatização da Sabesp (PL 1501/2023) na Alesp em 05/12/2023; votação de procedimento."
+   },
+   "SPDE01": {
+    "v": 2,
+    "conf": "voto",
+    "fonte": "https://www.al.sp.gov.br/repositorio/ementario/votacoes/9eee1206-2298-495c-a0a0-48733890f968.pdf",
+    "nota": "Votou Sim ao encerramento da discussão da privatização da Sabesp, aprovada sem consulta popular, em 05/12/2023; votação de procedimento."
+   },
+   "G04": {
+    "v": 4,
+    "conf": "declaracao",
+    "fonte": "https://www.al.sp.gov.br/propositura/?id=1000485881",
+    "nota": "Um dos 3 autores do PL 426/2023 (01/04/2023), que isenta de ICMS a compra de armas e munições por agentes de segurança pública."
+   }
+  }
+ },
+ {
+  "id": 250002536397,
+  "nomeUrna": "OSEIAS DE MADUREIRA",
+  "resumo": "Pastor da Assembleia de Deus Ministério de Madureira, deputado estadual desde 2023 e vice-presidente da Comissão de Saúde da Alesp; trocou o PSD pelo PL em 2026. Candidato à reeleição.",
+  "bandeiras": [
+   "Saúde",
+   "Valores cristãos e família",
+   "Representação da comunidade evangélica"
+  ],
+  "posicoes": {
+   "G03": {
+    "v": 4,
+    "conf": "voto",
+    "fonte": "https://www.al.sp.gov.br/repositorio/ementario/votacoes/9eee1206-2298-495c-a0a0-48733890f968.pdf",
+    "nota": "Votou Sim ao encerramento da discussão da privatização da Sabesp (PL 1501/2023) na Alesp em 05/12/2023; votação de procedimento."
+   },
+   "SPDE01": {
+    "v": 2,
+    "conf": "voto",
+    "fonte": "https://www.al.sp.gov.br/repositorio/ementario/votacoes/9eee1206-2298-495c-a0a0-48733890f968.pdf",
+    "nota": "Votou Sim ao encerramento da discussão da privatização da Sabesp, aprovada sem consulta popular, em 05/12/2023; votação de procedimento."
+   },
+   "G13": {
+    "v": 4,
+    "conf": "declaracao",
+    "fonte": "https://abcdjornal.com.br/sao-bernardo/noticia/2026/03/16/oseias-de-madureira-se-filia-ao-pl-focado-na-reeleicao-e-na-pauta-conservadora/",
+    "nota": "Ao se filiar ao PL (16/03/2026), disse que seu objetivo é representar os valores do povo evangélico, a família e a liberdade na Assembleia."
+   }
+  }
+ },
+ {
+  "id": 250002538918,
+  "nomeUrna": "MONICA DAS PRETAS",
+  "resumo": "Deputada estadual pelo PSOL desde 2019, em 2º mandato, eleita em mandato coletivo pelo Movimento Pretas; atua em antirracismo, feminismo e meio ambiente. Candidata à reeleição.",
+  "bandeiras": [
+   "Antirracismo",
+   "Tarifa zero no Metrô e nos trens",
+   "Oposição à privatização da Sabesp"
+  ],
+  "posicoes": {
+   "G03": {
+    "v": 2,
+    "conf": "voto",
+    "fonte": "https://www.al.sp.gov.br/repositorio/ementario/votacoes/9eee1206-2298-495c-a0a0-48733890f968.pdf",
+    "nota": "Votou Não ao encerramento da discussão da privatização da Sabesp (PL 1501/2023) na Alesp em 05/12/2023; votação de procedimento."
+   },
+   "SPDE01": {
+    "v": 4,
+    "conf": "voto",
+    "fonte": "https://www.al.sp.gov.br/repositorio/ementario/votacoes/9eee1206-2298-495c-a0a0-48733890f968.pdf",
+    "nota": "Votou Não ao encerramento da discussão da privatização da Sabesp em 05/12/2023; a oposição defendia plebiscito. Votação de procedimento."
+   },
+   "G05": {
+    "v": 4,
+    "conf": "declaracao",
+    "fonte": "https://www.cartacapital.com.br/politica/monica-seixas-defender-legalizacao-do-aborto-e-drogas-nao-pode-ser-um-constrangimento/",
+    "nota": "Em entrevista (24/12/2022), citou a legalização do aborto como bandeira feminista a não ser abandonada."
+   },
+   "G06": {
+    "v": 4,
+    "conf": "declaracao",
+    "fonte": "https://www.cartacapital.com.br/politica/monica-seixas-defender-legalizacao-do-aborto-e-drogas-nao-pode-ser-um-constrangimento/",
+    "nota": "Na mesma entrevista (24/12/2022), defendeu manter a bandeira da legalização da maconha."
+   },
+   "SPDE04": {
+    "v": 4,
+    "conf": "declaracao",
+    "fonte": "https://pretas50900.com.br/",
+    "nota": "Site de campanha 2026 propõe lutar pela tarifa zero no Metrô e nos trens metropolitanos."
+   },
+   "G11": {
+    "v": 4,
+    "conf": "declaracao",
+    "fonte": "https://www.al.sp.gov.br/propositura/?id=1000370072",
+    "nota": "Autora do PL 303/2021 (18/05/2021), que reserva vagas para negros e indígenas em empresas com incentivos fiscais do estado."
+   },
+   "G07": {
+    "v": 4,
+    "conf": "declaracao",
+    "fonte": "https://www.al.sp.gov.br/propositura/?id=1000503693",
+    "nota": "Autora do PL 1442/2023 (29/09/2023), que institui a Política Estadual de Redução de Agrotóxicos."
+   }
+  }
+ },
+ {
+  "id": 250002536389,
+  "nomeUrna": "RICARDO MADALENA",
+  "resumo": "Engenheiro civil e empresário, deputado estadual desde 2015, em 3º mandato; presidiu a Comissão de Transportes da Alesp e atua em obras e repasses a municípios do interior. Candidato à reeleição pelo PL.",
+  "bandeiras": [
+   "Estradas vicinais e infraestrutura no interior",
+   "Recursos para municípios",
+   "Saúde nos municípios"
+  ],
+  "posicoes": {
+   "G03": {
+    "v": 4,
+    "conf": "voto",
+    "fonte": "https://www.al.sp.gov.br/repositorio/ementario/votacoes/9eee1206-2298-495c-a0a0-48733890f968.pdf",
+    "nota": "Votou Sim ao encerramento da discussão da privatização da Sabesp (PL 1501/2023) na Alesp em 05/12/2023; votação de procedimento."
+   },
+   "SPDE01": {
+    "v": 2,
+    "conf": "voto",
+    "fonte": "https://www.al.sp.gov.br/repositorio/ementario/votacoes/9eee1206-2298-495c-a0a0-48733890f968.pdf",
+    "nota": "Votou Sim ao encerramento da discussão da privatização da Sabesp, aprovada sem consulta popular, em 05/12/2023; votação de procedimento."
+   }
+  }
+ },
+ {
+  "id": 250002536260,
+  "nomeUrna": "PROFESSORA BEBEL",
+  "resumo": "Professora, presidente da Apeoesp (sindicato dos professores estaduais) e deputada estadual pelo PT desde 2019, em 2º mandato; candidata a prefeita de Piracicaba em 2024. Candidata à reeleição.",
+  "bandeiras": [
+   "Valorização salarial dos professores",
+   "Educação pública",
+   "Direitos dos servidores"
+  ],
+  "posicoes": {
+   "G03": {
+    "v": 2,
+    "conf": "voto",
+    "fonte": "https://www.al.sp.gov.br/repositorio/ementario/votacoes/9eee1206-2298-495c-a0a0-48733890f968.pdf",
+    "nota": "Votou Não ao encerramento da discussão da privatização da Sabesp (PL 1501/2023) na Alesp em 05/12/2023; votação de procedimento."
+   },
+   "SPDE01": {
+    "v": 4,
+    "conf": "voto",
+    "fonte": "https://www.al.sp.gov.br/repositorio/ementario/votacoes/9eee1206-2298-495c-a0a0-48733890f968.pdf",
+    "nota": "Votou Não ao encerramento da discussão da privatização da Sabesp em 05/12/2023; a oposição defendia plebiscito. Votação de procedimento."
+   },
+   "G14": {
+    "v": 5,
+    "conf": "declaracao",
+    "fonte": "https://www.al.sp.gov.br/propositura/?id=1000617393",
+    "nota": "Autora das Moções 249/2025 e 252/2025 (jul/2025), de apoio ao fim da escala 6x1 e à aprovação da PEC no Congresso."
+   },
+   "SPDE02": {
+    "v": 4,
+    "conf": "declaracao",
+    "fonte": "https://sampi.net.br/piracicaba/noticias/3000766/cidade/2026/08/sem-reajuste-bebel-chama-tarcisio-de-inimigo-da-educacao",
+    "nota": "Em 26/08/2026, criticou a falta de reajuste aos professores e citou R$ 89,5 bi em isenções fiscais a empresas como alternativa de recursos."
+   },
+   "G02": {
+    "v": 4,
+    "conf": "declaracao",
+    "fonte": "https://www.al.sp.gov.br/propositura/?id=1000493949",
+    "nota": "Autora do PL 1087/2023 (30/06/2023), que institui o Programa Estadual de Renda Mínima."
+   }
+  }
+ },
+ {
+  "id": 250002539952,
+  "nomeUrna": "PAULA DA BANCADA FEMINISTA",
+  "resumo": "Advogada, co-deputada estadual desde 2023 pelo mandato coletivo Bancada Feminista do PSOL, do qual é a representante legal; ex-covereadora em São Paulo. Candidata à reeleição.",
+  "bandeiras": [
+   "Mulheres negras na política e combate ao feminicídio",
+   "Serviços públicos e oposição às privatizações",
+   "Tarifa zero no transporte"
+  ],
+  "posicoes": {
+   "G03": {
+    "v": 2,
+    "conf": "voto",
+    "fonte": "https://www.al.sp.gov.br/repositorio/ementario/votacoes/9eee1206-2298-495c-a0a0-48733890f968.pdf",
+    "nota": "Votou Não ao encerramento da discussão da privatização da Sabesp (PL 1501/2023) na Alesp em 05/12/2023; votação de procedimento."
+   },
+   "SPDE01": {
+    "v": 4,
+    "conf": "voto",
+    "fonte": "https://www.al.sp.gov.br/repositorio/ementario/votacoes/9eee1206-2298-495c-a0a0-48733890f968.pdf",
+    "nota": "Votou Não ao encerramento da discussão da privatização da Sabesp em 05/12/2023; a oposição defendia plebiscito. Votação de procedimento."
+   },
+   "G05": {
+    "v": 4,
+    "conf": "declaracao",
+    "fonte": "https://almapreta.com.br/sessao/quilombo/legalizacao-aborto-pauta-mulheres-negras/",
+    "nota": "Em artigo de 28/09/2023 defendeu a descriminalização do aborto até 12 semanas; autora dos PLs 183 e 186/2025 sobre aborto legal."
+   },
+   "G14": {
+    "v": 4,
+    "conf": "declaracao",
+    "fonte": "https://www.bancadafeministapsol.com.br/manifesto",
+    "nota": "Manifesto do mandato cita o fim da escala 6x1 como vitória a buscar; coautora do PL 308/2025, que veda a escala 6x1 em contratos com o poder público."
+   },
+   "SPDE04": {
+    "v": 4,
+    "conf": "declaracao",
+    "fonte": "https://diariodotransporte.com.br/2026/05/06/tarifa-zero-nos-onibus-intermunicipais-de-sao-paulo-tem-parecer-favoravel-por-relator-da-comissao-de-constituicao-da-alesp-e-projeto-avanca/",
+    "nota": "Autora de PL (28/10/2025) que prevê tarifa zero gradual nos ônibus metropolitanos; também do PL 526/2025, passe livre no metrô, CPTM e EMTU para mães."
+   }
+  }
+ },
+ {
+  "id": 250002536814,
+  "nomeUrna": "THAINARA FARIA",
+  "resumo": "Advogada, deputada estadual desde 2023 e ex-vereadora de Araraquara (2017 a 2022). Assumiu a liderança da Minoria na Alesp em 2025. Candidata à reeleição.",
+  "bandeiras": [
+   "Direitos das mulheres e delegacias da mulher",
+   "Combate ao racismo",
+   "Permanência estudantil no ensino superior"
+  ],
+  "posicoes": {
+   "SPDE01": {
+    "v": 4,
+    "conf": "declaracao",
+    "fonte": "https://www.al.sp.gov.br/propositura/?id=1000503788",
+    "nota": "Coautora, com outros 5 deputados, do PL 1448/2023, que torna obrigatório plebiscito em privatizações de empresas públicas e de economia mista."
+   }
+  }
+ },
+ {
+  "id": 250002540901,
+  "nomeUrna": "MARIA LÚCIA AMARY",
+  "resumo": "Advogada e professora, deputada estadual em sexto mandato consecutivo, com base em Sorocaba; ex-candidata a prefeita de Sorocaba (2020). Deixou o PSDB e disputa a reeleição pelo PSD.",
+  "bandeiras": [
+   "Saúde e recursos para Sorocaba e região",
+   "Direitos das mulheres",
+   "Causa animal"
+  ],
+  "posicoes": {}
+ },
+ {
+  "id": 250002533748,
+  "nomeUrna": "CAMILA GODOI",
+  "resumo": "Professora, ex-vereadora de Itapevi (três mandatos), assumiu vaga de deputada estadual em julho de 2025 após recontagem dos votos de 2022. Disputa a reeleição pelo União Brasil.",
+  "bandeiras": [
+   "Educação",
+   "Saúde",
+   "Segurança pública"
+  ],
+  "posicoes": {}
+ },
+ {
+  "id": 250002536423,
+  "nomeUrna": "THIAGO AURICCHIO",
+  "resumo": "Deputado estadual desde 2019, com base em São Caetano do Sul e no ABC. Autor do Código Paulista de Defesa da Mulher e do Protocolo Não Se Cale. Candidato à reeleição pelo PL.",
+  "bandeiras": [
+   "Segurança",
+   "Saúde",
+   "Políticas para mulheres"
+  ],
+  "posicoes": {
+   "G03": {
+    "v": 4,
+    "conf": "voto",
+    "fonte": "https://www.al.sp.gov.br/repositorio/ementario/votacoes/9eee1206-2298-495c-a0a0-48733890f968.pdf",
+    "nota": "Votou Sim ao encerramento da discussão da privatização da Sabesp (PL 1501/2023) na Alesp em 05/12/2023; votação de procedimento."
+   },
+   "SPDE01": {
+    "v": 2,
+    "conf": "voto",
+    "fonte": "https://www.al.sp.gov.br/repositorio/ementario/votacoes/9eee1206-2298-495c-a0a0-48733890f968.pdf",
+    "nota": "Votou Sim ao encerramento da discussão da privatização da Sabesp, aprovada sem consulta popular, em 05/12/2023; votação de procedimento."
+   },
+   "G04": {
+    "v": 2,
+    "conf": "declaracao",
+    "fonte": "https://www.al.sp.gov.br/propositura/?id=1000485134",
+    "nota": "Autor do PL 84/2023, que autoriza bares, restaurantes e outros estabelecimentos a impedir a entrada ou permanência de clientes portando arma de fogo."
+   }
+  }
+ },
+ {
+  "id": 250002538904,
+  "nomeUrna": "EDIANE MARIA",
+  "resumo": "Ex-empregada doméstica e coordenadora do MTST, deputada estadual desde 2023 e líder da bancada do PSOL na Alesp. Autora do Protocolo Antirracista. Candidata à reeleição.",
+  "bandeiras": [
+   "Moradia e combate a despejos",
+   "Direitos das trabalhadoras domésticas",
+   "Combate ao racismo"
+  ],
+  "posicoes": {
+   "G03": {
+    "v": 2,
+    "conf": "voto",
+    "fonte": "https://www.al.sp.gov.br/repositorio/ementario/votacoes/9eee1206-2298-495c-a0a0-48733890f968.pdf",
+    "nota": "Votou Não ao encerramento da discussão da privatização da Sabesp (PL 1501/2023) na Alesp em 05/12/2023; votação de procedimento."
+   },
+   "SPDE01": {
+    "v": 4,
+    "conf": "voto",
+    "fonte": "https://www.al.sp.gov.br/repositorio/ementario/votacoes/9eee1206-2298-495c-a0a0-48733890f968.pdf",
+    "nota": "Votou Não ao encerramento da discussão da privatização da Sabesp em 05/12/2023; a oposição defendia plebiscito. Votação de procedimento."
+   },
+   "G14": {
+    "v": 5,
+    "conf": "declaracao",
+    "fonte": "https://www.threads.com/@edianemariamtst",
+    "nota": "Publicou \"Fim da escala 6x1, já!\" em rede social; autora do PL 866/2024, que limita a 4 dias semanais a jornada em obras e serviços contratados pelo estado."
+   },
+   "G02": {
+    "v": 4,
+    "conf": "declaracao",
+    "fonte": "https://www.al.sp.gov.br/propositura/?id=1000629940",
+    "nota": "Coautora, com outros 3 deputados, do PL 991/2025, que institui a Política Estadual de Renda Básica de Cidadania em SP."
+   }
+  }
+ },
+ {
+  "id": 250002536392,
+  "nomeUrna": "VALERIA BOLSONARO",
+  "resumo": "Bióloga e professora, deputada estadual desde 2019. Foi secretária estadual de Políticas para a Mulher de SP a partir de maio de 2024. Candidata à reeleição pelo PL.",
+  "bandeiras": [
+   "Educação",
+   "Políticas públicas para mulheres",
+   "Direitos das pessoas com autismo"
+  ],
+  "posicoes": {
+   "G04": {
+    "v": 4,
+    "conf": "declaracao",
+    "fonte": "https://agemt.pucsp.br/noticias/poder-por-elas-quem-e-valeria-bolsonaro",
+    "nota": "Em vídeo de aula de tiro da campanha de 2018 disse \"Eu aconselho, isso aqui é uma maravilha, faz muito bem para nossa segurança\" (relatado em 20/09/2023)."
+   },
+   "G05": {
+    "v": 2,
+    "conf": "declaracao",
+    "fonte": "https://www.al.sp.gov.br/propositura/?id=1000483477",
+    "nota": "Autora da Moção 10/2023 (fev/2023), que repudia ministra do governo federal por afirmar que defenderia o aborto à frente da pasta das Mulheres."
+   }
+  }
+ },
+ {
+  "id": 250002540562,
+  "nomeUrna": "CARLA MORANDO",
+  "resumo": "Deputada estadual desde 2019, com base em São Bernardo do Campo e no ABC. Deixou o PSDB e disputa o terceiro mandato pelo PSD em 2026.",
+  "bandeiras": [
+   "Proteção às mulheres e combate à violência",
+   "Saúde no ABC",
+   "Proteção animal"
+  ],
+  "posicoes": {
+   "G03": {
+    "v": 4,
+    "conf": "voto",
+    "fonte": "https://www.al.sp.gov.br/repositorio/ementario/votacoes/9eee1206-2298-495c-a0a0-48733890f968.pdf",
+    "nota": "Votou Sim ao encerramento da discussão da privatização da Sabesp (PL 1501/2023) na Alesp em 05/12/2023; votação de procedimento."
+   },
+   "SPDE01": {
+    "v": 2,
+    "conf": "voto",
+    "fonte": "https://www.al.sp.gov.br/repositorio/ementario/votacoes/9eee1206-2298-495c-a0a0-48733890f968.pdf",
+    "nota": "Votou Sim ao encerramento da discussão da privatização da Sabesp, aprovada sem consulta popular, em 05/12/2023; votação de procedimento."
+   },
+   "G05": {
+    "v": 1,
+    "conf": "declaracao",
+    "fonte": "https://www.al.sp.gov.br/propositura/?id=1000503082",
+    "nota": "Autora da Moção 192/2023, que pede ao Congresso manter os artigos 124 a 126 do Código Penal (crime de aborto); coautora da Moção 119/2026 no mesmo sentido."
+   }
+  }
+ },
+ {
+  "id": 250002536393,
+  "nomeUrna": "PAULO MANSUR",
+  "resumo": "Empresário de comunicação e apresentador de TV em Santos e Campinas, deputado estadual desde 2023 com base na Baixada Santista. Candidato à reeleição pelo PL.",
+  "bandeiras": [
+   "Segurança pública e tornozeleira eletrônica",
+   "Combate ao abuso e à exploração sexual infantil",
+   "Saúde na Baixada Santista"
+  ],
+  "posicoes": {
+   "G03": {
+    "v": 4,
+    "conf": "voto",
+    "fonte": "https://www.al.sp.gov.br/repositorio/ementario/votacoes/9eee1206-2298-495c-a0a0-48733890f968.pdf",
+    "nota": "Votou Sim ao encerramento da discussão da privatização da Sabesp (PL 1501/2023) na Alesp em 05/12/2023; votação de procedimento."
+   },
+   "SPDE01": {
+    "v": 2,
+    "conf": "voto",
+    "fonte": "https://www.al.sp.gov.br/repositorio/ementario/votacoes/9eee1206-2298-495c-a0a0-48733890f968.pdf",
+    "nota": "Votou Sim ao encerramento da discussão da privatização da Sabesp, aprovada sem consulta popular, em 05/12/2023; votação de procedimento."
+   },
+   "G14": {
+    "v": 2,
+    "conf": "declaracao",
+    "fonte": "https://www.bs9.com.br/politica/2025/05/14/em-entrevista-exclusiva-ao-bs9-deputado-paulo-mansur-revela-planos-para-o-futuro.html",
+    "nota": "Em entrevista de 14/05/2025, perguntado sobre o fim da 6x1, disse que redução de jornada só é possível com corte de impostos; defendeu legislação flexível."
+   }
+  }
+ },
+ {
+  "id": 250002536407,
+  "nomeUrna": "CONTE LOPES",
+  "resumo": "Capitão reformado da Polícia Militar que atuou na Rota, radialista e advogado. Deputado estadual desde 2019, com mandatos anteriores na Alesp, e ex-vereador de São Paulo. Candidato à reeleição pelo PL.",
+  "bandeiras": [
+   "Segurança pública",
+   "Condições de trabalho dos policiais"
+  ],
+  "posicoes": {
+   "G03": {
+    "v": 4,
+    "conf": "voto",
+    "fonte": "https://www.al.sp.gov.br/repositorio/ementario/votacoes/9eee1206-2298-495c-a0a0-48733890f968.pdf",
+    "nota": "Votou Sim ao encerramento da discussão da privatização da Sabesp (PL 1501/2023) na Alesp em 05/12/2023; votação de procedimento."
+   },
+   "SPDE01": {
+    "v": 2,
+    "conf": "voto",
+    "fonte": "https://www.al.sp.gov.br/repositorio/ementario/votacoes/9eee1206-2298-495c-a0a0-48733890f968.pdf",
+    "nota": "Votou Sim ao encerramento da discussão da privatização da Sabesp, aprovada sem consulta popular, em 05/12/2023; votação de procedimento."
+   },
+   "G12": {
+    "v": 4,
+    "conf": "declaracao",
+    "fonte": "https://www.saopaulo.sp.leg.br/apartes-anteriores/revista-apartes/numero-14-mai2015/a-idade-do-crime/",
+    "nota": "Como vereador, em maio de 2015, disse: \"Eu sou favorável a que a pessoa a partir de 16 anos seja responsabilizada criminalmente.\""
+   },
+   "G04": {
+    "v": 4,
+    "conf": "declaracao",
+    "fonte": "https://www.opovo.com.br/noticias/politica/2012/10/conte-lopes-defende-porte-de-arma-por-civis.html",
+    "nota": "Em 16/10/2012 defendeu o porte de arma por civis \"dentro da lei\" e com treinamento: \"O Estado não te defende? Por que você não pode se defender?\""
+   }
+  }
+ },
+ {
+  "id": 250002540878,
+  "nomeUrna": "MARTA COSTA",
+  "resumo": "Administradora, deputada estadual desde 2015 e ex-vereadora de São Paulo por três mandatos; foi candidata a vice-prefeita da capital em 2020. Ligada à Assembleia de Deus. Candidata à reeleição pelo PSD.",
+  "bandeiras": [],
+  "posicoes": {
+   "G03": {
+    "v": 4,
+    "conf": "voto",
+    "fonte": "https://www.al.sp.gov.br/repositorio/ementario/votacoes/9eee1206-2298-495c-a0a0-48733890f968.pdf",
+    "nota": "Votou Sim ao encerramento da discussão da privatização da Sabesp (PL 1501/2023) na Alesp em 05/12/2023; votação de procedimento."
+   },
+   "SPDE01": {
+    "v": 2,
+    "conf": "voto",
+    "fonte": "https://www.al.sp.gov.br/repositorio/ementario/votacoes/9eee1206-2298-495c-a0a0-48733890f968.pdf",
+    "nota": "Votou Sim ao encerramento da discussão da privatização da Sabesp, aprovada sem consulta popular, em 05/12/2023; votação de procedimento."
+   }
+  }
+ },
+ {
+  "id": 250002534178,
+  "nomeUrna": "ATILA JACOMUSSI",
+  "resumo": "Empresário, ex-vereador e ex-prefeito de Mauá (eleito em 2016), deputado estadual desde 2023. Candidato à reeleição pelo PRD, com base em Mauá, Ribeirão Pires e Rio Grande da Serra.",
+  "bandeiras": [
+   "Saúde (Carreta da Mamografia, AME, Hospital Nardini)",
+   "Causa animal (Caravana Pet)",
+   "Obras para Mauá e região"
+  ],
+  "posicoes": {
+   "G03": {
+    "v": 4,
+    "conf": "voto",
+    "fonte": "https://www.al.sp.gov.br/repositorio/ementario/votacoes/9eee1206-2298-495c-a0a0-48733890f968.pdf",
+    "nota": "Votou Sim ao encerramento da discussão da privatização da Sabesp (PL 1501/2023) na Alesp em 05/12/2023; votação de procedimento."
+   },
+   "SPDE01": {
+    "v": 2,
+    "conf": "voto",
+    "fonte": "https://www.al.sp.gov.br/repositorio/ementario/votacoes/9eee1206-2298-495c-a0a0-48733890f968.pdf",
+    "nota": "Votou Sim ao encerramento da discussão da privatização da Sabesp, aprovada sem consulta popular, em 05/12/2023; votação de procedimento."
+   }
+  }
+ },
+ {
+  "id": 250002540880,
+  "nomeUrna": "ROGERIO NOGUEIRA",
+  "resumo": "Empresário e ex-piloto de motocross, deputado estadual em sexto mandato, com base em Indaiatuba e Salto. Líder do bloco do PSD na Alesp e candidato à reeleição pelo partido.",
+  "bandeiras": [
+   "Educação",
+   "Saúde",
+   "Indaiatuba, Salto e Região Metropolitana de Campinas"
+  ],
+  "posicoes": {
+   "G03": {
+    "v": 4,
+    "conf": "voto",
+    "fonte": "https://www.al.sp.gov.br/repositorio/ementario/votacoes/9eee1206-2298-495c-a0a0-48733890f968.pdf",
+    "nota": "Votou Sim ao encerramento da discussão da privatização da Sabesp (PL 1501/2023) na Alesp em 05/12/2023; votação de procedimento."
+   },
+   "SPDE01": {
+    "v": 2,
+    "conf": "voto",
+    "fonte": "https://www.al.sp.gov.br/repositorio/ementario/votacoes/9eee1206-2298-495c-a0a0-48733890f968.pdf",
+    "nota": "Votou Sim ao encerramento da discussão da privatização da Sabesp, aprovada sem consulta popular, em 05/12/2023; votação de procedimento."
+   },
+   "SPDE04": {
+    "v": 4,
+    "conf": "declaracao",
+    "fonte": "https://www.al.sp.gov.br/noticia/?id=468003",
+    "nota": "Autor do PL 1606/2023, que cria bilhete único nos ônibus intermunicipais da Região Metropolitana de Campinas, com até três viagens em 3 horas por uma tarifa."
+   }
+  }
+ },
+ {
+  "id": 250002536395,
+  "nomeUrna": "TENENTE COIMBRA",
+  "resumo": "Deputado estadual por SP desde 2019, reeleito em 2022 pelo PL; ex-militar do Exército. Autor do projeto que deu origem ao programa de escolas cívico-militares.",
+  "bandeiras": [
+   "Segurança pública",
+   "Escolas cívico-militares",
+   "Valores e família"
+  ],
+  "posicoes": {
+   "G03": {
+    "v": 4,
+    "conf": "voto",
+    "fonte": "https://www.al.sp.gov.br/repositorio/ementario/votacoes/9eee1206-2298-495c-a0a0-48733890f968.pdf",
+    "nota": "Votou Sim ao encerramento da discussão da privatização da Sabesp (PL 1501/2023) na Alesp em 05/12/2023; votação de procedimento."
+   },
+   "SPDE01": {
+    "v": 2,
+    "conf": "voto",
+    "fonte": "https://www.al.sp.gov.br/repositorio/ementario/votacoes/9eee1206-2298-495c-a0a0-48733890f968.pdf",
+    "nota": "Votou Sim ao encerramento da discussão da privatização da Sabesp, aprovada sem consulta popular, em 05/12/2023; votação de procedimento."
+   },
+   "G09": {
+    "v": 4,
+    "conf": "declaracao",
+    "fonte": "https://www.al.sp.gov.br/propositura/?id=1000671494",
+    "nota": "Autor de moções em 2025 que repudiam liminar de Gilmar Mendes na ADPF 1259 e pedem ao Senado que suste a decisão para proteger prerrogativas do Legislativo."
+   }
+  }
+ },
+ {
+  "id": 250002536358,
+  "nomeUrna": "DANI ALONSO",
+  "resumo": "Deputada estadual por SP desde 2023, pelo PL, de Marília; preside a Comissão de Defesa dos Direitos das Mulheres da Alesp.",
+  "bandeiras": [
+   "Defesa das mulheres",
+   "Saúde e infraestrutura no interior",
+   "Segurança pública"
+  ],
+  "posicoes": {}
+ },
+ {
+  "id": 250002545142,
+  "nomeUrna": "RICARDO FRANÇA",
+  "resumo": "Deputado estadual por SP desde 2023, pelo Podemos, de Indaiatuba; foi vereador na cidade por dois mandatos. Atua na região de Campinas.",
+  "bandeiras": [
+   "Proteção animal",
+   "Primeira infância",
+   "Saúde pública"
+  ],
+  "posicoes": {
+   "G03": {
+    "v": 4,
+    "conf": "voto",
+    "fonte": "https://www.al.sp.gov.br/repositorio/ementario/votacoes/9eee1206-2298-495c-a0a0-48733890f968.pdf",
+    "nota": "Votou Sim ao encerramento da discussão da privatização da Sabesp (PL 1501/2023) na Alesp em 05/12/2023; votação de procedimento."
+   },
+   "SPDE01": {
+    "v": 2,
+    "conf": "voto",
+    "fonte": "https://www.al.sp.gov.br/repositorio/ementario/votacoes/9eee1206-2298-495c-a0a0-48733890f968.pdf",
+    "nota": "Votou Sim ao encerramento da discussão da privatização da Sabesp, aprovada sem consulta popular, em 05/12/2023; votação de procedimento."
+   }
+  }
+ },
+ {
+  "id": 250002536366,
+  "nomeUrna": "DELEGADA GRACIELA",
+  "resumo": "Deputada estadual por SP desde 2019, reeleita em 2022 pelo PL, de Franca; foi delegada de polícia, 25 anos à frente da Delegacia de Defesa da Mulher de Franca.",
+  "bandeiras": [
+   "Segurança pública em Franca e região",
+   "Delegacias de Defesa da Mulher",
+   "Recursos para Franca e região"
+  ],
+  "posicoes": {
+   "G03": {
+    "v": 4,
+    "conf": "voto",
+    "fonte": "https://www.al.sp.gov.br/repositorio/ementario/votacoes/9eee1206-2298-495c-a0a0-48733890f968.pdf",
+    "nota": "Votou Sim ao encerramento da discussão da privatização da Sabesp (PL 1501/2023) na Alesp em 05/12/2023; votação de procedimento."
+   },
+   "SPDE01": {
+    "v": 2,
+    "conf": "voto",
+    "fonte": "https://www.al.sp.gov.br/repositorio/ementario/votacoes/9eee1206-2298-495c-a0a0-48733890f968.pdf",
+    "nota": "Votou Sim ao encerramento da discussão da privatização da Sabesp, aprovada sem consulta popular, em 05/12/2023; votação de procedimento."
+   }
+  }
+ },
+ {
+  "id": 250002536429,
+  "nomeUrna": "DANILO BALAS",
+  "resumo": "Deputado estadual por SP desde 2019, reeleito em 2022 pelo PL; agente da Polícia Federal, com passagem pela Polícia Militar.",
+  "bandeiras": [
+   "Segurança pública",
+   "Fiscalização de obras paradas",
+   "Recursos para cidades"
+  ],
+  "posicoes": {
+   "G03": {
+    "v": 4,
+    "conf": "voto",
+    "fonte": "https://www.al.sp.gov.br/repositorio/ementario/votacoes/9eee1206-2298-495c-a0a0-48733890f968.pdf",
+    "nota": "Votou Sim ao encerramento da discussão da privatização da Sabesp (PL 1501/2023) na Alesp em 05/12/2023; votação de procedimento."
+   },
+   "SPDE01": {
+    "v": 2,
+    "conf": "voto",
+    "fonte": "https://www.al.sp.gov.br/repositorio/ementario/votacoes/9eee1206-2298-495c-a0a0-48733890f968.pdf",
+    "nota": "Votou Sim ao encerramento da discussão da privatização da Sabesp, aprovada sem consulta popular, em 05/12/2023; votação de procedimento."
+   },
+   "G04": {
+    "v": 4,
+    "conf": "declaracao",
+    "fonte": "https://www.al.sp.gov.br/propositura/?id=1000342789",
+    "nota": "Autor do PL 658/2020 na Alesp, que isenta de ICMS a compra de armas por policiais, guardas e CACs; coautor de PL sobre porte de atiradores (2021)."
+   }
+  }
+ },
+ {
+  "id": 250002536352,
+  "nomeUrna": "RODRIGO MORAES",
+  "resumo": "Deputado estadual por SP desde 2011, no quarto mandato, eleito em 2022 pelo PL; de Itu, advogado e empresário. Foi candidato a prefeito de Itu em 2024.",
+  "bandeiras": [],
+  "posicoes": {
+   "G03": {
+    "v": 4,
+    "conf": "voto",
+    "fonte": "https://www.al.sp.gov.br/repositorio/ementario/votacoes/9eee1206-2298-495c-a0a0-48733890f968.pdf",
+    "nota": "Votou Sim ao encerramento da discussão da privatização da Sabesp (PL 1501/2023) na Alesp em 05/12/2023; votação de procedimento."
+   },
+   "SPDE01": {
+    "v": 2,
+    "conf": "voto",
+    "fonte": "https://www.al.sp.gov.br/repositorio/ementario/votacoes/9eee1206-2298-495c-a0a0-48733890f968.pdf",
+    "nota": "Votou Sim ao encerramento da discussão da privatização da Sabesp, aprovada sem consulta popular, em 05/12/2023; votação de procedimento."
+   },
+   "G13": {
+    "v": 2,
+    "conf": "declaracao",
+    "fonte": "https://www.al.sp.gov.br/noticia/?id=385110",
+    "nota": "Em entrevista à Alesp (30/10/2017), disse que, como pessoa pública, separa convicções religiosas do trabalho para o Estado e defende a pluralidade religiosa."
+   }
+  }
+ },
+ {
+  "id": 250002540584,
+  "nomeUrna": "ANALICE FERNANDES",
+  "resumo": "Deputada estadual por SP desde 2003, enfermeira, de Taboão da Serra; deixou o PSDB e entrou no PSD em fevereiro de 2026. Busca o sétimo mandato.",
+  "bandeiras": [
+   "Desenvolvimento da região sudoeste da Grande SP",
+   "Defesa dos direitos da mulher",
+   "Valorização da enfermagem"
+  ],
+  "posicoes": {}
+ },
+ {
+  "id": 250002545203,
+  "nomeUrna": "CLARICE GANEM",
+  "resumo": "Deputada estadual por SP desde 2023, pelo Podemos, de Indaiatuba; administradora de empresas. Atua em proteção animal e inclusão de pessoas com autismo.",
+  "bandeiras": [
+   "Proteção animal",
+   "Educação inclusiva e autismo",
+   "Proteção digital de crianças"
+  ],
+  "posicoes": {
+   "G03": {
+    "v": 4,
+    "conf": "voto",
+    "fonte": "https://www.al.sp.gov.br/repositorio/ementario/votacoes/9eee1206-2298-495c-a0a0-48733890f968.pdf",
+    "nota": "Votou Sim ao encerramento da discussão da privatização da Sabesp (PL 1501/2023) na Alesp em 05/12/2023; votação de procedimento."
+   },
+   "SPDE01": {
+    "v": 2,
+    "conf": "voto",
+    "fonte": "https://www.al.sp.gov.br/repositorio/ementario/votacoes/9eee1206-2298-495c-a0a0-48733890f968.pdf",
+    "nota": "Votou Sim ao encerramento da discussão da privatização da Sabesp, aprovada sem consulta popular, em 05/12/2023; votação de procedimento."
+   }
+  }
+ },
+ {
+  "id": 250002536263,
+  "nomeUrna": "MARCOLINO",
+  "resumo": "Deputado estadual por SP (2011 a 2015 e desde 2023), pelo PT; bancário e sindicalista. Integra a Comissão de Finanças e Orçamento da Alesp.",
+  "bandeiras": [
+   "Direitos dos trabalhadores",
+   "Fim da escala 6x1",
+   "Serviços e programas sociais"
+  ],
+  "posicoes": {
+   "G03": {
+    "v": 2,
+    "conf": "voto",
+    "fonte": "https://www.al.sp.gov.br/repositorio/ementario/votacoes/9eee1206-2298-495c-a0a0-48733890f968.pdf",
+    "nota": "Votou Não ao encerramento da discussão da privatização da Sabesp (PL 1501/2023) na Alesp em 05/12/2023; votação de procedimento."
+   },
+   "SPDE01": {
+    "v": 4,
+    "conf": "voto",
+    "fonte": "https://www.al.sp.gov.br/repositorio/ementario/votacoes/9eee1206-2298-495c-a0a0-48733890f968.pdf",
+    "nota": "Votou Não ao encerramento da discussão da privatização da Sabesp em 05/12/2023; a oposição defendia plebiscito. Votação de procedimento."
+   },
+   "G14": {
+    "v": 4,
+    "conf": "declaracao",
+    "fonte": "https://www.mundosindical.com.br/Noticias/68653,Deputado-Marcolino-promove-audiencia-publica-sobre-o-fim-da-escala-6x1",
+    "nota": "Promoveu audiência na Alesp em 30/03/2026 em defesa da PEC do fim da escala 6x1, com redução de jornada sem redução de salário."
+   },
+   "G01": {
+    "v": 2,
+    "conf": "declaracao",
+    "fonte": "https://radardemocratico.com.br/2026/07/marcolino-denuncia-cortes-em-programas-sociais-sociais-e-falta-de-transparencia-no-orcamento-de-sp/",
+    "nota": "Em 07/2026 criticou cortes em programas sociais e educação no orçamento de SP e a renúncia fiscal de ICMS e IPVA concedida pelo governo."
+   }
+  }
+ },
+ {
+  "id": 250002536406,
+  "nomeUrna": "MARCOS DAMASIO",
+  "resumo": "Deputado estadual por SP desde 2019, reeleito em 2022 pelo PL; de Mogi das Cruzes, advogado, ex-vereador e ex-secretário municipal de Desenvolvimento Econômico.",
+  "bandeiras": [
+   "Empreendedorismo",
+   "Desenvolvimento das cidades",
+   "Alto Tietê"
+  ],
+  "posicoes": {
+   "G03": {
+    "v": 4,
+    "conf": "voto",
+    "fonte": "https://www.al.sp.gov.br/repositorio/ementario/votacoes/9eee1206-2298-495c-a0a0-48733890f968.pdf",
+    "nota": "Votou Sim ao encerramento da discussão da privatização da Sabesp (PL 1501/2023) na Alesp em 05/12/2023; votação de procedimento."
+   },
+   "SPDE01": {
+    "v": 2,
+    "conf": "voto",
+    "fonte": "https://www.al.sp.gov.br/repositorio/ementario/votacoes/9eee1206-2298-495c-a0a0-48733890f968.pdf",
+    "nota": "Votou Sim ao encerramento da discussão da privatização da Sabesp, aprovada sem consulta popular, em 05/12/2023; votação de procedimento."
+   }
+  }
+ },
+ {
+  "id": 250002539298,
+  "nomeUrna": "VALDOMIRO LOPES",
+  "resumo": "Deputado estadual por SP desde 2023, pelo PSB; médico fisiatra, foi prefeito de São José do Rio Preto de 2009 a 2016.",
+  "bandeiras": [
+   "Saúde",
+   "Demandas regionais de São José do Rio Preto"
+  ],
+  "posicoes": {
+   "G03": {
+    "v": 4,
+    "conf": "voto",
+    "fonte": "https://www.al.sp.gov.br/repositorio/ementario/votacoes/9eee1206-2298-495c-a0a0-48733890f968.pdf",
+    "nota": "Votou Sim ao encerramento da discussão da privatização da Sabesp (PL 1501/2023) na Alesp em 05/12/2023; votação de procedimento."
+   },
+   "SPDE01": {
+    "v": 2,
+    "conf": "voto",
+    "fonte": "https://www.al.sp.gov.br/repositorio/ementario/votacoes/9eee1206-2298-495c-a0a0-48733890f968.pdf",
+    "nota": "Votou Sim ao encerramento da discussão da privatização da Sabesp, aprovada sem consulta popular, em 05/12/2023; votação de procedimento."
+   }
+  }
+ },
+ {
+  "id": 250002536419,
+  "nomeUrna": "BRUNO ZAMBELLI",
+  "resumo": "Deputado estadual por SP desde 2023, pelo PL, vice-líder do partido na Alesp; irmão da ex-deputada federal Carla Zambelli.",
+  "bandeiras": [],
+  "posicoes": {
+   "G03": {
+    "v": 4,
+    "conf": "voto",
+    "fonte": "https://www.al.sp.gov.br/repositorio/ementario/votacoes/9eee1206-2298-495c-a0a0-48733890f968.pdf",
+    "nota": "Votou Sim ao encerramento da discussão da privatização da Sabesp (PL 1501/2023) na Alesp em 05/12/2023; votação de procedimento."
+   },
+   "SPDE01": {
+    "v": 2,
+    "conf": "voto",
+    "fonte": "https://www.al.sp.gov.br/repositorio/ementario/votacoes/9eee1206-2298-495c-a0a0-48733890f968.pdf",
+    "nota": "Votou Sim ao encerramento da discussão da privatização da Sabesp, aprovada sem consulta popular, em 05/12/2023; votação de procedimento."
+   }
+  }
+ }
+]

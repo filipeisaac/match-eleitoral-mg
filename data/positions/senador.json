@@ -51,12 +51,6 @@
     "fonte": "https://dadosabertos.camara.leg.br/api/v2/votacoes/2310837-8/votos",
     "nota": "Votou a favor da urgência do PL 2630/2020 (PL das Fake News), que responsabiliza plataformas, em 25/04/2023."
    },
-   "G14": {
-    "v": 4,
-    "conf": "voto",
-    "fonte": "https://dadosabertos.camara.leg.br/api/v2/votacoes/2233802-438/votos",
-    "nota": "Votou a favor da PEC 221/2019 (40h semanais e 2 dias de folga, fim da escala 6x1) nos dois turnos, em 27/05/2026."
-   },
    "S01": {
     "v": 3,
     "conf": "declaracao",
@@ -428,12 +422,6 @@
     "conf": "voto",
     "fonte": "https://dadosabertos.camara.leg.br/api/v2/votacoes/14493-536/votos",
     "nota": "Votou a favor da PEC 171/1993 (maioridade penal) nos dois turnos em 2015 e é coautor da PEC 8/2026, que reduz a maioridade em crimes hediondos."
-   },
-   "G14": {
-    "v": 4,
-    "conf": "voto",
-    "fonte": "https://dadosabertos.camara.leg.br/api/v2/votacoes/2233802-438/votos",
-    "nota": "Votou a favor da PEC 221/2019 (40h e 2 folgas, fim da 6x1) em 27/05/2026; em 24/03/2026 criticou a versão 4x3 (PEC 8/2025)."
    },
    "S01": {
     "v": 5,

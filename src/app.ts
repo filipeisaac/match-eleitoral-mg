@@ -1,4 +1,5 @@
 import { calcularMatch, codificar, decodificar, ranquear, type Posicao, type Resposta, type Resultado } from "./match";
+import { icone } from "./icones";
 
 // ---------- Tipos dos dados ----------
 interface Detalhes { situacao?: string; aFavor?: string[]; contra?: string[]; fontes?: string[] }
@@ -16,20 +17,24 @@ interface Candidato {
   redes: { tipo: string; url: string }[]; foto: string | null; resumo: string | null; bandeiras: string[];
   posicoes: Record<string, Posicao>;
 }
-interface Dados { geradoEm: string; eleicao: string; uf: string; escala: Record<string, string>; secoes: Secao[]; candidatos: Candidato[] }
+interface Dados { geradoEm: string; eleicao: string; uf: string; estado: string; escala: Record<string, string>; secoes: Secao[]; candidatos: Candidato[] }
 
 type Passo = { tipo: "secao"; secao: Secao } | { tipo: "pergunta"; secao: Secao; p: Pergunta };
 
 const REPO = "https://github.com/filipeisaac/match-eleitoral-mg";
 /** Quantos temas cada pessoa pode marcar como muito importantes no cálculo final. */
 const MAX_IMPORTANTES = 3;
-/** Cargos cujo resultado mostra todos os candidatos. */
-const MOSTRAR_TODOS = new Set([1, 3]);
-/** Até que posição o botão "próximos colocados" mostra, por cargo. */
-const PROXIMOS_ATE: Record<number, number> = { 5: 6, 6: 5, 7: 5 };
+/** Até que posição o botão "próximos colocados" mostra, por cargo (o topo mostra 2). */
+const PROXIMOS_ATE: Record<number, number> = { 1: 5, 3: 5, 5: 5, 6: 10, 7: 10 };
+/** Estados disponíveis e o critério de viabilidade de deputados em cada um. */
+const ESTADOS: Record<string, { nome: string; inscritos: string; topFed: number; topEst: number }> = {
+  MG: { nome: "Minas Gerais", inscritos: "mais de 1.700", topFed: 80, topEst: 100 },
+  SP: { nome: "São Paulo", inscritos: "mais de 2.500", topFed: 105, topEst: 125 },
+};
 
 // ---------- Estado ----------
-let D: Dados;
+let D = undefined as unknown as Dados;
+let UF: string | null = null;
 let passos: Passo[] = [];
 let ordemPerguntas: string[] = [];
 /** Só o valor da resposta; a importância fica em `importantes`. */
@@ -56,6 +61,7 @@ const guardar = () => {
     localStorage.setItem("me-importantes", JSON.stringify(importantes));
     localStorage.setItem("me-idx", String(idx));
     localStorage.setItem("me-cola", JSON.stringify(cola));
+    if (UF) localStorage.setItem("me-uf", UF);
   } catch {}
 };
 const carregar = () => {
@@ -140,10 +146,13 @@ function telaInicio() {
   const data = new Date(D.geradoEm).toLocaleDateString("pt-BR");
   render(
     h("div", { class: "screen" },
-      h("span", { class: "kicker", text: "Eleições 2026 · Minas Gerais · 4 de outubro" }),
+      h("span", { class: "kicker", text: `Eleições 2026 · ${D.estado} · 4 de outubro` }),
       h("h1", { text: "Match Eleitoral" }),
     ),
-    h("p", { text: "Responda o que é importante para você e veja quais candidatos de Minas pensam parecido. Cada posição mostrada tem a fonte: um voto registrado ou uma declaração pública." }),
+    h("div", { class: "estado-atual" },
+      h("span", {}, "Você vota em ", h("strong", { text: D.estado })),
+      h("button", { class: "link-btn", onclick: () => telaEscolhaEstado() }, "Trocar estado")),
+    h("p", { text: `Responda o que é importante para você e veja quais candidatos de ${D.estado} pensam parecido. Cada posição mostrada tem a fonte: um voto registrado ou uma declaração pública.` }),
     h("ol", { class: "passos" },
       h("li", {}, h("span", { class: "n", text: "1" }), h("div", {}, h("strong", { text: "Visão geral" }), h("p", { class: "muted small", text: `${D.secoes[0].perguntas.length} perguntas sobre valores e prioridades.` }))),
       h("li", {}, h("span", { class: "n", text: "2" }), h("div", {}, h("strong", { text: "Um bloco por cargo" }), h("p", { class: "muted small", text: "Antes das perguntas, uma explicação curta do que cada cargo faz. Dá para pular um cargo inteiro." }))),
@@ -230,7 +239,7 @@ function telaPerguntas() {
     const ehGeral = s.cargoCod === null;
     render(topo, h("section", { class: "cargo-box" },
       h("span", { class: "kicker", text: ehGeral ? "Primeiro bloco" : `Cargo · você escolhe ${s.vagas === 2 ? "2" : "1"}` }),
-      h("h2", { text: ehGeral ? "Visão geral" : `O que faz um ${s.titulo.toLowerCase().replace(" de minas", "")}?` }),
+      h("h2", { text: ehGeral ? "Visão geral" : `O que faz um ${s.titulo.split(" de ")[0].toLowerCase()}?` }),
       h("p", { text: s.descricao }),
       s.votoProporcional && h("p", { class: "callout", text: s.votoProporcional }),
       h("p", { class: "muted small", text: `${s.perguntas.length} perguntas neste bloco.` }),
@@ -421,7 +430,7 @@ function cartaoCandidato(cand: Candidato, res: Resultado, chave: string, posicao
       cand.resumo && h("p", { class: "small", text: cand.resumo }),
       vice.length > 0 && h("p", { class: "muted small", text: vice.map((v) => `${v.cargo}: ${nomeBonito(v.nome)} (${v.partido})`).join(" · ") }),
       cand.bandeiras.length > 0 && h("div", { class: "bandeiras" }, cand.bandeiras.map((b) => h("span", { text: b }))),
-      cand.redes.length > 0 && h("div", { class: "redes" }, cand.redes.map((r) => urlSegura(r.url) && h("a", { href: r.url, target: "_blank", rel: "noopener noreferrer", text: r.tipo }))),
+      cand.redes.length > 0 && h("div", { class: "redes" }, cand.redes.map((r) => urlSegura(r.url) && h("a", { href: r.url, target: "_blank", rel: "noopener noreferrer", "aria-label": r.tipo }, icone(r.tipo), r.tipo))),
     ),
     h("div", { class: "acoes" },
       h("button", { class: "btn-sec", "aria-expanded": abertoComp ? "true" : "false", onclick: () => { alternar("comp:" + chave); } }, abertoComp ? "Fechar comparação" : "Comparar posições"),
@@ -464,9 +473,8 @@ function telaResultado(rolarTopo = true) {
   const blocos = [1, 3, 5, 6, 7].map((c) => {
     const s = secaoDoCargo(c);
     const ranking = resultadosDoCargo(c);
-    const nTop = s.mostrar ?? 3;
+    const nTop = s.mostrar ?? 2;
     const top = ranking.slice(0, nTop);
-    const todos = MOSTRAR_TODOS.has(c);
     const ate = PROXIMOS_ATE[c] ?? nTop;
     const abertoProx = expandidos.has("prox:" + c);
     const abertoLista = expandidos.has("todos:" + c);
@@ -479,22 +487,16 @@ function telaResultado(rolarTopo = true) {
       ),
       top.map(({ cand, res }, i) => cartaoCandidato(cand, res, `top:${cand.id}`, i + 1)),
 
-      // Presidente e governador: todos os candidatos aparecem, os demais em lista compacta.
-      todos && ranking.length > nTop && h("div", { class: "stack" },
-        h("h3", { class: "sub-h", text: "Demais candidatos, em ordem de match" }),
-        h("div", { class: "lista-todos" }, ranking.slice(nTop).flatMap(({ cand, res }, i) => linhaCandidato(cand, res, nTop + i + 1))),
-      ),
-
-      // Demais cargos: botão para os próximos colocados e, se quiser, a lista inteira.
-      !todos && proximos.length > 0 && (abertoProx
+      // Botão para os próximos colocados e, se quiser, a lista inteira.
+      proximos.length > 0 && (abertoProx
         ? h("div", { class: "stack" },
             h("h3", { class: "sub-h", text: "Próximos colocados" }),
             proximos.map(({ cand, res }, i) => cartaoCandidato(cand, res, `prox:${cand.id}`, nTop + i + 1)),
             h("button", { class: "btn-sec", onclick: () => alternar("prox:" + c) }, "Esconder os próximos colocados"))
         : h("button", { class: "btn-sec btn-prox", onclick: () => alternar("prox:" + c) }, `Ver os próximos colocados (até o ${ate}º)`)),
-      !todos && h("button", { class: "link-btn", "aria-expanded": abertoLista ? "true" : "false", onclick: () => alternar("todos:" + c) },
+      ranking.length > ate && h("button", { class: "link-btn", "aria-expanded": abertoLista ? "true" : "false", onclick: () => alternar("todos:" + c) },
         abertoLista ? "Esconder a lista completa" : `Ver a lista completa (${ranking.length})`),
-      !todos && abertoLista && h("div", { class: "lista-todos" }, ranking.flatMap(({ cand, res }, i) => linhaCandidato(cand, res, i + 1))),
+      abertoLista && h("div", { class: "lista-todos" }, ranking.flatMap(({ cand, res }, i) => linhaCandidato(cand, res, i + 1))),
     );
   });
 
@@ -502,7 +504,7 @@ function telaResultado(rolarTopo = true) {
   const marcadas = importantes.filter((q) => respostas[q]);
   render(
     h("div", { class: "stack" },
-      h("span", { class: "kicker", text: compartilhado ? "Resultado compartilhado" : "Eleições 2026 · Minas Gerais" }),
+      h("span", { class: "kicker", text: compartilhado ? `Resultado compartilhado · ${D.estado}` : `Eleições 2026 · ${D.estado}` }),
       h("h1", { text: compartilhado ? "Matches compartilhados" : "Seus matches" }),
       h("p", { class: "muted", text: `Com base em ${respondidas} de ${ordemPerguntas.length} respostas. A porcentagem mostra o quanto as posições públicas de cada candidato se aproximam das suas. Use como ponto de partida para conhecer os candidatos, não como indicação de voto.` }),
       marcadas.length > 0 && h("div", { class: "callout small" },
@@ -510,7 +512,7 @@ function telaResultado(rolarTopo = true) {
       compartilhado && h("button", { class: "key key-confirma", onclick: () => { compartilhado = false; carregar(); ir("#/"); } }, "Fazer o meu"),
     ),
     h("nav", { class: "nav-cargos", "aria-label": "Cargos" },
-      [1, 3, 5, 6, 7].map((c) => h("a", { href: `#cargo-${c}`, onclick: (e: Event) => { e.preventDefault(); document.getElementById(`cargo-${c}`)?.scrollIntoView({ behavior: "smooth" }); }, text: c === 5 ? "Senado" : secaoDoCargo(c).titulo.replace(" de Minas", "") }))),
+      [1, 3, 5, 6, 7].map((c) => h("a", { href: `#cargo-${c}`, onclick: (e: Event) => { e.preventDefault(); document.getElementById(`cargo-${c}`)?.scrollIntoView({ behavior: "smooth" }); }, text: c === 5 ? "Senado" : secaoDoCargo(c).titulo.split(" de ")[0] }))),
     ...blocos,
     h("section", { class: "cargo-box" },
       h("h2", { text: "Quer ver todos os candidatos?" }),
@@ -528,10 +530,10 @@ function telaResultado(rolarTopo = true) {
 }
 
 async function compartilhar() {
-  const url = `${location.origin}/#/r/${codificar(respostasEfetivas(), ordemPerguntas)}`;
-  const texto = "Fiz o Match Eleitoral de Minas e vi quais candidatos pensam parecido comigo. Veja os meus matches ou faça o seu:";
+  const url = `${location.origin}/#/r/${D.uf.toLowerCase()}/${codificar(respostasEfetivas(), ordemPerguntas)}`;
+  const texto = `Fiz o Match Eleitoral (${D.estado}) e vi quais candidatos pensam parecido comigo. Veja os meus matches ou faça o seu:`;
   if (navigator.share) {
-    try { await navigator.share({ title: "Match Eleitoral MG", text: texto, url }); return; } catch { /* cancelado */ }
+    try { await navigator.share({ title: "Match Eleitoral", text: texto, url }); return; } catch { /* cancelado */ }
   }
   try { await navigator.clipboard.writeText(`${texto} ${url}`); toast("Link copiado. Suas respostas vão no link: compartilhe só com quem quiser."); }
   catch { prompt("Copie o link:", url); }
@@ -541,7 +543,7 @@ async function compartilhar() {
 const filtroBib = { cargo: 0, q: "", partido: "" };
 const semAcento = (s: string) => s.normalize("NFD").replace(/[̀-ͯ]/g, "").toLowerCase();
 const urlTSE = (c: Candidato) =>
-  `https://divulgacandcontas.tse.jus.br/divulga/#/candidato/2026/20322002026/${c.cargoCod === 1 ? "BR" : "MG"}/${c.id}`;
+  `https://divulgacandcontas.tse.jus.br/divulga/#/candidato/2026/20322002026/${c.cargoCod === 1 ? "BR" : D.uf}/${c.id}`;
 
 function fichaCandidato(cand: Candidato) {
   const qs = perguntasDoCargo(cand.cargoCod);
@@ -572,8 +574,8 @@ function fichaCandidato(cand: Candidato) {
     ),
     cand.bandeiras.length > 0 && h("div", { class: "bandeiras" }, cand.bandeiras.map((b) => h("span", { text: b }))),
     h("div", { class: "redes" },
-      cand.redes.map((r) => urlSegura(r.url) && h("a", { href: r.url, target: "_blank", rel: "noopener noreferrer", text: r.tipo })),
-      h("a", { href: urlTSE(cand), target: "_blank", rel: "noopener noreferrer", text: "Página no TSE" })),
+      cand.redes.map((r) => urlSegura(r.url) && h("a", { href: r.url, target: "_blank", rel: "noopener noreferrer", "aria-label": r.tipo }, icone(r.tipo), r.tipo)),
+      h("a", { href: urlTSE(cand), target: "_blank", rel: "noopener noreferrer" }, icone("TSE"), "Página no TSE")),
     h("h3", { class: "sub-h", text: `Posições: ${comPos.length} de ${qs.length} perguntas (${nInd} do próprio candidato)` }),
     secoes.map((s) => {
       const itens = s.perguntas.filter((p) => cand.posicoes[p.id]);
@@ -646,7 +648,7 @@ function telaBiblioteca() {
   render(
     h("div", { class: "stack" },
       h("button", { class: "link-btn", onclick: () => history.length > 1 ? history.back() : ir("#/") }, "← Voltar"),
-      h("span", { class: "kicker", text: "Eleições 2026 · Minas Gerais" }),
+      h("span", { class: "kicker", text: `Eleições 2026 · ${D.estado}` }),
       h("h1", { text: "Biblioteca de candidatos" }),
       h("p", { class: "muted", text: "Todos os dados que levantamos de cada candidato: número, partido, histórico, redes sociais e as posições encontradas, com a fonte de cada uma. Para deputados, só os candidatos considerados viáveis (veja a metodologia)." }),
     ),
@@ -670,7 +672,7 @@ function telaCola() {
       linhas.push({ cargo: "Senador (2º voto)", cand: D.candidatos.find((x) => x.id === ids[1]) });
     } else linhas.push({ cargo: cargoNome[c], cand: D.candidatos.find((x) => x.id === ids[0]) });
   }
-  const texto = ["Minha cola - Eleições 2026 (MG), 1º turno em 4/10", ...linhas.map((l) => `${l.cargo}: ${l.cand ? `${l.cand.numero} - ${nomeBonito(l.cand.nomeUrna)} (${l.cand.partido})` : "(a decidir)"}`)].join("\n");
+  const texto = [`Minha cola - Eleições 2026 (${D.uf}), 1º turno em 4/10`, ...linhas.map((l) => `${l.cargo}: ${l.cand ? `${l.cand.numero} - ${nomeBonito(l.cand.nomeUrna)} (${l.cand.partido})` : "(a decidir)"}`)].join("\n");
   render(
     h("div", { class: "stack" },
       h("span", { class: "kicker", text: "Na ordem em que aparecem na urna" }),
@@ -701,12 +703,12 @@ function telaMetodologia() {
     h("div", { class: "texto" },
       h("button", { class: "link-btn", onclick: () => history.length > 1 ? history.back() : ir("#/") }, "← Voltar"),
       h("h1", { text: "Como funciona" }),
-      h("p", { text: "O Match Eleitoral compara as suas respostas com as posições públicas dos candidatos de Minas Gerais em 2026. É um ponto de partida para conhecer quem está concorrendo, não uma recomendação de voto." }),
+      h("p", { text: `O Match Eleitoral compara as suas respostas com as posições públicas dos candidatos de ${D.estado} em 2026. É um ponto de partida para conhecer quem está concorrendo, não uma recomendação de voto.` }),
       h("h2", { text: "Quem aparece" }),
       h("ul", {},
-        h("li", { text: "Presidente e governador: todos os candidatos com registro no TSE que ainda estão na disputa, inclusive os que aguardam julgamento de recurso (isso aparece no cartão). Todos aparecem no resultado, em ordem de match." }),
+        h("li", { text: "Presidente e governador: todos os candidatos com registro no TSE que ainda estão na disputa, inclusive os que aguardam julgamento de recurso (isso aparece no cartão)." }),
         h("li", { text: "Senado: todos os candidatos na disputa." }),
-        h("li", { text: "Deputados: há mais de 1.600 candidatos em Minas, e não é possível levantar a posição de todos com cuidado. Entram os que foram eleitos em 2022 para o mesmo cargo e os que mais receberam recursos de campanha até 24/09/2026, segundo a prestação de contas no TSE: os 80 maiores para deputado federal e os 100 maiores para deputado estadual. Esse critério é objetivo e igual para todos os partidos, mas deixa de fora candidatos com campanhas menores." }),
+        h("li", { text: `Deputados: há ${ESTADOS[D.uf].inscritos} candidatos em ${D.estado}, e não é possível levantar a posição de todos com cuidado. Entram os que foram eleitos em 2022 para o mesmo cargo e os que mais receberam recursos de campanha até a véspera da coleta, segundo a prestação de contas no TSE: os ${ESTADOS[D.uf].topFed} maiores para deputado federal e os ${ESTADOS[D.uf].topEst} maiores para deputado estadual. Esse critério é objetivo e igual para todos os partidos, mas deixa de fora candidatos com campanhas menores.` }),
       ),
       h("h2", { text: "De onde vêm as posições" }),
       h("p", { text: "Para cada candidato e cada pergunta, a posição foi levantada com ajuda de inteligência artificial a partir de fontes públicas, seguindo um protocolo único para todos. Toda posição mostra o tipo de evidência e, quando existe, o link para a fonte:" }),
@@ -732,21 +734,78 @@ function telaMetodologia() {
   window.scrollTo(0, 0);
 }
 
+// ---------- Estado ----------
+function telaEscolhaEstado() {
+  render(
+    h("div", { class: "screen" },
+      h("span", { class: "kicker", text: "Eleições 2026 · 1º turno em 4 de outubro" }),
+      h("h1", { text: "Match Eleitoral" }),
+    ),
+    h("p", { text: "Responda o que é importante para você e veja quais candidatos pensam parecido, com a fonte de cada posição." }),
+    h("h2", { text: "Onde você vota?" }),
+    h("p", { class: "muted small", text: "Os candidatos a presidente são os mesmos em todo o país. Governador, Senado e deputados dependem do estado do seu título." }),
+    h("div", { class: "estados" }, Object.entries(ESTADOS).map(([uf, e]) =>
+      h("button", { class: "estado-btn" + (UF === uf ? " atual" : ""), onclick: () => escolherEstado(uf) },
+        h("span", { class: "uf", text: uf }), h("span", { class: "nome", text: e.nome })))),
+    h("p", { class: "nota-privacidade small" },
+      "Nada do que você responde sai do seu aparelho: o cálculo é feito no seu navegador. Isto não é pesquisa eleitoral nem enquete, e nenhuma resposta é guardada ou somada."),
+  );
+  window.scrollTo(0, 0);
+}
+
+async function carregarEstado(uf: string) {
+  const r = await fetch(`/data/${uf.toLowerCase()}.json`, { cache: "no-cache" });
+  if (!r.ok) throw new Error(`dados de ${uf} indisponíveis`);
+  D = await r.json();
+  passos = [];
+  for (const s of D.secoes) {
+    passos.push({ tipo: "secao", secao: s });
+    for (const p of s.perguntas) passos.push({ tipo: "pergunta", secao: s, p });
+  }
+  ordemPerguntas = D.secoes.flatMap((s) => s.perguntas.map((p) => p.id));
+  // A cola só guarda candidatos do estado carregado (presidente vale para todos).
+  const ids = new Set(D.candidatos.map((c) => c.id));
+  for (const k of Object.keys(cola)) cola[k] = (cola[k] ?? []).filter((id) => ids.has(id));
+  idx = Math.min(idx, passos.length);
+}
+
+async function escolherEstado(uf: string) {
+  try { await carregarEstado(uf); } catch { toast("Não foi possível carregar os dados. Tente de novo."); return; }
+  const trocou = UF !== null && UF !== uf;
+  UF = uf;
+  // Ao trocar de estado, as respostas gerais continuam; as perguntas do novo estado aparecem na revisão.
+  if (trocou) idx = Object.keys(respostas).length ? passos.length : 0;
+  guardar();
+  expandidos.clear();
+  ir("#/");
+}
+
 // ---------- Roteamento ----------
 function ir(hash: string) {
   if (location.hash === hash) rotear(); else location.hash = hash;
 }
-function rotear() {
+async function rotear() {
   const hash = location.hash || "#/";
   if (hash.startsWith("#/r/")) {
+    // #/r/<uf>/<código>; links antigos, sem estado, são de MG.
+    const m = hash.match(/^#\/r\/(?:([a-z]{2})\/)?(.+)$/i);
+    const uf = (m?.[1] ?? "mg").toUpperCase();
+    if (!ESTADOS[uf]) { ir("#/"); return; }
+    if (!D || D.uf !== uf) {
+      try { await carregarEstado(uf); } catch { render(h("p", { text: "Não foi possível carregar os dados." })); return; }
+    }
     compartilhado = true;
-    const dec = decodificar(hash.slice(4), ordemPerguntas);
+    const dec = decodificar(m?.[2] ?? "", ordemPerguntas);
     respostas = Object.fromEntries(Object.entries(dec).map(([q, r]) => [q, { v: r.v }]));
     importantes = Object.entries(dec).filter(([, r]) => r.imp).map(([q]) => q).slice(0, MAX_IMPORTANTES);
     telaResultado();
     return;
   }
-  if (compartilhado) { compartilhado = false; carregar(); }
+  if (compartilhado) {
+    compartilhado = false; carregar();
+    if (UF && (!D || D.uf !== UF)) { try { await carregarEstado(UF); } catch { UF = null; } }
+  }
+  if (!D) { telaEscolhaEstado(); return; }
   if (hash === "#/perguntas") telaPerguntas();
   else if (hash === "#/revisao") telaRevisao();
   else if (hash === "#/resultado") telaResultado();
@@ -768,21 +827,17 @@ document.addEventListener("keydown", (e) => {
 });
 
 async function iniciar() {
-  try {
-    const r = await fetch("/data/app.json", { cache: "no-cache" });
-    D = await r.json();
-  } catch {
-    render(h("p", { text: "Não foi possível carregar os dados. Verifique sua conexão e recarregue a página." }));
-    return;
-  }
-  for (const s of D.secoes) {
-    passos.push({ tipo: "secao", secao: s });
-    for (const p of s.perguntas) passos.push({ tipo: "pergunta", secao: s, p });
-  }
-  ordemPerguntas = D.secoes.flatMap((s) => s.perguntas.map((p) => p.id));
   carregar();
-  idx = Math.min(idx, passos.length);
-  window.addEventListener("hashchange", rotear);
+  try { UF = localStorage.getItem("me-uf"); } catch { UF = null; }
+  // Quem já usava o app antes da escolha de estado respondeu sobre MG.
+  if (!UF && Object.keys(respostas).length) UF = "MG";
+  if (UF && ESTADOS[UF] && !location.hash.startsWith("#/r/")) {
+    try { await carregarEstado(UF); } catch {
+      render(h("p", { text: "Não foi possível carregar os dados. Verifique sua conexão e recarregue a página." }));
+      return;
+    }
+  } else if (UF && !ESTADOS[UF]) UF = null;
+  window.addEventListener("hashchange", () => { rotear(); });
   rotear();
 }
 iniciar();

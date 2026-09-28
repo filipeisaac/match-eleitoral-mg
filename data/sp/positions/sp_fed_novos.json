@@ -1,0 +1,1066 @@
+[
+ {
+  "id": 250002530129,
+  "nomeUrna": "CRIS MONTEIRO",
+  "resumo": "Vereadora de São Paulo pelo NOVO desde 2021, reeleita em 2024. Ex-diretora de bancos como JPMorgan e Goldman Sachs. Candidata a deputada federal.",
+  "bandeiras": [
+   "Segurança pública e fim do 'prende e solta'",
+   "Reforma do STF e do Judiciário",
+   "Liberdade econômica e menos burocracia"
+  ],
+  "posicoes": {
+   "G03": {
+    "v": 4,
+    "conf": "voto",
+    "fonte": "https://www.cnnbrasil.com.br/politica/privatizacao-da-sabesp-saiba-como-votaram-os-vereadores-de-sao-paulo/",
+    "nota": "Votou a favor da adesão da capital à privatização da Sabesp na Câmara Municipal de SP em 02/05/2024 (37 a 17)."
+   },
+   "G09": {
+    "v": 4,
+    "conf": "declaracao",
+    "fonte": "https://crismonteiro.com.br/",
+    "nota": "Site de campanha de 2026 lista como proposta 'Reformular o STF e punir abusos do Judiciário'."
+   },
+   "G12": {
+    "v": 4,
+    "conf": "declaracao",
+    "fonte": "https://crismonteiro.com.br/",
+    "nota": "Site de campanha de 2026: 'Se tem idade para cometer crime, tem idade para ser preso!'."
+   },
+   "G14": {
+    "v": 2,
+    "conf": "declaracao",
+    "fonte": "https://www.bnewssaopaulo.com.br/noticias/politica/escala-6x1-e-tema-de-evento-da-semana-s-na-fecomerciosp.html",
+    "nota": "Em evento da FecomercioSP (maio de 2026) disse que o fim da 6x1 'é um tiro no pé' e geraria inflação e informalidade."
+   }
+  }
+ },
+ {
+  "id": 250002535938,
+  "nomeUrna": "ADILSON BARROSO BOLSONARISTA",
+  "resumo": "Deputado federal pelo PL-SP desde 2023 (como suplente), ex-deputado estadual (2003 a 2007) e ex-vereador e vice-prefeito de Barrinha. Candidato à reeleição.",
+  "bandeiras": [],
+  "posicoes": {
+   "G09": {
+    "v": 4,
+    "conf": "declaracao",
+    "fonte": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2541173",
+    "nota": "Coautor do PL 3798/2025 (ago/2025), que fixa vedações à atuação de magistrados para preservar a 'separação de Poderes'."
+   },
+   "DF05": {
+    "v": 4,
+    "conf": "declaracao",
+    "fonte": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2430967",
+    "nota": "Coautor do PL 1551/2024, que destina 50% do Fundo Eleitoral a ações emergenciais no Rio Grande do Sul."
+   }
+  }
+ },
+ {
+  "id": 250002536727,
+  "nomeUrna": "LUNA ZARATTINI",
+  "resumo": "Vereadora de São Paulo pelo PT, eleita em 2024, educadora e sobrinha do deputado Carlos Zarattini. Candidata a deputada federal.",
+  "bandeiras": [
+   "Fim da escala 6x1",
+   "Contra privatizações",
+   "Taxação das grandes fortunas"
+  ],
+  "posicoes": {
+   "G03": {
+    "v": 2,
+    "conf": "voto",
+    "fonte": "https://www.cnnbrasil.com.br/politica/privatizacao-da-sabesp-saiba-como-votaram-os-vereadores-de-sao-paulo/",
+    "nota": "Votou contra a adesão da capital à privatização da Sabesp na Câmara Municipal de SP (02/05/2024). Seu site cita a luta contra privatizações."
+   },
+   "G14": {
+    "v": 5,
+    "conf": "declaracao",
+    "fonte": "https://agenciabrasil.ebc.com.br/politica/noticia/2026-05/vereadores-fazem-protocolaco-de-projetos-pelo-fim-da-escala-6x1",
+    "nota": "Liderou em maio de 2026 'protocolaço' de projetos de vereadores pelo fim da 6x1 e 40 horas semanais; reiterou a defesa em julho de 2026."
+   }
+  }
+ },
+ {
+  "id": 250002535975,
+  "nomeUrna": "EDUARDO CURY",
+  "resumo": "Engenheiro, ex-prefeito de São José dos Campos (2005 a 2012) e ex-deputado federal por SP (2015 a 2023). Candidato a deputado federal pelo PL.",
+  "bandeiras": [],
+  "posicoes": {
+   "G02": {
+    "v": 4,
+    "conf": "declaracao",
+    "fonte": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2230008",
+    "nota": "Coautor do PL 6072/2019, que reformula o Bolsa Família e prevê correção monetária anual dos benefícios (nov/2019)."
+   }
+  }
+ },
+ {
+  "id": 250002532322,
+  "nomeUrna": "PASTORA SANDRA ALVES",
+  "resumo": "Vereadora de São Paulo pelo União Brasil desde 2025 e ex-vereadora de Boituva (2021 a 2024). Pastora evangélica. Candidata a deputada federal.",
+  "bandeiras": [
+   "Valores da família",
+   "Segurança",
+   "Saúde e defesa das mulheres"
+  ],
+  "posicoes": {
+   "G05": {
+    "v": 2,
+    "conf": "declaracao",
+    "fonte": "https://boituva.siscam.com.br/arquivo?Id=89147",
+    "nota": "Como vereadora de Boituva, assinou moção de repúdio à ADPF 442, ação no STF que pede a descriminalização do aborto até 12 semanas."
+   }
+  }
+ },
+ {
+  "id": 250002533640,
+  "nomeUrna": "ORLANDO MORANDO",
+  "resumo": "Ex-prefeito de São Bernardo do Campo (2017 a 2024), ex-deputado estadual por quatro mandatos e ex-secretário de Segurança Urbana de São Paulo. Candidato a deputado federal pelo MDB.",
+  "bandeiras": [
+   "Segurança pública e redução da maioridade penal",
+   "Combate aos impactos das apostas (bets)",
+   "Desenvolvimento econômico e fortalecimento dos municípios"
+  ],
+  "posicoes": {
+   "G12": {
+    "v": 5,
+    "conf": "declaracao",
+    "fonte": "https://folhadoabc.com.br/morando-quero-por-ordem-em-brasilia-e-colaborar-com-o-brasil/",
+    "nota": "Em entrevista (2026): 'Defendo claramente a redução da maioridade penal de 18 para 16 anos'. Reiterou a cobrança ao Congresso em agosto de 2026."
+   }
+  }
+ },
+ {
+  "id": 250002535947,
+  "nomeUrna": "RENATO BOLSONARO",
+  "resumo": "Empresário e oficial do Exército da reserva, irmão do ex-presidente Jair Bolsonaro. Disputou prefeituras em Miracatu e Registro. Candidato a deputado federal pelo PL.",
+  "bandeiras": [
+   "Segurança pública",
+   "Família e valores conservadores",
+   "Redução da carga tributária"
+  ],
+  "posicoes": {
+   "G01": {
+    "v": 4,
+    "conf": "declaracao",
+    "fonte": "https://www.gazetadopovo.com.br/eleicoes/2026/sao-paulo-2026/irmao-jair-renato-bolsonaro-aposta-votos-pl-sao-paulo/",
+    "nota": "À Gazeta do Povo (2026) disse querer 'diminuir a carga tributária para uma carga mais justa'."
+   }
+  }
+ },
+ {
+  "id": 250002535999,
+  "nomeUrna": "ZOE MARTÍNEZ",
+  "resumo": "Vereadora de São Paulo pelo PL desde 2025, nascida em Cuba e naturalizada brasileira. Foi assessora parlamentar e comentarista da Jovem Pan. Candidata a deputada federal.",
+  "bandeiras": [
+   "Segurança pública armada",
+   "Educação cívica e financeira",
+   "Oposição ao comunismo e ao socialismo"
+  ],
+  "posicoes": {
+   "G08": {
+    "v": 4,
+    "conf": "declaracao",
+    "fonte": "https://www.metropoles.com/sao-paulo/zoe-martinez-propoe-frente-parlamentar-pela-anistia-aos-acusados-de-8-1",
+    "nota": "Propôs na Câmara Municipal de SP uma Frente Parlamentar pela Anistia aos acusados do 8/1 (agosto de 2025)."
+   },
+   "G09": {
+    "v": 5,
+    "conf": "declaracao",
+    "fonte": "https://www.metropoles.com/brasil/zoe-martinez-faz-criticas-a-moraes-durante-sessao-video",
+    "nota": "Em sessão de 06/08/2025 falou em 'tirania do Supremo Tribunal Federal'; em ato bolsonarista pediu a prisão de Alexandre de Moraes."
+   }
+  }
+ },
+ {
+  "id": 250002532355,
+  "nomeUrna": "SIRLANGE MANGA",
+  "resumo": "Publicitária, primeira-dama de Sorocaba e ex-presidente do Fundo Social de Solidariedade da cidade. Foi 2ª suplente de senador em 2022. Candidata a deputada federal pelo União Brasil.",
+  "bandeiras": [
+   "Saúde regional e centros de especialidades médicas",
+   "Creches",
+   "Fortalecimento das guardas civis municipais"
+  ],
+  "posicoes": {}
+ },
+ {
+  "id": 250002533664,
+  "nomeUrna": "SIDNEY CRUZ",
+  "resumo": "Advogado e vereador de São Paulo desde 2021, reeleito em 2024 pelo MDB. Foi relator do orçamento municipal de 2022 a 2024. Candidato a deputado federal.",
+  "bandeiras": [],
+  "posicoes": {
+   "G03": {
+    "v": 4,
+    "conf": "voto",
+    "fonte": "https://www.cnnbrasil.com.br/politica/privatizacao-da-sabesp-saiba-como-votaram-os-vereadores-de-sao-paulo/",
+    "nota": "Relator do PL 163/2024 na Câmara Municipal de SP; votou a favor da adesão da capital à privatização da Sabesp em 02/05/2024 (37 a 17)."
+   }
+  }
+ },
+ {
+  "id": 250002535965,
+  "nomeUrna": "DRA. SANDRA TADEU",
+  "resumo": "Médica pediatra e vereadora de São Paulo desde 2017, reeleita em 2024 pelo PL. Presidiu a CPI da Violência contra a Mulher em 2020. Candidata a deputada federal.",
+  "bandeiras": [
+   "Recursos federais para saúde na Zona Leste",
+   "Saúde e proteção das mulheres"
+  ],
+  "posicoes": {
+   "G03": {
+    "v": 4,
+    "conf": "voto",
+    "fonte": "https://www.cnnbrasil.com.br/politica/privatizacao-da-sabesp-saiba-como-votaram-os-vereadores-de-sao-paulo/",
+    "nota": "Votou a favor da adesão da capital à privatização da Sabesp na Câmara Municipal de SP em 02/05/2024 (37 a 17)."
+   }
+  }
+ },
+ {
+  "id": 250002536743,
+  "nomeUrna": "EDINHO SILVA",
+  "resumo": "Presidente nacional do PT desde julho de 2025, ex-prefeito de Araraquara (quatro mandatos) e ex-ministro da Secretaria de Comunicação Social. Candidato a deputado federal.",
+  "bandeiras": [
+   "Fim da escala 6x1",
+   "Democracia e soberania nacional",
+   "Educação e saúde"
+  ],
+  "posicoes": {
+   "G08": {
+    "v": 1,
+    "conf": "declaracao",
+    "fonte": "https://pt.org.br/em-ato-na-paulista-edinho-diz-que-congresso-tem-que-entender-as-pautas-do-povo/",
+    "nota": "Em ato na Paulista (21/09/2025) disse que 'anistia para golpistas e assassinos' não é pauta do povo; em outras falas afirmou que não deve haver anistia."
+   },
+   "G14": {
+    "v": 5,
+    "conf": "declaracao",
+    "fonte": "https://www.edinhosilva.com.br/noticias/edinho-lidera-campanha-do-pt-pela-votacao-da-pec-do-fim-da-escala-6x1-no-senado/",
+    "nota": "Liderou em julho de 2026 campanha do PT pela aprovação no Senado da PEC do fim da 6x1; tem defendido a redução da jornada como prioridade do partido."
+   }
+  }
+ },
+ {
+  "id": 250002533666,
+  "nomeUrna": "ENRICO MISASI",
+  "resumo": "Advogado, ex-deputado federal por SP (2019 a 2023) e secretário-chefe da Casa Civil do governo de São Paulo desde 2025. Candidato a deputado federal pelo MDB.",
+  "bandeiras": [],
+  "posicoes": {
+   "G02": {
+    "v": 4,
+    "conf": "declaracao",
+    "fonte": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2230008",
+    "nota": "Coautor do PL 6072/2019, que reformula o Bolsa Família e prevê correção monetária anual dos benefícios (nov/2019)."
+   },
+   "G07": {
+    "v": 4,
+    "conf": "declaracao",
+    "fonte": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2264351",
+    "nota": "Coautor do PL 4933/2020 (out/2020), que proíbe atividades econômicas em áreas queimadas sem autorização."
+   }
+  }
+ },
+ {
+  "id": 250002535940,
+  "nomeUrna": "LUIZ FERNANDO MACHADO",
+  "resumo": "Ex-prefeito de Jundiaí (2017 a 2024) e ex-deputado estadual. Foi secretário executivo de Desestatização e Parcerias da Prefeitura de São Paulo (2025 a 2026). Candidato a deputado federal pelo PL.",
+  "bandeiras": [
+   "Políticas para a primeira infância (modelo 'Cidade das Crianças')",
+   "Educação e saúde",
+   "Mobilidade e segurança urbanas"
+  ],
+  "posicoes": {}
+ },
+ {
+  "id": 250002533624,
+  "nomeUrna": "JOÃO CURY",
+  "resumo": "Deputado federal pelo MDB desde janeiro de 2025 (como suplente), ex-prefeito de Botucatu (2009 a 2016) e ex-secretário estadual da Educação de SP. Candidato à reeleição.",
+  "bandeiras": [
+   "Saúde",
+   "Educação",
+   "Segurança pública"
+  ],
+  "posicoes": {}
+ },
+ {
+  "id": 250002535995,
+  "nomeUrna": "LUCAS PAVANATO",
+  "resumo": "Vereador de São Paulo pelo PL desde 2025, o mais votado do país em 2024 (161 mil votos). Influenciador digital. Candidato a deputado federal.",
+  "bandeiras": [
+   "Contra o aborto",
+   "Contra as drogas",
+   "Contra a 'ideologia de gênero'"
+  ],
+  "posicoes": {
+   "G05": {
+    "v": 1,
+    "conf": "declaracao",
+    "fonte": "https://www.gazetadopovo.com.br/eleicoes/2024/sao-paulo-sp/quem-e-lucas-pavanato-o-vereador-conservador-mais-votado-do-brasil/",
+    "nota": "Declara-se contrário ao aborto; em seu site de campanha de 2024 listava entre os objetivos 'proibir o aborto'."
+   },
+   "G09": {
+    "v": 4,
+    "conf": "declaracao",
+    "fonte": "https://revistaoeste.com/politica/lucas-pavanato-motociata-moraes/",
+    "nota": "Convocou motociata pelo impeachment do ministro Alexandre de Moraes e gritou 'Fora Moraes' em caminhada com Nikolas Ferreira (2025)."
+   }
+  }
+ },
+ {
+  "id": 250002532378,
+  "nomeUrna": "MILTON LEITE FILHO",
+  "resumo": "Deputado estadual em SP desde 2011 pelo União Brasil (antes DEM), presidente da Comissão de Fiscalização e Controle da Alesp. Filho do ex-vereador Milton Leite. Candidato a deputado federal.",
+  "bandeiras": [],
+  "posicoes": {
+   "G03": {
+    "v": 4,
+    "conf": "voto",
+    "fonte": "https://www.al.sp.gov.br/repositorio/ementario/votacoes/9eee1206-2298-495c-a0a0-48733890f968.pdf",
+    "nota": "Alesp: Sim no PL 1/2019 e PL 727/2019 (desestatizações), no PL 529/2020 (extinção de estatais) e no encerramento da discussão da Sabesp (05/12/2023)."
+   }
+  }
+ },
+ {
+  "id": 250002535943,
+  "nomeUrna": "MISSIONÁRIO JOSÉ OLIMPIO",
+  "resumo": "Pastor da Igreja Mundial do Poder de Deus e advogado. Deputado federal por SP de 2011 a 2019 e novamente em 2025 e 2026, como suplente do PL. Candidato a deputado federal.",
+  "bandeiras": [],
+  "posicoes": {}
+ },
+ {
+  "id": 250002532336,
+  "nomeUrna": "ALINE TEIXEIRA",
+  "resumo": "Bióloga e médica veterinária. Disputou vaga de deputada estadual em 2018 e 2022, quando ficou como suplente pelo União Brasil. Candidata a deputada federal.",
+  "bandeiras": [],
+  "posicoes": {}
+ },
+ {
+  "id": 250002539437,
+  "nomeUrna": "MARINA HELOU",
+  "resumo": "Administradora pública formada pela FGV, deputada estadual em SP desde 2019, eleita pela Rede e hoje no PSB. Candidata a deputada federal.",
+  "bandeiras": [
+   "Infância e adolescência",
+   "Meio ambiente e clima",
+   "Direitos das mulheres"
+  ],
+  "posicoes": {
+   "G03": {
+    "v": 3,
+    "conf": "voto",
+    "fonte": "https://www.al.sp.gov.br/repositorio/ementario/votacoes/20201014-001001-ID_SESSAO=14325-PDF.pdf",
+    "nota": "Alesp: Não no PL 1/2019 e no PL 529/2020; Sim no PL 727/2019 (extinção da Dersa). Licenciada na votação da Sabesp em 2023. Posição mista."
+   }
+  }
+ },
+ {
+  "id": 250002532323,
+  "nomeUrna": "ELLEN MARTINELLI",
+  "resumo": "Dentista, primeira-dama de Jundiaí e ex-presidente do Fundo Social de Solidariedade da cidade. Disputa sua primeira eleição, para deputada federal pelo União Brasil.",
+  "bandeiras": [
+   "Representação de Jundiaí e região metropolitana em Brasília"
+  ],
+  "posicoes": {}
+ },
+ {
+  "id": 250002532370,
+  "nomeUrna": "RUBINHO NUNES",
+  "resumo": "Advogado, cofundador do MBL e vereador de São Paulo desde 2021, reeleito em 2024 pelo União Brasil. Candidato a deputado federal.",
+  "bandeiras": [
+   "Acesso do cidadão às armas",
+   "Pena de morte para pedófilos e estupradores",
+   "Revisão da legislação penal"
+  ],
+  "posicoes": {
+   "G03": {
+    "v": 4,
+    "conf": "voto",
+    "fonte": "https://www.cnnbrasil.com.br/politica/privatizacao-da-sabesp-saiba-como-votaram-os-vereadores-de-sao-paulo/",
+    "nota": "Votou a favor da adesão da capital à privatização da Sabesp na Câmara Municipal de SP em 02/05/2024 (37 a 17)."
+   },
+   "G04": {
+    "v": 4,
+    "conf": "declaracao",
+    "fonte": "https://jornaldebrasilia.com.br/entretenimento/katia-flavia/justica-derruba-propaganda-e-rubinho-nunes-reage-entao-rambo-gta-e-defesa-do-aborto-tambem-sao-incitacao/",
+    "nota": "Propaganda eleitoral de setembro de 2026 apresenta 'armas para o cidadão' como proposta de campanha."
+   }
+  }
+ },
+ {
+  "id": 250002535953,
+  "nomeUrna": "MAJOR MECCA",
+  "resumo": "Policial militar da reserva e deputado estadual em SP desde 2019, reeleito em 2022 pelo PL. Candidato a deputado federal.",
+  "bandeiras": [
+   "Valorização dos policiais",
+   "Endurecimento penal contra estupradores"
+  ],
+  "posicoes": {
+   "G03": {
+    "v": 3,
+    "conf": "voto",
+    "fonte": "https://www.al.sp.gov.br/repositorio/ementario/votacoes/9eee1206-2298-495c-a0a0-48733890f968.pdf",
+    "nota": "Alesp: Não no PL 1/2019 e PL 529/2020; Sim no PL 727/2019 (Dersa) e no encerramento da discussão da Sabesp (05/12/2023). Posição mista."
+   }
+  }
+ },
+ {
+  "id": 250002537979,
+  "nomeUrna": "GUILHERME PIAI",
+  "resumo": "Administrador e produtor rural de Presidente Prudente. Foi diretor do Itesp e secretário estadual de Agricultura e Abastecimento de SP (2023 a abril de 2026). Candidato a deputado federal pelo Republicanos.",
+  "bandeiras": [
+   "Agronegócio",
+   "Economia e emprego",
+   "Segurança pública e redução da maioridade penal"
+  ],
+  "posicoes": {
+   "G12": {
+    "v": 4,
+    "conf": "declaracao",
+    "fonte": "https://www.diariodeprudente.com/guilherme-piai-defende-mudanca-nas-regras-de-seguranca-publica-e-reducao-da-maioridade-penal/",
+    "nota": "Defendeu a redução da maioridade penal em 20/09/2026: 'Se o menor de idade pode namorar, votar, fazer filho, por que ele não pode pagar pelos erros?'"
+   }
+  }
+ },
+ {
+  "id": 250002541143,
+  "nomeUrna": "ELEUSES PAIVA",
+  "resumo": "Advogado e produtor rural de São José do Rio Preto, filho do secretário estadual da Saúde Eleuses Paiva. Disputa sua primeira eleição, para deputado federal pelo PSD.",
+  "bandeiras": [
+   "Financiamento da saúde e reajuste da Tabela SUS",
+   "Recursos federais para São Paulo",
+   "Desenvolvimento regional"
+  ],
+  "posicoes": {
+   "DF06": {
+    "v": 5,
+    "conf": "voto",
+    "fonte": "https://dadosabertos.camara.leg.br/api/v2/votacoes/596844-116/votos",
+    "nota": "Votou Sim ao substitutivo do PL 583/2011, que extinguia a saída temporária de presos (03/08/2022)."
+   }
+  }
+ },
+ {
+  "id": 250002544330,
+  "nomeUrna": "ANA CAROLINA OLIVEIRA",
+  "resumo": "Vereadora de São Paulo pelo Podemos desde 2025, eleita com 129 mil votos. Mãe de Isabella Nardoni, atua na proteção de crianças e mulheres. Candidata a deputada federal.",
+  "bandeiras": [
+   "Execução mais rigorosa de penas para crimes hediondos contra crianças",
+   "Proteção de crianças e adolescentes",
+   "Defesa das mulheres e combate ao feminicídio"
+  ],
+  "posicoes": {
+   "DF06": {
+    "v": 4,
+    "conf": "declaracao",
+    "fonte": "https://regiaoemdestake.com.br/ana-carolina-oliveira-sao-carlos/",
+    "nota": "Em São Carlos (2026) criticou as saídas temporárias e reduções de pena dadas aos condenados pela morte da filha e chamou a primeira saidinha de absurda."
+   }
+  }
+ },
+ {
+  "id": 250002544337,
+  "nomeUrna": "DOUGLAS VIEGAS",
+  "resumo": "Ex-jogador de basquete e influenciador digital conhecido como 'Poderosíssimo Ninja'. Deputado federal pelo Podemos-SP desde 2023 (como suplente). Candidato à reeleição.",
+  "bandeiras": [
+   "Esporte nas escolas e financiamento do esporte",
+   "Redução e simplificação de impostos",
+   "Saúde, educação e segurança pública"
+  ],
+  "posicoes": {
+   "G01": {
+    "v": 4,
+    "conf": "declaracao",
+    "fonte": "https://douglasviegas.com.br/vote2034/",
+    "nota": "Site de campanha de 2026 defende 'Redução e simplificação de impostos' e 'menos desperdício' do dinheiro público."
+   }
+  }
+ },
+ {
+  "id": 250002535935,
+  "nomeUrna": "DRA. NISE YAMAGUCHI",
+  "resumo": "Médica imunologista e oncologista, conhecida pela defesa da cloroquina contra a Covid-19. Disputou vagas de deputada federal em 2022 e vereadora em 2024. Candidata a deputada federal pelo PL.",
+  "bandeiras": [
+   "Saúde e ciência",
+   "Autonomia médica"
+  ],
+  "posicoes": {}
+ },
+ {
+  "id": 250002535936,
+  "nomeUrna": "GIL DINIZ",
+  "resumo": "Ex-carteiro conhecido como 'Carteiro Reaça', deputado estadual em SP desde 2019, reeleito em 2022 pelo PL. Coordena a Frente Parlamentar Católica na Alesp. Candidato a deputado federal.",
+  "bandeiras": [
+   "Valores cristãos",
+   "Proteção da família",
+   "Liberdade"
+  ],
+  "posicoes": {
+   "G03": {
+    "v": 3,
+    "conf": "voto",
+    "fonte": "https://www.al.sp.gov.br/repositorio/ementario/votacoes/9eee1206-2298-495c-a0a0-48733890f968.pdf",
+    "nota": "Alesp: Não no PL 1/2019 e PL 529/2020; Sim no PL 727/2019 (Dersa) e no encerramento da discussão da Sabesp (05/12/2023). Posição mista."
+   },
+   "G05": {
+    "v": 2,
+    "conf": "declaracao",
+    "fonte": "https://gildiniz.com.br/perfil",
+    "nota": "Site oficial afirma 'posicionamento firme contra o aborto' e 'defesa intransigente da vida desde a concepção'."
+   },
+   "G13": {
+    "v": 4,
+    "conf": "declaracao",
+    "fonte": "https://gildiniz.com.br/perfil",
+    "nota": "Site oficial apresenta 'Deus' e 'valores cristãos' como pilares do mandato e diz que 'não existe sociedade forte sem base moral'."
+   }
+  }
+ },
+ {
+  "id": 250002536749,
+  "nomeUrna": "MARCIA LIA",
+  "resumo": "Advogada e historiadora de Araraquara, deputada estadual em SP pelo PT desde 2015, com atuação em agricultura familiar e reforma agrária. Candidata a deputada federal.",
+  "bandeiras": [],
+  "posicoes": {
+   "G03": {
+    "v": 2,
+    "conf": "voto",
+    "fonte": "https://www.al.sp.gov.br/repositorio/ementario/votacoes/9eee1206-2298-495c-a0a0-48733890f968.pdf",
+    "nota": "Alesp: Não no PL 1/2019, PL 727/2019, PL 529/2020 (desestatizações) e no encerramento da discussão da privatização da Sabesp (05/12/2023)."
+   }
+  }
+ },
+ {
+  "id": 250002541151,
+  "nomeUrna": "SILVIA ABRAVANEL",
+  "resumo": "Apresentadora de TV, filha de Silvio Santos, comandou o programa Sábado Animado no SBT por mais de 20 anos. Disputa sua primeira eleição, para deputada federal pelo PSD.",
+  "bandeiras": [
+   "Inclusão das pessoas com deficiência",
+   "Apoio a famílias atípicas e com doenças raras",
+   "Proteção animal"
+  ],
+  "posicoes": {}
+ },
+ {
+  "id": 250002537953,
+  "nomeUrna": "NEY SANTOS",
+  "resumo": "Ex-prefeito de Embu das Artes (2017 a 2024) e ex-vereador da cidade. Candidato a deputado federal pelo Republicanos; registro aprovado pelo TRE-SP em setembro de 2026.",
+  "bandeiras": [],
+  "posicoes": {}
+ },
+ {
+  "id": 250002541109,
+  "nomeUrna": "DUARTE NOGUEIRA",
+  "resumo": "Agrônomo, ex-prefeito de Ribeirão Preto (2017 a 2024), ex-deputado federal (2007 a 2016) e ex-deputado estadual. Candidato a deputado federal pelo PSD.",
+  "bandeiras": [],
+  "posicoes": {}
+ },
+ {
+  "id": 250002539607,
+  "nomeUrna": "JULIANO MEDEIROS",
+  "resumo": "Cientista político, ex-presidente nacional do PSOL e presidente da Federação PSOL-Rede. Candidato a deputado federal pelo PSOL.",
+  "bandeiras": [
+   "Reestatização da Sabesp",
+   "Fim da farra das emendas",
+   "Combate à crise climática"
+  ],
+  "posicoes": {
+   "G03": {
+    "v": 2,
+    "conf": "declaracao",
+    "fonte": "https://www.gazetadopovo.com.br/eleicoes/2026/sao-paulo-2026/reestatizacao-sabesp-campanha-eleicao/",
+    "nota": "Lidera a campanha Reestatiza Sabesp; disse em 08/2026 que confiar água e saneamento ao setor privado é arriscado."
+   },
+   "G08": {
+    "v": 1,
+    "conf": "declaracao",
+    "fonte": "https://www.poder360.com.br/poder-justica/psol-rede-aciona-stf-contra-lei-da-dosimetria/",
+    "nota": "Em 04/2026 disse que a dosimetria é anistia disfarçada e que anistia é golpe; também rejeitou anistia aos participantes sem liderança."
+   },
+   "G14": {
+    "v": 4,
+    "conf": "declaracao",
+    "fonte": "https://revistaforum.com.br/politica/retomar-pressao-popular-fim-6x1-tirar-alcolumbre-conforto-juliano-medeiros/",
+    "nota": "Em 06/2026 defendeu retomar a pressão popular para o Senado aprovar o fim da escala 6x1."
+   },
+   "DF01": {
+    "v": 4,
+    "conf": "declaracao",
+    "fonte": "https://julianopsol.com.br/propostas",
+    "nota": "Site de campanha de 2026 lista a proposta 'Acabar com a farra das emendas'."
+   }
+  }
+ },
+ {
+  "id": 250002533628,
+  "nomeUrna": "NETINHO DE PAULA",
+  "resumo": "Cantor e apresentador, ex-vereador de São Paulo (2009 a 2016, pelo PCdoB). Candidato a deputado federal pelo MDB.",
+  "bandeiras": [
+   "Cultura",
+   "Inclusão social de jovens"
+  ],
+  "posicoes": {}
+ },
+ {
+  "id": 250002539622,
+  "nomeUrna": "PROFESSORA LUCIENE CAVALCANTE",
+  "resumo": "Professora e ex-diretora de escola, deputada federal pelo PSOL-SP em exercício desde 2023. Candidata à reeleição.",
+  "bandeiras": [
+   "Educação pública",
+   "Servidores públicos",
+   "Saúde"
+  ],
+  "posicoes": {
+   "G03": {
+    "v": 1,
+    "conf": "declaracao",
+    "fonte": "https://lucienecavalcante.com.br/propostas/",
+    "nota": "Propostas de 2026 dizem 'impedir as privatizações' e rejeitam privatizar presídios; em 01/2026 acionou TCM e MP contra gestão privada de escolas."
+   }
+  }
+ },
+ {
+  "id": 250002532353,
+  "nomeUrna": "CORONEL TELHADA",
+  "resumo": "Coronel reformado da PM, ex-comandante da Rota, ex-vereador de São Paulo e ex-deputado estadual (2015 a 2022). Candidato a deputado federal pelo PP.",
+  "bandeiras": [
+   "Segurança pública",
+   "Valorização policial"
+  ],
+  "posicoes": {
+   "G03": {
+    "v": 3,
+    "conf": "voto",
+    "fonte": "https://www.al.sp.gov.br/repositorio/ementario/votacoes/20201014-001001-ID_SESSAO=14325-PDF.pdf",
+    "nota": "Alesp: Sim no PL 1/2019 (desestatização) e no PL 727/2019 (Dersa); Não no PL 529/2020 (extinção de estatais). Posição mista."
+   },
+   "G12": {
+    "v": 4,
+    "conf": "declaracao",
+    "fonte": "https://www.camara.leg.br/noticias/457680-coronel-da-pm-combate-argumentos-contra-a-maioridade-penal",
+    "nota": "Em 06/05/2015, em audiência na Câmara, defendeu reduzir a maioridade penal de 18 para 16 anos."
+   }
+  }
+ },
+ {
+  "id": 250002532372,
+  "nomeUrna": "MAJOR PALUMBO",
+  "resumo": "Major do Corpo de Bombeiros da PM de SP, vereador de São Paulo desde 2022 e 1º suplente da Mesa Diretora da Câmara Municipal em 2026. Candidato a deputado federal pelo PP.",
+  "bandeiras": [],
+  "posicoes": {
+   "G03": {
+    "v": 4,
+    "conf": "voto",
+    "fonte": "https://www.cnnbrasil.com.br/politica/privatizacao-da-sabesp-saiba-como-votaram-os-vereadores-de-sao-paulo/",
+    "nota": "Votou a favor da adesão da capital à privatização da Sabesp na Câmara Municipal de SP em 02/05/2024 (37 a 17)."
+   }
+  }
+ },
+ {
+  "id": 250002534917,
+  "nomeUrna": "ELÓI PIETÁ",
+  "resumo": "Advogado e professor, ex-prefeito de Guarulhos, ex-deputado estadual e ex-deputado federal. Candidato a deputado federal pelo Solidariedade.",
+  "bandeiras": [],
+  "posicoes": {}
+ },
+ {
+  "id": 250002532366,
+  "nomeUrna": "ALESSANDRA GONZAGA",
+  "resumo": "Empresária de Tatuí; foi candidata a deputada estadual em 2022 (PSDB) e a prefeita de Tatuí em 2024 (PP). Candidata a deputada federal pelo PP.",
+  "bandeiras": [
+   "Saúde pública",
+   "Emprego e empreendedorismo para jovens",
+   "Defesa da família"
+  ],
+  "posicoes": {}
+ },
+ {
+  "id": 250002532357,
+  "nomeUrna": "VITORIA SOUZA",
+  "resumo": "Pregadora evangélica, cantora e influenciadora digital de Votuporanga, de 20 anos; foi candidata a vereadora em 2024. Candidata a deputada federal pelo PP.",
+  "bandeiras": [],
+  "posicoes": {}
+ },
+ {
+  "id": 250002534924,
+  "nomeUrna": "ALEXANDRE PEREIRA",
+  "resumo": "Presidente estadual do Solidariedade em SP e ex-deputado estadual (2019 a 2022). Candidato a deputado federal com foco em Jundiaí e região.",
+  "bandeiras": [
+   "Mandato municipalista",
+   "Recursos para Jundiaí e região"
+  ],
+  "posicoes": {
+   "G03": {
+    "v": 4,
+    "conf": "voto",
+    "fonte": "https://www.al.sp.gov.br/repositorio/ementario/votacoes/20201014-001001-ID_SESSAO=14325-PDF.pdf",
+    "nota": "Alesp: Sim no PL 727/2019 (extinção da Dersa) e no PL 529/2020 (extinção de estatais); em obstrução no PL 1/2019."
+   }
+  }
+ },
+ {
+  "id": 250002539620,
+  "nomeUrna": "GUILHERME CORTEZ",
+  "resumo": "Advogado e deputado estadual pelo PSOL em SP desde 2023; foi candidato a prefeito de Franca em 2024. Candidato a deputado federal.",
+  "bandeiras": [
+   "Fim da escala 6x1",
+   "Reestatização de serviços essenciais",
+   "Taxação de grandes fortunas"
+  ],
+  "posicoes": {
+   "G03": {
+    "v": 2,
+    "conf": "voto",
+    "fonte": "https://www.al.sp.gov.br/repositorio/ementario/votacoes/9eee1206-2298-495c-a0a0-48733890f968.pdf",
+    "nota": "Alesp: Não no encerramento da discussão da privatização da Sabesp (05/12/2023). Programa de 2026 propõe reverter privatizações."
+   },
+   "G05": {
+    "v": 5,
+    "conf": "declaracao",
+    "fonte": "https://cortez5005.com.br/",
+    "nota": "Programa de 2026 defende a legalização do aborto; em 07/09/2026 disse que nenhuma mulher deve ser presa por interromper a gravidez."
+   },
+   "G06": {
+    "v": 5,
+    "conf": "declaracao",
+    "fonte": "https://cortez5005.com.br/",
+    "nota": "Programa de 2026 defende legalizar e regular a maconha; reiterou apoio à legalização em entrevista ao GCN em 07/09/2026."
+   },
+   "G08": {
+    "v": 2,
+    "conf": "declaracao",
+    "fonte": "https://sampi.net.br/franca/noticias/3002788/franca-tem-voz/2026/09/nao-podem-ser-palavras-ao-vento-diz-cortez-sobre-brasilia",
+    "nota": "Em entrevista de 07/09/2026, disse ser contra anistia aos condenados do 8 de janeiro."
+   },
+   "G11": {
+    "v": 4,
+    "conf": "declaracao",
+    "fonte": "https://cortez5005.com.br/",
+    "nota": "Programa de 2026 defende consolidar as cotas raciais e sociais e ampliá-las para pessoas com deficiência e trans."
+   },
+   "G12": {
+    "v": 2,
+    "conf": "declaracao",
+    "fonte": "https://sampi.net.br/franca/noticias/3002788/franca-tem-voz/2026/09/nao-podem-ser-palavras-ao-vento-diz-cortez-sobre-brasilia",
+    "nota": "Em 07/09/2026 disse ser contra reduzir a maioridade penal."
+   },
+   "G13": {
+    "v": 2,
+    "conf": "declaracao",
+    "fonte": "https://sampi.net.br/franca/noticias/3002788/franca-tem-voz/2026/09/nao-podem-ser-palavras-ao-vento-diz-cortez-sobre-brasilia",
+    "nota": "Em 07/09/2026 defendeu o Estado laico e disse ser contra transformar o país em 'evangelistão'."
+   },
+   "G14": {
+    "v": 5,
+    "conf": "declaracao",
+    "fonte": "https://cortez5005.com.br/",
+    "nota": "Programa de 2026 pede aprovação imediata da PEC do fim da 6x1 sem redução salarial; reiterou apoio em entrevista de 07/09/2026."
+   },
+   "DF01": {
+    "v": 4,
+    "conf": "declaracao",
+    "fonte": "https://sampi.net.br/franca/noticias/3002788/franca-tem-voz/2026/09/nao-podem-ser-palavras-ao-vento-diz-cortez-sobre-brasilia",
+    "nota": "Em 07/09/2026 criticou o sistema de emendas sem transparência e defendeu reformá-lo."
+   }
+  }
+ },
+ {
+  "id": 250002533671,
+  "nomeUrna": "RENATA PAIVA",
+  "resumo": "Advogada, ex-vereadora de São José dos Campos por quatro mandatos; deixou o PSD pelo MDB. Candidata a deputada federal pelo MDB.",
+  "bandeiras": [],
+  "posicoes": {}
+ },
+ {
+  "id": 250002532342,
+  "nomeUrna": "SARGENTO NANTES",
+  "resumo": "Ex-sargento da PM com passagem pela Rota, vereador de São Paulo eleito em 2024 e corregedor-geral da Câmara Municipal. Candidato a deputado federal pelo PP.",
+  "bandeiras": [
+   "Segurança pública",
+   "Proteção dos profissionais de segurança"
+  ],
+  "posicoes": {
+   "G12": {
+    "v": 4,
+    "conf": "declaracao",
+    "fonte": "https://www.instagram.com/p/DW6UIG5kVBl/",
+    "nota": "Em 04/2026 foi ao Congresso defender a PEC que reduz a maioridade penal: 'Se tem idade para matar, tem idade para ser preso'."
+   }
+  }
+ },
+ {
+  "id": 250002537970,
+  "nomeUrna": "TOME ABDUCH",
+  "resumo": "Empresário, líder do movimento NasRuas e deputado estadual pelo Republicanos em SP desde 2023. Candidato a deputado federal.",
+  "bandeiras": [
+   "Pequenos negócios",
+   "Turismo nos municípios"
+  ],
+  "posicoes": {
+   "G03": {
+    "v": 4,
+    "conf": "voto",
+    "fonte": "https://www.al.sp.gov.br/repositorio/ementario/votacoes/9eee1206-2298-495c-a0a0-48733890f968.pdf",
+    "nota": "Alesp: Sim no encerramento da discussão do PL 1.501/2023, privatização da Sabesp (05/12/2023)."
+   },
+   "G08": {
+    "v": 4,
+    "conf": "declaracao",
+    "fonte": "https://www.youtube.com/shorts/cF2S8uHP2Qw",
+    "nota": "Em entrevista à Jovem Pan News, afirmou que 'Motta e Alcolumbre precisam pautar a anistia' (2025)."
+   }
+  }
+ },
+ {
+  "id": 250002536751,
+  "nomeUrna": "GUIDA CALIXTO",
+  "resumo": "Advogada, servidora pública e vereadora de Campinas pelo PT desde 2021, reeleita em 2024. Candidata a deputada federal pelo PT.",
+  "bandeiras": [
+   "Educação",
+   "Igualdade racial e de gênero",
+   "Direitos dos servidores públicos"
+  ],
+  "posicoes": {
+   "G03": {
+    "v": 2,
+    "conf": "declaracao",
+    "fonte": "https://campinas.sp.pt.org.br/artigos/ptcampinas/18136/2025-01-15-vereadora-guida-calixto-pt-um-mandato-petista",
+    "nota": "Texto do mandato (01/2025) cita campanha contra terceirizações e privatizações dos serviços públicos, em especial na saúde."
+   }
+  }
+ },
+ {
+  "id": 250002539624,
+  "nomeUrna": "NATÁLIA BOULOS",
+  "resumo": "Advogada, secretária de organização do PSOL, indicada por movimentos como o MTST; disputa sua primeira eleição. Candidata a deputada federal pelo PSOL.",
+  "bandeiras": [],
+  "posicoes": {}
+ },
+ {
+  "id": 250002530115,
+  "nomeUrna": "MARINA HELENA",
+  "resumo": "Economista, ex-diretora de Desestatização do Ministério da Economia (governo Bolsonaro) e candidata a prefeita de São Paulo em 2024. Candidata a deputada federal pelo Novo.",
+  "bandeiras": [
+   "Não aumentar impostos",
+   "Corte de gastos da Câmara",
+   "Segurança pública e fim da saidinha"
+  ],
+  "posicoes": {
+   "G01": {
+    "v": 4,
+    "conf": "declaracao",
+    "fonte": "https://marinahelenabr.com.br/propostas-candidato-deputado-federal-sp-marina-helena/",
+    "nota": "Propostas de 2026: jamais votar por aumento de impostos, cortar 80% dos gastos da Câmara e orçamento base zero."
+   },
+   "G03": {
+    "v": 4,
+    "conf": "declaracao",
+    "fonte": "https://www.infomoney.com.br/politica/marina-helena-santos-economista-de-felipe-davila-defende-teto-de-gastos-e-privatizacao-da-petrobras-estado-empresario-perde-o-foco/",
+    "nota": "Defendeu a privatização da Petrobras (2022), dizendo que o Estado empresário perde o foco. Em 2024 disse que privatizar não garante qualidade."
+   },
+   "G05": {
+    "v": 2,
+    "conf": "declaracao",
+    "fonte": "https://www.cnnbrasil.com.br/blogs/clarissa-oliveira/eleicoes/analise-marina-helena-recorre-a-costumes-e-privatizacoes-em-busca-do-voto-bolsonarista/",
+    "nota": "Em 22/08/2024 criticou o aborto legal após 22 semanas e disse que trabalharia para mudar a legislação."
+   },
+   "G09": {
+    "v": 4,
+    "conf": "declaracao",
+    "fonte": "https://www.cnnbrasil.com.br/blogs/clarissa-oliveira/eleicoes/analise-marina-helena-recorre-a-costumes-e-privatizacoes-em-busca-do-voto-bolsonarista/",
+    "nota": "Em 22/08/2024 chamou de 'canetada' de Alexandre de Moraes a decisão sobre aborto legal após 22 semanas."
+   },
+   "G11": {
+    "v": 2,
+    "conf": "declaracao",
+    "fonte": "https://marinahelenabr.com.br/propostas-candidato-deputado-federal-sp-marina-helena/",
+    "nota": "Propostas de 2026 defendem o fim das cotas no serviço público: 'concurso justo é concurso igual pra todo mundo'."
+   },
+   "DF06": {
+    "v": 4,
+    "conf": "declaracao",
+    "fonte": "https://marinahelenabr.com.br/propostas-candidato-deputado-federal-sp-marina-helena/",
+    "nota": "Propostas de 2026 incluem acabar com as saídas temporárias de presos."
+   }
+  }
+ },
+ {
+  "id": 250002541119,
+  "nomeUrna": "GUTI",
+  "resumo": "Empresário, ex-prefeito de Guarulhos (2017 a 2024) e ex-vereador da cidade. Candidato a deputado federal pelo PSD.",
+  "bandeiras": [
+   "Frente contra aumento de impostos",
+   "Municipalismo"
+  ],
+  "posicoes": {
+   "G01": {
+    "v": 4,
+    "conf": "declaracao",
+    "fonte": "https://origem.gazetanewsguarulhos.com.br/guti-convoca-candidatos-a-aderirem-a-frente-contra-impostos/",
+    "nota": "Em 2026 propôs aos candidatos um compromisso público contra aumento de tributos; manteve o IPTU congelado como prefeito."
+   }
+  }
+ },
+ {
+  "id": 250002532343,
+  "nomeUrna": "VICTOR RUIZ",
+  "resumo": "Empresário de Cotia, de 29 anos; foi candidato a vereador em Itapevi em 2020 e 2024, ficando na suplência. Candidato a deputado federal pelo PP.",
+  "bandeiras": [],
+  "posicoes": {}
+ },
+ {
+  "id": 250002536755,
+  "nomeUrna": "ORLANDO SILVA",
+  "resumo": "Deputado federal pelo PCdoB-SP, ex-ministro do Esporte (2006 a 2011) e ex-presidente da UNE; relator do PL das Fake News. Candidato à reeleição.",
+  "bandeiras": [
+   "Direitos dos trabalhadores",
+   "Igualdade racial",
+   "Regulação das plataformas digitais"
+  ],
+  "posicoes": {}
+ },
+ {
+  "id": 250002541146,
+  "nomeUrna": "VINICIUS MARCHESE",
+  "resumo": "Engenheiro de telecomunicações e presidente do Crea-SP, reeleito em 2026. Candidato a deputado federal pelo PSD.",
+  "bandeiras": [
+   "Inovação e tecnologia",
+   "Infraestrutura",
+   "Apoio técnico aos municípios"
+  ],
+  "posicoes": {}
+ },
+ {
+  "id": 250002539385,
+  "nomeUrna": "ANDREA WERNER",
+  "resumo": "Jornalista, ativista pelos direitos das pessoas com autismo e deputada estadual pelo PSB em SP desde 2023; líder da bancada do PSB na Alesp. Candidata a deputada federal.",
+  "bandeiras": [
+   "Direitos das pessoas com deficiência",
+   "Autismo"
+  ],
+  "posicoes": {
+   "G03": {
+    "v": 2,
+    "conf": "voto",
+    "fonte": "https://www.al.sp.gov.br/repositorio/ementario/votacoes/9eee1206-2298-495c-a0a0-48733890f968.pdf",
+    "nota": "Alesp: Não no encerramento da discussão do PL 1.501/2023, privatização da Sabesp (05/12/2023)."
+   }
+  }
+ },
+ {
+  "id": 250002533637,
+  "nomeUrna": "DENIS ANDIA",
+  "resumo": "Publicitário, ex-prefeito de Santa Bárbara d'Oeste (2013 a 2020) e ex-secretário nacional de Mobilidade Urbana. Candidato a deputado federal pelo MDB.",
+  "bandeiras": [
+   "Representação regional",
+   "Mobilidade urbana"
+  ],
+  "posicoes": {}
+ },
+ {
+  "id": 250002537973,
+  "nomeUrna": "ALTAIR MORAES",
+  "resumo": "Pastor evangélico e ex-atleta de caratê, deputado estadual pelo Republicanos em SP desde 2019. Candidato a deputado federal.",
+  "bandeiras": [
+   "Defesa da família",
+   "Esporte",
+   "Segurança pública"
+  ],
+  "posicoes": {
+   "G03": {
+    "v": 4,
+    "conf": "voto",
+    "fonte": "https://www.al.sp.gov.br/repositorio/ementario/votacoes/9eee1206-2298-495c-a0a0-48733890f968.pdf",
+    "nota": "Alesp: Sim no PL 1/2019 e PL 727/2019 (desestatizações), no PL 529/2020 (extinção de estatais) e no encerramento da discussão da Sabesp (05/12/2023)."
+   },
+   "G13": {
+    "v": 4,
+    "conf": "declaracao",
+    "fonte": "https://republicanos10.org.br/quem_e_quem/altair-moraes-2/",
+    "nota": "Perfil oficial no partido diz que seu mandato busca cumprir as Constituições 'sempre sob a luz dos preceitos cristãos'."
+   }
+  }
+ },
+ {
+  "id": 250002536756,
+  "nomeUrna": "ALFREDINHO",
+  "resumo": "Ex-vereador de São Paulo pelo PT, deputado federal em exercício como suplente na legislatura 2023-2027. Candidato a deputado federal pelo PT.",
+  "bandeiras": [],
+  "posicoes": {}
+ },
+ {
+  "id": 250002532363,
+  "nomeUrna": "BAIANINHO DE MAUÁ",
+  "resumo": "Jogador profissional de sinuca, conhecido nacionalmente, radicado em Mauá; disputa sua primeira eleição. Candidato a deputado federal pelo União Brasil.",
+  "bandeiras": [],
+  "posicoes": {}
+ },
+ {
+  "id": 250002539592,
+  "nomeUrna": "THIAGO ÁVILA",
+  "resumo": "Ativista socioambiental de Brasília, integrante de flotilhas para Gaza e preso por dez dias em Israel; já disputou eleições no DF. Candidato a deputado federal pela Rede em SP.",
+  "bandeiras": [
+   "Defesa ambiental",
+   "Solidariedade internacional e oposição a guerras",
+   "Combate à desigualdade"
+  ],
+  "posicoes": {}
+ },
+ {
+  "id": 250002536762,
+  "nomeUrna": "ZÉ DIRCEU",
+  "resumo": "Advogado, ex-ministro-chefe da Casa Civil (2003 a 2005) e ex-deputado federal pelo PT, com mandato cassado em 2005. Candidato a deputado federal pelo PT.",
+  "bandeiras": [
+   "Reforma política",
+   "Mudança no modelo de emendas impositivas"
+  ],
+  "posicoes": {
+   "G08": {
+    "v": 2,
+    "conf": "declaracao",
+    "fonte": "https://jovempan.com.br/noticias/politica/para-mudar-o-pais-temos-que-mudar-o-congresso-diz-jose-dirceu-em-ato-contra-anistia-e-pec-da-blindagem.html",
+    "nota": "Discursou em ato contra a anistia e a PEC da Blindagem em 21/09/2025 e criticou a aprovação das propostas pelo Congresso."
+   },
+   "G14": {
+    "v": 4,
+    "conf": "declaracao",
+    "fonte": "https://www.band.com.br/nacional/brasil/jose-dirceu-defende-fim-da-escala-6x1-e-cobra-pacto-nacional-para-impulsionar-crescimento-do-brasil",
+    "nota": "Em 11/06/2026 defendeu o fim da escala 6x1 e a adoção da jornada 5x2."
+   },
+   "DF01": {
+    "v": 5,
+    "conf": "declaracao",
+    "fonte": "https://www.poder360.com.br/poder-governo/dirceu-defende-mudancas-no-pagamento-de-emendas-parlamentares/",
+    "nota": "Em 05/02/2026 defendeu reformar as emendas impositivas; em 04/2026 reiterou críticas ao uso de emendas pelo Legislativo."
+   },
+   "DF02": {
+    "v": 2,
+    "conf": "declaracao",
+    "fonte": "https://jovempan.com.br/noticias/politica/para-mudar-o-pais-temos-que-mudar-o-congresso-diz-jose-dirceu-em-ato-contra-anistia-e-pec-da-blindagem.html",
+    "nota": "Em ato de 21/09/2025 contra a PEC da Blindagem, criticou sua aprovação pela Câmara."
+   }
+  }
+ },
+ {
+  "id": 250002536758,
+  "nomeUrna": "VICENTINHO",
+  "resumo": "Sindicalista, ex-presidente da CUT e do Sindicato dos Metalúrgicos do ABC, deputado federal pelo PT-SP desde 2003. Candidato à reeleição.",
+  "bandeiras": [
+   "Redução da jornada de trabalho",
+   "Direitos dos trabalhadores"
+  ],
+  "posicoes": {
+   "G14": {
+    "v": 5,
+    "conf": "declaracao",
+    "fonte": "https://www.camara.leg.br/radio/programas/1165333-fim-da-escala-6x1-nao-compromete-produtividade-e-permite-vida-mais-saudavel-a-trabalhador-avalia-deputado-vicentinho/",
+    "nota": "Em 02/06/2025 defendeu o fim da 6x1 sem redução salarial; relator da PEC das 40 horas, diz não admitir manter a escala."
+   }
+  }
+ },
+ {
+  "id": 250002534949,
+  "nomeUrna": "LORENY",
+  "resumo": "Gestora de políticas públicas, ex-vereadora de Taubaté; foi candidata a prefeita da cidade em 2020 e 2024. Candidata a deputada federal pelo Solidariedade.",
+  "bandeiras": [
+   "Simplificação da legislação",
+   "Recursos federais para municípios paulistas"
+  ],
+  "posicoes": {}
+ }
+]

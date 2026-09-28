@@ -1,0 +1,5453 @@
+[
+ {
+  "id": 250002535972,
+  "cargoCod": 6,
+  "cargo": "Deputado Federal",
+  "nomeUrna": "ROSANA VALLE",
+  "nomeCompleto": "ROSANA DE OLIVEIRA VALLE",
+  "numero": 2227,
+  "partido": "PL",
+  "coligacao": "PL",
+  "situacao": "Deferido",
+  "ocupacao": "Deputado",
+  "incumbente": true,
+  "arrecadado": 3340784.12,
+  "anteriores": [
+   {
+    "ano": 2024,
+    "cargo": "Prefeito",
+    "local": "SANTOS",
+    "partido": "PL",
+    "resultado": "2º turno"
+   },
+   {
+    "ano": 2022,
+    "cargo": "Deputado Federal",
+    "local": "SÃO PAULO",
+    "partido": "PL",
+    "resultado": "Eleito por QP"
+   },
+   {
+    "ano": 2018,
+    "cargo": "Deputado Federal",
+    "local": "SÃO PAULO",
+    "partido": "PSB",
+    "resultado": "Eleito por QP"
+   }
+  ],
+  "sites": [
+   "HTTPS://WWW.FACEBOOK.COM/ROSANAVALLEOFICIAL/",
+   "HTTPS://WWW.YOUTUBE.COM/@ROSANAVALLEDEPUTADAFEDERAL",
+   "HTTPS://WWW.INSTAGRAM.COM/ROSANAVALLEOFICIAL/"
+  ],
+  "posicoesExistentes": {
+   "DF03": {
+    "v": 5,
+    "conf": "voto",
+    "nota": "Votou Sim em PL 490/2007 (30/05/2023)."
+   },
+   "G10": {
+    "v": 2,
+    "conf": "voto",
+    "nota": "Votou Não em PL 2630/2020 (25/04/2023)."
+   },
+   "G04": {
+    "v": 4,
+    "conf": "voto",
+    "nota": "Votou Sim em PDL 3/2023 (06/12/2023)."
+   },
+   "G11": {
+    "v": 4,
+    "conf": "voto",
+    "nota": "Votou Sim em PL 1958/2021 (19/11/2024)."
+   },
+   "DF04": {
+    "v": 5,
+    "conf": "voto",
+    "nota": "Votou Sim em PL 2159/2021 (17/07/2025)."
+   },
+   "G07": {
+    "v": 2,
+    "conf": "voto",
+    "nota": "Votou Sim em PL 2159/2021 (17/07/2025)."
+   },
+   "DF02": {
+    "v": 5,
+    "conf": "voto",
+    "nota": "Votou Sim em PEC 3/2021 (16/09/2025); Sim em PEC 3/2021 (16/09/2025)."
+   },
+   "G08": {
+    "v": 4,
+    "conf": "voto",
+    "nota": "Votou Sim em PL 2162/2023 (17/09/2025); Sim em PL 2162/2023 (10/12/2025)."
+   },
+   "G14": {
+    "v": 5,
+    "conf": "voto",
+    "nota": "Votou Sim em PEC 221/2019 (27/05/2026); Sim em PEC 221/2019 (27/05/2026)."
+   },
+   "G03": {
+    "v": 2,
+    "conf": "voto",
+    "nota": "Votou Não em PL 591/2021 (privatização dos Correios) (05/08/2021); Não em MP 1031/2021 (privatização da Eletrobras) (19/05/2021)."
+   }
+  },
+  "perguntasFaltando": [
+   "G01",
+   "G02",
+   "G05",
+   "G06",
+   "G09",
+   "G12",
+   "G13",
+   "DF01",
+   "DF05",
+   "DF06"
+  ]
+ },
+ {
+  "id": 250002544340,
+  "cargoCod": 6,
+  "cargo": "Deputado Federal",
+  "nomeUrna": "RENATA ABREU",
+  "nomeCompleto": "RENATA HELLMEISTER DE ABREU MELO",
+  "numero": 2020,
+  "partido": "PODE",
+  "coligacao": "PODE",
+  "situacao": "Deferido",
+  "ocupacao": "Deputado",
+  "incumbente": true,
+  "arrecadado": 3157097.35,
+  "anteriores": [
+   {
+    "ano": 2022,
+    "cargo": "Deputado Federal",
+    "local": "SÃO PAULO",
+    "partido": "PODE",
+    "resultado": "Eleito por QP"
+   },
+   {
+    "ano": 2018,
+    "cargo": "Deputado Federal",
+    "local": "SÃO PAULO",
+    "partido": "PODE",
+    "resultado": "Eleito por QP"
+   },
+   {
+    "ano": 2014,
+    "cargo": "Deputado Federal",
+    "local": "SÃO PAULO",
+    "partido": "PTN",
+    "resultado": "Eleito por QP"
+   }
+  ],
+  "sites": [
+   "https://renataabreuoficial.com.br/",
+   "https://www.threads.com/@renataabreu.2020",
+   "https://www.tiktok.com/@renataabreu.2020",
+   "HTTPS://X.COM/RENATAABREU2020",
+   "https://www.facebook.com/renataabreu1919",
+   "https://www.instagram.com/renataabreu.2020/",
+   "https://www.renataabreu2020.com.br/",
+   "HTTPS://BIT.LY/RENATAABREUOFICIAL",
+   "https://x.com/RenataAbreu2020",
+   "HTTPS://RENATAABREUOFICIAL.COM.BR",
+   "HTTPS://BIT.LY/RENATAABREUOFICIALFACEBOOK",
+   "https://template-renata.jobsduca.com.br/"
+  ],
+  "posicoesExistentes": {
+   "DF03": {
+    "v": 5,
+    "conf": "voto",
+    "nota": "Votou Sim em PL 490/2007 (30/05/2023)."
+   },
+   "G10": {
+    "v": 2,
+    "conf": "voto",
+    "nota": "Votou Não em PL 2630/2020 (25/04/2023)."
+   },
+   "G04": {
+    "v": 2,
+    "conf": "voto",
+    "nota": "Votou Não em PDL 3/2023 (06/12/2023)."
+   },
+   "DF02": {
+    "v": 5,
+    "conf": "voto",
+    "nota": "Votou Sim em PEC 3/2021 (16/09/2025); Sim em PEC 3/2021 (16/09/2025)."
+   },
+   "G08": {
+    "v": 4,
+    "conf": "voto",
+    "nota": "Votou Sim em PL 2162/2023 (10/12/2025)."
+   },
+   "G14": {
+    "v": 5,
+    "conf": "voto",
+    "nota": "Votou Sim em PEC 221/2019 (27/05/2026); Sim em PEC 221/2019 (27/05/2026)."
+   },
+   "G03": {
+    "v": 2,
+    "conf": "voto",
+    "nota": "Votou Não em PL 591/2021 (privatização dos Correios) (05/08/2021); Não em MP 1031/2021 (privatização da Eletrobras) (19/05/2021)."
+   },
+   "G01": {
+    "v": 4,
+    "conf": "voto",
+    "nota": "Votou Sim em PEC 241/2016 (teto de gastos), 2º turno (25/10/2016)."
+   },
+   "G12": {
+    "v": 4,
+    "conf": "voto",
+    "nota": "Votou Sim em PEC 171/1993 (maioridade penal para crimes graves), 2º turno (19/08/2015)."
+   }
+  },
+  "perguntasFaltando": [
+   "G02",
+   "G05",
+   "G06",
+   "G07",
+   "G09",
+   "G11",
+   "G13",
+   "DF01",
+   "DF04",
+   "DF05",
+   "DF06"
+  ]
+ },
+ {
+  "id": 250002535957,
+  "cargoCod": 6,
+  "cargo": "Deputado Federal",
+  "nomeUrna": "CEZINHA DE MADUREIRA",
+  "nomeCompleto": "ANTONIO CEZAR CORREIA FREIRE",
+  "numero": 2223,
+  "partido": "PL",
+  "coligacao": "PL",
+  "situacao": "Deferido",
+  "ocupacao": "Deputado",
+  "incumbente": true,
+  "arrecadado": 3112409.04,
+  "anteriores": [
+   {
+    "ano": 2022,
+    "cargo": "Deputado Federal",
+    "local": "SÃO PAULO",
+    "partido": "PSD",
+    "resultado": "Eleito por QP"
+   },
+   {
+    "ano": 2018,
+    "cargo": "Deputado Federal",
+    "local": "SÃO PAULO",
+    "partido": "PSD",
+    "resultado": "Eleito por QP"
+   },
+   {
+    "ano": 2014,
+    "cargo": "Deputado Estadual",
+    "local": "SÃO PAULO",
+    "partido": "DEM",
+    "resultado": "Eleito por QP"
+   }
+  ],
+  "sites": [
+   "https://INSTAGRAM.COM/CEZINHADEMADUREIRA"
+  ],
+  "posicoesExistentes": {
+   "DF03": {
+    "v": 5,
+    "conf": "voto",
+    "nota": "Votou Sim em PL 490/2007 (30/05/2023)."
+   },
+   "G11": {
+    "v": 4,
+    "conf": "voto",
+    "nota": "Votou Sim em PL 1958/2021 (19/11/2024)."
+   },
+   "DF04": {
+    "v": 5,
+    "conf": "voto",
+    "nota": "Votou Sim em PL 2159/2021 (17/07/2025)."
+   },
+   "G07": {
+    "v": 2,
+    "conf": "voto",
+    "nota": "Votou Sim em PL 2159/2021 (17/07/2025)."
+   },
+   "DF02": {
+    "v": 5,
+    "conf": "voto",
+    "nota": "Votou Sim em PEC 3/2021 (16/09/2025); Sim em PEC 3/2021 (16/09/2025)."
+   },
+   "G08": {
+    "v": 4,
+    "conf": "voto",
+    "nota": "Votou Sim em PL 2162/2023 (17/09/2025); Sim em PL 2162/2023 (10/12/2025)."
+   },
+   "G14": {
+    "v": 5,
+    "conf": "voto",
+    "nota": "Votou Sim em PEC 221/2019 (27/05/2026); Sim em PEC 221/2019 (27/05/2026)."
+   },
+   "G03": {
+    "v": 4,
+    "conf": "voto",
+    "nota": "Votou Sim em PL 591/2021 (privatização dos Correios) (05/08/2021); Sim em MP 1031/2021 (privatização da Eletrobras) (19/05/2021)."
+   }
+  },
+  "perguntasFaltando": [
+   "G01",
+   "G02",
+   "G04",
+   "G05",
+   "G06",
+   "G09",
+   "G10",
+   "G12",
+   "G13",
+   "DF01",
+   "DF05",
+   "DF06"
+  ]
+ },
+ {
+  "id": 250002535958,
+  "cargoCod": 6,
+  "cargo": "Deputado Federal",
+  "nomeUrna": "LUIZ PHILIPPE DE O E BRAGANÇA",
+  "nomeCompleto": "LUIZ PHILIPPE DE ORLEANS BRAGANCA",
+  "numero": 2225,
+  "partido": "PL",
+  "coligacao": "PL",
+  "situacao": "Deferido",
+  "ocupacao": "Empresário",
+  "incumbente": true,
+  "arrecadado": 3112409.04,
+  "anteriores": [
+   {
+    "ano": 2022,
+    "cargo": "Deputado Federal",
+    "local": "SÃO PAULO",
+    "partido": "PL",
+    "resultado": "Eleito por QP"
+   },
+   {
+    "ano": 2018,
+    "cargo": "Deputado Federal",
+    "local": "SÃO PAULO",
+    "partido": "PSL",
+    "resultado": "Eleito por QP"
+   }
+  ],
+  "sites": [
+   "HTTPS://WEB.FACEBOOK.COM/LPBRAGANCABR",
+   "HTTPS://WWW.TIKTOK.COM/@LPBRAGANCABR?_R=1&_T=ZS-96FAP2S6KPC",
+   "HTTPS://WWW.YOUTUBE.COM/@LPBRAGANCABR",
+   "HTTPS://WWW.INSTAGRAM.COM/LPBRAGANCABR/",
+   "HTTPS://T.ME/LUIZPHILIPPE",
+   "HTTPS://WHATSAPP.COM/CHANNEL/0029VA8YAKSJENY5QMAK7P31",
+   "HTTPS://WWW.LINKEDIN.COM/IN/LPBRAGANCABR/",
+   "HTTPS://X.COM/LPBRAGANCABR"
+  ],
+  "posicoesExistentes": {
+   "G10": {
+    "v": 2,
+    "conf": "voto",
+    "nota": "Votou Não em PL 2630/2020 (25/04/2023)."
+   },
+   "G04": {
+    "v": 4,
+    "conf": "voto",
+    "nota": "Votou Sim em PDL 3/2023 (06/12/2023)."
+   },
+   "DF04": {
+    "v": 5,
+    "conf": "voto",
+    "nota": "Votou Sim em PL 2159/2021 (17/07/2025)."
+   },
+   "G07": {
+    "v": 2,
+    "conf": "voto",
+    "nota": "Votou Sim em PL 2159/2021 (17/07/2025)."
+   },
+   "DF02": {
+    "v": 5,
+    "conf": "voto",
+    "nota": "Votou Sim em PEC 3/2021 (16/09/2025)."
+   },
+   "G08": {
+    "v": 4,
+    "conf": "voto",
+    "nota": "Votou Sim em PL 2162/2023 (17/09/2025); Sim em PL 2162/2023 (10/12/2025)."
+   },
+   "G03": {
+    "v": 4,
+    "conf": "voto",
+    "nota": "Votou Sim em PL 591/2021 (privatização dos Correios) (05/08/2021); Sim em MP 1031/2021 (privatização da Eletrobras) (19/05/2021)."
+   }
+  },
+  "perguntasFaltando": [
+   "G01",
+   "G02",
+   "G05",
+   "G06",
+   "G09",
+   "G11",
+   "G12",
+   "G13",
+   "G14",
+   "DF01",
+   "DF03",
+   "DF05",
+   "DF06"
+  ]
+ },
+ {
+  "id": 250002535961,
+  "cargoCod": 6,
+  "cargo": "Deputado Federal",
+  "nomeUrna": "VINICIUS CARVALHO",
+  "nomeCompleto": "VINICIUS RAPOZO DE CARVALHO",
+  "numero": 2285,
+  "partido": "PL",
+  "coligacao": "PL",
+  "situacao": "Deferido",
+  "ocupacao": "Deputado",
+  "incumbente": true,
+  "arrecadado": 3048084.06,
+  "anteriores": [
+   {
+    "ano": 2022,
+    "cargo": "Deputado Federal",
+    "local": "SÃO PAULO",
+    "partido": "REPUBLICANOS",
+    "resultado": "Eleito por QP"
+   },
+   {
+    "ano": 2018,
+    "cargo": "Deputado Federal",
+    "local": "SÃO PAULO",
+    "partido": "PRB",
+    "resultado": "Eleito por QP"
+   },
+   {
+    "ano": 2014,
+    "cargo": "Deputado Federal",
+    "local": "SÃO PAULO",
+    "partido": "PRB",
+    "resultado": "Eleito por QP"
+   },
+   {
+    "ano": 2006,
+    "cargo": "Deputado Federal",
+    "local": "RIO DE JANEIRO",
+    "partido": "PT do B",
+    "resultado": "Eleito"
+   }
+  ],
+  "sites": [
+   "HTTPS://WWW.FACEBOOK.COM/SHARE/1BQES1AXNP/?MIBEXTID=WWXIFR",
+   "https://www.tiktok.com/@viniciuscarvalhooficial",
+   "HTTP://WWW.YOUTUBE.COM/@DEPUTADOVINICIUSCARVALHO",
+   "https://viniciuscarvalho.com.br/",
+   "HTTPS://WWW.INSTAGRAM.COM/VINICIUSCARVALHOOFICIAL?UTM_SOURCE=QR",
+   "https://x.com/falecomvinicius"
+  ],
+  "posicoesExistentes": {
+   "G04": {
+    "v": 4,
+    "conf": "voto",
+    "nota": "Votou Sim em PDL 3/2023 (06/12/2023)."
+   },
+   "DF04": {
+    "v": 5,
+    "conf": "voto",
+    "nota": "Votou Sim em PL 2159/2021 (17/07/2025)."
+   },
+   "G07": {
+    "v": 2,
+    "conf": "voto",
+    "nota": "Votou Sim em PL 2159/2021 (17/07/2025)."
+   },
+   "DF02": {
+    "v": 5,
+    "conf": "voto",
+    "nota": "Votou Sim em PEC 3/2021 (16/09/2025); Sim em PEC 3/2021 (16/09/2025)."
+   },
+   "G08": {
+    "v": 4,
+    "conf": "voto",
+    "nota": "Votou Sim em PL 2162/2023 (17/09/2025); Sim em PL 2162/2023 (10/12/2025)."
+   },
+   "G14": {
+    "v": 5,
+    "conf": "voto",
+    "nota": "Votou Sim em PEC 221/2019 (27/05/2026); Sim em PEC 221/2019 (27/05/2026)."
+   },
+   "G03": {
+    "v": 4,
+    "conf": "voto",
+    "nota": "Votou Sim em PL 591/2021 (privatização dos Correios) (05/08/2021); Sim em MP 1031/2021 (privatização da Eletrobras) (19/05/2021)."
+   },
+   "G01": {
+    "v": 4,
+    "conf": "voto",
+    "nota": "Votou Sim em PEC 241/2016 (teto de gastos), 2º turno (25/10/2016)."
+   },
+   "G12": {
+    "v": 4,
+    "conf": "voto",
+    "nota": "Votou Sim em PEC 171/1993 (maioridade penal para crimes graves), 2º turno (19/08/2015)."
+   }
+  },
+  "perguntasFaltando": [
+   "G02",
+   "G05",
+   "G06",
+   "G09",
+   "G10",
+   "G11",
+   "G13",
+   "DF01",
+   "DF03",
+   "DF05",
+   "DF06"
+  ]
+ },
+ {
+  "id": 250002535948,
+  "cargoCod": 6,
+  "cargo": "Deputado Federal",
+  "nomeUrna": "MIGUEL LOMBARDI",
+  "nomeCompleto": "MIGUEL LOMBARDI",
+  "numero": 2277,
+  "partido": "PL",
+  "coligacao": "PL",
+  "situacao": "Deferido",
+  "ocupacao": "Deputado",
+  "incumbente": true,
+  "arrecadado": 3040084.06,
+  "anteriores": [
+   {
+    "ano": 2022,
+    "cargo": "Deputado Federal",
+    "local": "SÃO PAULO",
+    "partido": "PL",
+    "resultado": "Eleito por QP"
+   },
+   {
+    "ano": 2018,
+    "cargo": "Deputado Federal",
+    "local": "SÃO PAULO",
+    "partido": "PR",
+    "resultado": "Eleito por média"
+   },
+   {
+    "ano": 2014,
+    "cargo": "Deputado Federal",
+    "local": "SÃO PAULO",
+    "partido": "PR",
+    "resultado": "Eleito por média"
+   },
+   {
+    "ano": 2012,
+    "cargo": "Vereador",
+    "local": "LIMEIRA",
+    "partido": "PR",
+    "resultado": "Eleito por QP"
+   }
+  ],
+  "sites": [
+   "HTTPS://WWW.INSTAGRAM.COM/DEP.MIGUELLOMBARDI",
+   "https://WWW.MIGUELLOMBARDI.COM.BR",
+   "HTTPS://WWW.FACEBOOK.COM/MIGUELLOMBARDI.DEPUTADOFEDERAL"
+  ],
+  "posicoesExistentes": {
+   "G10": {
+    "v": 2,
+    "conf": "voto",
+    "nota": "Votou Não em PL 2630/2020 (25/04/2023)."
+   },
+   "G04": {
+    "v": 4,
+    "conf": "voto",
+    "nota": "Votou Sim em PDL 3/2023 (06/12/2023)."
+   },
+   "DF04": {
+    "v": 5,
+    "conf": "voto",
+    "nota": "Votou Sim em PL 2159/2021 (17/07/2025)."
+   },
+   "G07": {
+    "v": 2,
+    "conf": "voto",
+    "nota": "Votou Sim em PL 2159/2021 (17/07/2025)."
+   },
+   "DF02": {
+    "v": 5,
+    "conf": "voto",
+    "nota": "Votou Sim em PEC 3/2021 (16/09/2025); Sim em PEC 3/2021 (16/09/2025)."
+   },
+   "G08": {
+    "v": 4,
+    "conf": "voto",
+    "nota": "Votou Sim em PL 2162/2023 (17/09/2025); Sim em PL 2162/2023 (10/12/2025)."
+   },
+   "G14": {
+    "v": 5,
+    "conf": "voto",
+    "nota": "Votou Sim em PEC 221/2019 (27/05/2026); Sim em PEC 221/2019 (27/05/2026)."
+   },
+   "G03": {
+    "v": 4,
+    "conf": "voto",
+    "nota": "Votou Sim em PL 591/2021 (privatização dos Correios) (05/08/2021); Sim em MP 1031/2021 (privatização da Eletrobras) (19/05/2021)."
+   },
+   "G01": {
+    "v": 4,
+    "conf": "voto",
+    "nota": "Votou Sim em PEC 241/2016 (teto de gastos), 2º turno (25/10/2016)."
+   },
+   "G12": {
+    "v": 4,
+    "conf": "voto",
+    "nota": "Votou Sim em PEC 171/1993 (maioridade penal para crimes graves), 2º turno (19/08/2015)."
+   }
+  },
+  "perguntasFaltando": [
+   "G02",
+   "G05",
+   "G06",
+   "G09",
+   "G11",
+   "G13",
+   "DF01",
+   "DF03",
+   "DF05",
+   "DF06"
+  ]
+ },
+ {
+  "id": 250002533647,
+  "cargoCod": 6,
+  "cargo": "Deputado Federal",
+  "nomeUrna": "BALEIA ROSSI",
+  "nomeCompleto": "LUIZ FELIPE BALEIA TENUTO ROSSI",
+  "numero": 1515,
+  "partido": "MDB",
+  "coligacao": "MDB",
+  "situacao": "Deferido",
+  "ocupacao": "Empresário",
+  "incumbente": true,
+  "arrecadado": 3034354.1,
+  "anteriores": [
+   {
+    "ano": 2022,
+    "cargo": "Deputado Federal",
+    "local": "SÃO PAULO",
+    "partido": "MDB",
+    "resultado": "Eleito por QP"
+   },
+   {
+    "ano": 2018,
+    "cargo": "Deputado Federal",
+    "local": "SÃO PAULO",
+    "partido": "MDB",
+    "resultado": "Eleito por QP"
+   },
+   {
+    "ano": 2014,
+    "cargo": "Deputado Federal",
+    "local": "SÃO PAULO",
+    "partido": "PMDB",
+    "resultado": "Eleito por QP"
+   },
+   {
+    "ano": 2010,
+    "cargo": "Deputado Estadual",
+    "local": "SÃO PAULO",
+    "partido": "PMDB",
+    "resultado": "Eleito"
+   }
+  ],
+  "sites": [
+   "HTTPS://WWW.INSTAGRAM.COM/BALEIA.ROSSI",
+   "HTTPS://WWW.TIKTOK.COM/@BALEIA.ROSSI/",
+   "HTTPS://WWW.YOUTUBE.COM/BALEIAROSSIOFICIAL",
+   "HTTPS://OPEN.SPOTIFY.COM/SHOW/3PJN9NHMT2LN8YBUCYJENG",
+   "HTTPS://X.COM/BALEIA_ROSSI",
+   "HTTPS://BALEIAROSSI.COM.BR/",
+   "HTTPS://WWW.FACEBOOK.COM/BALEIA.ROSSI"
+  ],
+  "posicoesExistentes": {
+   "DF03": {
+    "v": 5,
+    "conf": "voto",
+    "nota": "Votou Sim em PL 490/2007 (30/05/2023)."
+   },
+   "DF02": {
+    "v": 1,
+    "conf": "voto",
+    "nota": "Votou Não em PEC 3/2021 (16/09/2025); Não em PEC 3/2021 (16/09/2025)."
+   },
+   "G08": {
+    "v": 3,
+    "conf": "voto",
+    "nota": "Votou Não em PL 2162/2023 (17/09/2025); Sim em PL 2162/2023 (10/12/2025)."
+   },
+   "G14": {
+    "v": 5,
+    "conf": "voto",
+    "nota": "Votou Sim em PEC 221/2019 (27/05/2026); Sim em PEC 221/2019 (27/05/2026)."
+   },
+   "G01": {
+    "v": 4,
+    "conf": "voto",
+    "nota": "Votou Sim em PEC 241/2016 (teto de gastos), 2º turno (25/10/2016)."
+   },
+   "G12": {
+    "v": 4,
+    "conf": "voto",
+    "nota": "Votou Sim em PEC 171/1993 (maioridade penal para crimes graves), 2º turno (19/08/2015)."
+   }
+  },
+  "perguntasFaltando": [
+   "G02",
+   "G03",
+   "G04",
+   "G05",
+   "G06",
+   "G07",
+   "G09",
+   "G10",
+   "G11",
+   "G13",
+   "DF01",
+   "DF04",
+   "DF05",
+   "DF06"
+  ]
+ },
+ {
+  "id": 250002536737,
+  "cargoCod": 6,
+  "cargo": "Deputado Federal",
+  "nomeUrna": "CARLOS ZARATTINI",
+  "nomeCompleto": "CARLOS ALBERTO ROLIM ZARATTINI",
+  "numero": 1370,
+  "partido": "PT",
+  "coligacao": "FEDERAÇÃO BRASIL DA ESPERANÇA - FE BRASIL(13-PT/65-PC do B/43-PV)",
+  "situacao": "Deferido",
+  "ocupacao": "Deputado",
+  "incumbente": true,
+  "arrecadado": 3020000,
+  "anteriores": [
+   {
+    "ano": 2022,
+    "cargo": "Deputado Federal",
+    "local": "SÃO PAULO",
+    "partido": "PT",
+    "resultado": "Eleito por QP"
+   },
+   {
+    "ano": 2020,
+    "cargo": "Vice-prefeito",
+    "local": "SÃO PAULO",
+    "partido": "PT",
+    "resultado": "Não eleito"
+   },
+   {
+    "ano": 2018,
+    "cargo": "Deputado Federal",
+    "local": "SÃO PAULO",
+    "partido": "PT",
+    "resultado": "Eleito por QP"
+   },
+   {
+    "ano": 2014,
+    "cargo": "Deputado Federal",
+    "local": "SÃO PAULO",
+    "partido": "PT",
+    "resultado": "Eleito por QP"
+   }
+  ],
+  "sites": [
+   "HTTPS://CARLOSZARATTINI.COM.BR/BIO/",
+   "https://bsky.app/profile/zarattini.bsky.social",
+   "https://www.instagram.com/depzarattini/",
+   "HTTPS://API.WHATSAPP.COM/SEND/?PHONE=5511995151370",
+   "HTTPS://X.COM/CARLOSZARATTINI",
+   "https://x.com/CarlosZarattini",
+   "https://whatsapp.com/channel/0029VaDtIqg6BIEgE421sA2o",
+   "HTTPS://WWW.WHATSAPP.COM/CHANNEL/0029VADTIQG6BIEGE421SA2O?UTM_SOURCE=CARLOSZARAT",
+   "HTTPS://WWW.THREADS.COM/@DEPZARATTINI",
+   "HTTPS://WWW.YOUTUBE.COM/USER/DEPZARATTINI",
+   "https://www.facebook.com/dep.zarattini",
+   "https://www.youtube.com/@PapoRetocomZarattini",
+   "https://carloszarattini.com.br/",
+   "https://www.threads.com/@depzarattini",
+   "HTTPS://WWW.FACEBOOK.COM/DEP.ZARATTINI/",
+   "HTTPS://WWW.KWAI.COM/@CARLOSZARATTINI",
+   "https://t.me/CarlosZarattini",
+   "HTTPS://WWW.INSTAGRAM.COM/DEPZARATTINI/?HL=PT",
+   "HTTPS://WWW.TIKTOK.COM/@CARLOSZARATTINI",
+   "HTTPS://T.ME/CARLOSZARATTINI?UTM_SOURCE=CARLOSZARATTINI.COM.BR&UTM_MEDIUM=REFERR",
+   "https://k.kwai.com/u/@carloszarattini/zCZJtCzA"
+  ],
+  "posicoesExistentes": {
+   "DF03": {
+    "v": 1,
+    "conf": "voto",
+    "nota": "Votou Não em PL 490/2007 (30/05/2023)."
+   },
+   "G10": {
+    "v": 4,
+    "conf": "voto",
+    "nota": "Votou Sim em PL 2630/2020 (25/04/2023)."
+   },
+   "G04": {
+    "v": 2,
+    "conf": "voto",
+    "nota": "Votou Não em PDL 3/2023 (06/12/2023)."
+   },
+   "G11": {
+    "v": 4,
+    "conf": "voto",
+    "nota": "Votou Sim em PL 1958/2021 (19/11/2024)."
+   },
+   "DF04": {
+    "v": 1,
+    "conf": "voto",
+    "nota": "Votou Não em PL 2159/2021 (17/07/2025)."
+   },
+   "G07": {
+    "v": 4,
+    "conf": "voto",
+    "nota": "Votou Não em PL 2159/2021 (17/07/2025)."
+   },
+   "DF02": {
+    "v": 1,
+    "conf": "voto",
+    "nota": "Votou Não em PEC 3/2021 (16/09/2025); Não em PEC 3/2021 (16/09/2025)."
+   },
+   "G08": {
+    "v": 2,
+    "conf": "voto",
+    "nota": "Votou Não em PL 2162/2023 (17/09/2025); Não em PL 2162/2023 (10/12/2025)."
+   },
+   "G14": {
+    "v": 5,
+    "conf": "voto",
+    "nota": "Votou Sim em PEC 221/2019 (27/05/2026); Sim em PEC 221/2019 (27/05/2026)."
+   },
+   "G03": {
+    "v": 2,
+    "conf": "voto",
+    "nota": "Votou Não em PL 591/2021 (privatização dos Correios) (05/08/2021); Não em MP 1031/2021 (privatização da Eletrobras) (19/05/2021)."
+   },
+   "G01": {
+    "v": 2,
+    "conf": "voto",
+    "nota": "Votou Não em PEC 241/2016 (teto de gastos), 2º turno (25/10/2016)."
+   },
+   "G12": {
+    "v": 2,
+    "conf": "voto",
+    "nota": "Votou Não em PEC 171/1993 (maioridade penal para crimes graves), 2º turno (19/08/2015)."
+   }
+  },
+  "perguntasFaltando": [
+   "G02",
+   "G05",
+   "G06",
+   "G09",
+   "G13",
+   "DF01",
+   "DF05",
+   "DF06"
+  ]
+ },
+ {
+  "id": 250002535982,
+  "cargoCod": 6,
+  "cargo": "Deputado Federal",
+  "nomeUrna": "PAULO FREIRE",
+  "nomeCompleto": "PAULO ROBERTO FREIRE DA COSTA",
+  "numero": 2233,
+  "partido": "PL",
+  "coligacao": "PL",
+  "situacao": "Deferido",
+  "ocupacao": "Deputado",
+  "incumbente": true,
+  "arrecadado": 2977409.05,
+  "anteriores": [
+   {
+    "ano": 2022,
+    "cargo": "Deputado Federal",
+    "local": "SÃO PAULO",
+    "partido": "PL",
+    "resultado": "Eleito por QP"
+   },
+   {
+    "ano": 2018,
+    "cargo": "Deputado Federal",
+    "local": "SÃO PAULO",
+    "partido": "PR",
+    "resultado": "Eleito por QP"
+   },
+   {
+    "ano": 2014,
+    "cargo": "Deputado Federal",
+    "local": "SÃO PAULO",
+    "partido": "PR",
+    "resultado": "Eleito por QP"
+   },
+   {
+    "ano": 2010,
+    "cargo": "Deputado Federal",
+    "local": "SÃO PAULO",
+    "partido": "PR",
+    "resultado": "Eleito"
+   }
+  ],
+  "sites": [
+   "HTTPS://WWW.INSTAGRAM.COM/DEPPAULOFREIRE",
+   "https://www.facebook.com/deputadopaulofreire"
+  ],
+  "posicoesExistentes": {
+   "DF03": {
+    "v": 5,
+    "conf": "voto",
+    "nota": "Votou Sim em PL 490/2007 (30/05/2023)."
+   },
+   "G10": {
+    "v": 2,
+    "conf": "voto",
+    "nota": "Votou Não em PL 2630/2020 (25/04/2023)."
+   },
+   "G04": {
+    "v": 4,
+    "conf": "voto",
+    "nota": "Votou Sim em PDL 3/2023 (06/12/2023)."
+   },
+   "G11": {
+    "v": 2,
+    "conf": "voto",
+    "nota": "Votou Não em PL 1958/2021 (19/11/2024)."
+   },
+   "DF04": {
+    "v": 5,
+    "conf": "voto",
+    "nota": "Votou Sim em PL 2159/2021 (17/07/2025)."
+   },
+   "G07": {
+    "v": 2,
+    "conf": "voto",
+    "nota": "Votou Sim em PL 2159/2021 (17/07/2025)."
+   },
+   "DF02": {
+    "v": 5,
+    "conf": "voto",
+    "nota": "Votou Sim em PEC 3/2021 (16/09/2025); Sim em PEC 3/2021 (16/09/2025)."
+   },
+   "G08": {
+    "v": 4,
+    "conf": "voto",
+    "nota": "Votou Sim em PL 2162/2023 (17/09/2025); Sim em PL 2162/2023 (10/12/2025)."
+   },
+   "G14": {
+    "v": 5,
+    "conf": "voto",
+    "nota": "Votou Sim em PEC 221/2019 (27/05/2026); Sim em PEC 221/2019 (27/05/2026)."
+   },
+   "G03": {
+    "v": 4,
+    "conf": "voto",
+    "nota": "Votou Sim em MP 1031/2021 (privatização da Eletrobras) (19/05/2021)."
+   },
+   "G01": {
+    "v": 4,
+    "conf": "voto",
+    "nota": "Votou Sim em PEC 241/2016 (teto de gastos), 2º turno (25/10/2016)."
+   },
+   "G12": {
+    "v": 4,
+    "conf": "voto",
+    "nota": "Votou Sim em PEC 171/1993 (maioridade penal para crimes graves), 2º turno (19/08/2015)."
+   }
+  },
+  "perguntasFaltando": [
+   "G02",
+   "G05",
+   "G06",
+   "G09",
+   "G13",
+   "DF01",
+   "DF05",
+   "DF06"
+  ]
+ },
+ {
+  "id": 250002535968,
+  "cargoCod": 6,
+  "cargo": "Deputado Federal",
+  "nomeUrna": "MOTTA",
+  "nomeCompleto": "LUIZ CARLOS MOTTA",
+  "numero": 2244,
+  "partido": "PL",
+  "coligacao": "PL",
+  "situacao": "Deferido",
+  "ocupacao": "Deputado",
+  "incumbente": true,
+  "arrecadado": 2963409.05,
+  "anteriores": [
+   {
+    "ano": 2022,
+    "cargo": "Deputado Federal",
+    "local": "SÃO PAULO",
+    "partido": "PL",
+    "resultado": "Eleito por QP"
+   },
+   {
+    "ano": 2018,
+    "cargo": "Deputado Federal",
+    "local": "SÃO PAULO",
+    "partido": "PR",
+    "resultado": "Eleito por média"
+   },
+   {
+    "ano": 2014,
+    "cargo": "Deputado Federal",
+    "local": "SÃO PAULO",
+    "partido": "PTB",
+    "resultado": "Suplente"
+   }
+  ],
+  "sites": [
+   "HTTPS://WWW.INSTAGRAM.COM/DEPUTADOMOTTA/",
+   "HTTPS://WWW.FACEBOOK.COM/MOTTADOSCOMERCIARIOS"
+  ],
+  "posicoesExistentes": {
+   "DF03": {
+    "v": 5,
+    "conf": "voto",
+    "nota": "Votou Sim em PL 490/2007 (30/05/2023)."
+   },
+   "G10": {
+    "v": 2,
+    "conf": "voto",
+    "nota": "Votou Não em PL 2630/2020 (25/04/2023)."
+   },
+   "G04": {
+    "v": 4,
+    "conf": "voto",
+    "nota": "Votou Sim em PDL 3/2023 (06/12/2023)."
+   },
+   "G11": {
+    "v": 2,
+    "conf": "voto",
+    "nota": "Votou Não em PL 1958/2021 (19/11/2024)."
+   },
+   "DF04": {
+    "v": 5,
+    "conf": "voto",
+    "nota": "Votou Sim em PL 2159/2021 (17/07/2025)."
+   },
+   "G07": {
+    "v": 2,
+    "conf": "voto",
+    "nota": "Votou Sim em PL 2159/2021 (17/07/2025)."
+   },
+   "DF02": {
+    "v": 5,
+    "conf": "voto",
+    "nota": "Votou Sim em PEC 3/2021 (16/09/2025); Sim em PEC 3/2021 (16/09/2025)."
+   },
+   "G08": {
+    "v": 4,
+    "conf": "voto",
+    "nota": "Votou Sim em PL 2162/2023 (17/09/2025); Sim em PL 2162/2023 (10/12/2025)."
+   },
+   "G14": {
+    "v": 5,
+    "conf": "voto",
+    "nota": "Votou Sim em PEC 221/2019 (27/05/2026); Sim em PEC 221/2019 (27/05/2026)."
+   },
+   "G03": {
+    "v": 4,
+    "conf": "voto",
+    "nota": "Votou Sim em PL 591/2021 (privatização dos Correios) (05/08/2021); Sim em MP 1031/2021 (privatização da Eletrobras) (19/05/2021)."
+   }
+  },
+  "perguntasFaltando": [
+   "G01",
+   "G02",
+   "G05",
+   "G06",
+   "G09",
+   "G12",
+   "G13",
+   "DF01",
+   "DF05",
+   "DF06"
+  ]
+ },
+ {
+  "id": 250002535954,
+  "cargoCod": 6,
+  "cargo": "Deputado Federal",
+  "nomeUrna": "CAPITÃO AUGUSTO",
+  "nomeCompleto": "JOSE AUGUSTO ROSA",
+  "numero": 2200,
+  "partido": "PL",
+  "coligacao": "PL",
+  "situacao": "Deferido",
+  "ocupacao": "Deputado",
+  "incumbente": true,
+  "arrecadado": 2932409.04,
+  "anteriores": [
+   {
+    "ano": 2022,
+    "cargo": "Deputado Federal",
+    "local": "SÃO PAULO",
+    "partido": "PL",
+    "resultado": "Eleito por QP"
+   },
+   {
+    "ano": 2018,
+    "cargo": "Deputado Federal",
+    "local": "SÃO PAULO",
+    "partido": "PR",
+    "resultado": "Eleito por QP"
+   },
+   {
+    "ano": 2014,
+    "cargo": "Deputado Federal",
+    "local": "SÃO PAULO",
+    "partido": "PR",
+    "resultado": "Eleito por QP"
+   },
+   {
+    "ano": 2012,
+    "cargo": "Vereador",
+    "local": "SÃO PAULO",
+    "partido": "PSB",
+    "resultado": "Concorrendo"
+   }
+  ],
+  "sites": [
+   "HTTPS://WWW.FACEBOOK.COM/CAPITAOAUGUSTOOFICIAL",
+   "HTTPS://WWW.INSTAGRAM.COM/CAPITAOAUGUSTOOFICIAL",
+   "HTTPS://CAPITAOAUGUSTO.COM.BR"
+  ],
+  "posicoesExistentes": {
+   "DF03": {
+    "v": 5,
+    "conf": "voto",
+    "nota": "Votou Sim em PL 490/2007 (30/05/2023)."
+   },
+   "G10": {
+    "v": 2,
+    "conf": "voto",
+    "nota": "Votou Não em PL 2630/2020 (25/04/2023)."
+   },
+   "G11": {
+    "v": 2,
+    "conf": "voto",
+    "nota": "Votou Não em PL 1958/2021 (19/11/2024)."
+   },
+   "DF04": {
+    "v": 5,
+    "conf": "voto",
+    "nota": "Votou Sim em PL 2159/2021 (17/07/2025)."
+   },
+   "G07": {
+    "v": 2,
+    "conf": "voto",
+    "nota": "Votou Sim em PL 2159/2021 (17/07/2025)."
+   },
+   "G08": {
+    "v": 4,
+    "conf": "voto",
+    "nota": "Votou Sim em PL 2162/2023 (17/09/2025); Sim em PL 2162/2023 (10/12/2025)."
+   },
+   "G14": {
+    "v": 5,
+    "conf": "voto",
+    "nota": "Votou Sim em PEC 221/2019 (27/05/2026); Sim em PEC 221/2019 (27/05/2026)."
+   },
+   "G03": {
+    "v": 4,
+    "conf": "voto",
+    "nota": "Votou Sim em PL 591/2021 (privatização dos Correios) (05/08/2021); Sim em MP 1031/2021 (privatização da Eletrobras) (19/05/2021)."
+   },
+   "G01": {
+    "v": 4,
+    "conf": "voto",
+    "nota": "Votou Sim em PEC 241/2016 (teto de gastos), 2º turno (25/10/2016)."
+   },
+   "G12": {
+    "v": 4,
+    "conf": "voto",
+    "nota": "Votou Sim em PEC 171/1993 (maioridade penal para crimes graves), 2º turno (19/08/2015)."
+   }
+  },
+  "perguntasFaltando": [
+   "G02",
+   "G04",
+   "G05",
+   "G06",
+   "G09",
+   "G13",
+   "DF01",
+   "DF02",
+   "DF05",
+   "DF06"
+  ]
+ },
+ {
+  "id": 250002535991,
+  "cargoCod": 6,
+  "cargo": "Deputado Federal",
+  "nomeUrna": "DELEGADO PAULO BILYNSKYJ",
+  "nomeCompleto": "PAULO FRANCISCO MUNIZ BILYNSKYJ",
+  "numero": 2247,
+  "partido": "PL",
+  "coligacao": "PL",
+  "situacao": "Deferido",
+  "ocupacao": "Deputado",
+  "incumbente": true,
+  "arrecadado": 2926400,
+  "anteriores": [
+   {
+    "ano": 2022,
+    "cargo": "Deputado Federal",
+    "local": "SÃO PAULO",
+    "partido": "PL",
+    "resultado": "Eleito por QP"
+   }
+  ],
+  "sites": [
+   "https://INSTAGRAM.COM/PAULOBILYNSKYJ",
+   "https://www.tiktok.com/@paulo.bilynskyj",
+   "https://x.com/paulobilynskyj1",
+   "https://whatsapp.com/channel/0029Va4HPZTGU3BOgByZjB46",
+   "https://www.youtube.com/channel/UCa5ug4U_DgDyJGcUPfShP3Q",
+   "https://www.youtube.com/@PauloBilynskyjOficial",
+   "https://paulobilynskyj.com/",
+   "https://www.facebook.com/Paulobilynskyj2247",
+   "https://www.instagram.com/paulobilynskyjapoio/"
+  ],
+  "posicoesExistentes": {
+   "DF03": {
+    "v": 5,
+    "conf": "voto",
+    "nota": "Votou Sim em PL 490/2007 (30/05/2023)."
+   },
+   "G10": {
+    "v": 2,
+    "conf": "voto",
+    "nota": "Votou Não em PL 2630/2020 (25/04/2023)."
+   },
+   "G04": {
+    "v": 4,
+    "conf": "voto",
+    "nota": "Votou Sim em PDL 3/2023 (06/12/2023)."
+   },
+   "G11": {
+    "v": 2,
+    "conf": "voto",
+    "nota": "Votou Não em PL 1958/2021 (19/11/2024)."
+   },
+   "DF04": {
+    "v": 5,
+    "conf": "voto",
+    "nota": "Votou Sim em PL 2159/2021 (17/07/2025)."
+   },
+   "G07": {
+    "v": 2,
+    "conf": "voto",
+    "nota": "Votou Sim em PL 2159/2021 (17/07/2025)."
+   },
+   "DF02": {
+    "v": 5,
+    "conf": "voto",
+    "nota": "Votou Sim em PEC 3/2021 (16/09/2025); Sim em PEC 3/2021 (16/09/2025)."
+   },
+   "G08": {
+    "v": 4,
+    "conf": "voto",
+    "nota": "Votou Sim em PL 2162/2023 (17/09/2025); Sim em PL 2162/2023 (10/12/2025)."
+   },
+   "G14": {
+    "v": 5,
+    "conf": "voto",
+    "nota": "Votou Sim em PEC 221/2019 (27/05/2026); Sim em PEC 221/2019 (27/05/2026)."
+   }
+  },
+  "perguntasFaltando": [
+   "G01",
+   "G02",
+   "G03",
+   "G05",
+   "G06",
+   "G09",
+   "G12",
+   "G13",
+   "DF01",
+   "DF05",
+   "DF06"
+  ]
+ },
+ {
+  "id": 250002536734,
+  "cargoCod": 6,
+  "cargo": "Deputado Federal",
+  "nomeUrna": "JULIANA CARDOSO",
+  "nomeCompleto": "JULIANA CARDOSO",
+  "numero": 1333,
+  "partido": "PT",
+  "coligacao": "FEDERAÇÃO BRASIL DA ESPERANÇA - FE BRASIL(13-PT/65-PC do B/43-PV)",
+  "situacao": "Deferido",
+  "ocupacao": "Outros",
+  "incumbente": true,
+  "arrecadado": 2916000,
+  "anteriores": [
+   {
+    "ano": 2022,
+    "cargo": "Deputado Federal",
+    "local": "SÃO PAULO",
+    "partido": "PT",
+    "resultado": "Eleito por média"
+   },
+   {
+    "ano": 2020,
+    "cargo": "Vereador",
+    "local": "SÃO PAULO",
+    "partido": "PT",
+    "resultado": "Eleito por QP"
+   },
+   {
+    "ano": 2018,
+    "cargo": "Deputado Federal",
+    "local": "SÃO PAULO",
+    "partido": "PT",
+    "resultado": "Suplente"
+   },
+   {
+    "ano": 2016,
+    "cargo": "Vereador",
+    "local": "SÃO PAULO",
+    "partido": "PT",
+    "resultado": "Eleito por QP"
+   }
+  ],
+  "sites": [
+   "HTTPS://WWW.INSTAGRAM.COM/JULIANACARDOSO_PT",
+   "HTTPS://WWW.YOUTUBE.COM/@JULIANACARDOSOPT",
+   "HTTPS://WWW.TIKTOK.COM/@JULIANACARDOSO_PT",
+   "HTTPS://API.WHATSAPP.COM/SEND?PHONE=5511958191333",
+   "HTTPS://WWW.FACEBOOK.COM/JULIANACARDOSOPT",
+   "HTTPS://WWW.FLICKR.COM/PEOPLE/JULIANACARDOSOPT",
+   "HTTPS://WWW.THREADS.COM/@JULIANACARDOSO_PT",
+   "HTTPS://JULIANACARDOSOPT.COM.BR/",
+   "HTTPS://X.COM/JULIANAPT"
+  ],
+  "posicoesExistentes": {
+   "DF03": {
+    "v": 1,
+    "conf": "voto",
+    "nota": "Votou Não em PL 490/2007 (30/05/2023)."
+   },
+   "G04": {
+    "v": 2,
+    "conf": "voto",
+    "nota": "Votou Não em PDL 3/2023 (06/12/2023)."
+   },
+   "G11": {
+    "v": 4,
+    "conf": "voto",
+    "nota": "Votou Sim em PL 1958/2021 (19/11/2024)."
+   },
+   "DF04": {
+    "v": 1,
+    "conf": "voto",
+    "nota": "Votou Não em PL 2159/2021 (17/07/2025)."
+   },
+   "G07": {
+    "v": 4,
+    "conf": "voto",
+    "nota": "Votou Não em PL 2159/2021 (17/07/2025)."
+   },
+   "DF02": {
+    "v": 1,
+    "conf": "voto",
+    "nota": "Votou Não em PEC 3/2021 (16/09/2025); Não em PEC 3/2021 (16/09/2025)."
+   },
+   "G08": {
+    "v": 2,
+    "conf": "voto",
+    "nota": "Votou Não em PL 2162/2023 (17/09/2025); Não em PL 2162/2023 (10/12/2025)."
+   },
+   "G14": {
+    "v": 5,
+    "conf": "voto",
+    "nota": "Votou Sim em PEC 221/2019 (27/05/2026); Sim em PEC 221/2019 (27/05/2026)."
+   }
+  },
+  "perguntasFaltando": [
+   "G01",
+   "G02",
+   "G03",
+   "G05",
+   "G06",
+   "G09",
+   "G10",
+   "G12",
+   "G13",
+   "DF01",
+   "DF05",
+   "DF06"
+  ]
+ },
+ {
+  "id": 250002535951,
+  "cargoCod": 6,
+  "cargo": "Deputado Federal",
+  "nomeUrna": "PASTOR MARCO FELICIANO",
+  "nomeCompleto": "MARCO ANTONIO FELICIANO",
+  "numero": 2270,
+  "partido": "PL",
+  "coligacao": "PL",
+  "situacao": "Deferido",
+  "ocupacao": "Deputado",
+  "incumbente": true,
+  "arrecadado": 2912409.05,
+  "anteriores": [
+   {
+    "ano": 2022,
+    "cargo": "Deputado Federal",
+    "local": "SÃO PAULO",
+    "partido": "PL",
+    "resultado": "Eleito por QP"
+   },
+   {
+    "ano": 2018,
+    "cargo": "Deputado Federal",
+    "local": "SÃO PAULO",
+    "partido": "PODE",
+    "resultado": "Eleito por QP"
+   },
+   {
+    "ano": 2014,
+    "cargo": "Deputado Federal",
+    "local": "SÃO PAULO",
+    "partido": "PSC",
+    "resultado": "Eleito por QP"
+   },
+   {
+    "ano": 2010,
+    "cargo": "Deputado Federal",
+    "local": "SÃO PAULO",
+    "partido": "PSC",
+    "resultado": "Eleito"
+   }
+  ],
+  "sites": [
+   "HTTPS://WWW.FACEBOOK.COM/PASTORMARCOFELICIANO",
+   "HTTPS://WA.ME/MESSAGE/4TMBMRP4XBZGM1",
+   "https://MARCOFELICIANO.COM.BR",
+   "HTTPS://WWW.INSTAGRAM.COM/MARCOFELICIANO",
+   "HTTPS://WWW.TIKTOK.COM/@MARCOFELICIANO",
+   "HTTPS://X.COM/MARCOFELICIANO",
+   "HTTPS://YOUTUBE.COM/@PRMARCOFELICIANO"
+  ],
+  "posicoesExistentes": {
+   "DF03": {
+    "v": 5,
+    "conf": "voto",
+    "nota": "Votou Sim em PL 490/2007 (30/05/2023)."
+   },
+   "G10": {
+    "v": 2,
+    "conf": "voto",
+    "nota": "Votou Não em PL 2630/2020 (25/04/2023)."
+   },
+   "G04": {
+    "v": 4,
+    "conf": "voto",
+    "nota": "Votou Sim em PDL 3/2023 (06/12/2023)."
+   },
+   "DF04": {
+    "v": 5,
+    "conf": "voto",
+    "nota": "Votou Sim em PL 2159/2021 (17/07/2025)."
+   },
+   "G07": {
+    "v": 2,
+    "conf": "voto",
+    "nota": "Votou Sim em PL 2159/2021 (17/07/2025)."
+   },
+   "DF02": {
+    "v": 5,
+    "conf": "voto",
+    "nota": "Votou Sim em PEC 3/2021 (16/09/2025); Sim em PEC 3/2021 (16/09/2025)."
+   },
+   "G08": {
+    "v": 4,
+    "conf": "voto",
+    "nota": "Votou Sim em PL 2162/2023 (17/09/2025); Sim em PL 2162/2023 (10/12/2025)."
+   },
+   "G14": {
+    "v": 5,
+    "conf": "voto",
+    "nota": "Votou Sim em PEC 221/2019 (27/05/2026); Sim em PEC 221/2019 (27/05/2026)."
+   },
+   "G03": {
+    "v": 4,
+    "conf": "voto",
+    "nota": "Votou Sim em PL 591/2021 (privatização dos Correios) (05/08/2021); Sim em MP 1031/2021 (privatização da Eletrobras) (19/05/2021)."
+   },
+   "G01": {
+    "v": 4,
+    "conf": "voto",
+    "nota": "Votou Sim em PEC 241/2016 (teto de gastos), 2º turno (25/10/2016)."
+   },
+   "G12": {
+    "v": 4,
+    "conf": "voto",
+    "nota": "Votou Sim em PEC 171/1993 (maioridade penal para crimes graves), 2º turno (19/08/2015)."
+   }
+  },
+  "perguntasFaltando": [
+   "G02",
+   "G05",
+   "G06",
+   "G09",
+   "G11",
+   "G13",
+   "DF01",
+   "DF05",
+   "DF06"
+  ]
+ },
+ {
+  "id": 250002535955,
+  "cargoCod": 6,
+  "cargo": "Deputado Federal",
+  "nomeUrna": "JEFFERSON CAMPOS",
+  "nomeCompleto": "JEFFERSON ALVES DE CAMPOS",
+  "numero": 2274,
+  "partido": "PL",
+  "coligacao": "PL",
+  "situacao": "Deferido",
+  "ocupacao": "Advogado",
+  "incumbente": true,
+  "arrecadado": 2902000,
+  "anteriores": [
+   {
+    "ano": 2022,
+    "cargo": "Deputado Federal",
+    "local": "SÃO PAULO",
+    "partido": "PL",
+    "resultado": "Eleito por QP"
+   },
+   {
+    "ano": 2018,
+    "cargo": "Deputado Federal",
+    "local": "SÃO PAULO",
+    "partido": "PSB",
+    "resultado": "Eleito por QP"
+   },
+   {
+    "ano": 2014,
+    "cargo": "Deputado Federal",
+    "local": "SÃO PAULO",
+    "partido": "PSD",
+    "resultado": "Eleito por QP"
+   },
+   {
+    "ano": 2010,
+    "cargo": "Deputado Federal",
+    "local": "SÃO PAULO",
+    "partido": "PSB",
+    "resultado": "Eleito"
+   }
+  ],
+  "sites": [
+   "https://www.youtube.com/@DepJeffersonCampos",
+   "https://WWW.JEFFERSONCAMPOS.COM.BR",
+   "HTTPS://WWW.FACEBOOK.COM/DEPJEFFERSON/?LOCALE=PT_BR",
+   "HTTPS://WWW.INSTAGRAM.COM/DEPJEFFERSON/REELS/"
+  ],
+  "posicoesExistentes": {
+   "DF03": {
+    "v": 5,
+    "conf": "voto",
+    "nota": "Votou Sim em PL 490/2007 (30/05/2023)."
+   },
+   "G10": {
+    "v": 2,
+    "conf": "voto",
+    "nota": "Votou Não em PL 2630/2020 (25/04/2023)."
+   },
+   "G04": {
+    "v": 4,
+    "conf": "voto",
+    "nota": "Votou Sim em PDL 3/2023 (06/12/2023)."
+   },
+   "DF04": {
+    "v": 5,
+    "conf": "voto",
+    "nota": "Votou Sim em PL 2159/2021 (17/07/2025)."
+   },
+   "G07": {
+    "v": 2,
+    "conf": "voto",
+    "nota": "Votou Sim em PL 2159/2021 (17/07/2025)."
+   },
+   "DF02": {
+    "v": 5,
+    "conf": "voto",
+    "nota": "Votou Sim em PEC 3/2021 (16/09/2025); Sim em PEC 3/2021 (16/09/2025)."
+   },
+   "G08": {
+    "v": 4,
+    "conf": "voto",
+    "nota": "Votou Sim em PL 2162/2023 (17/09/2025); Sim em PL 2162/2023 (10/12/2025)."
+   },
+   "G14": {
+    "v": 5,
+    "conf": "voto",
+    "nota": "Votou Sim em PEC 221/2019 (27/05/2026); Sim em PEC 221/2019 (27/05/2026)."
+   },
+   "G03": {
+    "v": 3,
+    "conf": "voto",
+    "nota": "Votou Não em PL 591/2021 (privatização dos Correios) (05/08/2021); Sim em MP 1031/2021 (privatização da Eletrobras) (19/05/2021)."
+   },
+   "G01": {
+    "v": 4,
+    "conf": "voto",
+    "nota": "Votou Sim em PEC 241/2016 (teto de gastos), 2º turno (25/10/2016)."
+   },
+   "G12": {
+    "v": 4,
+    "conf": "voto",
+    "nota": "Votou Sim em PEC 171/1993 (maioridade penal para crimes graves), 2º turno (19/08/2015)."
+   }
+  },
+  "perguntasFaltando": [
+   "G02",
+   "G05",
+   "G06",
+   "G09",
+   "G11",
+   "G13",
+   "DF01",
+   "DF05",
+   "DF06"
+  ]
+ },
+ {
+  "id": 250002533638,
+  "cargoCod": 6,
+  "cargo": "Deputado Federal",
+  "nomeUrna": "FABIO TERUEL",
+  "nomeCompleto": "FABIO EDUARDO DE OLIVEIRA TERUEL",
+  "numero": 1580,
+  "partido": "MDB",
+  "coligacao": "MDB",
+  "situacao": "Deferido",
+  "ocupacao": "Publicitário",
+  "incumbente": true,
+  "arrecadado": 2850000,
+  "anteriores": [
+   {
+    "ano": 2022,
+    "cargo": "Deputado Federal",
+    "local": "SÃO PAULO",
+    "partido": "MDB",
+    "resultado": "Eleito por QP"
+   },
+   {
+    "ano": 2008,
+    "cargo": "Vereador",
+    "local": "OSASCO",
+    "partido": "PSDC",
+    "resultado": "Suplente"
+   }
+  ],
+  "sites": [
+   "HTTPS://WWW.YOUTUBE.COM/@FABIOTERUEL_OFICIAL",
+   "HTTPS://WWW.TIKTOK.COM/@FABIOTERUEL",
+   "HTTPS://WWW.FACEBOOK.COM/FABIOTERUEL",
+   "HTTPS://WWW.THREADS.COM/@FABIOTERUEL",
+   "HTTPS://WWW.KWAI.COM/@FABIOTERUELOFICIAL",
+   "HTTPS://WWW.INSTAGRAM.COM/FABIOTERUEL"
+  ],
+  "posicoesExistentes": {
+   "G10": {
+    "v": 2,
+    "conf": "voto",
+    "nota": "Votou Não em PL 2630/2020 (25/04/2023)."
+   },
+   "G04": {
+    "v": 2,
+    "conf": "voto",
+    "nota": "Votou Não em PDL 3/2023 (06/12/2023)."
+   },
+   "G11": {
+    "v": 4,
+    "conf": "voto",
+    "nota": "Votou Sim em PL 1958/2021 (19/11/2024)."
+   },
+   "DF02": {
+    "v": 5,
+    "conf": "voto",
+    "nota": "Votou Sim em PEC 3/2021 (16/09/2025); Sim em PEC 3/2021 (16/09/2025)."
+   },
+   "G08": {
+    "v": 2,
+    "conf": "voto",
+    "nota": "Votou Não em PL 2162/2023 (17/09/2025); Não em PL 2162/2023 (10/12/2025)."
+   },
+   "G14": {
+    "v": 5,
+    "conf": "voto",
+    "nota": "Votou Sim em PEC 221/2019 (27/05/2026); Sim em PEC 221/2019 (27/05/2026)."
+   }
+  },
+  "perguntasFaltando": [
+   "G01",
+   "G02",
+   "G03",
+   "G05",
+   "G06",
+   "G07",
+   "G09",
+   "G12",
+   "G13",
+   "DF01",
+   "DF03",
+   "DF04",
+   "DF05",
+   "DF06"
+  ]
+ },
+ {
+  "id": 250002537942,
+  "cargoCod": 6,
+  "cargo": "Deputado Federal",
+  "nomeUrna": "MARCOS PEREIRA",
+  "nomeCompleto": "MARCOS ANTONIO PEREIRA",
+  "numero": 1010,
+  "partido": "REPUBLICANOS",
+  "coligacao": "REPUBLICANOS",
+  "situacao": "Deferido",
+  "ocupacao": "Deputado",
+  "incumbente": true,
+  "arrecadado": 2805000,
+  "anteriores": [
+   {
+    "ano": 2022,
+    "cargo": "Deputado Federal",
+    "local": "SÃO PAULO",
+    "partido": "REPUBLICANOS",
+    "resultado": "Eleito por QP"
+   },
+   {
+    "ano": 2018,
+    "cargo": "Deputado Federal",
+    "local": "SÃO PAULO",
+    "partido": "PRB",
+    "resultado": "Eleito por QP"
+   }
+  ],
+  "sites": [
+   "https://marcospereira.com/",
+   "https://www.instagram.com/marcospereira1010/",
+   "https://web.facebook.com/marcospereira1010?locale=pt_BR",
+   "https://x.com/marcospereira04",
+   "https://issuu.com/marcospereira.br",
+   "https://www.youtube.com/@MarcosPereira1010"
+  ],
+  "posicoesExistentes": {
+   "DF03": {
+    "v": 5,
+    "conf": "voto",
+    "nota": "Votou Sim em PL 490/2007 (30/05/2023)."
+   },
+   "G10": {
+    "v": 4,
+    "conf": "voto",
+    "nota": "Votou Sim em PL 2630/2020 (25/04/2023)."
+   },
+   "DF02": {
+    "v": 5,
+    "conf": "voto",
+    "nota": "Votou Sim em PEC 3/2021 (16/09/2025); Sim em PEC 3/2021 (16/09/2025)."
+   },
+   "G08": {
+    "v": 4,
+    "conf": "voto",
+    "nota": "Votou Sim em PL 2162/2023 (17/09/2025); Sim em PL 2162/2023 (10/12/2025)."
+   },
+   "G14": {
+    "v": 5,
+    "conf": "voto",
+    "nota": "Votou Sim em PEC 221/2019 (27/05/2026)."
+   },
+   "G03": {
+    "v": 4,
+    "conf": "voto",
+    "nota": "Votou Sim em PL 591/2021 (privatização dos Correios) (05/08/2021); Sim em MP 1031/2021 (privatização da Eletrobras) (19/05/2021)."
+   }
+  },
+  "perguntasFaltando": [
+   "G01",
+   "G02",
+   "G04",
+   "G05",
+   "G06",
+   "G07",
+   "G09",
+   "G11",
+   "G12",
+   "G13",
+   "DF01",
+   "DF04",
+   "DF05",
+   "DF06"
+  ]
+ },
+ {
+  "id": 250002532379,
+  "cargoCod": 6,
+  "cargo": "Deputado Federal",
+  "nomeUrna": "MAURICIO NEVES",
+  "nomeCompleto": "MANOEL MAURICIO SILVA NEVES",
+  "numero": 1111,
+  "partido": "PP",
+  "coligacao": "FEDERAÇÃO UNIÃO PROGRESSISTA(44-UNIÃO/11-PP)",
+  "situacao": "Deferido",
+  "ocupacao": "Empresário",
+  "incumbente": true,
+  "arrecadado": 2796666.66,
+  "anteriores": [
+   {
+    "ano": 2022,
+    "cargo": "Deputado Federal",
+    "local": "SÃO PAULO",
+    "partido": "PP",
+    "resultado": "Eleito por QP"
+   }
+  ],
+  "sites": [
+   "HTTPS://WWW.TIKTOK.COM/@DEP.MAURICIONEVES",
+   "HTTPS://X.COM/MAURICIONEVES_",
+   "HTTPS://WWW.YOUTUBE.COM/@DEPUTADOMAURICIONEVES",
+   "HTTPS://WWW.INSTAGRAM.COM/MAURICIONEVES_OFICIAL/",
+   "HTTPS://WWW.FACEBOOK.COM/MAURICIONEVESOFICIAL/"
+  ],
+  "posicoesExistentes": {
+   "DF03": {
+    "v": 5,
+    "conf": "voto",
+    "nota": "Votou Sim em PL 490/2007 (30/05/2023)."
+   },
+   "G04": {
+    "v": 4,
+    "conf": "voto",
+    "nota": "Votou Sim em PDL 3/2023 (06/12/2023)."
+   },
+   "G11": {
+    "v": 4,
+    "conf": "voto",
+    "nota": "Votou Sim em PL 1958/2021 (19/11/2024)."
+   },
+   "DF02": {
+    "v": 5,
+    "conf": "voto",
+    "nota": "Votou Sim em PEC 3/2021 (16/09/2025); Sim em PEC 3/2021 (16/09/2025)."
+   },
+   "G08": {
+    "v": 4,
+    "conf": "voto",
+    "nota": "Votou Sim em PL 2162/2023 (17/09/2025); Sim em PL 2162/2023 (10/12/2025)."
+   },
+   "G14": {
+    "v": 5,
+    "conf": "voto",
+    "nota": "Votou Sim em PEC 221/2019 (27/05/2026); Sim em PEC 221/2019 (27/05/2026)."
+   }
+  },
+  "perguntasFaltando": [
+   "G01",
+   "G02",
+   "G03",
+   "G05",
+   "G06",
+   "G07",
+   "G09",
+   "G10",
+   "G12",
+   "G13",
+   "DF01",
+   "DF04",
+   "DF05",
+   "DF06"
+  ]
+ },
+ {
+  "id": 250002532368,
+  "cargoCod": 6,
+  "cargo": "Deputado Federal",
+  "nomeUrna": "DELEGADO DA CUNHA",
+  "nomeCompleto": "CARLOS ALBERTO DA CUNHA",
+  "numero": 4422,
+  "partido": "UNIÃO",
+  "coligacao": "FEDERAÇÃO UNIÃO PROGRESSISTA(44-UNIÃO/11-PP)",
+  "situacao": "Deferido",
+  "ocupacao": "Deputado",
+  "incumbente": true,
+  "arrecadado": 2764032.28,
+  "anteriores": [
+   {
+    "ano": 2022,
+    "cargo": "Deputado Federal",
+    "local": "SÃO PAULO",
+    "partido": "PP",
+    "resultado": "Eleito por QP"
+   }
+  ],
+  "sites": [
+   "HTTPS://X.COM/DACUNHADELEGADO",
+   "HTTPS://WWW.FACEBOOK.COM/DELEGADODACUNHA",
+   "HTTPS://DELEGADODACUNHA.COM/",
+   "HTTPS://WWW.INSTAGRAM.COM/DELEGADODACUNHA/",
+   "HTTPS://WWW.TIKTOK.COM/@DELEGADODACUNHAOFICIAL_",
+   "HTTPS://WWW.YOUTUBE.COM/@DELEGADODACUNHA",
+   "https://k.kwai.com/u/@user_166620478444/AUF7C3jo"
+  ],
+  "posicoesExistentes": {
+   "G10": {
+    "v": 2,
+    "conf": "voto",
+    "nota": "Votou Não em PL 2630/2020 (25/04/2023)."
+   },
+   "G04": {
+    "v": 4,
+    "conf": "voto",
+    "nota": "Votou Sim em PDL 3/2023 (06/12/2023)."
+   },
+   "DF04": {
+    "v": 5,
+    "conf": "voto",
+    "nota": "Votou Sim em PL 2159/2021 (17/07/2025)."
+   },
+   "G07": {
+    "v": 2,
+    "conf": "voto",
+    "nota": "Votou Sim em PL 2159/2021 (17/07/2025)."
+   },
+   "DF02": {
+    "v": 5,
+    "conf": "voto",
+    "nota": "Votou Sim em PEC 3/2021 (16/09/2025); Sim em PEC 3/2021 (16/09/2025)."
+   },
+   "G08": {
+    "v": 4,
+    "conf": "voto",
+    "nota": "Votou Sim em PL 2162/2023 (17/09/2025); Sim em PL 2162/2023 (10/12/2025)."
+   },
+   "G14": {
+    "v": 5,
+    "conf": "voto",
+    "nota": "Votou Sim em PEC 221/2019 (27/05/2026); Sim em PEC 221/2019 (27/05/2026)."
+   }
+  },
+  "perguntasFaltando": [
+   "G01",
+   "G02",
+   "G03",
+   "G05",
+   "G06",
+   "G09",
+   "G11",
+   "G12",
+   "G13",
+   "DF01",
+   "DF03",
+   "DF05",
+   "DF06"
+  ]
+ },
+ {
+  "id": 250002539435,
+  "cargoCod": 6,
+  "cargo": "Deputado Federal",
+  "nomeUrna": "TABATA AMARAL",
+  "nomeCompleto": "TABATA CLÁUDIA AMARAL DE PONTES",
+  "numero": 4040,
+  "partido": "PSB",
+  "coligacao": "PSB",
+  "situacao": "Deferido",
+  "ocupacao": "Deputado",
+  "incumbente": true,
+  "arrecadado": 2745626.65,
+  "anteriores": [
+   {
+    "ano": 2024,
+    "cargo": "Prefeito",
+    "local": "SÃO PAULO",
+    "partido": "PSB",
+    "resultado": "Não eleito"
+   },
+   {
+    "ano": 2022,
+    "cargo": "Deputado Federal",
+    "local": "SÃO PAULO",
+    "partido": "PSB",
+    "resultado": "Eleito por QP"
+   },
+   {
+    "ano": 2018,
+    "cargo": "Deputado Federal",
+    "local": "SÃO PAULO",
+    "partido": "PDT",
+    "resultado": "Eleito por QP"
+   }
+  ],
+  "sites": [
+   "HTTPS://WWW.FACEBOOK.COM/TABATAAMARALSP",
+   "https://www.threads.com/@tabataamaralsp",
+   "https://bsky.app/profile/tabatasp.bsky.social",
+   "https://x.com/tabataamaralsp",
+   "HTTPS://WWW.TIKTOK.COM/@TABATAAMARALSP",
+   "HTTPS://WWW.YOUTUBE.COM/@TABATAAMARALSP",
+   "HTTPS://WWW.TABATAAMARAL.COM.BR/",
+   "HTTPS://WWW.INSTAGRAM.COM/TABATAAMARALSP",
+   "https://www.kwai.com/@tabataamaralsp"
+  ],
+  "posicoesExistentes": {
+   "DF03": {
+    "v": 1,
+    "conf": "voto",
+    "nota": "Votou Não em PL 490/2007 (30/05/2023)."
+   },
+   "G10": {
+    "v": 4,
+    "conf": "voto",
+    "nota": "Votou Sim em PL 2630/2020 (25/04/2023)."
+   },
+   "G04": {
+    "v": 2,
+    "conf": "voto",
+    "nota": "Votou Não em PDL 3/2023 (06/12/2023)."
+   },
+   "G11": {
+    "v": 4,
+    "conf": "voto",
+    "nota": "Votou Sim em PL 1958/2021 (19/11/2024)."
+   },
+   "DF04": {
+    "v": 1,
+    "conf": "voto",
+    "nota": "Votou Não em PL 2159/2021 (17/07/2025)."
+   },
+   "G07": {
+    "v": 4,
+    "conf": "voto",
+    "nota": "Votou Não em PL 2159/2021 (17/07/2025)."
+   },
+   "DF02": {
+    "v": 1,
+    "conf": "voto",
+    "nota": "Votou Não em PEC 3/2021 (16/09/2025); Não em PEC 3/2021 (16/09/2025)."
+   },
+   "G08": {
+    "v": 2,
+    "conf": "voto",
+    "nota": "Votou Não em PL 2162/2023 (17/09/2025); Não em PL 2162/2023 (10/12/2025)."
+   },
+   "G14": {
+    "v": 5,
+    "conf": "voto",
+    "nota": "Votou Sim em PEC 221/2019 (27/05/2026); Sim em PEC 221/2019 (27/05/2026)."
+   },
+   "G03": {
+    "v": 3,
+    "conf": "voto",
+    "nota": "Votou Sim em PL 591/2021 (privatização dos Correios) (05/08/2021); Não em MP 1031/2021 (privatização da Eletrobras) (19/05/2021)."
+   }
+  },
+  "perguntasFaltando": [
+   "G01",
+   "G02",
+   "G05",
+   "G06",
+   "G09",
+   "G12",
+   "G13",
+   "DF01",
+   "DF05",
+   "DF06"
+  ]
+ },
+ {
+  "id": 250002535959,
+  "cargoCod": 6,
+  "cargo": "Deputado Federal",
+  "nomeUrna": "MARIO FRIAS",
+  "nomeCompleto": "MARIO LUIS FRIAS",
+  "numero": 2208,
+  "partido": "PL",
+  "coligacao": "PL",
+  "situacao": "Deferido",
+  "ocupacao": "Ator e Diretor de Espetáculos Públicos",
+  "incumbente": true,
+  "arrecadado": 2720909.04,
+  "anteriores": [
+   {
+    "ano": 2022,
+    "cargo": "Deputado Federal",
+    "local": "SÃO PAULO",
+    "partido": "PL",
+    "resultado": "Eleito por QP"
+   }
+  ],
+  "sites": [
+   "HTTPS://X.COM/MFRIASOFICIAL",
+   "HTTPS://WWW.FACEBOOK.COM/MARIOFRIASOFICIAL",
+   "HTTPS://WWW.YOUTUBE.COM/@OMARIOFRIASOFICIAL",
+   "https://kwai-video.com/u/@MARIOFRIASOFICIAL/eChxUiHc",
+   "HTTPS://WWW.INSTAGRAM.COM/MARIOFRIASOFICIAL/",
+   "https://www.youtube.com/@mariofriasoficial"
+  ],
+  "posicoesExistentes": {
+   "DF03": {
+    "v": 5,
+    "conf": "voto",
+    "nota": "Votou Sim em PL 490/2007 (30/05/2023)."
+   },
+   "G10": {
+    "v": 2,
+    "conf": "voto",
+    "nota": "Votou Não em PL 2630/2020 (25/04/2023)."
+   },
+   "G04": {
+    "v": 4,
+    "conf": "voto",
+    "nota": "Votou Sim em PDL 3/2023 (06/12/2023)."
+   },
+   "DF02": {
+    "v": 5,
+    "conf": "voto",
+    "nota": "Votou Sim em PEC 3/2021 (16/09/2025); Sim em PEC 3/2021 (16/09/2025)."
+   },
+   "G08": {
+    "v": 4,
+    "conf": "voto",
+    "nota": "Votou Sim em PL 2162/2023 (17/09/2025); Sim em PL 2162/2023 (10/12/2025)."
+   },
+   "G14": {
+    "v": 5,
+    "conf": "voto",
+    "nota": "Votou Sim em PEC 221/2019 (27/05/2026); Sim em PEC 221/2019 (27/05/2026)."
+   }
+  },
+  "perguntasFaltando": [
+   "G01",
+   "G02",
+   "G03",
+   "G05",
+   "G06",
+   "G07",
+   "G09",
+   "G11",
+   "G12",
+   "G13",
+   "DF01",
+   "DF04",
+   "DF05",
+   "DF06"
+  ]
+ },
+ {
+  "id": 250002532338,
+  "cargoCod": 6,
+  "cargo": "Deputado Federal",
+  "nomeUrna": "FAUSTO PINATO",
+  "nomeCompleto": "FAUSTO RUY PINATO",
+  "numero": 4411,
+  "partido": "UNIÃO",
+  "coligacao": "FEDERAÇÃO UNIÃO PROGRESSISTA(44-UNIÃO/11-PP)",
+  "situacao": "Deferido",
+  "ocupacao": "Deputado",
+  "incumbente": true,
+  "arrecadado": 2659957.5,
+  "anteriores": [
+   {
+    "ano": 2022,
+    "cargo": "Deputado Federal",
+    "local": "SÃO PAULO",
+    "partido": "PP",
+    "resultado": "Eleito por média"
+   },
+   {
+    "ano": 2018,
+    "cargo": "Deputado Federal",
+    "local": "SÃO PAULO",
+    "partido": "PP",
+    "resultado": "Eleito por QP"
+   },
+   {
+    "ano": 2014,
+    "cargo": "Deputado Federal",
+    "local": "SÃO PAULO",
+    "partido": "PRB",
+    "resultado": "Eleito por média"
+   }
+  ],
+  "sites": [
+   "HTTPS://YOUTUBE.COM/@FAUSTOPINATO6392?SI=L-Q7RKJH2ZEPLS0U",
+   "HTTPS://WWW.TIKTOK.COM/@FAUSTOPINATO?_",
+   "https://tirzepatidaparatodos.com.br/",
+   "HTTPS://WWW.FACEBOOK.COM/SHARE/1CCMTJUS2J/?MIB",
+   "HTTPS://X.COM/FAUSTO_PINATO?S=21",
+   "HTTPS://WWW.INSTAGRAM.COM/FAUSTOPINATO/"
+  ],
+  "posicoesExistentes": {
+   "DF03": {
+    "v": 5,
+    "conf": "voto",
+    "nota": "Votou Sim em PL 490/2007 (30/05/2023)."
+   },
+   "G10": {
+    "v": 4,
+    "conf": "voto",
+    "nota": "Votou Sim em PL 2630/2020 (25/04/2023)."
+   },
+   "G04": {
+    "v": 4,
+    "conf": "voto",
+    "nota": "Votou Sim em PDL 3/2023 (06/12/2023)."
+   },
+   "DF04": {
+    "v": 5,
+    "conf": "voto",
+    "nota": "Votou Sim em PL 2159/2021 (17/07/2025)."
+   },
+   "G07": {
+    "v": 2,
+    "conf": "voto",
+    "nota": "Votou Sim em PL 2159/2021 (17/07/2025)."
+   },
+   "DF02": {
+    "v": 5,
+    "conf": "voto",
+    "nota": "Votou Sim em PEC 3/2021 (16/09/2025); Sim em PEC 3/2021 (16/09/2025)."
+   },
+   "G08": {
+    "v": 3,
+    "conf": "voto",
+    "nota": "Votou Não em PL 2162/2023 (17/09/2025); Sim em PL 2162/2023 (10/12/2025)."
+   },
+   "G14": {
+    "v": 3,
+    "conf": "voto",
+    "nota": "Votou Não em PEC 221/2019 (27/05/2026); Sim em PEC 221/2019 (27/05/2026)."
+   },
+   "G03": {
+    "v": 4,
+    "conf": "voto",
+    "nota": "Votou Sim em PL 591/2021 (privatização dos Correios) (05/08/2021); Sim em MP 1031/2021 (privatização da Eletrobras) (19/05/2021)."
+   },
+   "G01": {
+    "v": 4,
+    "conf": "voto",
+    "nota": "Votou Sim em PEC 241/2016 (teto de gastos), 2º turno (25/10/2016)."
+   },
+   "G12": {
+    "v": 4,
+    "conf": "voto",
+    "nota": "Votou Sim em PEC 171/1993 (maioridade penal para crimes graves), 2º turno (19/08/2015)."
+   }
+  },
+  "perguntasFaltando": [
+   "G02",
+   "G05",
+   "G06",
+   "G09",
+   "G11",
+   "G13",
+   "DF01",
+   "DF05",
+   "DF06"
+  ]
+ },
+ {
+  "id": 250002544341,
+  "cargoCod": 6,
+  "cargo": "Deputado Federal",
+  "nomeUrna": "DELEGADO BRUNO LIMA",
+  "nomeCompleto": "BRUNO MARCELLO DE OLIVEIRA LIMA",
+  "numero": 2011,
+  "partido": "PODE",
+  "coligacao": "PODE",
+  "situacao": "Deferido",
+  "ocupacao": "Deputado",
+  "incumbente": true,
+  "arrecadado": 2623000,
+  "anteriores": [
+   {
+    "ano": 2022,
+    "cargo": "Deputado Federal",
+    "local": "SÃO PAULO",
+    "partido": "PP",
+    "resultado": "Eleito por QP"
+   },
+   {
+    "ano": 2018,
+    "cargo": "Deputado Estadual",
+    "local": "SÃO PAULO",
+    "partido": "PSL",
+    "resultado": "Eleito por QP"
+   }
+  ],
+  "sites": [
+   "HTTPS://WWW.TIKTOK.COM/@DEL.BRUNOLIMA?_R=1&_T=ZS-972YKDKCKYG",
+   "HTTPS://YOUTUBE.COM/@DELEGADOBRUNOLIMA?SI=VU9CBDTY1UJ639AD",
+   "HTTPS://WWW.INSTAGRAM.COM/DEL.BRUNOLIMA?IGSH=AJFXCJC2YXPPN2ZT",
+   "HTTPS://WWW.FACEBOOK.COM/SHARE/17DRPQORJR/?MIBEXTID=WWXIFR"
+  ],
+  "posicoesExistentes": {
+   "G11": {
+    "v": 4,
+    "conf": "voto",
+    "nota": "Votou Sim em PL 1958/2021 (19/11/2024)."
+   },
+   "DF04": {
+    "v": 1,
+    "conf": "voto",
+    "nota": "Votou Não em PL 2159/2021 (17/07/2025)."
+   },
+   "G07": {
+    "v": 4,
+    "conf": "voto",
+    "nota": "Votou Não em PL 2159/2021 (17/07/2025)."
+   },
+   "DF02": {
+    "v": 1,
+    "conf": "voto",
+    "nota": "Votou Não em PEC 3/2021 (16/09/2025); Não em PEC 3/2021 (16/09/2025)."
+   },
+   "G08": {
+    "v": 4,
+    "conf": "voto",
+    "nota": "Votou Sim em PL 2162/2023 (17/09/2025)."
+   },
+   "G14": {
+    "v": 5,
+    "conf": "voto",
+    "nota": "Votou Sim em PEC 221/2019 (27/05/2026); Sim em PEC 221/2019 (27/05/2026)."
+   }
+  },
+  "perguntasFaltando": [
+   "G01",
+   "G02",
+   "G03",
+   "G04",
+   "G05",
+   "G06",
+   "G09",
+   "G10",
+   "G12",
+   "G13",
+   "DF01",
+   "DF03",
+   "DF05",
+   "DF06"
+  ]
+ },
+ {
+  "id": 250002536719,
+  "cargoCod": 6,
+  "cargo": "Deputado Federal",
+  "nomeUrna": "ARLINDO CHINAGLIA",
+  "nomeCompleto": "ARLINDO CHIGNALIA JUNIOR",
+  "numero": 1322,
+  "partido": "PT",
+  "coligacao": "FEDERAÇÃO BRASIL DA ESPERANÇA - FE BRASIL(13-PT/65-PC do B/43-PV)",
+  "situacao": "Deferido",
+  "ocupacao": "Médico",
+  "incumbente": true,
+  "arrecadado": 2570491.92,
+  "anteriores": [
+   {
+    "ano": 2022,
+    "cargo": "Deputado Federal",
+    "local": "SÃO PAULO",
+    "partido": "PT",
+    "resultado": "Eleito por QP"
+   },
+   {
+    "ano": 2018,
+    "cargo": "Deputado Federal",
+    "local": "SÃO PAULO",
+    "partido": "PT",
+    "resultado": "Eleito por QP"
+   },
+   {
+    "ano": 2014,
+    "cargo": "Deputado Federal",
+    "local": "SÃO PAULO",
+    "partido": "PT",
+    "resultado": "Eleito por QP"
+   },
+   {
+    "ano": 2010,
+    "cargo": "Deputado Federal",
+    "local": "SÃO PAULO",
+    "partido": "PT",
+    "resultado": "Eleito"
+   }
+  ],
+  "sites": [
+   "HTTPS://BIO.LINK/DEPCHINAGLIA",
+   "HTTPS://API.WHATSAPP.COM/SEND?PHONE=+5511933121322",
+   "HTTPS://X.COM/DEPCHINAGLIA",
+   "HTTPS://WWW.INSTAGRAM.COM/DEPCHINAGLIA/",
+   "HTTPS://WWW.FACEBOOK.COM/DEPCHINAGLIA"
+  ],
+  "posicoesExistentes": {
+   "DF03": {
+    "v": 1,
+    "conf": "voto",
+    "nota": "Votou Não em PL 490/2007 (30/05/2023)."
+   },
+   "G10": {
+    "v": 4,
+    "conf": "voto",
+    "nota": "Votou Sim em PL 2630/2020 (25/04/2023)."
+   },
+   "G04": {
+    "v": 2,
+    "conf": "voto",
+    "nota": "Votou Não em PDL 3/2023 (06/12/2023)."
+   },
+   "G11": {
+    "v": 4,
+    "conf": "voto",
+    "nota": "Votou Sim em PL 1958/2021 (19/11/2024)."
+   },
+   "DF04": {
+    "v": 5,
+    "conf": "voto",
+    "nota": "Votou Sim em PL 2159/2021 (17/07/2025)."
+   },
+   "G07": {
+    "v": 2,
+    "conf": "voto",
+    "nota": "Votou Sim em PL 2159/2021 (17/07/2025)."
+   },
+   "DF02": {
+    "v": 1,
+    "conf": "voto",
+    "nota": "Votou Não em PEC 3/2021 (16/09/2025); Não em PEC 3/2021 (16/09/2025)."
+   },
+   "G08": {
+    "v": 2,
+    "conf": "voto",
+    "nota": "Votou Não em PL 2162/2023 (17/09/2025); Não em PL 2162/2023 (10/12/2025)."
+   },
+   "G14": {
+    "v": 5,
+    "conf": "voto",
+    "nota": "Votou Sim em PEC 221/2019 (27/05/2026); Sim em PEC 221/2019 (27/05/2026)."
+   },
+   "G03": {
+    "v": 2,
+    "conf": "voto",
+    "nota": "Votou Não em PL 591/2021 (privatização dos Correios) (05/08/2021); Não em MP 1031/2021 (privatização da Eletrobras) (19/05/2021)."
+   },
+   "G01": {
+    "v": 2,
+    "conf": "voto",
+    "nota": "Votou Não em PEC 241/2016 (teto de gastos), 2º turno (25/10/2016)."
+   },
+   "G12": {
+    "v": 2,
+    "conf": "voto",
+    "nota": "Votou Não em PEC 171/1993 (maioridade penal para crimes graves), 2º turno (19/08/2015)."
+   }
+  },
+  "perguntasFaltando": [
+   "G02",
+   "G05",
+   "G06",
+   "G09",
+   "G13",
+   "DF01",
+   "DF05",
+   "DF06"
+  ]
+ },
+ {
+  "id": 250002536745,
+  "cargoCod": 6,
+  "cargo": "Deputado Federal",
+  "nomeUrna": "PAULO TEIXEIRA",
+  "nomeCompleto": "LUIZ PAULO TEIXEIRA FERREIRA",
+  "numero": 1398,
+  "partido": "PT",
+  "coligacao": "FEDERAÇÃO BRASIL DA ESPERANÇA - FE BRASIL(13-PT/65-PC do B/43-PV)",
+  "situacao": "Deferido",
+  "ocupacao": "Deputado",
+  "incumbente": true,
+  "arrecadado": 2534934.9,
+  "anteriores": [
+   {
+    "ano": 2022,
+    "cargo": "Deputado Federal",
+    "local": "SÃO PAULO",
+    "partido": "PT",
+    "resultado": "Eleito por média"
+   },
+   {
+    "ano": 2018,
+    "cargo": "Deputado Federal",
+    "local": "SÃO PAULO",
+    "partido": "PT",
+    "resultado": "Eleito por QP"
+   },
+   {
+    "ano": 2014,
+    "cargo": "Deputado Federal",
+    "local": "SÃO PAULO",
+    "partido": "PT",
+    "resultado": "Eleito por QP"
+   },
+   {
+    "ano": 2010,
+    "cargo": "Deputado Federal",
+    "local": "SÃO PAULO",
+    "partido": "PT",
+    "resultado": "Eleito"
+   }
+  ],
+  "sites": [
+   "HTTPS://WWW.INSTAGRAM.COM/PAULOTEIXEIRA13/",
+   "HTTPS://ZAPDOPAULOTEIXEIRA.COM.BR/",
+   "HTTPS://WWW.TIKTOK.COM/@PAULOTEIXEIRA13_",
+   "https://www.threads.com/@pauloteixeira13",
+   "https://pauloteixeira13.com.br/",
+   "https://x.com/pauloteixeira13",
+   "HTTPS://WWW.FACEBOOK.COM/PAULOTEIXEIRA13/",
+   "https://chat.whatsapp.com/BBnZWpPvE97GvFikPQurue"
+  ],
+  "posicoesExistentes": {
+   "G14": {
+    "v": 5,
+    "conf": "voto",
+    "nota": "Votou Sim em PEC 221/2019 (27/05/2026); Sim em PEC 221/2019 (27/05/2026)."
+   },
+   "G03": {
+    "v": 2,
+    "conf": "voto",
+    "nota": "Votou Não em PL 591/2021 (privatização dos Correios) (05/08/2021); Não em MP 1031/2021 (privatização da Eletrobras) (19/05/2021)."
+   },
+   "G01": {
+    "v": 2,
+    "conf": "voto",
+    "nota": "Votou Não em PEC 241/2016 (teto de gastos), 2º turno (25/10/2016)."
+   },
+   "G12": {
+    "v": 2,
+    "conf": "voto",
+    "nota": "Votou Não em PEC 171/1993 (maioridade penal para crimes graves), 2º turno (19/08/2015)."
+   }
+  },
+  "perguntasFaltando": [
+   "G02",
+   "G04",
+   "G05",
+   "G06",
+   "G07",
+   "G08",
+   "G09",
+   "G10",
+   "G11",
+   "G13",
+   "DF01",
+   "DF02",
+   "DF03",
+   "DF04",
+   "DF05",
+   "DF06"
+  ]
+ },
+ {
+  "id": 250002539399,
+  "cargoCod": 6,
+  "cargo": "Deputado Federal",
+  "nomeUrna": "JONAS DONIZETTE",
+  "nomeCompleto": "JONAS DONIZETTE FERREIRA",
+  "numero": 4000,
+  "partido": "PSB",
+  "coligacao": "PSB",
+  "situacao": "Deferido",
+  "ocupacao": "Deputado",
+  "incumbente": true,
+  "arrecadado": 2516463,
+  "anteriores": [
+   {
+    "ano": 2022,
+    "cargo": "Deputado Federal",
+    "local": "SÃO PAULO",
+    "partido": "PSB",
+    "resultado": "Eleito por QP"
+   },
+   {
+    "ano": 2016,
+    "cargo": "Prefeito",
+    "local": "CAMPINAS",
+    "partido": "PSB",
+    "resultado": "Eleito"
+   },
+   {
+    "ano": 2012,
+    "cargo": "Prefeito",
+    "local": "CAMPINAS",
+    "partido": "PSB",
+    "resultado": "2º turno"
+   },
+   {
+    "ano": 2010,
+    "cargo": "Deputado Federal",
+    "local": "SÃO PAULO",
+    "partido": "PSB",
+    "resultado": "Eleito"
+   }
+  ],
+  "sites": [
+   "HTTPS://X.COM/JONASDONIZETTE_",
+   "HTTPS://JONASDONIZETTE.COM.BR/",
+   "HTTPS://WWW.INSTAGRAM.COM/JONASDONIZETTE/",
+   "HTTPS://WWW.TIKTOK.COM/@JONASDONIZETTEOFICIAL",
+   "HTTPS://WEB.FACEBOOK.COM/JONASDONIZETTE",
+   "HTTPS://WWW.YOUTUBE.COM/@JONAS.DONIZETTE"
+  ],
+  "posicoesExistentes": {
+   "DF03": {
+    "v": 1,
+    "conf": "voto",
+    "nota": "Votou Não em PL 490/2007 (30/05/2023)."
+   },
+   "G10": {
+    "v": 4,
+    "conf": "voto",
+    "nota": "Votou Sim em PL 2630/2020 (25/04/2023)."
+   },
+   "G04": {
+    "v": 2,
+    "conf": "voto",
+    "nota": "Votou Não em PDL 3/2023 (06/12/2023)."
+   },
+   "DF04": {
+    "v": 1,
+    "conf": "voto",
+    "nota": "Votou Não em PL 2159/2021 (17/07/2025)."
+   },
+   "G07": {
+    "v": 4,
+    "conf": "voto",
+    "nota": "Votou Não em PL 2159/2021 (17/07/2025)."
+   },
+   "DF02": {
+    "v": 5,
+    "conf": "voto",
+    "nota": "Votou Sim em PEC 3/2021 (16/09/2025); Sim em PEC 3/2021 (16/09/2025)."
+   },
+   "G08": {
+    "v": 4,
+    "conf": "voto",
+    "nota": "Votou Sim em PL 2162/2023 (10/12/2025)."
+   },
+   "G14": {
+    "v": 5,
+    "conf": "voto",
+    "nota": "Votou Sim em PEC 221/2019 (27/05/2026); Sim em PEC 221/2019 (27/05/2026)."
+   }
+  },
+  "perguntasFaltando": [
+   "G01",
+   "G02",
+   "G03",
+   "G05",
+   "G06",
+   "G09",
+   "G11",
+   "G12",
+   "G13",
+   "DF01",
+   "DF05",
+   "DF06"
+  ]
+ },
+ {
+  "id": 250002537943,
+  "cargoCod": 6,
+  "cargo": "Deputado Federal",
+  "nomeUrna": "MARIA ROSAS",
+  "nomeCompleto": "MARIA DO PARTO MENDES ROSAS",
+  "numero": 1022,
+  "partido": "REPUBLICANOS",
+  "coligacao": "REPUBLICANOS",
+  "situacao": "Deferido",
+  "ocupacao": "Deputado",
+  "incumbente": true,
+  "arrecadado": 2513650,
+  "anteriores": [
+   {
+    "ano": 2022,
+    "cargo": "Deputado Federal",
+    "local": "SÃO PAULO",
+    "partido": "REPUBLICANOS",
+    "resultado": "Eleito por média"
+   },
+   {
+    "ano": 2018,
+    "cargo": "Deputado Federal",
+    "local": "SÃO PAULO",
+    "partido": "PRB",
+    "resultado": "Eleito por média"
+   }
+  ],
+  "sites": [
+   "HTTPS://X.COM/MARIAROSASSP",
+   "HTTPS://WWW.FACEBOOK.COM/MARIAROSAS.OFICIAL",
+   "https://WWW.MARIAROSAS.COM.BR",
+   "HTTPS://WWW.YOUTUBE.COM/@MARIAROSAS.OFICIAL",
+   "HTTPS://WWW.INSTAGRAM.COM/MARIAROSAS.OFICIAL?IGSH=NWTQATY0MTBREDDT",
+   "HTTPS://T.ME/MARIAROSASOFICIAL",
+   "https://whatsapp.com/channel/0029VaBkiTMFCCoQpQkAcH19",
+   "https://mariarosas1022.com.br/"
+  ],
+  "posicoesExistentes": {
+   "DF03": {
+    "v": 5,
+    "conf": "voto",
+    "nota": "Votou Sim em PL 490/2007 (30/05/2023)."
+   },
+   "G10": {
+    "v": 4,
+    "conf": "voto",
+    "nota": "Votou Sim em PL 2630/2020 (25/04/2023)."
+   },
+   "G04": {
+    "v": 4,
+    "conf": "voto",
+    "nota": "Votou Sim em PDL 3/2023 (06/12/2023)."
+   },
+   "G11": {
+    "v": 4,
+    "conf": "voto",
+    "nota": "Votou Sim em PL 1958/2021 (19/11/2024)."
+   },
+   "DF04": {
+    "v": 5,
+    "conf": "voto",
+    "nota": "Votou Sim em PL 2159/2021 (17/07/2025)."
+   },
+   "G07": {
+    "v": 2,
+    "conf": "voto",
+    "nota": "Votou Sim em PL 2159/2021 (17/07/2025)."
+   },
+   "DF02": {
+    "v": 5,
+    "conf": "voto",
+    "nota": "Votou Sim em PEC 3/2021 (16/09/2025); Sim em PEC 3/2021 (16/09/2025)."
+   },
+   "G08": {
+    "v": 4,
+    "conf": "voto",
+    "nota": "Votou Sim em PL 2162/2023 (17/09/2025); Sim em PL 2162/2023 (10/12/2025)."
+   },
+   "G14": {
+    "v": 5,
+    "conf": "voto",
+    "nota": "Votou Sim em PEC 221/2019 (27/05/2026); Sim em PEC 221/2019 (27/05/2026)."
+   },
+   "G03": {
+    "v": 4,
+    "conf": "voto",
+    "nota": "Votou Sim em PL 591/2021 (privatização dos Correios) (05/08/2021)."
+   }
+  },
+  "perguntasFaltando": [
+   "G01",
+   "G02",
+   "G05",
+   "G06",
+   "G09",
+   "G12",
+   "G13",
+   "DF01",
+   "DF05",
+   "DF06"
+  ]
+ },
+ {
+  "id": 250002539612,
+  "cargoCod": 6,
+  "cargo": "Deputado Federal",
+  "nomeUrna": "ERIKA HILTON",
+  "nomeCompleto": "ERIKA HILTON",
+  "numero": 5070,
+  "partido": "PSOL",
+  "coligacao": "FEDERAÇÃO PSOL REDE(50-PSOL/18-REDE)",
+  "situacao": "Deferido",
+  "ocupacao": "Deputado",
+  "incumbente": true,
+  "arrecadado": 2381659.05,
+  "anteriores": [
+   {
+    "ano": 2022,
+    "cargo": "Deputado Federal",
+    "local": "SÃO PAULO",
+    "partido": "PSOL",
+    "resultado": "Eleito por QP"
+   },
+   {
+    "ano": 2020,
+    "cargo": "Vereador",
+    "local": "SÃO PAULO",
+    "partido": "PSOL",
+    "resultado": "Eleito por QP"
+   },
+   {
+    "ano": 2016,
+    "cargo": "Vereador",
+    "local": "ITU",
+    "partido": "PSOL",
+    "resultado": "Concorrendo"
+   }
+  ],
+  "sites": [
+   "https://ERIKAHILTON.COM.BR",
+   "HTTPS://WWW.TIKTOK.COM/@ERIKAHILTONSP",
+   "HTTPS://X.COM/ERIKAKHILTON",
+   "https://MANIFESTO.ERIKAHILTON.COM.BR",
+   "HTTPS://WWW.THREADS.COM/@HILTON_ERIKA",
+   "HTTPS://WWW.FACEBOOK.COM/ERIKAHILTONSP",
+   "HTTPS://BSKY.APP/PROFILE/ERIKAHILTON.BSKY.SOCIAL",
+   "HTTPS://WWW.INSTAGRAM.COM/HILTON_ERIKA"
+  ],
+  "posicoesExistentes": {
+   "DF03": {
+    "v": 1,
+    "conf": "voto",
+    "nota": "Votou Não em PL 490/2007 (30/05/2023)."
+   },
+   "G10": {
+    "v": 4,
+    "conf": "voto",
+    "nota": "Votou Sim em PL 2630/2020 (25/04/2023)."
+   },
+   "G11": {
+    "v": 4,
+    "conf": "voto",
+    "nota": "Votou Sim em PL 1958/2021 (19/11/2024)."
+   },
+   "DF04": {
+    "v": 1,
+    "conf": "voto",
+    "nota": "Votou Não em PL 2159/2021 (17/07/2025)."
+   },
+   "G07": {
+    "v": 4,
+    "conf": "voto",
+    "nota": "Votou Não em PL 2159/2021 (17/07/2025)."
+   },
+   "DF02": {
+    "v": 1,
+    "conf": "voto",
+    "nota": "Votou Não em PEC 3/2021 (16/09/2025); Não em PEC 3/2021 (16/09/2025)."
+   },
+   "G08": {
+    "v": 2,
+    "conf": "voto",
+    "nota": "Votou Não em PL 2162/2023 (17/09/2025); Não em PL 2162/2023 (10/12/2025)."
+   },
+   "G14": {
+    "v": 5,
+    "conf": "voto",
+    "nota": "Votou Sim em PEC 221/2019 (27/05/2026); Sim em PEC 221/2019 (27/05/2026)."
+   }
+  },
+  "perguntasFaltando": [
+   "G01",
+   "G02",
+   "G03",
+   "G04",
+   "G05",
+   "G06",
+   "G09",
+   "G12",
+   "G13",
+   "DF01",
+   "DF05",
+   "DF06"
+  ]
+ },
+ {
+  "id": 250002539604,
+  "cargoCod": 6,
+  "cargo": "Deputado Federal",
+  "nomeUrna": "SÂMIA BOMFIM",
+  "nomeCompleto": "SÂMIA DE SOUZA BOMFIM",
+  "numero": 5000,
+  "partido": "PSOL",
+  "coligacao": "FEDERAÇÃO PSOL REDE(50-PSOL/18-REDE)",
+  "situacao": "Deferido",
+  "ocupacao": "Deputado",
+  "incumbente": true,
+  "arrecadado": 2335700.98,
+  "anteriores": [
+   {
+    "ano": 2022,
+    "cargo": "Deputado Federal",
+    "local": "SÃO PAULO",
+    "partido": "PSOL",
+    "resultado": "Eleito por QP"
+   },
+   {
+    "ano": 2018,
+    "cargo": "Deputado Federal",
+    "local": "SÃO PAULO",
+    "partido": "PSOL",
+    "resultado": "Eleito por QP"
+   },
+   {
+    "ano": 2016,
+    "cargo": "Vereador",
+    "local": "SÃO PAULO",
+    "partido": "PSOL",
+    "resultado": "Eleito por média"
+   }
+  ],
+  "sites": [
+   "https://www.threads.com/@samiabomfim",
+   "https://www.instagram.com/timesamia5000",
+   "https://x.com/samiabomfim",
+   "https://www.tiktok.com/@samiabomfim",
+   "https://samia5000.com.br/",
+   "https://www.youtube.com/samiabomfim",
+   "https://www.facebook.com/samia.bomfim.psol",
+   "HTTPS://WWW.INSTAGRAM.COM/SAMIABOMFIM/"
+  ],
+  "posicoesExistentes": {
+   "DF03": {
+    "v": 1,
+    "conf": "voto",
+    "nota": "Votou Não em PL 490/2007 (30/05/2023)."
+   },
+   "G10": {
+    "v": 4,
+    "conf": "voto",
+    "nota": "Votou Sim em PL 2630/2020 (25/04/2023)."
+   },
+   "G04": {
+    "v": 2,
+    "conf": "voto",
+    "nota": "Votou Não em PDL 3/2023 (06/12/2023)."
+   },
+   "G11": {
+    "v": 4,
+    "conf": "voto",
+    "nota": "Votou Sim em PL 1958/2021 (19/11/2024)."
+   },
+   "DF04": {
+    "v": 1,
+    "conf": "voto",
+    "nota": "Votou Não em PL 2159/2021 (17/07/2025)."
+   },
+   "G07": {
+    "v": 4,
+    "conf": "voto",
+    "nota": "Votou Não em PL 2159/2021 (17/07/2025)."
+   },
+   "DF02": {
+    "v": 1,
+    "conf": "voto",
+    "nota": "Votou Não em PEC 3/2021 (16/09/2025); Não em PEC 3/2021 (16/09/2025)."
+   },
+   "G08": {
+    "v": 2,
+    "conf": "voto",
+    "nota": "Votou Não em PL 2162/2023 (17/09/2025); Não em PL 2162/2023 (10/12/2025)."
+   },
+   "G14": {
+    "v": 5,
+    "conf": "voto",
+    "nota": "Votou Sim em PEC 221/2019 (27/05/2026); Sim em PEC 221/2019 (27/05/2026)."
+   },
+   "G03": {
+    "v": 2,
+    "conf": "voto",
+    "nota": "Votou Não em MP 1031/2021 (privatização da Eletrobras) (19/05/2021)."
+   }
+  },
+  "perguntasFaltando": [
+   "G01",
+   "G02",
+   "G05",
+   "G06",
+   "G09",
+   "G12",
+   "G13",
+   "DF01",
+   "DF05",
+   "DF06"
+  ]
+ },
+ {
+  "id": 250002539593,
+  "cargoCod": 6,
+  "cargo": "Deputado Federal",
+  "nomeUrna": "SÔNIA GUAJAJARA",
+  "nomeCompleto": "SÔNIA BONE DE SOUSA SILVA",
+  "numero": 5088,
+  "partido": "PSOL",
+  "coligacao": "FEDERAÇÃO PSOL REDE(50-PSOL/18-REDE)",
+  "situacao": "Deferido",
+  "ocupacao": "Deputado",
+  "incumbente": true,
+  "arrecadado": 2292900,
+  "anteriores": [
+   {
+    "ano": 2022,
+    "cargo": "Deputado Federal",
+    "local": "SÃO PAULO",
+    "partido": "PSOL",
+    "resultado": "Eleito por QP"
+   },
+   {
+    "ano": 2018,
+    "cargo": "Vice-presidente",
+    "local": "BRASIL",
+    "partido": "PSOL",
+    "resultado": "Não eleito"
+   }
+  ],
+  "sites": [
+   "https://www.instagram.com/campanhasoniaguajajara?igsh=MXBqY3Zmb2Jwd21r",
+   "HTTPS://WWW.INSTAGRAM.COM/GUAJAJARASONIA",
+   "HTTPS://PT.WIKIPEDIA.ORG/WIKI/S%C3%B4NIA_GUAJAJARA",
+   "https://soniaguajajara.com.br/",
+   "HTTPS://WWW.LINKEDIN.COM/IN/SONIA-GUAJAJARA-30400B253",
+   "HTTPS://WWW.YOUTUBE.COM/@SONIAGUAJAJARAOFICIAL",
+   "HTTPS://X.COM/GUAJAJARASONIA",
+   "HTTPS://WWW.FACEBOOK.COM/SONIAGUAJAJARA"
+  ],
+  "posicoesExistentes": {
+   "G14": {
+    "v": 5,
+    "conf": "voto",
+    "nota": "Votou Sim em PEC 221/2019 (27/05/2026); Sim em PEC 221/2019 (27/05/2026)."
+   }
+  },
+  "perguntasFaltando": [
+   "G01",
+   "G02",
+   "G03",
+   "G04",
+   "G05",
+   "G06",
+   "G07",
+   "G08",
+   "G09",
+   "G10",
+   "G11",
+   "G12",
+   "G13",
+   "DF01",
+   "DF02",
+   "DF03",
+   "DF04",
+   "DF05",
+   "DF06"
+  ]
+ },
+ {
+  "id": 250002541145,
+  "cargoCod": 6,
+  "cargo": "Deputado Federal",
+  "nomeUrna": "VITOR LIPPI",
+  "nomeCompleto": "VITOR LIPPI",
+  "numero": 5501,
+  "partido": "PSD",
+  "coligacao": "PSD",
+  "situacao": "Deferido",
+  "ocupacao": "Médico",
+  "incumbente": true,
+  "arrecadado": 2233500,
+  "anteriores": [
+   {
+    "ano": 2022,
+    "cargo": "Deputado Federal",
+    "local": "SÃO PAULO",
+    "partido": "PSDB",
+    "resultado": "Eleito por QP"
+   },
+   {
+    "ano": 2018,
+    "cargo": "Deputado Federal",
+    "local": "SÃO PAULO",
+    "partido": "PSDB",
+    "resultado": "Eleito por QP"
+   },
+   {
+    "ano": 2014,
+    "cargo": "Deputado Federal",
+    "local": "SÃO PAULO",
+    "partido": "PSDB",
+    "resultado": "Eleito por QP"
+   },
+   {
+    "ano": 2008,
+    "cargo": "Prefeito",
+    "local": "SOROCABA",
+    "partido": "PSDB",
+    "resultado": "Eleito"
+   }
+  ],
+  "sites": [
+   "HTTPS://WWW.INSTAGRAM.COM/VITORLIPPI/",
+   "HTTPS://WWW.TIKTOK.COM/@VITOR.LIPPI",
+   "HTTPS://X.COM/@DEPVITORLIPPI",
+   "HTTPS://WWW.YOUTUBE.COM/@VITORLIPPIFEDERAL",
+   "HTTPS://WWW.LINKEDIN.COM/IN/VITORLIPPI/",
+   "HTTPS://WWW.VITORLIPPI.COM.BR",
+   "https://www.facebook.com/vitorlippi/"
+  ],
+  "posicoesExistentes": {
+   "DF03": {
+    "v": 1,
+    "conf": "voto",
+    "nota": "Votou Não em PL 490/2007 (30/05/2023)."
+   },
+   "DF04": {
+    "v": 5,
+    "conf": "voto",
+    "nota": "Votou Sim em PL 2159/2021 (17/07/2025)."
+   },
+   "G07": {
+    "v": 2,
+    "conf": "voto",
+    "nota": "Votou Sim em PL 2159/2021 (17/07/2025)."
+   },
+   "DF02": {
+    "v": 1,
+    "conf": "voto",
+    "nota": "Votou Não em PEC 3/2021 (16/09/2025); Não em PEC 3/2021 (16/09/2025)."
+   },
+   "G08": {
+    "v": 4,
+    "conf": "voto",
+    "nota": "Votou Sim em PL 2162/2023 (17/09/2025); Sim em PL 2162/2023 (10/12/2025)."
+   },
+   "G14": {
+    "v": 5,
+    "conf": "voto",
+    "nota": "Votou Sim em PEC 221/2019 (27/05/2026); Sim em PEC 221/2019 (27/05/2026)."
+   },
+   "G03": {
+    "v": 4,
+    "conf": "voto",
+    "nota": "Votou Sim em PL 591/2021 (privatização dos Correios) (05/08/2021); Sim em MP 1031/2021 (privatização da Eletrobras) (19/05/2021)."
+   },
+   "G01": {
+    "v": 4,
+    "conf": "voto",
+    "nota": "Votou Sim em PEC 241/2016 (teto de gastos), 2º turno (25/10/2016)."
+   },
+   "G12": {
+    "v": 4,
+    "conf": "voto",
+    "nota": "Votou Sim em PEC 171/1993 (maioridade penal para crimes graves), 2º turno (19/08/2015)."
+   }
+  },
+  "perguntasFaltando": [
+   "G02",
+   "G04",
+   "G05",
+   "G06",
+   "G09",
+   "G10",
+   "G11",
+   "G13",
+   "DF01",
+   "DF05",
+   "DF06"
+  ]
+ },
+ {
+  "id": 250002536763,
+  "cargoCod": 6,
+  "cargo": "Deputado Federal",
+  "nomeUrna": "RUI FALCÃO",
+  "nomeCompleto": "RUI GOETHE DA COSTA FALCÃO",
+  "numero": 1313,
+  "partido": "PT",
+  "coligacao": "FEDERAÇÃO BRASIL DA ESPERANÇA - FE BRASIL(13-PT/65-PC do B/43-PV)",
+  "situacao": "Deferido",
+  "ocupacao": "Advogado",
+  "incumbente": true,
+  "arrecadado": 2206985,
+  "anteriores": [
+   {
+    "ano": 2022,
+    "cargo": "Deputado Federal",
+    "local": "SÃO PAULO",
+    "partido": "PT",
+    "resultado": "Eleito por QP"
+   },
+   {
+    "ano": 2018,
+    "cargo": "Deputado Federal",
+    "local": "SÃO PAULO",
+    "partido": "PT",
+    "resultado": "Eleito por QP"
+   },
+   {
+    "ano": 2010,
+    "cargo": "Deputado Estadual",
+    "local": "SÃO PAULO",
+    "partido": "PT",
+    "resultado": "Eleito"
+   },
+   {
+    "ano": 2006,
+    "cargo": "Deputado Estadual",
+    "local": "SÃO PAULO",
+    "partido": "PT",
+    "resultado": "Eleito"
+   }
+  ],
+  "sites": [
+   "HTTPS://WWW.INSTAGRAM.COM/RUIFALCAO13/",
+   "HTTPS://X.COM/RFALCAO13",
+   "https://www.youtube.com/c/RuiFalc%C3%A3oDeputadoFederal",
+   "HTTPS://WWW.FACEBOOK.COM/RFALCAO13",
+   "HTTPS://WWW.THREADS.COM/@RUIFALCAO13"
+  ],
+  "posicoesExistentes": {
+   "DF03": {
+    "v": 1,
+    "conf": "voto",
+    "nota": "Votou Não em PL 490/2007 (30/05/2023)."
+   },
+   "G10": {
+    "v": 4,
+    "conf": "voto",
+    "nota": "Votou Sim em PL 2630/2020 (25/04/2023)."
+   },
+   "G04": {
+    "v": 2,
+    "conf": "voto",
+    "nota": "Votou Não em PDL 3/2023 (06/12/2023)."
+   },
+   "G11": {
+    "v": 4,
+    "conf": "voto",
+    "nota": "Votou Sim em PL 1958/2021 (19/11/2024)."
+   },
+   "DF04": {
+    "v": 1,
+    "conf": "voto",
+    "nota": "Votou Não em PL 2159/2021 (17/07/2025)."
+   },
+   "G07": {
+    "v": 4,
+    "conf": "voto",
+    "nota": "Votou Não em PL 2159/2021 (17/07/2025)."
+   },
+   "DF02": {
+    "v": 1,
+    "conf": "voto",
+    "nota": "Votou Não em PEC 3/2021 (16/09/2025); Não em PEC 3/2021 (16/09/2025)."
+   },
+   "G08": {
+    "v": 2,
+    "conf": "voto",
+    "nota": "Votou Não em PL 2162/2023 (17/09/2025); Não em PL 2162/2023 (10/12/2025)."
+   },
+   "G14": {
+    "v": 5,
+    "conf": "voto",
+    "nota": "Votou Sim em PEC 221/2019 (27/05/2026); Sim em PEC 221/2019 (27/05/2026)."
+   },
+   "G03": {
+    "v": 2,
+    "conf": "voto",
+    "nota": "Votou Não em PL 591/2021 (privatização dos Correios) (05/08/2021); Não em MP 1031/2021 (privatização da Eletrobras) (19/05/2021)."
+   }
+  },
+  "perguntasFaltando": [
+   "G01",
+   "G02",
+   "G05",
+   "G06",
+   "G09",
+   "G12",
+   "G13",
+   "DF01",
+   "DF05",
+   "DF06"
+  ]
+ },
+ {
+  "id": 250002530167,
+  "cargoCod": 6,
+  "cargo": "Deputado Federal",
+  "nomeUrna": "ADRIANA VENTURA",
+  "nomeCompleto": "ADRIANA MIGUEL VENTURA",
+  "numero": 3030,
+  "partido": "NOVO",
+  "coligacao": "NOVO",
+  "situacao": "Deferido",
+  "ocupacao": "Professor de Ensino Superior",
+  "incumbente": true,
+  "arrecadado": 2105818.08,
+  "anteriores": [
+   {
+    "ano": 2022,
+    "cargo": "Deputado Federal",
+    "local": "SÃO PAULO",
+    "partido": "NOVO",
+    "resultado": "Eleito por QP"
+   },
+   {
+    "ano": 2018,
+    "cargo": "Deputado Federal",
+    "local": "SÃO PAULO",
+    "partido": "NOVO",
+    "resultado": "Eleito por QP"
+   }
+  ],
+  "sites": [
+   "HTTPS://WWW.INSTAGRAM.COM/ADRIVENTURASP",
+   "https://twitter.com/adriventurasp",
+   "HTTPS://WWW.FACEBOOK.COM/ADRIVENTURASP",
+   "https://www.youtube.com/@adrianaventura",
+   "https://www.facebook.com/adriventurasp",
+   "HTTPS://ADRIANAVENTURA.COM",
+   "https://www.instagram.com/adriventurasp",
+   "https://www.tiktok.com/@adriventurasp",
+   "https://www.linkedin.com/in/adriventurasp",
+   "https://adrianaventura.com"
+  ],
+  "posicoesExistentes": {
+   "DF03": {
+    "v": 5,
+    "conf": "voto",
+    "nota": "Votou Sim em PL 490/2007 (30/05/2023)."
+   },
+   "G10": {
+    "v": 2,
+    "conf": "voto",
+    "nota": "Votou Não em PL 2630/2020 (25/04/2023)."
+   },
+   "G04": {
+    "v": 4,
+    "conf": "voto",
+    "nota": "Votou Sim em PDL 3/2023 (06/12/2023)."
+   },
+   "G11": {
+    "v": 2,
+    "conf": "voto",
+    "nota": "Votou Não em PL 1958/2021 (19/11/2024)."
+   },
+   "DF04": {
+    "v": 5,
+    "conf": "voto",
+    "nota": "Votou Sim em PL 2159/2021 (17/07/2025)."
+   },
+   "G07": {
+    "v": 2,
+    "conf": "voto",
+    "nota": "Votou Sim em PL 2159/2021 (17/07/2025)."
+   },
+   "DF02": {
+    "v": 1,
+    "conf": "voto",
+    "nota": "Votou Não em PEC 3/2021 (16/09/2025); Não em PEC 3/2021 (16/09/2025)."
+   },
+   "G08": {
+    "v": 4,
+    "conf": "voto",
+    "nota": "Votou Sim em PL 2162/2023 (17/09/2025); Sim em PL 2162/2023 (10/12/2025)."
+   },
+   "G14": {
+    "v": 1,
+    "conf": "voto",
+    "nota": "Votou Não em PEC 221/2019 (27/05/2026); Não em PEC 221/2019 (27/05/2026)."
+   },
+   "G03": {
+    "v": 3,
+    "conf": "voto",
+    "nota": "Votou Sim em PL 591/2021 (privatização dos Correios) (05/08/2021); Não em MP 1031/2021 (privatização da Eletrobras) (19/05/2021)."
+   }
+  },
+  "perguntasFaltando": [
+   "G01",
+   "G02",
+   "G05",
+   "G06",
+   "G09",
+   "G12",
+   "G13",
+   "DF01",
+   "DF05",
+   "DF06"
+  ]
+ },
+ {
+  "id": 250002541114,
+  "cargoCod": 6,
+  "cargo": "Deputado Federal",
+  "nomeUrna": "CARLOS SAMPAIO",
+  "nomeCompleto": "CARLOS HENRIQUE FOCESI SAMPAIO",
+  "numero": 5585,
+  "partido": "PSD",
+  "coligacao": "PSD",
+  "situacao": "Deferido",
+  "ocupacao": "Deputado",
+  "incumbente": true,
+  "arrecadado": 2047407.41,
+  "anteriores": [
+   {
+    "ano": 2022,
+    "cargo": "Deputado Federal",
+    "local": "SÃO PAULO",
+    "partido": "PSDB",
+    "resultado": "Eleito por média"
+   },
+   {
+    "ano": 2018,
+    "cargo": "Deputado Federal",
+    "local": "SÃO PAULO",
+    "partido": "PSDB",
+    "resultado": "Eleito por QP"
+   },
+   {
+    "ano": 2014,
+    "cargo": "Deputado Federal",
+    "local": "SÃO PAULO",
+    "partido": "PSDB",
+    "resultado": "Eleito por QP"
+   },
+   {
+    "ano": 2010,
+    "cargo": "Deputado Federal",
+    "local": "SÃO PAULO",
+    "partido": "PSDB",
+    "resultado": "Eleito"
+   }
+  ],
+  "sites": [
+   "https://www.facebook.com/DeputadoCarlosSampaio?locale=pt_BR",
+   "HTTPS://WWW.INSTAGRAM.COM/DEPCARLOSSAMPAIO/",
+   "https://carlossampaiooficial.com.br/",
+   "https://deputadocarlosampaio.com.br/",
+   "https://x.com/carlossampaio",
+   "https://www.tiktok.com/@depcarlossampaio"
+  ],
+  "posicoesExistentes": {
+   "DF03": {
+    "v": 5,
+    "conf": "voto",
+    "nota": "Votou Sim em PL 490/2007 (30/05/2023)."
+   },
+   "G10": {
+    "v": 2,
+    "conf": "voto",
+    "nota": "Votou Não em PL 2630/2020 (25/04/2023)."
+   },
+   "G04": {
+    "v": 2,
+    "conf": "voto",
+    "nota": "Votou Não em PDL 3/2023 (06/12/2023)."
+   },
+   "DF04": {
+    "v": 5,
+    "conf": "voto",
+    "nota": "Votou Sim em PL 2159/2021 (17/07/2025)."
+   },
+   "G07": {
+    "v": 2,
+    "conf": "voto",
+    "nota": "Votou Sim em PL 2159/2021 (17/07/2025)."
+   },
+   "DF02": {
+    "v": 1,
+    "conf": "voto",
+    "nota": "Votou Não em PEC 3/2021 (16/09/2025); Não em PEC 3/2021 (16/09/2025)."
+   },
+   "G08": {
+    "v": 4,
+    "conf": "voto",
+    "nota": "Votou Sim em PL 2162/2023 (17/09/2025); Sim em PL 2162/2023 (10/12/2025)."
+   },
+   "G14": {
+    "v": 5,
+    "conf": "voto",
+    "nota": "Votou Sim em PEC 221/2019 (27/05/2026); Sim em PEC 221/2019 (27/05/2026)."
+   },
+   "G03": {
+    "v": 4,
+    "conf": "voto",
+    "nota": "Votou Sim em PL 591/2021 (privatização dos Correios) (05/08/2021); Sim em MP 1031/2021 (privatização da Eletrobras) (19/05/2021)."
+   },
+   "G01": {
+    "v": 4,
+    "conf": "voto",
+    "nota": "Votou Sim em PEC 241/2016 (teto de gastos), 2º turno (25/10/2016)."
+   },
+   "G12": {
+    "v": 4,
+    "conf": "voto",
+    "nota": "Votou Sim em PEC 171/1993 (maioridade penal para crimes graves), 2º turno (19/08/2015)."
+   }
+  },
+  "perguntasFaltando": [
+   "G02",
+   "G05",
+   "G06",
+   "G09",
+   "G11",
+   "G13",
+   "DF01",
+   "DF05",
+   "DF06"
+  ]
+ },
+ {
+  "id": 250002536736,
+  "cargoCod": 6,
+  "cargo": "Deputado Federal",
+  "nomeUrna": "ALENCAR SANTANA",
+  "nomeCompleto": "ALENCAR SANTANA BRAGA",
+  "numero": 1358,
+  "partido": "PT",
+  "coligacao": "FEDERAÇÃO BRASIL DA ESPERANÇA - FE BRASIL(13-PT/65-PC do B/43-PV)",
+  "situacao": "Deferido",
+  "ocupacao": "Deputado",
+  "incumbente": true,
+  "arrecadado": 2027200,
+  "anteriores": [
+   {
+    "ano": 2024,
+    "cargo": "Prefeito",
+    "local": "GUARULHOS",
+    "partido": "PT",
+    "resultado": "Não eleito"
+   },
+   {
+    "ano": 2022,
+    "cargo": "Deputado Federal",
+    "local": "SÃO PAULO",
+    "partido": "PT",
+    "resultado": "Eleito por QP"
+   },
+   {
+    "ano": 2018,
+    "cargo": "Deputado Federal",
+    "local": "SÃO PAULO",
+    "partido": "PT",
+    "resultado": "Eleito por média"
+   },
+   {
+    "ano": 2014,
+    "cargo": "Deputado Estadual",
+    "local": "SÃO PAULO",
+    "partido": "PT",
+    "resultado": "Eleito por QP"
+   }
+  ],
+  "sites": [
+   "HTTPS://WWW.TWITTER.COM/ALENCARBRAGA13",
+   "HTTPS://WWW.YOUTUBE.COM/ALENCARBRAGA13",
+   "HTTPS://WWW.INSTAGRAM.COM/ALENCARBRAGA13",
+   "HTTPS://WWW.FACEBOOK.COM/ALENCARBRAGA13",
+   "HTTPS://WWW.TIKTOK.COM/@ALENCARSANTANA13"
+  ],
+  "posicoesExistentes": {
+   "DF03": {
+    "v": 1,
+    "conf": "voto",
+    "nota": "Votou Não em PL 490/2007 (30/05/2023)."
+   },
+   "G10": {
+    "v": 4,
+    "conf": "voto",
+    "nota": "Votou Sim em PL 2630/2020 (25/04/2023)."
+   },
+   "G04": {
+    "v": 2,
+    "conf": "voto",
+    "nota": "Votou Não em PDL 3/2023 (06/12/2023)."
+   },
+   "G11": {
+    "v": 4,
+    "conf": "voto",
+    "nota": "Votou Sim em PL 1958/2021 (19/11/2024)."
+   },
+   "DF04": {
+    "v": 1,
+    "conf": "voto",
+    "nota": "Votou Não em PL 2159/2021 (17/07/2025)."
+   },
+   "G07": {
+    "v": 4,
+    "conf": "voto",
+    "nota": "Votou Não em PL 2159/2021 (17/07/2025)."
+   },
+   "DF02": {
+    "v": 1,
+    "conf": "voto",
+    "nota": "Votou Não em PEC 3/2021 (16/09/2025); Não em PEC 3/2021 (16/09/2025)."
+   },
+   "G08": {
+    "v": 2,
+    "conf": "voto",
+    "nota": "Votou Não em PL 2162/2023 (17/09/2025); Não em PL 2162/2023 (10/12/2025)."
+   },
+   "G14": {
+    "v": 5,
+    "conf": "voto",
+    "nota": "Votou Sim em PEC 221/2019 (27/05/2026); Sim em PEC 221/2019 (27/05/2026)."
+   },
+   "G03": {
+    "v": 2,
+    "conf": "voto",
+    "nota": "Votou Não em PL 591/2021 (privatização dos Correios) (05/08/2021); Não em MP 1031/2021 (privatização da Eletrobras) (19/05/2021)."
+   }
+  },
+  "perguntasFaltando": [
+   "G01",
+   "G02",
+   "G05",
+   "G06",
+   "G09",
+   "G12",
+   "G13",
+   "DF01",
+   "DF05",
+   "DF06"
+  ]
+ },
+ {
+  "id": 250002544332,
+  "cargoCod": 6,
+  "cargo": "Deputado Federal",
+  "nomeUrna": "ANTONIO CARLOS RODRIGUES",
+  "nomeCompleto": "ANTONIO CARLOS RODRIGUES",
+  "numero": 2040,
+  "partido": "PODE",
+  "coligacao": "PODE",
+  "situacao": "Deferido",
+  "ocupacao": "Deputado",
+  "incumbente": true,
+  "arrecadado": 1946700,
+  "anteriores": [
+   {
+    "ano": 2022,
+    "cargo": "Deputado Federal",
+    "local": "SÃO PAULO",
+    "partido": "PL",
+    "resultado": "Eleito por QP"
+   },
+   {
+    "ano": 2018,
+    "cargo": "Deputado Federal",
+    "local": "SÃO PAULO",
+    "partido": "PR",
+    "resultado": "Suplente"
+   },
+   {
+    "ano": 2012,
+    "cargo": "Vereador",
+    "local": "SÃO PAULO",
+    "partido": "PR",
+    "resultado": "Eleito por QP"
+   },
+   {
+    "ano": 2010,
+    "cargo": "1º Suplente Senador",
+    "local": "SÃO PAULO",
+    "partido": "PR",
+    "resultado": "Concorrendo"
+   }
+  ],
+  "sites": [
+   "HTTPS://WWW.INSTAGRAM.COM/ANTONIOCARLOSRODRIGUES.SP?IGSH=BNU3C3Y5D3J1YNV1&UTM_SO",
+   "HTTPS://X.COM/ACRODRIGUESSP?S=11",
+   "HTTPS://WWW.FACEBOOK.COM/SHARE/17YQGYJEXS/?MIBEXTID=WWXIFR",
+   "HTTPS://WWW.TIKTOK.COM/@ANTONIOCARLOSRODRIGUESSP?_R=1&_T=ZS-97SO27DKUHN"
+  ],
+  "posicoesExistentes": {
+   "DF03": {
+    "v": 1,
+    "conf": "voto",
+    "nota": "Votou Não em PL 490/2007 (30/05/2023)."
+   },
+   "G10": {
+    "v": 2,
+    "conf": "voto",
+    "nota": "Votou Não em PL 2630/2020 (25/04/2023)."
+   },
+   "G04": {
+    "v": 2,
+    "conf": "voto",
+    "nota": "Votou Não em PDL 3/2023 (06/12/2023)."
+   },
+   "G11": {
+    "v": 4,
+    "conf": "voto",
+    "nota": "Votou Sim em PL 1958/2021 (19/11/2024)."
+   },
+   "DF04": {
+    "v": 5,
+    "conf": "voto",
+    "nota": "Votou Sim em PL 2159/2021 (17/07/2025)."
+   },
+   "G07": {
+    "v": 2,
+    "conf": "voto",
+    "nota": "Votou Sim em PL 2159/2021 (17/07/2025)."
+   },
+   "DF02": {
+    "v": 5,
+    "conf": "voto",
+    "nota": "Votou Sim em PEC 3/2021 (16/09/2025); Sim em PEC 3/2021 (16/09/2025)."
+   },
+   "G08": {
+    "v": 4,
+    "conf": "voto",
+    "nota": "Votou Sim em PL 2162/2023 (10/12/2025)."
+   },
+   "G14": {
+    "v": 5,
+    "conf": "voto",
+    "nota": "Votou Sim em PEC 221/2019 (27/05/2026); Sim em PEC 221/2019 (27/05/2026)."
+   }
+  },
+  "perguntasFaltando": [
+   "G01",
+   "G02",
+   "G03",
+   "G05",
+   "G06",
+   "G09",
+   "G12",
+   "G13",
+   "DF01",
+   "DF05",
+   "DF06"
+  ]
+ },
+ {
+  "id": 250002544357,
+  "cargoCod": 6,
+  "cargo": "Deputado Federal",
+  "nomeUrna": "DELEGADO PALUMBO",
+  "nomeCompleto": "MARIO PALUMBO JUNIOR",
+  "numero": 2000,
+  "partido": "PODE",
+  "coligacao": "PODE",
+  "situacao": "Deferido",
+  "ocupacao": "Deputado",
+  "incumbente": true,
+  "arrecadado": 1934650,
+  "anteriores": [
+   {
+    "ano": 2022,
+    "cargo": "Deputado Federal",
+    "local": "SÃO PAULO",
+    "partido": "MDB",
+    "resultado": "Eleito por QP"
+   },
+   {
+    "ano": 2020,
+    "cargo": "Vereador",
+    "local": "SÃO PAULO",
+    "partido": "MDB",
+    "resultado": "Eleito por QP"
+   }
+  ],
+  "sites": [
+   "HTTPS://WWW.THREADS.COM/@DELEGADOPALUMBO",
+   "HTTPS://X.COM/DELEGADOPALUMBO",
+   "https://YOUTUBE.COM/DELEGADOPALUMBO?GL=BR",
+   "https://delegadopalumbo.com.br/",
+   "https://DELEGADO PALUMBO (@DELEGADOPALUMBO) ¿ FACEBOOK",
+   "HTTPS://WWW.KWAI.COM/@DELEGADOPALUMBO?SHARE_ITEM_INFO=150001159500577&KPN=KWAI&S",
+   "HTTPS://WWW.TIKTOK.COM/@DELEGADOPALUMBOOFICIAL",
+   "HTTPS://WWW.INSTAGRAM.COM/DELEGADOPALUMBO"
+  ],
+  "posicoesExistentes": {
+   "DF03": {
+    "v": 5,
+    "conf": "voto",
+    "nota": "Votou Sim em PL 490/2007 (30/05/2023)."
+   },
+   "G10": {
+    "v": 2,
+    "conf": "voto",
+    "nota": "Votou Não em PL 2630/2020 (25/04/2023)."
+   },
+   "G04": {
+    "v": 4,
+    "conf": "voto",
+    "nota": "Votou Sim em PDL 3/2023 (06/12/2023)."
+   },
+   "G11": {
+    "v": 2,
+    "conf": "voto",
+    "nota": "Votou Não em PL 1958/2021 (19/11/2024)."
+   },
+   "DF04": {
+    "v": 5,
+    "conf": "voto",
+    "nota": "Votou Sim em PL 2159/2021 (17/07/2025)."
+   },
+   "G07": {
+    "v": 2,
+    "conf": "voto",
+    "nota": "Votou Sim em PL 2159/2021 (17/07/2025)."
+   },
+   "DF02": {
+    "v": 1,
+    "conf": "voto",
+    "nota": "Votou Não em PEC 3/2021 (16/09/2025); Não em PEC 3/2021 (16/09/2025)."
+   },
+   "G08": {
+    "v": 4,
+    "conf": "voto",
+    "nota": "Votou Sim em PL 2162/2023 (17/09/2025); Sim em PL 2162/2023 (10/12/2025)."
+   },
+   "G14": {
+    "v": 5,
+    "conf": "voto",
+    "nota": "Votou Sim em PEC 221/2019 (27/05/2026); Sim em PEC 221/2019 (27/05/2026)."
+   }
+  },
+  "perguntasFaltando": [
+   "G01",
+   "G02",
+   "G03",
+   "G05",
+   "G06",
+   "G09",
+   "G12",
+   "G13",
+   "DF01",
+   "DF05",
+   "DF06"
+  ]
+ },
+ {
+  "id": 250002536722,
+  "cargoCod": 6,
+  "cargo": "Deputado Federal",
+  "nomeUrna": "KIKO CELEGUIM",
+  "nomeCompleto": "FRANCISCO DANIEL CELEGUIM DE MORAIS",
+  "numero": 1301,
+  "partido": "PT",
+  "coligacao": "FEDERAÇÃO BRASIL DA ESPERANÇA - FE BRASIL(13-PT/65-PC do B/43-PV)",
+  "situacao": "Deferido",
+  "ocupacao": "Relações-Públicas",
+  "incumbente": true,
+  "arrecadado": 1905000,
+  "anteriores": [
+   {
+    "ano": 2022,
+    "cargo": "Deputado Federal",
+    "local": "SÃO PAULO",
+    "partido": "PT",
+    "resultado": "Eleito por QP"
+   },
+   {
+    "ano": 2016,
+    "cargo": "Prefeito",
+    "local": "FRANCO DA ROCHA",
+    "partido": "PT",
+    "resultado": "Eleito"
+   },
+   {
+    "ano": 2012,
+    "cargo": "Prefeito",
+    "local": "FRANCO DA ROCHA",
+    "partido": "PT",
+    "resultado": "Eleito"
+   },
+   {
+    "ano": 2008,
+    "cargo": "Prefeito",
+    "local": "FRANCO DA ROCHA",
+    "partido": "PT",
+    "resultado": "Não eleito"
+   }
+  ],
+  "sites": [
+   "HTTPS://WWW.INSTAGRAM.COM/KIKO.CELEGUIM/",
+   "HTTPS://X.COM/KIKOCELEGUIM",
+   "HTTPS://WWW.KIKOCELEGUIM.COM.BR/",
+   "HTTPS://WWW.FACEBOOK.COM/KIKOCELEGUIM",
+   "HTTPS://WWW.TIKTOK.COM/@KIKO.CELEGUIM",
+   "HTTPS://WWW.YOUTUBE.COM/@KIKOCELEGUIMOFICIAL"
+  ],
+  "posicoesExistentes": {
+   "DF03": {
+    "v": 1,
+    "conf": "voto",
+    "nota": "Votou Não em PL 490/2007 (30/05/2023)."
+   },
+   "G10": {
+    "v": 4,
+    "conf": "voto",
+    "nota": "Votou Sim em PL 2630/2020 (25/04/2023)."
+   },
+   "G04": {
+    "v": 2,
+    "conf": "voto",
+    "nota": "Votou Não em PDL 3/2023 (06/12/2023)."
+   },
+   "DF04": {
+    "v": 1,
+    "conf": "voto",
+    "nota": "Votou Não em PL 2159/2021 (17/07/2025)."
+   },
+   "G07": {
+    "v": 4,
+    "conf": "voto",
+    "nota": "Votou Não em PL 2159/2021 (17/07/2025)."
+   },
+   "DF02": {
+    "v": 5,
+    "conf": "voto",
+    "nota": "Votou Sim em PEC 3/2021 (16/09/2025); Sim em PEC 3/2021 (16/09/2025)."
+   },
+   "G08": {
+    "v": 2,
+    "conf": "voto",
+    "nota": "Votou Não em PL 2162/2023 (17/09/2025); Não em PL 2162/2023 (10/12/2025)."
+   },
+   "G14": {
+    "v": 5,
+    "conf": "voto",
+    "nota": "Votou Sim em PEC 221/2019 (27/05/2026); Sim em PEC 221/2019 (27/05/2026)."
+   }
+  },
+  "perguntasFaltando": [
+   "G01",
+   "G02",
+   "G03",
+   "G05",
+   "G06",
+   "G09",
+   "G11",
+   "G12",
+   "G13",
+   "DF01",
+   "DF05",
+   "DF06"
+  ]
+ },
+ {
+  "id": 250002544355,
+  "cargoCod": 6,
+  "cargo": "Deputado Federal",
+  "nomeUrna": "RODRIGO GAMBALE",
+  "nomeCompleto": "RODRIGO GAMBALE VIEIRA",
+  "numero": 2077,
+  "partido": "PODE",
+  "coligacao": "PODE",
+  "situacao": "Deferido",
+  "ocupacao": "Deputado",
+  "incumbente": true,
+  "arrecadado": 1884100,
+  "anteriores": [
+   {
+    "ano": 2022,
+    "cargo": "Deputado Federal",
+    "local": "SÃO PAULO",
+    "partido": "PODE",
+    "resultado": "Eleito por média"
+   },
+   {
+    "ano": 2018,
+    "cargo": "Deputado Estadual",
+    "local": "SÃO PAULO",
+    "partido": "PSL",
+    "resultado": "Eleito por QP"
+   }
+  ],
+  "sites": [
+   "HTTPS://WWW.FACEBOOK.COM/SHARE/1EBEHYMKHU/?MIBEXTID=WWXIFR",
+   "HTTPS://WWW.INSTAGRAM.COM/RODRIGOGAMBALE?IGSH=MW92YJQWDDCXEJD0NQ==",
+   "https://www.instagram.com/rodrigogambale/",
+   "https://www.tiktok.com/@rodrigogambale",
+   "https://www.youtube.com/@RodrigoGambale/featured",
+   "https://www.facebook.com/rodrigogambaleoficial",
+   "https://rodrigogambale2077.com.br/",
+   "https://www.facebook.com/rodrigogambale/"
+  ],
+  "posicoesExistentes": {
+   "DF03": {
+    "v": 1,
+    "conf": "voto",
+    "nota": "Votou Não em PL 490/2007 (30/05/2023)."
+   },
+   "G10": {
+    "v": 2,
+    "conf": "voto",
+    "nota": "Votou Não em PL 2630/2020 (25/04/2023)."
+   },
+   "G04": {
+    "v": 4,
+    "conf": "voto",
+    "nota": "Votou Sim em PDL 3/2023 (06/12/2023)."
+   },
+   "G11": {
+    "v": 4,
+    "conf": "voto",
+    "nota": "Votou Sim em PL 1958/2021 (19/11/2024)."
+   },
+   "DF02": {
+    "v": 5,
+    "conf": "voto",
+    "nota": "Votou Sim em PEC 3/2021 (16/09/2025); Sim em PEC 3/2021 (16/09/2025)."
+   },
+   "G08": {
+    "v": 4,
+    "conf": "voto",
+    "nota": "Votou Sim em PL 2162/2023 (17/09/2025); Sim em PL 2162/2023 (10/12/2025)."
+   },
+   "G14": {
+    "v": 5,
+    "conf": "voto",
+    "nota": "Votou Sim em PEC 221/2019 (27/05/2026); Sim em PEC 221/2019 (27/05/2026)."
+   }
+  },
+  "perguntasFaltando": [
+   "G01",
+   "G02",
+   "G03",
+   "G05",
+   "G06",
+   "G07",
+   "G09",
+   "G12",
+   "G13",
+   "DF01",
+   "DF04",
+   "DF05",
+   "DF06"
+  ]
+ },
+ {
+  "id": 250002536757,
+  "cargoCod": 6,
+  "cargo": "Deputado Federal",
+  "nomeUrna": "JILMAR TATTO",
+  "nomeCompleto": "JILMAR AUGUSTINHO TATTO",
+  "numero": 1380,
+  "partido": "PT",
+  "coligacao": "FEDERAÇÃO BRASIL DA ESPERANÇA - FE BRASIL(13-PT/65-PC do B/43-PV)",
+  "situacao": "Deferido",
+  "ocupacao": "Outros",
+  "incumbente": true,
+  "arrecadado": 1869983.16,
+  "anteriores": [
+   {
+    "ano": 2022,
+    "cargo": "Deputado Federal",
+    "local": "SÃO PAULO",
+    "partido": "PT",
+    "resultado": "Eleito por QP"
+   },
+   {
+    "ano": 2020,
+    "cargo": "Prefeito",
+    "local": "SÃO PAULO",
+    "partido": "PT",
+    "resultado": "Não eleito"
+   },
+   {
+    "ano": 2018,
+    "cargo": "Senador",
+    "local": "SÃO PAULO",
+    "partido": "PT",
+    "resultado": "Não eleito"
+   },
+   {
+    "ano": 2010,
+    "cargo": "Deputado Federal",
+    "local": "SÃO PAULO",
+    "partido": "PT",
+    "resultado": "Eleito"
+   }
+  ],
+  "sites": [
+   "HTTPS://WWW.THREADS.COM/@JILMARTATTO",
+   "HTTPS://WWW.FACEBOOK.COM/JILMARTATTOSP/",
+   "HTTPS://WWW.FLICKR.COM/PHOTOS/161691764@N05/ALBUMS/",
+   "https://jilmartatto.com.br",
+   "https://www.tiktok.com/@jilmartatto",
+   "https://www.kwai.com/@jilmartattosp",
+   "HTTPS://X.COM/JILMARTATTO",
+   "HTTPS://WWW.INSTAGRAM.COM/JILMARTATTO/?HL=PT",
+   "HTTPS://WWW.WHATSAPP.COM/CHANNEL/0029VA5VKSQ11ULS6GJ6H41I",
+   "https://www.youtube.com/@jilmartatto13"
+  ],
+  "posicoesExistentes": {
+   "DF03": {
+    "v": 1,
+    "conf": "voto",
+    "nota": "Votou Não em PL 490/2007 (30/05/2023)."
+   },
+   "G10": {
+    "v": 4,
+    "conf": "voto",
+    "nota": "Votou Sim em PL 2630/2020 (25/04/2023)."
+   },
+   "G04": {
+    "v": 2,
+    "conf": "voto",
+    "nota": "Votou Não em PDL 3/2023 (06/12/2023)."
+   },
+   "G11": {
+    "v": 4,
+    "conf": "voto",
+    "nota": "Votou Sim em PL 1958/2021 (19/11/2024)."
+   },
+   "DF02": {
+    "v": 5,
+    "conf": "voto",
+    "nota": "Votou Sim em PEC 3/2021 (16/09/2025); Sim em PEC 3/2021 (16/09/2025)."
+   },
+   "G08": {
+    "v": 2,
+    "conf": "voto",
+    "nota": "Votou Não em PL 2162/2023 (17/09/2025); Não em PL 2162/2023 (10/12/2025)."
+   },
+   "G14": {
+    "v": 5,
+    "conf": "voto",
+    "nota": "Votou Sim em PEC 221/2019 (27/05/2026); Sim em PEC 221/2019 (27/05/2026)."
+   }
+  },
+  "perguntasFaltando": [
+   "G01",
+   "G02",
+   "G03",
+   "G05",
+   "G06",
+   "G07",
+   "G09",
+   "G12",
+   "G13",
+   "DF01",
+   "DF04",
+   "DF05",
+   "DF06"
+  ]
+ },
+ {
+  "id": 250002536764,
+  "cargoCod": 6,
+  "cargo": "Deputado Federal",
+  "nomeUrna": "NILTO TATTO",
+  "nomeCompleto": "NILTO IGNACIO TATTO",
+  "numero": 1353,
+  "partido": "PT",
+  "coligacao": "FEDERAÇÃO BRASIL DA ESPERANÇA - FE BRASIL(13-PT/65-PC do B/43-PV)",
+  "situacao": "Deferido",
+  "ocupacao": "Deputado",
+  "incumbente": true,
+  "arrecadado": 1841483.16,
+  "anteriores": [
+   {
+    "ano": 2022,
+    "cargo": "Deputado Federal",
+    "local": "SÃO PAULO",
+    "partido": "PT",
+    "resultado": "Eleito por QP"
+   },
+   {
+    "ano": 2018,
+    "cargo": "Deputado Federal",
+    "local": "SÃO PAULO",
+    "partido": "PT",
+    "resultado": "Eleito por QP"
+   },
+   {
+    "ano": 2014,
+    "cargo": "Deputado Federal",
+    "local": "SÃO PAULO",
+    "partido": "PT",
+    "resultado": "Eleito por QP"
+   }
+  ],
+  "sites": [
+   "HTTPS://WWW.TIKTOK.COM/@NILTOTATTO",
+   "HTTPS://WWW.NILTOTATTO.COM.BR/",
+   "https://www.flickr.com/photos/NiltoTatto/",
+   "https://www.youtube.com/NiltoTattoCanal",
+   "HTTPS://WWW.FACEBOOK.COM/NILTOTATTOSP/",
+   "HTTPS://X.COM/NILTOTATTO",
+   "https://chat.whatsapp.com/HAgouF6nt4jEF7HOJCMCHZ",
+   "HTTPS://T.ME/NILTOTATTO",
+   "HTTPS://WWW.INSTAGRAM.COM/NILTOTATTO/",
+   "https://www.threads.com/NiltoTatto"
+  ],
+  "posicoesExistentes": {
+   "DF03": {
+    "v": 1,
+    "conf": "voto",
+    "nota": "Votou Não em PL 490/2007 (30/05/2023)."
+   },
+   "G10": {
+    "v": 4,
+    "conf": "voto",
+    "nota": "Votou Sim em PL 2630/2020 (25/04/2023)."
+   },
+   "G04": {
+    "v": 2,
+    "conf": "voto",
+    "nota": "Votou Não em PDL 3/2023 (06/12/2023)."
+   },
+   "G11": {
+    "v": 4,
+    "conf": "voto",
+    "nota": "Votou Sim em PL 1958/2021 (19/11/2024)."
+   },
+   "DF04": {
+    "v": 1,
+    "conf": "voto",
+    "nota": "Votou Não em PL 2159/2021 (17/07/2025)."
+   },
+   "G07": {
+    "v": 4,
+    "conf": "voto",
+    "nota": "Votou Não em PL 2159/2021 (17/07/2025)."
+   },
+   "DF02": {
+    "v": 1,
+    "conf": "voto",
+    "nota": "Votou Não em PEC 3/2021 (16/09/2025); Não em PEC 3/2021 (16/09/2025)."
+   },
+   "G08": {
+    "v": 2,
+    "conf": "voto",
+    "nota": "Votou Não em PL 2162/2023 (17/09/2025); Não em PL 2162/2023 (10/12/2025)."
+   },
+   "G14": {
+    "v": 5,
+    "conf": "voto",
+    "nota": "Votou Sim em PEC 221/2019 (27/05/2026); Sim em PEC 221/2019 (27/05/2026)."
+   },
+   "G03": {
+    "v": 2,
+    "conf": "voto",
+    "nota": "Votou Não em PL 591/2021 (privatização dos Correios) (05/08/2021); Não em MP 1031/2021 (privatização da Eletrobras) (19/05/2021)."
+   },
+   "G01": {
+    "v": 2,
+    "conf": "voto",
+    "nota": "Votou Não em PEC 241/2016 (teto de gastos), 2º turno (25/10/2016)."
+   },
+   "G12": {
+    "v": 2,
+    "conf": "voto",
+    "nota": "Votou Não em PEC 171/1993 (maioridade penal para crimes graves), 2º turno (19/08/2015)."
+   }
+  },
+  "perguntasFaltando": [
+   "G02",
+   "G05",
+   "G06",
+   "G09",
+   "G13",
+   "DF01",
+   "DF05",
+   "DF06"
+  ]
+ },
+ {
+  "id": 250002544360,
+  "cargoCod": 6,
+  "cargo": "Deputado Federal",
+  "nomeUrna": "GILBERTO NASCIMENTO",
+  "nomeCompleto": "GILBERTO NASCIMENTO SILVA",
+  "numero": 2022,
+  "partido": "PODE",
+  "coligacao": "PODE",
+  "situacao": "Deferido",
+  "ocupacao": "Deputado",
+  "incumbente": true,
+  "arrecadado": 1812600,
+  "anteriores": [
+   {
+    "ano": 2022,
+    "cargo": "Deputado Federal",
+    "local": "SÃO PAULO",
+    "partido": "PSC",
+    "resultado": "Eleito por média"
+   },
+   {
+    "ano": 2018,
+    "cargo": "Deputado Federal",
+    "local": "SÃO PAULO",
+    "partido": "PSC",
+    "resultado": "Eleito por média"
+   },
+   {
+    "ano": 2014,
+    "cargo": "Deputado Federal",
+    "local": "SÃO PAULO",
+    "partido": "PSC",
+    "resultado": "Eleito por QP"
+   },
+   {
+    "ano": 2010,
+    "cargo": "2º Suplente Senador",
+    "local": "SÃO PAULO",
+    "partido": "PSDB",
+    "resultado": "Concorrendo"
+   }
+  ],
+  "sites": [
+   "HTTPS://WWW.THREADS.COM/@GNASCIMENTO",
+   "HTTPS://WEB.FACEBOOK.COM/GNASCIMENTOOFICIAL?_RDC=1&_RDR#",
+   "HTTPS://WWW.YOUTUBE.COM/@GNASCIMENTOOFICIAL",
+   "HTTPS://WWW.INSTAGRAM.COM/GNASCIMENTO",
+   "HTTPS://WWW.TIKTOK.COM/@GNASCIMENTOOFICIAL",
+   "https://GILBERTONASCIMENTO.COM.BR"
+  ],
+  "posicoesExistentes": {
+   "DF03": {
+    "v": 5,
+    "conf": "voto",
+    "nota": "Votou Sim em PL 490/2007 (30/05/2023)."
+   },
+   "G04": {
+    "v": 4,
+    "conf": "voto",
+    "nota": "Votou Sim em PDL 3/2023 (06/12/2023)."
+   },
+   "DF02": {
+    "v": 5,
+    "conf": "voto",
+    "nota": "Votou Sim em PEC 3/2021 (16/09/2025); Sim em PEC 3/2021 (16/09/2025)."
+   },
+   "G08": {
+    "v": 4,
+    "conf": "voto",
+    "nota": "Votou Sim em PL 2162/2023 (17/09/2025); Sim em PL 2162/2023 (10/12/2025)."
+   },
+   "G14": {
+    "v": 5,
+    "conf": "voto",
+    "nota": "Votou Sim em PEC 221/2019 (27/05/2026); Sim em PEC 221/2019 (27/05/2026)."
+   },
+   "G03": {
+    "v": 4,
+    "conf": "voto",
+    "nota": "Votou Sim em PL 591/2021 (privatização dos Correios) (05/08/2021)."
+   },
+   "G01": {
+    "v": 4,
+    "conf": "voto",
+    "nota": "Votou Sim em PEC 241/2016 (teto de gastos), 2º turno (25/10/2016)."
+   },
+   "G12": {
+    "v": 4,
+    "conf": "voto",
+    "nota": "Votou Sim em PEC 171/1993 (maioridade penal para crimes graves), 2º turno (19/08/2015)."
+   }
+  },
+  "perguntasFaltando": [
+   "G02",
+   "G05",
+   "G06",
+   "G07",
+   "G09",
+   "G10",
+   "G11",
+   "G13",
+   "DF01",
+   "DF04",
+   "DF05",
+   "DF06"
+  ]
+ },
+ {
+  "id": 250002541120,
+  "cargoCod": 6,
+  "cargo": "Deputado Federal",
+  "nomeUrna": "PAULO ALEXANDRE BARBOSA",
+  "nomeCompleto": "PAULO ALEXANDRE PEREIRA BARBOSA",
+  "numero": 5533,
+  "partido": "PSD",
+  "coligacao": "PSD",
+  "situacao": "Deferido",
+  "ocupacao": "Advogado",
+  "incumbente": true,
+  "arrecadado": 1794073.33,
+  "anteriores": [
+   {
+    "ano": 2022,
+    "cargo": "Deputado Federal",
+    "local": "SÃO PAULO",
+    "partido": "PSDB",
+    "resultado": "Eleito por QP"
+   },
+   {
+    "ano": 2016,
+    "cargo": "Prefeito",
+    "local": "SANTOS",
+    "partido": "PSDB",
+    "resultado": "Eleito"
+   },
+   {
+    "ano": 2012,
+    "cargo": "Prefeito",
+    "local": "SANTOS",
+    "partido": "PSDB",
+    "resultado": "Eleito"
+   },
+   {
+    "ano": 2010,
+    "cargo": "Deputado Estadual",
+    "local": "SÃO PAULO",
+    "partido": "PSDB",
+    "resultado": "Eleito"
+   }
+  ],
+  "sites": [
+   "https://x.com/pauloabarbosa",
+   "https://www.facebook.com/pauloalexandrebarbosapsd/",
+   "HTTPS://WWW.TIKTOK.COM/@PAULOALEXANDREBARBOSA",
+   "https://HTTPS://WWW.LINKEDIN.COM/IN/PAULO-ALEXANDRE-BARBOSA-38537A23? UTM_SOURCE=SHARE_V",
+   "HTTPS://PAULOALEXANDREBARBOSA.COM.BR/",
+   "https://www.kwai.com/@pauloalexandreb",
+   "HTTPS://WWW.INSTAGRAM.COM/PAULOALEXANDREBARBOSA/",
+   "HTTPS://WWW.YOUTUBE.COM/@PAULOALEXANDREBARBOSAPAB"
+  ],
+  "posicoesExistentes": {
+   "DF03": {
+    "v": 5,
+    "conf": "voto",
+    "nota": "Votou Sim em PL 490/2007 (30/05/2023)."
+   },
+   "G04": {
+    "v": 2,
+    "conf": "voto",
+    "nota": "Votou Não em PDL 3/2023 (06/12/2023)."
+   },
+   "G11": {
+    "v": 4,
+    "conf": "voto",
+    "nota": "Votou Sim em PL 1958/2021 (19/11/2024)."
+   },
+   "DF04": {
+    "v": 5,
+    "conf": "voto",
+    "nota": "Votou Sim em PL 2159/2021 (17/07/2025)."
+   },
+   "G07": {
+    "v": 2,
+    "conf": "voto",
+    "nota": "Votou Sim em PL 2159/2021 (17/07/2025)."
+   },
+   "DF02": {
+    "v": 1,
+    "conf": "voto",
+    "nota": "Votou Não em PEC 3/2021 (16/09/2025); Não em PEC 3/2021 (16/09/2025)."
+   },
+   "G08": {
+    "v": 3,
+    "conf": "voto",
+    "nota": "Votou Não em PL 2162/2023 (17/09/2025); Sim em PL 2162/2023 (10/12/2025)."
+   },
+   "G14": {
+    "v": 5,
+    "conf": "voto",
+    "nota": "Votou Sim em PEC 221/2019 (27/05/2026); Sim em PEC 221/2019 (27/05/2026)."
+   }
+  },
+  "perguntasFaltando": [
+   "G01",
+   "G02",
+   "G03",
+   "G05",
+   "G06",
+   "G09",
+   "G10",
+   "G12",
+   "G13",
+   "DF01",
+   "DF05",
+   "DF06"
+  ]
+ },
+ {
+  "id": 250002544346,
+  "cargoCod": 6,
+  "cargo": "Deputado Federal",
+  "nomeUrna": "BRUNO GANEM",
+  "nomeCompleto": "BRUNO AREVALO GANEM",
+  "numero": 2010,
+  "partido": "PODE",
+  "coligacao": "PODE",
+  "situacao": "Deferido",
+  "ocupacao": "Deputado",
+  "incumbente": true,
+  "arrecadado": 1695000,
+  "anteriores": [
+   {
+    "ano": 2024,
+    "cargo": "Prefeito",
+    "local": "INDAIATUBA",
+    "partido": "PODE",
+    "resultado": "Não eleito"
+   },
+   {
+    "ano": 2022,
+    "cargo": "Deputado Federal",
+    "local": "SÃO PAULO",
+    "partido": "PODE",
+    "resultado": "Eleito por QP"
+   },
+   {
+    "ano": 2020,
+    "cargo": "Prefeito",
+    "local": "INDAIATUBA",
+    "partido": "PODE",
+    "resultado": "Não eleito"
+   },
+   {
+    "ano": 2018,
+    "cargo": "Deputado Estadual",
+    "local": "SÃO PAULO",
+    "partido": "PODE",
+    "resultado": "Eleito por QP"
+   }
+  ],
+  "sites": [
+   "HTTPS://WWW.INSTAGRAM.COM/BRUNOGANEM.FIBROMIALGIA/",
+   "HTTPS://WWW.FACEBOOK.COM/INDAIATUBA.BRUNOGANEM/",
+   "HTTPS://WWW.INSTAGRAM.COM/BRUNOGANEM.AUTISMO/",
+   "HTTPS://WWW.FACEBOOK.COM/BRUNOGANEM.SEGURANCA/",
+   "HTTPS://WWW.INSTAGRAM.COM/BRUNOGANEM.ATUALIDADES/",
+   "https://www.facebook.com/brunoganem.com.br",
+   "HTTPS://WWW.FACEBOOK.COM/BRUNOGANEM.FIBROMIALGIA",
+   "HTTPS://WWW.INSTAGRAM.COM/BRUNOGANEM.ONCOLOGIA/",
+   "HTTPS://WWW.TIKTOK.COM/@BRUNOGANEMSP",
+   "HTTPS://WWW.INSTAGRAM.COM/BRUNOGANEM.INDAIA/",
+   "HTTPS://WWW.INSTAGRAM.COM/BRUNOGANEM.SEGURANCA/",
+   "HTTPS://WWW.FACEBOOK.COM/BRUNOGANEMSP",
+   "HTTPS://WWW.INSTAGRAM.COM/BRUNOGANEMSP/",
+   "HTTPS://WWW.YOUTUBE.COM/@BRUNOGANEMSP",
+   "HTTPS://WWW.FACEBOOK.COM/BRUNOGANEM.ONCOLOGIA/",
+   "http://materialganem.com.br/",
+   "HTTPS://WWW.FACEBOOK.COM/BRUNOGANEM.AUTISMO",
+   "HTTPS://WWW.INSTAGRAM.COM/BRUNOGANEMNAAVIACAO/"
+  ],
+  "posicoesExistentes": {
+   "DF03": {
+    "v": 1,
+    "conf": "voto",
+    "nota": "Votou Não em PL 490/2007 (30/05/2023)."
+   },
+   "G10": {
+    "v": 2,
+    "conf": "voto",
+    "nota": "Votou Não em PL 2630/2020 (25/04/2023)."
+   },
+   "G04": {
+    "v": 4,
+    "conf": "voto",
+    "nota": "Votou Sim em PDL 3/2023 (06/12/2023)."
+   },
+   "DF04": {
+    "v": 1,
+    "conf": "voto",
+    "nota": "Votou Não em PL 2159/2021 (17/07/2025)."
+   },
+   "G07": {
+    "v": 4,
+    "conf": "voto",
+    "nota": "Votou Não em PL 2159/2021 (17/07/2025)."
+   },
+   "DF02": {
+    "v": 5,
+    "conf": "voto",
+    "nota": "Votou Sim em PEC 3/2021 (16/09/2025); Sim em PEC 3/2021 (16/09/2025)."
+   },
+   "G08": {
+    "v": 4,
+    "conf": "voto",
+    "nota": "Votou Sim em PL 2162/2023 (10/12/2025)."
+   },
+   "G14": {
+    "v": 5,
+    "conf": "voto",
+    "nota": "Votou Sim em PEC 221/2019 (27/05/2026); Sim em PEC 221/2019 (27/05/2026)."
+   }
+  },
+  "perguntasFaltando": [
+   "G01",
+   "G02",
+   "G03",
+   "G05",
+   "G06",
+   "G09",
+   "G11",
+   "G12",
+   "G13",
+   "DF01",
+   "DF05",
+   "DF06"
+  ]
+ },
+ {
+  "id": 250002544326,
+  "cargoCod": 6,
+  "cargo": "Deputado Federal",
+  "nomeUrna": "FELIPE BECARI",
+  "nomeCompleto": "FELIPE BECARI COMENALE",
+  "numero": 2007,
+  "partido": "PODE",
+  "coligacao": "PODE",
+  "situacao": "Deferido",
+  "ocupacao": "Deputado",
+  "incumbente": true,
+  "arrecadado": 1645000,
+  "anteriores": [
+   {
+    "ano": 2022,
+    "cargo": "Deputado Federal",
+    "local": "SÃO PAULO",
+    "partido": "UNIÃO",
+    "resultado": "Eleito por QP"
+   },
+   {
+    "ano": 2020,
+    "cargo": "Vereador",
+    "local": "SÃO PAULO",
+    "partido": "PSD",
+    "resultado": "Eleito por QP"
+   }
+  ],
+  "sites": [
+   "https://WWW.BRASILCONTRAMAUSTRATOS.COM.BR",
+   "HTTPS://WWW.YOUTUBE.COM/@FELIPEBECARIOFICIAL",
+   "HTTPS://WWW.INSTAGRAM.COM/FELIPEBECARI/",
+   "HTTPS://T.ME/+NZVIVRM-SN9LODIX",
+   "HTTPS://WWW.KWAI.COM/@FELIPEBECARIOFICIAL",
+   "HTTPS://WWW.FACEBOOK.COM/FELIPEBECARISP/",
+   "https://WWW.DEPFELIPEBECARI.COM.BR",
+   "HTTPS://WWW.TIKTOK.COM/@FELIPEBECARI?LANG=EN",
+   "HTTPS://WWW.THREADS.COM/@FELIPEBECARI",
+   "HTTPS://WWW.INSTAGRAM.COM/BRASILCONTRAMAUSTRATOS/",
+   "HTTPS://X.COM/FELIPEBECARI",
+   "HTTPS://WWW.INSTAGRAM.COM/ADOCOESFELIPEBECARI/",
+   "https://WWW.FELIPEBECARI.COM.BR",
+   "HTTPS://WA.ME/5511947690040"
+  ],
+  "posicoesExistentes": {
+   "DF03": {
+    "v": 1,
+    "conf": "voto",
+    "nota": "Votou Não em PL 490/2007 (30/05/2023)."
+   },
+   "G04": {
+    "v": 2,
+    "conf": "voto",
+    "nota": "Votou Não em PDL 3/2023 (06/12/2023)."
+   },
+   "DF04": {
+    "v": 1,
+    "conf": "voto",
+    "nota": "Votou Não em PL 2159/2021 (17/07/2025)."
+   },
+   "G07": {
+    "v": 4,
+    "conf": "voto",
+    "nota": "Votou Não em PL 2159/2021 (17/07/2025)."
+   },
+   "DF02": {
+    "v": 5,
+    "conf": "voto",
+    "nota": "Votou Sim em PEC 3/2021 (16/09/2025); Sim em PEC 3/2021 (16/09/2025)."
+   },
+   "G08": {
+    "v": 4,
+    "conf": "voto",
+    "nota": "Votou Sim em PL 2162/2023 (17/09/2025); Sim em PL 2162/2023 (10/12/2025)."
+   },
+   "G14": {
+    "v": 5,
+    "conf": "voto",
+    "nota": "Votou Sim em PEC 221/2019 (27/05/2026); Sim em PEC 221/2019 (27/05/2026)."
+   }
+  },
+  "perguntasFaltando": [
+   "G01",
+   "G02",
+   "G03",
+   "G05",
+   "G06",
+   "G09",
+   "G10",
+   "G11",
+   "G12",
+   "G13",
+   "DF01",
+   "DF05",
+   "DF06"
+  ]
+ },
+ {
+  "id": 250002537969,
+  "cargoCod": 6,
+  "cargo": "Deputado Federal",
+  "nomeUrna": "CELSO RUSSOMANNO",
+  "nomeCompleto": "CELSO UBIRAJARA RUSSOMANNO",
+  "numero": 1000,
+  "partido": "REPUBLICANOS",
+  "coligacao": "REPUBLICANOS",
+  "situacao": "Deferido",
+  "ocupacao": "Jornalista e Redator",
+  "incumbente": true,
+  "arrecadado": 1630000,
+  "anteriores": [
+   {
+    "ano": 2022,
+    "cargo": "Deputado Federal",
+    "local": "SÃO PAULO",
+    "partido": "REPUBLICANOS",
+    "resultado": "Eleito por QP"
+   },
+   {
+    "ano": 2020,
+    "cargo": "Prefeito",
+    "local": "SÃO PAULO",
+    "partido": "REPUBLICANOS",
+    "resultado": "Não eleito"
+   },
+   {
+    "ano": 2018,
+    "cargo": "Deputado Federal",
+    "local": "SÃO PAULO",
+    "partido": "PRB",
+    "resultado": "Eleito por QP"
+   },
+   {
+    "ano": 2016,
+    "cargo": "Prefeito",
+    "local": "SÃO PAULO",
+    "partido": "PRB",
+    "resultado": "Não eleito"
+   }
+  ],
+  "sites": [
+   "https://celsorussomanno.com.br/",
+   "https://www.instagram.com/celsorussomanno/",
+   "https://www.facebook.com/share/17kM75skJY/",
+   "https://celsorussomanno.com.br/denuncie/",
+   "https://www.tiktok.com/@patrulha.celsorussomanno",
+   "https://santinho.criativoestilo.com.br/"
+  ],
+  "posicoesExistentes": {
+   "G10": {
+    "v": 4,
+    "conf": "voto",
+    "nota": "Votou Sim em PL 2630/2020 (25/04/2023)."
+   },
+   "G04": {
+    "v": 4,
+    "conf": "voto",
+    "nota": "Votou Sim em PDL 3/2023 (06/12/2023)."
+   },
+   "G11": {
+    "v": 4,
+    "conf": "voto",
+    "nota": "Votou Sim em PL 1958/2021 (19/11/2024)."
+   },
+   "DF04": {
+    "v": 5,
+    "conf": "voto",
+    "nota": "Votou Sim em PL 2159/2021 (17/07/2025)."
+   },
+   "G07": {
+    "v": 2,
+    "conf": "voto",
+    "nota": "Votou Sim em PL 2159/2021 (17/07/2025)."
+   },
+   "DF02": {
+    "v": 5,
+    "conf": "voto",
+    "nota": "Votou Sim em PEC 3/2021 (16/09/2025); Sim em PEC 3/2021 (16/09/2025)."
+   },
+   "G08": {
+    "v": 4,
+    "conf": "voto",
+    "nota": "Votou Sim em PL 2162/2023 (17/09/2025); Sim em PL 2162/2023 (10/12/2025)."
+   },
+   "G14": {
+    "v": 5,
+    "conf": "voto",
+    "nota": "Votou Sim em PEC 221/2019 (27/05/2026); Sim em PEC 221/2019 (27/05/2026)."
+   },
+   "G03": {
+    "v": 4,
+    "conf": "voto",
+    "nota": "Votou Sim em PL 591/2021 (privatização dos Correios) (05/08/2021); Sim em MP 1031/2021 (privatização da Eletrobras) (19/05/2021)."
+   },
+   "G01": {
+    "v": 4,
+    "conf": "voto",
+    "nota": "Votou Sim em PEC 241/2016 (teto de gastos), 2º turno (25/10/2016)."
+   },
+   "G12": {
+    "v": 4,
+    "conf": "voto",
+    "nota": "Votou Sim em PEC 171/1993 (maioridade penal para crimes graves), 2º turno (19/08/2015)."
+   }
+  },
+  "perguntasFaltando": [
+   "G02",
+   "G05",
+   "G06",
+   "G09",
+   "G13",
+   "DF01",
+   "DF03",
+   "DF05",
+   "DF06"
+  ]
+ },
+ {
+  "id": 250002544834,
+  "cargoCod": 6,
+  "cargo": "Deputado Federal",
+  "nomeUrna": "DAVID RR SOARES",
+  "nomeCompleto": "DAVID BEZERRA RIBEIRO SOARES",
+  "numero": 2030,
+  "partido": "PODE",
+  "coligacao": "PODE",
+  "situacao": "Deferido",
+  "ocupacao": "Deputado",
+  "incumbente": true,
+  "arrecadado": 1628500,
+  "anteriores": [
+   {
+    "ano": 2022,
+    "cargo": "Deputado Federal",
+    "local": "SÃO PAULO",
+    "partido": "UNIÃO",
+    "resultado": "Eleito por QP"
+   },
+   {
+    "ano": 2018,
+    "cargo": "Deputado Federal",
+    "local": "SÃO PAULO",
+    "partido": "DEM",
+    "resultado": "Eleito por média"
+   },
+   {
+    "ano": 2016,
+    "cargo": "Vereador",
+    "local": "SÃO PAULO",
+    "partido": "DEM",
+    "resultado": "Eleito por média"
+   },
+   {
+    "ano": 2012,
+    "cargo": "Vereador",
+    "local": "SÃO PAULO",
+    "partido": "PSD",
+    "resultado": "Eleito por QP"
+   }
+  ],
+  "sites": [
+   "HTTPS://WWW.INSTAGRAM.COM/DAVIDBRSOARES/",
+   "https://www.facebook.com/davidbrsoares",
+   "https://api.whatsapp.com/send/?phone=5511983004105",
+   "https://www.instagram.com/davidbrsoares/",
+   "https://apoie.davidrrsoares2030.com/",
+   "https://www.tiktok.com/@davidbrsoares",
+   "https://www.davidrrsoares2030.com/",
+   "https://chat.whatsapp.com/GEegP0fs2EjKybVi7kqjVG",
+   "https://br.linkedin.com/in/david-soares-b5961325b",
+   "https://links.davidrrsoares2030.com/",
+   "https://lideranca.davidrrsoares2030.com/",
+   "https://www.youtube.com/@depdavidbrsoares",
+   "https://k.kwai.com/u/@davidrrsoares26/CzKzUNI9"
+  ],
+  "posicoesExistentes": {
+   "DF03": {
+    "v": 5,
+    "conf": "voto",
+    "nota": "Votou Sim em PL 490/2007 (30/05/2023)."
+   },
+   "G04": {
+    "v": 4,
+    "conf": "voto",
+    "nota": "Votou Sim em PDL 3/2023 (06/12/2023)."
+   },
+   "DF02": {
+    "v": 5,
+    "conf": "voto",
+    "nota": "Votou Sim em PEC 3/2021 (16/09/2025); Sim em PEC 3/2021 (16/09/2025)."
+   },
+   "G08": {
+    "v": 4,
+    "conf": "voto",
+    "nota": "Votou Sim em PL 2162/2023 (17/09/2025); Sim em PL 2162/2023 (10/12/2025)."
+   },
+   "G14": {
+    "v": 5,
+    "conf": "voto",
+    "nota": "Votou Sim em PEC 221/2019 (27/05/2026); Sim em PEC 221/2019 (27/05/2026)."
+   },
+   "G03": {
+    "v": 4,
+    "conf": "voto",
+    "nota": "Votou Sim em PL 591/2021 (privatização dos Correios) (05/08/2021); Sim em MP 1031/2021 (privatização da Eletrobras) (19/05/2021)."
+   }
+  },
+  "perguntasFaltando": [
+   "G01",
+   "G02",
+   "G05",
+   "G06",
+   "G07",
+   "G09",
+   "G10",
+   "G11",
+   "G12",
+   "G13",
+   "DF01",
+   "DF04",
+   "DF05",
+   "DF06"
+  ]
+ },
+ {
+  "id": 250002537976,
+  "cargoCod": 6,
+  "cargo": "Deputado Federal",
+  "nomeUrna": "MILTON VIEIRA",
+  "nomeCompleto": "MILTON VIEIRA PINTO",
+  "numero": 1055,
+  "partido": "REPUBLICANOS",
+  "coligacao": "REPUBLICANOS",
+  "situacao": "Deferido",
+  "ocupacao": "Deputado",
+  "incumbente": true,
+  "arrecadado": 1480000,
+  "anteriores": [
+   {
+    "ano": 2022,
+    "cargo": "Deputado Federal",
+    "local": "SÃO PAULO",
+    "partido": "REPUBLICANOS",
+    "resultado": "Eleito por QP"
+   },
+   {
+    "ano": 2018,
+    "cargo": "Deputado Federal",
+    "local": "SÃO PAULO",
+    "partido": "PRB",
+    "resultado": "Eleito por QP"
+   },
+   {
+    "ano": 2014,
+    "cargo": "Deputado Estadual",
+    "local": "SÃO PAULO",
+    "partido": "PSD",
+    "resultado": "Eleito por QP"
+   },
+   {
+    "ano": 2010,
+    "cargo": "Deputado Federal",
+    "local": "SÃO PAULO",
+    "partido": "DEM",
+    "resultado": "Concorrendo"
+   }
+  ],
+  "sites": [
+   "HTTPS://WWW.YOUTUBE.COM/@MILTONVIEIRAOFICIAL",
+   "HTTPS://WWW.FACEBOOK.COM/MILTONVIEIRAOFICIAL",
+   "HTTPS://X.COM/MILTONVIEIRAOFC",
+   "HTTPS://WWW.INSTAGRAM.COM/MILTONVIEIRAOFICIAL/?HL=PT-BR",
+   "HTTPS://MILTONVIEIRA.COM.BR/"
+  ],
+  "posicoesExistentes": {
+   "G14": {
+    "v": 5,
+    "conf": "voto",
+    "nota": "Votou Sim em PEC 221/2019 (27/05/2026); Sim em PEC 221/2019 (27/05/2026)."
+   },
+   "G03": {
+    "v": 4,
+    "conf": "voto",
+    "nota": "Votou Sim em MP 1031/2021 (privatização da Eletrobras) (19/05/2021)."
+   }
+  },
+  "perguntasFaltando": [
+   "G01",
+   "G02",
+   "G04",
+   "G05",
+   "G06",
+   "G07",
+   "G08",
+   "G09",
+   "G10",
+   "G11",
+   "G12",
+   "G13",
+   "DF01",
+   "DF02",
+   "DF03",
+   "DF04",
+   "DF05",
+   "DF06"
+  ]
+ },
+ {
+  "id": 250002535980,
+  "cargoCod": 6,
+  "cargo": "Deputado Federal",
+  "nomeUrna": "MARCIO ALVINO",
+  "nomeCompleto": "MARCIO LUIZ ALVINO DE SOUZA",
+  "numero": 2299,
+  "partido": "PL",
+  "coligacao": "PL",
+  "situacao": "Deferido",
+  "ocupacao": "Administrador",
+  "incumbente": true,
+  "arrecadado": 1410637.81,
+  "anteriores": [
+   {
+    "ano": 2022,
+    "cargo": "Deputado Federal",
+    "local": "SÃO PAULO",
+    "partido": "PL",
+    "resultado": "Eleito por QP"
+   },
+   {
+    "ano": 2018,
+    "cargo": "Deputado Federal",
+    "local": "SÃO PAULO",
+    "partido": "PR",
+    "resultado": "Eleito por QP"
+   },
+   {
+    "ano": 2014,
+    "cargo": "Deputado Federal",
+    "local": "SÃO PAULO",
+    "partido": "PR",
+    "resultado": "Eleito por QP"
+   },
+   {
+    "ano": 2012,
+    "cargo": "Prefeito",
+    "local": "GUARAREMA",
+    "partido": "PR",
+    "resultado": "Eleito"
+   }
+  ],
+  "sites": [
+   "HTTPS://WWW.INSTAGRAM.COM/MARCIOALVINO",
+   "HTTPS://WWW.TIKTOK.COM/@MARCIOALVINOSP",
+   "HTTPS://WWW.LINKEDIN.COM/IN/MARCIOALVINO",
+   "HTTPS://WWW.YOUTUBE.COM/@MARCIOALVINOSP",
+   "HTTPS://WWW.FACEBOOK.COM/MARCIOALVINO",
+   "HTTPS://X.COM/MARCIOALVINOSP"
+  ],
+  "posicoesExistentes": {
+   "DF03": {
+    "v": 5,
+    "conf": "voto",
+    "nota": "Votou Sim em PL 490/2007 (30/05/2023)."
+   },
+   "G10": {
+    "v": 2,
+    "conf": "voto",
+    "nota": "Votou Não em PL 2630/2020 (25/04/2023)."
+   },
+   "G04": {
+    "v": 4,
+    "conf": "voto",
+    "nota": "Votou Sim em PDL 3/2023 (06/12/2023)."
+   },
+   "G11": {
+    "v": 2,
+    "conf": "voto",
+    "nota": "Votou Não em PL 1958/2021 (19/11/2024)."
+   },
+   "DF04": {
+    "v": 5,
+    "conf": "voto",
+    "nota": "Votou Sim em PL 2159/2021 (17/07/2025)."
+   },
+   "G07": {
+    "v": 2,
+    "conf": "voto",
+    "nota": "Votou Sim em PL 2159/2021 (17/07/2025)."
+   },
+   "DF02": {
+    "v": 5,
+    "conf": "voto",
+    "nota": "Votou Sim em PEC 3/2021 (16/09/2025); Sim em PEC 3/2021 (16/09/2025)."
+   },
+   "G08": {
+    "v": 4,
+    "conf": "voto",
+    "nota": "Votou Sim em PL 2162/2023 (17/09/2025); Sim em PL 2162/2023 (10/12/2025)."
+   },
+   "G14": {
+    "v": 5,
+    "conf": "voto",
+    "nota": "Votou Sim em PEC 221/2019 (27/05/2026); Sim em PEC 221/2019 (27/05/2026)."
+   },
+   "G03": {
+    "v": 4,
+    "conf": "voto",
+    "nota": "Votou Sim em PL 591/2021 (privatização dos Correios) (05/08/2021); Sim em MP 1031/2021 (privatização da Eletrobras) (19/05/2021)."
+   },
+   "G01": {
+    "v": 4,
+    "conf": "voto",
+    "nota": "Votou Sim em PEC 241/2016 (teto de gastos), 2º turno (25/10/2016)."
+   },
+   "G12": {
+    "v": 4,
+    "conf": "voto",
+    "nota": "Votou Sim em PEC 171/1993 (maioridade penal para crimes graves), 2º turno (19/08/2015)."
+   }
+  },
+  "perguntasFaltando": [
+   "G02",
+   "G05",
+   "G06",
+   "G09",
+   "G13",
+   "DF01",
+   "DF05",
+   "DF06"
+  ]
+ },
+ {
+  "id": 250002544356,
+  "cargoCod": 6,
+  "cargo": "Deputado Federal",
+  "nomeUrna": "MARANGONI",
+  "nomeCompleto": "FERNANDO JOSE DE SOUZA MARANGONI",
+  "numero": 2044,
+  "partido": "PODE",
+  "coligacao": "PODE",
+  "situacao": "Deferido",
+  "ocupacao": "Deputado",
+  "incumbente": true,
+  "arrecadado": 967000,
+  "anteriores": [
+   {
+    "ano": 2022,
+    "cargo": "Deputado Federal",
+    "local": "SÃO PAULO",
+    "partido": "UNIÃO",
+    "resultado": "Eleito por média"
+   }
+  ],
+  "sites": [
+   "HTTPS://WWW.INSTAGRAM.COM/MARANGONI.OFICIAL?IGSH=MW5PAG52AXMYOWHWZG=="
+  ],
+  "posicoesExistentes": {
+   "DF03": {
+    "v": 5,
+    "conf": "voto",
+    "nota": "Votou Sim em PL 490/2007 (30/05/2023)."
+   },
+   "G10": {
+    "v": 4,
+    "conf": "voto",
+    "nota": "Votou Sim em PL 2630/2020 (25/04/2023)."
+   },
+   "G04": {
+    "v": 4,
+    "conf": "voto",
+    "nota": "Votou Sim em PDL 3/2023 (06/12/2023)."
+   },
+   "DF04": {
+    "v": 5,
+    "conf": "voto",
+    "nota": "Votou Sim em PL 2159/2021 (17/07/2025)."
+   },
+   "G07": {
+    "v": 2,
+    "conf": "voto",
+    "nota": "Votou Sim em PL 2159/2021 (17/07/2025)."
+   },
+   "DF02": {
+    "v": 5,
+    "conf": "voto",
+    "nota": "Votou Sim em PEC 3/2021 (16/09/2025); Sim em PEC 3/2021 (16/09/2025)."
+   },
+   "G08": {
+    "v": 4,
+    "conf": "voto",
+    "nota": "Votou Sim em PL 2162/2023 (17/09/2025); Sim em PL 2162/2023 (10/12/2025)."
+   },
+   "G14": {
+    "v": 5,
+    "conf": "voto",
+    "nota": "Votou Sim em PEC 221/2019 (27/05/2026); Sim em PEC 221/2019 (27/05/2026)."
+   }
+  },
+  "perguntasFaltando": [
+   "G01",
+   "G02",
+   "G03",
+   "G05",
+   "G06",
+   "G09",
+   "G11",
+   "G12",
+   "G13",
+   "DF01",
+   "DF05",
+   "DF06"
+  ]
+ },
+ {
+  "id": 250002550395,
+  "cargoCod": 6,
+  "cargo": "Deputado Federal",
+  "nomeUrna": "ALEX MANENTE",
+  "nomeCompleto": "ALEX SPINELLI MANENTE",
+  "numero": 2323,
+  "partido": "CIDADANIA",
+  "coligacao": "FEDERAÇÃO PSDB CIDADANIA(45-PSDB/23-CIDADANIA)",
+  "situacao": "Deferido",
+  "ocupacao": "Deputado",
+  "incumbente": true,
+  "arrecadado": 792805.51,
+  "anteriores": [
+   {
+    "ano": 2024,
+    "cargo": "Prefeito",
+    "local": "SÃO BERNARDO DO CAMPO",
+    "partido": "CIDADANIA",
+    "resultado": "2º turno"
+   },
+   {
+    "ano": 2022,
+    "cargo": "Deputado Federal",
+    "local": "SÃO PAULO",
+    "partido": "CIDADANIA",
+    "resultado": "Eleito por QP"
+   },
+   {
+    "ano": 2018,
+    "cargo": "Deputado Federal",
+    "local": "SÃO PAULO",
+    "partido": "PPS",
+    "resultado": "Eleito por QP"
+   },
+   {
+    "ano": 2016,
+    "cargo": "Prefeito",
+    "local": "SÃO BERNARDO DO CAMPO",
+    "partido": "PPS",
+    "resultado": "2º turno"
+   }
+  ],
+  "sites": [
+   "https://alexmanente.com.br",
+   "HTTPS://WWW.TIKTOK.COM/@ALEXMANENTE",
+   "HTTPS://WWW.INSTAGRAM.COM/ALEXMANENTE/?HL=PT",
+   "HTTPS://WWW.YOUTUBE.COM/C/ALEXMANENTEOFICIAL",
+   "HTTPS://WWW.THREADS.COM/@ALEXMANENTE",
+   "HTTPS://X.COM/ALEXMANENTE23",
+   "HTTPS://WWW.FACEBOOK.COM/ALEXMANENTE/?LOCALE=PT_BR"
+  ],
+  "posicoesExistentes": {
+   "G10": {
+    "v": 2,
+    "conf": "voto",
+    "nota": "Votou Não em PL 2630/2020 (25/04/2023)."
+   },
+   "DF02": {
+    "v": 5,
+    "conf": "voto",
+    "nota": "Votou Sim em PEC 3/2021 (16/09/2025); Sim em PEC 3/2021 (16/09/2025)."
+   },
+   "G08": {
+    "v": 4,
+    "conf": "voto",
+    "nota": "Votou Sim em PL 2162/2023 (17/09/2025); Sim em PL 2162/2023 (10/12/2025)."
+   },
+   "G14": {
+    "v": 5,
+    "conf": "voto",
+    "nota": "Votou Sim em PEC 221/2019 (27/05/2026); Sim em PEC 221/2019 (27/05/2026)."
+   },
+   "G03": {
+    "v": 4,
+    "conf": "voto",
+    "nota": "Votou Sim em PL 591/2021 (privatização dos Correios) (05/08/2021); Sim em MP 1031/2021 (privatização da Eletrobras) (19/05/2021)."
+   },
+   "G12": {
+    "v": 4,
+    "conf": "voto",
+    "nota": "Votou Sim em PEC 171/1993 (maioridade penal para crimes graves), 2º turno (19/08/2015)."
+   }
+  },
+  "perguntasFaltando": [
+   "G01",
+   "G02",
+   "G04",
+   "G05",
+   "G06",
+   "G07",
+   "G09",
+   "G11",
+   "G13",
+   "DF01",
+   "DF03",
+   "DF04",
+   "DF05",
+   "DF06"
+  ]
+ },
+ {
+  "id": 250002546642,
+  "cargoCod": 6,
+  "cargo": "Deputado Federal",
+  "nomeUrna": "KIM KATAGUIRI",
+  "nomeCompleto": "KIM PATROCA KATAGUIRI",
+  "numero": 1414,
+  "partido": "MISSÃO",
+  "coligacao": "MISSÃO",
+  "situacao": "Deferido",
+  "ocupacao": "Deputado",
+  "incumbente": true,
+  "arrecadado": 452008.78,
+  "anteriores": [
+   {
+    "ano": 2022,
+    "cargo": "Deputado Federal",
+    "local": "SÃO PAULO",
+    "partido": "UNIÃO",
+    "resultado": "Eleito por QP"
+   },
+   {
+    "ano": 2018,
+    "cargo": "Deputado Federal",
+    "local": "SÃO PAULO",
+    "partido": "DEM",
+    "resultado": "Eleito por QP"
+   }
+  ],
+  "sites": [
+   "https://x.com/KimKataguiri",
+   "https://www.youtube.com/@kimkataguiri",
+   "https://KIMKATAGUIRI.COM.BR",
+   "https://@KIMKATAGUIRI",
+   "https://www.facebook.com/kimkataguiri",
+   "https://www.twitch.tv/kimkataguiri",
+   "https://www.instagram.com/kimkataguiri",
+   "https://www.tiktok.com/@kimkataguiri",
+   "https://k.kwai.com/u/@kimkataguiri/zsCM62lw"
+  ],
+  "posicoesExistentes": {
+   "DF03": {
+    "v": 5,
+    "conf": "voto",
+    "nota": "Votou Sim em PL 490/2007 (30/05/2023)."
+   },
+   "G10": {
+    "v": 2,
+    "conf": "voto",
+    "nota": "Votou Não em PL 2630/2020 (25/04/2023)."
+   },
+   "G04": {
+    "v": 4,
+    "conf": "voto",
+    "nota": "Votou Sim em PDL 3/2023 (06/12/2023)."
+   },
+   "G11": {
+    "v": 2,
+    "conf": "voto",
+    "nota": "Votou Não em PL 1958/2021 (19/11/2024)."
+   },
+   "DF04": {
+    "v": 5,
+    "conf": "voto",
+    "nota": "Votou Sim em PL 2159/2021 (17/07/2025)."
+   },
+   "G07": {
+    "v": 2,
+    "conf": "voto",
+    "nota": "Votou Sim em PL 2159/2021 (17/07/2025)."
+   },
+   "DF02": {
+    "v": 1,
+    "conf": "voto",
+    "nota": "Votou Não em PEC 3/2021 (16/09/2025); Não em PEC 3/2021 (16/09/2025)."
+   },
+   "G08": {
+    "v": 4,
+    "conf": "voto",
+    "nota": "Votou Sim em PL 2162/2023 (17/09/2025); Sim em PL 2162/2023 (10/12/2025)."
+   },
+   "G14": {
+    "v": 1,
+    "conf": "voto",
+    "nota": "Votou Não em PEC 221/2019 (27/05/2026); Não em PEC 221/2019 (27/05/2026)."
+   },
+   "G03": {
+    "v": 3,
+    "conf": "voto",
+    "nota": "Votou Sim em PL 591/2021 (privatização dos Correios) (05/08/2021); Não em MP 1031/2021 (privatização da Eletrobras) (19/05/2021)."
+   }
+  },
+  "perguntasFaltando": [
+   "G01",
+   "G02",
+   "G05",
+   "G06",
+   "G09",
+   "G12",
+   "G13",
+   "DF01",
+   "DF05",
+   "DF06"
+  ]
+ }
+]

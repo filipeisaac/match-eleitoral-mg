@@ -90,7 +90,7 @@
       "titulo": "Presidente",
       "cargoCod": 1,
       "vagas": 1,
-      "mostrar": 3,
+      "mostrar": 2,
       "descricao": "Chefia o governo federal e representa o país. Sanciona ou veta as leis aprovadas pelo Congresso, edita medidas provisórias, envia o orçamento da União, nomeia os ministros, indica os ministros do STF (que o Senado precisa aprovar), comanda as Forças Armadas e conduz a política externa. Mandato de 4 anos, com direito a uma reeleição.",
       "perguntas": [
         {
@@ -126,51 +126,11 @@
       ]
     },
     {
-      "id": "governador",
-      "titulo": "Governador de Minas",
-      "cargoCod": 3,
-      "vagas": 1,
-      "mostrar": 3,
-      "descricao": "Chefia o governo de Minas Gerais. Comanda as polícias Militar e Civil e os presídios, mantém as escolas estaduais (sobretudo o ensino médio) e a rede estadual de hospitais, cuida das rodovias estaduais e arrecada o ICMS, o principal imposto do estado. Define o orçamento com a Assembleia e sanciona ou veta as leis estaduais. Minas deve cerca de R$ 186 bilhões à União, renegociados em 30 anos em 2025, o que limita o que o governador pode gastar.",
-      "perguntas": [
-        {
-          "id": "GV01",
-          "texto": "A Cemig deve ser privatizada.",
-          "contexto": "A Cemig distribui energia em quase todo o estado e é controlada pelo governo de Minas. A Copasa, de saneamento, já foi privatizada em junho de 2026."
-        },
-        {
-          "id": "GV02",
-          "texto": "Policiais militares devem usar câmeras corporais durante o serviço.",
-          "contexto": "Defensores citam a redução da letalidade policial; críticos falam em custo e em exposição dos policiais."
-        },
-        {
-          "id": "GV03",
-          "texto": "As regras para mineração e barragens em Minas devem ser mais rígidas, mesmo que isso reduza investimentos.",
-          "contexto": "A mineração responde por boa parte da arrecadação e dos empregos em várias cidades mineiras."
-        },
-        {
-          "id": "GV04",
-          "texto": "O estado deve dar reajustes acima da inflação a professores e servidores, mesmo com as contas apertadas.",
-          "contexto": "Servidores estaduais tiveram longos períodos sem reposição salarial nos últimos anos."
-        },
-        {
-          "id": "GV05",
-          "texto": "Minas deve reduzir o ICMS para atrair empresas, mesmo perdendo arrecadação no curto prazo.",
-          "contexto": "O ICMS é a principal receita do estado. Com a reforma tributária, ele e seus incentivos começam a ser substituídos a partir de 2029 e deixam de existir em 2033."
-        },
-        {
-          "id": "GV06",
-          "texto": "O modelo de escolas cívico-militares deve ser ampliado na rede estadual.",
-          "contexto": "Nessas escolas, militares atuam na gestão disciplinar e professores civis cuidam do ensino. A Justiça mandou encerrar as 9 escolas estaduais do modelo em 2026, e a ALMG analisa projetos para recriá-lo."
-        }
-      ]
-    },
-    {
       "id": "senador",
       "titulo": "Senador",
       "cargoCod": 5,
       "vagas": 2,
-      "mostrar": 4,
+      "mostrar": 2,
       "descricao": "O Senado tem 81 senadores, três por estado, com mandato de 8 anos. Em 2026 cada estado elege dois, por isso você vota em dois candidatos diferentes. Os senadores votam leis e emendas à Constituição junto com a Câmara, aprovam ou rejeitam os ministros do STF, o procurador-geral da República, os diretores do Banco Central e os embaixadores, julgam o presidente e os ministros do STF em processos de impeachment e autorizam empréstimos de estados e municípios.",
       "perguntas": [
         {
@@ -205,8 +165,8 @@
       "titulo": "Deputado federal",
       "cargoCod": 6,
       "vagas": 53,
-      "mostrar": 3,
-      "descricao": "A Câmara tem 513 deputados, e Minas elege 53, a segunda maior bancada do país. O mandato é de 4 anos, em Brasília. Os deputados propõem e votam leis federais e emendas à Constituição, votam o orçamento da União e indicam emendas parlamentares (verbas para obras e serviços nas suas regiões). Junto com o Senado, podem derrubar vetos do presidente. A Câmara também autoriza a abertura de impeachment do presidente e fiscaliza o governo com CPIs.",
+      "mostrar": 2,
+      "descricao": null,
       "votoProporcional": "O voto para deputado é proporcional: ele conta primeiro para o partido ou federação do candidato, que conquista cadeiras conforme o total de votos recebidos. Só depois as cadeiras vão para os mais votados de cada partido. Votar num candidato também ajuda a eleger colegas de partido dele.",
       "perguntas": [
         {
@@ -240,42 +200,182 @@
           "contexto": "Em 2024 o Congresso restringiu o benefício e derrubou o veto parcial do presidente."
         }
       ]
-    },
-    {
-      "id": "deputado_estadual",
-      "titulo": "Deputado estadual",
-      "cargoCod": 7,
-      "vagas": 77,
-      "mostrar": 3,
-      "descricao": "A Assembleia Legislativa de Minas (ALMG) tem 77 deputados, com mandato de 4 anos, em Belo Horizonte. Eles fazem as leis estaduais, votam o orçamento do estado, fiscalizam o governador, abrem CPIs, julgam as contas do governo e decidem sobre temas como a venda de estatais mineiras. Podem também abrir processo de impeachment do governador. Leis penais e impostos federais não são com eles.",
-      "votoProporcional": "O voto para deputado estadual também é proporcional: conta primeiro para o partido ou federação do candidato e só depois define quem ocupa as cadeiras conquistadas.",
-      "perguntas": [
-        {
-          "id": "DE01",
-          "texto": "Vender estatais mineiras, como a Cemig, deve exigir aprovação da população em referendo.",
-          "contexto": "A Constituição de Minas exige referendo para vender a Cemig e a Gasmig. Em 2025 a ALMG retirou essa exigência para a Copasa, que foi vendida em 2026; a mudança é questionada no STF."
-        },
-        {
-          "id": "DE02",
-          "texto": "O piso salarial nacional dos professores deve ser pago integralmente na rede estadual, mesmo que isso exija cortar outras despesas.",
-          "contexto": "O pagamento do piso na rede mineira é uma disputa antiga entre sindicatos e governo."
-        },
-        {
-          "id": "DE03",
-          "texto": "Regiões mais pobres, como o Norte de Minas e os vales do Jequitinhonha e do Mucuri, devem receber uma fatia maior do orçamento estadual.",
-          "contexto": "Minas tem grandes desigualdades regionais de renda e de acesso a serviços."
-        },
-        {
-          "id": "DE04",
-          "texto": "O transporte metropolitano da Grande BH deve ter tarifa subsidiada pelo governo do estado.",
-          "contexto": "Os ônibus metropolitanos são de responsabilidade do estado, e o preço da passagem é uma queixa frequente."
-        },
-        {
-          "id": "DE05",
-          "texto": "O estado deve colocar mais dinheiro em segurança pública, mesmo que isso tire recursos de outras áreas.",
-          "contexto": "O estado comanda as polícias Militar e Civil e o sistema prisional, e disputa recursos com saúde e educação num orçamento apertado pela dívida."
-        }
-      ]
     }
-  ]
+  ],
+  "estados": {
+    "MG": {
+      "nome": "Minas Gerais",
+      "sigla": "MG",
+      "governador": {
+        "id": "governador",
+        "titulo": "Governador de Minas",
+        "cargoCod": 3,
+        "vagas": 1,
+        "mostrar": 2,
+        "descricao": "Chefia o governo de Minas Gerais. Comanda as polícias Militar e Civil e os presídios, mantém as escolas estaduais (sobretudo o ensino médio) e a rede estadual de hospitais, cuida das rodovias estaduais e arrecada o ICMS, o principal imposto do estado. Define o orçamento com a Assembleia e sanciona ou veta as leis estaduais. Minas deve cerca de R$ 186 bilhões à União, renegociados em 30 anos em 2025, o que limita o que o governador pode gastar.",
+        "perguntas": [
+          {
+            "id": "GV01",
+            "texto": "A Cemig deve ser privatizada.",
+            "contexto": "A Cemig distribui energia em quase todo o estado e é controlada pelo governo de Minas. A Copasa, de saneamento, já foi privatizada em junho de 2026."
+          },
+          {
+            "id": "GV02",
+            "texto": "Policiais militares devem usar câmeras corporais durante o serviço.",
+            "contexto": "Defensores citam a redução da letalidade policial; críticos falam em custo e em exposição dos policiais."
+          },
+          {
+            "id": "GV03",
+            "texto": "As regras para mineração e barragens em Minas devem ser mais rígidas, mesmo que isso reduza investimentos.",
+            "contexto": "A mineração responde por boa parte da arrecadação e dos empregos em várias cidades mineiras."
+          },
+          {
+            "id": "GV04",
+            "texto": "O estado deve dar reajustes acima da inflação a professores e servidores, mesmo com as contas apertadas.",
+            "contexto": "Servidores estaduais tiveram longos períodos sem reposição salarial nos últimos anos."
+          },
+          {
+            "id": "GV05",
+            "texto": "Minas deve reduzir o ICMS para atrair empresas, mesmo perdendo arrecadação no curto prazo.",
+            "contexto": "O ICMS é a principal receita do estado. Com a reforma tributária, ele e seus incentivos começam a ser substituídos a partir de 2029 e deixam de existir em 2033."
+          },
+          {
+            "id": "GV06",
+            "texto": "O modelo de escolas cívico-militares deve ser ampliado na rede estadual.",
+            "contexto": "Nessas escolas, militares atuam na gestão disciplinar e professores civis cuidam do ensino. A Justiça mandou encerrar as 9 escolas estaduais do modelo em 2026, e a ALMG analisa projetos para recriá-lo."
+          }
+        ]
+      },
+      "deputado_estadual": {
+        "id": "deputado_estadual",
+        "titulo": "Deputado estadual",
+        "cargoCod": 7,
+        "vagas": 77,
+        "mostrar": 2,
+        "descricao": "A Assembleia Legislativa de Minas (ALMG) tem 77 deputados, com mandato de 4 anos, em Belo Horizonte. Eles fazem as leis estaduais, votam o orçamento do estado, fiscalizam o governador, abrem CPIs, julgam as contas do governo e decidem sobre temas como a venda de estatais mineiras. Podem também abrir processo de impeachment do governador. Leis penais e impostos federais não são com eles.",
+        "votoProporcional": "O voto para deputado estadual também é proporcional: conta primeiro para o partido ou federação do candidato e só depois define quem ocupa as cadeiras conquistadas.",
+        "perguntas": [
+          {
+            "id": "DE01",
+            "texto": "Vender estatais mineiras, como a Cemig, deve exigir aprovação da população em referendo.",
+            "contexto": "A Constituição de Minas exige referendo para vender a Cemig e a Gasmig. Em 2025 a ALMG retirou essa exigência para a Copasa, que foi vendida em 2026; a mudança é questionada no STF."
+          },
+          {
+            "id": "DE02",
+            "texto": "O piso salarial nacional dos professores deve ser pago integralmente na rede estadual, mesmo que isso exija cortar outras despesas.",
+            "contexto": "O pagamento do piso na rede mineira é uma disputa antiga entre sindicatos e governo."
+          },
+          {
+            "id": "DE03",
+            "texto": "Regiões mais pobres, como o Norte de Minas e os vales do Jequitinhonha e do Mucuri, devem receber uma fatia maior do orçamento estadual.",
+            "contexto": "Minas tem grandes desigualdades regionais de renda e de acesso a serviços."
+          },
+          {
+            "id": "DE04",
+            "texto": "O transporte metropolitano da Grande BH deve ter tarifa subsidiada pelo governo do estado.",
+            "contexto": "Os ônibus metropolitanos são de responsabilidade do estado, e o preço da passagem é uma queixa frequente."
+          },
+          {
+            "id": "DE05",
+            "texto": "O estado deve colocar mais dinheiro em segurança pública, mesmo que isso tire recursos de outras áreas.",
+            "contexto": "O estado comanda as polícias Militar e Civil e o sistema prisional, e disputa recursos com saúde e educação num orçamento apertado pela dívida."
+          }
+        ]
+      },
+      "descricoes": {
+        "deputado_federal": "A Câmara tem 513 deputados, e Minas elege 53, a segunda maior bancada do país. O mandato é de 4 anos, em Brasília. Os deputados propõem e votam leis federais e emendas à Constituição, votam o orçamento da União e indicam emendas parlamentares (verbas para obras e serviços nas suas regiões). Junto com o Senado, podem derrubar vetos do presidente. A Câmara também autoriza a abertura de impeachment do presidente e fiscaliza o governo com CPIs."
+      },
+      "vagas": {
+        "deputado_federal": 53,
+        "deputado_estadual": 77
+      }
+    },
+    "SP": {
+      "nome": "São Paulo",
+      "sigla": "SP",
+      "governador": {
+        "id": "governador",
+        "titulo": "Governador de São Paulo",
+        "cargoCod": 3,
+        "vagas": 1,
+        "mostrar": 2,
+        "descricao": "Chefia o governo de São Paulo, o maior orçamento estadual do país. Comanda as polícias Militar e Civil e os presídios, mantém as escolas estaduais (sobretudo os anos finais do fundamental e o ensino médio), a rede estadual de hospitais, o Metrô, a CPTM e as rodovias estaduais, e arrecada o ICMS, o principal imposto do estado. Define o orçamento com a Assembleia e sanciona ou veta as leis estaduais.",
+        "perguntas": [
+          {
+            "id": "SPGV01",
+            "texto": "O governo de São Paulo deve passar mais serviços públicos para a iniciativa privada, por privatização ou concessão.",
+            "contexto": "A Sabesp foi privatizada em 2024, e o estado concedeu rodovias e linhas de trem da CPTM. Em julho de 2026, após falhas, três linhas recém-concedidas voltaram temporariamente à operação da CPTM."
+          },
+          {
+            "id": "SPGV02",
+            "texto": "Policiais militares devem usar câmeras corporais com gravação contínua durante todo o serviço.",
+            "contexto": "A PM paulista adotou em 2020 câmeras com gravação contínua. Em 2024 o governo passou a um modelo de gravação acionada, e um acordo homologado pelo STF em 2025 criou o acionamento remoto e automático."
+          },
+          {
+            "id": "SPGV03",
+            "texto": "Grandes operações policiais, como as feitas na Baixada Santista, são o caminho certo para enfrentar o crime organizado.",
+            "contexto": "As Operações Escudo e Verão, entre 2023 e 2024, deixaram 84 mortos na Baixada Santista. O governo destaca as mais de 2 mil prisões; críticos apontam abusos e execuções."
+          },
+          {
+            "id": "SPGV04",
+            "texto": "O modelo de escolas cívico-militares deve ser ampliado na rede estadual.",
+            "contexto": "Nessas escolas, policiais militares atuam como monitores de disciplina e professores civis cuidam do ensino. A lei é de 2024, 100 escolas adotaram o modelo em 2026, e o STF ainda julga se ela é válida."
+          },
+          {
+            "id": "SPGV05",
+            "texto": "São Paulo deve reduzir impostos estaduais, como ICMS e IPVA, mesmo perdendo arrecadação.",
+            "contexto": "O ICMS é a principal receita do estado. Com a reforma tributária, ele começa a ser substituído a partir de 2029 e deixa de existir em 2033."
+          },
+          {
+            "id": "SPGV06",
+            "texto": "A internação involuntária de dependentes químicos deve ser ampliada.",
+            "contexto": "A lei permite internar dependentes químicos contra a vontade em casos específicos, com laudo médico. O tema ganhou força com a Cracolândia, no centro da capital, e divide especialistas em saúde e segurança."
+          }
+        ]
+      },
+      "deputado_estadual": {
+        "id": "deputado_estadual",
+        "titulo": "Deputado estadual",
+        "cargoCod": 7,
+        "vagas": 94,
+        "mostrar": 2,
+        "descricao": "A Assembleia Legislativa de São Paulo (Alesp) tem 94 deputados, com mandato de 4 anos, na capital. Eles fazem as leis estaduais, votam o orçamento do estado, fiscalizam o governador, abrem CPIs, julgam as contas do governo e decidem sobre temas como a venda de estatais paulistas. Podem também abrir processo de impeachment do governador. Leis penais e impostos federais não são com eles.",
+        "votoProporcional": "O voto para deputado estadual também é proporcional: conta primeiro para o partido ou federação do candidato e só depois define quem ocupa as cadeiras conquistadas.",
+        "perguntas": [
+          {
+            "id": "SPDE01",
+            "texto": "Vender estatais paulistas deve exigir aprovação da população em referendo.",
+            "contexto": "A Alesp aprovou a privatização da Sabesp em dezembro de 2023, sem consulta popular, e a venda foi concluída em 2024. A oposição defendia um plebiscito."
+          },
+          {
+            "id": "SPDE02",
+            "texto": "O salário dos professores da rede estadual deve subir acima da inflação, mesmo que isso exija cortar outras despesas.",
+            "contexto": "O estado tem uma das maiores redes de ensino do país, e o salário dos professores é uma disputa antiga entre sindicatos e governo."
+          },
+          {
+            "id": "SPDE03",
+            "texto": "O interior e o litoral devem receber uma fatia maior do orçamento estadual em relação à capital e à região metropolitana.",
+            "contexto": "São Paulo tem grandes diferenças regionais, e a divisão das verbas entre capital e interior é um debate constante na Alesp."
+          },
+          {
+            "id": "SPDE04",
+            "texto": "As tarifas de Metrô, CPTM e ônibus metropolitanos devem ser mais subsidiadas pelo governo do estado.",
+            "contexto": "Em 2026 a passagem do Metrô e da CPTM subiu para R$ 5,40, e o estado previu cerca de R$ 5,1 bilhões para cobrir a diferença entre a tarifa e o custo do sistema."
+          },
+          {
+            "id": "SPDE05",
+            "texto": "O estado deve colocar mais dinheiro em segurança pública, mesmo que isso tire recursos de outras áreas.",
+            "contexto": "O estado comanda as polícias e o sistema prisional. Em 2026 a segurança tem R$ 21,1 bilhões no orçamento, contra R$ 37,9 bilhões da saúde e R$ 33,3 bilhões da educação, que têm gastos mínimos obrigatórios."
+          }
+        ]
+      },
+      "descricoes": {
+        "deputado_federal": "A Câmara tem 513 deputados, e São Paulo elege 70, a maior bancada do país. O mandato é de 4 anos, em Brasília. Os deputados propõem e votam leis federais e emendas à Constituição, votam o orçamento da União e indicam emendas parlamentares (verbas para obras e serviços nas suas regiões). Junto com o Senado, podem derrubar vetos do presidente. A Câmara também autoriza a abertura de impeachment do presidente e fiscaliza o governo com CPIs."
+      },
+      "vagas": {
+        "deputado_federal": 70,
+        "deputado_estadual": 94
+      }
+    }
+  }
 }

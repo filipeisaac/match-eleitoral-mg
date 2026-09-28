@@ -1,0 +1,1261 @@
+[
+ {
+  "id": 250002550913,
+  "nomeUrna": "CARLOS MACHADO",
+  "resumo": "Historiador e professor de história da rede estadual, de Franca (SP). Foi candidato a vice-prefeito de Franca em 2024. Disputa o governo de SP pelo PCB, com Felipe Queiroz de vice.",
+  "bandeiras": [
+   "Reestatização de Sabesp, CPTM, Metrô e energia",
+   "Educação pública e valorização dos professores",
+   "Desmilitarização da PM"
+  ],
+  "posicoes": {
+   "G01": {
+    "v": 2,
+    "conf": "declaracao",
+    "fonte": "https://divulgacandcontas.tse.jus.br/divulga/rest/arquivo/doc/250017098706",
+    "nota": "Plano no TSE (2026) propõe rever renúncias fiscais, ITCMD progressivo e cobrar a dívida ativa para ampliar investimento em serviços públicos."
+   },
+   "G03": {
+    "v": 1,
+    "conf": "declaracao",
+    "fonte": "https://www.metropoles.com/sao-paulo/propostas-governo-sp-privatizacoes",
+    "nota": "Plano registrado (2026) propõe reestatizar Sabesp, energia, CPTM, Metrô, sistema financeiro e infraestrutura digital."
+   },
+   "SPGV01": {
+    "v": 1,
+    "conf": "declaracao",
+    "fonte": "https://divulgacandcontas.tse.jus.br/divulga/rest/arquivo/doc/250017098706",
+    "nota": "Plano no TSE (2026), chamado Reestatiza São Paulo, propõe encerrar as concessões do Metrô e da CPTM e reestatizar a Sabesp."
+   },
+   "SPGV03": {
+    "v": 2,
+    "conf": "declaracao",
+    "fonte": "https://divulgacandcontas.tse.jus.br/divulga/rest/arquivo/doc/250017098706",
+    "nota": "Plano no TSE (2026) diz que operações militarizadas e a letalidade policial não reduziram a violência e propõe combater facções com inteligência."
+   },
+   "SPGV04": {
+    "v": 1,
+    "conf": "declaracao",
+    "fonte": "https://divulgacandcontas.tse.jus.br/divulga/rest/arquivo/doc/250017098706",
+    "nota": "Plano no TSE (2026) tem como meta extinguir as escolas cívico-militares (de 100 para 0). O compromisso é repetido na Metrópoles."
+   },
+   "SPGV05": {
+    "v": 2,
+    "conf": "declaracao",
+    "fonte": "https://divulgacandcontas.tse.jus.br/divulga/rest/arquivo/doc/250017098706",
+    "nota": "Plano no TSE (2026) quer reforçar a arrecadação e manter isenções só para cesta básica, remédios e agricultura familiar."
+   }
+  }
+ },
+ {
+  "id": 250002549705,
+  "nomeUrna": "FERNANDO HADDAD",
+  "resumo": "Professor universitário, ministro da Fazenda de jan/2023 a 20/03/2026 e prefeito de São Paulo de 2013 a 2016. Candidato a governador de SP pelo PT (coligação Desperta São Paulo).",
+  "bandeiras": [
+   "Segurança pública com agência antifacção e câmeras corporais contínuas",
+   "Revisão de contratos de privatização e concessão (Sabesp, CPTM, free flow)",
+   "Educação em tempo integral e ensino técnico"
+  ],
+  "posicoes": {
+   "G01": {
+    "v": 2,
+    "conf": "declaracao",
+    "fonte": "https://www.cnnbrasil.com.br/economia/macroeconomia/haddad-pode-gritar-e-falar-vamos-continuar-fazendo-justica-tributaria/",
+    "nota": "Como ministro (30/06/2025), defendeu tributar mais os ricos e lucros e dividendos e disse que seguiria fazendo 'justiça tributária'."
+   },
+   "G03": {
+    "v": 2,
+    "conf": "declaracao",
+    "fonte": "https://www.cnnbrasil.com.br/economia/haddad-privatizar-correios-nao-parece-o-caminho-que-esta-sendo-seguido-pelo-mundo/",
+    "nota": "Como ministro (03/02/2026), disse que privatizar os Correios não é o caminho seguido pelas melhores práticas no mundo."
+   },
+   "G04": {
+    "v": 2,
+    "conf": "declaracao",
+    "fonte": "https://www.em.com.br/app/noticia/politica/2018/10/11/interna_politica,996609/em-entrevista-gravada-bolsonaro-e-haddad-discordam-sobre-regulacao-de.shtml",
+    "nota": "Na campanha presidencial (11/10/2018), disse que armas devem ser de uso da polícia. Não achamos declaração mais recente."
+   },
+   "G05": {
+    "v": 2,
+    "conf": "declaracao",
+    "fonte": "https://observador.pt/2018/10/17/haddad-encontra-se-com-lideres-evangelicos-e-promete-nao-legalizar-aborto/",
+    "nota": "Em 17/10/2018, em carta a evangélicos, disse que seu programa não previa descriminalizar o aborto. Não achamos declaração mais recente."
+   },
+   "G06": {
+    "v": 4,
+    "conf": "declaracao",
+    "fonte": "https://www.brasil247.com/midia/quando-era-jovem-experimentei-diz-haddad-sobre-maconha/",
+    "nota": "Em evento (14/08/2018), defendeu não punir o usuário e revisar a Lei de Drogas: 'encarcerar o usuário vai levar o país à explosão'."
+   },
+   "G07": {
+    "v": 4,
+    "conf": "declaracao",
+    "fonte": "https://www.em.com.br/app/noticia/politica/2018/10/11/interna_politica,996609/em-entrevista-gravada-bolsonaro-e-haddad-discordam-sobre-regulacao-de.shtml",
+    "nota": "Em entrevista (11/10/2018), disse apoiar o agronegócio, mas se opôs a novo desmatamento. Não achamos declaração mais recente."
+   },
+   "G08": {
+    "v": 2,
+    "conf": "declaracao",
+    "fonte": "https://www.cnnbrasil.com.br/politica/haddad-diz-que-articulacao-de-tarcisio-por-anistia-causa-preocupacao/",
+    "nota": "Em 03/09/2025, disse que o apoio de Tarcísio a 'perdoar quem tentou dar golpe de Estado' causa preocupação."
+   },
+   "G09": {
+    "v": 2,
+    "conf": "declaracao",
+    "fonte": "https://www.sauipefm.com.br/site/noticias/haddad-diz-que-impeachment-de-ministro-do-stf-exige-cautela-e-no-pode-ser-usado-por-convenincia-poltica",
+    "nota": "Em 20/08/2026, defendeu um Judiciário autônomo e disse que impeachment de ministro do STF não pode ser usado por conveniência política."
+   },
+   "G11": {
+    "v": 5,
+    "conf": "declaracao",
+    "fonte": "https://www.em.com.br/app/noticia/politica/2018/10/15/interna_politica,997427/haddad-defende-papel-da-politica-de-cotas-na-educacao-do-pais.shtml",
+    "nota": "Defendeu as cotas raciais e sociais nas universidades em 2017 (aula na FEA-USP) e em 15/10/2018, citando o desempenho dos cotistas."
+   },
+   "G12": {
+    "v": 2,
+    "conf": "declaracao",
+    "fonte": "https://www.band.com.br/noticias/videos/haddad-critica-reducao-da-maioridade-penal-202606191521",
+    "nota": "Em 19/06/2026, disse sobre a redução da maioridade penal: 'Não acho que esse seja o caminho'."
+   },
+   "G14": {
+    "v": 4,
+    "conf": "declaracao",
+    "fonte": "https://www.brasil247.com/regionais/sudeste/mais-produtividade-e-mais-dignidade-diz-haddad-sobre-fim-da-escala-6x1",
+    "nota": "Em 27/05/2026, após a Câmara aprovar a PEC, defendeu 'dois dias de descanso, jornada de 40 horas e salário preservado'."
+   },
+   "SPGV01": {
+    "v": 2,
+    "conf": "declaracao",
+    "fonte": "https://www.opovo.com.br/noticias/politica/2026/09/14/haddad-reforca-que-se-eleito-fara-revisao-de-contratos-de-concessao-e-privatizacao-de-sp.html",
+    "nota": "Em 14/09/2026, disse que os contratos da Sabesp, do free flow e da CPTM 'foram mal feitos' e prometeu revê-los. Admitiu romper contratos."
+   },
+   "SPGV02": {
+    "v": 5,
+    "conf": "declaracao",
+    "fonte": "https://www.cnnbrasil.com.br/eleicoes/haddad-critica-seguranca-em-sp-e-nao-descarta-reestatizar-sabesp/",
+    "nota": "Em sabatina (19/08/2026), defendeu câmeras corporais com gravação ininterrupta. Repetiu isso na TMC (04/09) e no Metrópoles (24/09)."
+   },
+   "SPGV04": {
+    "v": 1,
+    "conf": "declaracao",
+    "fonte": "https://www.metropoles.com/sao-paulo/nao-deu-certo-lugar-nenhum-haddad-sobre-escolas-civico-militares",
+    "nota": "Em 24/09/2026, disse que o modelo cívico-militar 'não deu certo em nenhum lugar do mundo' e que não vai ampliá-lo se eleito."
+   }
+  }
+ },
+ {
+  "id": 250002553062,
+  "nomeUrna": "IZADORA DIAS",
+  "resumo": "Estudante de Letras na USP e militante do PCO, de Barra Bonita (SP). Candidata a governadora de SP pelo PCO; o registro foi indeferido e há recurso pendente.",
+  "bandeiras": [
+   "Dissolução da PM e comitês de autodefesa",
+   "Estatização da saúde e da educação",
+   "Jornada de 35 horas sem redução salarial"
+  ],
+  "posicoes": {
+   "G01": {
+    "v": 2,
+    "conf": "declaracao",
+    "fonte": "https://divulgacandcontas.tse.jus.br/divulga/rest/arquivo/doc/250017118778",
+    "nota": "Programa registrado (ago/2026) pede o fim do teto de gastos e da LRF e rejeita cortes de gastos. Também propõe acabar com impostos sobre consumo."
+   },
+   "G02": {
+    "v": 5,
+    "conf": "declaracao",
+    "fonte": "https://divulgacandcontas.tse.jus.br/divulga/rest/arquivo/doc/250017118778",
+    "nota": "Programa registrado no TSE (ago/2026) defende um Bolsa Família de pelo menos um salário mínimo."
+   },
+   "G03": {
+    "v": 1,
+    "conf": "declaracao",
+    "fonte": "https://divulgacandcontas.tse.jus.br/divulga/rest/arquivo/doc/250017118778",
+    "nota": "Programa registrado (ago/2026) pede cancelar todas as privatizações (Eletrobras, Vale etc.) e ter uma Petrobras 100% estatal."
+   },
+   "G04": {
+    "v": 5,
+    "conf": "declaracao",
+    "fonte": "https://www.acidadeon.com/campinas/politica/izadora-dias-candidata-ao-governo-de-sp-defende-dissolucao-da-policia-e-populacao-armada",
+    "nota": "Em entrevista à EPTV (5/9/2026) disse que defende o armamento da população. Repetiu à Rádio POP (16/9/2026): o armamento é um direito democrático."
+   },
+   "G09": {
+    "v": 5,
+    "conf": "declaracao",
+    "fonte": "https://divulgacandcontas.tse.jus.br/divulga/rest/arquivo/doc/250017118778",
+    "nota": "Programa registrado (ago/2026) diz que o Judiciário atua acima dos demais poderes. Defende o fim do STF e a eleição de juízes."
+   },
+   "G10": {
+    "v": 2,
+    "conf": "declaracao",
+    "fonte": "https://divulgacandcontas.tse.jus.br/divulga/rest/arquivo/doc/250017118778",
+    "nota": "Programa registrado (ago/2026) pede liberdade irrestrita na internet, o fim de todo tipo de censura e o fim da Lei Felca (ECA Digital)."
+   },
+   "G14": {
+    "v": 5,
+    "conf": "declaracao",
+    "fonte": "https://divulgacandcontas.tse.jus.br/divulga/rest/arquivo/doc/250017118778",
+    "nota": "Programa registrado (ago/2026) propõe jornada máxima de 7 horas por dia, 5 dias por semana (35h), sem redução de salário."
+   },
+   "SPGV01": {
+    "v": 1,
+    "conf": "declaracao",
+    "fonte": "https://www.metropoles.com/sao-paulo/propostas-governo-sp-privatizacoes",
+    "nota": "Plano registrado (2026) propõe reestatizar todas as empresas entregues ao capital estrangeiro. Em entrevista (set/2026) condenou a privatização da Sabesp."
+   },
+   "SPGV03": {
+    "v": 2,
+    "conf": "declaracao",
+    "fonte": "https://divulgacandcontas.tse.jus.br/divulga/rest/arquivo/doc/250017118778",
+    "nota": "Programa registrado (ago/2026) chama a ação policial de guerra contra o povo pobre e propõe dissolver a PM e todo o aparato repressivo."
+   },
+   "SPGV05": {
+    "v": 3,
+    "conf": "declaracao",
+    "fonte": "https://divulgacandcontas.tse.jus.br/divulga/rest/arquivo/doc/250017118778",
+    "nota": "Programa registrado (ago/2026) propõe acabar com impostos sobre consumo e salários, mas taxar lucros e grandes fortunas."
+   }
+  }
+ },
+ {
+  "id": 250002541303,
+  "nomeUrna": "TARCÍSIO",
+  "resumo": "Governador de São Paulo desde 2023 e ex-ministro da Infraestrutura (2019 a 2022). Candidato à reeleição pelo Republicanos, na coligação Coragem para Seguir Avançando.",
+  "bandeiras": [
+   "Segurança pública e combate ao crime organizado",
+   "Educação (alfabetização, ensino técnico e escolas cívico-militares)",
+   "Adaptação climática e saneamento"
+  ],
+  "posicoes": {
+   "G01": {
+    "v": 4,
+    "conf": "declaracao",
+    "fonte": "https://www.infomoney.com.br/politica/tarcisio-critica-incentivo-perverso-de-reforma-tributaria-mas-reitera-que-nao-aumentara-icms/",
+    "nota": "Em fórum da XP (11/12/2023), reiterou que não aumentaria o ICMS e disse que cortar gastos é imperativo, citando privatizações e reforma administrativa."
+   },
+   "G03": {
+    "v": 4,
+    "conf": "declaracao",
+    "fonte": "https://jovempan.com.br/politica/tarcisio-de-freitas-eleicoes-2026-jovem-pan/",
+    "nota": "Na Jovem Pan (19/08/2026) defendeu a privatização da Sabesp, mas disse: 'Fizemos privatização onde era necessário'."
+   },
+   "G04": {
+    "v": 4,
+    "conf": "declaracao",
+    "fonte": "https://revistaoeste.com/politica/tarcisio-defende-acesso-a-armas-para-civis/",
+    "nota": "Em 25/07/2023, contra o decreto de Lula que restringiu armas, disse que 'a arma na mão do cidadão é sempre um poder de dissuasão'."
+   },
+   "G08": {
+    "v": 5,
+    "conf": "declaracao",
+    "fonte": "https://www.cnnbrasil.com.br/politica/o-que-eu-puder-fazer-para-defender-anistia-eu-vou-fazer-diz-tarcisio/",
+    "nota": "Em 25/11/2025: 'O que eu puder fazer para defender anistia, eu vou fazer'. No ato de 07/09/2025 cobrou a votação da anistia na Câmara."
+   },
+   "G09": {
+    "v": 4,
+    "conf": "declaracao",
+    "fonte": "https://www.cnnbrasil.com.br/politica/tarcisio-ninguem-aguenta-mais-tirania-de-moraes/",
+    "nota": "Em 07/09/2025 falou em 'tirania de um ministro como Moraes' e 'imposição de um Poder sobre o outro'. Em 09/2026 criticou a insegurança jurídica do STF."
+   },
+   "G12": {
+    "v": 4,
+    "conf": "declaracao",
+    "fonte": "https://istoe.com.br/tarcisio-defende-reducao-de-maioridade-apos-caso-de-estupro-coletivo",
+    "nota": "Em 05/05/2026, após caso de estupro coletivo, defendeu a redução da maioridade penal, sem dizer para qual idade."
+   },
+   "G14": {
+    "v": 2,
+    "conf": "declaracao",
+    "fonte": "https://www.metropoles.com/sao-paulo/tarcisio-critica-fim-da-6x1",
+    "nota": "Em 18/05/2026 criticou a proposta de fim da 6x1: disse que reduz o poder de compra e 'não adianta cuidar do trabalhador sem cuidar do empregador'."
+   },
+   "SPGV01": {
+    "v": 4,
+    "conf": "declaracao",
+    "fonte": "https://www.metrocptm.com.br/tarcisio-descarta-concessao-das-linhas-do-metro-em-eventual-segundo-mandato/",
+    "nota": "Na sabatina Veja (26/08/2026) defendeu as concessões da CPTM e descartou conceder as linhas do Metrô: 'não faz privatização por fazer'."
+   },
+   "SPGV02": {
+    "v": 3,
+    "conf": "declaracao",
+    "fonte": "https://www.cnnbrasil.com.br/eleicoes/a-cnn-tarcisio-diz-que-mudou-de-ideia-e-apoia-cameras-corporais-na-pm/",
+    "nota": "À CNN (12/08/2026) disse ter mudado de ideia e apoiar as câmeras. Seu governo adotou o modelo acionado e não prometeu gravação contínua."
+   },
+   "SPGV03": {
+    "v": 5,
+    "conf": "declaracao",
+    "fonte": "https://www.otempo.com.br/politica/judiciario/apos-falar-que-nao-esta-nem-ai-tarcisio-defende-policia-de-sp-preparada-1.3345661",
+    "nota": "Em 09/03/2024 defendeu a Operação Verão como 'intervenção profissional'. Em 2023 disse estar 'extremamente satisfeito' com a Escudo."
+   },
+   "SPGV04": {
+    "v": 5,
+    "conf": "declaracao",
+    "fonte": "https://www.gazetadopovo.com.br/eleicoes/2026/sao-paulo-2026/plano-de-governo-tarcisio-de-freitas/",
+    "nota": "O plano de governo de 2026 registrado no TSE propõe ampliar as escolas cívico-militares, programa que ele criou por lei em 2024 e implantou em 2026."
+   },
+   "SPGV05": {
+    "v": 4,
+    "conf": "declaracao",
+    "fonte": "https://www.poder360.com.br/poder-economia/tarcisio-diz-que-fez-dever-de-casa-ao-isentar-icms-de-alimentos/",
+    "nota": "Em 09/03/2025 defendeu o ICMS zero sobre alimentos básicos. Em 2023 disse 'vamos baixar impostos'. As reduções que fez foram setoriais."
+   },
+   "SPGV06": {
+    "v": 3,
+    "conf": "declaracao",
+    "fonte": "https://www.cnnbrasil.com.br/nacional/tarcisio-diz-a-cnn-que-nao-descarta-internacao-compulsoria-na-cracolandia-como-medida-extrema-para-salvar-vidas/",
+    "nota": "À CNN (21/07/2023) disse que a internação compulsória é 'medida extrema' para 'último caso' e que antes vem o acolhimento."
+   }
+  }
+ },
+ {
+  "id": 250002536915,
+  "nomeUrna": "VERA LÚCIA",
+  "resumo": "Socióloga e sindicalista, fundadora do PSTU. Foi candidata a presidente em 2018 e 2022 e a prefeita de SP em 2020. Disputa o governo de SP pelo PSTU, com Renata França de vice.",
+  "bandeiras": [
+   "Fim da escala 6x1 e jornada de 36 horas",
+   "Reestatização de Metrô, CPTM, água e energia",
+   "Desmilitarização da polícia"
+  ],
+  "posicoes": {
+   "G01": {
+    "v": 2,
+    "conf": "declaracao",
+    "fonte": "https://divulgacandcontas.tse.jus.br/divulga/rest/arquivo/doc/250016879121",
+    "nota": "Programa no TSE (2026) propõe ampliar serviços públicos estatais, bancados pela taxação de bancos, multinacionais e bilionários."
+   },
+   "G02": {
+    "v": 4,
+    "conf": "declaracao",
+    "fonte": "https://divulgacandcontas.tse.jus.br/divulga/rest/arquivo/doc/250016879121",
+    "nota": "Programa no TSE (2026) propõe bolsa-auxílio de um salário mínimo para todos os desempregados do estado."
+   },
+   "G03": {
+    "v": 1,
+    "conf": "declaracao",
+    "fonte": "https://divulgacandcontas.tse.jus.br/divulga/rest/arquivo/doc/250016879121",
+    "nota": "Programa no TSE (2026) propõe um Plano Geral de Desprivatização e a estatização de setores estratégicos (petróleo, energia, siderurgia)."
+   },
+   "G05": {
+    "v": 5,
+    "conf": "declaracao",
+    "fonte": "https://divulgacandcontas.tse.jus.br/divulga/rest/arquivo/doc/250016879121",
+    "nota": "Programa no TSE (2026) defende duas vezes o aborto legal, seguro e gratuito pelo SUS, a critério da pessoa gestante."
+   },
+   "G06": {
+    "v": 5,
+    "conf": "declaracao",
+    "fonte": "https://divulgacandcontas.tse.jus.br/divulga/rest/arquivo/doc/250016879121",
+    "nota": "Programa no TSE (2026) defende descriminalizar o consumo de drogas. Em 2018 já defendia a legalização (CartaCapital)."
+   },
+   "G07": {
+    "v": 4,
+    "conf": "declaracao",
+    "fonte": "https://www.metropoles.com/sao-paulo/propostas-governo-sp-meio-ambiente",
+    "nota": "Plano registrado (2026) propõe proibir a pulverização aérea de agrotóxicos e punir criminalmente empresas por crimes ambientais."
+   },
+   "G14": {
+    "v": 5,
+    "conf": "declaracao",
+    "fonte": "https://divulgacandcontas.tse.jus.br/divulga/rest/arquivo/doc/250016879121",
+    "nota": "Programa no TSE (2026) propõe o fim imediato da escala 6x1 e jornada de 36 horas semanais, sem redução de salários."
+   },
+   "SPGV01": {
+    "v": 1,
+    "conf": "declaracao",
+    "fonte": "https://divulgacandcontas.tse.jus.br/divulga/rest/arquivo/doc/250016879121",
+    "nota": "Programa no TSE (2026) propõe reestatizar Metrô, CPTM e saneamento e acabar com PPPs, concessões e OSs."
+   },
+   "SPGV02": {
+    "v": 4,
+    "conf": "declaracao",
+    "fonte": "https://divulgacandcontas.tse.jus.br/divulga/rest/arquivo/doc/250016879121",
+    "nota": "Programa no TSE (2026) propõe câmeras corporais obrigatórias em todas as forças de segurança, com fiscalização independente."
+   },
+   "SPGV03": {
+    "v": 2,
+    "conf": "declaracao",
+    "fonte": "https://divulgacandcontas.tse.jus.br/divulga/rest/arquivo/doc/250016879121",
+    "nota": "Programa no TSE (2026) critica as operações de ocupação militar nas periferias sob Derrite e pede a extinção da PM."
+   },
+   "SPGV04": {
+    "v": 1,
+    "conf": "declaracao",
+    "fonte": "https://divulgacandcontas.tse.jus.br/divulga/rest/arquivo/doc/250016879121",
+    "nota": "Programa no TSE (2026) propõe revogar a militarização e as escolas cívico-militares. O compromisso aparece também na Metrópoles."
+   },
+   "SPGV05": {
+    "v": 3,
+    "conf": "declaracao",
+    "fonte": "https://divulgacandcontas.tse.jus.br/divulga/rest/arquivo/doc/250016879121",
+    "nota": "Programa no TSE (2026) quer reduzir impostos indiretos sobre alimentos, gás e energia e compensar cortando benefícios de grandes empresas."
+   },
+   "SPGV06": {
+    "v": 2,
+    "conf": "declaracao",
+    "fonte": "https://divulgacandcontas.tse.jus.br/divulga/rest/arquivo/doc/250016879121",
+    "nota": "Programa no TSE (2026) defende cuidado em liberdade na saúde mental, com CAPS, e o fim dos repasses a comunidades terapêuticas."
+   }
+  }
+ },
+ {
+  "id": 250002544912,
+  "nomeUrna": "VIVIAN MENDES",
+  "resumo": "Comunicadora, presidente estadual da UP e fundadora do Movimento de Mulheres Olga Benario. Foi candidata ao Senado em 2022. Disputa o governo de SP pela UP.",
+  "bandeiras": [
+   "Reestatização da Sabesp e dos serviços concedidos",
+   "Combate à violência contra as mulheres",
+   "Fim da escala 6x1"
+  ],
+  "posicoes": {
+   "G01": {
+    "v": 2,
+    "conf": "declaracao",
+    "fonte": "https://divulgacandcontas.tse.jus.br/divulga/rest/arquivo/doc/250017039197",
+    "nota": "Programa no TSE (2026) critica as isenções fiscais a grandes grupos e defende mais investimento em saúde, educação e moradia."
+   },
+   "G03": {
+    "v": 1,
+    "conf": "declaracao",
+    "fonte": "https://www.metropoles.com/sao-paulo/propostas-governo-sp-privatizacoes",
+    "nota": "Plano registrado (2026) propõe reestatizar Sabesp, energia (Enel, Emae) e o Porto de Santos."
+   },
+   "G11": {
+    "v": 4,
+    "conf": "declaracao",
+    "fonte": "https://divulgacandcontas.tse.jus.br/divulga/rest/arquivo/doc/250017039197",
+    "nota": "Programa no TSE (2026) defende fortalecer as ações afirmativas nas universidades públicas estaduais."
+   },
+   "G14": {
+    "v": 5,
+    "conf": "declaracao",
+    "fonte": "https://www.correiodamanha.com.br/nacional/sao-paulo/estado-de-sao-paulo/2026/07/304341-up-oficializa-vivian-mendes-ao-governo-e-define-chapa.html",
+    "nota": "Na convenção da UP (jul/2026) defendeu o fim da escala 6x1 e a jornada 4x3 com aumento salarial."
+   },
+   "SPGV01": {
+    "v": 1,
+    "conf": "declaracao",
+    "fonte": "https://www.cnnbrasil.com.br/eleicoes/quem-e-vivian-mendes-candidata-ao-governo-de-sao-paulo/",
+    "nota": "Diz que uma prioridade será reestatizar todos os serviços públicos concedidos à iniciativa privada, a começar pela Sabesp."
+   },
+   "SPGV03": {
+    "v": 2,
+    "conf": "declaracao",
+    "fonte": "https://divulgacandcontas.tse.jus.br/divulga/rest/arquivo/doc/250017039197",
+    "nota": "Programa no TSE (2026) critica operações policiais com muitas mortes no governo Tarcísio que foram apresentadas como sinal de eficiência."
+   },
+   "SPGV04": {
+    "v": 1,
+    "conf": "declaracao",
+    "fonte": "https://www.acidadeon.com/campinas/politica/vivian-mendes-candidata-ao-governo-de-sp-defende-policia-comunitaria-popular",
+    "nota": "À EPTV (7/9/2026) disse que quer acabar com a ideia de militarizar a educação. O programa no TSE também promete pôr fim à militarização."
+   }
+  }
+ },
+ {
+  "id": 250002541308,
+  "nomeUrna": "ANDRÉ DO PRADO",
+  "resumo": "Deputado estadual desde 2011 e presidente da Alesp desde 2023, ex-prefeito de Guararema. Candidato ao Senado pelo PL na coligação Coragem para Seguir Avançando.",
+  "bandeiras": [
+   "Universalização do saneamento",
+   "Tabela SUS Paulista para hospitais filantrópicos",
+   "Revisão do pacto federativo em favor de SP"
+  ],
+  "posicoes": {
+   "G01": {
+    "v": 4,
+    "conf": "declaracao",
+    "fonte": "https://sampi.net.br/nacional/noticias/2999684/eleicoes-2026/2026/08/sp-precisa-de-senador-alinhado-com-o-estado-diz-andre-do-prado",
+    "nota": "À Rede Sampi (20/08/2026), defendeu ajuste fiscal, reforma administrativa e corte de gastos, e criticou a carga tributária."
+   },
+   "G03": {
+    "v": 4,
+    "conf": "declaracao",
+    "fonte": "https://sampi.net.br/nacional/noticias/2999684/eleicoes-2026/2026/08/sp-precisa-de-senador-alinhado-com-o-estado-diz-andre-do-prado",
+    "nota": "Em 20/08/2026 defendeu a privatização da Sabesp; em 03/2025 prometeu pautar a concessão das travessias por balsas."
+   },
+   "G08": {
+    "v": 5,
+    "conf": "declaracao",
+    "fonte": "https://sampi.net.br/nacional/noticias/2999684/eleicoes-2026/2026/08/sp-precisa-de-senador-alinhado-com-o-estado-diz-andre-do-prado",
+    "nota": "Defendeu anistia ampla, geral e irrestrita aos envolvidos no 8/1 (Rede Sampi, 20/08/2026) e prometeu lutar por ela (BandNews, 26/05/2026)."
+   },
+   "G09": {
+    "v": 4,
+    "conf": "declaracao",
+    "fonte": "https://sampi.net.br/nacional/noticias/2999684/eleicoes-2026/2026/08/sp-precisa-de-senador-alinhado-com-o-estado-diz-andre-do-prado",
+    "nota": "Em 20/08/2026 criticou decisões monocráticas do STF que interferem em decisões do Legislativo e defendeu reequilibrar os Poderes."
+   },
+   "G14": {
+    "v": 3,
+    "conf": "declaracao",
+    "fonte": "https://diario.dopovo.com.br/2026/09/24/prado-defende-fim-da-escala-6x1-em-debate-ao-senado-em-sp/",
+    "nota": "No debate Estadão/Faap (23/09/2026) apoiou reduzir a jornada, mas condicionou à compensação às empresas, como desoneração da folha."
+   },
+   "S01": {
+    "v": 5,
+    "conf": "declaracao",
+    "fonte": "https://sampi.net.br/nacional/noticias/2999684/eleicoes-2026/2026/08/sp-precisa-de-senador-alinhado-com-o-estado-diz-andre-do-prado",
+    "nota": "Defendeu impeachment de ministros do STF por crime de responsabilidade (20/08/2026) e cobrou Alcolumbre por não pautar pedidos (debates 09 e 23/09)."
+   },
+   "S02": {
+    "v": 4,
+    "conf": "declaracao",
+    "fonte": "https://www.metropoles.com/colunas/vinicius-passarelli/andre-e-derrite-dizem-que-defenderao-pauta-anti-stf-caso-eleitos",
+    "nota": "Em 18/08/2026 apoiou a proposta da OAB-SP de mandato de 12 anos para ministros do STF e idade mínima de 50 anos."
+   },
+   "S03": {
+    "v": 4,
+    "conf": "declaracao",
+    "fonte": "https://sampi.net.br/nacional/noticias/2999684/eleicoes-2026/2026/08/sp-precisa-de-senador-alinhado-com-o-estado-diz-andre-do-prado",
+    "nota": "Em 20/08/2026 defendeu limitar decisões individuais de ministros que suspendam efeitos de decisões do Congresso."
+   }
+  }
+ },
+ {
+  "id": 250002541362,
+  "nomeUrna": "DRA ELIANA FERREIRA",
+  "resumo": "Advogada de São Bernardo do Campo, assessora jurídica e coordenadora do Movimento Nacional Somos Todas Professoras. Candidata ao Senado por SP pelo PSTU; disputou o Senado em 2018.",
+  "bandeiras": [
+   "Fim da escala 6x1",
+   "Direitos das mulheres trabalhadoras",
+   "Segurança pública com emprego, educação e saúde"
+  ],
+  "posicoes": {
+   "G01": {
+    "v": 2,
+    "conf": "declaracao",
+    "fonte": "https://seesp.org.br/site/comunicacao/noticias/item/17763-candidata-ao-senado-em-defesa-da-classe-trabalhadora-e-das-mulheres",
+    "nota": "Em debate como candidata ao Senado (set/2018), criticou a emenda do teto de gastos e propôs suspender o pagamento da dívida para financiar áreas sociais."
+   },
+   "G07": {
+    "v": 4,
+    "conf": "declaracao",
+    "fonte": "https://www.brasildefato.com.br/2026/09/14/candidata-do-pstu-ao-senado-em-sp-defende-classe-trabalhadora-e-critica-seguranca-publica-de-tarcisio/",
+    "nota": "Ao Brasil de Fato (14/09/2026), disse que o país não pode tratar a natureza como mercadoria nem admitir dano irreparável na Amazônia."
+   },
+   "G14": {
+    "v": 5,
+    "conf": "declaracao",
+    "fonte": "https://www.brasildefato.com.br/2026/09/14/candidata-do-pstu-ao-senado-em-sp-defende-classe-trabalhadora-e-critica-seguranca-publica-de-tarcisio/",
+    "nota": "Ao Brasil de Fato (14/09/2026), disse ser imprescindível aprovar o fim da escala 6x1 e defendeu a redução da jornada."
+   }
+  }
+ },
+ {
+  "id": 250002552955,
+  "nomeUrna": "EDNELSON CESARETTI",
+  "resumo": "Professor da rede pública e militante do PCO desde 1995. Candidato ao Senado por SP pelo PCO; registro indeferido pelo TSE, com recurso pendente.",
+  "bandeiras": [
+   "Jornada de 35 horas (escala 5x2)",
+   "Fim da Polícia Militar",
+   "Fim do Senado e eleição de juízes"
+  ],
+  "posicoes": {
+   "G03": {
+    "v": 2,
+    "conf": "declaracao",
+    "fonte": "https://causaoperaria.org.br/2026/ednelson-cesaretti-defende-jornada-de-35-horas-e-eleicao-dos-juizes-no-brasil-de-fato/",
+    "nota": "Em entrevista ao Brasil de Fato (set/2026), defendeu que petróleo e outras riquezas naturais sejam explorados e administrados por estatais."
+   },
+   "G04": {
+    "v": 4,
+    "conf": "declaracao",
+    "fonte": "https://causaoperaria.org.br/2026/ednelson-cesaretti-defende-jornada-de-35-horas-e-eleicao-dos-juizes-no-brasil-de-fato/",
+    "nota": "Em entrevista ao Brasil de Fato (set/2026), segundo relato do jornal do PCO, defendeu o armamento da população para autodefesa dos trabalhadores."
+   },
+   "G07": {
+    "v": 2,
+    "conf": "declaracao",
+    "fonte": "https://www.brasildefato.com.br/2026/09/16/escala-5x2-e-fim-da-pm-estao-entre-as-propostas-do-candidato-ao-senado-de-sp-pelo-pco/",
+    "nota": "Ao Brasil de Fato (16/09/2026), defendeu a exploração de petróleo na Margem Equatorial e criticou os entraves ambientais impostos à atividade."
+   },
+   "G09": {
+    "v": 4,
+    "conf": "declaracao",
+    "fonte": "https://causaoperaria.org.br/2026/ednelson-cesaretti-defende-jornada-de-35-horas-e-eleicao-dos-juizes-no-brasil-de-fato/",
+    "nota": "Em entrevista ao Brasil de Fato (set/2026), criticou os poderes do STF, que decide os destinos do país sem ter sido eleito, e cobrou afastar Moraes."
+   },
+   "G14": {
+    "v": 5,
+    "conf": "declaracao",
+    "fonte": "https://www.brasildefato.com.br/2026/09/16/escala-5x2-e-fim-da-pm-estao-entre-as-propostas-do-candidato-ao-senado-de-sp-pelo-pco/",
+    "nota": "Ao Brasil de Fato (16/09/2026), defendeu jornada de 35 horas semanais em escala 5x2, com dois dias de descanso remunerado."
+   }
+  }
+ },
+ {
+  "id": 250002544673,
+  "nomeUrna": "GERALDO RUFINO",
+  "resumo": "Empresário, fundador da JR Diesel (reciclagem de peças de caminhão), escritor e palestrante. Suplente a deputado federal em 2018. Candidato ao Senado por SP pelo Podemos.",
+  "bandeiras": [
+   "Combate à fome e à pobreza nas periferias",
+   "Geração de emprego e simplificação de regras para quem emprega",
+   "Combate à corrupção"
+  ],
+  "posicoes": {
+   "G03": {
+    "v": 4,
+    "conf": "declaracao",
+    "fonte": "https://www.cnnbrasil.com.br/eleicoes/senado-em-sp-debate-tem-discussoes-sobre-seguranca-e-reforma-no-stf/",
+    "nota": "No debate da Band (09/2026), defendeu concessões ao setor privado: \"O governo não tem condições de cuidar das pessoas, então é necessário\"."
+   },
+   "G05": {
+    "v": 2,
+    "conf": "declaracao",
+    "fonte": "https://www.terra.com.br/noticias/eleicoes/sao-paulo/geraldo-rufino-candidato-defende-impeachment-no-stf-quer-reducao-da-maioridade-profissional-e-ve-falta-de-experiencia-politica-como-ponto-positivo,a00c09fa8d6205e8c5ccf951fbaeb404vm24glff.html",
+    "nota": "Ao Terra (17/09/2026) defendeu manter a lei atual sobre aborto, com a exceção para estupro; à Gazeta do Povo disse ser contra legalizar."
+   },
+   "G12": {
+    "v": 4,
+    "conf": "declaracao",
+    "fonte": "https://www.gazetadopovo.com.br/eleicoes/2026/sao-paulo-2026/entrevista-senado-sao-paulo-geraldo-rufino/",
+    "nota": "Disse ser a favor da redução da maioridade penal (Gazeta do Povo, 27/08/2026); ao Terra (17/09/2026) ligou a medida a oportunidades de trabalho para jovens."
+   },
+   "S01": {
+    "v": 5,
+    "conf": "declaracao",
+    "fonte": "https://www.terra.com.br/noticias/eleicoes/sao-paulo/geraldo-rufino-candidato-defende-impeachment-no-stf-quer-reducao-da-maioridade-profissional-e-ve-falta-de-experiencia-politica-como-ponto-positivo,a00c09fa8d6205e8c5ccf951fbaeb404vm24glff.html",
+    "nota": "Ao Terra (17/09/2026) disse que pautar impeachment de ministros do STF já deveria ter acontecido e que votaria a favor; repetiu ao Estadão."
+   },
+   "S02": {
+    "v": 4,
+    "conf": "declaracao",
+    "fonte": "https://www.radiopampa.com.br/impeachment-de-ministros-do-supremo-une-rivais-que-disputam-o-senado-por-sao-paulo/",
+    "nota": "Em levantamento do Estadão (21/09/2026), defendeu mandato fixo de dez anos para ministros do STF."
+   },
+   "S03": {
+    "v": 4,
+    "conf": "declaracao",
+    "fonte": "https://www.radiopampa.com.br/impeachment-de-ministros-do-supremo-une-rivais-que-disputam-o-senado-por-sao-paulo/",
+    "nota": "Em levantamento do Estadão (21/09/2026), concordou com limites às decisões monocráticas de ministros do STF (limitar, não proibir)."
+   },
+   "S04": {
+    "v": 4,
+    "conf": "declaracao",
+    "fonte": "https://www.gazetadopovo.com.br/eleicoes/2026/sao-paulo-2026/entrevista-senado-sao-paulo-geraldo-rufino/",
+    "nota": "Em entrevista à Gazeta do Povo (27/08/2026), respondeu \"a favor\" ao fim do foro privilegiado."
+   }
+  }
+ },
+ {
+  "id": 250002541312,
+  "nomeUrna": "GUILHERME DERRITE",
+  "resumo": "Deputado federal por SP desde 2019, ex-policial militar e ex-secretário da Segurança Pública de SP (2023 a 2025). Candidato ao Senado pelo PP na coligação Coragem para Seguir Avançando.",
+  "bandeiras": [
+   "Combate ao crime organizado",
+   "Impeachment de ministros do STF",
+   "Redução da maioridade penal"
+  ],
+  "posicoes": {
+   "G01": {
+    "v": 4,
+    "conf": "declaracao",
+    "fonte": "https://www.gazetadopovo.com.br/eleicoes/2026/sao-paulo-2026/derrite-acusa-adversarias-ao-senado-de-incoerencia-e-oportunismo-apos-atritos-com-pt/",
+    "nota": "Em entrevista à Gazeta do Povo (16/09/2026), respondeu ser a favor do teto de gastos."
+   },
+   "G02": {
+    "v": 2,
+    "conf": "declaracao",
+    "fonte": "https://www.metropoles.com/sao-paulo/corrupcao-bets-emendas-e-stf-ditam-debate-de-candidatos-ao-senado-por-sp",
+    "nota": "No debate Estadão/Faap (23/09/2026) chamou o aumento do Bolsa Família de medida eleitoreira e criticou o assistencialismo."
+   },
+   "G04": {
+    "v": 4,
+    "conf": "voto",
+    "fonte": "https://dadosabertos.camara.leg.br/api/v2/votacoes/2209381-100/votos",
+    "nota": "Votou Sim no PL 3723/2019, que flexibilizou regras de posse e porte (05/11/2019, 283 x 140). É autor do PL 3731/2020 (porte rural)."
+   },
+   "G05": {
+    "v": 2,
+    "conf": "declaracao",
+    "fonte": "https://www.gazetadopovo.com.br/eleicoes/2026/sao-paulo-2026/derrite-acusa-adversarias-ao-senado-de-incoerencia-e-oportunismo-apos-atritos-com-pt/",
+    "nota": "Em entrevista à Gazeta do Povo (16/09/2026), declarou-se contra a legalização do aborto."
+   },
+   "G06": {
+    "v": 2,
+    "conf": "declaracao",
+    "fonte": "https://www.diariodaregiao.com.br/cidades/riopreto/em-rio-preto-derrite-critica-stf-e-congresso-sobre-porte-de-maconha-1.1979322",
+    "nota": "Em 17/07/2024, como secretário, disse que a descriminalização do porte de maconha pelo STF favorece o crime organizado."
+   },
+   "G07": {
+    "v": 2,
+    "conf": "voto",
+    "fonte": "https://dadosabertos.camara.leg.br/api/v2/votacoes/257161-337/votos",
+    "nota": "Votou Sim no texto do licenciamento ambiental (13/05/2021), no PL 6299/2002 dos agrotóxicos (09/02/2022) e na urgência do PL 191/2020 (mineração)."
+   },
+   "G09": {
+    "v": 4,
+    "conf": "declaracao",
+    "fonte": "https://www.dgabc.com.br/Noticia/4344815/derrite-chama-senado-de-omisso-e-defende-impeachment-de-ministros-do-stf",
+    "nota": "Em 02/09/2026 criticou abusos do STF e cobrou do Senado ação contra ministros; em 2024 criticou a decisão do STF sobre maconha."
+   },
+   "G10": {
+    "v": 2,
+    "conf": "voto",
+    "fonte": "https://dadosabertos.camara.leg.br/api/v2/votacoes/2171314-10/votos",
+    "nota": "Votou Não no requerimento de urgência para o PL 2630/2020 (regulação de plataformas) em 06/04/2022; a urgência foi rejeitada (249 x 207)."
+   },
+   "G12": {
+    "v": 5,
+    "conf": "declaracao",
+    "fonte": "https://www.metropoles.com/colunas/paulo-cappelli/pcc-e-cv-derrite-apoia-reducao-da-maioridade-penal-para-16-anos",
+    "nota": "Em 10/12/2025 defendeu reduzir a maioridade penal para 16 anos, não só para faccionados; reiterou à Gazeta do Povo em 16/09/2026."
+   },
+   "G14": {
+    "v": 2,
+    "conf": "declaracao",
+    "fonte": "https://www.gazetadopovo.com.br/eleicoes/2026/sao-paulo-2026/derrite-acusa-adversarias-ao-senado-de-incoerencia-e-oportunismo-apos-atritos-com-pt/",
+    "nota": "Em entrevista à Gazeta do Povo (16/09/2026), disse ser contra o fim da escala 6x1 'do jeito que está'."
+   },
+   "S01": {
+    "v": 5,
+    "conf": "declaracao",
+    "fonte": "https://www.dgabc.com.br/Noticia/4344815/derrite-chama-senado-de-omisso-e-defende-impeachment-de-ministros-do-stf",
+    "nota": "Em 02/09/2026 e no debate Estadão/Faap (23/09/2026), defendeu abrir processos de impeachment contra ministros do STF."
+   },
+   "S02": {
+    "v": 4,
+    "conf": "declaracao",
+    "fonte": "https://acritica.net/eleicoes-2026/candidatos-ao-senado-em-sao-paulo-defendem-mudancas-no-stf-e-discutem-impeachment-de-ministros/",
+    "nota": "Em levantamento publicado em 21/09/2026, citou mandato de 10 anos para ministros do STF."
+   },
+   "S03": {
+    "v": 4,
+    "conf": "declaracao",
+    "fonte": "https://acritica.net/eleicoes-2026/candidatos-ao-senado-em-sao-paulo-defendem-mudancas-no-stf-e-discutem-impeachment-de-ministros/",
+    "nota": "Em levantamento publicado em 21/09/2026, defendeu limitar decisões individuais de ministros do STF."
+   },
+   "S04": {
+    "v": 4,
+    "conf": "declaracao",
+    "fonte": "https://www.gazetadopovo.com.br/eleicoes/2026/sao-paulo-2026/derrite-acusa-adversarias-ao-senado-de-incoerencia-e-oportunismo-apos-atritos-com-pt/",
+    "nota": "Em entrevista à Gazeta do Povo (16/09/2026), declarou-se a favor do fim do foro privilegiado."
+   }
+  }
+ },
+ {
+  "id": 250002554075,
+  "nomeUrna": "GUTO SCHIAVETTO",
+  "resumo": "Comerciante de Limeira, porta-voz do MBL na cidade e comentarista do Expresso MBL. Três vezes candidato a vereador sem ser eleito. Candidato ao Senado por SP pelo Missão.",
+  "bandeiras": [
+   "Pacto federativo: mais recursos federais para SP",
+   "Freio aos abusos do STF",
+   "Combate ao crime organizado e pena dura para chefes de facção"
+  ],
+  "posicoes": {
+   "G01": {
+    "v": 4,
+    "conf": "declaracao",
+    "fonte": "https://www.gutoschiavetto.com.br/",
+    "nota": "No site de campanha (2026) defende menos impostos e corte de gastos; à Gazeta do Povo (03/09/2026) disse ser a favor do teto de gastos."
+   },
+   "G05": {
+    "v": 2,
+    "conf": "declaracao",
+    "fonte": "https://www.gazetadopovo.com.br/eleicoes/2026/sao-paulo-2026/guto-schiavetto-entrevista/",
+    "nota": "Em entrevista à Gazeta do Povo (03/09/2026), respondeu \"contra\" à legalização do aborto."
+   },
+   "G09": {
+    "v": 5,
+    "conf": "declaracao",
+    "fonte": "https://www.gutoschiavetto.com.br/",
+    "nota": "Site de campanha (2026) propõe \"freio aos abusos do STF\" e crítica ao ativismo judicial; em entrevistas criticou a conduta de ministros."
+   },
+   "G12": {
+    "v": 4,
+    "conf": "declaracao",
+    "fonte": "https://www.gazetadopovo.com.br/eleicoes/2026/sao-paulo-2026/guto-schiavetto-entrevista/",
+    "nota": "Em entrevista à Gazeta do Povo (03/09/2026), respondeu \"a favor\" à redução da maioridade penal, sem citar idade."
+   },
+   "S01": {
+    "v": 5,
+    "conf": "declaracao",
+    "fonte": "https://www.gazetadopovo.com.br/eleicoes/2026/sao-paulo-2026/guto-schiavetto-entrevista/",
+    "nota": "À Gazeta do Povo (03/09/2026) disse ser \"muito a favor\" do impeachment de ministros do STF e defendeu o de Moraes e Toffoli."
+   },
+   "S04": {
+    "v": 4,
+    "conf": "declaracao",
+    "fonte": "https://www.gazetadopovo.com.br/eleicoes/2026/sao-paulo-2026/guto-schiavetto-entrevista/",
+    "nota": "Em entrevista à Gazeta do Povo (03/09/2026), respondeu \"a favor\" ao fim do foro privilegiado."
+   }
+  }
+ },
+ {
+  "id": 250002544516,
+  "nomeUrna": "MAÍRA DE SOUZA",
+  "resumo": "Professora do ensino fundamental da rede municipal de Praia Grande há 24 anos, ativista do Movimento Luta de Classes. Candidata ao Senado por SP pela UP, em sua primeira eleição.",
+  "bandeiras": [
+   "Jornada 4x3 de 30 horas semanais",
+   "Reestatização de serviços essenciais",
+   "Educação pública sem vestibular e sem militarização"
+  ],
+  "posicoes": {
+   "G03": {
+    "v": 1,
+    "conf": "declaracao",
+    "fonte": "https://www.brasildefato.com.br/2026/09/11/candidata-da-up-ao-senado-por-sp-defende-jornada-de-trabalho-de-30-horas-e-juizes-eleitos-pelo-povo/",
+    "nota": "Ao Brasil de Fato (11/09/2026), defendeu reestatizar transporte e saneamento e manter a Petrobras 100% estatal; reiterou a reestatização à CNN."
+   },
+   "G14": {
+    "v": 5,
+    "conf": "declaracao",
+    "fonte": "https://www.brasildefato.com.br/2026/09/11/candidata-da-up-ao-senado-por-sp-defende-jornada-de-trabalho-de-30-horas-e-juizes-eleitos-pelo-povo/",
+    "nota": "Ao Brasil de Fato (11/09/2026), comparou a escala 6x1 à escravidão e defendeu jornada 4x3 de 30 horas sem redução salarial."
+   }
+  }
+ },
+ {
+  "id": 250002544514,
+  "nomeUrna": "MARCIO ALVES",
+  "resumo": "Eletricista nascido em Ilhéus (BA), coordenador nacional do Movimento Luta de Classes e militante de moradia no ABC. Candidato ao Senado por SP pela UP; foi 2º suplente ao Senado em 2022.",
+  "bandeiras": [
+   "Fim da escala 6x1",
+   "Desmilitarização da PM",
+   "Reestatização de Sabesp, CPTM e Enel"
+  ],
+  "posicoes": {
+   "G03": {
+    "v": 2,
+    "conf": "declaracao",
+    "fonte": "https://www.brasildefato.com.br/2026/09/22/candidato-da-up-ao-senado-por-sp-defende-desmilitarizacao-da-pm-e-critica-privatizacoes/",
+    "nota": "Ao Brasil de Fato (22/09/2026), disse que é preciso acabar com a privatização de Sabesp, CPTM e Enel."
+   },
+   "G07": {
+    "v": 4,
+    "conf": "declaracao",
+    "fonte": "https://www.brasildefato.com.br/2026/09/22/candidato-da-up-ao-senado-por-sp-defende-desmilitarizacao-da-pm-e-critica-privatizacoes/",
+    "nota": "Ao Brasil de Fato (22/09/2026), criticou a ampliação da exploração de petróleo na Margem Equatorial e defendeu energia renovável."
+   },
+   "G14": {
+    "v": 4,
+    "conf": "declaracao",
+    "fonte": "https://www.brasildefato.com.br/2026/09/22/candidato-da-up-ao-senado-por-sp-defende-desmilitarizacao-da-pm-e-critica-privatizacoes/",
+    "nota": "Ao Brasil de Fato (22/09/2026), defendeu o fim da escala 6x1 e disse que a redução da jornada já deveria ter sido aprovada."
+   }
+  }
+ },
+ {
+  "id": 250002551501,
+  "nomeUrna": "MARINA SILVA",
+  "resumo": "Deputada federal pela Rede-SP, foi ministra do Meio Ambiente de 2023 a 1º/04/2026 e senadora pelo Acre. Candidata ao Senado por SP pela Rede, coligação Desperta São Paulo.",
+  "bandeiras": [
+   "Fim da escala 6x1",
+   "Segurança pública integrada contra o crime organizado",
+   "Meio ambiente e segurança climática"
+  ],
+  "posicoes": {
+   "G02": {
+    "v": 4,
+    "conf": "declaracao",
+    "fonte": "https://www.brasildefato.com.br/2026/09/23/em-debate-para-o-senado-derrite-critica-o-bolsa-familia-e-marina-diz-que-adversario-desconhece-a-pobreza/",
+    "nota": "Em debate Estadão/Faap (23/09/2026), defendeu o Bolsa Família e o reajuste de 15% contra críticas de adversário."
+   },
+   "G04": {
+    "v": 2,
+    "conf": "declaracao",
+    "fonte": "https://www.meon.com.br/noticias/para-marina-armar-populacao-e-transferir-responsabilidade-do-estado",
+    "nota": "Como candidata a presidente em 2018, disse que armar a população é transferir ao cidadão a responsabilidade do Estado; criticou decreto de armas em 2019."
+   },
+   "G05": {
+    "v": 2,
+    "conf": "declaracao",
+    "fonte": "https://www.terra.com.br/noticias/eleicoes/sao-paulo/marina-silva-critica-contaminacao-politica-no-stf-e-diz-que-apoio-a-lula-veio-apos-assalto-a-democracia,19fa65817c24faf5721dd366035bc40avplxx2s2.html",
+    "nota": "Ao Terra (16/09/2026), disse ser pessoalmente contra o aborto e defender as hipóteses legais atuais, sem estigmatizar mulheres."
+   },
+   "G07": {
+    "v": 5,
+    "conf": "declaracao",
+    "fonte": "https://agenciabrasil.ebc.com.br/meio-ambiente/noticia/2025-07/marina-silva-ve-pl-da-devastacao-como-tiro-no-pe-do-agronegocio",
+    "nota": "Como ministra (07/2025), criticou a flexibilização do licenciamento ambiental, dizendo que elevaria desmatamento e queimadas."
+   },
+   "G08": {
+    "v": 1,
+    "conf": "declaracao",
+    "fonte": "https://www.poder360.com.br/poder-brasil/marina-silva-critica-anistia-e-diz-que-pena-deveria-ser-maior/",
+    "nota": "Em ato de 1º/05/2026 em SP, chamou a anistia do 8/1 de vergonha, disse que a pena deveria ser maior e gritou 'sem anistia'."
+   },
+   "G11": {
+    "v": 4,
+    "conf": "declaracao",
+    "fonte": "https://www.poder360.com.br/eleicoes/economista-e-colaborador-do-programa-de-marina-e-contra-cotas-raciais/",
+    "nota": "Na campanha presidencial de 2018, defendeu manter as cotas raciais, com caráter temporário e reparatório."
+   },
+   "G12": {
+    "v": 2,
+    "conf": "declaracao",
+    "fonte": "https://www.terra.com.br/noticias/eleicoes/sao-paulo/marina-silva-critica-contaminacao-politica-no-stf-e-diz-que-apoio-a-lula-veio-apos-assalto-a-democracia,19fa65817c24faf5721dd366035bc40avplxx2s2.html",
+    "nota": "Ao Terra (16/09/2026), disse ser contra reduzir a maioridade penal de 18 para 16 anos; em 08/2026 chamou o debate de populista."
+   },
+   "G13": {
+    "v": 2,
+    "conf": "declaracao",
+    "fonte": "https://www.agazeta.com.br/es/politica/no-es-marina-silva-critica-a-manipulacao-da-fe-pela-politica-1022",
+    "nota": "Em 27/10/2022, disse que o Estado é laico, com política pública para todos, e criticou a manipulação da política pela fé."
+   },
+   "S01": {
+    "v": 4,
+    "conf": "declaracao",
+    "fonte": "https://www.brasildefato.com.br/2026/09/17/candidata-ao-senado-por-sp-marina-silva-defende-fim-da-escala-6x1-e-apuracao-total-no-caso-master/",
+    "nota": "Em 17/09/2026, disse que os indícios contra Moraes justificam abrir processo no Senado, mas é contra banalizar o impeachment."
+   },
+   "S02": {
+    "v": 4,
+    "conf": "declaracao",
+    "fonte": "https://www.radiocaicara.com.br/impeachment-de-ministros-do-supremo-une-rivais-que-disputam-o-senado-por-sao-paulo/",
+    "nota": "Ao Estadão (21/09/2026), defendeu mandato fixo de 15 anos para ministros do STF."
+   },
+   "S03": {
+    "v": 4,
+    "conf": "declaracao",
+    "fonte": "https://www.radiocaicara.com.br/impeachment-de-ministros-do-supremo-une-rivais-que-disputam-o-senado-por-sao-paulo/",
+    "nota": "Ao Estadão (21/09/2026), defendeu limitar as decisões monocráticas de ministros do STF."
+   },
+   "S04": {
+    "v": 4,
+    "conf": "declaracao",
+    "fonte": "https://www.meon.com.br/noticias/marina-promete-acabar-com-foro-privilegiado",
+    "nota": "Como candidata a presidente (01/09/2018), prometeu acabar com o foro privilegiado."
+   },
+   "S05": {
+    "v": 4,
+    "conf": "declaracao",
+    "fonte": "https://www.poder360.com.br/eleicoes/marina-silva-oficializa-candidatura-e-disputara-a-presidencia-pela-3a-vez/",
+    "nota": "Na campanha presidencial de 2018 (04/08/2018), defendia o fim da reeleição."
+   }
+  }
+ },
+ {
+  "id": 250002552153,
+  "nomeUrna": "PETTER MAAHS",
+  "resumo": "Diretor de escola pública em Cubatão desde 2008, doutor em Educação pela USP e militante do PCB desde 2006. Candidato ao Senado por SP pelo PCB, em sua primeira eleição.",
+  "bandeiras": [
+   "Fim da escala 6x1 e jornada de 30 horas",
+   "Fim do Senado (Legislativo unicameral)",
+   "Desmilitarização da polícia e reindustrialização"
+  ],
+  "posicoes": {
+   "G03": {
+    "v": 2,
+    "conf": "declaracao",
+    "fonte": "https://www.brasildefato.com.br/2026/09/23/candidato-do-pcb-ao-senado-por-sp-defende-jornada-de-30-horas-e-reindustrializacao-do-pais/",
+    "nota": "Ao Brasil de Fato (23/09/2026), criticou a exploração de petróleo por empresas privadas que visam o lucro e defendeu controle por conselhos populares."
+   },
+   "G14": {
+    "v": 5,
+    "conf": "declaracao",
+    "fonte": "https://www.brasildefato.com.br/2026/09/23/candidato-do-pcb-ao-senado-por-sp-defende-jornada-de-30-horas-e-reindustrializacao-do-pais/",
+    "nota": "Ao Brasil de Fato (23/09/2026), chamou o fim da escala 6x1 de máxima prioridade e defendeu jornada de 30 horas semanais."
+   }
+  }
+ },
+ {
+  "id": 250002532794,
+  "nomeUrna": "SALLES",
+  "resumo": "Deputado federal por SP desde 2023, foi ministro do Meio Ambiente de 2019 a 2021 e secretário estadual em SP. Candidato ao Senado pelo Novo.",
+  "bandeiras": [
+   "Defesa dos recursos de São Paulo",
+   "Combate à corrupção",
+   "Segurança pública"
+  ],
+  "posicoes": {
+   "G01": {
+    "v": 4,
+    "conf": "declaracao",
+    "fonte": "https://www.terra.com.br/noticias/eleicoes/sao-paulo/salles-descarta-trauma-por-eventual-impeachment-de-ministros-do-stf-critica-centrao-valdemarista-e-diz-ser-contra-regulamentar-ia,bd5b87c9dc342159c67887ade09139eeren8whca.html",
+    "nota": "Ao Terra (14/09/2026) defendeu cortar despesas ineficientes para reduzir a carga tributária; à Gazeta do Povo apoiou o teto de gastos."
+   },
+   "G05": {
+    "v": 1,
+    "conf": "declaracao",
+    "fonte": "https://www.terra.com.br/noticias/eleicoes/sao-paulo/salles-descarta-trauma-por-eventual-impeachment-de-ministros-do-stf-critica-centrao-valdemarista-e-diz-ser-contra-regulamentar-ia,bd5b87c9dc342159c67887ade09139eeren8whca.html",
+    "nota": "Contra a legalização do aborto (Gazeta do Povo, 17/09/2026); ao Terra (14/09/2026) disse que a lei atual é 'mais do que suficiente'."
+   },
+   "G06": {
+    "v": 1,
+    "conf": "declaracao",
+    "fonte": "https://www.cnnbrasil.com.br/politica/sociedade-nao-pode-ter-tolerancia-com-a-maconha-diz-a-cnn-relator-da-pec-das-drogas-na-ccj-da-camara/",
+    "nota": "Relator da PEC das Drogas na CCJ da Câmara; em 26/06/2024 disse que não deve haver tolerância com a maconha e criticou a decisão do STF."
+   },
+   "G07": {
+    "v": 2,
+    "conf": "declaracao",
+    "fonte": "https://www.terra.com.br/noticias/eleicoes/sao-paulo/salles-descarta-trauma-por-eventual-impeachment-de-ministros-do-stf-critica-centrao-valdemarista-e-diz-ser-contra-regulamentar-ia,bd5b87c9dc342159c67887ade09139eeren8whca.html",
+    "nota": "Ao Terra (14/09/2026) manteve a posição do 'passar a boiada' (2020) e defendeu simplificar regras ambientais para o desenvolvimento."
+   },
+   "G09": {
+    "v": 5,
+    "conf": "declaracao",
+    "fonte": "https://www.cnnbrasil.com.br/politica/stf-nao-deve-se-meter-em-nenhuma-politica-publica-diz-salles-a-cnn/",
+    "nota": "Em 26/06/2024 disse que o STF fez ativismo e não deve se meter em política pública; em 2026 defendeu mais controle do Senado sobre o STF."
+   },
+   "G12": {
+    "v": 5,
+    "conf": "declaracao",
+    "fonte": "https://www.terra.com.br/noticias/eleicoes/sao-paulo/salles-descarta-trauma-por-eventual-impeachment-de-ministros-do-stf-critica-centrao-valdemarista-e-diz-ser-contra-regulamentar-ia,bd5b87c9dc342159c67887ade09139eeren8whca.html",
+    "nota": "Defende reduzir a maioridade penal para 16 anos (Terra, 14/09/2026; Gazeta do Povo, 17/09/2026)."
+   },
+   "S01": {
+    "v": 4,
+    "conf": "declaracao",
+    "fonte": "https://www.terra.com.br/noticias/eleicoes/sao-paulo/salles-descarta-trauma-por-eventual-impeachment-de-ministros-do-stf-critica-centrao-valdemarista-e-diz-ser-contra-regulamentar-ia,bd5b87c9dc342159c67887ade09139eeren8whca.html",
+    "nota": "Ao Terra (14/09/2026) disse ser a favor do impeachment de ministros do STF se comprovado crime de responsabilidade, com devido processo."
+   },
+   "S02": {
+    "v": 3,
+    "conf": "declaracao",
+    "fonte": "https://www.terra.com.br/noticias/eleicoes/sao-paulo/salles-descarta-trauma-por-eventual-impeachment-de-ministros-do-stf-critica-centrao-valdemarista-e-diz-ser-contra-regulamentar-ia,bd5b87c9dc342159c67887ade09139eeren8whca.html",
+    "nota": "Citou 15 anos como possibilidade, mas ao Terra (14/09/2026) propôs idade mínima de 60 anos para indicação no lugar de mandato fixo."
+   },
+   "S03": {
+    "v": 4,
+    "conf": "declaracao",
+    "fonte": "https://acritica.net/eleicoes-2026/candidatos-ao-senado-em-sao-paulo-defendem-mudancas-no-stf-e-discutem-impeachment-de-ministros/",
+    "nota": "Em levantamento publicado em 21/09/2026, defendeu limitar decisões individuais de ministros do STF."
+   },
+   "S04": {
+    "v": 4,
+    "conf": "declaracao",
+    "fonte": "https://www.gazetadopovo.com.br/eleicoes/2026/sao-paulo-2026/ricardo-salles-afirma-que-uniao-entre-pt-e-pl-do-valdemar-apoiou-alcolumbre-no-senado/",
+    "nota": "Em entrevista à Gazeta do Povo (17/09/2026), declarou-se a favor do fim do foro privilegiado."
+   }
+  }
+ },
+ {
+  "id": 250002551502,
+  "nomeUrna": "SIMONE TEBET",
+  "resumo": "Ministra do Planejamento de 2023 a 31/03/2026 e senadora por MS de 2015 a 2023. Candidata ao Senado por SP pelo PSB, coligação Desperta São Paulo.",
+  "bandeiras": [
+   "Segurança pública integrada contra o crime organizado",
+   "Fim da escala 6x1",
+   "Reforma do STF"
+  ],
+  "posicoes": {
+   "G01": {
+    "v": 2,
+    "conf": "declaracao",
+    "fonte": "https://www.terra.com.br/noticias/eleicoes/sao-paulo/tebet-diz-que-stf-precisa-de-freio-urgente-que-nao-coloca-a-mao-no-fogo-por-aliados-e-defende-sustentabilidade-no-agro,19941fe1e6b3d1ba5e4d8a41d2c37625g3pp10qt.html",
+    "nota": "Ao Terra (16/09/2026), disse ser possível fazer superávit cortando desperdício e sonegação 'sem tirar nenhuma proteção de políticas públicas'."
+   },
+   "G02": {
+    "v": 4,
+    "conf": "declaracao",
+    "fonte": "https://revistaoeste.com/politica/senado-debate-tenso-em-sp-tem-ataques-entre-prado-e-salles-e-criticas-a-tebet-e-marina/",
+    "nota": "Em debate UOL/Folha (21/09/2026), defendeu o reajuste do Bolsa Família, dizendo que estava previsto em lei após três anos sem aumento."
+   },
+   "G03": {
+    "v": 3,
+    "conf": "declaracao",
+    "fonte": "https://exame.com/brasil/sou-contra-a-privatizacao-da-petrobras-diz-simone-tebet/",
+    "nota": "Em 2022 disse ser contra privatizar a Petrobras, mas que há 'muitas outras estatais' a privatizar; votou Não à MP da Eletrobras em 2021."
+   },
+   "G04": {
+    "v": 2,
+    "conf": "voto",
+    "fonte": "https://legis.senado.leg.br/dadosabertos/votacao?codigoMateria=136635",
+    "nota": "Votou Sim ao PDL 233/2019, que sustou o decreto de armas (18/06/2019, 47x28); em 2022 prometeu revogar os decretos de armas."
+   },
+   "G05": {
+    "v": 2,
+    "conf": "declaracao",
+    "fonte": "https://www.folhape.com.br/politica/presidenciaveis-nao-aprofundam-debate-sobre-aborto-dominado-por/227687/",
+    "nota": "Em 2022 disse ser contra o aborto e a favor apenas das hipóteses legais atuais; em 09/2026 disse manter a lei atual."
+   },
+   "G07": {
+    "v": 3,
+    "conf": "declaracao",
+    "fonte": "https://www.terra.com.br/noticias/eleicoes/sao-paulo/tebet-diz-que-stf-precisa-de-freio-urgente-que-nao-coloca-a-mao-no-fogo-por-aliados-e-defende-sustentabilidade-no-agro,19941fe1e6b3d1ba5e4d8a41d2c37625g3pp10qt.html",
+    "nota": "Em 09/2026 disse que o produtor deve proteger florestas e o conflito é com grileiros; apoia exploração de petróleo na Margem Equatorial."
+   },
+   "G09": {
+    "v": 4,
+    "conf": "declaracao",
+    "fonte": "https://www.terra.com.br/noticias/eleicoes/sao-paulo/tebet-diz-que-stf-precisa-de-freio-urgente-que-nao-coloca-a-mao-no-fogo-por-aliados-e-defende-sustentabilidade-no-agro,19941fe1e6b3d1ba5e4d8a41d2c37625g3pp10qt.html",
+    "nota": "Ao Terra (16/09/2026), disse que o STF precisa de um 'freio de arrumação urgente e imediato'."
+   },
+   "G10": {
+    "v": 4,
+    "conf": "voto",
+    "fonte": "https://legis.senado.leg.br/dadosabertos/votacao?codigoMateria=141944",
+    "nota": "Votou Sim ao PL 2630/2020 (Lei das Fake News) no Senado em 30/06/2020 (44x32)."
+   },
+   "G12": {
+    "v": 4,
+    "conf": "declaracao",
+    "fonte": "https://www.terra.com.br/noticias/eleicoes/sao-paulo/tebet-diz-que-stf-precisa-de-freio-urgente-que-nao-coloca-a-mao-no-fogo-por-aliados-e-defende-sustentabilidade-no-agro,19941fe1e6b3d1ba5e4d8a41d2c37625g3pp10qt.html",
+    "nota": "Ao Terra (16/09/2026), defendeu reduzir a maioridade para 16 anos em crimes graves, como estupro e latrocínio."
+   },
+   "G14": {
+    "v": 5,
+    "conf": "declaracao",
+    "fonte": "https://www.brasildefato.com.br/2026/09/24/candidata-ao-senado-por-sp-simone-tebet-defende-pec-da-seguranca-publica-e-fim-da-escala-6x1/",
+    "nota": "Em 24/09/2026 defendeu o fim da escala 6x1, como já fazia como ministra ('o Brasil não vai quebrar')."
+   },
+   "S01": {
+    "v": 4,
+    "conf": "declaracao",
+    "fonte": "https://www.radiocaicara.com.br/impeachment-de-ministros-do-supremo-une-rivais-que-disputam-o-senado-por-sao-paulo/",
+    "nota": "Ao Estadão (21/09/2026), comparou o impeachment de ministros do STF ao de presidentes: 'Isso não é atacar o Supremo'."
+   },
+   "S02": {
+    "v": 5,
+    "conf": "declaracao",
+    "fonte": "https://www.radiocaicara.com.br/impeachment-de-ministros-do-supremo-une-rivais-que-disputam-o-senado-por-sao-paulo/",
+    "nota": "Ao Estadão (21/09/2026), defendeu mandato de 12 anos para ministros do STF; ao Terra (16/09) pediu fim da vitaliciedade."
+   },
+   "S03": {
+    "v": 4,
+    "conf": "declaracao",
+    "fonte": "https://www.terra.com.br/noticias/eleicoes/sao-paulo/tebet-diz-que-stf-precisa-de-freio-urgente-que-nao-coloca-a-mao-no-fogo-por-aliados-e-defende-sustentabilidade-no-agro,19941fe1e6b3d1ba5e4d8a41d2c37625g3pp10qt.html",
+    "nota": "Em 09/2026 defendeu restringir decisões monocráticas: 'É o plenário do STF que pode dar a última palavra'."
+   },
+   "S04": {
+    "v": 4,
+    "conf": "declaracao",
+    "fonte": "https://www.gazetadopovo.com.br/vozes/lucio-vaz/com-foro-privilegiado-simone-tebet-teve-inquerito-arquivado-por-prescricao/",
+    "nota": "Como senadora, disse à Gazeta do Povo (22/01/2019): 'Sou a favor do fim do foro privilegiado'."
+   },
+   "S05": {
+    "v": 4,
+    "conf": "declaracao",
+    "fonte": "https://www.cnnbrasil.com.br/politica/a-cnn-tebet-diverge-de-lula-e-defende-fim-da-reeleicao/",
+    "nota": "À CNN (31/03/2024), disse ser totalmente a favor do fim da reeleição, com mandato de cinco anos."
+   }
+  }
+ },
+ {
+  "id": 250002552369,
+  "nomeUrna": "SONINHA FRANCINE",
+  "resumo": "Jornalista, duas vezes vereadora de São Paulo e secretária municipal de Direitos Humanos (2022 a 2025). Candidata ao Senado por SP pelo Cidadania (Federação PSDB Cidadania).",
+  "bandeiras": [
+   "Integração nacional das polícias",
+   "Proteção às mulheres com verba federal para centros de referência",
+   "Transparência nas emendas e revisão do pacto federativo"
+  ],
+  "posicoes": {
+   "G01": {
+    "v": 4,
+    "conf": "declaracao",
+    "fonte": "https://www.gazetadopovo.com.br/eleicoes/2026/sao-paulo-2026/soninha-francine-entrevista/",
+    "nota": "Em entrevista à Gazeta do Povo (04/09/2026), disse ser a favor do teto de gastos; ao Terra, criticou novas despesas sem fonte."
+   },
+   "G05": {
+    "v": 5,
+    "conf": "declaracao",
+    "fonte": "https://www.gazetadopovo.com.br/eleicoes/2026/sao-paulo-2026/soninha-francine-entrevista/",
+    "nota": "À Gazeta do Povo (04/09/2026), disse ser a favor da legalização do aborto; ao Terra (17/09) disse que 'proibir não protege'."
+   },
+   "G06": {
+    "v": 4,
+    "conf": "declaracao",
+    "fonte": "https://www.gazetadopovo.com.br/eleicoes/2026/sao-paulo-2026/soninha-francine-entrevista/",
+    "nota": "À Gazeta do Povo (04/09/2026), disse ser a favor da legalização da maconha, mas que o Brasil não está maduro para o uso recreativo."
+   },
+   "G07": {
+    "v": 3,
+    "conf": "declaracao",
+    "fonte": "https://www.brasildefato.com.br/2026/09/10/soninha-francine-defende-escala-flexivel-de-trabalho-integracao-na-seguranca-e-maior-rigor-ambiental/",
+    "nota": "Em 10/09/2026 defendeu maior rigor na fiscalização ambiental, mas também a exploração de petróleo com licenciamento rigoroso."
+   },
+   "G09": {
+    "v": 4,
+    "conf": "declaracao",
+    "fonte": "https://www.gazetadopovo.com.br/eleicoes/2026/sao-paulo-2026/soninha-francine-entrevista/",
+    "nota": "À Gazeta do Povo (04/09/2026), disse que 'já foi longe demais tudo o que acontece no Supremo'."
+   },
+   "G12": {
+    "v": 4,
+    "conf": "declaracao",
+    "fonte": "https://www.terra.com.br/noticias/eleicoes/sao-paulo/soninha-francine-diz-ter-abandonado-dogmas-da-esquerda-e-quer-tarcisio-emancipado-do-bolsonarismo,1fb6a265141efbd6b04930fbcb85fc0erfk2da0d.html",
+    "nota": "Ao Terra (17/09/2026), defendeu reduzir a maioridade para 16 anos em crimes graves contra a pessoa."
+   },
+   "G14": {
+    "v": 3,
+    "conf": "declaracao",
+    "fonte": "https://tmc.com.br/politica/soninha-francine-defende-fim-da-escala-6x1-totalmente-justo-ter-duas-folgas/",
+    "nota": "Diz ser a favor do fim da 6x1 com ressalvas; no debate de 23/09/2026 levantou preocupação com os custos. Posição mista."
+   },
+   "S01": {
+    "v": 4,
+    "conf": "declaracao",
+    "fonte": "https://www.gazetadopovo.com.br/eleicoes/2026/sao-paulo-2026/soninha-francine-entrevista/",
+    "nota": "Em 09/2026 disse haver motivos para abrir processos contra Moraes, Toffoli e Gilmar; ao Terra, disse ser a via possível se o STF não agir."
+   },
+   "S02": {
+    "v": 4,
+    "conf": "declaracao",
+    "fonte": "https://www.terra.com.br/noticias/eleicoes/sao-paulo/soninha-francine-diz-ter-abandonado-dogmas-da-esquerda-e-quer-tarcisio-emancipado-do-bolsonarismo,1fb6a265141efbd6b04930fbcb85fc0erfk2da0d.html",
+    "nota": "Ao Terra (17/09/2026), defendeu mandato com prazo fixo para ministros do STF, sem definir a duração."
+   },
+   "S03": {
+    "v": 4,
+    "conf": "declaracao",
+    "fonte": "https://www.radiocaicara.com.br/impeachment-de-ministros-do-supremo-une-rivais-que-disputam-o-senado-por-sao-paulo/",
+    "nota": "Ao Estadão (21/09/2026), defendeu limitar as decisões monocráticas de ministros do STF."
+   },
+   "S04": {
+    "v": 4,
+    "conf": "declaracao",
+    "fonte": "https://www.gazetadopovo.com.br/eleicoes/2026/sao-paulo-2026/soninha-francine-entrevista/",
+    "nota": "À Gazeta do Povo (04/09/2026), respondeu ser a favor do fim do foro privilegiado."
+   }
+  }
+ },
+ {
+  "id": 250002541365,
+  "nomeUrna": "WELLER GONÇALVES",
+  "resumo": "Metalúrgico, presidente licenciado do Sindicato dos Metalúrgicos de São José dos Campos e Região (3º mandato). Candidato ao Senado por SP pelo PSTU.",
+  "bandeiras": [
+   "Fim da escala 6x1 (escala 4x3, 36 horas)",
+   "Estatização de empresas estratégicas",
+   "Desmilitarização da PM"
+  ],
+  "posicoes": {
+   "G01": {
+    "v": 2,
+    "conf": "declaracao",
+    "fonte": "https://www.sindmetalsjc.org.br/n/6394/arcabouco-fiscal-de-lula-compromete-recursos-para-servicos-publicos",
+    "nota": "Como presidente do sindicato (abr/2023), criticou o arcabouço fiscal por limitar gastos e defendeu mais recursos para serviços públicos."
+   },
+   "G03": {
+    "v": 1,
+    "conf": "declaracao",
+    "fonte": "https://www.cnnbrasil.com.br/eleicoes/quem-e-weller-goncalves-candidato-ao-senado-por-sp/",
+    "nota": "Propõe estatizar ou reestatizar empresas estratégicas (CNN, 14/09/2026); defendeu Petrobras estatal e estatização da Avibras (BdF, OVale, set/2026)."
+   },
+   "G06": {
+    "v": 5,
+    "conf": "declaracao",
+    "fonte": "https://www.brasildefato.com.br/2026/09/08/candidato-do-pstu-ao-senado-em-sp-defende-escala-4x3-reindustrializacao-e-desmilitarizacao-da-pm/",
+    "nota": "Ao Brasil de Fato (08/09/2026), disse defender a descriminalização e a legalização das drogas para enfrentar a violência do tráfico."
+   },
+   "G07": {
+    "v": 4,
+    "conf": "declaracao",
+    "fonte": "https://www.brasildefato.com.br/2026/09/08/candidato-do-pstu-ao-senado-em-sp-defende-escala-4x3-reindustrializacao-e-desmilitarizacao-da-pm/",
+    "nota": "Ao Brasil de Fato (08/09/2026), se opôs à exploração de petróleo na Margem Equatorial e aos combustíveis fósseis, citando riscos climáticos."
+   },
+   "G08": {
+    "v": 2,
+    "conf": "declaracao",
+    "fonte": "https://www.sindmetalsjc.org.br/n/6280/manifestacao-em-sao-jose-exige-punicao-imediata-de-bolsonaro-e-golpistas",
+    "nota": "Em ato em 09/01/2023, como presidente do sindicato, disse exigir punição exemplar para todos os golpistas do 8 de janeiro."
+   },
+   "G14": {
+    "v": 5,
+    "conf": "declaracao",
+    "fonte": "https://www.brasildefato.com.br/2026/09/08/candidato-do-pstu-ao-senado-em-sp-defende-escala-4x3-reindustrializacao-e-desmilitarizacao-da-pm/",
+    "nota": "Ao Brasil de Fato (08/09/2026), defendeu escala 4x3 com 36 horas semanais; à CNN, propôs greve geral pela PEC do fim da 6x1."
+   }
+  }
+ },
+ {
+  "id": 250002553252,
+  "nomeUrna": "WILLIAM TEIXEIRA",
+  "resumo": "Relações-públicas e eletricista, natural da capital paulista. Concorreu a vereador em Santana de Parnaíba pelo PT (2012). Candidato ao Senado por SP pelo Agir.",
+  "bandeiras": [
+   "Energia solar em bairros populares e programas habitacionais",
+   "Isenção de IR para rendas até R$ 50 mil mensais",
+   "Fim do IPVA"
+  ],
+  "posicoes": {}
+ }
+]

@@ -1,0 +1,1746 @@
+[
+ {
+  "id": 250002535972,
+  "nomeUrna": "ROSANA VALLE",
+  "resumo": "Jornalista, deputada federal por SP desde 2019 (eleita pelo PSB e depois pelo PL). Disputou a prefeitura de Santos em 2024 e foi ao 2º turno; busca o 3º mandato.",
+  "bandeiras": [
+   "Proteção e direitos das mulheres"
+  ],
+  "posicoes": {
+   "G01": {
+    "v": 4,
+    "conf": "declaracao",
+    "fonte": "https://www.congressoemfoco.com.br/artigo/115559/descontrole-fiscal-inflacao-e-desconfianca-a-fatura-entregue-pelo-pt",
+    "nota": "Em artigo de 16/01/2026 criticou aumento de impostos e falta de controle de despesas; disse que o país não precisa de mais impostos."
+   },
+   "G05": {
+    "v": 2,
+    "conf": "voto",
+    "fonte": "https://dadosabertos.camara.leg.br/api/v2/votacoes/2482078-57/votos",
+    "nota": "Votou Sim ao PDL 3/2025, que sustou resolução do Conanda sobre aborto legal para meninas vítimas de violência (05/11/2025)."
+   },
+   "G06": {
+    "v": 2,
+    "conf": "declaracao",
+    "fonte": "https://dadosabertos.camara.leg.br/api/v2/deputados/204525/discursos?dataInicio=2023-08-23&dataFim=2023-08-23&itens=100",
+    "nota": "Em discurso de 23/08/2023 disse ser totalmente contra o STF descriminalizar o porte de drogas em pequenas quantidades."
+   },
+   "G09": {
+    "v": 4,
+    "conf": "declaracao",
+    "fonte": "https://www.congressoemfoco.com.br/artigo/116656/o-inquerito-das-fake-news",
+    "nota": "Em artigo de 24/02/2026 criticou o inquérito das fake news e poderes extraordinários do STF; em 03/12/2025 falou em interferência de Poderes."
+   },
+   "G12": {
+    "v": 4,
+    "conf": "declaracao",
+    "fonte": "https://dadosabertos.camara.leg.br/api/v2/deputados/204525/discursos?dataInicio=2026-02-11&dataFim=2026-02-11&itens=100",
+    "nota": "Em discurso de 11/02/2026 disse ser a favor da redução da maioridade penal em casos de crimes hediondos."
+   }
+  }
+ },
+ {
+  "id": 250002544340,
+  "nomeUrna": "RENATA ABREU",
+  "resumo": "Advogada, deputada federal por SP desde 2015 e presidente nacional do Podemos. Disputa o quarto mandato na Câmara.",
+  "bandeiras": [
+   "Proteção das mulheres e combate à violência doméstica",
+   "Direitos das pessoas com deficiência e com autismo",
+   "Saúde pública"
+  ],
+  "posicoes": {
+   "G05": {
+    "v": 2,
+    "conf": "voto",
+    "fonte": "https://dadosabertos.camara.leg.br/api/v2/votacoes/2482078-57/votos",
+    "nota": "Votou Sim ao PDL 3/2025, que sustou resolução do Conanda sobre aborto legal para meninas vítimas de violência (05/11/2025)."
+   },
+   "DF05": {
+    "v": 2,
+    "conf": "voto",
+    "fonte": "https://dadosabertos.camara.leg.br/api/v2/votacoes/2153100-59/votos",
+    "nota": "Votou Sim pela manutenção do artigo que criou o fundo eleitoral (destaque ao PL 8703/2017, 04/10/2017)."
+   }
+  }
+ },
+ {
+  "id": 250002535957,
+  "nomeUrna": "CEZINHA DE MADUREIRA",
+  "resumo": "Deputado federal por SP desde 2019, reeleito em 2022, pastor da Assembleia de Deus Ministério de Madureira. Filiou-se ao PL em 2026 e é secretário de Transparência da Câmara.",
+  "bandeiras": [
+   "Saúde",
+   "Família",
+   "Liberdade religiosa"
+  ],
+  "posicoes": {
+   "G05": {
+    "v": 2,
+    "conf": "voto",
+    "fonte": "https://dadosabertos.camara.leg.br/api/v2/votacoes/2482078-57/votos",
+    "nota": "Votou Sim ao PDL 3/2025, que sustou resolução do Conanda sobre aborto legal para meninas vítimas de violência (05/11/2025)."
+   },
+   "G06": {
+    "v": 2,
+    "conf": "voto",
+    "fonte": "https://dadosabertos.camara.leg.br/api/v2/votacoes/2428236-50/votos",
+    "nota": "Na CCJ, votou Sim à admissibilidade da PEC 45/2023, que criminaliza porte de qualquer quantidade de droga (12/06/2024)."
+   },
+   "G13": {
+    "v": 4,
+    "conf": "declaracao",
+    "fonte": "https://cezinhademadureira.com.br/",
+    "nota": "Em seu site de 2026 diz levar 'a pauta das famílias cristãs ao centro das decisões' e que política e fé não caminham em lados opostos."
+   },
+   "DF06": {
+    "v": 5,
+    "conf": "voto",
+    "fonte": "https://dadosabertos.camara.leg.br/api/v2/votacoes/596844-116/votos",
+    "nota": "Votou Sim ao texto da Câmara que acabava com a saída temporária de presos (PL 6579/2013, 03/08/2022)."
+   }
+  }
+ },
+ {
+  "id": 250002535958,
+  "nomeUrna": "LUIZ PHILIPPE DE O E BRAGANÇA",
+  "resumo": "Empresário e deputado federal por SP desde 2019, hoje no PL. Membro da família Orleans e Bragança; candidato à reeleição em 2026.",
+  "bandeiras": [
+   "Redução de impostos e desburocratização",
+   "Reforma do Judiciário",
+   "Voto distrital"
+  ],
+  "posicoes": {
+   "G01": {
+    "v": 4,
+    "conf": "declaracao",
+    "fonte": "https://dadosabertos.camara.leg.br/api/v2/deputados/204526/discursos?dataInicio=2023-04-12&dataFim=2023-05-18&itens=100",
+    "nota": "Em discursos de 12/04 e 18/05/2023 criticou o arcabouço por garantir aumento de gastos e impostos e defendeu teto de gastos e desoneração."
+   },
+   "G02": {
+    "v": 2,
+    "conf": "declaracao",
+    "fonte": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2251998",
+    "nota": "Coautor (2 autores) do PL 2492/2020, que cria contrapartida de trabalho no Bolsa Família e limita sua dotação a 1% do PIB."
+   },
+   "G05": {
+    "v": 2,
+    "conf": "voto",
+    "fonte": "https://dadosabertos.camara.leg.br/api/v2/votacoes/2482078-57/votos",
+    "nota": "Votou Sim ao PDL 3/2025, que sustou resolução do Conanda sobre aborto legal para meninas vítimas de violência (05/11/2025)."
+   },
+   "G06": {
+    "v": 2,
+    "conf": "voto",
+    "fonte": "https://dadosabertos.camara.leg.br/api/v2/votacoes/2428236-50/votos",
+    "nota": "Na CCJ, votou Sim à admissibilidade da PEC 45/2023, que criminaliza porte de qualquer quantidade de droga (12/06/2024)."
+   },
+   "G09": {
+    "v": 4,
+    "conf": "voto",
+    "fonte": "https://dadosabertos.camara.leg.br/api/v2/votacoes/2410488-45/votos",
+    "nota": "Na CCJ, votou Sim à admissibilidade da PEC 8/2021, que limita decisões monocráticas do STF (09/10/2024)."
+   },
+   "DF05": {
+    "v": 4,
+    "conf": "declaracao",
+    "fonte": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2431673",
+    "nota": "Coautor (2 autores) do PL 1612/2024, que destina 50% do fundo eleitoral a medidas emergenciais das enchentes no RS e ES."
+   },
+   "DF06": {
+    "v": 5,
+    "conf": "voto",
+    "fonte": "https://dadosabertos.camara.leg.br/api/v2/votacoes/596844-116/votos",
+    "nota": "Votou Sim ao texto da Câmara que acabava com a saída temporária de presos (PL 6579/2013, 03/08/2022)."
+   }
+  }
+ },
+ {
+  "id": 250002535961,
+  "nomeUrna": "VINICIUS CARVALHO",
+  "resumo": "Advogado e radialista, deputado federal por SP desde 2015 (também eleito pelo RJ em 2006). Deixou o Republicanos e está no PL.",
+  "bandeiras": [],
+  "posicoes": {
+   "G05": {
+    "v": 2,
+    "conf": "voto",
+    "fonte": "https://dadosabertos.camara.leg.br/api/v2/votacoes/2482078-57/votos",
+    "nota": "Votou Sim ao PDL 3/2025, que sustou resolução do Conanda sobre aborto legal para meninas vítimas de violência (05/11/2025)."
+   },
+   "G06": {
+    "v": 1,
+    "conf": "declaracao",
+    "fonte": "https://imagem.camara.gov.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=27%2F6%2F2024&txPagina=114&txSuplemento=&enviar=Pesquisar",
+    "nota": "Em discurso de 26/06/2024 criticou a descriminalização do porte de maconha; em 17/04/2024 disse que é preciso criminalizar as drogas (PEC 45)."
+   },
+   "DF05": {
+    "v": 4,
+    "conf": "voto",
+    "fonte": "https://dadosabertos.camara.leg.br/api/v2/votacoes/2153100-59/votos",
+    "nota": "Votou Não pela manutenção do artigo que criou o fundo eleitoral (destaque ao PL 8703/2017, 04/10/2017)."
+   },
+   "DF06": {
+    "v": 5,
+    "conf": "voto",
+    "fonte": "https://dadosabertos.camara.leg.br/api/v2/votacoes/596844-116/votos",
+    "nota": "Votou Sim ao texto da Câmara que acabava com a saída temporária de presos (PL 6579/2013, 03/08/2022)."
+   }
+  }
+ },
+ {
+  "id": 250002535948,
+  "nomeUrna": "MIGUEL LOMBARDI",
+  "resumo": "Deputado federal por SP desde 2015, no terceiro mandato; foi vice-prefeito e vereador de Limeira. Disputa a reeleição pelo PL em 2026.",
+  "bandeiras": [
+   "Recursos para a saúde pública e Santas Casas",
+   "Apoio a entidades assistenciais de idosos, crianças e pessoas com deficiência"
+  ],
+  "posicoes": {
+   "G05": {
+    "v": 2,
+    "conf": "voto",
+    "fonte": "https://dadosabertos.camara.leg.br/api/v2/votacoes/2482078-57/votos",
+    "nota": "Votou Sim ao PDL 3/2025, que sustou resolução do Conanda sobre aborto legal para meninas vítimas de violência (05/11/2025)."
+   },
+   "DF05": {
+    "v": 4,
+    "conf": "voto",
+    "fonte": "https://dadosabertos.camara.leg.br/api/v2/votacoes/2153100-59/votos",
+    "nota": "Votou Não pela manutenção do artigo que criou o fundo eleitoral (destaque ao PL 8703/2017, 04/10/2017)."
+   },
+   "DF06": {
+    "v": 5,
+    "conf": "voto",
+    "fonte": "https://dadosabertos.camara.leg.br/api/v2/votacoes/596844-116/votos",
+    "nota": "Votou Sim ao texto da Câmara que acabava com a saída temporária de presos (PL 6579/2013, 03/08/2022)."
+   }
+  }
+ },
+ {
+  "id": 250002533647,
+  "nomeUrna": "BALEIA ROSSI",
+  "resumo": "Deputado federal por SP desde 2015 e presidente nacional do MDB. Foi deputado estadual e é autor da PEC 45/2019, base da reforma tributária aprovada em 2023.",
+  "bandeiras": [],
+  "posicoes": {
+   "G02": {
+    "v": 4,
+    "conf": "declaracao",
+    "fonte": "https://dadosabertos.camara.leg.br/api/v2/deputados/178975/discursos?dataInicio=2017-05-31&dataFim=2017-05-31&itens=100",
+    "nota": "Em discurso de 31/05/2017 chamou o Bolsa Família de programa social importante e elogiou o reajuste acima da inflação."
+   },
+   "G05": {
+    "v": 2,
+    "conf": "voto",
+    "fonte": "https://dadosabertos.camara.leg.br/api/v2/votacoes/2482078-57/votos",
+    "nota": "Votou Sim ao PDL 3/2025, que sustou resolução do Conanda sobre aborto legal para meninas vítimas de violência (05/11/2025)."
+   },
+   "DF01": {
+    "v": 4,
+    "conf": "declaracao",
+    "fonte": "https://x.com/Baleia_Rossi/status/1860073939550253546",
+    "nota": "Em post de 22/11/2024 disse que, se o governo busca equilíbrio fiscal, o Congresso deve colaborar, inclusive com cortes em emendas."
+   },
+   "DF06": {
+    "v": 5,
+    "conf": "voto",
+    "fonte": "https://dadosabertos.camara.leg.br/api/v2/votacoes/596844-116/votos",
+    "nota": "Votou Sim ao texto da Câmara que acabava com a saída temporária de presos (PL 6579/2013, 03/08/2022)."
+   }
+  }
+ },
+ {
+  "id": 250002536737,
+  "nomeUrna": "CARLOS ZARATTINI",
+  "resumo": "Economista, deputado federal pelo PT de SP em quinto mandato e vice-líder do governo Lula no Congresso. Disputa a reeleição.",
+  "bandeiras": [
+   "Fim da escala 6x1",
+   "Transporte público e mobilidade urbana",
+   "Soberania nacional"
+  ],
+  "posicoes": {
+   "G02": {
+    "v": 5,
+    "conf": "declaracao",
+    "fonte": "https://dadosabertos.camara.leg.br/api/v2/deputados/141398/discursos?dataInicio=2021-11-17&dataFim=2021-11-17",
+    "nota": "Em discurso de 17/11/2021 defendeu ampliar o número de beneficiários e fixar benefício de R$ 600; em 2024 elogiou o Bolsa Família ampliado."
+   },
+   "DF01": {
+    "v": 3,
+    "conf": "declaracao",
+    "fonte": "https://www.brasil247.com/entrevistas/o-problema-nao-e-a-emenda-mas-o-mau-uso-do-recurso-publico-diz-deputado-carlos-zarattini",
+    "nota": "Em entrevista de 05/12/2024 defendeu transparência e rastreabilidade das emendas, sem propor redução, e criticou regras que travam sua execução."
+   },
+   "DF05": {
+    "v": 2,
+    "conf": "voto",
+    "fonte": "https://dadosabertos.camara.leg.br/api/v2/votacoes/2153100-59/votos",
+    "nota": "Votou Sim pela manutenção do artigo que criou o fundo eleitoral (destaque ao PL 8703/2017, 04/10/2017)."
+   },
+   "DF06": {
+    "v": 1,
+    "conf": "voto",
+    "fonte": "https://dadosabertos.camara.leg.br/api/v2/votacoes/596844-116/votos",
+    "nota": "Votou Não ao texto da Câmara que acabava com a saída temporária de presos (PL 6579/2013, 03/08/2022)."
+   }
+  }
+ },
+ {
+  "id": 250002535982,
+  "nomeUrna": "PAULO FREIRE",
+  "resumo": "Pastor da Assembleia de Deus, deputado federal por SP desde 2011, em seu quarto mandato consecutivo pelo PL (antes PR).",
+  "bandeiras": [],
+  "posicoes": {
+   "G05": {
+    "v": 2,
+    "conf": "voto",
+    "fonte": "https://dadosabertos.camara.leg.br/api/v2/votacoes/2482078-57/votos",
+    "nota": "Votou Sim ao PDL 3/2025, que sustou resolução do Conanda sobre aborto legal para meninas vítimas de violência (05/11/2025)."
+   },
+   "G13": {
+    "v": 4,
+    "conf": "declaracao",
+    "fonte": "https://dadosabertos.camara.leg.br/api/v2/deputados/160558/discursos?dataInicio=2011-04-29&dataFim=2011-04-29&itens=100",
+    "nota": "Em discurso de 29/04/2011 disse: 'Precisamos de valores cristãos trabalhando neste Legislativo' em defesa da família."
+   },
+   "DF06": {
+    "v": 5,
+    "conf": "voto",
+    "fonte": "https://dadosabertos.camara.leg.br/api/v2/votacoes/596844-116/votos",
+    "nota": "Votou Sim ao texto da Câmara que acabava com a saída temporária de presos (PL 6579/2013, 03/08/2022)."
+   }
+  }
+ },
+ {
+  "id": 250002535968,
+  "nomeUrna": "MOTTA",
+  "resumo": "Deputado federal por SP desde 2019 (PL), presidente licenciado da Fecomerciários. Foi relator-geral do Orçamento de 2024; candidato à reeleição.",
+  "bandeiras": [
+   "Redução da jornada e fim da escala 6x1",
+   "Saúde pública e atualização da tabela SUS",
+   "Proteção às mulheres"
+  ],
+  "posicoes": {
+   "G05": {
+    "v": 2,
+    "conf": "voto",
+    "fonte": "https://dadosabertos.camara.leg.br/api/v2/votacoes/2482078-57/votos",
+    "nota": "Votou Sim ao PDL 3/2025, que sustou resolução do Conanda sobre aborto legal para meninas vítimas de violência (05/11/2025)."
+   },
+   "DF06": {
+    "v": 5,
+    "conf": "voto",
+    "fonte": "https://dadosabertos.camara.leg.br/api/v2/votacoes/596844-116/votos",
+    "nota": "Votou Sim ao texto da Câmara que acabava com a saída temporária de presos (PL 6579/2013, 03/08/2022)."
+   }
+  }
+ },
+ {
+  "id": 250002535954,
+  "nomeUrna": "CAPITÃO AUGUSTO",
+  "resumo": "Capitão da Polícia Militar de SP, deputado federal por SP desde 2015, no terceiro mandato, pelo PL. Presidiu a Frente Parlamentar da Segurança Pública.",
+  "bandeiras": [
+   "Segurança pública",
+   "Valorização do agro",
+   "Desenvolvimento das cidades do interior"
+  ],
+  "posicoes": {
+   "G04": {
+    "v": 4,
+    "conf": "declaracao",
+    "fonte": "https://www.camara.leg.br/radio/programas/715819-dep-capitao-augusto-qualquer-pessoa-que-preencha-os-requisitos-pode-comprar-uma-arma/",
+    "nota": "À Rádio Câmara em 15/12/2020 disse que qualquer pessoa que preencha os requisitos pode comprar arma e apoiou isenção de imposto na importação de armas."
+   },
+   "G06": {
+    "v": 2,
+    "conf": "declaracao",
+    "fonte": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2162436",
+    "nota": "É autor do PL 9100/2017, que amplia prazo das penas a usuário de drogas; em discurso de 16/10/2019 ressaltou que usar drogas é crime."
+   },
+   "DF05": {
+    "v": 4,
+    "conf": "voto",
+    "fonte": "https://dadosabertos.camara.leg.br/api/v2/votacoes/2153100-59/votos",
+    "nota": "Votou Não pela manutenção do artigo que criou o fundo eleitoral (destaque ao PL 8703/2017, 04/10/2017)."
+   },
+   "DF06": {
+    "v": 5,
+    "conf": "voto",
+    "fonte": "https://dadosabertos.camara.leg.br/api/v2/votacoes/596844-116/votos",
+    "nota": "Votou Sim ao texto da Câmara que acabava com a saída temporária de presos (PL 6579/2013, 03/08/2022)."
+   }
+  }
+ },
+ {
+  "id": 250002535991,
+  "nomeUrna": "DELEGADO PAULO BILYNSKYJ",
+  "resumo": "Delegado de polícia, deputado federal por SP desde 2023; presidiu a Comissão de Segurança Pública da Câmara em 2025. Disputa a reeleição pelo PL.",
+  "bandeiras": [
+   "Endurecimento das leis penais e combate ao crime organizado",
+   "Ampliação da legítima defesa e do porte de arma",
+   "Valorização das forças policiais"
+  ],
+  "posicoes": {
+   "G01": {
+    "v": 4,
+    "conf": "declaracao",
+    "fonte": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2538430",
+    "nota": "Primeiro autor do PL 3622/2025, que extingue o IOF para reduzir a carga tributária; não trata de corte de gastos."
+   },
+   "G05": {
+    "v": 2,
+    "conf": "voto",
+    "fonte": "https://dadosabertos.camara.leg.br/api/v2/votacoes/2482078-57/votos",
+    "nota": "Votou Sim ao PDL 3/2025, que sustou resolução do Conanda sobre aborto legal para meninas vítimas de violência (05/11/2025)."
+   },
+   "G06": {
+    "v": 2,
+    "conf": "voto",
+    "fonte": "https://dadosabertos.camara.leg.br/api/v2/votacoes/2428236-50/votos",
+    "nota": "Na CCJ, votou Sim à admissibilidade da PEC 45/2023, que criminaliza porte de qualquer quantidade de droga (12/06/2024)."
+   },
+   "G09": {
+    "v": 5,
+    "conf": "declaracao",
+    "fonte": "https://dadosabertos.camara.leg.br/api/v2/deputados/220654/discursos?dataInicio=2024-09-09&dataFim=2024-09-09&itens=100",
+    "nota": "Em discurso de 09/09/2024 defendeu o impeachment do ministro Alexandre de Moraes; em 02/05/2023 falou em 'ditadura da toga'."
+   },
+   "G12": {
+    "v": 4,
+    "conf": "voto",
+    "fonte": "https://dadosabertos.camara.leg.br/api/v2/votacoes/1228863-102/votos",
+    "nota": "Na CCJ, votou Sim à admissibilidade da PEC 32/2015, que reduz a maioridade penal para 16 anos (10/06/2026)."
+   },
+   "DF06": {
+    "v": 4,
+    "conf": "declaracao",
+    "fonte": "https://dadosabertos.camara.leg.br/api/v2/deputados/220654/discursos?dataInicio=2024-02-21&dataFim=2024-02-21&itens=100",
+    "nota": "Em discurso de 21/02/2024 comemorou a aprovação do fim das saidinhas no Senado e disse que o preso deve ficar em regime fechado."
+   }
+  }
+ },
+ {
+  "id": 250002536734,
+  "nomeUrna": "JULIANA CARDOSO",
+  "resumo": "Deputada federal pelo PT-SP desde 2023. Foi vereadora de São Paulo por quatro mandatos; atua em saúde (SUS), direitos das mulheres e povos indígenas.",
+  "bandeiras": [
+   "Fim da escala 6x1 sem redução salarial",
+   "Fortalecimento do SUS",
+   "Direitos das mulheres e combate à violência"
+  ],
+  "posicoes": {
+   "G02": {
+    "v": 4,
+    "conf": "declaracao",
+    "fonte": "https://dadosabertos.camara.leg.br/api/v2/deputados/220640/discursos?dataInicio=2023-03-30&dataFim=2023-03-30&itens=100",
+    "nota": "Em discurso de 30/03/2023 elogiou a retomada do Bolsa Família para os mais vulneráveis; repetiu o apoio em 16/05/2023."
+   },
+   "G03": {
+    "v": 1,
+    "conf": "declaracao",
+    "fonte": "https://dadosabertos.camara.leg.br/api/v2/deputados/220640/discursos?dataInicio=2023-12-07&dataFim=2023-12-07&itens=100",
+    "nota": "Em 07/12/2023 disse que 'toda vez que uma empresa pública é privatizada quem perde é o povo'; criticou privatizações de novo em 2024 e 07/07/2026."
+   }
+  }
+ },
+ {
+  "id": 250002535951,
+  "nomeUrna": "PASTOR MARCO FELICIANO",
+  "resumo": "Pastor evangélico, deputado federal por SP desde 2011, hoje no PL, em quarto mandato. Disputa a reeleição.",
+  "bandeiras": [],
+  "posicoes": {
+   "G05": {
+    "v": 2,
+    "conf": "voto",
+    "fonte": "https://dadosabertos.camara.leg.br/api/v2/votacoes/2482078-57/votos",
+    "nota": "Votou Sim ao PDL 3/2025, que sustou resolução do Conanda sobre aborto legal para meninas vítimas de violência (05/11/2025)."
+   },
+   "G06": {
+    "v": 2,
+    "conf": "voto",
+    "fonte": "https://dadosabertos.camara.leg.br/api/v2/votacoes/2428236-50/votos",
+    "nota": "Na CCJ, votou Sim à admissibilidade da PEC 45/2023, que criminaliza porte de qualquer quantidade de droga (12/06/2024)."
+   },
+   "G09": {
+    "v": 4,
+    "conf": "voto",
+    "fonte": "https://dadosabertos.camara.leg.br/api/v2/votacoes/2410488-45/votos",
+    "nota": "Na CCJ, votou Sim à admissibilidade da PEC 8/2021, que limita decisões monocráticas do STF (09/10/2024)."
+   },
+   "G11": {
+    "v": 4,
+    "conf": "declaracao",
+    "fonte": "https://www.camara.leg.br/noticias/423129-em-videochat-pastor-marco-feliciano-defende-cota-para-negros-em-concursos/",
+    "nota": "Em bate-papo da Câmara de 10/12/2013 defendeu cota de 20% para negros em concursos públicos, cogitando critério de renda."
+   },
+   "G13": {
+    "v": 5,
+    "conf": "declaracao",
+    "fonte": "https://dadosabertos.camara.leg.br/api/v2/deputados/160601/discursos?dataInicio=2017-02-14&dataFim=2017-02-14",
+    "nota": "Em discurso de 14/02/2017 defendeu que a igreja participe do debate legislativo sobre drogas; é autor do PL 309/2011 (ensino religioso obrigatório)."
+   },
+   "DF05": {
+    "v": 4,
+    "conf": "voto",
+    "fonte": "https://dadosabertos.camara.leg.br/api/v2/votacoes/2153100-59/votos",
+    "nota": "Votou Não pela manutenção do artigo que criou o fundo eleitoral (destaque ao PL 8703/2017, 04/10/2017)."
+   },
+   "DF06": {
+    "v": 5,
+    "conf": "voto",
+    "fonte": "https://dadosabertos.camara.leg.br/api/v2/votacoes/596844-116/votos",
+    "nota": "Votou Sim ao texto da Câmara que acabava com a saída temporária de presos (PL 6579/2013, 03/08/2022)."
+   }
+  }
+ },
+ {
+  "id": 250002535955,
+  "nomeUrna": "JEFFERSON CAMPOS",
+  "resumo": "Pastor da Igreja do Evangelho Quadrangular e advogado, deputado federal por SP em mandatos desde 2003, hoje no PL.",
+  "bandeiras": [
+   "Saúde (recursos para hospitais de Sorocaba e região)",
+   "Segurança pública",
+   "Trem Intercidades Sorocaba-São Paulo"
+  ],
+  "posicoes": {
+   "G05": {
+    "v": 2,
+    "conf": "voto",
+    "fonte": "https://dadosabertos.camara.leg.br/api/v2/votacoes/2482078-57/votos",
+    "nota": "Votou Sim ao PDL 3/2025, que sustou resolução do Conanda sobre aborto legal para meninas vítimas de violência (05/11/2025)."
+   },
+   "G06": {
+    "v": 1,
+    "conf": "declaracao",
+    "fonte": "https://dadosabertos.camara.leg.br/api/v2/deputados/74273/discursos?dataInicio=2024-03-05&dataFim=2024-03-05&itens=100",
+    "nota": "Em discurso de 05/03/2024 disse ter se manifestado 'por diversas vezes' contra a descriminalização do porte de drogas; repetiu em 30/08/2023 e 02/07/2024."
+   },
+   "G09": {
+    "v": 4,
+    "conf": "declaracao",
+    "fonte": "https://dadosabertos.camara.leg.br/api/v2/deputados/74273/discursos?dataInicio=2024-07-02&dataFim=2024-07-02&itens=100",
+    "nota": "Em discurso de 02/07/2024 disse que a descriminalização do porte de maconha é tema que cabe ao Congresso, não ao STF."
+   },
+   "G13": {
+    "v": 4,
+    "conf": "declaracao",
+    "fonte": "https://dadosabertos.camara.leg.br/api/v2/deputados/74273/discursos?dataInicio=2019-06-06&dataFim=2019-06-06&itens=100",
+    "nota": "Em discurso de 06/06/2019 defendeu voltar a praticar princípios cristãos 'aqui no Parlamento'; em 10/12/2024 citou a Bíblia como regramento para a sociedade."
+   },
+   "DF06": {
+    "v": 5,
+    "conf": "voto",
+    "fonte": "https://dadosabertos.camara.leg.br/api/v2/votacoes/596844-116/votos",
+    "nota": "Votou Sim ao texto da Câmara que acabava com a saída temporária de presos (PL 6579/2013, 03/08/2022)."
+   }
+  }
+ },
+ {
+  "id": 250002533638,
+  "nomeUrna": "FABIO TERUEL",
+  "resumo": "Radialista, deputado federal por SP desde 2023 pelo MDB, em primeiro mandato; candidato à reeleição em 2026.",
+  "bandeiras": [],
+  "posicoes": {
+   "G05": {
+    "v": 2,
+    "conf": "voto",
+    "fonte": "https://dadosabertos.camara.leg.br/api/v2/votacoes/2482078-57/votos",
+    "nota": "Votou Sim ao PDL 3/2025, que sustou resolução do Conanda sobre aborto legal para meninas vítimas de violência (05/11/2025)."
+   }
+  }
+ },
+ {
+  "id": 250002537942,
+  "nomeUrna": "MARCOS PEREIRA",
+  "resumo": "Advogado e bispo licenciado da Igreja Universal, presidente nacional do Republicanos e deputado federal por SP desde 2019. Foi ministro da Indústria e Comércio Exterior (2016-2018).",
+  "bandeiras": [
+   "Família forte",
+   "Redução de impostos e do tamanho do governo",
+   "Educação moderna e profissionalizante"
+  ],
+  "posicoes": {
+   "G01": {
+    "v": 4,
+    "conf": "declaracao",
+    "fonte": "https://marcospereira.com/10-passos-para-um-brasil-grande/",
+    "nota": "Em seu programa '10 passos para um Brasil grande' (site oficial, sem data) defende redução de impostos e do tamanho do governo."
+   },
+   "G05": {
+    "v": 2,
+    "conf": "voto",
+    "fonte": "https://dadosabertos.camara.leg.br/api/v2/votacoes/2482078-57/votos",
+    "nota": "Votou Sim ao PDL 3/2025, que sustou resolução do Conanda sobre aborto legal para meninas vítimas de violência (05/11/2025)."
+   },
+   "G09": {
+    "v": 3,
+    "conf": "declaracao",
+    "fonte": "https://www.poder360.com.br/poder-congresso/marcos-pereira-diz-que-atacar-stf-em-campanha-e-lamentavel/",
+    "nota": "Em 01/05/2026 reconheceu excessos no Judiciário, mas os atribuiu em parte aos partidos e criticou atacar o STF em campanha."
+   },
+   "G13": {
+    "v": 4,
+    "conf": "declaracao",
+    "fonte": "https://marcospereira.com/10-passos-para-um-brasil-grande/",
+    "nota": "Em seu programa (site oficial, sem data) diz que há projetos no Congresso que ferem os valores da família e do povo cristão e que os combate."
+   },
+   "DF06": {
+    "v": 5,
+    "conf": "voto",
+    "fonte": "https://dadosabertos.camara.leg.br/api/v2/votacoes/596844-116/votos",
+    "nota": "Votou Sim ao texto da Câmara que acabava com a saída temporária de presos (PL 6579/2013, 03/08/2022)."
+   }
+  }
+ },
+ {
+  "id": 250002532379,
+  "nomeUrna": "MAURICIO NEVES",
+  "resumo": "Empresário de São Caetano do Sul, deputado federal por SP desde 2023; presidiu a Comissão de Viação e Transportes da Câmara. Disputa a reeleição pelo PP.",
+  "bandeiras": [
+   "Redução da maioridade penal",
+   "Mais recursos para os municípios"
+  ],
+  "posicoes": {
+   "G12": {
+    "v": 4,
+    "conf": "declaracao",
+    "fonte": "https://www.jornalcruzeiro.com.br/sorocaba/regiao/2026/03/758126-mauricio-neves-defende-maioridade-penal-e-reforco-aos-municipios-durante-agenda-na-regiao-de-sorocaba.html",
+    "nota": "Em agenda na região de Sorocaba (12/03/2026) disse que vai priorizar no Congresso a redução da maioridade penal; não detalhou idade."
+   }
+  }
+ },
+ {
+  "id": 250002532368,
+  "nomeUrna": "DELEGADO DA CUNHA",
+  "resumo": "Policial civil de SP por 18 anos e criador de canal no YouTube sobre a rotina policial. Deputado federal desde 2023, eleito pelo PP e hoje no União Brasil.",
+  "bandeiras": [
+   "Segurança pública e combate ao crime",
+   "Combate à corrupção",
+   "Direitos das vítimas de crimes"
+  ],
+  "posicoes": {
+   "G05": {
+    "v": 2,
+    "conf": "voto",
+    "fonte": "https://dadosabertos.camara.leg.br/api/v2/votacoes/2482078-57/votos",
+    "nota": "Votou Sim ao PDL 3/2025, que sustou resolução do Conanda sobre aborto legal para meninas vítimas de violência (05/11/2025)."
+   },
+   "DF06": {
+    "v": 4,
+    "conf": "declaracao",
+    "fonte": "https://www.bs9.com.br/politica/delegado-da-cunha-comemora-derrubada-de-veto-de-lula-ao-pl-que-poe-fim/25535/",
+    "nota": "Em 29/05/2024 comemorou a derrubada do veto à lei que restringiu as saidinhas, citando presos que não retornavam; voltou ao tema em 08/10/2024."
+   }
+  }
+ },
+ {
+  "id": 250002539435,
+  "nomeUrna": "TABATA AMARAL",
+  "resumo": "Cientista política, deputada federal pelo PSB de SP desde 2019, em segundo mandato. Foi candidata à Prefeitura de São Paulo em 2024. Disputa a reeleição.",
+  "bandeiras": [
+   "Pix Pensão",
+   "Dignidade menstrual",
+   "Ampliação da licença-paternidade"
+  ],
+  "posicoes": {
+   "G02": {
+    "v": 5,
+    "conf": "declaracao",
+    "fonte": "https://dadosabertos.camara.leg.br/api/v2/deputados/204534/discursos?dataInicio=2020-07-20&dataFim=2020-07-20",
+    "nota": "Em discurso de 20/07/2020 defendeu renda básica que amplie o alcance do Bolsa Família; é primeira autora do PL 6072/2019, que reformula o programa."
+   },
+   "G05": {
+    "v": 2,
+    "conf": "declaracao",
+    "fonte": "https://x.com/tabataamaralsp/status/1801769343878930569",
+    "nota": "Em jun/2024 disse ser pessoalmente contra legalizar o aborto e a favor de manter a lei; em 05/11/2025 votou Não ao PDL 3/2025 (Conanda)."
+   },
+   "G12": {
+    "v": 2,
+    "conf": "voto",
+    "fonte": "https://dadosabertos.camara.leg.br/api/v2/votacoes/1228863-102/votos",
+    "nota": "Na CCJ, votou Não à admissibilidade da PEC 32/2015, que reduz a maioridade penal para 16 anos (10/06/2026)."
+   },
+   "DF01": {
+    "v": 5,
+    "conf": "declaracao",
+    "fonte": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2538380",
+    "nota": "Autora do PLP 156/2025 (21/07/2025), que limita emendas ao valor de 2016 corrigido; em 2021 criticou a falta de transparência do orçamento secreto."
+   },
+   "DF05": {
+    "v": 4,
+    "conf": "declaracao",
+    "fonte": "https://www12.senado.leg.br/noticias/materias/2021/07/20/parlamentares-entram-com-acao-no-stf-para-barrar-aumento-do-fundo-eleitoral",
+    "nota": "Em 19/07/2021 assinou mandado de segurança no STF contra o aumento do fundo eleitoral para R$ 5,7 bilhões."
+   },
+   "DF06": {
+    "v": 1,
+    "conf": "voto",
+    "fonte": "https://dadosabertos.camara.leg.br/api/v2/votacoes/596844-116/votos",
+    "nota": "Votou Não ao texto da Câmara que acabava com a saída temporária de presos (PL 6579/2013, 03/08/2022)."
+   }
+  }
+ },
+ {
+  "id": 250002535959,
+  "nomeUrna": "MARIO FRIAS",
+  "resumo": "Ator, foi secretário especial da Cultura no governo Bolsonaro (2020 a 2022). Deputado federal por SP desde 2023, pelo PL.",
+  "bandeiras": [],
+  "posicoes": {
+   "G01": {
+    "v": 4,
+    "conf": "declaracao",
+    "fonte": "https://dadosabertos.camara.leg.br/api/v2/deputados/220655/discursos?dataInicio=2024-12-19&dataFim=2024-12-19&itens=100",
+    "nota": "Em discurso de 19/12/2024 disse que o governo não pode gastar mais do que tem; em 15/05/2024 criticou nova taxa sobre streaming."
+   },
+   "G05": {
+    "v": 2,
+    "conf": "voto",
+    "fonte": "https://dadosabertos.camara.leg.br/api/v2/votacoes/2482078-57/votos",
+    "nota": "Votou Sim ao PDL 3/2025, que sustou resolução do Conanda sobre aborto legal para meninas vítimas de violência (05/11/2025)."
+   },
+   "G09": {
+    "v": 4,
+    "conf": "declaracao",
+    "fonte": "https://dadosabertos.camara.leg.br/api/v2/deputados/220655/discursos?dataInicio=2024-09-09&dataFim=2024-09-09&itens=100",
+    "nota": "Em discurso de 09/09/2024 citou 'desequilíbrio entre os Poderes' e defendeu pedido de impeachment do ministro Alexandre de Moraes."
+   }
+  }
+ },
+ {
+  "id": 250002532338,
+  "nomeUrna": "FAUSTO PINATO",
+  "resumo": "Deputado federal por SP desde 2015 (eleito por PRB e PP), hoje no União Brasil; disputa o quarto mandato em 2026.",
+  "bandeiras": [
+   "Acesso à tirzepatida e tratamento da obesidade no SUS",
+   "Remuneração dos lotéricos",
+   "Jornada dos agentes comunitários de saúde"
+  ],
+  "posicoes": {
+   "G05": {
+    "v": 2,
+    "conf": "voto",
+    "fonte": "https://dadosabertos.camara.leg.br/api/v2/votacoes/2482078-57/votos",
+    "nota": "Votou Sim ao PDL 3/2025, que sustou resolução do Conanda sobre aborto legal para meninas vítimas de violência (05/11/2025)."
+   },
+   "G06": {
+    "v": 2,
+    "conf": "voto",
+    "fonte": "https://dadosabertos.camara.leg.br/api/v2/votacoes/2428236-50/votos",
+    "nota": "Na CCJ, votou Sim à admissibilidade da PEC 45/2023, que criminaliza porte de qualquer quantidade de droga (12/06/2024)."
+   },
+   "DF05": {
+    "v": 2,
+    "conf": "voto",
+    "fonte": "https://dadosabertos.camara.leg.br/api/v2/votacoes/2153100-59/votos",
+    "nota": "Votou Sim pela manutenção do artigo que criou o fundo eleitoral (destaque ao PL 8703/2017, 04/10/2017)."
+   },
+   "DF06": {
+    "v": 5,
+    "conf": "voto",
+    "fonte": "https://dadosabertos.camara.leg.br/api/v2/votacoes/596844-116/votos",
+    "nota": "Votou Sim ao texto da Câmara que acabava com a saída temporária de presos (PL 6579/2013, 03/08/2022)."
+   }
+  }
+ },
+ {
+  "id": 250002544341,
+  "nomeUrna": "DELEGADO BRUNO LIMA",
+  "resumo": "Delegado da Polícia Civil de SP, foi deputado estadual (2019-2023) e é deputado federal desde 2023, hoje pelo Podemos. Atua na proteção animal.",
+  "bandeiras": [
+   "Proteção dos animais e combate aos maus-tratos"
+  ],
+  "posicoes": {
+   "G03": {
+    "v": 3,
+    "conf": "voto",
+    "fonte": "https://www.al.sp.gov.br/repositorio/ementario/votacoes/20190910-181814-ID_SESSAO=13864-PDF.pdf",
+    "nota": "Na Alesp votou Não ao PL 1/2019 (15/05/2019); Sim ao PL 727/2019, Dersa (10/09/2019), que extinguiram estatais."
+   },
+   "G05": {
+    "v": 2,
+    "conf": "voto",
+    "fonte": "https://dadosabertos.camara.leg.br/api/v2/votacoes/2482078-57/votos",
+    "nota": "Votou Sim ao PDL 3/2025, que sustou resolução do Conanda sobre aborto legal para meninas vítimas de violência (05/11/2025)."
+   },
+   "G10": {
+    "v": 4,
+    "conf": "declaracao",
+    "fonte": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2629319",
+    "nota": "Primeiro autor do PL 2738/2026 (29/05/2026), que prevê multa a provedores que descumprirem deveres de remoção de conteúdo de maus-tratos a animais."
+   }
+  }
+ },
+ {
+  "id": 250002536719,
+  "nomeUrna": "ARLINDO CHINAGLIA",
+  "resumo": "Médico, deputado federal por SP desde 1995; presidiu a Câmara em 2007-2008 e foi líder do governo Lula na Casa. Disputa a reeleição pelo PT.",
+  "bandeiras": [],
+  "posicoes": {
+   "G02": {
+    "v": 4,
+    "conf": "declaracao",
+    "fonte": "https://dadosabertos.camara.leg.br/api/v2/deputados/73433/discursos?dataInicio=2025-10-14&dataFim=2025-10-14&itens=100",
+    "nota": "Em discurso de 14/10/2025 defendeu o Bolsa Família contra críticas; em 12/08/2025 criticou a redução do programa após 2018."
+   },
+   "G09": {
+    "v": 2,
+    "conf": "declaracao",
+    "fonte": "https://dadosabertos.camara.leg.br/api/v2/deputados/73433/discursos?dataInicio=2026-04-30&dataFim=2026-04-30&itens=100",
+    "nota": "Em discurso de 30/04/2026 disse que o STF 'representou a ação do Estado Democrático'; em 09/04/2024 defendeu o Judiciário contra ataques."
+   },
+   "DF05": {
+    "v": 2,
+    "conf": "voto",
+    "fonte": "https://dadosabertos.camara.leg.br/api/v2/votacoes/2153100-59/votos",
+    "nota": "Votou Sim pela manutenção do artigo que criou o fundo eleitoral (destaque ao PL 8703/2017, 04/10/2017)."
+   },
+   "DF06": {
+    "v": 1,
+    "conf": "voto",
+    "fonte": "https://dadosabertos.camara.leg.br/api/v2/votacoes/596844-116/votos",
+    "nota": "Votou Não ao texto da Câmara que acabava com a saída temporária de presos (PL 6579/2013, 03/08/2022)."
+   }
+  }
+ },
+ {
+  "id": 250002536745,
+  "nomeUrna": "PAULO TEIXEIRA",
+  "resumo": "Deputado federal pelo PT-SP desde 2007 (5º mandato). Foi ministro do Desenvolvimento Agrário e Agricultura Familiar de 2023 a março de 2026; antes, vereador e deputado estadual.",
+  "bandeiras": [
+   "Fim da escala 6x1",
+   "Ampliação de programas de transferência de renda, como o Bolsa Família",
+   "Soberania nacional (defesa do Pix e das terras raras)"
+  ],
+  "posicoes": {
+   "G02": {
+    "v": 5,
+    "conf": "declaracao",
+    "fonte": "https://pauloteixeira13.com.br/",
+    "nota": "Site de campanha 2026 defende o avanço de programas de transferência de renda como o Bolsa Família; em 25/11/2021 defendeu BF de R$600 para 40 mi."
+   },
+   "G06": {
+    "v": 5,
+    "conf": "declaracao",
+    "fonte": "https://www.gazetadopovo.com.br/vida-e-cidadania/ministro-defende-projeto-que-libera-plantio-de-maconha-no-brasil/",
+    "nota": "Autor do PL 10549/2018, que descriminaliza uso pessoal e cultivo doméstico de cannabis; defendeu o projeto em 29/06/2023."
+   },
+   "G09": {
+    "v": 2,
+    "conf": "declaracao",
+    "fonte": "https://dadosabertos.camara.leg.br/api/v2/deputados/141488/discursos?dataInicio=2021-02-24&dataFim=2021-02-24&itens=100",
+    "nota": "Em discurso de 24/02/2021 disse que o STF 'agiu bem' na prisão de Daniel Silveira; em 27/05/2020 elogiou o inquérito das fake news."
+   },
+   "DF01": {
+    "v": 5,
+    "conf": "declaracao",
+    "fonte": "https://www.extraclasse.org.br/politica/2025/12/ato-nacional-contra-pl-da-dosimetria-leva-milhares-as-ruas-e-infla-rejeicao-ao-congresso/",
+    "nota": "Em ato de 14/12/2025 defendeu o fim das emendas parlamentares; campanha 2026 é contra emendas impositivas; em 2021 criticou o orçamento secreto."
+   },
+   "DF02": {
+    "v": 2,
+    "conf": "declaracao",
+    "fonte": "https://dadosabertos.camara.leg.br/api/v2/deputados/141488/discursos?dataInicio=2021-02-24&dataFim=2021-02-24&itens=100",
+    "nota": "Em 24/02/2021 orientou o PT contra a admissibilidade da PEC 3/2021, dizendo ser inconstitucional afastar do Judiciário atos de parlamentares."
+   },
+   "DF03": {
+    "v": 2,
+    "conf": "declaracao",
+    "fonte": "https://dadosabertos.camara.leg.br/api/v2/deputados/141488/discursos?dataInicio=2021-06-22&dataFim=2021-06-22&itens=100",
+    "nota": "Em discurso de 22/06/2021 criticou projeto pautado na CCJC para 'paralisar a demarcação das terras indígenas' (PL 490)."
+   },
+   "DF05": {
+    "v": 2,
+    "conf": "voto",
+    "fonte": "https://dadosabertos.camara.leg.br/api/v2/votacoes/2153100-59/votos",
+    "nota": "Votou Sim pela manutenção do artigo que criou o fundo eleitoral (destaque ao PL 8703/2017, 04/10/2017)."
+   },
+   "DF06": {
+    "v": 1,
+    "conf": "voto",
+    "fonte": "https://dadosabertos.camara.leg.br/api/v2/votacoes/596844-116/votos",
+    "nota": "Votou Não ao texto da Câmara que acabava com a saída temporária de presos (PL 6579/2013, 03/08/2022)."
+   }
+  }
+ },
+ {
+  "id": 250002539399,
+  "nomeUrna": "JONAS DONIZETTE",
+  "resumo": "Deputado federal pelo PSB de SP desde 2023; foi prefeito de Campinas de 2013 a 2020 e deputado federal de 2011 a 2012. Disputa a reeleição.",
+  "bandeiras": [],
+  "posicoes": {
+   "G02": {
+    "v": 4,
+    "conf": "declaracao",
+    "fonte": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2405492",
+    "nota": "Autor do PL 5625/2023 (22/11/2023), que inclui no Bolsa Família menores atendidos em acolhimento institucional."
+   },
+   "G05": {
+    "v": 2,
+    "conf": "voto",
+    "fonte": "https://dadosabertos.camara.leg.br/api/v2/votacoes/2482078-57/votos",
+    "nota": "Votou Sim ao PDL 3/2025, que sustou resolução do Conanda sobre aborto legal para meninas vítimas de violência (05/11/2025)."
+   }
+  }
+ },
+ {
+  "id": 250002537943,
+  "nomeUrna": "MARIA ROSAS",
+  "resumo": "Professora e administradora, deputada federal por SP desde 2019 pelo Republicanos. Preside a Comissão de Comunicação da Câmara em 2026 e atua na Procuradoria da Mulher.",
+  "bandeiras": [
+   "Direitos das mulheres e combate à violência",
+   "Pessoas com deficiência e autismo",
+   "Educação"
+  ],
+  "posicoes": {
+   "G05": {
+    "v": 2,
+    "conf": "voto",
+    "fonte": "https://dadosabertos.camara.leg.br/api/v2/votacoes/2482078-57/votos",
+    "nota": "Votou Sim ao PDL 3/2025, que sustou resolução do Conanda sobre aborto legal para meninas vítimas de violência (05/11/2025)."
+   },
+   "DF06": {
+    "v": 5,
+    "conf": "voto",
+    "fonte": "https://dadosabertos.camara.leg.br/api/v2/votacoes/596844-116/votos",
+    "nota": "Votou Sim ao texto da Câmara que acabava com a saída temporária de presos (PL 6579/2013, 03/08/2022)."
+   }
+  }
+ },
+ {
+  "id": 250002539612,
+  "nomeUrna": "ERIKA HILTON",
+  "resumo": "Deputada federal por SP pelo PSOL desde 2023, ex-vereadora de São Paulo (2021-2022). Autora de PEC pelo fim da escala 6x1; candidata à reeleição.",
+  "bandeiras": [
+   "Fim da escala 6x1",
+   "Representação de jovens e populações marginalizadas"
+  ],
+  "posicoes": {
+   "G01": {
+    "v": 2,
+    "conf": "declaracao",
+    "fonte": "https://www.diariodepernambuco.com.br/noticia/politica/2023/07/erika-hilton-defende-alteracoes-do-senado-no-arcabouco-fiscal.html",
+    "nota": "Em 07/07/2023 apoiou retirar o Fundeb do limite de gastos do arcabouço e chamou o texto original de restritivo ao governo."
+   },
+   "G03": {
+    "v": 2,
+    "conf": "declaracao",
+    "fonte": "https://ndmais.com.br/politica/erika-hilton-critica-privatizacao-sabesp-gas/",
+    "nota": "Em 05/06/2026 criticou a privatização da Sabesp; também acionou o MP contra a concessão das linhas 11, 12 e 13 da CPTM."
+   },
+   "G04": {
+    "v": 2,
+    "conf": "declaracao",
+    "fonte": "https://dadosabertos.camara.leg.br/api/v2/deputados/220645/discursos?dataInicio=2024-07-10&dataFim=2024-07-10&itens=100",
+    "nota": "Em 10/07/2024, orientando o PSOL, disse que armas geram violência e feminicídio e defendeu taxar armas na reforma tributária."
+   },
+   "G06": {
+    "v": 4,
+    "conf": "declaracao",
+    "fonte": "https://dadosabertos.camara.leg.br/api/v2/deputados/220645/discursos?dataInicio=2024-04-17&dataFim=2024-04-17&itens=100",
+    "nota": "Em discurso de 17/04/2024 criticou a PEC 45/2023 e defendeu não encarcerar quem porta pequenas quantidades de maconha."
+   },
+   "G09": {
+    "v": 2,
+    "conf": "declaracao",
+    "fonte": "https://dadosabertos.camara.leg.br/api/v2/deputados/220645/discursos?dataInicio=2025-03-26&dataFim=2025-03-26&itens=100",
+    "nota": "Em 26/03/2025 celebrou decisão do STF sobre o 8 de janeiro e disse que as instituições saem fortalecidas."
+   },
+   "DF01": {
+    "v": 4,
+    "conf": "declaracao",
+    "fonte": "https://www.cnnbrasil.com.br/politica/erika-hilton-sobre-emendas-congresso-nao-consegue-fazer-a-licao-de-casa/",
+    "nota": "Em 09/10/2025 criticou bilhões gastos em emendas sem controle e defendeu rever emendas e gastos do Congresso."
+   }
+  }
+ },
+ {
+  "id": 250002539604,
+  "nomeUrna": "SÂMIA BOMFIM",
+  "resumo": "Deputada federal por SP pelo PSOL desde 2019, no segundo mandato. Foi vereadora de São Paulo (2017-2019).",
+  "bandeiras": [
+   "Direitos das mulheres e combate à violência contra a mulher",
+   "Educação pública e ciência"
+  ],
+  "posicoes": {
+   "G01": {
+    "v": 1,
+    "conf": "declaracao",
+    "fonte": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2482502",
+    "nota": "Primeira autora do PL 141/2025, que cria alíquotas maiores de IR para rendas altas; em discurso de 20/03/2025 criticou cortes pela 'lógica fiscalista'."
+   },
+   "G02": {
+    "v": 4,
+    "conf": "declaracao",
+    "fonte": "https://imagem.camara.gov.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=J&Datain=27%2F3%2F2025&txPagina=19&txSuplemento=&enviar=Pesquisar",
+    "nota": "Em discurso de 20/03/2025 criticou corte de R$ 7 bilhões no Bolsa Família, que chamou de necessário à subsistência de milhões."
+   },
+   "G06": {
+    "v": 5,
+    "conf": "declaracao",
+    "fonte": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2443900",
+    "nota": "Primeira autora do PL 2622/2024, que anistia condenados por porte de maconha para uso próprio; em 13/04/2023 defendeu a legalização da maconha."
+   },
+   "G09": {
+    "v": 2,
+    "conf": "declaracao",
+    "fonte": "https://imagem.camara.gov.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=17%2F9%2F2025&txPagina=168&txSuplemento=&enviar=Pesquisar",
+    "nota": "Em discurso de 16/09/2025 falou nas 'corretas decisões' do STF e disse que a PEC da Blindagem visava retaliar o tribunal."
+   },
+   "G12": {
+    "v": 2,
+    "conf": "voto",
+    "fonte": "https://dadosabertos.camara.leg.br/api/v2/votacoes/1228863-102/votos",
+    "nota": "Na CCJ, votou Não à admissibilidade da PEC 32/2015, que reduz a maioridade penal para 16 anos (10/06/2026)."
+   },
+   "DF01": {
+    "v": 4,
+    "conf": "declaracao",
+    "fonte": "https://imagem.camara.gov.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=J&Datain=20%2F3%2F2025&txPagina=20&txSuplemento=&enviar=Pesquisar",
+    "nota": "Em discurso de 13/03/2025 criticou emendas sem rastreabilidade e fora das regras do arcabouço fiscal; ressalvou as emendas impositivas."
+   },
+   "DF06": {
+    "v": 1,
+    "conf": "voto",
+    "fonte": "https://dadosabertos.camara.leg.br/api/v2/votacoes/596844-116/votos",
+    "nota": "Votou Não ao texto da Câmara que acabava com a saída temporária de presos (PL 6579/2013, 03/08/2022)."
+   }
+  }
+ },
+ {
+  "id": 250002539593,
+  "nomeUrna": "SÔNIA GUAJAJARA",
+  "resumo": "Liderança indígena, eleita deputada federal por SP em 2022; foi ministra dos Povos Indígenas de 2023 a março de 2026. Disputa a reeleição pelo PSOL.",
+  "bandeiras": [
+   "Direitos indígenas e demarcação de territórios",
+   "Proteção ambiental e clima",
+   "Ampliar a presença indígena na política ('Aldear a Política')"
+  ],
+  "posicoes": {
+   "G07": {
+    "v": 5,
+    "conf": "declaracao",
+    "fonte": "https://agenciabrasil.ebc.com.br/radioagencia-nacional/meio-ambiente/audio/2025-06/no-dia-do-meio-ambiente-sonia-guajajara-critica-pl-da-devastacao",
+    "nota": "Como ministra, em 05/06/2025 chamou de desmonte a flexibilização do licenciamento; em 2025 também criticou mineração em terras indígenas."
+   },
+   "G08": {
+    "v": 2,
+    "conf": "declaracao",
+    "fonte": "https://www.poder360.com.br/governo/nao-vamos-permitir-outro-golpe-no-pais-diz-sonia-guajajara/",
+    "nota": "Na posse como ministra (11/01/2023), puxou o coro 'sem anistia' em referência aos atos de 8 de janeiro."
+   },
+   "G11": {
+    "v": 4,
+    "conf": "declaracao",
+    "fonte": "https://agenciabrasil.ebc.com.br/geral/noticia/2025-05/sonia-guajajara-e-primeira-indigena-doutora-honoris-causa-da-uerj",
+    "nota": "Em 28/05/2025, na Uerj, elogiou a adoção pioneira de cotas raciais e sociais e seu efeito no acesso de negros e indígenas."
+   },
+   "DF03": {
+    "v": 1,
+    "conf": "declaracao",
+    "fonte": "https://agenciabrasil.ebc.com.br/radioagencia-nacional/geral/audio/2025-04/sonia-guajajara-critica-marco-temporal-e-mineracao-em-terras-indigenas",
+    "nota": "Como ministra, criticou a lei do marco temporal em abril de 2025; em 2024 disse que a lei trava novas demarcações."
+   },
+   "DF04": {
+    "v": 1,
+    "conf": "declaracao",
+    "fonte": "https://www.cnnbrasil.com.br/politica/na-camara-guajajara-pede-manutencao-de-vetos-a-lei-do-licenciamento/",
+    "nota": "Chamou o PL 2159/2021 de 'PL da Devastação' (06/2025) e em 21/10/2025 pediu a manutenção dos vetos à lei do licenciamento."
+   }
+  }
+ },
+ {
+  "id": 250002541145,
+  "nomeUrna": "VITOR LIPPI",
+  "resumo": "Médico, foi prefeito de Sorocaba (2005 a 2012) e é deputado federal por SP desde 2015, eleito pelo PSDB e hoje no PSD. Atua em temas de inovação e tecnologia.",
+  "bandeiras": [
+   "Fortalecimento da rede de saúde e atualização da Tabela SUS",
+   "Modernização da ferrovia e da logística em Sorocaba",
+   "Tecnologia, inovação e educação técnica"
+  ],
+  "posicoes": {
+   "G05": {
+    "v": 2,
+    "conf": "voto",
+    "fonte": "https://dadosabertos.camara.leg.br/api/v2/votacoes/2482078-57/votos",
+    "nota": "Votou Sim ao PDL 3/2025, que sustou resolução do Conanda sobre aborto legal para meninas vítimas de violência (05/11/2025)."
+   },
+   "DF05": {
+    "v": 4,
+    "conf": "voto",
+    "fonte": "https://dadosabertos.camara.leg.br/api/v2/votacoes/2153100-59/votos",
+    "nota": "Votou Não pela manutenção do artigo que criou o fundo eleitoral (destaque ao PL 8703/2017, 04/10/2017)."
+   },
+   "DF06": {
+    "v": 5,
+    "conf": "voto",
+    "fonte": "https://dadosabertos.camara.leg.br/api/v2/votacoes/596844-116/votos",
+    "nota": "Votou Sim ao texto da Câmara que acabava com a saída temporária de presos (PL 6579/2013, 03/08/2022)."
+   }
+  }
+ },
+ {
+  "id": 250002536763,
+  "nomeUrna": "RUI FALCÃO",
+  "resumo": "Jornalista e advogado, ex-presidente nacional do PT, deputado federal por SP desde 2019. Disputa o terceiro mandato na Câmara.",
+  "bandeiras": [
+   "Fim da escala 6x1",
+   "Isenção do IR até R$ 5 mil com mais tributação das rendas altas"
+  ],
+  "posicoes": {
+   "G01": {
+    "v": 2,
+    "conf": "declaracao",
+    "fonte": "https://www.em.com.br/politica/platobr/2024/12/7021112-o-voto-contra-o-corte-de-gastos-que-fernando-haddad-nao-imaginou-que-teria.html",
+    "nota": "Em dezembro de 2024 votou contra o pacote de corte de gastos do governo e disse que ele afeta direitos como o aumento do salário mínimo e o abono."
+   }
+  }
+ },
+ {
+  "id": 250002530167,
+  "nomeUrna": "ADRIANA VENTURA",
+  "resumo": "Professora de gestão na FGV-EAESP, deputada federal por SP desde 2019 pelo Novo, partido que liderou na Câmara; atua em transparência e fiscalização de gastos.",
+  "bandeiras": [
+   "Combate à corrupção e a privilégios",
+   "Transparência e fiscalização dos gastos públicos",
+   "Saúde e telessaúde"
+  ],
+  "posicoes": {
+   "G01": {
+    "v": 4,
+    "conf": "declaracao",
+    "fonte": "https://www.camara.leg.br/noticias/1137236-lider-do-novo-defende-reforma-administrativa-para-conter-gastos-publicos/",
+    "nota": "Em 27/02/2025, como líder do Novo, defendeu reforma administrativa para conter gastos; também critica aumento da carga tributária."
+   },
+   "G02": {
+    "v": 2,
+    "conf": "declaracao",
+    "fonte": "https://dadosabertos.camara.leg.br/api/v2/deputados/204528/discursos?dataInicio=2023-11-09&dataFim=2023-11-09&itens=100",
+    "nota": "Em discurso de 09/11/2023 criticou a dependência do Bolsa Família; é primeira autora do PL 5692/2023, que reforça 'portas de saída' do programa."
+   },
+   "G05": {
+    "v": 2,
+    "conf": "voto",
+    "fonte": "https://dadosabertos.camara.leg.br/api/v2/votacoes/2482078-57/votos",
+    "nota": "Votou Sim ao PDL 3/2025, que sustou resolução do Conanda sobre aborto legal para meninas vítimas de violência (05/11/2025)."
+   },
+   "G09": {
+    "v": 5,
+    "conf": "declaracao",
+    "fonte": "https://dadosabertos.camara.leg.br/api/v2/deputados/204528/discursos?dataInicio=2023-09-26&dataFim=2023-09-26&itens=100",
+    "nota": "Em discurso de 26/09/2023 disse que o STF 'não pode legislar' e pediu que ministros 'não extrapolem'; repetiu críticas em 2023 e 2024."
+   },
+   "DF01": {
+    "v": 3,
+    "conf": "declaracao",
+    "fonte": "https://www.camara.leg.br/noticias/1108968-camara-aprova-projeto-que-regulamenta-emendas-parlamentares-ao-orcamento/",
+    "nota": "Em 05/11/2024 criticou falta de transparência das emendas de comissão; defende fim das emendas Pix, sem proposta localizada de reduzir o volume total."
+   },
+   "DF05": {
+    "v": 5,
+    "conf": "declaracao",
+    "fonte": "https://dadosabertos.camara.leg.br/api/v2/deputados/204528/discursos?dataInicio=2023-12-22&dataFim=2023-12-22&itens=100",
+    "nota": "Em discurso de 22/12/2023 defendeu 'fundo zero' e financiamento privado de campanhas; é coautora do PL 14/2019, que extingue o fundo eleitoral."
+   },
+   "DF06": {
+    "v": 5,
+    "conf": "voto",
+    "fonte": "https://dadosabertos.camara.leg.br/api/v2/votacoes/596844-116/votos",
+    "nota": "Votou Sim ao texto da Câmara que acabava com a saída temporária de presos (PL 6579/2013, 03/08/2022)."
+   }
+  }
+ },
+ {
+  "id": 250002541114,
+  "nomeUrna": "CARLOS SAMPAIO",
+  "resumo": "Promotor de justiça, deputado federal por SP desde 2003 (PSDB até 2024, hoje PSD); foi vereador em Campinas e deputado estadual. Candidato à reeleição.",
+  "bandeiras": [
+   "Segurança pública e combate ao crime organizado",
+   "Recursos para as cidades paulistas",
+   "Transparência e combate à corrupção"
+  ],
+  "posicoes": {
+   "G02": {
+    "v": 4,
+    "conf": "declaracao",
+    "fonte": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2646973",
+    "nota": "Autor único do PL 5456/2026 (24/09/2026), que torna anual e por critério objetivo a correção dos benefícios do Bolsa Família."
+   },
+   "G05": {
+    "v": 2,
+    "conf": "voto",
+    "fonte": "https://dadosabertos.camara.leg.br/api/v2/votacoes/2482078-57/votos",
+    "nota": "Votou Sim ao PDL 3/2025, que sustou resolução do Conanda sobre aborto legal para meninas vítimas de violência (05/11/2025)."
+   },
+   "DF05": {
+    "v": 4,
+    "conf": "voto",
+    "fonte": "https://dadosabertos.camara.leg.br/api/v2/votacoes/2153100-59/votos",
+    "nota": "Votou Não pela manutenção do artigo que criou o fundo eleitoral (destaque ao PL 8703/2017, 04/10/2017)."
+   },
+   "DF06": {
+    "v": 5,
+    "conf": "voto",
+    "fonte": "https://dadosabertos.camara.leg.br/api/v2/votacoes/596844-116/votos",
+    "nota": "Votou Sim ao texto da Câmara que acabava com a saída temporária de presos (PL 6579/2013, 03/08/2022)."
+   }
+  }
+ },
+ {
+  "id": 250002536736,
+  "nomeUrna": "ALENCAR SANTANA",
+  "resumo": "Advogado, foi vereador em Guarulhos e deputado estadual (2011-2019). Deputado federal por SP pelo PT desde 2019; disputou a prefeitura de Guarulhos em 2024.",
+  "bandeiras": [],
+  "posicoes": {
+   "G01": {
+    "v": 2,
+    "conf": "declaracao",
+    "fonte": "https://imagem.camara.gov.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=16%2F10%2F2025&txPagina=165&txSuplemento=&enviar=Pesquisar",
+    "nota": "Em discurso de 15/10/2025 apoiou o mote 'Taxar os super-ricos e alimentar o Brasil'."
+   },
+   "G02": {
+    "v": 5,
+    "conf": "declaracao",
+    "fonte": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2334172",
+    "nota": "Primeiro autor do PL 2315/2022, que fixava benefício mínimo de R$ 600 (Mais Bolsa Família); em 2024 e 2025 defendeu o programa em plenário."
+   },
+   "G09": {
+    "v": 2,
+    "conf": "declaracao",
+    "fonte": "https://imagem.camara.gov.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=10%2F7%2F2025&txPagina=207&txSuplemento=&enviar=Pesquisar",
+    "nota": "Em discurso de 09/07/2025 disse que o processo do STF sobre a tentativa de golpe é legítimo, legal e correto."
+   },
+   "G12": {
+    "v": 2,
+    "conf": "voto",
+    "fonte": "https://dadosabertos.camara.leg.br/api/v2/votacoes/1228863-102/votos",
+    "nota": "Na CCJ, votou Não à admissibilidade da PEC 32/2015, que reduz a maioridade penal para 16 anos (10/06/2026)."
+   },
+   "DF06": {
+    "v": 1,
+    "conf": "voto",
+    "fonte": "https://dadosabertos.camara.leg.br/api/v2/votacoes/596844-116/votos",
+    "nota": "Votou Não ao texto da Câmara que acabava com a saída temporária de presos (PL 6579/2013, 03/08/2022)."
+   }
+  }
+ },
+ {
+  "id": 250002544332,
+  "nomeUrna": "ANTONIO CARLOS RODRIGUES",
+  "resumo": "Deputado federal por SP desde 2023; foi ministro dos Transportes no governo Dilma, senador e vereador em São Paulo. Disputa a reeleição pelo Podemos.",
+  "bandeiras": [
+   "Mobilidade e transporte",
+   "Esporte"
+  ],
+  "posicoes": {
+   "G09": {
+    "v": 2,
+    "conf": "declaracao",
+    "fonte": "https://www.diariodepernambuco.com.br/politica/2025/07/7795790-deputado-antonio-rodrigues-e-expulso-do-pl-por-defender-moraes-e-criticar-trump.html",
+    "nota": "Em julho de 2025 chamou de absurdas as sanções dos EUA a Alexandre de Moraes e o definiu como um dos maiores juristas do país."
+   }
+  }
+ },
+ {
+  "id": 250002544357,
+  "nomeUrna": "DELEGADO PALUMBO",
+  "resumo": "Delegado da Polícia Civil de SP, foi vereador de São Paulo (2021 a 2022) e é deputado federal desde 2023, eleito pelo MDB e hoje no Podemos.",
+  "bandeiras": [
+   "Segurança pública",
+   "Proteção animal",
+   "Proteção a crianças e a vítimas de crimes"
+  ],
+  "posicoes": {
+   "G05": {
+    "v": 2,
+    "conf": "voto",
+    "fonte": "https://dadosabertos.camara.leg.br/api/v2/votacoes/2482078-57/votos",
+    "nota": "Votou Sim ao PDL 3/2025, que sustou resolução do Conanda sobre aborto legal para meninas vítimas de violência (05/11/2025)."
+   },
+   "G06": {
+    "v": 1,
+    "conf": "declaracao",
+    "fonte": "https://dadosabertos.camara.leg.br/api/v2/deputados/220652/discursos?dataInicio=2024-07-02&dataFim=2024-07-02&itens=100",
+    "nota": "Em 02/07/2024 chamou de 'esdrúxula' a decisão do STF de descriminalizar o porte de 40 g de maconha; criticou o tema em vários discursos de 2023 e 2024."
+   },
+   "G09": {
+    "v": 5,
+    "conf": "declaracao",
+    "fonte": "https://dadosabertos.camara.leg.br/api/v2/deputados/220652/discursos?dataInicio=2023-08-23&dataFim=2023-08-23&itens=100",
+    "nota": "Em 23/08/2023 disse que o STF 'pode muito, mas não pode tudo' e 'atropela esta Casa'; repetiu críticas em vários discursos de 2023."
+   },
+   "G12": {
+    "v": 5,
+    "conf": "declaracao",
+    "fonte": "https://dadosabertos.camara.leg.br/api/v2/deputados/220652/discursos?dataInicio=2026-03-04&dataFim=2026-03-04&itens=100",
+    "nota": "Em 04/03/2026 defendeu reduzir a maioridade penal para 16 anos; já havia defendido a redução em 27/03/2023."
+   },
+   "DF06": {
+    "v": 5,
+    "conf": "declaracao",
+    "fonte": "https://dadosabertos.camara.leg.br/api/v2/deputados/220652/discursos?dataInicio=2024-03-20&dataFim=2024-03-20&itens=100",
+    "nota": "Em 20/03/2024, na votação do fim das saidinhas (PL 2253/2022), chamou-as de 'malditas saidinhas' e pediu apoio; cobrou o tema em 27/03/2023."
+   }
+  }
+ },
+ {
+  "id": 250002536722,
+  "nomeUrna": "KIKO CELEGUIM",
+  "resumo": "Jornalista, foi prefeito de Franco da Rocha (2013 a 2020). Deputado federal pelo PT de SP desde 2023 e presidente do diretório estadual do PT. Disputa a reeleição.",
+  "bandeiras": [],
+  "posicoes": {
+   "G01": {
+    "v": 2,
+    "conf": "declaracao",
+    "fonte": "https://dadosabertos.camara.leg.br/api/v2/deputados/162067/discursos?dataInicio=2025-06-11&dataFim=2025-06-11",
+    "nota": "Em discurso de 11/06/2025 disse que a proposta da oposição significaria corte de serviços em educação, saúde e segurança e defendeu taxar o topo da renda."
+   },
+   "G03": {
+    "v": 2,
+    "conf": "declaracao",
+    "fonte": "https://dadosabertos.camara.leg.br/api/v2/deputados/162067/discursos?dataInicio=2023-10-18&dataFim=2023-10-18",
+    "nota": "Em discursos de 18/10/2023 e 12/12/2023 se opôs à privatização da Sabesp e criticou linhas privatizadas da CPTM."
+   },
+   "G06": {
+    "v": 4,
+    "conf": "voto",
+    "fonte": "https://dadosabertos.camara.leg.br/api/v2/votacoes/2428236-50/votos",
+    "nota": "Na CCJ, votou Não à admissibilidade da PEC 45/2023, que criminaliza porte de qualquer quantidade de droga (12/06/2024)."
+   },
+   "DF01": {
+    "v": 3,
+    "conf": "declaracao",
+    "fonte": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2624236",
+    "nota": "Autor do PLP 136/2026 (13/05/2026), que exige publicidade e audiências para emendas de comissão, sem propor reduzir seu valor."
+   }
+  }
+ },
+ {
+  "id": 250002544355,
+  "nomeUrna": "RODRIGO GAMBALE",
+  "resumo": "Jornalista e radialista, foi deputado estadual em SP (2019 a 2023). Deputado federal desde 2023, é líder do Podemos e do maior bloco partidário da Câmara.",
+  "bandeiras": [
+   "Causa animal",
+   "Autismo e inclusão",
+   "Proteção das mulheres"
+  ],
+  "posicoes": {
+   "G03": {
+    "v": 4,
+    "conf": "voto",
+    "fonte": "https://www.al.sp.gov.br/repositorio/ementario/votacoes/20201014-001001-ID_SESSAO=14325-PDF.pdf",
+    "nota": "Na Alesp votou Sim ao PL 1/2019 (15/05/2019); Sim ao PL 727/2019, Dersa (10/09/2019); Sim ao PL 529/2020 (13/10/2020), que extinguiram estatais."
+   },
+   "G05": {
+    "v": 2,
+    "conf": "voto",
+    "fonte": "https://dadosabertos.camara.leg.br/api/v2/votacoes/2482078-57/votos",
+    "nota": "Votou Sim ao PDL 3/2025, que sustou resolução do Conanda sobre aborto legal para meninas vítimas de violência (05/11/2025)."
+   }
+  }
+ },
+ {
+  "id": 250002536757,
+  "nomeUrna": "JILMAR TATTO",
+  "resumo": "Deputado federal por SP pelo PT (eleito em 2010 e 2022), ex-secretário municipal de Transportes de São Paulo e vice-presidente nacional do PT. Candidato à reeleição.",
+  "bandeiras": [
+   "Tarifa zero no transporte público",
+   "Mobilidade urbana",
+   "Acessibilidade no transporte"
+  ],
+  "posicoes": {
+   "G01": {
+    "v": 2,
+    "conf": "declaracao",
+    "fonte": "https://dadosabertos.camara.leg.br/api/v2/deputados/141456/discursos?dataInicio=2025-09-10&dataFim=2025-09-10&itens=100",
+    "nota": "Em discurso de 10/09/2025 elogiou o fim do teto de gastos e o aumento de R$ 80 bi em gastos com educação no governo Lula."
+   },
+   "G02": {
+    "v": 4,
+    "conf": "declaracao",
+    "fonte": "https://dadosabertos.camara.leg.br/api/v2/deputados/141456/discursos?dataInicio=2023-05-31&dataFim=2023-05-31&itens=100",
+    "nota": "Em discurso de 31/05/2023 defendeu a PEC da Transição por garantir o Bolsa Família de R$ 600 mais R$ 150 por criança."
+   },
+   "G03": {
+    "v": 2,
+    "conf": "declaracao",
+    "fonte": "https://www.brasil247.com/regionais/sudeste/jilmar-tatto-tarcisio-enganou-e-lesou-o-povo-paulista-com-a-entrega-da-sabesp-a-iniciativa-privada",
+    "nota": "Em 23/07/2024 criticou a privatização da Sabesp, dizendo que o PT se opôs a ela e que lesou a população paulista."
+   },
+   "G09": {
+    "v": 2,
+    "conf": "declaracao",
+    "fonte": "https://dadosabertos.camara.leg.br/api/v2/deputados/141456/discursos?dataInicio=2023-05-10&dataFim=2023-05-10&itens=100",
+    "nota": "Em discurso de 10/05/2023 aplaudiu a ordem do ministro Alexandre de Moraes para o Telegram retirar mensagem sobre o PL 2630."
+   }
+  }
+ },
+ {
+  "id": 250002536764,
+  "nomeUrna": "NILTO TATTO",
+  "resumo": "Deputado federal por SP pelo PT desde 2015, no terceiro mandato. Atua em pautas ambientais, agrárias e de agricultura familiar.",
+  "bandeiras": [
+   "Meio ambiente, florestas e povos tradicionais",
+   "Agricultura familiar, reforma agrária e combate aos agrotóxicos"
+  ],
+  "posicoes": {
+   "G02": {
+    "v": 4,
+    "conf": "declaracao",
+    "fonte": "https://imagem.camara.gov.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=21%2F10%2F2021&txPagina=&txSuplemento=&enviar=Pesquisar",
+    "nota": "Em discurso de 20/10/2021 defendeu benefício mínimo de R$ 600 no lugar dos R$ 400 do Auxílio Brasil; em 2023 celebrou o novo Bolsa Família."
+   },
+   "DF01": {
+    "v": 4,
+    "conf": "declaracao",
+    "fonte": "https://imagem.camara.gov.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=15%2F4%2F2025&txPagina=95&txSuplemento=&enviar=Pesquisar",
+    "nota": "Em discurso de 14/04/2025 chamou de anomalia a quantidade de emendas no Brasil e criticou recursos sem saber destino nem autor da indicação."
+   },
+   "DF05": {
+    "v": 2,
+    "conf": "voto",
+    "fonte": "https://dadosabertos.camara.leg.br/api/v2/votacoes/2153100-59/votos",
+    "nota": "Votou Sim pela manutenção do artigo que criou o fundo eleitoral (destaque ao PL 8703/2017, 04/10/2017)."
+   },
+   "DF06": {
+    "v": 1,
+    "conf": "voto",
+    "fonte": "https://dadosabertos.camara.leg.br/api/v2/votacoes/596844-116/votos",
+    "nota": "Votou Não ao texto da Câmara que acabava com a saída temporária de presos (PL 6579/2013, 03/08/2022)."
+   }
+  }
+ },
+ {
+  "id": 250002544360,
+  "nomeUrna": "GILBERTO NASCIMENTO",
+  "resumo": "Advogado e delegado de polícia, deputado federal por SP desde 2015 (e em 2003-2007); eleito presidente da Frente Parlamentar Evangélica em 2025. Disputa a reeleição pelo Podemos.",
+  "bandeiras": [],
+  "posicoes": {
+   "G05": {
+    "v": 2,
+    "conf": "voto",
+    "fonte": "https://dadosabertos.camara.leg.br/api/v2/votacoes/2482078-57/votos",
+    "nota": "Votou Sim ao PDL 3/2025, que sustou resolução do Conanda sobre aborto legal para meninas vítimas de violência (05/11/2025)."
+   },
+   "G06": {
+    "v": 1,
+    "conf": "declaracao",
+    "fonte": "https://dadosabertos.camara.leg.br/api/v2/deputados/74270/discursos?dataInicio=2024-06-25&dataFim=2024-06-25&itens=100",
+    "nota": "Em 25/06/2024 disse que o STF errou ao decidir sobre porte de maconha e que droga 'em pequena ou grande quantidade' vicia; reiterou em 02/2025."
+   },
+   "G13": {
+    "v": 5,
+    "conf": "declaracao",
+    "fonte": "https://www.camara.leg.br/noticias/1136508-gilberto-nascimento-e-eleito-presidente-da-frente-parlamentar-evangelica/",
+    "nota": "Em 25/02/2025 disse que legisla 'colocando Deus em primeiro lugar' e que promoverá políticas que reflitam valores cristãos."
+   },
+   "DF06": {
+    "v": 5,
+    "conf": "voto",
+    "fonte": "https://dadosabertos.camara.leg.br/api/v2/votacoes/596844-116/votos",
+    "nota": "Votou Sim ao texto da Câmara que acabava com a saída temporária de presos (PL 6579/2013, 03/08/2022)."
+   }
+  }
+ },
+ {
+  "id": 250002541120,
+  "nomeUrna": "PAULO ALEXANDRE BARBOSA",
+  "resumo": "Advogado, foi prefeito de Santos (2013 a 2020), deputado estadual e secretário estadual em SP. Deputado federal desde 2023, eleito pelo PSDB e hoje no PSD.",
+  "bandeiras": [
+   "Túnel Santos-Guarujá e infraestrutura da Baixada Santista",
+   "Saúde",
+   "Educação"
+  ],
+  "posicoes": {
+   "G05": {
+    "v": 2,
+    "conf": "voto",
+    "fonte": "https://dadosabertos.camara.leg.br/api/v2/votacoes/2482078-57/votos",
+    "nota": "Votou Sim ao PDL 3/2025, que sustou resolução do Conanda sobre aborto legal para meninas vítimas de violência (05/11/2025)."
+   },
+   "DF06": {
+    "v": 4,
+    "conf": "declaracao",
+    "fonte": "https://dadosabertos.camara.leg.br/api/v2/deputados/220650/discursos?dataInicio=2024-04-24&dataFim=2024-04-24&itens=100",
+    "nota": "Em discurso de 24/04/2024 defendeu derrubar o veto de Lula ao PL que restringiu a saidinha; o site do mandato repete a posição."
+   }
+  }
+ },
+ {
+  "id": 250002544346,
+  "nomeUrna": "BRUNO GANEM",
+  "resumo": "Engenheiro, ex-vereador de Indaiatuba e ex-deputado estadual, deputado federal pelo Podemos de SP desde 2023. Atua na causa animal. Disputa a reeleição.",
+  "bandeiras": [
+   "Proteção animal",
+   "Castração de cães e gatos",
+   "Proibição de fogos de artifício com estampido"
+  ],
+  "posicoes": {
+   "G03": {
+    "v": 4,
+    "conf": "voto",
+    "fonte": "https://www.al.sp.gov.br/repositorio/ementario/votacoes/20190910-181814-ID_SESSAO=13864-PDF.pdf",
+    "nota": "Na Alesp votou Sim ao PL 1/2019 (15/05/2019); Sim ao PL 727/2019, Dersa (10/09/2019), que extinguiram estatais."
+   },
+   "G05": {
+    "v": 2,
+    "conf": "voto",
+    "fonte": "https://dadosabertos.camara.leg.br/api/v2/votacoes/2482078-57/votos",
+    "nota": "Votou Sim ao PDL 3/2025, que sustou resolução do Conanda sobre aborto legal para meninas vítimas de violência (05/11/2025)."
+   }
+  }
+ },
+ {
+  "id": 250002544326,
+  "nomeUrna": "FELIPE BECARI",
+  "resumo": "Policial civil e educador físico, foi vereador em São Paulo. Deputado federal por SP desde 2023, hoje no Podemos, com atuação voltada à proteção animal.",
+  "bandeiras": [
+   "Proteção animal",
+   "Famílias atípicas e autismo",
+   "Saúde e segurança das mulheres"
+  ],
+  "posicoes": {
+   "G05": {
+    "v": 2,
+    "conf": "voto",
+    "fonte": "https://dadosabertos.camara.leg.br/api/v2/votacoes/2482078-57/votos",
+    "nota": "Votou Sim ao PDL 3/2025, que sustou resolução do Conanda sobre aborto legal para meninas vítimas de violência (05/11/2025)."
+   }
+  }
+ },
+ {
+  "id": 250002537969,
+  "nomeUrna": "CELSO RUSSOMANNO",
+  "resumo": "Jornalista conhecido pela defesa do consumidor na TV, deputado federal por SP em vários mandatos, hoje pelo Republicanos. Candidato à reeleição em 2026.",
+  "bandeiras": [
+   "Manutenção do Código de Defesa do Consumidor"
+  ],
+  "posicoes": {
+   "G05": {
+    "v": 2,
+    "conf": "voto",
+    "fonte": "https://dadosabertos.camara.leg.br/api/v2/votacoes/2482078-57/votos",
+    "nota": "Votou Sim ao PDL 3/2025, que sustou resolução do Conanda sobre aborto legal para meninas vítimas de violência (05/11/2025)."
+   },
+   "DF05": {
+    "v": 4,
+    "conf": "voto",
+    "fonte": "https://dadosabertos.camara.leg.br/api/v2/votacoes/2153100-59/votos",
+    "nota": "Votou Não pela manutenção do artigo que criou o fundo eleitoral (destaque ao PL 8703/2017, 04/10/2017)."
+   },
+   "DF06": {
+    "v": 5,
+    "conf": "voto",
+    "fonte": "https://dadosabertos.camara.leg.br/api/v2/votacoes/596844-116/votos",
+    "nota": "Votou Sim ao texto da Câmara que acabava com a saída temporária de presos (PL 6579/2013, 03/08/2022)."
+   }
+  }
+ },
+ {
+  "id": 250002544834,
+  "nomeUrna": "DAVID RR SOARES",
+  "resumo": "Filho do missionário R. R. Soares, foi vereador de São Paulo (2013-2019) e é deputado federal por SP desde 2019, hoje pelo Podemos.",
+  "bandeiras": [
+   "Saúde pública",
+   "Causa autista",
+   "Cuidado com os idosos"
+  ],
+  "posicoes": {
+   "G01": {
+    "v": 4,
+    "conf": "declaracao",
+    "fonte": "https://imagem.camara.gov.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=30%2F11%2F2023&txPagina=80&txSuplemento=&enviar=Pesquisar",
+    "nota": "Em discurso de 29/11/2023 defendeu derrubar o veto à desoneração da folha e criticou carga tributária de quase 40%."
+   },
+   "G05": {
+    "v": 2,
+    "conf": "voto",
+    "fonte": "https://dadosabertos.camara.leg.br/api/v2/votacoes/2482078-57/votos",
+    "nota": "Votou Sim ao PDL 3/2025, que sustou resolução do Conanda sobre aborto legal para meninas vítimas de violência (05/11/2025)."
+   },
+   "G06": {
+    "v": 2,
+    "conf": "declaracao",
+    "fonte": "https://imagem.camara.gov.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=5%2F6%2F2024&txPagina=37&txSuplemento=&enviar=Pesquisar",
+    "nota": "Em discurso de 04/06/2024 anunciou voto a favor da PEC das drogas, que criminaliza porte e posse de drogas."
+   },
+   "G09": {
+    "v": 5,
+    "conf": "declaracao",
+    "fonte": "https://imagem.camara.gov.br/dc_20b.asp?largura=&altura=&tipoForm=diarios&selCodColecaoCsv=D&Datain=14%2F9%2F2023&txPagina=62&txSuplemento=&enviar=Pesquisar",
+    "nota": "Em 13/09/2023 disse que o STF decide temas que a Constituição reserva ao Congresso (maconha, aborto); em 28/11/2023 citou excessos do tribunal."
+   },
+   "G13": {
+    "v": 4,
+    "conf": "declaracao",
+    "fonte": "https://www.davidrrsoares2030.com/",
+    "nota": "Site de campanha 2026 diz que ele atua na vida pública com base em fé e valores cristãos."
+   },
+   "DF06": {
+    "v": 5,
+    "conf": "voto",
+    "fonte": "https://dadosabertos.camara.leg.br/api/v2/votacoes/596844-116/votos",
+    "nota": "Votou Sim ao texto da Câmara que acabava com a saída temporária de presos (PL 6579/2013, 03/08/2022)."
+   }
+  }
+ },
+ {
+  "id": 250002537976,
+  "nomeUrna": "MILTON VIEIRA",
+  "resumo": "Pastor, eleito deputado federal por SP em 2018 e 2022; licenciou-se para ser secretário municipal em São Paulo (Habitação, 2023; Inovação, 2025) e voltou à Câmara em 2026. Disputa a reeleição pelo Republicanos.",
+  "bandeiras": [],
+  "posicoes": {
+   "DF06": {
+    "v": 5,
+    "conf": "voto",
+    "fonte": "https://dadosabertos.camara.leg.br/api/v2/votacoes/596844-116/votos",
+    "nota": "Votou Sim ao texto da Câmara que acabava com a saída temporária de presos (PL 6579/2013, 03/08/2022)."
+   }
+  }
+ },
+ {
+  "id": 250002535980,
+  "nomeUrna": "MARCIO ALVINO",
+  "resumo": "Foi prefeito de Guararema (2009 a 2014) e é deputado federal por SP desde 2015, eleito pelo PR e depois pelo PL. Preside a frente parlamentar em defesa das Apaes.",
+  "bandeiras": [
+   "Fortalecimento das Apaes e das políticas para pessoas com deficiência"
+  ],
+  "posicoes": {
+   "G05": {
+    "v": 2,
+    "conf": "voto",
+    "fonte": "https://dadosabertos.camara.leg.br/api/v2/votacoes/2482078-57/votos",
+    "nota": "Votou Sim ao PDL 3/2025, que sustou resolução do Conanda sobre aborto legal para meninas vítimas de violência (05/11/2025)."
+   },
+   "DF05": {
+    "v": 4,
+    "conf": "voto",
+    "fonte": "https://dadosabertos.camara.leg.br/api/v2/votacoes/2153100-59/votos",
+    "nota": "Votou Não pela manutenção do artigo que criou o fundo eleitoral (destaque ao PL 8703/2017, 04/10/2017)."
+   },
+   "DF06": {
+    "v": 5,
+    "conf": "voto",
+    "fonte": "https://dadosabertos.camara.leg.br/api/v2/votacoes/596844-116/votos",
+    "nota": "Votou Sim ao texto da Câmara que acabava com a saída temporária de presos (PL 6579/2013, 03/08/2022)."
+   }
+  }
+ },
+ {
+  "id": 250002544356,
+  "nomeUrna": "MARANGONI",
+  "resumo": "Ex-secretário de Habitação de Santo André e do Estado de SP, deputado federal desde 2023, eleito pelo União e hoje no Podemos. Preside a Frente Parlamentar de Habitação. Disputa a reeleição.",
+  "bandeiras": [
+   "Habitação e desenvolvimento urbano",
+   "Voto em candidatos do Grande ABC"
+  ],
+  "posicoes": {
+   "G03": {
+    "v": 4,
+    "conf": "declaracao",
+    "fonte": "https://dadosabertos.camara.leg.br/api/v2/deputados/220648/discursos?dataInicio=2023-05-03&dataFim=2023-05-03",
+    "nota": "Em discurso de 03/05/2023 apoiou sustar decretos do saneamento, criticando a 'perpetuação dos serviços estatais' e contratos sem licitação."
+   },
+   "G05": {
+    "v": 2,
+    "conf": "voto",
+    "fonte": "https://dadosabertos.camara.leg.br/api/v2/votacoes/2482078-57/votos",
+    "nota": "Votou Sim ao PDL 3/2025, que sustou resolução do Conanda sobre aborto legal para meninas vítimas de violência (05/11/2025)."
+   }
+  }
+ },
+ {
+  "id": 250002550395,
+  "nomeUrna": "ALEX MANENTE",
+  "resumo": "Advogado, foi vereador em São Bernardo do Campo e deputado estadual. Deputado federal por SP desde 2015 e presidente nacional do Cidadania.",
+  "bandeiras": [],
+  "posicoes": {
+   "G01": {
+    "v": 4,
+    "conf": "declaracao",
+    "fonte": "https://dadosabertos.camara.leg.br/api/v2/deputados/178972/discursos?dataInicio=2025-06-16&dataFim=2025-06-16&itens=100",
+    "nota": "Em 16/06/2025 disse ser contra aumento de impostos e defendeu 'reduzir os custos da máquina pública'; em 25/06/2025 disse que é preciso diminuir impostos."
+   },
+   "G06": {
+    "v": 2,
+    "conf": "voto",
+    "fonte": "https://dadosabertos.camara.leg.br/api/v2/votacoes/2428236-50/votos",
+    "nota": "Na CCJ, votou Sim à admissibilidade da PEC 45/2023, que criminaliza porte de qualquer quantidade de droga (12/06/2024)."
+   },
+   "G09": {
+    "v": 4,
+    "conf": "declaracao",
+    "fonte": "https://dadosabertos.camara.leg.br/api/v2/deputados/178972/discursos?dataInicio=2025-10-22&dataFim=2025-10-22&itens=100",
+    "nota": "Em 22/10/2025, relator do PL 3640/2023, criticou ministros do STF que mudam 'numa única canetada' decisões da Câmara; defendeu limitar decisões monocráticas."
+   },
+   "DF05": {
+    "v": 4,
+    "conf": "voto",
+    "fonte": "https://dadosabertos.camara.leg.br/api/v2/votacoes/2153100-59/votos",
+    "nota": "Votou Não pela manutenção do artigo que criou o fundo eleitoral (destaque ao PL 8703/2017, 04/10/2017)."
+   },
+   "DF06": {
+    "v": 5,
+    "conf": "voto",
+    "fonte": "https://dadosabertos.camara.leg.br/api/v2/votacoes/596844-116/votos",
+    "nota": "Votou Sim ao texto da Câmara que acabava com a saída temporária de presos (PL 6579/2013, 03/08/2022)."
+   }
+  }
+ },
+ {
+  "id": 250002546642,
+  "nomeUrna": "KIM KATAGUIRI",
+  "resumo": "Cofundador do MBL, deputado federal por SP desde 2019 (eleito por DEM e União Brasil, hoje no Missão). Candidato à reeleição em 2026.",
+  "bandeiras": [
+   "Reforma administrativa",
+   "Economia de recursos públicos",
+   "Combate à corrupção"
+  ],
+  "posicoes": {
+   "G01": {
+    "v": 4,
+    "conf": "declaracao",
+    "fonte": "https://dadosabertos.camara.leg.br/api/v2/deputados/204536/discursos?dataInicio=2025-10-07&dataFim=2025-10-07&itens=100",
+    "nota": "Em discurso de 07/10/2025 disse ser fiscalista e defender corte de gastos e corte de impostos."
+   },
+   "G05": {
+    "v": 2,
+    "conf": "voto",
+    "fonte": "https://dadosabertos.camara.leg.br/api/v2/votacoes/2482078-57/votos",
+    "nota": "Votou Sim ao PDL 3/2025, que sustou resolução do Conanda sobre aborto legal para meninas vítimas de violência (05/11/2025)."
+   },
+   "G06": {
+    "v": 2,
+    "conf": "voto",
+    "fonte": "https://dadosabertos.camara.leg.br/api/v2/votacoes/2428236-50/votos",
+    "nota": "Na CCJ, votou Sim à admissibilidade da PEC 45/2023, que criminaliza porte de qualquer quantidade de droga (12/06/2024)."
+   },
+   "G09": {
+    "v": 4,
+    "conf": "voto",
+    "fonte": "https://dadosabertos.camara.leg.br/api/v2/votacoes/2410488-45/votos",
+    "nota": "Na CCJ, votou Sim à admissibilidade da PEC 8/2021, que limita decisões monocráticas do STF (09/10/2024)."
+   },
+   "G12": {
+    "v": 4,
+    "conf": "declaracao",
+    "fonte": "https://dadosabertos.camara.leg.br/api/v2/deputados/204536/discursos?dataInicio=2026-03-04&dataFim=2026-03-04&itens=100",
+    "nota": "Em discurso de 04/03/2026 lamentou a retirada da redução para 16 anos da PEC da Segurança e disse que o ideal seria 14 anos."
+   },
+   "DF01": {
+    "v": 4,
+    "conf": "declaracao",
+    "fonte": "https://dadosabertos.camara.leg.br/api/v2/deputados/204536/discursos?dataInicio=2025-12-04&dataFim=2025-12-04&itens=100",
+    "nota": "Em 04/12/2025 anunciou voto contra LDO que prevê emendas, criticou gastos com emendas e o uso de emendas secretas para comprar votos."
+   },
+   "DF05": {
+    "v": 4,
+    "conf": "declaracao",
+    "fonte": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2431029",
+    "nota": "Autor único do PL 1567/2024, que destina recursos do fundo eleitoral às enchentes no RS; em 04/12/2025 votou contra LDO com o fundo."
+   },
+   "DF06": {
+    "v": 5,
+    "conf": "voto",
+    "fonte": "https://dadosabertos.camara.leg.br/api/v2/votacoes/596844-116/votos",
+    "nota": "Votou Sim ao texto da Câmara que acabava com a saída temporária de presos (PL 6579/2013, 03/08/2022)."
+   }
+  }
+ }
+]

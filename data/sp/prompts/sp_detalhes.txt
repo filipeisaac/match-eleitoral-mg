@@ -1,0 +1,8 @@
+Você vai escrever o material "Mais detalhes" das perguntas estaduais de São Paulo de um app neutro de orientação de voto (eleições de 2026; hoje é 27/09/2026). Trabalhe em /Users/filipemeireles/Documents/match-eleitoral/. Leia data/questions.json: as perguntas são estados.SP.governador (SPGV01 a SPGV06) e estados.SP.deputado_estadual (SPDE01 a SPDE05). Veja data/detalhes.json como exemplo de formato e tom (é o material equivalente das outras perguntas).
+
+Para cada pergunta, escreva, em data/sp/detalhes.json, no mesmo formato de data/detalhes.json:
+{ "SPGV01": { "situacao": "2 a 4 frases com fatos verificáveis e datas sobre o tema em SP hoje", "aFavor": ["2 ou 3 argumentos de quem concorda"], "contra": ["2 ou 3 argumentos de quem discorda"], "fontes": ["2 a 4 URLs"] }, ... }
+
+Regras: português simples; mesmo número de argumentos dos dois lados, com a mesma força; cada argumento na sua melhor versão, sem caricatura; sem adjetivos avaliativos; sem citar partidos ou candidatos; nada de travessão (—). Use a busca na web para checar fatos atuais.
+
+Também confira cada "contexto" dessas 11 perguntas em questions.json. Não altere questions.json: liste em data/sp/detalhes_correcoes.md qualquer erro ou desatualização, com fonte e sugestão de texto (até 2 frases). Grave aos poucos. Não escreva fora desses dois arquivos. Ao terminar, responda com os problemas encontrados nos contextos.

@@ -1,0 +1,11 @@
+Você está montando a posição dos partidos para um app neutro de orientação de voto (eleições de 2026; hoje é 27/09/2026). Trabalhe em /Users/filipemeireles/Documents/match-eleitoral/. Leia data/METODO.md, data/METODO_SP.md e data/questions.json. Veja também data/positions/partidos.json, que já tem a posição dos partidos nas perguntas nacionais e nas de Minas; use-o como referência de formato e rigor.
+
+Tarefa:
+1. Para os partidos AGIR, CIDADANIA, MDB, MISSÃO, NOVO, PCB, PCDOB, PCO, PL, PODE, PP, PRD, PSB, PSD, PSDB, PSOL, PSTU, PT, PV, REDE, REPUBLICANOS, SOLIDARIEDADE, UNIÃO e UP, estime a posição de cada partido EM SÃO PAULO nas perguntas SPGV01 a SPGV06 e SPDE01 a SPDE05 (estados.SP em questions.json).
+2. O CIDADANIA não existe no arquivo atual: estime também a posição nacional dele em todas as perguntas de `secoes` (G*, P*, S*, DF*).
+
+Evidências, em ordem de preferência: orientação e voto da bancada na Alesp (por exemplo, a privatização da Sabesp em dezembro de 2023 e o programa de escolas cívico-militares em 2024), notas oficiais do diretório paulista, o plano de governo do candidato do partido (ou da coligação) ao governo de SP em 2026, e posições públicas consistentes da liderança estadual. Para o CIDADANIA nacional: orientações na Câmara (API https://dadosabertos.camara.leg.br/api/v2/, votações e orientações) e o programa do partido.
+
+Regras: só registre posição onde o partido é coeso no tema; partidos de centro costumam ficar divididos, e nesse caso omita. Coligação ao governo vale no máximo 4 ou 2 para os partidos aliados. Cada entrada precisa de fonte e nota neutra de até 160 caracteres, conf "partido". Mesmo rigor para todos os partidos.
+
+Saída: data/sp/positions/partidos_sp.json no formato { "PT": { "SPGV01": {"v": 2, "conf": "partido", "fonte": "https://...", "nota": "..."} }, "CIDADANIA": { "G01": {...}, ... } }. Grave a cada partido. Não altere outros arquivos. Ao terminar, responda com uma tabela de quantas perguntas cada partido cobriu.

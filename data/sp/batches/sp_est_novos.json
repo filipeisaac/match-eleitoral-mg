@@ -1,0 +1,4495 @@
+[
+ {
+  "id": 250002548916,
+  "cargoCod": 7,
+  "cargo": "Deputado Estadual",
+  "nomeUrna": "ANA PAULA HAUSSAUER",
+  "nomeCompleto": "ANA PAULA HAUSSAUER",
+  "numero": 23230,
+  "partido": "CIDADANIA",
+  "coligacao": "FEDERAÇÃO PSDB CIDADANIA(45-PSDB/23-CIDADANIA)",
+  "situacao": "Deferido",
+  "ocupacao": "Diretor de Empresas",
+  "incumbente": false,
+  "arrecadado": 1297935.96,
+  "anteriores": [],
+  "sites": [
+   "HTTPS://WWW.INSTAGRAM.COM/ANAPAULAHAUSSAUER/"
+  ],
+  "posicoesExistentes": {},
+  "perguntasFaltando": [
+   "G01",
+   "G02",
+   "G03",
+   "G04",
+   "G05",
+   "G06",
+   "G07",
+   "G08",
+   "G09",
+   "G10",
+   "G11",
+   "G12",
+   "G13",
+   "G14",
+   "SPDE01",
+   "SPDE02",
+   "SPDE03",
+   "SPDE04",
+   "SPDE05"
+  ]
+ },
+ {
+  "id": 250002539934,
+  "cargoCod": 7,
+  "cargo": "Deputado Estadual",
+  "nomeUrna": "LUIZA ERUNDINA",
+  "nomeCompleto": "LUIZA ERUNDINA DE SOUSA",
+  "numero": 50555,
+  "partido": "PSOL",
+  "coligacao": "FEDERAÇÃO PSOL REDE(50-PSOL/18-REDE)",
+  "situacao": "Deferido",
+  "ocupacao": "Assistente Social",
+  "incumbente": false,
+  "arrecadado": 1277950,
+  "anteriores": [
+   {
+    "ano": 2022,
+    "cargo": "Deputado Federal",
+    "local": "SÃO PAULO",
+    "partido": "PSOL",
+    "resultado": "Eleito por QP"
+   },
+   {
+    "ano": 2020,
+    "cargo": "Vice-prefeito",
+    "local": "SÃO PAULO",
+    "partido": "PSOL",
+    "resultado": "Não eleito"
+   },
+   {
+    "ano": 2018,
+    "cargo": "Deputado Federal",
+    "local": "SÃO PAULO",
+    "partido": "PSOL",
+    "resultado": "Eleito por QP"
+   },
+   {
+    "ano": 2016,
+    "cargo": "Prefeito",
+    "local": "SÃO PAULO",
+    "partido": "PSOL",
+    "resultado": "Não eleito"
+   }
+  ],
+  "sites": [
+   "HTTPS://LUIZAERUNDINA.COM.BR",
+   "https://www.youtube.com/@LuizaErundinaSousa",
+   "HTTPS://WWW.INSTAGRAM.COM/LUIZAERUNDINA/",
+   "https://www.instagram.com/luizaerundina",
+   "https://luizaerundina.com.br/",
+   "https://bsky.app/profile/luizaerundinapsol.bsky.social",
+   "https://www.facebook.com/luizaerundina",
+   "https://www.threads.com/@luizaerundina",
+   "HTTPS://X.COM/LUIZAERUNDINA",
+   "https://www.tiktok.com/@luizaerundina",
+   "https://whatsapp.com/channel/0029VbDfRox3wtb4z1ejj42z",
+   "HTTPS://WWW.FACEBOOK.COM/LUIZAERUNDINA?FREF=TS",
+   "https://x.com/luizaerundina"
+  ],
+  "posicoesExistentes": {
+   "G04": {
+    "v": 2,
+    "conf": "voto",
+    "nota": "Votou Não em PDL 3/2023 (06/12/2023)."
+   },
+   "G11": {
+    "v": 4,
+    "conf": "voto",
+    "nota": "Votou Sim em PL 1958/2021 (19/11/2024)."
+   },
+   "G08": {
+    "v": 2,
+    "conf": "voto",
+    "nota": "Votou Não em PL 2162/2023 (17/09/2025); Não em PL 2162/2023 (10/12/2025)."
+   },
+   "G14": {
+    "v": 5,
+    "conf": "voto",
+    "nota": "Votou Sim em PEC 221/2019 (27/05/2026); Sim em PEC 221/2019 (27/05/2026)."
+   },
+   "G03": {
+    "v": 2,
+    "conf": "voto",
+    "nota": "Votou Não em PL 591/2021 (privatização dos Correios) (05/08/2021); Não em MP 1031/2021 (privatização da Eletrobras) (19/05/2021)."
+   },
+   "G01": {
+    "v": 2,
+    "conf": "voto",
+    "nota": "Votou Não em PEC 241/2016 (teto de gastos), 2º turno (25/10/2016)."
+   },
+   "G12": {
+    "v": 2,
+    "conf": "voto",
+    "nota": "Votou Não em PEC 171/1993 (maioridade penal para crimes graves), 2º turno (19/08/2015)."
+   }
+  },
+  "perguntasFaltando": [
+   "G02",
+   "G05",
+   "G06",
+   "G07",
+   "G09",
+   "G10",
+   "G13",
+   "SPDE01",
+   "SPDE02",
+   "SPDE03",
+   "SPDE04",
+   "SPDE05"
+  ]
+ },
+ {
+  "id": 250002536375,
+  "cargoCod": 7,
+  "cargo": "Deputado Estadual",
+  "nomeUrna": "ISAAC ANTUNES",
+  "nomeCompleto": "ISAAC DAL COL ANTUNES",
+  "numero": 22122,
+  "partido": "PL",
+  "coligacao": "PL",
+  "situacao": "Deferido",
+  "ocupacao": "Vereador",
+  "incumbente": false,
+  "arrecadado": 1270280,
+  "anteriores": [
+   {
+    "ano": 2024,
+    "cargo": "Vereador",
+    "local": "RIBEIRÃO PRETO",
+    "partido": "PL",
+    "resultado": "Eleito por QP"
+   },
+   {
+    "ano": 2022,
+    "cargo": "Deputado Federal",
+    "local": "SÃO PAULO",
+    "partido": "PL",
+    "resultado": "Suplente"
+   },
+   {
+    "ano": 2020,
+    "cargo": "Vereador",
+    "local": "RIBEIRÃO PRETO",
+    "partido": "PL",
+    "resultado": "Eleito por QP"
+   },
+   {
+    "ano": 2016,
+    "cargo": "Vereador",
+    "local": "RIBEIRÃO PRETO",
+    "partido": "PR",
+    "resultado": "Eleito por QP"
+   }
+  ],
+  "sites": [
+   "HTTPS://WWW.FACEBOOK.COM/SHARE/17SESE2YSW/?MIBEXTID=WWXIFR",
+   "HTTPS://WWW.INSTAGRAM.COM/ANTUNES.ISAAC?IGSH=MNR4N3QXCMI2NNM0"
+  ],
+  "posicoesExistentes": {},
+  "perguntasFaltando": [
+   "G01",
+   "G02",
+   "G03",
+   "G04",
+   "G05",
+   "G06",
+   "G07",
+   "G08",
+   "G09",
+   "G10",
+   "G11",
+   "G12",
+   "G13",
+   "G14",
+   "SPDE01",
+   "SPDE02",
+   "SPDE03",
+   "SPDE04",
+   "SPDE05"
+  ]
+ },
+ {
+  "id": 250002540897,
+  "cargoCod": 7,
+  "cargo": "Deputado Estadual",
+  "nomeUrna": "RAFAEL SILVA JR",
+  "nomeCompleto": "RAFAEL ANTONIO DA SILVA JUNIOR",
+  "numero": 55055,
+  "partido": "PSD",
+  "coligacao": "PSD",
+  "situacao": "Deferido",
+  "ocupacao": "Advogado",
+  "incumbente": false,
+  "arrecadado": 1239238,
+  "anteriores": [],
+  "sites": [
+   "HTTPS://WWW.INSTAGRAM.COM/RAFAELSILVAJROFICIAL/",
+   "https://www.facebook.com/rafaelsilvajroficial",
+   "HTTPS://WWW.TIKTOK.COM/@RAFAELSILVAJR.OFICIAL",
+   "https://www.rafaelsilvajr.com.br/",
+   "https://www.facebook.com/rafaelsilvajunior.rp/"
+  ],
+  "posicoesExistentes": {},
+  "perguntasFaltando": [
+   "G01",
+   "G02",
+   "G03",
+   "G04",
+   "G05",
+   "G06",
+   "G07",
+   "G08",
+   "G09",
+   "G10",
+   "G11",
+   "G12",
+   "G13",
+   "G14",
+   "SPDE01",
+   "SPDE02",
+   "SPDE03",
+   "SPDE04",
+   "SPDE05"
+  ]
+ },
+ {
+  "id": 250002540900,
+  "cargoCod": 7,
+  "cargo": "Deputado Estadual",
+  "nomeUrna": "GEÓRGIA SALES",
+  "nomeCompleto": "GEORGIA SALES E SILVA",
+  "numero": 55123,
+  "partido": "PSD",
+  "coligacao": "PSD",
+  "situacao": "Deferido",
+  "ocupacao": "Advogado",
+  "incumbente": false,
+  "arrecadado": 1208001,
+  "anteriores": [],
+  "sites": [
+   "HTTPS://WWW.LINKEDIN.COM/IN/GEÓRGIA-SALES-52A5993A7",
+   "HTTPS://WWW.TIKTOK.COM/@SALES_GEORGIA_",
+   "HTTPS://WWW.GEORGIASALES.COM.BR/",
+   "https://www.georgiasales55123.com.br",
+   "https://www.facebook.com/georgiasales/",
+   "HTTPS://WWW.INSTAGRAM.COM/GEORGIASALESOFICIAL/"
+  ],
+  "posicoesExistentes": {},
+  "perguntasFaltando": [
+   "G01",
+   "G02",
+   "G03",
+   "G04",
+   "G05",
+   "G06",
+   "G07",
+   "G08",
+   "G09",
+   "G10",
+   "G11",
+   "G12",
+   "G13",
+   "G14",
+   "SPDE01",
+   "SPDE02",
+   "SPDE03",
+   "SPDE04",
+   "SPDE05"
+  ]
+ },
+ {
+  "id": 250002548907,
+  "cargoCod": 7,
+  "cargo": "Deputado Estadual",
+  "nomeUrna": "DEDÉ DA FOLHA",
+  "nomeCompleto": "EDINALDO DE MENEZES",
+  "numero": 23231,
+  "partido": "CIDADANIA",
+  "coligacao": "FEDERAÇÃO PSDB CIDADANIA(45-PSDB/23-CIDADANIA)",
+  "situacao": "Deferido",
+  "ocupacao": "Jornalista e Redator",
+  "incumbente": false,
+  "arrecadado": 1206894.26,
+  "anteriores": [
+   {
+    "ano": 2016,
+    "cargo": "Prefeito",
+    "local": "RIBEIRÃO PIRES",
+    "partido": "PPS",
+    "resultado": "Não eleito"
+   },
+   {
+    "ano": 2012,
+    "cargo": "Prefeito",
+    "local": "RIBEIRÃO PIRES",
+    "partido": "PPS",
+    "resultado": "Não eleito"
+   },
+   {
+    "ano": 2008,
+    "cargo": "Vice-Prefeito",
+    "local": "RIBEIRÃO PIRES",
+    "partido": "PPS",
+    "resultado": "Concorrendo"
+   },
+   {
+    "ano": 2004,
+    "cargo": "Vereador",
+    "local": "RIBEIRÃO PIRES",
+    "partido": "PDT",
+    "resultado": "Média"
+   }
+  ],
+  "sites": [
+   "HTTPS://WWW.INSTAGRAM.COM/DEDEDAFOLHARP/"
+  ],
+  "posicoesExistentes": {},
+  "perguntasFaltando": [
+   "G01",
+   "G02",
+   "G03",
+   "G04",
+   "G05",
+   "G06",
+   "G07",
+   "G08",
+   "G09",
+   "G10",
+   "G11",
+   "G12",
+   "G13",
+   "G14",
+   "SPDE01",
+   "SPDE02",
+   "SPDE03",
+   "SPDE04",
+   "SPDE05"
+  ]
+ },
+ {
+  "id": 250002540905,
+  "cargoCod": 7,
+  "cargo": "Deputado Estadual",
+  "nomeUrna": "DELEGADA RAQUEL",
+  "nomeCompleto": "RAQUEL KOBASHI GALLINATI LOMBARDI",
+  "numero": 55550,
+  "partido": "PSD",
+  "coligacao": "PSD",
+  "situacao": "Deferido",
+  "ocupacao": "Policial Civil",
+  "incumbente": false,
+  "arrecadado": 1201653.57,
+  "anteriores": [
+   {
+    "ano": 2022,
+    "cargo": "Deputado Estadual",
+    "local": "SÃO PAULO",
+    "partido": "PL",
+    "resultado": "Suplente"
+   }
+  ],
+  "sites": [
+   "HTTPS://WWW.LINKEDIN.COM/IN/RAQUEL-GALLINATI-497A21128?UTM_SOURCE=SHARE_VIA&UTM_",
+   "HTTPS://YOUTUBE.COM/@RAQUELGALLINATI4346?SI=AAS2QIRXUCHDCCGL",
+   "HTTPS://DELEGADARAQUEL.COM.BR/",
+   "HTTPS://X.COM/GALLINATIRAQUEL?S=11",
+   "https://www.facebook.com/delegadaraquel1/",
+   "HTTPS://WWW.INSTAGRAM.COM/RAQUELGALLINATI/",
+   "HTTPS://WWW.TIKTOK.COM/@RAQUELGALLINATI"
+  ],
+  "posicoesExistentes": {},
+  "perguntasFaltando": [
+   "G01",
+   "G02",
+   "G03",
+   "G04",
+   "G05",
+   "G06",
+   "G07",
+   "G08",
+   "G09",
+   "G10",
+   "G11",
+   "G12",
+   "G13",
+   "G14",
+   "SPDE01",
+   "SPDE02",
+   "SPDE03",
+   "SPDE04",
+   "SPDE05"
+  ]
+ },
+ {
+  "id": 250002540886,
+  "cargoCod": 7,
+  "cargo": "Deputado Estadual",
+  "nomeUrna": "ALINE TORRES",
+  "nomeCompleto": "ALINE NASCIMENTO BARROZO TORRES",
+  "numero": 55900,
+  "partido": "PSD",
+  "coligacao": "PSD",
+  "situacao": "Deferido",
+  "ocupacao": "Administrador",
+  "incumbente": false,
+  "arrecadado": 1152800,
+  "anteriores": [
+   {
+    "ano": 2024,
+    "cargo": "Vereador",
+    "local": "SÃO PAULO",
+    "partido": "MDB",
+    "resultado": "Suplente"
+   },
+   {
+    "ano": 2020,
+    "cargo": "Vereador",
+    "local": "SÃO PAULO",
+    "partido": "MDB",
+    "resultado": "Suplente"
+   },
+   {
+    "ano": 2018,
+    "cargo": "Deputado Federal",
+    "local": "SÃO PAULO",
+    "partido": "PSDB",
+    "resultado": "Suplente"
+   }
+  ],
+  "sites": [
+   "HTTPS://WWW.TIKTOK.COM/@ALINETORRESSP",
+   "HTTPS://WWW.ALINETORRESSP.COM.BR",
+   "https://www.facebook.com/alinetorres/",
+   "HTTPS://WWW.INSTAGRAM.COM/ALINETORRESSP/",
+   "HTTPS://WWW.LINKEDIN.COM/FEED/",
+   "HTTPS://WWW.YOUTUBE.COM/@ALINETORRESSP"
+  ],
+  "posicoesExistentes": {},
+  "perguntasFaltando": [
+   "G01",
+   "G02",
+   "G03",
+   "G04",
+   "G05",
+   "G06",
+   "G07",
+   "G08",
+   "G09",
+   "G10",
+   "G11",
+   "G12",
+   "G13",
+   "G14",
+   "SPDE01",
+   "SPDE02",
+   "SPDE03",
+   "SPDE04",
+   "SPDE05"
+  ]
+ },
+ {
+  "id": 250002541864,
+  "cargoCod": 7,
+  "cargo": "Deputado Estadual",
+  "nomeUrna": "RENATA SENE",
+  "nomeCompleto": "RENATA TORRES DE SENE",
+  "numero": 10100,
+  "partido": "REPUBLICANOS",
+  "coligacao": "REPUBLICANOS",
+  "situacao": "Deferido",
+  "ocupacao": "Assistente Social",
+  "incumbente": false,
+  "arrecadado": 1149311.51,
+  "anteriores": [
+   {
+    "ano": 2020,
+    "cargo": "Prefeito",
+    "local": "FRANCISCO MORATO",
+    "partido": "REPUBLICANOS",
+    "resultado": "Eleito"
+   },
+   {
+    "ano": 2016,
+    "cargo": "Prefeito",
+    "local": "FRANCISCO MORATO",
+    "partido": "PRB",
+    "resultado": "Eleito"
+   }
+  ],
+  "sites": [
+   "HTTPS://WWW.FACEBOOK.COM/SHARE/1D4YNHK2AG/?MIBEXTID=WWXIFR",
+   "https://x.com/renataseneofc?s=11&t=k9sAMQSwXvRN5czSptN0lQ",
+   "https://HTTPS://WWW.LINKEDIN.COM/IN/RENATA-SENE-OFICIAL-B0B764422?  UTM_SOURCE=SHARE_VIA",
+   "https://www.flickr.com/photos/renataseneofc/",
+   "https://www.facebook.com/share/1J1gLTHNLw/?mibextid=wwXIfr",
+   "HTTPS://WWW.INSTAGRAM.COM/RENATASENEOFICIAL?IGSH=EJM3DNPLEGHZCZLO",
+   "https://www.tiktok.com/@renataseneoficial?_r=1&_t=ZS-983lPfk8gg0",
+   "HTTPS://YOUTUBE.COM/@RENATASENE8658?SI=QCBAZZV07CHKS7XB",
+   "HTTPS://RENATASENE.COM.BR/#/"
+  ],
+  "posicoesExistentes": {},
+  "perguntasFaltando": [
+   "G01",
+   "G02",
+   "G03",
+   "G04",
+   "G05",
+   "G06",
+   "G07",
+   "G08",
+   "G09",
+   "G10",
+   "G11",
+   "G12",
+   "G13",
+   "G14",
+   "SPDE01",
+   "SPDE02",
+   "SPDE03",
+   "SPDE04",
+   "SPDE05"
+  ]
+ },
+ {
+  "id": 250002540928,
+  "cargoCod": 7,
+  "cargo": "Deputado Estadual",
+  "nomeUrna": "CLAU CAMARGO",
+  "nomeCompleto": "CLAUDINEIA TEIXEIRA DE CAMARGO",
+  "numero": 55655,
+  "partido": "PSD",
+  "coligacao": "PSD",
+  "situacao": "Deferido",
+  "ocupacao": "Advogado",
+  "incumbente": false,
+  "arrecadado": 1147607.41,
+  "anteriores": [],
+  "sites": [
+   "HTTPS://WWW.INSTAGRAM.COM/CLAUCAMARGO.ADV/",
+   "HTTPS://WWW.CLAUCAMARGO.COM.BR/"
+  ],
+  "posicoesExistentes": {},
+  "perguntasFaltando": [
+   "G01",
+   "G02",
+   "G03",
+   "G04",
+   "G05",
+   "G06",
+   "G07",
+   "G08",
+   "G09",
+   "G10",
+   "G11",
+   "G12",
+   "G13",
+   "G14",
+   "SPDE01",
+   "SPDE02",
+   "SPDE03",
+   "SPDE04",
+   "SPDE05"
+  ]
+ },
+ {
+  "id": 250002540563,
+  "cargoCod": 7,
+  "cargo": "Deputado Estadual",
+  "nomeUrna": "LÚCIA ROSIM",
+  "nomeCompleto": "LUCIA DE FATIMA SILVA ROSIM",
+  "numero": 55001,
+  "partido": "PSD",
+  "coligacao": "PSD",
+  "situacao": "Deferido",
+  "ocupacao": "Outros",
+  "incumbente": false,
+  "arrecadado": 1140907.41,
+  "anteriores": [
+   {
+    "ano": 2022,
+    "cargo": "Deputado Estadual",
+    "local": "SÃO PAULO",
+    "partido": "PSC",
+    "resultado": "Suplente"
+   },
+   {
+    "ano": 2012,
+    "cargo": "Vereador",
+    "local": "BIRIGUI",
+    "partido": "PSDB",
+    "resultado": "Suplente"
+   }
+  ],
+  "sites": [
+   "HTTPS://WWW.TIKTOK.COM/@LUCIAROSIMBISPA",
+   "https://luciarosim55001.vercel.app/",
+   "https://www.facebook.com/luciarosimbispa/",
+   "https://www.youtube.com/@BispaLúciaRosim",
+   "HTTPS://WWW.INSTAGRAM.COM/LUCIAROSIMBISPA/"
+  ],
+  "posicoesExistentes": {},
+  "perguntasFaltando": [
+   "G01",
+   "G02",
+   "G03",
+   "G04",
+   "G05",
+   "G06",
+   "G07",
+   "G08",
+   "G09",
+   "G10",
+   "G11",
+   "G12",
+   "G13",
+   "G14",
+   "SPDE01",
+   "SPDE02",
+   "SPDE03",
+   "SPDE04",
+   "SPDE05"
+  ]
+ },
+ {
+  "id": 250002540564,
+  "cargoCod": 7,
+  "cargo": "Deputado Estadual",
+  "nomeUrna": "MARA GABRILLI",
+  "nomeCompleto": "MARA CRISTINA GABRILLI",
+  "numero": 55177,
+  "partido": "PSD",
+  "coligacao": "PSD",
+  "situacao": "Deferido",
+  "ocupacao": "Senador",
+  "incumbente": false,
+  "arrecadado": 1120424.41,
+  "anteriores": [
+   {
+    "ano": 2022,
+    "cargo": "Vice-presidente",
+    "local": "BRASIL",
+    "partido": "PSDB",
+    "resultado": "Não eleito"
+   },
+   {
+    "ano": 2018,
+    "cargo": "Senador",
+    "local": "SÃO PAULO",
+    "partido": "PSDB",
+    "resultado": "Eleito"
+   },
+   {
+    "ano": 2014,
+    "cargo": "Deputado Federal",
+    "local": "SÃO PAULO",
+    "partido": "PSDB",
+    "resultado": "Eleito por QP"
+   },
+   {
+    "ano": 2010,
+    "cargo": "Deputado Federal",
+    "local": "SÃO PAULO",
+    "partido": "PSDB",
+    "resultado": "Eleito"
+   }
+  ],
+  "sites": [
+   "HTTPS://WWW.INSTAGRAM.COM/MARAGABRILLI/",
+   "HTTPS://X.COM/MARAGABRILLI",
+   "HTTPS://WWW.YOUTUBE.COM/@MARAGABRILLI",
+   "HTTPS://MARAGABRILLI.COM.BR/",
+   "https://www.facebook.com/maragabrilli"
+  ],
+  "posicoesExistentes": {
+   "G01": {
+    "v": 4,
+    "conf": "voto",
+    "nota": "Votou Sim em PEC 241/2016 (teto de gastos), 2º turno (25/10/2016)."
+   },
+   "G12": {
+    "v": 4,
+    "conf": "voto",
+    "nota": "Votou Sim em PEC 171/1993 (maioridade penal para crimes graves), 2º turno (19/08/2015)."
+   }
+  },
+  "perguntasFaltando": [
+   "G02",
+   "G03",
+   "G04",
+   "G05",
+   "G06",
+   "G07",
+   "G08",
+   "G09",
+   "G10",
+   "G11",
+   "G13",
+   "G14",
+   "SPDE01",
+   "SPDE02",
+   "SPDE03",
+   "SPDE04",
+   "SPDE05"
+  ]
+ },
+ {
+  "id": 250002530268,
+  "cargoCod": 7,
+  "cargo": "Deputado Estadual",
+  "nomeUrna": "GERSON PIRES",
+  "nomeCompleto": "GERSON DOS SANTOS PIRES",
+  "numero": 30111,
+  "partido": "NOVO",
+  "coligacao": "NOVO",
+  "situacao": "Deferido",
+  "ocupacao": "Outros",
+  "incumbente": false,
+  "arrecadado": 1111814.75,
+  "anteriores": [
+   {
+    "ano": 2022,
+    "cargo": "Deputado Estadual",
+    "local": "SÃO PAULO",
+    "partido": "PODE",
+    "resultado": "Suplente"
+   }
+  ],
+  "sites": [
+   "HTTPS://WWW.INSTAGRAM.COM/GERSONPIRES/",
+   "HTTPS://GERSONPIRES.COM.BR",
+   "https://twitter.com/gersonspires",
+   "https://www.linkedin.com/in/gersonspires/",
+   "HTTPS://WWW.TIKTOK.COM/@GERSONSPIRES",
+   "HTTPS://WWW.FACEBOOK.COM/GERSONPIRESSP"
+  ],
+  "posicoesExistentes": {},
+  "perguntasFaltando": [
+   "G01",
+   "G02",
+   "G03",
+   "G04",
+   "G05",
+   "G06",
+   "G07",
+   "G08",
+   "G09",
+   "G10",
+   "G11",
+   "G12",
+   "G13",
+   "G14",
+   "SPDE01",
+   "SPDE02",
+   "SPDE03",
+   "SPDE04",
+   "SPDE05"
+  ]
+ },
+ {
+  "id": 250002540883,
+  "cargoCod": 7,
+  "cargo": "Deputado Estadual",
+  "nomeUrna": "CORONEL HELENA REIS",
+  "nomeCompleto": "HELENA DOS SANTOS REIS",
+  "numero": 55190,
+  "partido": "PSD",
+  "coligacao": "PSD",
+  "situacao": "Deferido",
+  "ocupacao": "Policial Militar",
+  "incumbente": false,
+  "arrecadado": 1111607.41,
+  "anteriores": [
+   {
+    "ano": 2022,
+    "cargo": "Deputado Estadual",
+    "local": "SÃO PAULO",
+    "partido": "REPUBLICANOS",
+    "resultado": "Suplente"
+   },
+   {
+    "ano": 2020,
+    "cargo": "Prefeito",
+    "local": "SÃO JOSÉ DO RIO PRETO",
+    "partido": "REPUBLICANOS",
+    "resultado": "Não eleito"
+   }
+  ],
+  "sites": [
+   "HTTPS://WWW.YOUTUBE.COM/@CORONELHELENAREISOFICIAL",
+   "HTTPS://WWW.INSTAGRAM.COM/CORONELHELENAREIS/",
+   "https://www.facebook.com/coronelhelenareis",
+   "HTTPS://WWW.TIKTOK.COM/@CORONELHELENAREIS",
+   "HTTPS://CORONELHELENA.COM.BR/"
+  ],
+  "posicoesExistentes": {},
+  "perguntasFaltando": [
+   "G01",
+   "G02",
+   "G03",
+   "G04",
+   "G05",
+   "G06",
+   "G07",
+   "G08",
+   "G09",
+   "G10",
+   "G11",
+   "G12",
+   "G13",
+   "G14",
+   "SPDE01",
+   "SPDE02",
+   "SPDE03",
+   "SPDE04",
+   "SPDE05"
+  ]
+ },
+ {
+  "id": 250002540909,
+  "cargoCod": 7,
+  "cargo": "Deputado Estadual",
+  "nomeUrna": "RITA PASSOS",
+  "nomeCompleto": "RITA DE CASSIA TRINCA PASSOS",
+  "numero": 55510,
+  "partido": "PSD",
+  "coligacao": "PSD",
+  "situacao": "Deferido",
+  "ocupacao": "Empresário",
+  "incumbente": false,
+  "arrecadado": 1104839.41,
+  "anteriores": [
+   {
+    "ano": 2022,
+    "cargo": "Deputado Federal",
+    "local": "SÃO PAULO",
+    "partido": "REPUBLICANOS",
+    "resultado": "Suplente"
+   },
+   {
+    "ano": 2020,
+    "cargo": "Prefeito",
+    "local": "ITU",
+    "partido": "MDB",
+    "resultado": "Não eleito"
+   },
+   {
+    "ano": 2018,
+    "cargo": "Deputado Estadual",
+    "local": "SÃO PAULO",
+    "partido": "PSD",
+    "resultado": "Suplente"
+   },
+   {
+    "ano": 2016,
+    "cargo": "Prefeito",
+    "local": "ITU",
+    "partido": "PSD",
+    "resultado": "Não eleito"
+   }
+  ],
+  "sites": [
+   "http://www.ritapassos.com.br/",
+   "HTTPS://WWW.INSTAGRAM.COM/RITAPASSOS/",
+   "https://Facebook.com/RitaPassosOficial"
+  ],
+  "posicoesExistentes": {},
+  "perguntasFaltando": [
+   "G01",
+   "G02",
+   "G03",
+   "G04",
+   "G05",
+   "G06",
+   "G07",
+   "G08",
+   "G09",
+   "G10",
+   "G11",
+   "G12",
+   "G13",
+   "G14",
+   "SPDE01",
+   "SPDE02",
+   "SPDE03",
+   "SPDE04",
+   "SPDE05"
+  ]
+ },
+ {
+  "id": 250002541857,
+  "cargoCod": 7,
+  "cargo": "Deputado Estadual",
+  "nomeUrna": "ELY SANTOS",
+  "nomeCompleto": "ELIANE DE SOUSA ALVES MACHADO",
+  "numero": 10023,
+  "partido": "REPUBLICANOS",
+  "coligacao": "REPUBLICANOS",
+  "situacao": "Deferido",
+  "ocupacao": "Outros",
+  "incumbente": false,
+  "arrecadado": 1095000,
+  "anteriores": [
+   {
+    "ano": 2022,
+    "cargo": "Deputado Federal",
+    "local": "SÃO PAULO",
+    "partido": "REPUBLICANOS",
+    "resultado": "Suplente"
+   },
+   {
+    "ano": 2018,
+    "cargo": "Deputado Federal",
+    "local": "SÃO PAULO",
+    "partido": "PRB",
+    "resultado": "Suplente"
+   }
+  ],
+  "sites": [
+   "HTTPS://WWW.INSTAGRAM.COM/DEPUTADA_ELYSANTOS/",
+   "HTTPS://WWW.FACEBOOK.COM/OFICIALELYSANTOS/?LOCALE=PT_BR"
+  ],
+  "posicoesExistentes": {
+   "G04": {
+    "v": 2,
+    "conf": "voto",
+    "nota": "Votou Não em PDL 3/2023 (06/12/2023)."
+   },
+   "G11": {
+    "v": 4,
+    "conf": "voto",
+    "nota": "Votou Sim em PL 1958/2021 (19/11/2024)."
+   },
+   "G07": {
+    "v": 2,
+    "conf": "voto",
+    "nota": "Votou Sim em PL 2159/2021 (17/07/2025)."
+   },
+   "G08": {
+    "v": 4,
+    "conf": "voto",
+    "nota": "Votou Sim em PL 2162/2023 (17/09/2025); Sim em PL 2162/2023 (10/12/2025)."
+   }
+  },
+  "perguntasFaltando": [
+   "G01",
+   "G02",
+   "G03",
+   "G05",
+   "G06",
+   "G09",
+   "G10",
+   "G12",
+   "G13",
+   "G14",
+   "SPDE01",
+   "SPDE02",
+   "SPDE03",
+   "SPDE04",
+   "SPDE05"
+  ]
+ },
+ {
+  "id": 250002548904,
+  "cargoCod": 7,
+  "cargo": "Deputado Estadual",
+  "nomeUrna": "MÁRIO LÚCIO DA CONCEIÇÃO",
+  "nomeCompleto": "MARIO LUCIO DA CONCEICAO",
+  "numero": 23529,
+  "partido": "CIDADANIA",
+  "coligacao": "FEDERAÇÃO PSDB CIDADANIA(45-PSDB/23-CIDADANIA)",
+  "situacao": "Deferido",
+  "ocupacao": "Vereador",
+  "incumbente": false,
+  "arrecadado": 1083976.3,
+  "anteriores": [
+   {
+    "ano": 2024,
+    "cargo": "Vereador",
+    "local": "GUARUJÁ",
+    "partido": "CIDADANIA",
+    "resultado": "Eleito por QP"
+   },
+   {
+    "ano": 2020,
+    "cargo": "Vereador",
+    "local": "GUARUJÁ",
+    "partido": "PSB",
+    "resultado": "Eleito por QP"
+   },
+   {
+    "ano": 2016,
+    "cargo": "Vereador",
+    "local": "GUARUJÁ",
+    "partido": "PR",
+    "resultado": "Suplente"
+   },
+   {
+    "ano": 2012,
+    "cargo": "Vereador",
+    "local": "GUARUJÁ",
+    "partido": "PR",
+    "resultado": "Eleito por QP"
+   }
+  ],
+  "sites": [
+   "HTTPS://WWW.INSTAGRAM.COM/MARIOLUCIOGJA/"
+  ],
+  "posicoesExistentes": {},
+  "perguntasFaltando": [
+   "G01",
+   "G02",
+   "G03",
+   "G04",
+   "G05",
+   "G06",
+   "G07",
+   "G08",
+   "G09",
+   "G10",
+   "G11",
+   "G12",
+   "G13",
+   "G14",
+   "SPDE01",
+   "SPDE02",
+   "SPDE03",
+   "SPDE04",
+   "SPDE05"
+  ]
+ },
+ {
+  "id": 250002548890,
+  "cargoCod": 7,
+  "cargo": "Deputado Estadual",
+  "nomeUrna": "MÁRCIO DA FARMÁCIA",
+  "nomeCompleto": "MARCIO PASCHOAL GIUDICIO",
+  "numero": 23233,
+  "partido": "CIDADANIA",
+  "coligacao": "FEDERAÇÃO PSDB CIDADANIA(45-PSDB/23-CIDADANIA)",
+  "situacao": "Deferido",
+  "ocupacao": "Farmacêutico",
+  "incumbente": false,
+  "arrecadado": 1077518.84,
+  "anteriores": [
+   {
+    "ano": 2024,
+    "cargo": "Prefeito",
+    "local": "DIADEMA",
+    "partido": "PODE",
+    "resultado": "Não eleito"
+   },
+   {
+    "ano": 2022,
+    "cargo": "Deputado Estadual",
+    "local": "SÃO PAULO",
+    "partido": "PODE",
+    "resultado": "Suplente"
+   },
+   {
+    "ano": 2018,
+    "cargo": "Deputado Estadual",
+    "local": "SÃO PAULO",
+    "partido": "PODE",
+    "resultado": "Eleito por QP"
+   },
+   {
+    "ano": 2016,
+    "cargo": "Vice-prefeito",
+    "local": "DIADEMA",
+    "partido": "PV",
+    "resultado": "Eleito"
+   }
+  ],
+  "sites": [
+   "HTTPS://WWW.INSTAGRAM.COM/MARCIODAFARMACIA_OFICIAL/"
+  ],
+  "posicoesExistentes": {},
+  "perguntasFaltando": [
+   "G01",
+   "G02",
+   "G03",
+   "G04",
+   "G05",
+   "G06",
+   "G07",
+   "G08",
+   "G09",
+   "G10",
+   "G11",
+   "G12",
+   "G13",
+   "G14",
+   "SPDE01",
+   "SPDE02",
+   "SPDE03",
+   "SPDE04",
+   "SPDE05"
+  ]
+ },
+ {
+  "id": 250002534256,
+  "cargoCod": 7,
+  "cargo": "Deputado Estadual",
+  "nomeUrna": "SANDRA SANTANA",
+  "nomeCompleto": "SANDRA CRISTINA LEITE SANTANA",
+  "numero": 15456,
+  "partido": "MDB",
+  "coligacao": "MDB",
+  "situacao": "Deferido",
+  "ocupacao": "Outros",
+  "incumbente": false,
+  "arrecadado": 1071046.1,
+  "anteriores": [
+   {
+    "ano": 2024,
+    "cargo": "Vereador",
+    "local": "SÃO PAULO",
+    "partido": "MDB",
+    "resultado": "Eleito por QP"
+   },
+   {
+    "ano": 2020,
+    "cargo": "Vereador",
+    "local": "SÃO PAULO",
+    "partido": "PSDB",
+    "resultado": "Eleito por média"
+   },
+   {
+    "ano": 2018,
+    "cargo": "Deputado Estadual",
+    "local": "SÃO PAULO",
+    "partido": "PSDB",
+    "resultado": "Suplente"
+   }
+  ],
+  "sites": [
+   "HTTPS://WWW.YOUTUBE.COM/@SPSANDRASANTANA",
+   "HTTPS://WWW.INSTAGRAM.COM/SPSANDRASANTANA/",
+   "HTTPS://WWW.FACEBOOK.COM/SPSANDRASANTANA/",
+   "HTTPS://WWW.TIKTOK.COM/@SPSANDRASANTANA"
+  ],
+  "posicoesExistentes": {},
+  "perguntasFaltando": [
+   "G01",
+   "G02",
+   "G03",
+   "G04",
+   "G05",
+   "G06",
+   "G07",
+   "G08",
+   "G09",
+   "G10",
+   "G11",
+   "G12",
+   "G13",
+   "G14",
+   "SPDE01",
+   "SPDE02",
+   "SPDE03",
+   "SPDE04",
+   "SPDE05"
+  ]
+ },
+ {
+  "id": 250002541876,
+  "cargoCod": 7,
+  "cargo": "Deputado Estadual",
+  "nomeUrna": "MARIA CONSTANTINO",
+  "nomeCompleto": "MARIA CONSTANTINO EMIDIO",
+  "numero": 10018,
+  "partido": "REPUBLICANOS",
+  "coligacao": "REPUBLICANOS",
+  "situacao": "Deferido",
+  "ocupacao": "Engenheiro",
+  "incumbente": false,
+  "arrecadado": 1060500,
+  "anteriores": [
+   {
+    "ano": 2022,
+    "cargo": "Deputado Estadual",
+    "local": "SÃO PAULO",
+    "partido": "PSD",
+    "resultado": "Suplente"
+   }
+  ],
+  "sites": [
+   "https://TIKTOK: HTTPS://WWW.TIKTOK.COM/@MARIACONSTANTINO.SP; X (TWITTER): HTTPS://X.COM/",
+   "HTTPS://WWW.FACEBOOK.COM/PAGINA.MARIACONSTANTINO.SP/",
+   "HTTPS://WWW.INSTAGRAM.COM/MARIACONSTANTINO.SP/"
+  ],
+  "posicoesExistentes": {},
+  "perguntasFaltando": [
+   "G01",
+   "G02",
+   "G03",
+   "G04",
+   "G05",
+   "G06",
+   "G07",
+   "G08",
+   "G09",
+   "G10",
+   "G11",
+   "G12",
+   "G13",
+   "G14",
+   "SPDE01",
+   "SPDE02",
+   "SPDE03",
+   "SPDE04",
+   "SPDE05"
+  ]
+ },
+ {
+  "id": 250002540577,
+  "cargoCod": 7,
+  "cargo": "Deputado Estadual",
+  "nomeUrna": "FLÁVIA LANCHA",
+  "nomeCompleto": "FLAVIA OLIVITO LANCHA ALVES DE OLIVEIRA",
+  "numero": 55255,
+  "partido": "PSD",
+  "coligacao": "PSD",
+  "situacao": "Deferido",
+  "ocupacao": "Empresário",
+  "incumbente": false,
+  "arrecadado": 1049907.41,
+  "anteriores": [
+   {
+    "ano": 2022,
+    "cargo": "Deputado Federal",
+    "local": "SÃO PAULO",
+    "partido": "PSD",
+    "resultado": "Suplente"
+   },
+   {
+    "ano": 2020,
+    "cargo": "Prefeito",
+    "local": "FRANCA",
+    "partido": "PSD",
+    "resultado": "Não eleito"
+   },
+   {
+    "ano": 2016,
+    "cargo": "Prefeito",
+    "local": "FRANCA",
+    "partido": "PMDB",
+    "resultado": "Não eleito"
+   }
+  ],
+  "sites": [
+   "HTTPS://WWW.LINKEDIN.COM/IN/FL%C3%A1VIA-LANCHA-36278730/",
+   "HTTPS://WWW.INSTAGRAM.COM/FLAVIALANCHA/",
+   "HTTPS://WWW.YOUTUBE.COM/@FL%C3%A1VIALANCHA-B8S",
+   "HTTPS://FLAVIALANCHA.COM.BR/",
+   "https://www.facebook.com/flavialancha/"
+  ],
+  "posicoesExistentes": {},
+  "perguntasFaltando": [
+   "G01",
+   "G02",
+   "G03",
+   "G04",
+   "G05",
+   "G06",
+   "G07",
+   "G08",
+   "G09",
+   "G10",
+   "G11",
+   "G12",
+   "G13",
+   "G14",
+   "SPDE01",
+   "SPDE02",
+   "SPDE03",
+   "SPDE04",
+   "SPDE05"
+  ]
+ },
+ {
+  "id": 250002536396,
+  "cargoCod": 7,
+  "cargo": "Deputado Estadual",
+  "nomeUrna": "SONAIRA FERNANDES",
+  "nomeCompleto": "SONAIRA FERNANDES DE SANTANA SOUZA",
+  "numero": 22220,
+  "partido": "PL",
+  "coligacao": "PL",
+  "situacao": "Deferido",
+  "ocupacao": "Vereador",
+  "incumbente": false,
+  "arrecadado": 1048210.08,
+  "anteriores": [
+   {
+    "ano": 2024,
+    "cargo": "Vereador",
+    "local": "SÃO PAULO",
+    "partido": "PL",
+    "resultado": "Eleito por QP"
+   },
+   {
+    "ano": 2020,
+    "cargo": "Vereador",
+    "local": "SÃO PAULO",
+    "partido": "REPUBLICANOS",
+    "resultado": "Eleito por média"
+   }
+  ],
+  "sites": [
+   "HTTPS://WWW.FACEBOOK.COM/SONAIRA.SP/",
+   "HTTPS://WWW.SONAIRAFERNANDES.COM.BR/",
+   "HTTPS://X.COM/SONAIRA_SP",
+   "HTTPS://WWW.INSTAGRAM.COM/SONAIRA_SP/",
+   "HTTPS://WWW.TIKTOK.COM/@SONAIRA_SP"
+  ],
+  "posicoesExistentes": {},
+  "perguntasFaltando": [
+   "G01",
+   "G02",
+   "G03",
+   "G04",
+   "G05",
+   "G06",
+   "G07",
+   "G08",
+   "G09",
+   "G10",
+   "G11",
+   "G12",
+   "G13",
+   "G14",
+   "SPDE01",
+   "SPDE02",
+   "SPDE03",
+   "SPDE04",
+   "SPDE05"
+  ]
+ },
+ {
+  "id": 250002539312,
+  "cargoCod": 7,
+  "cargo": "Deputado Estadual",
+  "nomeUrna": "ABIDAN HENRIQUE",
+  "nomeCompleto": "ABIDAN HENRIQUE DA SILVA",
+  "numero": 40000,
+  "partido": "PSB",
+  "coligacao": "PSB",
+  "situacao": "Deferido",
+  "ocupacao": "Engenheiro",
+  "incumbente": false,
+  "arrecadado": 1022645.61,
+  "anteriores": [
+   {
+    "ano": 2024,
+    "cargo": "Vereador",
+    "local": "EMBU DAS ARTES",
+    "partido": "PSB",
+    "resultado": "Eleito por QP"
+   },
+   {
+    "ano": 2022,
+    "cargo": "Deputado Estadual",
+    "local": "SÃO PAULO",
+    "partido": "PSB",
+    "resultado": "Suplente"
+   },
+   {
+    "ano": 2020,
+    "cargo": "Vereador",
+    "local": "EMBU DAS ARTES",
+    "partido": "PDT",
+    "resultado": "Eleito por QP"
+   }
+  ],
+  "sites": [
+   "HTTPS://ABIDAN.COM.BR/",
+   "HTTPS://WWW.YOUTUBE.COM/@ABIDANHENRIQUE/",
+   "HTTPS://WWW.INSTAGRAM.COM/ABIDANHENRIQUE/",
+   "HTTPS://WWW.TIKTOK.COM/ABIDANHENRIQUE/",
+   "HTTPS://WWW.FACEBOOK.COM/ABIDAN.HENRIQUE.SILVA"
+  ],
+  "posicoesExistentes": {},
+  "perguntasFaltando": [
+   "G01",
+   "G02",
+   "G03",
+   "G04",
+   "G05",
+   "G06",
+   "G07",
+   "G08",
+   "G09",
+   "G10",
+   "G11",
+   "G12",
+   "G13",
+   "G14",
+   "SPDE01",
+   "SPDE02",
+   "SPDE03",
+   "SPDE04",
+   "SPDE05"
+  ]
+ },
+ {
+  "id": 250002540571,
+  "cargoCod": 7,
+  "cargo": "Deputado Estadual",
+  "nomeUrna": "GELEIA PROTETOR",
+  "nomeCompleto": "VLADEMIR JOAO CARLOS GALDINO",
+  "numero": 55222,
+  "partido": "PSD",
+  "coligacao": "PSD",
+  "situacao": "Deferido",
+  "ocupacao": "Pedagogo",
+  "incumbente": false,
+  "arrecadado": 1020000,
+  "anteriores": [
+   {
+    "ano": 2024,
+    "cargo": "Vereador",
+    "local": "GUARULHOS",
+    "partido": "PSD",
+    "resultado": "Eleito por média"
+   },
+   {
+    "ano": 2020,
+    "cargo": "Vereador",
+    "local": "GUARULHOS",
+    "partido": "PSDB",
+    "resultado": "Eleito por QP"
+   },
+   {
+    "ano": 2016,
+    "cargo": "Vereador",
+    "local": "GUARULHOS",
+    "partido": "PSC",
+    "resultado": "Suplente"
+   }
+  ],
+  "sites": [
+   "HTTPS://YOUTUBE.COM/@GELEIAPROTETOR?SI=22A0_LUIM7TKCAG0",
+   "HTTPS://WWW.INSTAGRAM.COM/GELEIAPROTETOR/",
+   "HTTPS://WWW.TIKTOK.COM/@GELEIAPROTETOR",
+   "HTTPS://WWW.LINKEDIN.COM/IN/VLADEMIR-GALDINO",
+   "https://www.facebook.com/geleiaprotetor/"
+  ],
+  "posicoesExistentes": {},
+  "perguntasFaltando": [
+   "G01",
+   "G02",
+   "G03",
+   "G04",
+   "G05",
+   "G06",
+   "G07",
+   "G08",
+   "G09",
+   "G10",
+   "G11",
+   "G12",
+   "G13",
+   "G14",
+   "SPDE01",
+   "SPDE02",
+   "SPDE03",
+   "SPDE04",
+   "SPDE05"
+  ]
+ },
+ {
+  "id": 250002536409,
+  "cargoCod": 7,
+  "cargo": "Deputado Estadual",
+  "nomeUrna": "TENENTE BAHIA",
+  "nomeCompleto": "FLAVIO GONCALVES DA COSTA",
+  "numero": 22900,
+  "partido": "PL",
+  "coligacao": "PL",
+  "situacao": "Deferido",
+  "ocupacao": "Policial Militar",
+  "incumbente": false,
+  "arrecadado": 1017246.66,
+  "anteriores": [
+   {
+    "ano": 2024,
+    "cargo": "Vereador",
+    "local": "SÃO PAULO",
+    "partido": "PL",
+    "resultado": "Suplente"
+   },
+   {
+    "ano": 2022,
+    "cargo": "Deputado Estadual",
+    "local": "SÃO PAULO",
+    "partido": "PL",
+    "resultado": "Suplente"
+   }
+  ],
+  "sites": [
+   "http://www.tenentebahia22900.com.br/",
+   "HTTPS://WWW.FACEBOOK.COM/SHARE/1BBDGDH6YF/?MIBEXTID=WWXIFR",
+   "HTTPS://VM.TIKTOK.COM/ZMNJAKMVX/?K=1",
+   "HTTPS://WA.ME/5511979755959",
+   "https://www.instagram.com/tenentebahia/",
+   "HTTPS://TENENTEBAHIA.COM.BR/",
+   "HTTPS://WWW.INSTAGRAM.COM/TENENTE_BAHIA87/"
+  ],
+  "posicoesExistentes": {},
+  "perguntasFaltando": [
+   "G01",
+   "G02",
+   "G03",
+   "G04",
+   "G05",
+   "G06",
+   "G07",
+   "G08",
+   "G09",
+   "G10",
+   "G11",
+   "G12",
+   "G13",
+   "G14",
+   "SPDE01",
+   "SPDE02",
+   "SPDE03",
+   "SPDE04",
+   "SPDE05"
+  ]
+ },
+ {
+  "id": 250002536426,
+  "cargoCod": 7,
+  "cargo": "Deputado Estadual",
+  "nomeUrna": "DR. ISAEL",
+  "nomeCompleto": "ISAEL DOMINGUES",
+  "numero": 22192,
+  "partido": "PL",
+  "coligacao": "PL",
+  "situacao": "Deferido",
+  "ocupacao": "Médico",
+  "incumbente": false,
+  "arrecadado": 1012909.04,
+  "anteriores": [
+   {
+    "ano": 2020,
+    "cargo": "Prefeito",
+    "local": "PINDAMONHANGABA",
+    "partido": "PL",
+    "resultado": "Eleito"
+   },
+   {
+    "ano": 2016,
+    "cargo": "Prefeito",
+    "local": "PINDAMONHANGABA",
+    "partido": "PR",
+    "resultado": "Eleito"
+   },
+   {
+    "ano": 2014,
+    "cargo": "Deputado Federal",
+    "local": "SÃO PAULO",
+    "partido": "PV",
+    "resultado": "Suplente"
+   },
+   {
+    "ano": 2012,
+    "cargo": "Vice-prefeito",
+    "local": "PINDAMONHANGABA",
+    "partido": "PV",
+    "resultado": "Eleito"
+   }
+  ],
+  "sites": [
+   "HTTPS://WWW.FACEBOOK.COM/PROFILE.PHP?ID=61587374315597",
+   "HTTPS://WWW.INSTAGRAM.COM/PLPINDA.OFICIAL",
+   "HTTPS://WWW.INSTAGRAM.COM/DRISAELDOMINGUES",
+   "HTTPS://WWW.FACEBOOK.COM/DOUTORISAEL"
+  ],
+  "posicoesExistentes": {},
+  "perguntasFaltando": [
+   "G01",
+   "G02",
+   "G03",
+   "G04",
+   "G05",
+   "G06",
+   "G07",
+   "G08",
+   "G09",
+   "G10",
+   "G11",
+   "G12",
+   "G13",
+   "G14",
+   "SPDE01",
+   "SPDE02",
+   "SPDE03",
+   "SPDE04",
+   "SPDE05"
+  ]
+ },
+ {
+  "id": 250002539250,
+  "cargoCod": 7,
+  "cargo": "Deputado Estadual",
+  "nomeUrna": "RAMALHO DA CONSTRUÇÃO",
+  "nomeCompleto": "ANTONIO DE SOUSA RAMALHO",
+  "numero": 40122,
+  "partido": "PSB",
+  "coligacao": "PSB",
+  "situacao": "Deferido",
+  "ocupacao": "Encanador, Soldador, Chapeador e Caldeireiro",
+  "incumbente": false,
+  "arrecadado": 1008216,
+  "anteriores": [
+   {
+    "ano": 2024,
+    "cargo": "Vereador",
+    "local": "SÃO PAULO",
+    "partido": "PSB",
+    "resultado": "Suplente"
+   },
+   {
+    "ano": 2022,
+    "cargo": "Deputado Estadual",
+    "local": "SÃO PAULO",
+    "partido": "PSD",
+    "resultado": "Suplente"
+   },
+   {
+    "ano": 2018,
+    "cargo": "Deputado Estadual",
+    "local": "SÃO PAULO",
+    "partido": "PSDB",
+    "resultado": "Suplente"
+   },
+   {
+    "ano": 2014,
+    "cargo": "Deputado Estadual",
+    "local": "SÃO PAULO",
+    "partido": "PSDB",
+    "resultado": "Eleito por média"
+   }
+  ],
+  "sites": [
+   "HTTPS://WWW.TIKTOK.COM/TAMOJUNTORAMALHO",
+   "HTTPS://WWW.YOUTUBE.COM/@RAMALHOCAST",
+   "HTTPS://WWW.INSTAGRAM.COM/ORAMALHODACONSTRUCAO/",
+   "HTTPS://RAMALHODACONSTRUCAO.COM.BR/",
+   "HTTPS://WWW.FACEBOOK.COM/TAMOJUNTORAMALHO"
+  ],
+  "posicoesExistentes": {},
+  "perguntasFaltando": [
+   "G01",
+   "G02",
+   "G03",
+   "G04",
+   "G05",
+   "G06",
+   "G07",
+   "G08",
+   "G09",
+   "G10",
+   "G11",
+   "G12",
+   "G13",
+   "G14",
+   "SPDE01",
+   "SPDE02",
+   "SPDE03",
+   "SPDE04",
+   "SPDE05"
+  ]
+ },
+ {
+  "id": 250002540910,
+  "cargoCod": 7,
+  "cargo": "Deputado Estadual",
+  "nomeUrna": "SILVIO OLIVEIRA",
+  "nomeCompleto": "SILVIO ROBERTO DE OLIVEIRA",
+  "numero": 55100,
+  "partido": "PSD",
+  "coligacao": "PSD",
+  "situacao": "Deferido",
+  "ocupacao": "Policial Militar",
+  "incumbente": false,
+  "arrecadado": 1000000,
+  "anteriores": [
+   {
+    "ano": 2024,
+    "cargo": "Vereador",
+    "local": "SÃO PAULO",
+    "partido": "PSD",
+    "resultado": "Suplente"
+   }
+  ],
+  "sites": [
+   "HTTPS://WWW.INSTAGRAM.COM/SILVIOOLIVEIRASP/",
+   "HTTPS://LINKEDIN.COM/IN/RENATO-ARCHANJO-4A370147"
+  ],
+  "posicoesExistentes": {},
+  "perguntasFaltando": [
+   "G01",
+   "G02",
+   "G03",
+   "G04",
+   "G05",
+   "G06",
+   "G07",
+   "G08",
+   "G09",
+   "G10",
+   "G11",
+   "G12",
+   "G13",
+   "G14",
+   "SPDE01",
+   "SPDE02",
+   "SPDE03",
+   "SPDE04",
+   "SPDE05"
+  ]
+ },
+ {
+  "id": 250002538908,
+  "cargoCod": 7,
+  "cargo": "Deputado Estadual",
+  "nomeUrna": "KEIT LIMA",
+  "nomeCompleto": "KEITCHELE LIMA DA SILVA",
+  "numero": 50300,
+  "partido": "PSOL",
+  "coligacao": "FEDERAÇÃO PSOL REDE(50-PSOL/18-REDE)",
+  "situacao": "Deferido",
+  "ocupacao": "Vereador",
+  "incumbente": false,
+  "arrecadado": 988462.73,
+  "anteriores": [
+   {
+    "ano": 2024,
+    "cargo": "Vereador",
+    "local": "SÃO PAULO",
+    "partido": "PSOL",
+    "resultado": "Eleito por média"
+   },
+   {
+    "ano": 2022,
+    "cargo": "Deputado Estadual",
+    "local": "SÃO PAULO",
+    "partido": "PSOL",
+    "resultado": "Suplente"
+   },
+   {
+    "ano": 2020,
+    "cargo": "Vereador",
+    "local": "SÃO PAULO",
+    "partido": "PSOL",
+    "resultado": "Suplente"
+   }
+  ],
+  "sites": [
+   "https://www.tiktok.com/@keit.lima",
+   "https://keitlima.com.br/",
+   "https://www.facebook.com/keit.limasp/",
+   "https://www.threads.com/@keit.lima",
+   "https://br.linkedin.com/in/keit-lima-4887b239",
+   "https://www.facebook.com/lima.keit/",
+   "https://x.com/keitlimasp",
+   "https://www.instagram.com/KEIT.LIMA/"
+  ],
+  "posicoesExistentes": {},
+  "perguntasFaltando": [
+   "G01",
+   "G02",
+   "G03",
+   "G04",
+   "G05",
+   "G06",
+   "G07",
+   "G08",
+   "G09",
+   "G10",
+   "G11",
+   "G12",
+   "G13",
+   "G14",
+   "SPDE01",
+   "SPDE02",
+   "SPDE03",
+   "SPDE04",
+   "SPDE05"
+  ]
+ },
+ {
+  "id": 250002545143,
+  "cargoCod": 7,
+  "cargo": "Deputado Estadual",
+  "nomeUrna": "AMANDA GANEM",
+  "nomeCompleto": "AMANDA BEATRIZ FOLTRAN GANEM",
+  "numero": 20010,
+  "partido": "PODE",
+  "coligacao": "PODE",
+  "situacao": "Deferido",
+  "ocupacao": "Outros",
+  "incumbente": false,
+  "arrecadado": 985000,
+  "anteriores": [
+   {
+    "ano": 2022,
+    "cargo": "Deputado Federal",
+    "local": "MINAS GERAIS",
+    "partido": "AVANTE",
+    "resultado": "Suplente"
+   }
+  ],
+  "sites": [
+   "HTTPS://WWW.FACEBOOK.COM/AMANDAGANEM.ONCOLOGIA",
+   "HTTPS://WWW.FACEBOOK.COM/AMANDAGANEMSP",
+   "HTTPS://WWW.FACEBOOK.COM/AMANDAGANEM.FIBROMIALGIA",
+   "HTTPS://WWW.INSTAGRAM.COM/AMANDAGANEM.FIBROMIALGIA/",
+   "HTTPS://WWW.INSTAGRAM.COM/AMANDAGANEMSP/",
+   "HTTPS://WWW.INSTAGRAM.COM/AMANDAGANEM.SEGURANCA/",
+   "HTTPS://WWW.FACEBOOK.COM/AMANDAGANEM.SEGURANCA",
+   "http://materialganem.com.br/",
+   "HTTPS://WWW.FACEBOOK.COM/AMANDAGANEM.MG",
+   "HTTPS://WWW.INSTAGRAM.COM/AMANDAGANEM.MG/",
+   "HTTPS://WWW.INSTAGRAM.COM/AMANDAGANEM.ONCOLOGIA/"
+  ],
+  "posicoesExistentes": {},
+  "perguntasFaltando": [
+   "G01",
+   "G02",
+   "G03",
+   "G04",
+   "G05",
+   "G06",
+   "G07",
+   "G08",
+   "G09",
+   "G10",
+   "G11",
+   "G12",
+   "G13",
+   "G14",
+   "SPDE01",
+   "SPDE02",
+   "SPDE03",
+   "SPDE04",
+   "SPDE05"
+  ]
+ },
+ {
+  "id": 250002540575,
+  "cargoCod": 7,
+  "cargo": "Deputado Estadual",
+  "nomeUrna": "EVERTON FERREIRA",
+  "nomeCompleto": "EVERTON OLIVEIRA FERREIRA",
+  "numero": 55015,
+  "partido": "PSD",
+  "coligacao": "PSD",
+  "situacao": "Deferido",
+  "ocupacao": "Administrador",
+  "incumbente": false,
+  "arrecadado": 976288.51,
+  "anteriores": [
+   {
+    "ano": 2024,
+    "cargo": "Vereador",
+    "local": "LIMEIRA",
+    "partido": "PSD",
+    "resultado": "Eleito por média"
+   },
+   {
+    "ano": 2020,
+    "cargo": "Vereador",
+    "local": "LIMEIRA",
+    "partido": "PSD",
+    "resultado": "Eleito por média"
+   },
+   {
+    "ano": 2016,
+    "cargo": "Vereador",
+    "local": "LIMEIRA",
+    "partido": "DEM",
+    "resultado": "Não eleito"
+   }
+  ],
+  "sites": [
+   "HTTPS://WWW.YOUTUBE.COM/@EVERTONFERREIRA-LIMEIRA",
+   "HTTPS://WWW.INSTAGRAM.COM/EVERTONFERREEIRA/",
+   "HTTPS://X.COM/DEBORATRUCK7?S=11&T=UOM_ERD6FB6PFZV_GDWURA",
+   "HTTPS://EVERTONFERREIRA.COM.BR/"
+  ],
+  "posicoesExistentes": {},
+  "perguntasFaltando": [
+   "G01",
+   "G02",
+   "G03",
+   "G04",
+   "G05",
+   "G06",
+   "G07",
+   "G08",
+   "G09",
+   "G10",
+   "G11",
+   "G12",
+   "G13",
+   "G14",
+   "SPDE01",
+   "SPDE02",
+   "SPDE03",
+   "SPDE04",
+   "SPDE05"
+  ]
+ },
+ {
+  "id": 250002536835,
+  "cargoCod": 7,
+  "cargo": "Deputado Estadual",
+  "nomeUrna": "ESTHER MORAES",
+  "nomeCompleto": "ESTHER GALINA DA SILVA BRANCO DE MORAES",
+  "numero": 43043,
+  "partido": "PV",
+  "coligacao": "FEDERAÇÃO BRASIL DA ESPERANÇA - FE BRASIL(13-PT/65-PC do B/43-PV)",
+  "situacao": "Deferido",
+  "ocupacao": "Vereador",
+  "incumbente": false,
+  "arrecadado": 974644,
+  "anteriores": [
+   {
+    "ano": 2024,
+    "cargo": "Vereador",
+    "local": "SANTA BÁRBARA D'OESTE",
+    "partido": "PV",
+    "resultado": "Eleito por QP"
+   },
+   {
+    "ano": 2020,
+    "cargo": "Vereador",
+    "local": "SANTA BÁRBARA D'OESTE",
+    "partido": "PL",
+    "resultado": "Eleito por QP"
+   }
+  ],
+  "sites": [
+   "https://www.kwai.com/@esthermoraessp",
+   "HTTPS://X.COM/ESTHERMORAESSP",
+   "HTTPS://WWW.FACEBOOK.COM/MORAES.ESTHER/?LOCALE=PT_BR",
+   "https://@ESTHERMORAES",
+   "HTTPS://ESTHERMORAES.COM/",
+   "HTTPS://WWW.TIKTOK.COM/@ESTHERMORAESSP",
+   "HTTPS://WWW.THREADS.COM/@ESTHERMORAES",
+   "https://www.instagram.com/esthermoraes"
+  ],
+  "posicoesExistentes": {},
+  "perguntasFaltando": [
+   "G01",
+   "G02",
+   "G03",
+   "G04",
+   "G05",
+   "G06",
+   "G07",
+   "G08",
+   "G09",
+   "G10",
+   "G11",
+   "G12",
+   "G13",
+   "G14",
+   "SPDE01",
+   "SPDE02",
+   "SPDE03",
+   "SPDE04",
+   "SPDE05"
+  ]
+ },
+ {
+  "id": 250002536361,
+  "cargoCod": 7,
+  "cargo": "Deputado Estadual",
+  "nomeUrna": "RODRIGO ASHIUCHI",
+  "nomeCompleto": "RODRIGO KENJI DE SOUZA ASHIUCHI",
+  "numero": 22000,
+  "partido": "PL",
+  "coligacao": "PL",
+  "situacao": "Deferido",
+  "ocupacao": "Engenheiro",
+  "incumbente": false,
+  "arrecadado": 971409.05,
+  "anteriores": [
+   {
+    "ano": 2020,
+    "cargo": "Prefeito",
+    "local": "SUZANO",
+    "partido": "PL",
+    "resultado": "Eleito"
+   },
+   {
+    "ano": 2016,
+    "cargo": "Prefeito",
+    "local": "SUZANO",
+    "partido": "PR",
+    "resultado": "Eleito"
+   },
+   {
+    "ano": 2014,
+    "cargo": "Deputado Estadual",
+    "local": "SÃO PAULO",
+    "partido": "PSL",
+    "resultado": "Suplente"
+   },
+   {
+    "ano": 2012,
+    "cargo": "Vice-prefeito",
+    "local": "SUZANO",
+    "partido": "PSL",
+    "resultado": "Não eleito"
+   }
+  ],
+  "sites": [
+   "https://www.linkedin.com/in/rodrigoashiuchi",
+   "https://www.threads.com/@rodrigoashiuchi",
+   "https://x.com/rodrigoashiuchi",
+   "https://WWW.RODRIGOASHIUCHI.COM.BR",
+   "HTTPS://WWW.FACEBOOK.COM/22RODRIGOASHIUCHI",
+   "https://www.tiktok.com/@rodrigoashiuchi",
+   "HTTPS://WWW.INSTAGRAM.COM/RODRIGOASHIUCHI"
+  ],
+  "posicoesExistentes": {},
+  "perguntasFaltando": [
+   "G01",
+   "G02",
+   "G03",
+   "G04",
+   "G05",
+   "G06",
+   "G07",
+   "G08",
+   "G09",
+   "G10",
+   "G11",
+   "G12",
+   "G13",
+   "G14",
+   "SPDE01",
+   "SPDE02",
+   "SPDE03",
+   "SPDE04",
+   "SPDE05"
+  ]
+ },
+ {
+  "id": 250002534255,
+  "cargoCod": 7,
+  "cargo": "Deputado Estadual",
+  "nomeUrna": "GEORGE HATO",
+  "nomeCompleto": "GEORGE VATUTIN HATO",
+  "numero": 15622,
+  "partido": "MDB",
+  "coligacao": "MDB",
+  "situacao": "Deferido",
+  "ocupacao": "Vereador",
+  "incumbente": false,
+  "arrecadado": 966311.1,
+  "anteriores": [
+   {
+    "ano": 2024,
+    "cargo": "Vereador",
+    "local": "SÃO PAULO",
+    "partido": "MDB",
+    "resultado": "Eleito por QP"
+   },
+   {
+    "ano": 2022,
+    "cargo": "Deputado Estadual",
+    "local": "SÃO PAULO",
+    "partido": "MDB",
+    "resultado": "Suplente"
+   },
+   {
+    "ano": 2020,
+    "cargo": "Vereador",
+    "local": "SÃO PAULO",
+    "partido": "MDB",
+    "resultado": "Eleito por QP"
+   },
+   {
+    "ano": 2018,
+    "cargo": "2º Suplente",
+    "local": "SÃO PAULO",
+    "partido": "MDB",
+    "resultado": "Não eleito"
+   }
+  ],
+  "sites": [
+   "HTTPS://WWW.FACEBOOK.COM/GEORGEHATO15",
+   "HTTPS://WWW.TIKTOK.COM/@GEORGEHATO15",
+   "HTTPS://WWW.YOUTUBE.COM/@GEORGEHATO",
+   "HTTP://WWW.GEORGEHATO.COM.BR/",
+   "HTTPS://WWW.KWAI.COM/@GEORGEHATO",
+   "HTTPS://WWW.INSTAGRAM.COM/GEORGEHATO15/"
+  ],
+  "posicoesExistentes": {},
+  "perguntasFaltando": [
+   "G01",
+   "G02",
+   "G03",
+   "G04",
+   "G05",
+   "G06",
+   "G07",
+   "G08",
+   "G09",
+   "G10",
+   "G11",
+   "G12",
+   "G13",
+   "G14",
+   "SPDE01",
+   "SPDE02",
+   "SPDE03",
+   "SPDE04",
+   "SPDE05"
+  ]
+ },
+ {
+  "id": 250002534204,
+  "cargoCod": 7,
+  "cargo": "Deputado Estadual",
+  "nomeUrna": "PRADO",
+  "nomeCompleto": "ANDERSON PRADO DE LIMA",
+  "numero": 15500,
+  "partido": "MDB",
+  "coligacao": "MDB",
+  "situacao": "Deferido",
+  "ocupacao": "Empresário",
+  "incumbente": false,
+  "arrecadado": 965267.65,
+  "anteriores": [
+   {
+    "ano": 2020,
+    "cargo": "Prefeito",
+    "local": "LENÇÓIS PAULISTA",
+    "partido": "DEM",
+    "resultado": "Eleito"
+   },
+   {
+    "ano": 2016,
+    "cargo": "Prefeito",
+    "local": "LENÇÓIS PAULISTA",
+    "partido": "REDE",
+    "resultado": "Eleito"
+   },
+   {
+    "ano": 2012,
+    "cargo": "Vereador",
+    "local": "LENÇÓIS PAULISTA",
+    "partido": "PV",
+    "resultado": "Eleito por QP"
+   }
+  ],
+  "sites": [
+   "HTTP://WWW.INSTAGRAM.COM/PRADO.SP.BR?IGSH=MTJPOTF5ZXL5A3BXCA==",
+   "HTTPS://WWW.INSTAGRAM.COM/REEL/DADOXLBDYJ7/?IGSH=DXZIMW8YB3YYY29",
+   "HTTP://WWW.FACEBOOK.COM/SHARE/18UQUENGPN/",
+   "HTTP://WWW.FACEBOOK.COM/SHARE/1GMJ6X5VJV/"
+  ],
+  "posicoesExistentes": {},
+  "perguntasFaltando": [
+   "G01",
+   "G02",
+   "G03",
+   "G04",
+   "G05",
+   "G06",
+   "G07",
+   "G08",
+   "G09",
+   "G10",
+   "G11",
+   "G12",
+   "G13",
+   "G14",
+   "SPDE01",
+   "SPDE02",
+   "SPDE03",
+   "SPDE04",
+   "SPDE05"
+  ]
+ },
+ {
+  "id": 250002533754,
+  "cargoCod": 7,
+  "cargo": "Deputado Estadual",
+  "nomeUrna": "FUINHA ROBSON CALABIANQUI",
+  "nomeCompleto": "ROBSON LIEBETANZ DZELVE CALABIANQUI JUNIOR",
+  "numero": 44011,
+  "partido": "UNIÃO",
+  "coligacao": "FEDERAÇÃO UNIÃO PROGRESSISTA(44-UNIÃO/11-PP)",
+  "situacao": "Deferido",
+  "ocupacao": "Empresário",
+  "incumbente": false,
+  "arrecadado": 954229.19,
+  "anteriores": [
+   {
+    "ano": 2022,
+    "cargo": "Deputado Federal",
+    "local": "SÃO PAULO",
+    "partido": "PL",
+    "resultado": "Não eleito"
+   },
+   {
+    "ano": 2018,
+    "cargo": "Deputado Federal",
+    "local": "SÃO PAULO",
+    "partido": "PATRIOTA",
+    "resultado": "Não eleito"
+   }
+  ],
+  "sites": [
+   "https://HTTPS://WWW.INSTAGRAM.COM/FUINHAR/ +D42:H42",
+   "HTTPS://WWW.YOUTUBE.COM/@FUINHAR",
+   "HTTPS://WEB.FACEBOOK.COM/FUINHAR",
+   "HTTPS://WWW.TIKTOK.COM/@FUINHAR"
+  ],
+  "posicoesExistentes": {},
+  "perguntasFaltando": [
+   "G01",
+   "G02",
+   "G03",
+   "G04",
+   "G05",
+   "G06",
+   "G07",
+   "G08",
+   "G09",
+   "G10",
+   "G11",
+   "G12",
+   "G13",
+   "G14",
+   "SPDE01",
+   "SPDE02",
+   "SPDE03",
+   "SPDE04",
+   "SPDE05"
+  ]
+ },
+ {
+  "id": 250002533761,
+  "cargoCod": 7,
+  "cargo": "Deputado Estadual",
+  "nomeUrna": "ALEXANDRE LEITE",
+  "nomeCompleto": "ALEXANDRE LEITE DA SILVA",
+  "numero": 44250,
+  "partido": "UNIÃO",
+  "coligacao": "FEDERAÇÃO UNIÃO PROGRESSISTA(44-UNIÃO/11-PP)",
+  "situacao": "Deferido",
+  "ocupacao": "Deputado",
+  "incumbente": false,
+  "arrecadado": 953962.5,
+  "anteriores": [
+   {
+    "ano": 2022,
+    "cargo": "Deputado Federal",
+    "local": "SÃO PAULO",
+    "partido": "UNIÃO",
+    "resultado": "Eleito por QP"
+   },
+   {
+    "ano": 2018,
+    "cargo": "Deputado Federal",
+    "local": "SÃO PAULO",
+    "partido": "DEM",
+    "resultado": "Eleito por QP"
+   },
+   {
+    "ano": 2014,
+    "cargo": "Deputado Federal",
+    "local": "SÃO PAULO",
+    "partido": "DEM",
+    "resultado": "Eleito por média"
+   },
+   {
+    "ano": 2010,
+    "cargo": "Deputado Federal",
+    "local": "SÃO PAULO",
+    "partido": "DEM",
+    "resultado": "Média"
+   }
+  ],
+  "sites": [
+   "https://INSTAGRAM: @ALEXANDRELEITE.SP",
+   "https://WWW.ALEXANDRELEITE44250.COM.BR",
+   "https://web.facebook.com/familialeite.sp?_rdc=1&_rdr"
+  ],
+  "posicoesExistentes": {
+   "G10": {
+    "v": 2,
+    "conf": "voto",
+    "nota": "Votou Não em PL 2630/2020 (25/04/2023)."
+   },
+   "G04": {
+    "v": 4,
+    "conf": "voto",
+    "nota": "Votou Sim em PDL 3/2023 (06/12/2023)."
+   },
+   "G03": {
+    "v": 4,
+    "conf": "voto",
+    "nota": "Votou Sim em PL 591/2021 (privatização dos Correios) (05/08/2021); Sim em MP 1031/2021 (privatização da Eletrobras) (19/05/2021)."
+   },
+   "G01": {
+    "v": 4,
+    "conf": "voto",
+    "nota": "Votou Sim em PEC 241/2016 (teto de gastos), 2º turno (25/10/2016)."
+   },
+   "G12": {
+    "v": 4,
+    "conf": "voto",
+    "nota": "Votou Sim em PEC 171/1993 (maioridade penal para crimes graves), 2º turno (19/08/2015)."
+   }
+  },
+  "perguntasFaltando": [
+   "G02",
+   "G05",
+   "G06",
+   "G07",
+   "G08",
+   "G09",
+   "G11",
+   "G13",
+   "G14",
+   "SPDE01",
+   "SPDE02",
+   "SPDE03",
+   "SPDE04",
+   "SPDE05"
+  ]
+ },
+ {
+  "id": 250002545207,
+  "cargoCod": 7,
+  "cargo": "Deputado Estadual",
+  "nomeUrna": "FABIO FARIA DE SÁ",
+  "nomeCompleto": "FABIO FARIA DE SA",
+  "numero": 20520,
+  "partido": "PODE",
+  "coligacao": "PODE",
+  "situacao": "Deferido",
+  "ocupacao": "Deputado",
+  "incumbente": false,
+  "arrecadado": 951621,
+  "anteriores": [
+   {
+    "ano": 2022,
+    "cargo": "Deputado Estadual",
+    "local": "SÃO PAULO",
+    "partido": "PODE",
+    "resultado": "Suplente"
+   }
+  ],
+  "sites": [
+   "https://WWW.TIKTOK.COM/@FABIOFARIADESA",
+   "HTTPS://WWW.FACEBOOK.COM/SHARE/1URKXKMRSX/?MIBEXTID=WWXIFR",
+   "HTTPS://FACEBOOK.COM/FABIOFDESA",
+   "HTTPS://WWW.INSTAGRAM.COM/FABIOFARIADESA?IGSH=MXJ5MTRID3LSDMZ2ZW%3D%3D&UTM_SOURC",
+   "HTTPS://WWW.FACEBOOK.COM/SHARE/14CZ7YKVE3P/?MIBEXTID=WWXIFR",
+   "HTTPS://WWW.INSTAGRAM.COM/FARIADESASP?IGSH=MTK5MGZOENK5NNLSAQ%3D%3D&UTM_SOURCE=Q",
+   "HTTPS://FACEBOOK.COM/FABIOFARIADESA"
+  ],
+  "posicoesExistentes": {},
+  "perguntasFaltando": [
+   "G01",
+   "G02",
+   "G03",
+   "G04",
+   "G05",
+   "G06",
+   "G07",
+   "G08",
+   "G09",
+   "G10",
+   "G11",
+   "G12",
+   "G13",
+   "G14",
+   "SPDE01",
+   "SPDE02",
+   "SPDE03",
+   "SPDE04",
+   "SPDE05"
+  ]
+ },
+ {
+  "id": 250002536424,
+  "cargoCod": 7,
+  "cargo": "Deputado Estadual",
+  "nomeUrna": "MARCELO AGUIAR",
+  "nomeCompleto": "MARCELO THEODORO DE AGUIAR",
+  "numero": 22700,
+  "partido": "PL",
+  "coligacao": "PL",
+  "situacao": "Deferido",
+  "ocupacao": "Cantor e Compositor",
+  "incumbente": false,
+  "arrecadado": 951000,
+  "anteriores": [
+   {
+    "ano": 2024,
+    "cargo": "Vereador",
+    "local": "SÃO PAULO",
+    "partido": "PODE",
+    "resultado": "Suplente"
+   },
+   {
+    "ano": 2022,
+    "cargo": "Deputado Estadual",
+    "local": "SÃO PAULO",
+    "partido": "PSC",
+    "resultado": "Suplente"
+   },
+   {
+    "ano": 2020,
+    "cargo": "Vereador",
+    "local": "SÃO PAULO",
+    "partido": "DEM",
+    "resultado": "Suplente"
+   },
+   {
+    "ano": 2018,
+    "cargo": "Deputado Federal",
+    "local": "SÃO PAULO",
+    "partido": "PSB",
+    "resultado": "Suplente"
+   }
+  ],
+  "sites": [
+   "HTTPS://WWW.INSTAGRAM.COM/MARCELOAGUIAROFICIAL?IGSH=ZDL1MTLJDDCZMTQ5&UTM_SOURCE=",
+   "https://MARCELOAGUIAR.COM.BR"
+  ],
+  "posicoesExistentes": {
+   "G01": {
+    "v": 4,
+    "conf": "voto",
+    "nota": "Votou Sim em PEC 241/2016 (teto de gastos), 2º turno (25/10/2016)."
+   },
+   "G12": {
+    "v": 4,
+    "conf": "voto",
+    "nota": "Votou Sim em PEC 171/1993 (maioridade penal para crimes graves), 2º turno (19/08/2015)."
+   }
+  },
+  "perguntasFaltando": [
+   "G02",
+   "G03",
+   "G04",
+   "G05",
+   "G06",
+   "G07",
+   "G08",
+   "G09",
+   "G10",
+   "G11",
+   "G13",
+   "G14",
+   "SPDE01",
+   "SPDE02",
+   "SPDE03",
+   "SPDE04",
+   "SPDE05"
+  ]
+ },
+ {
+  "id": 250002545188,
+  "cargoCod": 7,
+  "cargo": "Deputado Estadual",
+  "nomeUrna": "IVAN SILVA",
+  "nomeCompleto": "IVAN FELICIANO SILVA",
+  "numero": 20650,
+  "partido": "PODE",
+  "coligacao": "PODE",
+  "situacao": "Deferido",
+  "ocupacao": "Vereador",
+  "incumbente": false,
+  "arrecadado": 950000,
+  "anteriores": [
+   {
+    "ano": 2024,
+    "cargo": "Vereador",
+    "local": "SÃO BERNARDO DO CAMPO",
+    "partido": "PRTB",
+    "resultado": "Eleito por QP"
+   },
+   {
+    "ano": 2020,
+    "cargo": "Vereador",
+    "local": "SÃO BERNARDO DO CAMPO",
+    "partido": "PP",
+    "resultado": "Eleito por QP"
+   },
+   {
+    "ano": 2016,
+    "cargo": "Vereador",
+    "local": "SÃO BERNARDO DO CAMPO",
+    "partido": "SD",
+    "resultado": "Eleito por QP"
+   }
+  ],
+  "sites": [
+   "https://www.facebook.com/ivansilvaabc",
+   "https://www.tiktok.com/@ivansilvaabc",
+   "https://www.youtube.com/@ivansilvaabc",
+   "HTTPS://WWW.FACEBOOK.COM/IVANSILVA.VEREADOR",
+   "HTTPS://WWW.INSTAGRAM.COM/IVANSILVAVEREADOR/"
+  ],
+  "posicoesExistentes": {},
+  "perguntasFaltando": [
+   "G01",
+   "G02",
+   "G03",
+   "G04",
+   "G05",
+   "G06",
+   "G07",
+   "G08",
+   "G09",
+   "G10",
+   "G11",
+   "G12",
+   "G13",
+   "G14",
+   "SPDE01",
+   "SPDE02",
+   "SPDE03",
+   "SPDE04",
+   "SPDE05"
+  ]
+ },
+ {
+  "id": 250002536852,
+  "cargoCod": 7,
+  "cargo": "Deputado Estadual",
+  "nomeUrna": "MARIA PAULA",
+  "nomeCompleto": "MARIA PAULA MENDONÇA VIEIRA",
+  "numero": 13116,
+  "partido": "PT",
+  "coligacao": "FEDERAÇÃO BRASIL DA ESPERANÇA - FE BRASIL(13-PT/65-PC do B/43-PV)",
+  "situacao": "Deferido",
+  "ocupacao": "Advogado",
+  "incumbente": false,
+  "arrecadado": 942447.5,
+  "anteriores": [
+   {
+    "ano": 2024,
+    "cargo": "Vereador",
+    "local": "ARARAQUARA",
+    "partido": "PT",
+    "resultado": "Eleito por QP"
+   }
+  ],
+  "sites": [
+   "HTTPS://WWW.FACEBOOK.COM/MARIAAPAULAAVIEIRA/?LOCALE=PT_BR",
+   "https://@MARIAPAULAVV"
+  ],
+  "posicoesExistentes": {},
+  "perguntasFaltando": [
+   "G01",
+   "G02",
+   "G03",
+   "G04",
+   "G05",
+   "G06",
+   "G07",
+   "G08",
+   "G09",
+   "G10",
+   "G11",
+   "G12",
+   "G13",
+   "G14",
+   "SPDE01",
+   "SPDE02",
+   "SPDE03",
+   "SPDE04",
+   "SPDE05"
+  ]
+ },
+ {
+  "id": 250002536237,
+  "cargoCod": 7,
+  "cargo": "Deputado Estadual",
+  "nomeUrna": "CAMPOS",
+  "nomeCompleto": "FRANCISCO JOSE CAMPOS RODRIGUES",
+  "numero": 13130,
+  "partido": "PT",
+  "coligacao": "FEDERAÇÃO BRASIL DA ESPERANÇA - FE BRASIL(13-PT/65-PC do B/43-PV)",
+  "situacao": "Deferido",
+  "ocupacao": "Aposentado (Exceto Servidor Público)",
+  "incumbente": false,
+  "arrecadado": 941431.76,
+  "anteriores": [],
+  "sites": [
+   "HTTPS://WWW.THREADS.COM/@CAMPOS__OFICIAL",
+   "HTTPS://WWW.INSTAGRAM.COM/CAMPOS__OFICIAL/",
+   "https://www.tiktok.com/@campos__oficial",
+   "HTTPS://WWW.FACEBOOK.COM/FRANCISCO.CAMPOSII/",
+   "https://www.facebook.com/people/Face-do-Campos"
+  ],
+  "posicoesExistentes": {},
+  "perguntasFaltando": [
+   "G01",
+   "G02",
+   "G03",
+   "G04",
+   "G05",
+   "G06",
+   "G07",
+   "G08",
+   "G09",
+   "G10",
+   "G11",
+   "G12",
+   "G13",
+   "G14",
+   "SPDE01",
+   "SPDE02",
+   "SPDE03",
+   "SPDE04",
+   "SPDE05"
+  ]
+ },
+ {
+  "id": 250002540561,
+  "cargoCod": 7,
+  "cargo": "Deputado Estadual",
+  "nomeUrna": "BRUNA PERISSINOTTO",
+  "nomeCompleto": "BRUNA FERNANDES PERISSINOTTO",
+  "numero": 55444,
+  "partido": "PSD",
+  "coligacao": "PSD",
+  "situacao": "Deferido",
+  "ocupacao": "Advogado",
+  "incumbente": false,
+  "arrecadado": 927407.41,
+  "anteriores": [],
+  "sites": [
+   "HTTPS://WWW.INSTAGRAM.COM/BRUNAPERISSINOTTO_/",
+   "HTTPS://WWW.YOUTUBE.COM/@MAMAENA.COZINHA",
+   "https://www.facebook.com/share/1BXUegt9b7/"
+  ],
+  "posicoesExistentes": {},
+  "perguntasFaltando": [
+   "G01",
+   "G02",
+   "G03",
+   "G04",
+   "G05",
+   "G06",
+   "G07",
+   "G08",
+   "G09",
+   "G10",
+   "G11",
+   "G12",
+   "G13",
+   "G14",
+   "SPDE01",
+   "SPDE02",
+   "SPDE03",
+   "SPDE04",
+   "SPDE05"
+  ]
+ },
+ {
+  "id": 250002534251,
+  "cargoCod": 7,
+  "cargo": "Deputado Estadual",
+  "nomeUrna": "REGINA NUNES",
+  "nomeCompleto": "REGINA CARNOVALE NUNES",
+  "numero": 15115,
+  "partido": "MDB",
+  "coligacao": "MDB",
+  "situacao": "Deferido",
+  "ocupacao": "Dona de Casa",
+  "incumbente": false,
+  "arrecadado": 926396.1,
+  "anteriores": [],
+  "sites": [
+   "HTTPS://YOUTUBE.COM/@REGINACARNOVALENUNES",
+   "HTTPS://WWW.INSTAGRAM.COM/REGINACARNOVALENUNES",
+   "HTTPS://WWW.TIKTOK.COM/@REGINACARNOVALENUNES",
+   "HTTPS://WWW.FACEBOOK.COM/SHARE/1GBIMTBETV/"
+  ],
+  "posicoesExistentes": {},
+  "perguntasFaltando": [
+   "G01",
+   "G02",
+   "G03",
+   "G04",
+   "G05",
+   "G06",
+   "G07",
+   "G08",
+   "G09",
+   "G10",
+   "G11",
+   "G12",
+   "G13",
+   "G14",
+   "SPDE01",
+   "SPDE02",
+   "SPDE03",
+   "SPDE04",
+   "SPDE05"
+  ]
+ },
+ {
+  "id": 250002538929,
+  "cargoCod": 7,
+  "cargo": "Deputado Estadual",
+  "nomeUrna": "MARIANA CONTI",
+  "nomeCompleto": "MARIANA CONTI TAKAHASHI",
+  "numero": 50100,
+  "partido": "PSOL",
+  "coligacao": "FEDERAÇÃO PSOL REDE(50-PSOL/18-REDE)",
+  "situacao": "Deferido",
+  "ocupacao": "Vereador",
+  "incumbente": false,
+  "arrecadado": 926383.92,
+  "anteriores": [
+   {
+    "ano": 2024,
+    "cargo": "Vereador",
+    "local": "CAMPINAS",
+    "partido": "PSOL",
+    "resultado": "Eleito por QP"
+   },
+   {
+    "ano": 2022,
+    "cargo": "Deputado Estadual",
+    "local": "SÃO PAULO",
+    "partido": "PSOL",
+    "resultado": "Suplente"
+   },
+   {
+    "ano": 2020,
+    "cargo": "Vereador",
+    "local": "CAMPINAS",
+    "partido": "PSOL",
+    "resultado": "Eleito por QP"
+   },
+   {
+    "ano": 2018,
+    "cargo": "Deputado Estadual",
+    "local": "SÃO PAULO",
+    "partido": "PSOL",
+    "resultado": "Suplente"
+   }
+  ],
+  "sites": [
+   "https://X: HTTPS://X.COM/MARIANA_PSOL",
+   "https://YOUTUBE: HTTPS://YOUTUBE.COM/@MARIANACONTI?SI=16S-S_A_JVKYDBWC",
+   "https://FACEBOOK: HTTPS://WWW.FACEBOOK.COM/SHARE/19P7UZKYHU/",
+   "https://TIK TOK: HTTPS://WWW.TIKTOK.COM/@MARIANA_PSOL?_R=1&_T=ZS-98EKFF8O8L0",
+   "https://SITE: HTTPS://MARIANACONTIPSOL.COM.BR/",
+   "https://marianaconti50100.com.br/",
+   "https://INSTAGRAM: HTTPS://WWW.INSTAGRAM.COM/MARIANACONTI_PSOL"
+  ],
+  "posicoesExistentes": {},
+  "perguntasFaltando": [
+   "G01",
+   "G02",
+   "G03",
+   "G04",
+   "G05",
+   "G06",
+   "G07",
+   "G08",
+   "G09",
+   "G10",
+   "G11",
+   "G12",
+   "G13",
+   "G14",
+   "SPDE01",
+   "SPDE02",
+   "SPDE03",
+   "SPDE04",
+   "SPDE05"
+  ]
+ },
+ {
+  "id": 250002541906,
+  "cargoCod": 7,
+  "cargo": "Deputado Estadual",
+  "nomeUrna": "HIGOR DIEGO",
+  "nomeCompleto": "HIGOR DIEGO RALLA",
+  "numero": 10200,
+  "partido": "REPUBLICANOS",
+  "coligacao": "REPUBLICANOS",
+  "situacao": "Deferido",
+  "ocupacao": "Vereador",
+  "incumbente": false,
+  "arrecadado": 925195,
+  "anteriores": [
+   {
+    "ano": 2024,
+    "cargo": "Vereador",
+    "local": "CAMPINAS",
+    "partido": "REPUBLICANOS",
+    "resultado": "Eleito por QP"
+   },
+   {
+    "ano": 2022,
+    "cargo": "Deputado Estadual",
+    "local": "SÃO PAULO",
+    "partido": "REPUBLICANOS",
+    "resultado": "Suplente"
+   },
+   {
+    "ano": 2020,
+    "cargo": "Vereador",
+    "local": "CAMPINAS",
+    "partido": "REPUBLICANOS",
+    "resultado": "Eleito por QP"
+   }
+  ],
+  "sites": [
+   "HTTPS://WWW.INSTAGRAM.COM/HIGORDIEGOSP/",
+   "HTTP://WWW.VEREADORHIGORDIEGO.COM.BR/",
+   "HTTPS://WWW.FACEBOOK.COM/SHARE/17YSKN2I7H/?MIBEXTID=WWXIFR",
+   "HTTP://WWW.HIGORDIEGOSP.COM.BR/",
+   "HTTPS://WWW.TIKTOK.COM/@HIGORCAMPINAS?_R=1&_T=ZS-98PRXQPU7UR",
+   "HTTPS://WWW.INSTAGRAM.COM/HIGORDIEGOSP?IGSH=MWT5DGNXOTV5NJJKYW%3D%3D&UTM_SOURCE="
+  ],
+  "posicoesExistentes": {},
+  "perguntasFaltando": [
+   "G01",
+   "G02",
+   "G03",
+   "G04",
+   "G05",
+   "G06",
+   "G07",
+   "G08",
+   "G09",
+   "G10",
+   "G11",
+   "G12",
+   "G13",
+   "G14",
+   "SPDE01",
+   "SPDE02",
+   "SPDE03",
+   "SPDE04",
+   "SPDE05"
+  ]
+ },
+ {
+  "id": 250002536382,
+  "cargoCod": 7,
+  "cargo": "Deputado Estadual",
+  "nomeUrna": "DELEGADO SANDRO MONTANARI",
+  "nomeCompleto": "SANDRO MONTANARI RAMOS DE VASCONCELLOS",
+  "numero": 22230,
+  "partido": "PL",
+  "coligacao": "PL",
+  "situacao": "Deferido",
+  "ocupacao": "Servidor Público Estadual",
+  "incumbente": false,
+  "arrecadado": 916000,
+  "anteriores": [],
+  "sites": [
+   "https://x.com/delsmontanari?s=11",
+   "https://youtube.com/@delegadosandromontanari?si=V5jonpVEjzopiyLW",
+   "https://www.threads.com/@delegadosandromontanari",
+   "https://www.instagram.com/delegadosandromontanari?igsh=MTE4dHE5dmpsczE0Mw",
+   "https://www.delegadosandromontanari.com.br/",
+   "https://www.facebook.com/share/1K7gPtuXkE/?mibextid=wwXIfr",
+   "https://www.tiktok.com/@delegadosandromontanari?_r=1&_t=ZS-98yVCZmj0p0"
+  ],
+  "posicoesExistentes": {},
+  "perguntasFaltando": [
+   "G01",
+   "G02",
+   "G03",
+   "G04",
+   "G05",
+   "G06",
+   "G07",
+   "G08",
+   "G09",
+   "G10",
+   "G11",
+   "G12",
+   "G13",
+   "G14",
+   "SPDE01",
+   "SPDE02",
+   "SPDE03",
+   "SPDE04",
+   "SPDE05"
+  ]
+ },
+ {
+  "id": 250002540590,
+  "cargoCod": 7,
+  "cargo": "Deputado Estadual",
+  "nomeUrna": "DELEGADA JÚLIA NUNES",
+  "nomeCompleto": "JULIA NUNES MACHADO",
+  "numero": 55789,
+  "partido": "PSD",
+  "coligacao": "PSD",
+  "situacao": "Deferido",
+  "ocupacao": "Policial Civil",
+  "incumbente": false,
+  "arrecadado": 910437,
+  "anteriores": [
+   {
+    "ano": 2024,
+    "cargo": "Vereador",
+    "local": "ITAPETININGA",
+    "partido": "PSD",
+    "resultado": "Eleito por QP"
+   }
+  ],
+  "sites": [
+   "http://www.tiktok.com/@delegadajulianunes",
+   "http://www.threads.com/@delegadajulianunes",
+   "http://www.delegadajulianunes.com.br/",
+   "HTTPS://WWW.INSTAGRAM.COM/DELEGADAJULIANUNES/",
+   "http://www.youtube.com/@delegadajulianunesoficial",
+   "http://www.facebook.com/delegadajulianunes",
+   "http://www.facebook.com/delegadajulianunesmachado"
+  ],
+  "posicoesExistentes": {},
+  "perguntasFaltando": [
+   "G01",
+   "G02",
+   "G03",
+   "G04",
+   "G05",
+   "G06",
+   "G07",
+   "G08",
+   "G09",
+   "G10",
+   "G11",
+   "G12",
+   "G13",
+   "G14",
+   "SPDE01",
+   "SPDE02",
+   "SPDE03",
+   "SPDE04",
+   "SPDE05"
+  ]
+ },
+ {
+  "id": 250002539299,
+  "cargoCod": 7,
+  "cargo": "Deputado Estadual",
+  "nomeUrna": "MARINA BRAGANTE",
+  "nomeCompleto": "MARINA AMADEU BATISTA BRAGANTE",
+  "numero": 40444,
+  "partido": "PSB",
+  "coligacao": "PSB",
+  "situacao": "Deferido",
+  "ocupacao": "Psicólogo",
+  "incumbente": false,
+  "arrecadado": 905285.95,
+  "anteriores": [
+   {
+    "ano": 2024,
+    "cargo": "Vereador",
+    "local": "SÃO PAULO",
+    "partido": "REDE",
+    "resultado": "Eleito por QP"
+   },
+   {
+    "ano": 2020,
+    "cargo": "Vereador",
+    "local": "SÃO PAULO",
+    "partido": "REDE",
+    "resultado": "Não eleito"
+   }
+  ],
+  "sites": [
+   "https://www.linkedin.com/in/marinabragante/",
+   "HTTPS://WWW.MARINABRAGANTE.COM.BR/",
+   "HTTPS://WWW.FACEBOOK.COM/MARINA.A.BRAGANTE",
+   "HTTPS://WWW.INSTAGRAM.COM/MARINABRAGANTE/",
+   "https://marinasporsp.com.br/",
+   "https://x.com/marinabragante",
+   "https://www.tiktok.com/@marinabragante"
+  ],
+  "posicoesExistentes": {},
+  "perguntasFaltando": [
+   "G01",
+   "G02",
+   "G03",
+   "G04",
+   "G05",
+   "G06",
+   "G07",
+   "G08",
+   "G09",
+   "G10",
+   "G11",
+   "G12",
+   "G13",
+   "G14",
+   "SPDE01",
+   "SPDE02",
+   "SPDE03",
+   "SPDE04",
+   "SPDE05"
+  ]
+ },
+ {
+  "id": 250002536821,
+  "cargoCod": 7,
+  "cargo": "Deputado Estadual",
+  "nomeUrna": "GUSTAVO PETTA",
+  "nomeCompleto": "GUSTAVO LEMOS PETTA",
+  "numero": 65656,
+  "partido": "PCDOB",
+  "coligacao": "FEDERAÇÃO BRASIL DA ESPERANÇA - FE BRASIL(13-PT/65-PC do B/43-PV)",
+  "situacao": "Deferido",
+  "ocupacao": "Advogado",
+  "incumbente": false,
+  "arrecadado": 903452.39,
+  "anteriores": [
+   {
+    "ano": 2024,
+    "cargo": "Vereador",
+    "local": "CAMPINAS",
+    "partido": "PC do B",
+    "resultado": "Eleito por média"
+   },
+   {
+    "ano": 2020,
+    "cargo": "Vereador",
+    "local": "CAMPINAS",
+    "partido": "PC do B",
+    "resultado": "Eleito por média"
+   },
+   {
+    "ano": 2018,
+    "cargo": "Deputado Estadual",
+    "local": "SÃO PAULO",
+    "partido": "PC do B",
+    "resultado": "Suplente"
+   },
+   {
+    "ano": 2016,
+    "cargo": "Vereador",
+    "local": "CAMPINAS",
+    "partido": "PC do B",
+    "resultado": "Eleito por QP"
+   }
+  ],
+  "sites": [
+   "HTTPS://X.COM/GUSTAVOPETTA",
+   "HTTPS://WWW.FACEBOOK.COM/GUSTAVOPETTA/",
+   "HTTPS://WWW.INSTAGRAM.COM/GUSTAVOPETTA/",
+   "HTTPS://WWW.TIKTOK.COM/@PETTAGUSTAVO"
+  ],
+  "posicoesExistentes": {},
+  "perguntasFaltando": [
+   "G01",
+   "G02",
+   "G03",
+   "G04",
+   "G05",
+   "G06",
+   "G07",
+   "G08",
+   "G09",
+   "G10",
+   "G11",
+   "G12",
+   "G13",
+   "G14",
+   "SPDE01",
+   "SPDE02",
+   "SPDE03",
+   "SPDE04",
+   "SPDE05"
+  ]
+ },
+ {
+  "id": 250002540891,
+  "cargoCod": 7,
+  "cargo": "Deputado Estadual",
+  "nomeUrna": "MONICA ROSENBERG",
+  "nomeCompleto": "MONICA ROSENBERG BRAIZAT",
+  "numero": 55018,
+  "partido": "PSD",
+  "coligacao": "PSD",
+  "situacao": "Deferido",
+  "ocupacao": "Advogado",
+  "incumbente": false,
+  "arrecadado": 897571.5,
+  "anteriores": [
+   {
+    "ano": 2022,
+    "cargo": "Deputado Federal",
+    "local": "SÃO PAULO",
+    "partido": "NOVO",
+    "resultado": "Suplente"
+   },
+   {
+    "ano": 2018,
+    "cargo": "Deputado Federal",
+    "local": "SÃO PAULO",
+    "partido": "NOVO",
+    "resultado": "Suplente"
+   }
+  ],
+  "sites": [
+   "https://www.threads.com/@monicarosenbergsp",
+   "HTTPS://WWW.YOUTUBE.COM/@MONICAROSENBERG18",
+   "HTTPS://WWW.INSTAGRAM.COM/MONICAROSENBERGSP/",
+   "HTTPS://WWW.TIKTOK.COM/@MONICAROSENBERGSP",
+   "HTTPS://WWW.LINKEDIN.COM/IN/MONICAROSENBERGSP",
+   "https://www.facebook.com/monicarosenbergbraizat/",
+   "HTTPS://MONICAROSENBERG.COM.BR",
+   "HTTPS://X.COM/MOROSENBERGSP"
+  ],
+  "posicoesExistentes": {},
+  "perguntasFaltando": [
+   "G01",
+   "G02",
+   "G03",
+   "G04",
+   "G05",
+   "G06",
+   "G07",
+   "G08",
+   "G09",
+   "G10",
+   "G11",
+   "G12",
+   "G13",
+   "G14",
+   "SPDE01",
+   "SPDE02",
+   "SPDE03",
+   "SPDE04",
+   "SPDE05"
+  ]
+ },
+ {
+  "id": 250002536344,
+  "cargoCod": 7,
+  "cargo": "Deputado Estadual",
+  "nomeUrna": "CAPITÃO MOSART",
+  "nomeCompleto": "MOSART ARAGÃO PEREIRA",
+  "numero": 22022,
+  "partido": "PL",
+  "coligacao": "PL",
+  "situacao": "Deferido",
+  "ocupacao": "Militar Reformado",
+  "incumbente": false,
+  "arrecadado": 887454.03,
+  "anteriores": [
+   {
+    "ano": 2022,
+    "cargo": "Deputado Federal",
+    "local": "SÃO PAULO",
+    "partido": "PL",
+    "resultado": "Suplente"
+   }
+  ],
+  "sites": [
+   "HTTPS://WWW.INSTAGRAM.COM/CAPITAOMOSART?IGSH=DDDQNNE5DDRLBMXJ&UTM_SOURCE=QR",
+   "HTTPS://WWW.KWAI.COM/@TENENTEMOSART?KPN=KWAI&SHARE_DEVICE_ID=AE3030D4-FF5B-4DF0-",
+   "HTTPS://WWW.FACEBOOK.COM/TENENTEMOSARTSP?MIBEXTID=WWXIFR&RDID=CEMIFTWGQWOHCJWM&S",
+   "https://www.facebook.com/capitaomosartbr/",
+   "https://capitaomosart.com.br/",
+   "HTTPS://WWW.TIKTOK.COM/@CAPMOSARTBOLSONARO?_R=1&_T=ZS-96NTNKYALHQ"
+  ],
+  "posicoesExistentes": {},
+  "perguntasFaltando": [
+   "G01",
+   "G02",
+   "G03",
+   "G04",
+   "G05",
+   "G06",
+   "G07",
+   "G08",
+   "G09",
+   "G10",
+   "G11",
+   "G12",
+   "G13",
+   "G14",
+   "SPDE01",
+   "SPDE02",
+   "SPDE03",
+   "SPDE04",
+   "SPDE05"
+  ]
+ },
+ {
+  "id": 250002533806,
+  "cargoCod": 7,
+  "cargo": "Deputado Estadual",
+  "nomeUrna": "TONINHO MITTRAS",
+  "nomeCompleto": "ANTONIO CARLOS DA SILVA",
+  "numero": 44888,
+  "partido": "UNIÃO",
+  "coligacao": "FEDERAÇÃO UNIÃO PROGRESSISTA(44-UNIÃO/11-PP)",
+  "situacao": "Deferido",
+  "ocupacao": "Empresário",
+  "incumbente": false,
+  "arrecadado": 882436.09,
+  "anteriores": [
+   {
+    "ano": 2008,
+    "cargo": "Vereador",
+    "local": "FERRAZ DE VASCONCELOS",
+    "partido": "PV",
+    "resultado": "Não eleito"
+   }
+  ],
+  "sites": [
+   "HTTPS://WWW.INSTAGRAM.COM/TONINHOMITTRAS/"
+  ],
+  "posicoesExistentes": {},
+  "perguntasFaltando": [
+   "G01",
+   "G02",
+   "G03",
+   "G04",
+   "G05",
+   "G06",
+   "G07",
+   "G08",
+   "G09",
+   "G10",
+   "G11",
+   "G12",
+   "G13",
+   "G14",
+   "SPDE01",
+   "SPDE02",
+   "SPDE03",
+   "SPDE04",
+   "SPDE05"
+  ]
+ },
+ {
+  "id": 250002534155,
+  "cargoCod": 7,
+  "cargo": "Deputado Estadual",
+  "nomeUrna": "FLÁVIA RESENDE",
+  "nomeCompleto": "FLAVIA CRISTIANE GONÇALVES RESENDE",
+  "numero": 25255,
+  "partido": "PRD",
+  "coligacao": "FEDERAÇÃO RENOVAÇÃO SOLIDÁRIA(25-PRD/77-SOLIDARIEDADE)",
+  "situacao": "Deferido",
+  "ocupacao": "Advogado",
+  "incumbente": false,
+  "arrecadado": 878557.5,
+  "anteriores": [
+   {
+    "ano": 2024,
+    "cargo": "Vice-prefeito",
+    "local": "FERNANDÓPOLIS",
+    "partido": "PRD",
+    "resultado": "Não eleito"
+   },
+   {
+    "ano": 2016,
+    "cargo": "Vereador",
+    "local": "FERNANDÓPOLIS",
+    "partido": "PSDB",
+    "resultado": "Concorrendo"
+   }
+  ],
+  "sites": [
+   "HTTPS://WWW.INSTAGRAM.COM/FLAVIARESENDESP/"
+  ],
+  "posicoesExistentes": {},
+  "perguntasFaltando": [
+   "G01",
+   "G02",
+   "G03",
+   "G04",
+   "G05",
+   "G06",
+   "G07",
+   "G08",
+   "G09",
+   "G10",
+   "G11",
+   "G12",
+   "G13",
+   "G14",
+   "SPDE01",
+   "SPDE02",
+   "SPDE03",
+   "SPDE04",
+   "SPDE05"
+  ]
+ },
+ {
+  "id": 250002539937,
+  "cargoCod": 7,
+  "cargo": "Deputado Estadual",
+  "nomeUrna": "DÉBORA CAMILO",
+  "nomeCompleto": "DEBORA ALVES CAMILO",
+  "numero": 50500,
+  "partido": "PSOL",
+  "coligacao": "FEDERAÇÃO PSOL REDE(50-PSOL/18-REDE)",
+  "situacao": "Deferido",
+  "ocupacao": "Vereador",
+  "incumbente": false,
+  "arrecadado": 857206.06,
+  "anteriores": [
+   {
+    "ano": 2024,
+    "cargo": "Vereador",
+    "local": "SANTOS",
+    "partido": "PSOL",
+    "resultado": "Eleito por QP"
+   },
+   {
+    "ano": 2022,
+    "cargo": "Deputado Estadual",
+    "local": "SÃO PAULO",
+    "partido": "PSOL",
+    "resultado": "Suplente"
+   },
+   {
+    "ano": 2020,
+    "cargo": "Vereador",
+    "local": "SANTOS",
+    "partido": "PSOL",
+    "resultado": "Eleito por média"
+   },
+   {
+    "ano": 2018,
+    "cargo": "Deputado Federal",
+    "local": "SÃO PAULO",
+    "partido": "PSOL",
+    "resultado": "Suplente"
+   }
+  ],
+  "sites": [
+   "HTTPS://DEBORAPSOL.COM.BR/",
+   "HTTPS://WWW.INSTAGRAM.COM/DEBORAPSOL",
+   "HTTPS://WWW.YOUTUBE.COM/DEBORAPSOL",
+   "HTTPS://X.COM/DEBORAPSOL",
+   "HTTPS://WWW.FACEBOOK.COM/DEBORAPSOL",
+   "HTTPS://WWW.THREADS.COM/@DEBORAPSOL"
+  ],
+  "posicoesExistentes": {},
+  "perguntasFaltando": [
+   "G01",
+   "G02",
+   "G03",
+   "G04",
+   "G05",
+   "G06",
+   "G07",
+   "G08",
+   "G09",
+   "G10",
+   "G11",
+   "G12",
+   "G13",
+   "G14",
+   "SPDE01",
+   "SPDE02",
+   "SPDE03",
+   "SPDE04",
+   "SPDE05"
+  ]
+ },
+ {
+  "id": 250002533784,
+  "cargoCod": 7,
+  "cargo": "Deputado Estadual",
+  "nomeUrna": "EDILENE LURA",
+  "nomeCompleto": "EDILENE MARTINS LURA",
+  "numero": 44466,
+  "partido": "UNIÃO",
+  "coligacao": "FEDERAÇÃO UNIÃO PROGRESSISTA(44-UNIÃO/11-PP)",
+  "situacao": "Deferido",
+  "ocupacao": "Professor e Instrutor de Formação Profissional",
+  "incumbente": false,
+  "arrecadado": 849365.09,
+  "anteriores": [
+   {
+    "ano": 2024,
+    "cargo": "Vereador",
+    "local": "SÃO PAULO",
+    "partido": "UNIÃO",
+    "resultado": "Suplente"
+   }
+  ],
+  "sites": [
+   "HTTPS://WWW.TIKTOK.COM/@EDI.LURA",
+   "HTTPS://WWW.FACEBOOK.COM/PEOPLE/EDILENE-LURA/61590360706003/#",
+   "HTTPS://YOUTUBE.COM/@EDILENELURA?SI=RXMMJFJSQQNRLHDE",
+   "HTTPS://WWW.INSTAGRAM.COM/EDILENELURA/"
+  ],
+  "posicoesExistentes": {},
+  "perguntasFaltando": [
+   "G01",
+   "G02",
+   "G03",
+   "G04",
+   "G05",
+   "G06",
+   "G07",
+   "G08",
+   "G09",
+   "G10",
+   "G11",
+   "G12",
+   "G13",
+   "G14",
+   "SPDE01",
+   "SPDE02",
+   "SPDE03",
+   "SPDE04",
+   "SPDE05"
+  ]
+ },
+ {
+  "id": 250002536427,
+  "cargoCod": 7,
+  "cargo": "Deputado Estadual",
+  "nomeUrna": "GILMARA GONÇALVES",
+  "nomeCompleto": "GILMARA ALMEIDA GONCALVES RIEVRS OLIVEIRA",
+  "numero": 22688,
+  "partido": "PL",
+  "coligacao": "PL",
+  "situacao": "Deferido",
+  "ocupacao": "Jornalista e Redator",
+  "incumbente": false,
+  "arrecadado": 844509.99,
+  "anteriores": [
+   {
+    "ano": 2020,
+    "cargo": "Vice-prefeito",
+    "local": "CARAPICUÍBA",
+    "partido": "MDB",
+    "resultado": "Eleito"
+   },
+   {
+    "ano": 2018,
+    "cargo": "Deputado Estadual",
+    "local": "SÃO PAULO",
+    "partido": "PSB",
+    "resultado": "Suplente"
+   },
+   {
+    "ano": 2016,
+    "cargo": "Vice-prefeito",
+    "local": "CARAPICUÍBA",
+    "partido": "PSB",
+    "resultado": "Eleito"
+   },
+   {
+    "ano": 2014,
+    "cargo": "Deputado Federal",
+    "local": "SÃO PAULO",
+    "partido": "PSC",
+    "resultado": "Suplente"
+   }
+  ],
+  "sites": [
+   "https://www.tiktok.com/@gilmaragoncalvesoficial",
+   "HTTPS://WWW.INSTAGRAM.COM/GILMARAGONCALVESOFICIAL?IGSH=DXRYATHQZMYYZNKW",
+   "https://www.youtube.com/@GilmaraGon%C3%A7alves",
+   "https://www.facebook.com/gilmagoncalvesoficial"
+  ],
+  "posicoesExistentes": {},
+  "perguntasFaltando": [
+   "G01",
+   "G02",
+   "G03",
+   "G04",
+   "G05",
+   "G06",
+   "G07",
+   "G08",
+   "G09",
+   "G10",
+   "G11",
+   "G12",
+   "G13",
+   "G14",
+   "SPDE01",
+   "SPDE02",
+   "SPDE03",
+   "SPDE04",
+   "SPDE05"
+  ]
+ },
+ {
+  "id": 250002540911,
+  "cargoCod": 7,
+  "cargo": "Deputado Estadual",
+  "nomeUrna": "THAMMY MIRANDA",
+  "nomeCompleto": "THAMMY BRITO DE MIRANDA E SILVA",
+  "numero": 55000,
+  "partido": "PSD",
+  "coligacao": "PSD",
+  "situacao": "Deferido",
+  "ocupacao": "Vereador",
+  "incumbente": false,
+  "arrecadado": 836247.41,
+  "anteriores": [
+   {
+    "ano": 2024,
+    "cargo": "Vereador",
+    "local": "SÃO PAULO",
+    "partido": "PSD",
+    "resultado": "Eleito por média"
+   },
+   {
+    "ano": 2020,
+    "cargo": "Vereador",
+    "local": "SÃO PAULO",
+    "partido": "PL",
+    "resultado": "Eleito por QP"
+   },
+   {
+    "ano": 2016,
+    "cargo": "Vereador",
+    "local": "SÃO PAULO",
+    "partido": "PP",
+    "resultado": "Suplente"
+   },
+   {
+    "ano": 2008,
+    "cargo": "Vereador",
+    "local": "SÃO PAULO",
+    "partido": "PP",
+    "resultado": "Concorrendo"
+   }
+  ],
+  "sites": [
+   "HTTPS://X.COM/THAMMYREAL",
+   "https://www.kwai.com/@ThammyMirandaeu",
+   "HTTPS://WWW.THAMMYMIRANDA.COM.BR",
+   "https://www.facebook.com/ThammyOficial/",
+   "HTTPS://WWW.INSTAGRAM.COM/THAMMYMIRANDA/",
+   "HTTPS://WWW.TIKTOK.COM/@THAMMYMIRANDAEU"
+  ],
+  "posicoesExistentes": {},
+  "perguntasFaltando": [
+   "G01",
+   "G02",
+   "G03",
+   "G04",
+   "G05",
+   "G06",
+   "G07",
+   "G08",
+   "G09",
+   "G10",
+   "G11",
+   "G12",
+   "G13",
+   "G14",
+   "SPDE01",
+   "SPDE02",
+   "SPDE03",
+   "SPDE04",
+   "SPDE05"
+  ]
+ },
+ {
+  "id": 250002536368,
+  "cargoCod": 7,
+  "cargo": "Deputado Estadual",
+  "nomeUrna": "RENAN PAES",
+  "nomeCompleto": "RENAN LEANDRO PAES",
+  "numero": 22380,
+  "partido": "PL",
+  "coligacao": "PL",
+  "situacao": "Deferido",
+  "ocupacao": "Vereador",
+  "incumbente": false,
+  "arrecadado": 832434.06,
+  "anteriores": [
+   {
+    "ano": 2024,
+    "cargo": "Vereador",
+    "local": "PIRACICABA",
+    "partido": "PL",
+    "resultado": "Eleito por média"
+   }
+  ],
+  "sites": [
+   "HTTPS://WWW.TIKTOK.COM/@RENAN.PAES7?_R=1&_T=ZS-96KPKKLS1EW",
+   "HTTPS://FACEBOOK.COM/RENANPAESOFICIAL",
+   "HTTPS://WWW.INSTAGRAM.COM/RENANPAESOFICIAL",
+   "HTTPS://WWW.FACEBOOK.COM/RENANPAESOFICIAL",
+   "HTTPS://X.COM/RENANPAESSP",
+   "HTTPS://WWW.FACEBOOK.COM/RENAN.PAES2",
+   "HTTPS://WWW.TIKTOK.COM/@RENAN.PAES7"
+  ],
+  "posicoesExistentes": {},
+  "perguntasFaltando": [
+   "G01",
+   "G02",
+   "G03",
+   "G04",
+   "G05",
+   "G06",
+   "G07",
+   "G08",
+   "G09",
+   "G10",
+   "G11",
+   "G12",
+   "G13",
+   "G14",
+   "SPDE01",
+   "SPDE02",
+   "SPDE03",
+   "SPDE04",
+   "SPDE05"
+  ]
+ },
+ {
+  "id": 250002533809,
+  "cargoCod": 7,
+  "cargo": "Deputado Estadual",
+  "nomeUrna": "DOUGLAS GARCIA",
+  "nomeCompleto": "DOUGLAS GARCIA BISPO DOS SANTOS",
+  "numero": 44555,
+  "partido": "UNIÃO",
+  "coligacao": "FEDERAÇÃO UNIÃO PROGRESSISTA(44-UNIÃO/11-PP)",
+  "situacao": "Deferido",
+  "ocupacao": "Outros",
+  "incumbente": false,
+  "arrecadado": 830405.89,
+  "anteriores": [
+   {
+    "ano": 2024,
+    "cargo": "Vereador",
+    "local": "SÃO PAULO",
+    "partido": "UNIÃO",
+    "resultado": "Suplente"
+   },
+   {
+    "ano": 2022,
+    "cargo": "Deputado Federal",
+    "local": "SÃO PAULO",
+    "partido": "REPUBLICANOS",
+    "resultado": "Suplente"
+   },
+   {
+    "ano": 2018,
+    "cargo": "Deputado Estadual",
+    "local": "SÃO PAULO",
+    "partido": "PSL",
+    "resultado": "Eleito por QP"
+   }
+  ],
+  "sites": [
+   "HTTPS://WWW.YOUTUBE.COM/@DOUGLASGARCIASAOPAULO",
+   "HTTPS://X.COM/DOUGLASGARCIA",
+   "HTTPS://WWW.TIKTOK.COM/@DOUGLASGARCIASP",
+   "https://wa.me/message/4ZYLIT3V5Q4AK1",
+   "https://wa.me/message/MFYABVDTSBUFO1",
+   "https://www.threads.com/@douglasgarciasp?igshid=NTc4MTIwNjQ2YQ==",
+   "https://youtube.com/@douglasgarcia_sp?si=umDPT0QekZzpEw8D",
+   "https://x.com/douglasgarcia?s=11",
+   "https://k.kwai.com/u/@douglasgarciasp/x4C7fagI",
+   "https://www.instagram.com/douglasgarciasp?igsi=ODFvZ3U3MXhkNzI5&utm_source=qr",
+   "HTTPS://WWW.INSTAGRAM.COM/DOUGLASGARCIASP/",
+   "https://youtube.com/@douglasgarciasaopaulo?si=5FlXGNiNhaEGGKGo",
+   "https://www.tiktok.com/@douglasgarciasp?_r=1&_t=ZS-99Nc0v4fF8H",
+   "HTTPS://WWW.FACEBOOK.COM/DOUGLASGARCIASP",
+   "https://www.facebook.com/share/1DFTNvbdLQ/?mibextid=wwXIfr"
+  ],
+  "posicoesExistentes": {},
+  "perguntasFaltando": [
+   "G01",
+   "G02",
+   "G03",
+   "G04",
+   "G05",
+   "G06",
+   "G07",
+   "G08",
+   "G09",
+   "G10",
+   "G11",
+   "G12",
+   "G13",
+   "G14",
+   "SPDE01",
+   "SPDE02",
+   "SPDE03",
+   "SPDE04",
+   "SPDE05"
+  ]
+ },
+ {
+  "id": 250002536360,
+  "cargoCod": 7,
+  "cargo": "Deputado Estadual",
+  "nomeUrna": "MALU FERNANDES",
+  "nomeCompleto": "MARIA LUIZA FERNANDES",
+  "numero": 22010,
+  "partido": "PL",
+  "coligacao": "PL",
+  "situacao": "Deferido",
+  "ocupacao": "Vereador",
+  "incumbente": false,
+  "arrecadado": 816469.38,
+  "anteriores": [
+   {
+    "ano": 2024,
+    "cargo": "Vereador",
+    "local": "MOGI DAS CRUZES",
+    "partido": "PL",
+    "resultado": "Eleito por QP"
+   },
+   {
+    "ano": 2020,
+    "cargo": "Vereador",
+    "local": "MOGI DAS CRUZES",
+    "partido": "SOLIDARIEDADE",
+    "resultado": "Eleito por média"
+   }
+  ],
+  "sites": [
+   "HTTPS://WWW.INSTAGRAM.COM/SOUMALUFERNANDES?IGSH=EHGWZ2ZIM3I1BZN6&UTM_SOURCE=QR",
+   "HTTPS://WWW.FACEBOOK.COM/SOUMALUFERNANDES",
+   "http://malufernandes.com.br/"
+  ],
+  "posicoesExistentes": {},
+  "perguntasFaltando": [
+   "G01",
+   "G02",
+   "G03",
+   "G04",
+   "G05",
+   "G06",
+   "G07",
+   "G08",
+   "G09",
+   "G10",
+   "G11",
+   "G12",
+   "G13",
+   "G14",
+   "SPDE01",
+   "SPDE02",
+   "SPDE03",
+   "SPDE04",
+   "SPDE05"
+  ]
+ },
+ {
+  "id": 250002540892,
+  "cargoCod": 7,
+  "cargo": "Deputado Estadual",
+  "nomeUrna": "ALESSANDRO DO CPP",
+  "nomeCompleto": "ALESSANDRO SOARES COSTA",
+  "numero": 55548,
+  "partido": "PSD",
+  "coligacao": "PSD",
+  "situacao": "Deferido",
+  "ocupacao": "Pedagogo",
+  "incumbente": false,
+  "arrecadado": 800500,
+  "anteriores": [],
+  "sites": [
+   "HTTPS://WWW.INSTAGRAM.COM/ALESSANDRODOCPP/",
+   "HTTPS://WWW.YOUTUBE.COM/@FALECOMALESSANDRODOCPP",
+   "https://www.facebook.com/professoralessandro/",
+   "HTTPS://WWW.TIKTOK.COM/@ALESSANDRODOCPP",
+   "HTTPS://ALESSANDRODOCPP.COM.BR"
+  ],
+  "posicoesExistentes": {},
+  "perguntasFaltando": [
+   "G01",
+   "G02",
+   "G03",
+   "G04",
+   "G05",
+   "G06",
+   "G07",
+   "G08",
+   "G09",
+   "G10",
+   "G11",
+   "G12",
+   "G13",
+   "G14",
+   "SPDE01",
+   "SPDE02",
+   "SPDE03",
+   "SPDE04",
+   "SPDE05"
+  ]
+ },
+ {
+  "id": 250002533735,
+  "cargoCod": 7,
+  "cargo": "Deputado Estadual",
+  "nomeUrna": "EDSON GIRIBONI",
+  "nomeCompleto": "EDSON DE OLIVEIRA GIRIBONI",
+  "numero": 44001,
+  "partido": "UNIÃO",
+  "coligacao": "FEDERAÇÃO UNIÃO PROGRESSISTA(44-UNIÃO/11-PP)",
+  "situacao": "Deferido",
+  "ocupacao": "Deputado",
+  "incumbente": false,
+  "arrecadado": 786288.49,
+  "anteriores": [
+   {
+    "ano": 2022,
+    "cargo": "Deputado Estadual",
+    "local": "SÃO PAULO",
+    "partido": "UNIÃO",
+    "resultado": "Suplente"
+   },
+   {
+    "ano": 2018,
+    "cargo": "Deputado Estadual",
+    "local": "SÃO PAULO",
+    "partido": "PV",
+    "resultado": "Suplente"
+   },
+   {
+    "ano": 2014,
+    "cargo": "Deputado Estadual",
+    "local": "SÃO PAULO",
+    "partido": "PV",
+    "resultado": "Eleito por QP"
+   },
+   {
+    "ano": 2010,
+    "cargo": "Deputado Estadual",
+    "local": "SÃO PAULO",
+    "partido": "PV",
+    "resultado": "Eleito"
+   }
+  ],
+  "sites": [
+   "HTTPS://X.COM/GIRIBONI",
+   "HTTPS://WWW.TIKTOK.COM/@EDSONGIRIBONI",
+   "HTTPS://WWW.INSTAGRAM.COM/EDSONGIRIBONI/",
+   "HTTPS://WWW.FACEBOOK.COM/DEPUTADOGIRIBONI",
+   "HTTPS://WWW.YOUTUBE.COM/@EDSONGIRIBONI6462"
+  ],
+  "posicoesExistentes": {},
+  "perguntasFaltando": [
+   "G01",
+   "G02",
+   "G03",
+   "G04",
+   "G05",
+   "G06",
+   "G07",
+   "G08",
+   "G09",
+   "G10",
+   "G11",
+   "G12",
+   "G13",
+   "G14",
+   "SPDE01",
+   "SPDE02",
+   "SPDE03",
+   "SPDE04",
+   "SPDE05"
+  ]
+ },
+ {
+  "id": 250002534135,
+  "cargoCod": 7,
+  "cargo": "Deputado Estadual",
+  "nomeUrna": "ALAN LEAL",
+  "nomeCompleto": "ALAN DOS SANTOS LEAL",
+  "numero": 25678,
+  "partido": "PRD",
+  "coligacao": "FEDERAÇÃO RENOVAÇÃO SOLIDÁRIA(25-PRD/77-SOLIDARIEDADE)",
+  "situacao": "Deferido",
+  "ocupacao": "Advogado",
+  "incumbente": false,
+  "arrecadado": 779235,
+  "anteriores": [
+   {
+    "ano": 2024,
+    "cargo": "Vereador",
+    "local": "SUMARÉ",
+    "partido": "PRD",
+    "resultado": "Eleito por QP"
+   },
+   {
+    "ano": 2020,
+    "cargo": "Vereador",
+    "local": "SUMARÉ",
+    "partido": "PATRIOTA",
+    "resultado": "Eleito por QP"
+   },
+   {
+    "ano": 2016,
+    "cargo": "Vereador",
+    "local": "SUMARÉ",
+    "partido": "PTB",
+    "resultado": "Suplente"
+   },
+   {
+    "ano": 2012,
+    "cargo": "Vereador",
+    "local": "SUMARÉ",
+    "partido": "PTN",
+    "resultado": "Não eleito"
+   }
+  ],
+  "sites": [
+   "https://WWW.ALANLEAL.COM.BR",
+   "HTTPS://WWW.INSTAGRAM.COM/ALANSLEAL_/"
+  ],
+  "posicoesExistentes": {},
+  "perguntasFaltando": [
+   "G01",
+   "G02",
+   "G03",
+   "G04",
+   "G05",
+   "G06",
+   "G07",
+   "G08",
+   "G09",
+   "G10",
+   "G11",
+   "G12",
+   "G13",
+   "G14",
+   "SPDE01",
+   "SPDE02",
+   "SPDE03",
+   "SPDE04",
+   "SPDE05"
+  ]
+ },
+ {
+  "id": 250002534269,
+  "cargoCod": 7,
+  "cargo": "Deputado Estadual",
+  "nomeUrna": "REINALDO ALGUZ",
+  "nomeCompleto": "REINALDO DE SOUZA ALGUZ",
+  "numero": 15363,
+  "partido": "MDB",
+  "coligacao": "MDB",
+  "situacao": "Deferido",
+  "ocupacao": "Engenheiro",
+  "incumbente": false,
+  "arrecadado": 770096.1,
+  "anteriores": [
+   {
+    "ano": 2022,
+    "cargo": "Deputado Federal",
+    "local": "SÃO PAULO",
+    "partido": "UNIÃO",
+    "resultado": "Suplente"
+   },
+   {
+    "ano": 2018,
+    "cargo": "Deputado Estadual",
+    "local": "SÃO PAULO",
+    "partido": "PV",
+    "resultado": "Eleito por QP"
+   },
+   {
+    "ano": 2014,
+    "cargo": "Deputado Estadual",
+    "local": "SÃO PAULO",
+    "partido": "PV",
+    "resultado": "Eleito por QP"
+   },
+   {
+    "ano": 2010,
+    "cargo": "Deputado Estadual",
+    "local": "SÃO PAULO",
+    "partido": "PV",
+    "resultado": "Eleito"
+   }
+  ],
+  "sites": [
+   "HTTPS://WWW.FACEBOOK.COM/SHARE/161GDEQHKCA/?MIBEXTID=WWXIFR",
+   "HTTPS://WWW.INSTAGRAM.COM/REINALDO.ALGUZ?IGSH=BDUWMJN3YWUXNM5T"
+  ],
+  "posicoesExistentes": {},
+  "perguntasFaltando": [
+   "G01",
+   "G02",
+   "G03",
+   "G04",
+   "G05",
+   "G06",
+   "G07",
+   "G08",
+   "G09",
+   "G10",
+   "G11",
+   "G12",
+   "G13",
+   "G14",
+   "SPDE01",
+   "SPDE02",
+   "SPDE03",
+   "SPDE04",
+   "SPDE05"
+  ]
+ },
+ {
+  "id": 250002534207,
+  "cargoCod": 7,
+  "cargo": "Deputado Estadual",
+  "nomeUrna": "PR ANDRE BUENO",
+  "nomeCompleto": "ANDRE LUIS BUENO",
+  "numero": 15777,
+  "partido": "MDB",
+  "coligacao": "MDB",
+  "situacao": "Deferido",
+  "ocupacao": "Empresário",
+  "incumbente": false,
+  "arrecadado": 769606.1,
+  "anteriores": [
+   {
+    "ano": 2022,
+    "cargo": "Deputado Estadual",
+    "local": "SÃO PAULO",
+    "partido": "PL",
+    "resultado": "Suplente"
+   },
+   {
+    "ano": 2018,
+    "cargo": "Deputado Estadual",
+    "local": "SÃO PAULO",
+    "partido": "PSB",
+    "resultado": "Suplente"
+   }
+  ],
+  "sites": [
+   "HTTPS://WWW.FACEBOOK.COM/BORABUENOSP",
+   "HTTP://BORABUENO.COM.BR/",
+   "HTTPS://WWW.TIKTOK.COM/@ANDREBUENOOFICIAL",
+   "HTTPS://WWW.FACEBOOK.COM/ANDREBUENOOFC1",
+   "HTTP://ANDREBUENOOFICIAL.COM.BR/",
+   "HTTPS://WWW.INSTAGRAM.COM/BORABUENOSP",
+   "HTTPS://X.COM/ANDREBUENOOFC",
+   "HTTPS://WWW.FACEBOOK.COM/ANDREBUENOOFC",
+   "HTTPS://WWW.TIKTOK.COM/@BORABUENOSP",
+   "HTTPS://WWW.YOUTUBE.COM/@ANDREBUENOOFICIAL",
+   "HTTPS://WWW.INSTAGRAM.COM/ANDREBUENOOFC",
+   "HTTPS://WWW.INSTAGRAM.COM/ANDREBUENOOFICIAL"
+  ],
+  "posicoesExistentes": {},
+  "perguntasFaltando": [
+   "G01",
+   "G02",
+   "G03",
+   "G04",
+   "G05",
+   "G06",
+   "G07",
+   "G08",
+   "G09",
+   "G10",
+   "G11",
+   "G12",
+   "G13",
+   "G14",
+   "SPDE01",
+   "SPDE02",
+   "SPDE03",
+   "SPDE04",
+   "SPDE05"
+  ]
+ },
+ {
+  "id": 250002536833,
+  "cargoCod": 7,
+  "cargo": "Deputado Estadual",
+  "nomeUrna": "DUDA HIDALGO",
+  "nomeCompleto": "MARIA EDUARDA ALENCAR HIDALGO",
+  "numero": 13180,
+  "partido": "PT",
+  "coligacao": "FEDERAÇÃO BRASIL DA ESPERANÇA - FE BRASIL(13-PT/65-PC do B/43-PV)",
+  "situacao": "Deferido",
+  "ocupacao": "Advogado",
+  "incumbente": false,
+  "arrecadado": 765654,
+  "anteriores": [
+   {
+    "ano": 2024,
+    "cargo": "Vereador",
+    "local": "RIBEIRÃO PRETO",
+    "partido": "PT",
+    "resultado": "Eleito por QP"
+   },
+   {
+    "ano": 2022,
+    "cargo": "Deputado Estadual",
+    "local": "SÃO PAULO",
+    "partido": "PT",
+    "resultado": "Suplente"
+   },
+   {
+    "ano": 2020,
+    "cargo": "Vereador",
+    "local": "RIBEIRÃO PRETO",
+    "partido": "PT",
+    "resultado": "Eleito por QP"
+   }
+  ],
+  "sites": [
+   "HTTPS://WWW.THREADS.COM/@DUDAHIDALGO13",
+   "HTTPS://DUDAHIDALGO.COM.BR/",
+   "HTTPS://WWW.TIKTOK.COM/@DUDAHIDALGO13",
+   "HTTPS://WWW.INSTAGRAM.COM/DUDAHIDALGO13/",
+   "http://www.youtube.com/@DudaHidalgo"
+  ],
+  "posicoesExistentes": {},
+  "perguntasFaltando": [
+   "G01",
+   "G02",
+   "G03",
+   "G04",
+   "G05",
+   "G06",
+   "G07",
+   "G08",
+   "G09",
+   "G10",
+   "G11",
+   "G12",
+   "G13",
+   "G14",
+   "SPDE01",
+   "SPDE02",
+   "SPDE03",
+   "SPDE04",
+   "SPDE05"
+  ]
+ },
+ {
+  "id": 250002536269,
+  "cargoCod": 7,
+  "cargo": "Deputado Estadual",
+  "nomeUrna": "JESSY DAYANE",
+  "nomeCompleto": "JESSY DAYANE SILVA SANTOS",
+  "numero": 13713,
+  "partido": "PT",
+  "coligacao": "FEDERAÇÃO BRASIL DA ESPERANÇA - FE BRASIL(13-PT/65-PC do B/43-PV)",
+  "situacao": "Deferido",
+  "ocupacao": "Outros",
+  "incumbente": false,
+  "arrecadado": 755483,
+  "anteriores": [],
+  "sites": [
+   "HTTPS://JESSYDAYANE2026.COM.BR",
+   "https://INSTAGRAM: @JESSYDAYANE"
+  ],
+  "posicoesExistentes": {},
+  "perguntasFaltando": [
+   "G01",
+   "G02",
+   "G03",
+   "G04",
+   "G05",
+   "G06",
+   "G07",
+   "G08",
+   "G09",
+   "G10",
+   "G11",
+   "G12",
+   "G13",
+   "G14",
+   "SPDE01",
+   "SPDE02",
+   "SPDE03",
+   "SPDE04",
+   "SPDE05"
+  ]
+ },
+ {
+  "id": 250002540921,
+  "cargoCod": 7,
+  "cargo": "Deputado Estadual",
+  "nomeUrna": "PAULA LEMOS",
+  "nomeCompleto": "PAULA OLIVEIRA LEMOS",
+  "numero": 55588,
+  "partido": "PSD",
+  "coligacao": "PSD",
+  "situacao": "Deferido",
+  "ocupacao": "Advogado",
+  "incumbente": false,
+  "arrecadado": 754466.41,
+  "anteriores": [
+   {
+    "ano": 2020,
+    "cargo": "Prefeito",
+    "local": "BARRETOS",
+    "partido": "DEM",
+    "resultado": "Eleito"
+   },
+   {
+    "ano": 2016,
+    "cargo": "Vereador",
+    "local": "BARRETOS",
+    "partido": "PSB",
+    "resultado": "Eleito por QP"
+   },
+   {
+    "ano": 2012,
+    "cargo": "Vereador",
+    "local": "BARRETOS",
+    "partido": "PC do B",
+    "resultado": "Eleito por QP"
+   }
+  ],
+  "sites": [
+   "https://www.tiktok.com/@paulalemosbarretos",
+   "HTTPS://WWW.INSTAGRAM.COM/PAULALEMOSBARRETOS/",
+   "https://www.youtube.com/paulalemosbarretos",
+   "https://www.facebook.com/paulalemos/",
+   "https://www.instagram.com/paulalemosbarretos",
+   "https://web.facebook.com/paulalemosbarretos"
+  ],
+  "posicoesExistentes": {},
+  "perguntasFaltando": [
+   "G01",
+   "G02",
+   "G03",
+   "G04",
+   "G05",
+   "G06",
+   "G07",
+   "G08",
+   "G09",
+   "G10",
+   "G11",
+   "G12",
+   "G13",
+   "G14",
+   "SPDE01",
+   "SPDE02",
+   "SPDE03",
+   "SPDE04",
+   "SPDE05"
+  ]
+ },
+ {
+  "id": 250002536377,
+  "cargoCod": 7,
+  "cargo": "Deputado Estadual",
+  "nomeUrna": "FRANCO SARDELLI",
+  "nomeCompleto": "FRANCO RAVERA SARDELLI",
+  "numero": 22001,
+  "partido": "PL",
+  "coligacao": "PL",
+  "situacao": "Deferido",
+  "ocupacao": "Advogado",
+  "incumbente": false,
+  "arrecadado": 752000,
+  "anteriores": [],
+  "sites": [
+   "https://WWW.FRANCOSARDELLI.COM.BR",
+   "HTTPS://WWW.INSTAGRAM.COM/FRANCO_SARDELLI/",
+   "HTTPS://WWW.INSTAGRAM.COM/FRANCO_SARDELLI?IGSH=MWSWNG52DDZZNG1WBQ==",
+   "HTTPS://WWW.FACEBOOK.COM/FRANCORAVERASARDELLI"
+  ],
+  "posicoesExistentes": {},
+  "perguntasFaltando": [
+   "G01",
+   "G02",
+   "G03",
+   "G04",
+   "G05",
+   "G06",
+   "G07",
+   "G08",
+   "G09",
+   "G10",
+   "G11",
+   "G12",
+   "G13",
+   "G14",
+   "SPDE01",
+   "SPDE02",
+   "SPDE03",
+   "SPDE04",
+   "SPDE05"
+  ]
+ },
+ {
+  "id": 250002548912,
+  "cargoCod": 7,
+  "cargo": "Deputado Estadual",
+  "nomeUrna": "POLICIAL RODOLFO DONETTI",
+  "nomeCompleto": "RODOLFO SILVA DONETTI",
+  "numero": 23022,
+  "partido": "CIDADANIA",
+  "coligacao": "FEDERAÇÃO PSDB CIDADANIA(45-PSDB/23-CIDADANIA)",
+  "situacao": "Deferido",
+  "ocupacao": "Policial Militar",
+  "incumbente": false,
+  "arrecadado": 751958.85,
+  "anteriores": [
+   {
+    "ano": 2024,
+    "cargo": "Vereador",
+    "local": "SANTO ANDRÉ",
+    "partido": "CIDADANIA",
+    "resultado": "Eleito por QP"
+   },
+   {
+    "ano": 2020,
+    "cargo": "Vereador",
+    "local": "SANTO ANDRÉ",
+    "partido": "CIDADANIA",
+    "resultado": "Eleito por QP"
+   },
+   {
+    "ano": 2016,
+    "cargo": "Vereador",
+    "local": "SANTO ANDRÉ",
+    "partido": "PPS",
+    "resultado": "Eleito por QP"
+   }
+  ],
+  "sites": [
+   "HTTPS://WWW.INSTAGRAM.COM/RODOLFODONETTI/",
+   "HTTPS://WWW.FACEBOOK.COM/RODOLFODONETTI.OFICIAL"
+  ],
+  "posicoesExistentes": {},
+  "perguntasFaltando": [
+   "G01",
+   "G02",
+   "G03",
+   "G04",
+   "G05",
+   "G06",
+   "G07",
+   "G08",
+   "G09",
+   "G10",
+   "G11",
+   "G12",
+   "G13",
+   "G14",
+   "SPDE01",
+   "SPDE02",
+   "SPDE03",
+   "SPDE04",
+   "SPDE05"
+  ]
+ },
+ {
+  "id": 250002540581,
+  "cargoCod": 7,
+  "cargo": "Deputado Estadual",
+  "nomeUrna": "TRIPOLI",
+  "nomeCompleto": "JOSE RICARDO ALVARENGA TRIPOLI",
+  "numero": 55065,
+  "partido": "PSD",
+  "coligacao": "PSD",
+  "situacao": "Deferido",
+  "ocupacao": "Advogado",
+  "incumbente": false,
+  "arrecadado": 745407.41,
+  "anteriores": [
+   {
+    "ano": 2022,
+    "cargo": "Deputado Federal",
+    "local": "SÃO PAULO",
+    "partido": "PSDB",
+    "resultado": "Suplente"
+   },
+   {
+    "ano": 2018,
+    "cargo": "Senador",
+    "local": "SÃO PAULO",
+    "partido": "PSDB",
+    "resultado": "Não eleito"
+   },
+   {
+    "ano": 2014,
+    "cargo": "Deputado Federal",
+    "local": "SÃO PAULO",
+    "partido": "PSDB",
+    "resultado": "Eleito por QP"
+   },
+   {
+    "ano": 2010,
+    "cargo": "Deputado Federal",
+    "local": "SÃO PAULO",
+    "partido": "PSDB",
+    "resultado": "Eleito"
+   }
+  ],
+  "sites": [
+   "HTTPS://WWW.YOUTUBE.COM/USER/RICARDOTRIPOLI",
+   "HTTPS://WWW.TIKTOK.COM/@TRIPOLIOFICIAL",
+   "HTTPS://WWW.INSTAGRAM.COM/TRIPOLIOFICIAL/",
+   "HTTPS://WWW.TRIPOLIOFICIAL.COM.BR",
+   "HTTPS://WWW.LINKEDIN.COM/IN/RICARDO-TRIPOLI",
+   "https://www.facebook.com/ricardotripoli/"
+  ],
+  "posicoesExistentes": {
+   "G01": {
+    "v": 4,
+    "conf": "voto",
+    "nota": "Votou Sim em PEC 241/2016 (teto de gastos), 2º turno (25/10/2016)."
+   }
+  },
+  "perguntasFaltando": [
+   "G02",
+   "G03",
+   "G04",
+   "G05",
+   "G06",
+   "G07",
+   "G08",
+   "G09",
+   "G10",
+   "G11",
+   "G12",
+   "G13",
+   "G14",
+   "SPDE01",
+   "SPDE02",
+   "SPDE03",
+   "SPDE04",
+   "SPDE05"
+  ]
+ }
+]

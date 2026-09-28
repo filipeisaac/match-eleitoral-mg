@@ -2,3 +2,6 @@ node_modules/
 public/app.js
 .DS_Store
 data/logs/
+data/sp/logs/
+data/raw/camara_cache.json
+data/sp/raw/camara_cache.json

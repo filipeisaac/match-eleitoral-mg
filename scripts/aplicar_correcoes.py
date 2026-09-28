@@ -121,7 +121,7 @@ print("correções aplicadas")
 def definir_onde(nome, q, **campos):
     """Aplica a correção no arquivo de pesquisa que tem essa pergunta para o candidato."""
     for arq in sorted(POS.glob("*.json")):
-        if arq.name in ("partidos.json", "camara_votos.json"):
+        if arq.name.startswith(("partidos", "camara_votos")):
             continue
         lista = json.loads(arq.read_text())
         for c in lista:
@@ -146,3 +146,104 @@ correcoes_deputados = [
 for nome, q, campos in correcoes_deputados:
     arq = definir_onde(nome, q, **campos)
     print(f"{nome} {q}: {arq or 'NÃO ENCONTRADO'}")
+
+
+# ---------- Contexto das perguntas de SP (checagem de 27/09/2026) ----------
+q = json.loads((DATA / "questions.json").read_text())
+sp = q["estados"]["SP"]
+contextos_sp = {
+    "SPGV01": "A Sabesp foi privatizada em 2024, e o estado concedeu rodovias e linhas de trem da CPTM. Em julho de 2026, após falhas, três linhas recém-concedidas voltaram temporariamente à operação da CPTM.",
+    "SPGV02": "A PM paulista adotou em 2020 câmeras com gravação contínua. Em 2024 o governo passou a um modelo de gravação acionada, e um acordo homologado pelo STF em 2025 criou o acionamento remoto e automático.",
+    "SPGV03": "As Operações Escudo e Verão, entre 2023 e 2024, deixaram 84 mortos na Baixada Santista. O governo destaca as mais de 2 mil prisões; críticos apontam abusos e execuções.",
+    "SPGV04": "Nessas escolas, policiais militares atuam como monitores de disciplina e professores civis cuidam do ensino. A lei é de 2024, 100 escolas adotaram o modelo em 2026, e o STF ainda julga se ela é válida.",
+    "SPGV06": "A lei permite internar dependentes químicos contra a vontade em casos específicos, com laudo médico. O tema ganhou força com a Cracolândia, no centro da capital, e divide especialistas em saúde e segurança.",
+    "SPDE01": "A Alesp aprovou a privatização da Sabesp em dezembro de 2023, sem consulta popular, e a venda foi concluída em 2024. A oposição defendia um plebiscito.",
+    "SPDE04": "Em 2026 a passagem do Metrô e da CPTM subiu para R$ 5,40, e o estado previu cerca de R$ 5,1 bilhões para cobrir a diferença entre a tarifa e o custo do sistema.",
+    "SPDE05": "O estado comanda as polícias e o sistema prisional. Em 2026 a segurança tem R$ 21,1 bilhões no orçamento, contra R$ 37,9 bilhões da saúde e R$ 33,3 bilhões da educação, que têm gastos mínimos obrigatórios.",
+}
+textos_sp = {"SPGV06": "A internação involuntária de dependentes químicos deve ser ampliada."}
+for secao in (sp["governador"], sp["deputado_estadual"]):
+    for p in secao["perguntas"]:
+        if p["id"] in contextos_sp:
+            p["contexto"] = contextos_sp[p["id"]]
+        if p["id"] in textos_sp:
+            p["texto"] = textos_sp[p["id"]]
+(DATA / "questions.json").write_text(json.dumps(q, ensure_ascii=False, indent=2))
+print("contextos de SP atualizados")
+
+
+# ---------- SP: voto "Não" no PDL do Conanda não é posição sobre descriminalizar o aborto ----------
+# Mesmo critério de MG: defender o aborto nos casos já legais não é defender a descriminalização (G05).
+SP_POS = DATA / "sp" / "positions"
+arq = SP_POS / "sp_fed_inc.json"
+if arq.exists():
+    lista = json.loads(arq.read_text())
+    removidas = 0
+    for c in lista:
+        g05 = c.get("posicoes", {}).get("G05")
+        if g05 and g05.get("conf") == "voto" and "2482078-57" in (g05.get("fonte") or "") and g05.get("v", 0) >= 3:
+            del c["posicoes"]["G05"]
+            removidas += 1
+    arq.write_text(json.dumps(lista, ensure_ascii=False, indent=1))
+    print(f"SP G05 (Conanda, voto Não): {removidas} removidas")
+
+
+# ---------- Votações que não medem a afirmação (revisão de 27/09/2026, vale para MG e SP) ----------
+def cita(p, *marcas):
+    txt = (p.get("fonte") or "") + " " + (p.get("nota") or "")
+    return any(m in txt for m in marcas)
+
+PEC221 = ("2233802", "PEC 221")          # fim da 6x1: 472 a 22, quase unânime
+DOSIMETRIA = ("2358548", "osimetria")     # 10/12/2025: reduz penas, sem anistia
+
+# Partidos: G14 vinda da votação quase unânime da PEC 221 sai.
+arq = POS / "partidos.json"
+partidos = json.loads(arq.read_text())
+n = 0
+for sigla, pos in partidos.items():
+    if "G14" in pos and cita(pos["G14"], *PEC221):
+        del pos["G14"]; n += 1
+arq.write_text(json.dumps(partidos, ensure_ascii=False, indent=1))
+print(f"partidos: G14 da PEC 221 removida de {n}")
+
+for pasta in (POS, DATA / "sp" / "positions"):
+    for arq in sorted(pasta.glob("*.json")):
+        if arq.name.startswith(("partidos", "camara_votos", "alesp_sabesp")):
+            continue
+        lista = json.loads(arq.read_text())
+        mudou = []
+        for c in lista:
+            pos = c.get("posicoes", {})
+            g14 = pos.get("G14")
+            if g14 and g14.get("conf") == "voto" and cita(g14, *PEC221):
+                del pos["G14"]; mudou.append(f"{c['nomeUrna']} G14 removida")
+            g08 = pos.get("G08")
+            if g08 and g08.get("conf") == "voto" and cita(g08, *DOSIMETRIA):
+                # Só votos: dosimetria Sim = 3, Não = 2; combinado com a urgência da anistia, fica na média.
+                if g08["v"] == 4 and "urgência" not in (g08.get("nota") or "") and "coautor" not in (g08.get("nota") or ""):
+                    g08["v"] = 3; mudou.append(f"{c['nomeUrna']} G08 4->3")
+                elif g08["v"] == 1:
+                    g08["v"] = 2; mudou.append(f"{c['nomeUrna']} G08 1->2")
+        if mudou:
+            arq.write_text(json.dumps(lista, ensure_ascii=False, indent=1))
+            print(f"{arq.name}: {'; '.join(mudou)}")
+
+# ---------- SP: casos das notas de revisão ----------
+# Criticar um julgamento específico do STF não é dizer que o tribunal extrapola seus poderes (mesmo critério de MG).
+def definir_onde_sp(nome, q, **campos):
+    for arq in sorted((DATA / "sp" / "positions").glob("sp_*.json")):
+        lista = json.loads(arq.read_text())
+        for c in lista:
+            if c.get("nomeUrna") == nome and q in c.get("posicoes", {}):
+                if campos.get("omitir"):
+                    del c["posicoes"][q]
+                else:
+                    c["posicoes"][q].update(campos)
+                arq.write_text(json.dumps(lista, ensure_ascii=False, indent=1))
+                return arq.name
+    return None
+
+print("PR ANDRE BUENO G09:", definir_onde_sp("PR ANDRE BUENO", "G09", omitir=True) or "já sem G09")
+# Apoiar o fim da 6x1 com ressalvas sobre o custo é posição mista (mesmo critério de André do Prado).
+print("SONINHA FRANCINE G14:", definir_onde_sp("SONINHA FRANCINE", "G14", v=3,
+      nota="Diz ser a favor do fim da 6x1 com ressalvas; no debate de 23/09/2026 levantou preocupação com os custos. Posição mista."))

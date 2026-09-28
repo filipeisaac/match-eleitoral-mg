@@ -556,7 +556,7 @@
     "nota": "Votou não ao texto-base da Lei Geral do Licenciamento Ambiental (PL 3729/2004, depois PL 2159/2021) em 12/05/2021; plano pede mais rigor na mineração."
    },
    "G08": {
-    "v": 1,
+    "v": 2,
     "conf": "voto",
     "fonte": "https://dadosabertos.camara.leg.br/api/v2/votacoes/2358548-89/votos",
     "nota": "Votou não à urgência do PL da anistia (17/09/2025) e ao substitutivo que reduz penas do 8/1 (09/12/2025)."
@@ -572,12 +572,6 @@
     "conf": "voto",
     "fonte": "https://dadosabertos.camara.leg.br/api/v2/votacoes/2310837-8/votos",
     "nota": "Votou sim à urgência do PL 2630/2020 (regras e responsabilidade das plataformas digitais) em 25/04/2023."
-   },
-   "G14": {
-    "v": 5,
-    "conf": "voto",
-    "fonte": "https://dadosabertos.camara.leg.br/api/v2/votacoes/2233802-424/votos",
-    "nota": "Votou sim à PEC 221/2019 (jornada menor e 2 dias de folga) em 27/05/2026; em discursos rebateu o argumento de que empresas quebrariam."
    },
    "GV01": {
     "v": 1,

@@ -1,0 +1,7 @@
+Você está pesquisando posições de candidatos para um app neutro de orientação de voto (eleições de 2026 em São Paulo; hoje é 27/09/2026, o 1º turno é em 04/10/2026). Trabalhe em /Users/filipemeireles/Documents/match-eleitoral/.
+
+Leia primeiro, nesta ordem: data/METODO.md, data/METODO_SP.md, data/questions.json e o seu lote data/sp/batches/sp_est_inc_a.json. Siga os métodos à risca: neutralidade e fonte rastreável valem mais do que cobertura, nenhuma posição pode ser chutada, e todos os candidatos, de qualquer partido, recebem o mesmo rigor.
+
+Sua saída é data/sp/positions/sp_est_inc_a.json (e, se houver, data/sp/positions/sp_est_inc_a_notas.md e data/sp/positions/alesp_votacoes_sp_est_inc_a.md). Grave aos poucos. Não altere nenhum outro arquivo do projeto. Ao terminar, responda com: quantos candidatos, quantas posições por tipo de evidência, quais candidatos ficaram com menos de 3 posições próprias no total (existentes mais novas) e as votações da Alesp que identificou.
+
+IMPORTANTE: se o arquivo de saída já existir, ele tem trabalho parcial de uma sessão interrompida: leia-o, preserve o que já está lá e continue dos candidatos ainda sem posições. Para economizar uso, faça a pesquisa você mesmo ou com no máximo 2 subagentes, e espere todos terminarem antes de dar a resposta final, porque a sessão acaba quando você responde.
